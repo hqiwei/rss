@@ -137,6 +137,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12098",
+          "author": "TiDB_Robot",
+          "description": "作者介绍：童牧。\n绪论\n在程序员的生涯中，bug 一直伴随着我们，虽然我们期望写出完美的程序，但是再优秀的程序员也无法保证自己能够不写出 bug。因此，我们为程序编写测试，通过提前发现 bug 来提高最终交付程序的质量。我从在 PingCAP 的工作中感受到，做好数据库和做好数据库测试是密不可分的，本次分享，我们将在第一讲的事务隔离级别的基础上，对数据库事务的测试进行研究，主要讲述，在 PingCAP 我们是如何保证事务的正确性的。\n因为我们保证事务正确性的方法比较多，所以本次我们会着重讲解 Jepsen 和 Elle，而其他方法则是作为补充，我也会简单说明他们的做法和优缺点。我将事务测试的方法划分为以下几个类别：\n理论正确性的验证\n\n\n基于不变量的正确性验证\n\n\n对执行历史进行检查的验证\n\n\n辅助测试手段\n\n\n回顾 Percolator 提交协议\nPercolator\n在开始讲述测试方法前，我们先对 Percolator 提交协议进行回顾，感受一下这一协议下的复杂性。Percolator 提交协议使用 2PC 的提交方式来保证事务的原子性，但是在 shared-nothing 架构下，没有一个节点有全局的事…",
+          "link": "https://gocn.vip/topics/12098",
+          "publishedOn": "2021-05-21T03:21:51.000Z",
+          "wordCount": 1328,
+          "title": "事务前沿研究丨事务测试体系解析"
+        },
+        {
           "id": "https://gocn.vip/topics/12097",
           "author": "Bellabellabella",
           "description": "OpsMind 定位于一家 IT 运维管理技术服务商，ToB 的业务，致力于在云原生时代为企业客户提供包括全栈监控告警、多云管理平台、资源配置管理系统、自动化作业平台、发布流程管理等完整运维管理解决方案，降低企业运维成本。 核心团队成员分别来自头条、腾讯、七牛云、UCloud、百度、京东等知名技术公司。目前客户主要涵盖了游戏行业、金融、零售、出海电商、互联网，目前公司已经盈利并处于爆发式增长阶段， 欢迎了解我们的机会，可以登录我们业务网站看我们的产品和我们的客户情况 www.opsmind.com\n我们目前急需前端开发和前端开发专家的人选，golang 工程师，薪资 25-60Kbase 有期权 ，目前公司资金充足，欢迎想做牛 B 产品的技术来加入我们\n前端开发 JD\n工作内容：\n1、负责 OpsMind 产品前端技术选型、基础技术框架的设计、研发及维护；\n2、负责界面构建、兼容、优化，与后台开发设计人员的协同配合;\n3、 编写与工作相关的技术文件。\n工作要求：\n1、本科学历，计算机类相关专业，2 年以上工作经验；（优秀者学历&经验不限）\n2、精通 JavaScript，熟悉 HTML、CSS，深入理解各种前…",
@@ -517,6 +526,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/142514",
+          "author": null,
+          "description": "5月20日，2021 OPPO广告联盟峰会在北京圆满举办。本次峰会以“在一起，焕启增长”为主题，与现场各位开发者分享OPPO对广告联盟业务的再思考，并带来首次品牌焕新、产品及服务能力的升级 ，现场还发布了「开发者守望计划」，携手行业共同展望联盟未来，焕启增长的无限可能。 同时，峰会还特邀动能无线VP侯思宇、芒果TV程序...",
+          "link": "https://www.oschina.net/news/142514",
+          "publishedOn": "2021-05-21T02:51:50.000Z",
+          "wordCount": 471,
+          "title": "2021 OPPO 广告联盟峰会圆满举办丨拥抱联盟新生态，打造融合增长平台"
+        },
         {
           "id": "https://www.oschina.net/news/142507/wave-summit-2021-news",
           "author": null,
