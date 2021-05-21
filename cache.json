@@ -518,6 +518,24 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/142507/wave-summit-2021-news",
+          "author": null,
+          "description": "5月20日，由深度学习技术及应用国家工程实验室与百度联合主办的 WAVE SUMMIT 2021深度学习开发者峰会在北京召开。 百度首席技术官、深度学习技术及应用国家工程实验室主任王海峰在峰会上致辞。王海峰透露，飞桨已凝聚320万开发者，相比1年前增长近70%；服务的企事业单位达到12万家。 王海峰也分享了在现阶段关于人工智能...",
+          "link": "https://www.oschina.net/news/142507/wave-summit-2021-news",
+          "publishedOn": "2021-05-21T02:37:18.000Z",
+          "wordCount": 473,
+          "title": "融合创新，降低门槛，飞桨推动人工智能走通工业大生产之路"
+        },
+        {
+          "id": "https://www.oschina.net/news/142478",
+          "author": null,
+          "description": "报告编号：B6-2021-051703 报告来源：360CERT 报告作者：360CERT 更新日期：2021-05-17 1 漏洞简述 2021年05月17日，360CERT监测发现XStream官网发布了XStream安全更新，漏洞编号为CVE-2021-29505，漏洞等级：严重，漏洞评分：9.8。 XStream是一种OXMapping技术，是用来处理XML文件序列化的框架,在将javaBean序列化，或将...",
+          "link": "https://www.oschina.net/news/142478",
+          "publishedOn": "2021-05-21T02:05:36.000Z",
+          "wordCount": 482,
+          "title": "CVE-2021-29505：XStream 远程代码执行漏洞通告"
+        },
+        {
           "id": "https://www.oschina.net/news/142464/android-exposed-the-data-of-over-100-million-users",
           "author": null,
           "description": "网络安全公司 Check Point Research 在周四发表了一份报告，在这份报告中 Check Point Research 表示，至少有 23 个热门的 Android 应用程序包含各种「第三方云服务的错误配置」。而这些严重的云服务错误配置，导致超过 1 亿用户的个人数据被泄漏。 云服务如今已被各种在线服务和应用程序广泛使用，而且在疫情的影响下，...",
