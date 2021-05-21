@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T12:16:44.717Z</updated>
+    <updated>2021-05-21T13:26:16.503Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -543,6 +543,16 @@ Percolator
         <link href="http://www.dayanzai.me/ashampoo.html"/>
         <updated>2021-05-20T16:42:50.000Z</updated>
         <summary type="html"><![CDATA[Ashampoo 是软件开发、销售和 Web 门户站点领域的全球领先互联网企业之一。Ashampoo 制造的众 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软官方 MSDN Windows 10 21H1 ISO 原版镜像下载]]></title>
+        <id>http://www.dayanzai.me/?p=36725</id>
+        <link href="http://www.dayanzai.me/windows-10-21h1.html"/>
+        <updated>2021-05-20T16:33:20.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 终于发布了 Windows 2021 年 5 月 10 日更新（版本 21H1）。 Win […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
         </author>
