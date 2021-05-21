@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T14:11:22.817Z</updated>
+    <updated>2021-05-21T15:11:39.753Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[用 Pulp 托管你的容器注册中心的 5 个理由]]></title>
+        <id>http://www.linuxeden.com/?p=85588</id>
+        <link href="http://www.linuxeden.com/a/85588"/>
+        <updated>2021-05-21T15:05:30.000Z</updated>
+        <summary type="html"><![CDATA[有很多令人信服的理由来用 Pulp 来托管你自己的容器注册中心。下面是其中的一些。 Linux 容器极大地简化了软件发布。将一个应用程序与它运行所需的一切打包的能力有助于提高环境的稳定性和可重复性。 虽然有许多公共注册中心可以上传、管理和分 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[成都][腾讯 | 王者荣耀] Go 开发工程师]]></title>
+        <id>https://gocn.vip/topics/12104</id>
+        <link href="https://gocn.vip/topics/12104"/>
+        <updated>2021-05-21T15:02:45.000Z</updated>
+        <summary type="html"><![CDATA[团队介绍：
+腾讯互娱（IEG）天美 L1 工作室，王者荣耀项目组
+职位一：开悟平台-go 后台开发工程师
+职位描述：
+与产品经理一起深刻分析产品形态和用户诉求
+设计具有前瞻性的系统架构和实现方案，高质量完成产品落地
+岗位要求：
+计算机相关专业本科及以上学历
+3 年以上服务器端开发经验
+理解计算机原理，有良好的的算法数据结构基础，精通 Go 语言及其开发生态
+熟悉高可用、高并发、高性能分布式系统的设计与实现，对常见消息、存储系统有较好的理解
+良好的沟通能力、学习能力、团队协作能力
+加分项：
+有一定团队管理经验，能够主动推进业务迭代
+职位二：王者营地 go 后台开发工程师
+职位描述：
+负责王者营地 App 服务器端开发
+负责服务器端的架构设计和性能优化
+岗位要求：
+计算机相关专业本科及以上学历
+3 年以上后端开发经验，至少 1 年以上 Go 开发经验
+熟练掌握 Go 常用框架特性原理和实现细节
+熟悉 grpc，熟练掌握 mysql redis 等数据库
+熟悉 tcp/ip http 等网络通信协议
+拥有良好的代码习惯，熟悉单元测试编写
+加分项：
+有社区类 App 开发经验
+参与过社区大型开源项目
+简历投递：
+邮箱…]]></summary>
+        <author>
+            <name>caibirdme</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.13还原及修复明尼苏达大学的问题补丁]]></title>
+        <id>http://www.linuxeden.com/?p=85583</id>
+        <link href="http://www.linuxeden.com/a/85583"/>
+        <updated>2021-05-21T14:40:20.000Z</updated>
+        <summary type="html"><![CDATA[一个月前，明尼苏达大学被禁止为Linux内核做贡献，因为该大学的研究人员被发现试图通过新的补丁故意向内核提交错误，而使这个过程作为一篇有问题的研究论文的一部分这种不诚实甚至恶意行为而引发轩然大波。近期Linux内核开发者终于完成了对所有来自 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Boot 2.5发布]]></title>
+        <id>http://www.linuxeden.com/?p=85581</id>
+        <link href="http://www.linuxeden.com/a/85581"/>
+        <updated>2021-05-21T14:24:25.000Z</updated>
+        <summary type="html"><![CDATA[On behalf of the Spring Boot team and everyone that has contributed, I am pleased to announce that Spring Boot 2.5.0 has […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源贡献文化席卷而来，其背后动机是什么？｜TARS 电子书]]></title>
         <id>https://www.oschina.net/news/142615</id>
