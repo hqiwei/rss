@@ -1,6 +1,103 @@
 {
   "sources": [
     {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news",
+      "articles": [
+        {
+          "id": "60a6b3ab906c5207e3a7f5fa",
+          "author": "",
+          "description": "Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation",
+          "link": "https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/",
+          "publishedOn": "2021-05-20T19:14:48.000Z",
+          "wordCount": 397,
+          "title": "Angular 11 Tutorial: Code a Project from Scratch"
+        },
+        {
+          "id": "60a694ab906c5207e3a7f544",
+          "author": "",
+          "description": "A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an",
+          "link": "https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/",
+          "publishedOn": "2021-05-20T17:12:29.000Z",
+          "wordCount": 436,
+          "title": "Learn Modern C++ by Building an Audio Plugin"
+        },
+        {
+          "id": "60a4b5c7906c5207e3a7e2bb",
+          "author": "",
+          "description": "In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets",
+          "link": "https://www.freecodecamp.org/news/get-started-with-version-control-and-git/",
+          "publishedOn": "2021-05-20T15:20:53.000Z",
+          "wordCount": 1493,
+          "title": "How to Get Started with Version Control Using Git"
+        },
+        {
+          "id": "60a36742906c5207e3a7da6e",
+          "author": "",
+          "description": "Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most",
+          "link": "https://www.freecodecamp.org/news/learn-javascript-interactive-course/",
+          "publishedOn": "2021-05-20T14:53:38.000Z",
+          "wordCount": 1202,
+          "title": "Learn JavaScript - A Free 7-hour Interactive Tutorial"
+        },
+        {
+          "id": "60a341f5906c5207e3a7da61",
+          "author": "",
+          "description": "CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been",
+          "link": "https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/",
+          "publishedOn": "2021-05-19T23:17:21.000Z",
+          "wordCount": 2742,
+          "title": "How to Use CSS Selectors to Style Your Web Page"
+        },
+        {
+          "id": "60a42386906c5207e3a7dfe2",
+          "author": "",
+          "description": "The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.",
+          "link": "https://www.freecodecamp.org/news/what-is-web3/",
+          "publishedOn": "2021-05-19T21:09:01.000Z",
+          "wordCount": 2087,
+          "title": "What is Web3? The Decentralized Internet of the Future Explained"
+        },
+        {
+          "id": "60a469ec906c5207e3a7e1b9",
+          "author": "",
+          "description": "Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second",
+          "link": "https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/",
+          "publishedOn": "2021-05-19T17:30:08.000Z",
+          "wordCount": 1981,
+          "title": "How to Optimize for Change in Software Development"
+        },
+        {
+          "id": "60a53182906c5207e3a7e588",
+          "author": "",
+          "description": "Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really",
+          "link": "https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/",
+          "publishedOn": "2021-05-18T21:04:00.000Z",
+          "wordCount": 2258,
+          "title": "How to Break into Ethereum, Crypto, and Web3 as a Developer"
+        },
+        {
+          "id": "60a3780f906c5207e3a7db5f",
+          "author": "",
+          "description": "If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? \"Well, I just bill by the hour and send an invoice every week or month.\" ...I hear you say.",
+          "link": "https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/",
+          "publishedOn": "2021-05-18T17:12:59.000Z",
+          "wordCount": 1973,
+          "title": "Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?"
+        },
+        {
+          "id": "6068f146d5756f080ba9402d",
+          "author": "",
+          "description": "Yes, you can learn to code for free, from the convenience of your own home, and at your own pace. I'm going to show you 101 courses where you can learn computer science and programming for free.  The freeCodeCamp courses are completely free and some of them include a free",
+          "link": "https://www.freecodecamp.org/news/coding-programs-101-ways-to-learn-to-code-for-free/",
+          "publishedOn": "2021-05-18T16:50:36.000Z",
+          "wordCount": 3309,
+          "title": "Coding Programs – 101 Ways to Learn to Code for Free"
+        }
+      ]
+    },
+    {
       "title": "阮一峰的网络日志",
       "feedUrl": "http://www.ruanyifeng.com/blog/atom.xml",
       "siteUrl": "http://www.ruanyifeng.com/blog/",
