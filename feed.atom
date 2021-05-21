@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T01:40:45.171Z</updated>
+    <updated>2021-05-21T01:52:16.929Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[招聘 - 上海-Opsmind(上海零米信息科技）招聘前端开发工程师 & Golang 后端开发工程师]]></title>
+        <id>https://gocn.vip/topics/12097</id>
+        <link href="https://gocn.vip/topics/12097"/>
+        <updated>2021-05-21T01:24:45.000Z</updated>
+        <summary type="html"><![CDATA[OpsMind 定位于一家 IT 运维管理技术服务商，ToB 的业务，致力于在云原生时代为企业客户提供包括全栈监控告警、多云管理平台、资源配置管理系统、自动化作业平台、发布流程管理等完整运维管理解决方案，降低企业运维成本。 核心团队成员分别来自头条、腾讯、七牛云、UCloud、百度、京东等知名技术公司。目前客户主要涵盖了游戏行业、金融、零售、出海电商、互联网，目前公司已经盈利并处于爆发式增长阶段， 欢迎了解我们的机会，可以登录我们业务网站看我们的产品和我们的客户情况 www.opsmind.com
+我们目前急需前端开发和前端开发专家的人选，golang 工程师，薪资 25-60Kbase 有期权 ，目前公司资金充足，欢迎想做牛 B 产品的技术来加入我们
+前端开发 JD
+工作内容：
+1、负责 OpsMind 产品前端技术选型、基础技术框架的设计、研发及维护；
+2、负责界面构建、兼容、优化，与后台开发设计人员的协同配合;
+3、 编写与工作相关的技术文件。
+工作要求：
+1、本科学历，计算机类相关专业，2 年以上工作经验；（优秀者学历&经验不限）
+2、精通 JavaScript，熟悉 HTML、CSS，深入理解各种前…]]></summary>
+        <author>
+            <name>Bellabellabella</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 应用因云端配置错误，致使上亿用户数据泄漏]]></title>
+        <id>https://www.oschina.net/news/142464/android-exposed-the-data-of-over-100-million-users</id>
+        <link href="https://www.oschina.net/news/142464/android-exposed-the-data-of-over-100-million-users"/>
+        <updated>2021-05-21T00:55:36.000Z</updated>
+        <summary type="html"><![CDATA[网络安全公司 Check Point Research 在周四发表了一份报告，在这份报告中 Check Point Research 表示，至少有 23 个热门的 Android 应用程序包含各种「第三方云服务的错误配置」。而这些严重的云服务错误配置，导致超过 1 亿用户的个人数据被泄漏。 云服务如今已被各种在线服务和应用程序广泛使用，而且在疫情的影响下，...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 从 Chrome 扩展商店下架虚假的微软验证器]]></title>
+        <id>https://www.oschina.net/news/142462/google-removes-fake-microsoft-authenticator-extension</id>
+        <link href="https://www.oschina.net/news/142462/google-removes-fake-microsoft-authenticator-extension"/>
+        <updated>2021-05-21T00:29:40.000Z</updated>
+        <summary type="html"><![CDATA[完全依靠自动化审查的扩展商店更容易受到虚假和恶意扩展的影响，Chrome Web Store 就属于这类，如今这个商店的扩展程序越来越多，但与此同时受到虚假与恶意扩展的影响也越来越大，最新增加的一个虚假扩展叫做 Microsoft Authenticator。 单从这个扩展的名称来看，似乎表明它是微软的一个官方产品，但实际上它并不是。从下...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 05 21]]></title>
+        <id>http://www.linuxeden.com/?p=85577</id>
+        <link href="http://www.linuxeden.com/a/85577"/>
+        <updated>2021-05-21T00:26:19.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 05 21]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freenode 疑似发生巨变]]></title>
+        <id>http://www.linuxeden.com/?p=85574</id>
+        <link href="http://www.linuxeden.com/a/85574"/>
+        <updated>2021-05-21T00:23:48.000Z</updated>
+        <summary type="html"><![CDATA[最大的自由开源软件 IRC 网络 Freenode 疑似发生了剧变，多位志愿者辞职并呼吁用户尽快迁移到新的 IRC 网络 libera.chat，称运行在 freenode.org/net/com 中的 IRC 网络应该被假设控制在一位恶意 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gRPC  1.38.0 发布]]></title>
+        <id>http://www.linuxeden.com/?p=85572</id>
+        <link href="http://www.linuxeden.com/a/85572"/>
+        <updated>2021-05-21T00:22:04.000Z</updated>
+        <summary type="html"><![CDATA[This is release 1.38.0 (guadalupe_river_park_conservancy) of gRPC Core. For gRPC documentation, see grpc.io. For previou […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 159 期）：游戏开发者的年薪]]></title>
         <id>http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html</id>
@@ -31,165 +100,446 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSON in CSS]]></title>
-        <id>https://css-tricks.com/?p=340599</id>
-        <link href="https://css-tricks.com/json-in-css/"/>
-        <updated>2021-05-20T22:29:53.000Z</updated>
-        <summary type="html"><![CDATA[Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …
-The post JSON in CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Angular DevTools 扩展发布，帮助改善调试体验]]></title>
+        <id>https://www.oschina.net/news/142461/angular-devtools</id>
+        <link href="https://www.oschina.net/news/142461/angular-devtools"/>
+        <updated>2021-05-21T00:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Angular 团队宣布推出 Angular DevTools，一个 Chrome DevTools 扩展，可以用来帮助检查应用程序的结构并分析其性能。 日前，Angular 曾针对 Angular 开发者进行了一项调查发现，大多数人都需要更好的工具来调试其应用程序。其确定了最需要关注的领域包括有：错误信息的改进、理解变化检测的执行、理解注入器层次结构和 ...]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn CSS!]]></title>
-        <id>https://css-tricks.com/?p=340933</id>
-        <link href="https://web.dev/learn/css/"/>
-        <updated>2021-05-20T21:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Ooo look at this mighty SEO flex from Google: Learn CSS! Well deserved — this is great content. Twenty-three chapters taking you through all the fundamentals of CSS with extra content, like relevant podcasts, interactive examples, and even quizzes to …
-The post Learn CSS! appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Spring Integration for AWS 2.5 发布]]></title>
+        <id>http://www.linuxeden.com/?p=85570</id>
+        <link href="http://www.linuxeden.com/a/85570"/>
+        <updated>2021-05-21T00:11:59.000Z</updated>
+        <summary type="html"><![CDATA[Dear Spring (and AWS) Community, Today it’s my pleasure to announce a release of Spring Integration for Amazon Web Servi […]]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>Editor, Kai</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Angular 11 Tutorial: Code a Project from Scratch]]></title>
-        <id>60a6b3ab906c5207e3a7f5fa</id>
-        <link href="https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/"/>
-        <updated>2021-05-20T19:14:48.000Z</updated>
-        <summary type="html"><![CDATA[Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation]]></summary>
+        <title type="html"><![CDATA[Spring Web Services 3.1.1 发布]]></title>
+        <id>http://www.linuxeden.com/?p=85568</id>
+        <link href="http://www.linuxeden.com/a/85568"/>
+        <updated>2021-05-21T00:09:43.000Z</updated>
+        <summary type="html"><![CDATA[Greetings Spring community, The Spring Web Services team has released 3.1.1. This is the first major release under the n […]]]></summary>
         <author>
-            <name/>
+            <name>Editor, Kai</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Modern C++ by Building an Audio Plugin]]></title>
-        <id>60a694ab906c5207e3a7f544</id>
-        <link href="https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/"/>
-        <updated>2021-05-20T17:12:29.000Z</updated>
-        <summary type="html"><![CDATA[A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an]]></summary>
+        <title type="html"><![CDATA[CKEditor 4.16.1 发布]]></title>
+        <id>http://www.linuxeden.com/?p=85566</id>
+        <link href="http://www.linuxeden.com/a/85566"/>
+        <updated>2021-05-21T00:07:10.000Z</updated>
+        <summary type="html"><![CDATA[The newest release of CKEditor 4 is here. It brings better accessibility, right on time for the Global Accessibility Awa […]]]></summary>
         <author>
-            <name/>
+            <name>Editor, Kai</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Get Started with Version Control Using Git]]></title>
-        <id>60a4b5c7906c5207e3a7e2bb</id>
-        <link href="https://www.freecodecamp.org/news/get-started-with-version-control-and-git/"/>
-        <updated>2021-05-20T15:20:53.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets]]></summary>
+        <title type="html"><![CDATA[Al-Khaser —— 恶意软件检测]]></title>
+        <id>https://www.oschina.net/p/al-khaser</id>
+        <link href="https://www.oschina.net/p/al-khaser"/>
+        <updated>2021-05-21T00:02:19.000Z</updated>
+        <summary type="html"><![CDATA[Al-Khaser 是一款没有不良意图的“恶意”软件（处于 PoC 阶段），它通过执行一系列常见的恶意软件手段，以检测系统环境是否处于监控。 通常被用于虚拟机环境检测、仿真、调试器、沙箱检测等场景，常被用于反虚拟化、反沙箱机制、反自动化分析。]]></summary>
         <author>
-            <name/>
+            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn JavaScript - A Free 7-hour Interactive Tutorial]]></title>
-        <id>60a36742906c5207e3a7da6e</id>
-        <link href="https://www.freecodecamp.org/news/learn-javascript-interactive-course/"/>
-        <updated>2021-05-20T14:53:38.000Z</updated>
-        <summary type="html"><![CDATA[Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most]]></summary>
+        <title type="html"><![CDATA[Gitee 推荐 | 使用 Dash 和 ECharts 实现的 dashboards dash_echarts]]></title>
+        <id>https://gitee.com/pingf/dash-echarts</id>
+        <link href="https://gitee.com/pingf/dash-echarts"/>
+        <updated>2021-05-21T00:01:29.000Z</updated>
+        <summary type="html"><![CDATA[使用 Dash 和 ECharts 快速实现酷炫的 dashboards，无需太多前端知识储备，python 代码快速上手，支持 bmap, mapbox 联动、svg 室内地图。]]></summary>
         <author>
-            <name/>
+            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can We Create a “Resize Hack” With Container Queries?]]></title>
-        <id>https://css-tricks.com/?p=340715</id>
-        <link href="https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/"/>
-        <updated>2021-05-20T14:24:12.000Z</updated>
-        <summary type="html"><![CDATA[If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …
-The post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[每日一博 | 从一段 Dubbo 源码到 CPU 分支预测的一次探险之旅]]></title>
+        <id>https://my.oschina.net/u/3944379/blog/4561929</id>
+        <link href="https://my.oschina.net/u/3944379/blog/4561929"/>
+        <updated>2021-05-21T00:00:24.000Z</updated>
+        <summary type="html"><![CDATA[说来也是巧最近在看 Dubbo 源码，然后发现了一处很奇怪的代码，于是就有了这篇文章，让我们来看一下这段代码，它属于 ChannelEventRunnable，这个 runnable 是 Dubbo IO 线程创建，将此任务扔到业务线程池中处理。]]></summary>
         <author>
-            <name>Jhey Tompkins</name>
+            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[fit-content and fit-content()]]></title>
-        <id>https://css-tricks.com/?p=340897</id>
-        <link href="https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html"/>
-        <updated>2021-05-20T14:20:56.000Z</updated>
-        <summary type="html"><![CDATA[Here’s some hardcore deep-dive CSS nerdery from PPK. If you can wrap your mind around min-content (the smallest an element can be based on the content it contains) and max-content (the largest the content of an element can push it) …
-The post fit-content and fit-content() appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[《Linux就该这么学》— 非常适合linux技术学习的入门好书]]></title>
+        <id>http://www.dayanzai.me/?p=31988</id>
+        <link href="http://www.dayanzai.me/linux-book.html"/>
+        <updated>2021-05-20T18:28:33.000Z</updated>
+        <summary type="html"><![CDATA[推荐语：“刘遄老师的新书《Linux就该这么学》双十一当天预售出版上市，必读的Linux系统和红帽认证自学书籍 […]]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boost Your Skills Online: Smashing Workshops On Front-End And Design]]></title>
-        <id>https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/</id>
-        <link href="https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/"/>
-        <updated>2021-05-20T14:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
+        <title type="html"><![CDATA[微软官方特价！Windows 10 Pro 专业版 仅需 348 元！绑定数字权利、支持迁移授权！]]></title>
+        <id>http://www.dayanzai.me/?p=40528</id>
+        <link href="http://www.dayanzai.me/windows-10-buy.html"/>
+        <updated>2021-05-20T17:20:37.000Z</updated>
+        <summary type="html"><![CDATA[正版特价！仅需 348 元！洗白白这次错过下次就不知道什么时间了！数量和时间都有限！现在绝大部分网友应该使用的 […]]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Implement Authentication In Next.js With Auth0]]></title>
-        <id>https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/</id>
-        <link href="https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/"/>
-        <updated>2021-05-20T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.]]></summary>
+        <title type="html"><![CDATA[官方正版 Office 2016/2019 家庭和学生版，底价限量促销！仅 98 元！终身使用！]]></title>
+        <id>http://www.dayanzai.me/?p=36715</id>
+        <link href="http://www.dayanzai.me/office-buy.html"/>
+        <updated>2021-05-20T16:58:44.000Z</updated>
+        <summary type="html"><![CDATA[由本站和APSGO软购商城推荐的官方正版特价！终身版！Office 家庭和学生版 2016/2019 正版办公 […]]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Notion API]]></title>
-        <id>https://css-tricks.com/?p=340731</id>
-        <link href="https://css-tricks.com/notion-api/"/>
-        <updated>2021-05-19T23:18:42.000Z</updated>
-        <summary type="html"><![CDATA[The Public Beta of the Notion API dropped! Woot! Here’s their guide. I’ve been a Notion user and fan for a long time, for both personal and professional team use. They even sponsored a few videos around here a …
-The post Notion API appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[简单好用的远控神器，国产向日葵轻松开启远程办公！]]></title>
+        <id>http://www.dayanzai.me/?p=47188</id>
+        <link href="http://www.dayanzai.me/sunloginclient.html"/>
+        <updated>2021-05-20T16:53:56.000Z</updated>
+        <summary type="html"><![CDATA[“站在风口，猪都会飞”。这是如今层出不穷创业公司梦寐以求的，而2020年的风口，远程办公算是一类，年初的突发情 […]]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use CSS Selectors to Style Your Web Page]]></title>
-        <id>60a341f5906c5207e3a7da61</id>
-        <link href="https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/"/>
-        <updated>2021-05-19T23:17:21.000Z</updated>
-        <summary type="html"><![CDATA[CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been]]></summary>
+        <title type="html"><![CDATA[一站式音视频处理软件 – 万兴优转 新年限时会员特供+免费体验]]></title>
+        <id>http://www.dayanzai.me/?p=46643</id>
+        <link href="http://www.dayanzai.me/uniconverter.html"/>
+        <updated>2021-05-20T16:50:20.000Z</updated>
+        <summary type="html"><![CDATA[伴随着视频逐渐成为人们记录日常生活和沟通交流最主要的表达形式和视频共享平台的兴盛，人们对于视频的需求日益增长。 […]]]></summary>
         <author>
-            <name/>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Web3? The Decentralized Internet of the Future Explained]]></title>
-        <id>60a42386906c5207e3a7dfe2</id>
-        <link href="https://www.freecodecamp.org/news/what-is-web3/"/>
-        <updated>2021-05-19T21:09:01.000Z</updated>
-        <summary type="html"><![CDATA[The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.]]></summary>
+        <title type="html"><![CDATA[创意动画视频制作软件-来画动画 – [VIP限时免费兑换]]]></title>
+        <id>http://www.dayanzai.me/?p=48908</id>
+        <link href="http://www.dayanzai.me/laihua.html"/>
+        <updated>2021-05-20T16:48:09.000Z</updated>
+        <summary type="html"><![CDATA[来画动画（www.laihua.com）是在线动画视频制作平台，你可以像做PPT一样做短视频。来画动画平台拥有 […]]]></summary>
         <author>
-            <name/>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Optimize for Change in Software Development]]></title>
-        <id>60a469ec906c5207e3a7e1b9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/"/>
-        <updated>2021-05-19T17:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second]]></summary>
+        <title type="html"><![CDATA[来画视频-全新上线演示视频工具-限时免费体验！]]></title>
+        <id>http://www.dayanzai.me/?p=50411</id>
+        <link href="http://www.dayanzai.me/laihua-video.html"/>
+        <updated>2021-05-20T16:46:17.000Z</updated>
+        <summary type="html"><![CDATA[来画视频（www.laihua.com/video）是一款全新的演示视频创建工具，可在进行视频录制或视频会议时 […]]]></summary>
         <author>
-            <name/>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[svg-loader: A Different Way to Work With External SVG]]></title>
-        <id>https://css-tricks.com/?p=340692</id>
-        <link href="https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/"/>
-        <updated>2021-05-19T14:28:19.000Z</updated>
-        <summary type="html"><![CDATA[SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …
-The post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[阿香婆 Ashampoo 办公软件系列官方正版软件优惠打折啦！]]></title>
+        <id>http://www.dayanzai.me/?p=45425</id>
+        <link href="http://www.dayanzai.me/ashampoo.html"/>
+        <updated>2021-05-20T16:42:50.000Z</updated>
+        <summary type="html"><![CDATA[Ashampoo 是软件开发、销售和 Web 门户站点领域的全球领先互联网企业之一。Ashampoo 制造的众 […]]]></summary>
         <author>
-            <name>Shubham Jain</name>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯和 StreamNative 开源 RoP：Apache Pulsar 支持原生 RocketMQ 协议]]></title>
+        <id>https://www.oschina.net/news/142448/rop-open-source</id>
+        <link href="https://www.oschina.net/news/142448/rop-open-source"/>
+        <updated>2021-05-20T16:31:25.000Z</updated>
+        <summary type="html"><![CDATA[我们很高兴地宣布 StreamNative 与腾讯云中间件团队联合宣布开源 RoP！ RoP 将 RocketMQ 协议处理插件引入 Pulsar broker，这样 Pulsar 能支持原生 RocketMQ 协议。 什么是 RoP？ 与 KoP、MoP 和 AoP 相似，RoP 是一种可插拔的协议处理插件。 将 RoP 协议处理插件添加到现有 Pulsar 集群后，用户无需修改代码，便能将现有...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[优秀免费的字幕制作软件 Subtitle Edit 3.6.1 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=1263</id>
+        <link href="http://www.dayanzai.me/subtitle-edit.html"/>
+        <updated>2021-05-20T16:30:32.000Z</updated>
+        <summary type="html"><![CDATA[优秀免费的字幕制作软件 Subtitle Edit 绿色中文版由大眼仔旭（www.dayanzai.me）发布 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻（2021-05-20）]]></title>
+        <id>https://gocn.vip/topics/12096</id>
+        <link href="https://gocn.vip/topics/12096"/>
+        <updated>2021-05-20T16:23:58.000Z</updated>
+        <summary type="html"><![CDATA[GoCN 每日新闻（2021-05-20）
+初探 Go 代码混淆 https://mp.weixin.qq.com/s/q9xUFQ7HdHAis70WrFHuOQ
+
+优化 Golang 服务减少 40% 以上的 CPU https://mp.weixin.qq.com/s/dgVv6p8HQtc-krPGEdU2cQ
+
+Go 实现 bridge 设计模式 https://www.smartscribs.com/bridge-design-pattern-in-golang/
+
+Go 模板引擎 templ https://adrianhesketh.com/2021/05/18/introducing-templ/
+
+使用 Viper 和 Consul 配置 Go 应用 https://bencane.com/2021/05/18/using-viper-with-consul-to-configure-go-apps/
+
+
+
+
+
+GopherChina 全部议程和讲师出炉 https://mp.weixin.qq.com/s/G_M4yw6VCTfF03b2L21ZGQ
+
+
+编辑: 傅小黑
+
+
+订阅新闻: …]]></summary>
+        <author>
+            <name>fuxiaohei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 资源管理器视频扩展 Icaros Shell Extensions 3.2.1 中文免费版]]></title>
+        <id>http://www.dayanzai.me/?p=5663</id>
+        <link href="http://www.dayanzai.me/icaros.html"/>
+        <updated>2021-05-20T16:20:03.000Z</updated>
+        <summary type="html"><![CDATA[Icaros Shell Extensions 中文版 Windows 资源管理器视频扩展插件由大眼仔旭（ww […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 05 20]]></title>
+        <id>http://www.linuxeden.com/?p=85564</id>
+        <link href="http://www.linuxeden.com/a/85564"/>
+        <updated>2021-05-20T14:29:27.000Z</updated>
+        <summary type="html"><![CDATA[如何在 Ubuntu 服务器上安装桌面环境（GUI） ARM将举办新品发布会：Cortex X2/A79大核有望登场 SonoBus：支持跨平台的开源点对点音频流应用 Chromebook上的Linux将随着Chrome OS 91的发布而 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在 Ubuntu 服务器上安装桌面环境（GUI）]]></title>
+        <id>http://www.linuxeden.com/?p=85556</id>
+        <link href="http://www.linuxeden.com/a/85556"/>
+        <updated>2021-05-20T14:21:24.000Z</updated>
+        <summary type="html"><![CDATA[你想在你的 Ubuntu 服务器上安装 GUI 吗？大部分情况下你是可以安装的，在本教程中我会详细介绍安装的步骤。 在正式开始之前，我来告诉你为什么服务器版的 Ubuntu 不带 GUI，以及在什么情况下你可以在服务器上安装 GUI。 为什 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARM将举办新品发布会：Cortex X2/A79大核有望登场]]></title>
+        <id>http://www.linuxeden.com/?p=85551</id>
+        <link href="http://www.linuxeden.com/a/85551"/>
+        <updated>2021-05-20T13:42:24.000Z</updated>
+        <summary type="html"><![CDATA[继Intel、AMD和NVIDIA三家后，ARM也公布了此次出席台北电脑展2021的安排。其中CEO Simon Segars将亲自主持讲演活动，主题是未来计算以及后疫情时代的产业恢复等，时间是5月31日下午14点。此外，ARM IP事业部 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chromebook上的Linux将随着Chrome OS 91的发布而走出测试阶段]]></title>
+        <id>http://www.linuxeden.com/?p=85548</id>
+        <link href="http://www.linuxeden.com/a/85548"/>
+        <updated>2021-05-20T13:39:30.000Z</updated>
+        <summary type="html"><![CDATA[Google今天在I/O大会上宣布，随着Chrome OS 91的发布，Chromebook上的Linux终于将走出测试阶段。该公司曾在Chrome OS上同时支持Linux应用程序和Android应用程序，希望通过IDE等来吸引开发者的注 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google I/O 2021: 在重要时刻提供帮助]]></title>
+        <id>https://www.oschina.net/news/142385/google-io-2021-sundar-pichai</id>
+        <link href="https://www.oschina.net/news/142385/google-io-2021-sundar-pichai"/>
+        <updated>2021-05-20T09:18:11.000Z</updated>
+        <summary type="html"><![CDATA[作者 / Sundar Pichai，Google 和 Alphabet CEO 很高兴今年能重新举办我们的 I/O 开发者大会。今天早上驾车进入山景城园区时，我有了一种久违的回归正常的感觉。当然，如果没有我们的开发者社群来到现场，一切都将有所不同。在过去的一年里，新冠肺炎疫情给全球的社区都带来了深刻的影响，并仍在继续造成损失。像巴西和我...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全日报：针对企业的新型勒索病毒；勒索软件服务器被查封]]></title>
+        <id>https://www.oschina.net/news/142381/security-news-daily-0519</id>
+        <link href="https://www.oschina.net/news/142381/security-news-daily-0519"/>
+        <updated>2021-05-20T09:07:17.000Z</updated>
+        <summary type="html"><![CDATA[报告编号：B6-2021-051999 报告来源：360CERT 报告作者：360CERT 更新日期：2021-05-19 1. Vulnerability|漏洞 CVE-2021-1497：Cisco HyperFlex HX Data Platform命令注入漏洞POC公开 https://attackerkb.com/topics/mDqlWhQovO/cve-2021-1497 CVE-2021-1499：Cisco HyperFlex HX Data Platform任意文件上传漏洞POC公开 ...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMYSQL-1.6 发布 - 在线 MySQL 管理工具]]></title>
+        <id>https://www.oschina.net/news/142378/amysql-1-6-released</id>
+        <link href="https://www.oschina.net/news/142378/amysql-1-6-released"/>
+        <updated>2021-05-20T08:47:07.000Z</updated>
+        <summary type="html"><![CDATA[AMYSQL是一个安全高效、简易的MySQL数据库管理Web客户端，使用AMYSQL可简单高效完成日常MySQL数据管理维护，包含数据库、数据表、用户权限各方面的管理。 AMYSQL支持运行于PHP5~PHP8环境，AMYSQL核心控制程序仅30余KB，主要数据交互控制器文件只有2个、10余函数，其余均为静态JS插件扩展形式载入管理，系统在最大程度简化...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[官宣｜Apache Flink 1.13.0 正式发布，流处理应用更加简单高效！]]></title>
+        <id>https://www.oschina.net/news/142339/apache-flink-1-13-0-released</id>
+        <link href="https://www.oschina.net/news/142339/apache-flink-1-13-0-released"/>
+        <updated>2021-05-20T06:33:13.000Z</updated>
+        <summary type="html"><![CDATA[翻译 | 高赟 Review | 朱翥、马国维 Flink 1.13 发布了！Flink 1.13 包括了超过 200 名贡献者所提交的 1000 多项修复和优化。 这一版本中，Flink 的一个主要目标取得了重要进展，即让流处理应用的使用像普通应用一样简单和自然。Flink 1.13 新引入的被动扩缩容使得流作业的扩缩容和其它应用一样简单，用户仅需要修改并发...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSSF 安全指标倡议介绍]]></title>
+        <id>https://www.oschina.net/news/142335</id>
+        <link href="https://www.oschina.net/news/142335"/>
+        <updated>2021-05-20T06:06:45.000Z</updated>
+        <summary type="html"><![CDATA[作者：Michael Scovetta，识别安全威胁工作组，OpenSSF OpenSSF[1]宣布安全指标倡议[2]的初始版本。该计划的主要目标是提供有关与开源项目相关的威胁和风险的有价值的决定性信息。安全指标（Security Metrics）附带了一个认知的仪表板，供涉众做出关于在他们的软件供应链中使用/容纳此类项目的可靠的知情决策。 它是如何...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PC 版微信、QQ、TIM 防撤回补丁[Windows]]]></title>
+        <id>https://www.appinn.com/?p=38853</id>
+        <link href="https://www.appinn.com/revoke-msg-patcher-for-wechat-qq-tim/"/>
+        <updated>2021-05-20T04:20:17.000Z</updated>
+        <summary type="html"><![CDATA[👀 微信/QQ/TIM防撤回补丁 是一款适用于 PC 版微信、QQ、TIM 客户端的消息防撤回工具，附赠微信多开功能，使用简单。项目开源，开发者提供了详细的防撤回原理，任何人都可以自己动手制作补丁。@]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP 开源工作流引擎 Tpflow V5.0.7 正式版发布]]></title>
+        <id>https://www.oschina.net/news/142326/tpflow-5-0-7-released</id>
+        <link href="https://www.oschina.net/news/142326/tpflow-5-0-7-released"/>
+        <updated>2021-05-20T03:51:18.000Z</updated>
+        <summary type="html"><![CDATA[欢迎使用 Tpflow V5.0.7 工作流引擎 TpFlow工作流引擎是一套规范化的流程管理系统，基于业务而驱动系统生命力的一套引擎。彻底释放整个信息管理系统的的活力，让系统更具可用性，智能应用型，便捷设计性。Tpflow团队致力于打造中国最优秀的PHP工作流引擎。 主要未部分功能优化，新增流程过滤功能，新增消息接口 坚持这么...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重要更新丨完成前端重构，KubeOperator 开源容器平台 v3.7.0 发布]]></title>
+        <id>https://www.oschina.net/news/142315/kubeoperator-3-7-0-released</id>
+        <link href="https://www.oschina.net/news/142315/kubeoperator-3-7-0-released"/>
+        <updated>2021-05-20T03:06:40.000Z</updated>
+        <summary type="html"><![CDATA[5月17日，开源容器平台KubeOperator正式发布v3.7.0版本。在这一版本中，KubeOperator使用“Vue.js+FIT2CLOUD UI”重构了前端界面，同时完成若干功能优化和Bug修复。 重构Web前端界面 相比上一次发布的KubeOperator v3.6.0版本，KubeOperator项目主要是在前端产生了重要变化，用户可以通过KubeOperator v3.x版本平滑升级至...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[上海][部门直招] UCloud 招聘 Golang 后端工程师 15 薪]]></title>
+        <id>https://gocn.vip/topics/12095</id>
+        <link href="https://gocn.vip/topics/12095"/>
+        <updated>2021-05-20T02:57:01.000Z</updated>
+        <summary type="html"><![CDATA[职位描述：
+负责 账户与权限系统、公有云资源系统、计费系统 需求开发与系统维护；
+与产品、交互设计 合作把用户需求转化为技术方案；
+参与相关系统架构设计与开发；
+岗位要求：
+本科及以上学历，两年及以上的后端研发经验，有 Go 研发经验或愿意转 Go，有能力的可以降低年限要求；
+具备良好的基本功、编码习惯，熟练使用基本的数据结构和算法；
+熟悉 MYSQL/TiDB 、redis 等相关技术；
+具有良好的学习能力、团队合作意识、较强的沟通能力；
+熟悉 Unix/Linux 操作系统基本操作；
+有以下经验者优先：
+
+
+有账户权限、计费相关系统项目经验；
+有微服务、分布式、gRPC 相关经验；
+有 kafka 、rabbitmq 、elasticsearch 、jaeger/opentracing 、canal 相关经验；
+熟悉 docker 、k8s 、jenkins;
+工作福利：
+健康保险：五险一金、补充商业保险、年度体检、免费健身房、弹性工作制
+带薪假期：法定年假、公司年假、带薪病假
+节假日福利：春节特别假、生日假、节假日礼物
+员工活动：年度旅游、社团活动、免费水果下午茶
+调薪晋升：每年两次晋升窗口、每年一次普…]]></summary>
+        <author>
+            <name>mingming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 将 RSS 阅读器集成进 Chrome 浏览器，Google Reader 后继有人]]></title>
+        <id>https://www.oschina.net/news/142286/chrome-follow-rss-feed</id>
+        <link href="https://www.oschina.net/news/142286/chrome-follow-rss-feed"/>
+        <updated>2021-05-20T00:39:22.000Z</updated>
+        <summary type="html"><![CDATA[Google Reader（Google 阅读器）曾是 Google 旗下的一个基于网络的聚合器，能在线或者离线阅读 RSS。Google Reader 于 2005 年发布，由于 Google Reader 用户数量逐年下降，Google 于 2013 年 7 月 1 日终止服务。 如今，Google 开始在 Chrome 浏览器上测试新的「关注」功能，将 RSS 阅读器的功能重新带回用户视野。 当用...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flutter 2.2 发布：针对各平台的性能优化、完善生态支持]]></title>
+        <id>https://www.oschina.net/news/142285/flutter-2-2</id>
+        <link href="https://www.oschina.net/news/142285/flutter-2-2"/>
+        <updated>2021-05-20T00:29:33.000Z</updated>
+        <summary type="html"><![CDATA[谷歌在昨日举办的 Google I/O 2021 大会上宣布了 Flutter 2.2，其开发团队称此版本是迄今为止 Flutter 最好的版本。 Flutter 2.2 的更新亮点包括：针对开发者优化通过应用内购买、付款和广告的变现流程；更新工具包和语言特性以帮助开发者消除大部分错误；提升应用程序性能并减小程序包体积。 下面简要介绍 Flutter 2.2 ...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软计划在 2022 年删除 Win10 中的 IE 11 浏览器]]></title>
+        <id>https://www.oschina.net/news/142284/2022-internet-explorer-windows-10-microsoft-edge</id>
+        <link href="https://www.oschina.net/news/142284/2022-internet-explorer-windows-10-microsoft-edge"/>
+        <updated>2021-05-20T00:26:40.000Z</updated>
+        <summary type="html"><![CDATA[微软方面宣布，Internet Explorer 11 桌面应用程序将于 2022 年 6 月 15 日退役，同时将从某些 Windows 10 版本中淘汰 Internet Explorer 11，将其替换为基于 Chromium 的 Microsoft Edge。 不过值得注意的是，这次退役并不影响市场上的 Windows 10 LTSC 或 Server Internet Explorer 11桌面应用程序，也不影响 MSHTML（...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla 开始向所有版本的 Firefox 推送站点隔离功能]]></title>
+        <id>https://www.oschina.net/news/142283/mozilla-rolling-out-site-isolation-to-all-firefox</id>
+        <link href="https://www.oschina.net/news/142283/mozilla-rolling-out-site-isolation-to-all-firefox"/>
+        <updated>2021-05-20T00:15:44.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla 日前开始向所有版本的 Firefox 推送站点隔离这一保护用户安全的功能，让用户免受恶意网站发起的攻击。 此前，站点隔离功能只能在 Firefox Nightly 版本中启用，NIghtly 是 Mozilla 用来测试新功能的发布渠道，其中的功能通常都处于尚未准备好更广泛推广的阶段。自 2018 年 4 月以来，站点隔离功能一直处于开发状...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50 万行 Go 代码，美国一组织从 Python 2 迁移到 Go]]></title>
+        <id>https://www.oschina.net/news/142282/khanacademy-half-a-million-lines-of-go</id>
+        <link href="https://www.oschina.net/news/142282/khanacademy-half-a-million-lines-of-go"/>
+        <updated>2021-05-20T00:14:07.000Z</updated>
+        <summary type="html"><![CDATA[美国教育非营利组织可汗学院（Khan Academy）方面透露，其已经用谷歌的 Go 编程语言完成了 50 万行代码，以取代此前用 Python 2 编写的后台服务器。根据介绍，可汗学院在其 Goliath 项目下实现了从 Python 2 到 Go 的大转变。Goliath 最初是使用 Python 2 实现的；从 2019 年开始，可汗学院逐步将其迁移到了 Go。 当我们...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xarray —— 在 NumPy 多维数组中加入变量名和坐标索引]]></title>
+        <id>https://www.oschina.net/p/xarray</id>
+        <link href="https://www.oschina.net/p/xarray"/>
+        <updated>2021-05-20T00:10:44.000Z</updated>
+        <summary type="html"><![CDATA[xarray 是一个开源 Python 包，它可以使处理多维数组更加简单、高效并有趣。xarray 在原始类 NumPy 多维数组中引入了标签化的变量名称和坐标索引，实现了更直观、更简洁和更加不容易出错的能力。该软件包包括一个庞大且不断增长的域无关功能库，用于使用这些数据结构进行高级分析和可视化。xarray 灵感来自同为解决数据分...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitee 推荐 | 基于 Vue 2.0 的桌面端组件库 Element]]></title>
+        <id>https://gitee.com/ElemeFE/element</id>
+        <link href="https://gitee.com/ElemeFE/element"/>
+        <updated>2021-05-20T00:03:46.000Z</updated>
+        <summary type="html"><![CDATA[Element 是一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库，提供了配套设计资源，帮助你的网站快速成型。由饿了么公司前端团队开源。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 看完这篇你还能不懂 C 语言/C++ 内存管理？]]></title>
+        <id>https://my.oschina.net/u/4586915/blog/4703161</id>
+        <link href="https://my.oschina.net/u/4586915/blog/4703161"/>
+        <updated>2021-05-20T00:00:16.000Z</updated>
+        <summary type="html"><![CDATA[C 语言内存管理指对系统内存的分配、创建、使用这一系列操作。在内存管理中，由于是操作系统内存，使用不当会造成毕竟麻烦的结果。本文将从系统内存的分配、创建出发，并且使用例子来举例说明内存管理不当会出现的情况及解决办法。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
     <entry>
@@ -213,217 +563,815 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns: Mega-Dropdown Hover Menus]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/"/>
-        <updated>2021-05-19T11:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Do we need mega-dropdown hover menus in 2021? Probably not. Let’s explore things to keep in mind when designing and building a mega-dropdown, alternatives to hover menus and fine details for designing a better UX.]]></summary>
+        <title type="html"><![CDATA[一起看 I/O | Android 12 Beta 版发布，诸多亮点不容错过]]></title>
+        <id>https://www.oschina.net/news/142213/google-io-2021-android-12-beta</id>
+        <link href="https://www.oschina.net/news/142213/google-io-2021-android-12-beta"/>
+        <updated>2021-05-19T09:32:12.000Z</updated>
+        <summary type="html"><![CDATA[作者 / Dave Burke, VP of Engineering 今天在 Google I/O 大会上，我们发布了 Android 12 的第一个 Beta 版。Android 12 是我们有史以来最具雄心的版本之一，我们致力于创造一套能适应您的需求的全新用户界面，提高性能，同时将隐私和安全置于核心。对于开发者来说，我们为大家提供了更多的工具，方便您在手机、笔记本电...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Break into Ethereum, Crypto, and Web3 as a Developer]]></title>
-        <id>60a53182906c5207e3a7e588</id>
-        <link href="https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/"/>
-        <updated>2021-05-18T21:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really]]></summary>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-05-19)]]></title>
+        <id>https://gocn.vip/topics/12094</id>
+        <link href="https://gocn.vip/topics/12094"/>
+        <updated>2021-05-19T08:09:00.000Z</updated>
+        <summary type="html"><![CDATA[进程内缓存助你提高并发能力 https://gocn.vip/topics/12091
+
+Chaos Mesh® 在腾讯——腾讯互娱混沌工程实践 https://gocn.vip/topics/12092
+
+pprof++: 一个带有硬件监控的 Go Profiler https://mp.weixin.qq.com/s/-BSzD_wIEjHnHbs0xnsHXA
+
+graphjin: 基于数据库快速生成 GraphQL 服务器 https://github.com/dosco/graphjin
+
+Gmocker: 使用 JSON 文件生成 mock 服务器 https://github.com/Ananto30/mocker
+
+
+
+
+
+GopherChina 全部议程和讲师出炉 https://mp.weixin.qq.com/s/G_M4yw6VCTfF03b2L21ZGQ
+
+
+编辑: 李俱顺 Kevin
+
+
+订阅新闻: http://tinyletter.com/gocn
+
+
+招聘专区: https://gocn.vip/jobs
+
+
+GoCN 归档: https://gocn.vip/topics/…]]></summary>
         <author>
-            <name/>
+            <name>kevin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pinned Audio WordPress Theme]]></title>
-        <id>https://css-tricks.com/?p=340613</id>
-        <link href="https://css-tricks.com/pinned-audio-wordpress-theme/"/>
-        <updated>2021-05-18T19:14:53.000Z</updated>
-        <summary type="html"><![CDATA[I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.
-A fella wrote to me a while back outlining a situation he was in. His company has …
-The post Pinned Audio WordPress Theme appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Android 版 Chrome 将可以一键修改外泄密码]]></title>
+        <id>https://www.oschina.net/news/142190/chrome-automated-password-changes</id>
+        <link href="https://www.oschina.net/news/142190/chrome-automated-password-changes"/>
+        <updated>2021-05-19T07:50:58.000Z</updated>
+        <summary type="html"><![CDATA[Google 计划在 Android 版 Chrome 浏览器中启动一项新功能，以帮助用户一键轻松修改因数据泄露而外泄的密码。 根据官方所述，有了这项新功能之后，只需轻轻一点，Chrome 浏览器就可以帮助用户进行密码修改。在受支持的网站上，如果 Chrome 浏览器检测到一个可能被泄露的密码，"Change password"按钮将从 Assistant 中弹出...]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?]]></title>
-        <id>60a3780f906c5207e3a7db5f</id>
-        <link href="https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/"/>
-        <updated>2021-05-18T17:12:59.000Z</updated>
-        <summary type="html"><![CDATA[If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? "Well, I just bill by the hour and send an invoice every week or month." ...I hear you say.]]></summary>
+        <title type="html"><![CDATA[参与 Apache 顶级开源项目的 N 种方式，Apache Dubbo Samples SIG 成立！]]></title>
+        <id>https://gocn.vip/topics/12093</id>
+        <link href="https://gocn.vip/topics/12093"/>
+        <updated>2021-05-19T07:43:56.000Z</updated>
+        <summary type="html"><![CDATA[头图来源：https://opensource.guide/
+来源 | 阿里巴巴云原生公众号
+​
+只有贡献代码才算是参与开源项目社区贡献吗？
+一说到参与开源项目贡献，一般大家的反应都是代码级别的贡献，总觉得我的代码被社区合并了，我才算一个贡献者，这是一个常见的错误认知。其实，在一个开源社区中有非常多的角色是 non-code contributor，一个开源社区中的很多关键职责被大家给忽略了。
+​
+组织活动也可以是贡献社区：
+你可以像远在巴西库亚巴的 @fzamperin学习，为你喜欢的开源项目组织 workshop 或线下 meetup
+你还可以帮助社区成员找到合适的线下峰会来提交技术议题
+……
+技术写作或者技术布道也是贡献社区：
+为你喜欢的开源项目编写或者改进文档
+建立一个如何使用这个开源项目的 samples
+将文档翻译成其他语言，帮助全球开发者认识、使用该项目
+在自己的公众号或者博客分享使用该项目的指南和心得
+……
+设计和官网开发也是贡献社区：
+重构开源项目官网来帮助开发者更好的认识、使用该开源项目
+进行用户调研来更好地改善官网导航和目录
+构建一个 style guide 来帮助该项目拥有一个更统一、…]]></summary>
         <author>
-            <name/>
+            <name>alicloudnative</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coding Programs – 101 Ways to Learn to Code for Free]]></title>
-        <id>6068f146d5756f080ba9402d</id>
-        <link href="https://www.freecodecamp.org/news/coding-programs-101-ways-to-learn-to-code-for-free/"/>
-        <updated>2021-05-18T16:50:36.000Z</updated>
-        <summary type="html"><![CDATA[Yes, you can learn to code for free, from the convenience of your own home, and at your own pace. I'm going to show you 101 courses where you can learn computer science and programming for free.  The freeCodeCamp courses are completely free and some of them include a free]]></summary>
+        <title type="html"><![CDATA[WebRTC 的现状和未来：专访 W3C WebRTC Chair Bernard Aboba]]></title>
+        <id>https://www.oschina.net/news/142177/webrtc-today-tomorrow-bernard-aboba-qa</id>
+        <link href="https://www.oschina.net/news/142177/webrtc-today-tomorrow-bernard-aboba-qa"/>
+        <updated>2021-05-19T07:00:34.000Z</updated>
+        <summary type="html"><![CDATA[WebRTC 无疑推动和改变了互联网视频，而这仅仅是刚刚开始，除了大家熟悉的 WebRTC-PC、Simulcast 和 SVC，有太多的新技术和新架构出现在 WebRTC 新的标准中，比如 WebTransport、WebCodecs、AV1、E2EE、SFrame、ML 等等，这篇文章详细介绍了未来的 WebRTC-NV，不容错过。 说明： 本文为阿里云视频云翻译的技术文章 原文标...]]></summary>
         <author>
-            <name/>
+            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create Neon Text With CSS]]></title>
-        <id>https://css-tricks.com/?p=340420</id>
-        <link href="https://css-tricks.com/how-to-create-neon-text-with-css/"/>
-        <updated>2021-05-18T14:31:25.000Z</updated>
-        <summary type="html"><![CDATA[Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …
-The post How to Create Neon Text With CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Dishes Launcher – 托盘里的快速启动工具[Windows]]]></title>
+        <id>https://www.appinn.com/?p=38850</id>
+        <link href="https://www.appinn.com/dishes-launcher/"/>
+        <updated>2021-05-19T06:43:15.000Z</updated>
+        <summary type="html"><![CDATA[Dishes Launcher 是一款托盘里的快速启动工具，属于@蓝蓝小雪专为 @oott123 开发定制的小工具，配置简单、使用简单，与著名的 Win+R 方式同源，但是一套适合鼠标的快速启动工具，]]></summary>
         <author>
-            <name>Silvia O'Dwyer</name>
+            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0]]></title>
-        <id>https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/</id>
-        <link href="https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/"/>
-        <updated>2021-05-18T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.]]></summary>
+        <title type="html"><![CDATA[Spring Boot & Cloud 轻量替代框架 Solon 1.4.1 发布]]></title>
+        <id>https://www.oschina.net/news/142159/solon-1-4-1-released</id>
+        <link href="https://www.oschina.net/news/142159/solon-1-4-1-released"/>
+        <updated>2021-05-19T05:49:46.000Z</updated>
+        <summary type="html"><![CDATA[Solon 是一个微型的Java开发框架。强调，克制 + 简洁 + 开放的原则；力求，更小、更快、更自由的体验。支持：RPC、REST API、MVC、Micro service、WebSocket、Socket 等多种开发模式。 Solon Cloud 是一系列的接口标准和配置规范，算是 Solon 的分布式开发套件方案。 快速了解Solon的材料： 《Solon 特性简集，相较于 Sp...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
+            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/"/>
-        <updated>2021-05-18T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.]]></summary>
+        <title type="html"><![CDATA[Android Studio Arctic Fox (2020.3.1) Beta 发布，启用新的版本号命名方案]]></title>
+        <id>https://www.oschina.net/news/142143/android-studio-arctic-fox-beta</id>
+        <link href="https://www.oschina.net/news/142143/android-studio-arctic-fox-beta"/>
+        <updated>2021-05-19T03:37:46.000Z</updated>
+        <summary type="html"><![CDATA[谷歌发布了 Android Studio Arctic Fox (2020.3.1) 首个 Beta 版本，如果按照旧的版本号方案来命名，此版本即为 Android Studio 4.3 Beta。 新的版本号命名方案早于去年就已公布，谷歌解释这是为了与 IntelliJ 的版本对齐。下面简单介绍新的版本号方案，新的版本号格式如下： <Year of IntelliJ Version>.<IntelliJ maj...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Humble `img` Element And Core Web Vitals]]></title>
-        <id>https://css-tricks.com/?p=340716</id>
-        <link href="https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
-        <updated>2021-05-17T22:38:06.000Z</updated>
-        <summary type="html"><![CDATA[Addy Osmani on images in HTML:
-The humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can 
-…
-The post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Chaos Mesh® 在腾讯——腾讯互娱混沌工程实践]]></title>
+        <id>https://gocn.vip/topics/12092</id>
+        <link href="https://gocn.vip/topics/12092"/>
+        <updated>2021-05-19T03:27:30.000Z</updated>
+        <summary type="html"><![CDATA[本篇文章整理自腾讯互娱高级工程师吴召军在 PingCAP Infra Meetup 上的演讲实录，欢迎点击【阅读原文】查看视频回放，后台回复 “135” 即可获取本期 PPT 链接。
+本文首先介绍了腾讯互娱面临的复杂的技术场景，然后介绍了腾讯互娱混沌工程团队基于 Chaos Mesh 打造的云原生混沌工程平台，最后分享腾讯互娱近半年混沌工程实践取得的收益。
+腾讯互娱运营活动每天的访问人次超过 100 亿次，高峰的 QPS 超过 100 万，每天活动代码发布更新超过 500 次，数据量也超过 200 TB。面对海量的用户请求和快捷的版本发布迭代速度，如何才能又快又稳地保障服务的运营？腾讯互娱活动运营团队给出的解决方案是 DevOps 和云原生。
+以前活动的发布都是运维人员来操作，随着活动量快速增长，出现了明显的瓶颈。为了解决这个问题，腾讯互娱设计了一条从代码到生产环境的流水线。现在，活动开发只要把代码提交到仓库，触发代码提交，运营平台就会自动编译构建生成镜像，并且自动把镜像部署到腾讯云 TKE。从代码完成到生产环境发布完成只需 5 分钟，并且全程都是开发自助完成。
+如今，腾讯互娱运营活动基本上所有的服务都是跑在…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>TiDB_Robot</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Love Letter to HTML & CSS]]></title>
-        <id>https://css-tricks.com/?p=339522</id>
-        <link href="https://css-tricks.com/a-love-letter-to-html-css/"/>
-        <updated>2021-05-17T14:27:22.000Z</updated>
-        <summary type="html"><![CDATA[I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.
-The post A Love Letter to HTML & CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[进程内缓存助你提高并发能力！]]></title>
+        <id>https://gocn.vip/topics/12091</id>
+        <link href="https://gocn.vip/topics/12091"/>
+        <updated>2021-05-19T02:40:45.000Z</updated>
+        <summary type="html"><![CDATA[前言
+缓存，设计的初衷是为了减少繁重的 IO 操作，增加系统并发能力。不管是 CPU多级缓存，page cache，还是我们业务中熟悉的 redis 缓存，本质都是将有限的热点数据存储在一个存取更快的存储介质中。
+计算机本身的缓存设计就是 CPU 采取多级缓存。那对我们服务来说，我们是不是也可以采用这种多级缓存的方式来组织我们的缓存数据。同时 redis 的存取都会经过网络 IO，那我们能不能把热点数据直接存在本进程内，由进程自己缓存一份最近最热的这批数据呢？
+这就引出了我们今天探讨的：local cache，本地缓存，也叫进程缓存。
+本文带你一起探讨下 go-zero 中进程缓存的设计。Let’s go!
+快速入门
+作为一个进程存储设计，当然是 crud 都有的：
+我们先初始化 local cache
+
+
+// 先初始化 local cache
+cache, err = collection.NewCache(time.Minute, collection.WithLimit(10))
+if err != nil {
+  log.Fatal(err)
+}
+
+其中参数的含义：
+expire：key 统一的过期…]]></summary>
         <author>
-            <name>Ashley Kolodziej</name>
+            <name>kevwan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Euismod]]></title>
-        <id>https://css-tricks.com/?p=340594</id>
-        <link href="https://www.euismod.dev/"/>
-        <updated>2021-05-17T14:27:13.000Z</updated>
-        <summary type="html"><![CDATA[An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …
-The post Euismod appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[参与 Apache 顶级开源项目的 N 种方式，Apache Dubbo Samples SIG 成立！]]></title>
+        <id>https://www.oschina.net/news/142109/apache-dubbo-samples-sig</id>
+        <link href="https://www.oschina.net/news/142109/apache-dubbo-samples-sig"/>
+        <updated>2021-05-19T00:37:58.000Z</updated>
+        <summary type="html"><![CDATA[只有贡献代码才算是参与开源项目社区贡献吗？ 一说到参与开源项目贡献，一般大家的反应都是代码级别的贡献，总觉得我的代码被社区合并了，我才算一个贡献者，这是一个常见的错误认知。其实，在一个开源社区中有非常多的角色是 non-code contributor，一个开源社区中的很多关键职责被大家给忽略了。 组织活动也可以是贡献...]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How We Improved Our Core Web Vitals (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/05/core-web-vitals-case-study/"/>
-        <updated>2021-05-17T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.]]></summary>
+        <title type="html"><![CDATA[SpaceX 使用 Rust 为部分新项目构建原型]]></title>
+        <id>https://www.oschina.net/news/142107/spacex-software-team-use-rust</id>
+        <link href="https://www.oschina.net/news/142107/spacex-software-team-use-rust"/>
+        <updated>2021-05-19T00:34:50.000Z</updated>
+        <summary type="html"><![CDATA[SpaceX 软件开发团队的部分成员近日在 reddit 参加了 AMA(ask me anything) 活动，邀请任何人来向他们提问有关项目的问题。 其中有一名用户提问道，SpaceX 软件开发团队是否对 Rust 这门语言有更多的想法，以及是否或可能如何使用它？ SpaceX 团队成员"Asher"回复称，他们对 Rust 非常感兴趣，因为 Rust 在安全、性能和现...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Beau Hartshorne)</name>
+            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.7.2]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2"/>
-        <updated>2021-05-17T05:32:19.000Z</updated>
-        <summary type="html"><![CDATA[⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: "16" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example
-Chore: Reorganize to monorepo with npm workspace.]]></summary>
+        <title type="html"><![CDATA[苹果放弃开源项目 CUPS 的开发，OpenPrinting 将负责后续工作]]></title>
+        <id>https://www.oschina.net/news/142106/apple-stops-developing-cups</id>
+        <link href="https://www.oschina.net/news/142106/apple-stops-developing-cups"/>
+        <updated>2021-05-19T00:32:07.000Z</updated>
+        <summary type="html"><![CDATA[早在 2007 年，苹果公司就收购了 Linux 开源打印系统 CUPS，此后在 2017 年决定不再根据 GPL 开发 CUPS，而是转变成 Apache 2.0 许可协议继续开发 CUPS。除了 Linux，这个开源打印系统还广泛运用于 Unix 和 macOS。但随着 2019 年底 CUPS 的首席开发者离开了苹果后，CUPS 的开发似乎也处于停滞状态。幸运的是，如今 CUPS...]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.7.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1"/>
-        <updated>2021-05-16T02:33:58.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: static files were unnecessarily copied for custom templates.]]></summary>
+        <title type="html"><![CDATA[JumpServer 开源堡垒机的自白：改变世界，从一点点开始]]></title>
+        <id>https://www.oschina.net/news/142104/jumpserver-confessions</id>
+        <link href="https://www.oschina.net/news/142104/jumpserver-confessions"/>
+        <updated>2021-05-19T00:22:39.000Z</updated>
+        <summary type="html"><![CDATA[编者注：本文刊登在《新一代堡垒机建设指南》（2021 年 5 月第 I 版）序言部分，文章作者为 JumpServer 开源堡垒机项目创始人广宏伟。 改变世界，从一点点开始 2014年6月，JumpServer开源堡垒机项目诞生。在那个时间节点，这个项目要到哪里去？我的手中没有地图。 那时我是一名运维工程师，入职了一家新公司。上班第一天...]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.7.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0"/>
-        <updated>2021-05-16T01:42:24.000Z</updated>
-        <summary type="html"><![CDATA[Added: templating system. Demo | Source | Docs
-Chore: rendering logic refactoring. Adopting functional paradigm.
-Thank you @tianheg, @onnyyonn]]></summary>
+        <title type="html"><![CDATA[2021 全球网络安全支出预计将达 1500 亿美元]]></title>
+        <id>https://www.oschina.net/news/142103/2021-worldwide-security-and-risk-managem</id>
+        <link href="https://www.oschina.net/news/142103/2021-worldwide-security-and-risk-managem"/>
+        <updated>2021-05-19T00:10:20.000Z</updated>
+        <summary type="html"><![CDATA[在全球网络犯罪蓬勃发展的背景下，企业和组织也将继续加大在安全工具和技术方面的投入。市场研究公司 Gartner 最新发布的一份报告预测表明，全球在信息安全和风险管理服务方面的支出预计将增长 12.4%，在 2021 年达到 1504 亿美元。 在 2020 年，安全和风险管理方面的支出增长则为 6.4%。Gartner 分析师认为，强劲的增长...]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Auto-Generated Social Media Images]]></title>
-        <id>https://css-tricks.com/?p=340136</id>
-        <link href="https://css-tricks.com/auto-generated-social-media-images/"/>
-        <updated>2021-05-14T20:34:49.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …
-The post Auto-Generated Social Media Images appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Umami —— 基于 JS 的网站分析工具]]></title>
+        <id>https://www.oschina.net/p/umami</id>
+        <link href="https://www.oschina.net/p/umami"/>
+        <updated>2021-05-19T00:04:39.000Z</updated>
+        <summary type="html"><![CDATA[Umami 是 Google Analytics 的一种简单、快速的网站分析替代工具。]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating Stylesheet Feature Flags With Sass !default]]></title>
-        <id>https://css-tricks.com/?p=340343</id>
-        <link href="https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/"/>
-        <updated>2021-05-14T14:14:34.000Z</updated>
-        <summary type="html"><![CDATA[!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:
-$variable: 'test' !default;
-To the Sass compiler, this line …
-The post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Gitee 推荐 | 鸿蒙系统中轻量化地图组件 TinyMap For HarmonyOS]]></title>
+        <id>https://gitee.com/dongyu1009/tiny-map-for-harmony-os</id>
+        <link href="https://gitee.com/dongyu1009/tiny-map-for-harmony-os"/>
+        <updated>2021-05-19T00:03:19.000Z</updated>
+        <summary type="html"><![CDATA[鸿蒙操作系统中，简单易用的轻量化地图组件。]]></summary>
         <author>
-            <name>Nathan Babcock</name>
+            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML Boilerplates]]></title>
-        <id>https://css-tricks.com/?p=340403</id>
-        <link href="https://css-tricks.com/html-boilerplates/"/>
-        <updated>2021-05-14T14:13:07.000Z</updated>
-        <summary type="html"><![CDATA[Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It’s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about …
-The post HTML Boilerplates appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[每日一博 | 使用 ML 和 DNN 建模的技巧总结]]></title>
+        <id>https://my.oschina.net/u/4611803/blog/4524830</id>
+        <link href="https://my.oschina.net/u/4611803/blog/4524830"/>
+        <updated>2021-05-19T00:01:29.000Z</updated>
+        <summary type="html"><![CDATA[每个人都可以轻松地将数据放入任何模型机器学习或深度学习框架中。但是遵循最佳实践技巧可能有助于提升工作效率。以下是常见的一些方法。]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tree-Shaking: A Reference Guide]]></title>
-        <id>https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/</id>
-        <link href="https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/"/>
-        <updated>2021-05-14T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
+        <title type="html"><![CDATA[Deno 1.10 发布：改进内置 test runner、新增 Web Storage API]]></title>
+        <id>https://www.oschina.net/news/142099/deno-1-10-released</id>
+        <link href="https://www.oschina.net/news/142099/deno-1-10-released"/>
+        <updated>2021-05-18T23:59:01.000Z</updated>
+        <summary type="html"><![CDATA[Deno 1.10 已正式发布，此版本包含许多新功能、性能优化以及错误修复。 改进内置的 test runner 在 Web Workers 中支持结构化克隆 (structured clone) 新增 Web Storage API 支持远程导入映射 (maps) 如果已经安装了 Deno，运行deno upgrade命令即可升级到 1.10 版本。如果是首次安装，可以参考下面的方法： 
+# Using ...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 12 Beta 1 发布，改善 UI 和隐私，引入设备高性能标准]]></title>
+        <id>https://www.oschina.net/news/142098/android-12-beta-1-released</id>
+        <link href="https://www.oschina.net/news/142098/android-12-beta-1-released"/>
+        <updated>2021-05-18T23:50:50.000Z</updated>
+        <summary type="html"><![CDATA[在今天的 Google I/O 大会上，Google 发布了 Android 12 的第一个测试版。Android 12 Beta 对 Android 系统进行的非常大的改动，以下是一些值得关注的变化。 适用于 Android 的新用户界面 正如 Android Developer 在消费者博客中强调的那样，Android 12 带来了 Android 历史上最大的设计变化。Google 重新思考了整个体验...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Delve 工具调试 Golang 程序]]></title>
+        <id>https://gocn.vip/topics/12090</id>
+        <link href="https://gocn.vip/topics/12090"/>
+        <updated>2021-05-18T23:16:38.000Z</updated>
+        <summary type="html"><![CDATA[Delve 是一个 go 语言的第三方调试器，github 地址是： https://github.com/go-delve/delve  。
+Delve 是 GDB 调试器的有效替代品。与 GDB 相比，它能更高的理解 Go 的运行时，数据结构以及表达式。Delve 目前支持 Linux，OSX 以及 Windows 的 amd64 平台。
+本文主要介绍使用 delve 调试器如何调试 Go 程序。内容包含如下：
+下载安装 Delve
+查看源码命令组，
+ 添加及管理断点命令组（添加断点、查看断点、清除断点等）
+ 控制程序的执行流程命令组
+ 查看当前状态的变量及表达式的值命令组。
+阅读完本文后，你将能够使用 Delve 工具很容易的调试你的 go 程序。
+下载并安装 Go Delve
+ 安装方式一：
+
+$ git clone https://github.com/go-delve/delve
+$ cd delve
+$ go install github.com/go-delve/delve/cmd/dlv
+
+
+
+安装方式二：（适用于 Go 1.16 及以后版本）
+
+$ go install github.co…]]></summary>
+        <author>
+            <name>yudotyang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NotesHub – 使用 GitHub 保存数据的在线 Markdown 笔记服务]]></title>
+        <id>https://www.appinn.com/?p=38847</id>
+        <link href="https://www.appinn.com/noteshub-online/"/>
+        <updated>2021-05-18T09:12:02.000Z</updated>
+        <summary type="html"><![CDATA[NotesHub 是一款使用 GitHub 保存数据的在线 Markdown 笔记服务，支持私有仓库，Markdown 语法与预览，PWA 离线使用，后台自动同步，界面主要适配手机屏幕。由于使用 Gi]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[全职远程] 诚聘全栈，前端，C++, 运维]]></title>
+        <id>https://gocn.vip/topics/12089</id>
+        <link href="https://gocn.vip/topics/12089"/>
+        <updated>2021-05-18T08:24:57.000Z</updated>
+        <summary type="html"><![CDATA[关于我们  
+团队主要遍布在美国，香港，泰国，越南，菲律宾地区。项目有体育直播，电竞，游戏，视频站，CDN, IM, 支付，客服系统等产品较为多元，近几年不断在新增项目团队以及拓展市场版图。
+我们能提供什么 
+丰富项目提成
+每周优秀员工奖金
+正式员工满一年保证 13 薪
+灵活的工作地点，弹性上班
+有能力，提期望，我买单
+工作内容以及要求 
+高级全栈工程师
+招聘人数：1 人
+薪资：20-30k
+职位描述
+负责重构压测服务产品架构设计、技术实现及优化；负责核心模块及关键业务的代码开发、调试与维护；研发规范的制定，推动研发规范的执行；工作积极发现和推动解决产品出现的问题。
+职位要求
+精通 Javasript/HTML/CSS 等前端开发技术，基础扎实；熟悉当下主流的前端框架 (React/Vue/Angular 等)，有 Vue 开发经验优先；精通 Node.js 的开发和部署，熟悉 ES6, ES7 语法，有 Express 或 Koa 框架的使用经验；熟悉 Linux 开发环境, 至少熟悉一种脚本语言，具备优秀的代码习惯; 有良好的组件级建模能力，具备大型系统架构经验; 良好的沟通能力和团队合作精神，有责任心，…]]></summary>
+        <author>
+            <name>HRMing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百亿级图数据在快手安全情报的应用与挑战]]></title>
+        <id>https://gocn.vip/topics/12088</id>
+        <link href="https://gocn.vip/topics/12088"/>
+        <updated>2021-05-18T08:18:42.000Z</updated>
+        <summary type="html"><![CDATA[本文首发于 Nebula Graph 公众号 NebulaGraphCommunity，Follow 看大厂图数据库技术实践。
+
+【作者介绍】
+戚名钰：快手安全 - 移动安全组，主要负责快手安全情报平台的建设
+倪雯：快手数据平台 - 分布式存储组，主要负责快手图数据库的建设
+姚靖怡：快手数据平台 - 分布式存储组，主要负责快手图数据库的建设
+【公司简介】
+快手是一家全球领先的内容社区和社交平台，旨在通过短视频的方式帮助人们发现所需、发挥所长，持续提升每个人独特的幸福感。
+一. 为什么需要图数据库
+传统的关系型数据库，在处理复杂数据关系运算上表现很差，随着数据量和深度的增加，关系型数据库无法在有效的时间内计算出结果。
+所以，为了更好的体现数据间的连接，企业需要一种将关系信息存储为实体、灵活拓展数据模型的数据库技术，这项技术就是图数据库（Graph Database）。
+相比于传统关系型数据库，图数据库具有以下两个优点：
+第一点，图数据库能很好地体现数据之间的关联关系
+
+从上面的图模型可以看出，图数据库的目标就是基于图模型以一种直观的方式来展示这些关系，其基于事物关系的模型表达，使图数据库天然具有可解释性。
+第二…]]></summary>
+        <author>
+            <name>NebulaGraph</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[博睿数据与阿里云签订云原生核心合作伙伴计划，推动企业智能运维落地]]></title>
+        <id>https://gocn.vip/topics/12087</id>
+        <link href="https://gocn.vip/topics/12087"/>
+        <updated>2021-05-18T07:12:36.000Z</updated>
+        <summary type="html"><![CDATA[来源 | 阿里巴巴云原生公众号
+​
+5 月 13 日，博睿数据与阿里云宣布达成深度合作，重点发力企业智能运维领域。双方签订了云原生核心合作伙伴计划，通过博睿数据领先的拨测网络结合阿里云独特的 AIOps 能力，构建全球领先的 SaaS 产品云拨测，为企业提供领先、专业、全面的智能运维能力。
+​
+
+
+Gartner 预测，到 2024 年，将有 30% 的企业会通过可观测技术来提升数字化业务的运行性能，相比 2020 年的 10% 提升了 3 倍。2023 年，全球可观测市场规模预计将达到 164.94 亿美元。
+​
+博睿数据 CEO 冯云彪出席签约仪式并表示，可观测市场不断增长，带来的不仅是机遇，同样也带来了更多挑战。企业对于可观测的视野不再局限于应用程序，而是需要从全局的角度洞察混合 IT 基础设施、数据源、网络、云和边缘端的应用状况，更加主动化、自动化和智能化地提升企业运维的效率。企业不仅仅需要应用的高可用，更需要数字化转型发展所带来的用户体验升级。2021 年，针对企业不断深入的数字化转型需求和技术架构演进，博睿数据创新的提出了 “服务可达的数据链 DNA” 模型，这一模型通过对现有 APM 行业技术产…]]></summary>
+        <author>
+            <name>alicloudnative</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[缓存数据一致性 - 架构师峰会演讲实录]]></title>
+        <id>https://gocn.vip/topics/12086</id>
+        <link href="https://gocn.vip/topics/12086"/>
+        <updated>2021-05-18T06:47:41.000Z</updated>
+        <summary type="html"><![CDATA[Previously
+缓存系统涉及的问题和知识点是比较多的，我主要分为以下几个方面来跟大家探讨：
+稳定性
+正确性
+可观测性
+规范落地和工具建设
+上篇 我们分析了缓存系统的稳定性，介绍了 go-zero 是怎么解决缓存穿透、缓存击穿、缓存雪崩问题的。比较浅显易懂，且具有比较强的实战意义，推荐一读。
+本文作为系列文章第二篇，主要跟大家探讨『缓存数据一致性』
+缓存正确性
+
+上篇文章提到，我们引入缓存的初衷是为了减小 DB 压力，增加系统稳定性，所以我们一开始关注的是缓存系统的稳定性。当稳定性解决之后，一般我们就会面临数据正确性问题，可能会经常遇到『明明数据更新了，为啥还是显示老的呢？』这类问题。这就是我们常说的『缓存数据一致性』问题了，接下来我们仔细下分析其产生的原因及应对方法。
+数据更新常见做法
+首先，我们讲数据一致性的前提是我们 DB 的更新和缓存的删除不会当成一个原子操作来看待，因为在高并发的场景下，我们不可能引入一个分布式锁来把这两者绑定为一个原子操作，如果绑定的话就会很大程度上影响并发性能，而且增加系统复杂度，所以我们只会追求数据的最终一致性，且本文只针对非追求强一致性要求的高并发场景，金融支付等同学自行…]]></summary>
+        <author>
+            <name>kevwan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vineyard 加入 CNCF Sandbox，将继续瞄准云原生大数据分析领域]]></title>
+        <id>https://gocn.vip/topics/12085</id>
+        <link href="https://gocn.vip/topics/12085"/>
+        <updated>2021-05-18T06:39:43.000Z</updated>
+        <summary type="html"><![CDATA[作者 | Vineyard 团队
+来源 | 阿里巴巴云原生公众号
+​
+Vineyard 是一个专为云原生环境下大数据分析场景中端到端工作流提供内存数据共享的分布式引擎，我们很高兴宣布 Vineyard 在2021年4月27日被云原生基金会（CNCF）TOC 接受为沙箱（Sandbox）项目。
+​
+Vineyard 项目开源地址：
+https://github.com/alibaba/v6d
+项目介绍
+现有的大数据分析场景中，对于端到端任务，不同的子任务之间通常使用例如 HDFS、S3、OSS 这样的分布式文件系统或对象存储系统，来共享任务之间的中间数据，这种方式在运行效率和研发效率上存在诸多问题，以下图所示的一个风控作业工作流为例：
+​
+
+工作流中不同任务之间为了共享中间数据，前一个任务将结果写入文件系统，完成之后，后一个再将文件读出作为输入，这个过程带来了额外的序列化及反序列化、内存拷贝、以及网络、IO 的开销，我们从历史任务中观察到有超过 60% 的任务为此花费了 40% 以上的执行时间。
+对于生产环境，为了高效地解决某一个特定范式的问题往往会引入一个新系统（例如分布式图计算），但这样的系统往往难以直接与…]]></summary>
+        <author>
+            <name>alicloudnative</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[layui 2.6.7 发布，原生态 Web UI 组件库]]></title>
+        <id>https://www.oschina.net/news/142033/layui-2-6-7-released</id>
+        <link href="https://www.oschina.net/news/142033/layui-2-6-7-released"/>
+        <updated>2021-05-18T06:09:29.000Z</updated>
+        <summary type="html"><![CDATA[更新日志： [新增] layui._typeof(operand) / layui._isArray(obj) 两个基础方法。 分别为"获取详细数据类型"、"对象是否为泛数组" [重写] layui.each() 基础方法，以兼容各种对象遍历 [修复] layui.sort(obj) 基础方法，在比较某些值相等时出现排序异常的问题 [修复] form 组件当 layui-form 元素出现层级嵌套，其提交的...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go 语言开源社区系统 BBS-GO 3.2.6 发布，新增反作弊系统]]></title>
+        <id>https://gocn.vip/topics/12084</id>
+        <link href="https://gocn.vip/topics/12084"/>
+        <updated>2021-05-18T04:44:59.000Z</updated>
+        <summary type="html"><![CDATA[更新内容
+支持开源中国一键登录
+反作弊系统
+
+
+发表内容验证码开关
+邮箱验证开关
+发表频率控制
+新用户观察期
+用户禁言
+...
+集成 nuxt-vite
+修复积分记录展示错误问题
+永久禁言用户积分清零
+发布地址
+github: https://github.com/mlogclub/bbs-go/releases/tag/v3.2.2
+
+gitee: https://gitee.com/mlogclub/bbs-go/releases/v3.2.2
+
+
+文档地址
+交流演示站：https://mlog.club
+
+帮助文档：http://docs.bbs-go.com/
+
+问题反馈：https://mlog.club/topics/node/3
+
+功能建议收集：https://mlog.club/topic/609
+
+github 地址：https://github.com/mlogclub/bbs-go
+
+gitee 地址：https://gitee.com/mlogclub/bbs-go
+
+
+功能简介
+
+功能预览
+
+
+
+
+
+
+
+
+
+相关链接
+github: https://github.com/mlogcl…]]></summary>
+        <author>
+            <name>fuckshit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iWifi 测速侠 – 在现实场景中，用 AR 测速[macOS/iOS 限免]]]></title>
+        <id>https://www.appinn.com/?p=38835</id>
+        <link href="https://www.appinn.com/iwifi-speedtest/"/>
+        <updated>2021-05-18T04:20:48.000Z</updated>
+        <summary type="html"><![CDATA[iWifi 测速侠是一款 macOS、iOS 通用应用，用来测网速，以及非常有特色的 AR 测速，可以让你在现实中，直观的看到网速状况。iWifi 测速侠原价 50 元，目前限免中。@Appinn 测]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-05-18)]]></title>
+        <id>https://gocn.vip/topics/12083</id>
+        <link href="https://gocn.vip/topics/12083"/>
+        <updated>2021-05-18T03:04:41.000Z</updated>
+        <summary type="html"><![CDATA[强大的模糊测试工具 go-fuzz https://gocn.vip/topics/12075
+
+单机内存内缓存怎么做？go-cache 了解下 https://mp.weixin.qq.com/s/LzfLySMPtbCO91q87UKRcQ
+
+深度探索 Go 语言（三）：动态派发 https://mp.weixin.qq.com/s/XLj_AKqETZy4cUBNiNZPBw
+
+golang 日期与时间完全指南 https://qvault.io/golang/golang-date-time/
+
+GopherChina 全部议程和讲师出炉了  https://mp.weixin.qq.com/s/G_M4yw6VCTfF03b2L21ZGQ
+
+
+
+
+编辑: 熊大
+订阅新闻: http://tinyletter.com/gocn
+
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>ningxiaofang1o</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《铜豌豆 Linux》10.9.2 版本发布]]></title>
+        <id>https://www.oschina.net/news/141999/atzlinux-10-9-2-released</id>
+        <link href="https://www.oschina.net/news/141999/atzlinux-10-9-2-released"/>
+        <updated>2021-05-18T02:59:43.000Z</updated>
+        <summary type="html"><![CDATA[https://www.atzlinux.com/News/2021/20210517.htm 《铜豌豆 Linux》10.9.2 版本发布 2021-05-17 此次发布主要为优化 ISO 安装速度，更新升级软件包、调整软件包。 软件包更新 Debian 官方软件包，更新至 Debian 官方仓库 buster-proposed-updates 2021-05-17 日。 安全更新 Debian 官方软件包安全更新 同步到 2021-05-...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arthas 3.5.1 发布：神级特性！内存搜索对象]]></title>
+        <id>https://www.oschina.net/news/141998/arthas-3-5-1-released</id>
+        <link href="https://www.oschina.net/news/141998/arthas-3-5-1-released"/>
+        <updated>2021-05-18T02:59:41.000Z</updated>
+        <summary type="html"><![CDATA[Arthas是Alibaba开源的Java诊断工具，深受开发者喜爱。 Github：https://github.com/alibaba/arthas 文档：https://arthas.aliyun.com/doc/ 以前使用watch等命令时，我们通常要先知道哪个类，调用了哪个函数，然后触发调用。这样有局限： 线上触发调用比较难 要watch到正确的函数可能要选择多次 条件表达式/结果表达式 ...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go sync.Pool 浅析]]></title>
+        <id>https://gocn.vip/topics/12082</id>
+        <link href="https://gocn.vip/topics/12082"/>
+        <updated>2021-05-18T02:50:49.000Z</updated>
+        <summary type="html"><![CDATA[hi, 大家好，我是 haohongfan。
+sync.Pool 应该是 Go 里面明星级别的数据结构，有很多优秀的文章都在介绍这个结构，本篇文章简单剖析下 sync.Pool。不过说实话 sync.Pool 并不是我们日常开发中使用频率很高的的并发原语。
+尽管用的频率很低，但是不可否认的是 sync.Pool 确实是 Go 的杀手锏，合理使用 sync.Pool 会让我们的程序性能飙升。本篇文章会从使用方式，源码剖析，运用场景等方面，让你对 sync.Pool 有一个清晰的认知。
+使用方式
+sync.Pool 使用很简单，但是想用对却很麻烦，因为你有可能看到网上一堆错误的示例，各位同学在搜索 sync.Pool 的使用例子时，要特别注意。
+sync.Pool 是一个内存池。通常内存池是用来防止内存泄露的（例如 C/C++)。sync.Pool 这个内存池却不是干这个的，带 GC 功能的语言都存在垃圾回收 STW 问题，需要回收的内存块越多，STW 持续时间就越长。如果能让 new 出来的变量，一直不被回收，得到重复利用，是不是就减轻了 GC 的压力。
+正确的使用示例（下面的 demo 选自 gin）
+fun…]]></summary>
+        <author>
+            <name>haohongfan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magisk 创作者吴泓霖加入 Google，任职于 Android 安全团队]]></title>
+        <id>https://www.oschina.net/news/141970/magisk-developer-joins-google</id>
+        <link href="https://www.oschina.net/news/141970/magisk-developer-joins-google"/>
+        <updated>2021-05-18T00:38:26.000Z</updated>
+        <summary type="html"><![CDATA[熟悉 Android 系统的用户都知道，要想获取系统的最高权限就需要对系统进行 root。如果你在过去几年里对 Android 手机进行了 root 并用来实现一些原本系统所不具备的功能，那么你一定听说过 Magisk 这款工具。今天，Magisk 的开发者吴泓霖（John Wu）宣布，他将加入 Google 的 Android 安全团队。 Magisk 是吴泓霖在 2016...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 之父：明年在 Python 中实现至少 1 倍提速]]></title>
+        <id>https://www.oschina.net/news/141969/faster-cpython-dark</id>
+        <link href="https://www.oschina.net/news/141969/faster-cpython-dark"/>
+        <updated>2021-05-18T00:32:14.000Z</updated>
+        <summary type="html"><![CDATA[Python 之父 Guido van Rossum 在 2021 年 Python 语言峰会上透露了一些有关 Python 的发展计划表示，其短期计划是在 Python 3.11 版本中实现至少提速 1 倍。按照官方的发布周期，目前处于测试阶段的 Python 3.10 计划于今年 10 月发布，Python 3.11 则预计于 2022 年发布。 2020 年 11 月，Guido 在退休一年后宣布再度复...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vineyard 加入 CNCF Sandbox，将继续瞄准云原生大数据分析领域]]></title>
+        <id>https://www.oschina.net/news/141966/vineyard-cncf-sandbox</id>
+        <link href="https://www.oschina.net/news/141966/vineyard-cncf-sandbox"/>
+        <updated>2021-05-18T00:16:49.000Z</updated>
+        <summary type="html"><![CDATA[Vineyard 是一个专为云原生环境下大数据分析场景中端到端工作流提供内存数据共享的分布式引擎，我们很高兴宣布 Vineyard 在 2021 年 4 月 27 日被云原生基金会（CNCF）TOC 接受为沙箱（Sandbox）项目。 Vineyard 项目开源地址：https://github.com/alibaba/v6d 项目介绍 现有的大数据分析场景中，对于端到端任务，不同的...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Percona 调查：企业对开源软件的依赖不断提高]]></title>
+        <id>https://www.oschina.net/news/141965/survey-shows-enterprises-reliance-on-opensource-software</id>
+        <link href="https://www.oschina.net/news/141965/survey-shows-enterprises-reliance-on-opensource-software"/>
+        <updated>2021-05-18T00:14:23.000Z</updated>
+        <summary type="html"><![CDATA[近日，Percona 对 200 名 IT 决策者进行了调查，通过调查他们发现如今企业对开源软件的价值有着深刻的认识，其中所有的 IT 决策者（100%）均表示，使用开源软件为他们的企业/组织带来了好处。调查报告还显示，在过去的 12个月时间里，79% 的受访者在企业内部都增加了开源软件的使用。 200 名受访者中，25% 来自于 500-99...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深度学习模型库入门：图像语义分割-ICNET]]></title>
+        <id>https://www.paddlepaddle.org.cn/modelbasedetail/icnet</id>
+        <link href="https://www.paddlepaddle.org.cn/modelbasedetail/icnet"/>
+        <updated>2021-05-18T00:09:44.000Z</updated>
+        <summary type="html"><![CDATA[ICNet 主要用于图像实时语义分割，能够兼顾速度和准确性。 ICNet的主要思想是将输入图像变换为不同的分辨率，然后用不同计算复杂度的子网络计算不同分辨率的输入，然后将结果合并。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dqlite —— 高可用 SQLite 数据库]]></title>
+        <id>https://www.oschina.net/p/dqlite</id>
+        <link href="https://www.oschina.net/p/dqlite"/>
+        <updated>2021-05-18T00:07:59.000Z</updated>
+        <summary type="html"><![CDATA[Dqlite 是一个快速、嵌入式、持久化的 SQL 数据库，具有Raft共识，非常适合容错的IoT和Edge设备。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitee 推荐 | 桌面悬浮窗软件 TrafficMonitor]]></title>
+        <id>https://gitee.com/zhongyang219/TrafficMonitor</id>
+        <link href="https://gitee.com/zhongyang219/TrafficMonitor"/>
+        <updated>2021-05-18T00:04:25.000Z</updated>
+        <summary type="html"><![CDATA[这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 度量、范数和内积原来是这么个关系]]></title>
+        <id>https://my.oschina.net/mathinside/blog/4721858</id>
+        <link href="https://my.oschina.net/mathinside/blog/4721858"/>
+        <updated>2021-05-18T00:00:17.000Z</updated>
+        <summary type="html"><![CDATA[首先，题目中的三个概念对应三类空间，即度量空间（Metric space）、赋范空间（Normed space）和内积空间（Inner prodect space）。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scala 3 正式发布]]></title>
+        <id>https://www.oschina.net/news/141955/scala3-released</id>
+        <link href="https://www.oschina.net/news/141955/scala3-released"/>
+        <updated>2021-05-17T23:15:05.000Z</updated>
+        <summary type="html"><![CDATA[Scala 3 稳定版来了！发布公告写道：“经过 8 年的努力开发，在此期间共产生了 28000 多次 commit、7400 多个 PR，以及关闭了 4100 多个 issue。从2012年12月6日 Scala 3 的首个 commit 算起，共计超过 100 人为项目做出了贡献。现在，Scala 3 通过结合类型理论的最新研究以及 Scala 2 的行业经验，Scala 的第三次迭代版...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-05-17)]]></title>
+        <id>https://gocn.vip/topics/12081</id>
+        <link href="https://gocn.vip/topics/12081"/>
+        <updated>2021-05-17T12:11:02.000Z</updated>
+        <summary type="html"><![CDATA[如何管理多版本的 go   https://lakefs.io/managing-multiple-go-versions-with-go/
+
+一个 SQL 数据库只使用了 2000 行 golang 代码并且没有任何第三方依赖 https://github.com/auxten/go-sqldb
+
+使用 go 开发一个监控剪贴板的服务  https://www.reddit.com/r/golang/comments/ncsnj2/monitoring_clipboard_as_service_with_go/
+
+ Gorm 复杂关系举例：  https://github.com/harranali/gorm-relationships-examples
+
+写了 500，000 行 go 代码之后  https://blog.khanacademy.org/half-a-million-lines-of-go
+* GopherChina 全部日程出炉 https://gc.gocn.vip
+
+
+
+
+编辑: 阿章 
+订阅新闻: http://tinyletter.com/gocn
+
+招聘专区: https:/…]]></summary>
+        <author>
+            <name>azhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hunt Framework 3.4.4 发布，D 语言 Web 服务框架！]]></title>
+        <id>https://www.oschina.net/news/141896/hunt-framework-3-4-4-released</id>
+        <link href="https://www.oschina.net/news/141896/hunt-framework-3-4-4-released"/>
+        <updated>2021-05-17T10:14:21.000Z</updated>
+        <summary type="html"><![CDATA[Hunt Framework 是一个全栈 D语言 Web 服务框架，框架完全使用 DLang 编写，从底层的 io 设计到协议解析再到框架层完全是自己设计研发，并在使用的便捷性上吸取了其他语言框架的优势，比如 Django 的模板引擎和 Middleware 机制，再比如 Laravel 的依赖输入架构等，让一个完全使用编译型高性能语言开发出来的框架灵活的像...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因你不同，2021 阿里云开发者大会重磅开启 @ 所有开发者！]]></title>
+        <id>https://gocn.vip/topics/12080</id>
+        <link href="https://gocn.vip/topics/12080"/>
+        <updated>2021-05-17T08:14:19.000Z</updated>
+        <summary type="html"><![CDATA[来源 | 阿里巴巴云原生公众号
+它来了！它来了！
+2021 年度阿里云开发者大会终于开始报名啦！
+
+每一个时代都有属于自己的英雄
+而在云时代
+开发者就是数字创新的践行者、
+是这个时代的英雄
+他们正在用自己独特的面孔参与到数字时代的建设中
+
+我们希望能够与开发者们
+共同成长、共同定义、共同分享云时代的发展
+“分享是一种快乐”
+我们也希望把这份快乐带给更多的人
+所以才有了这次的 2021 阿里云开发者大会
+
+科技赋能社会
+技术推动变革
+无论你是怀揣着对技术的热爱
+还是带着对技术的探求心
+这一次的开发者大会你都不容错过
+
+数字时代，如何更好地利用云的能力？
+什么是新型、便捷的开发模式？
+如何让开发者更高效地构建应用？
+······
+以上问题
+你都将在本次开发者大会上得到想要的答案
+
+一切，因云而不同，因开发者们而不同
+扫描下方图片二维码
+或直接点击下方图片
+即可报名活动啦~
+名额有限，先到先得！]]></summary>
+        <author>
+            <name>alicloudnative</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【深度】阿里巴巴万级规模 K8s 集群全局高可用体系之美]]></title>
+        <id>https://gocn.vip/topics/12079</id>
+        <link href="https://gocn.vip/topics/12079"/>
+        <updated>2021-05-17T08:05:49.000Z</updated>
+        <summary type="html"><![CDATA[作者 |  韩堂、柘远、沉醉
+来源 | 阿里巴巴云原生公众号
+​
+前言
+台湾作家林清玄在接受记者采访的时候，如此评价自己 30 多年写作生涯：“第一个十年我才华横溢，‘贼光闪现’，令周边黯然失色；第二个十年，我终于 ‘宝光现形’，不再去抢风头，反而与身边的美丽相得益彰；进入第三个十年，繁华落尽见真醇，我进入了 ‘醇光初现’ 的阶段，真正体味到了境界之美”。
+​
+长夜有穷，真水无香。领略过了 K8s“身在江湖” 的那种惊心动魄以及它那生态系统的繁花似锦，该是回过头来体味高可用体系境界之美的时候了。毕竟仅能经得起敲打还是不能独步武林的！
+​
+在 K8s 高可用领域有一个问题被大家所熟知，那就是 K8s 单集群规模带来的 SLO 问题，如何持续保障？今天就以单集群的规模增长带来的高可用挑战来作为引子来给大家一个体感。
+​
+ASI 单集群规模支撑超过社区的 5000 台，这是个非常有意思且具备极大挑战的事情，对需要进行 K8s 生产化的同学，甚至具备 K8s 生产化经验的同学来说，一定会是个感兴趣的话题。回看 ASI 单集群规模从 100 到 10000 的发展之路，伴随着业务的增长和创新带来的每一次集群规模增长，都…]]></summary>
+        <author>
+            <name>alicloudnative</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GORM 如何读取别名字段的值]]></title>
+        <id>https://gocn.vip/topics/12078</id>
+        <link href="https://gocn.vip/topics/12078"/>
+        <updated>2021-05-17T07:00:02.000Z</updated>
+        <summary type="html"><![CDATA[查询数据时给字段设置别名，请问使用 GORM 如何把别名字段的值读取到结构体中？
+表结构
+DROP TABLE IF EXISTS "test"."test";
+CREATE TABLE "test"."test" (
+  "id" varchar(32) NOT NULL,
+  "name" varchar(255) COLLATE "pg_catalog"."default",
+  "remark" varchar(255) COLLATE "pg_catalog"."default"
+);
+ALTER TABLE "test"."test" ADD CONSTRAINT "test_pkey" PRIMARY KEY ("id");
+
+表对应模型结构体
+type Test struct {
+    ID     string  `gorm:"column:id;type:varchar(32);primaryKey;comment:唯一 ID，流水号" json:"id"` // 唯一 ID，流水号
+    Name   string `gorm:"column:name;type:varchar(25…]]></summary>
+        <author>
+            <name>Tiki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PasteEx – 剪贴板内容自动粘贴为文件，支持 txt、html、png、jpg 等格式[Win]]]></title>
+        <id>https://www.appinn.com/?p=38832</id>
+        <link href="https://www.appinn.com/pasteex-for-windows/"/>
+        <updated>2021-05-17T03:50:44.000Z</updated>
+        <summary type="html"><![CDATA[PasteEx 是一款能够在粘贴时自动生成文件的 Windows 工具，比如将剪贴板内的文本内容，粘贴为 txt 文件；将剪贴板内的图像，粘贴为 png/jpg 格式。@Appinn 大概很多年前，小]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SilentNotes – 尊重隐私的开源便签，支持 WebDAV 同步、加密[Win/Android]]]></title>
+        <id>https://www.appinn.com/?p=38825</id>
+        <link href="https://www.appinn.com/silentnotes/"/>
+        <updated>2021-05-16T09:44:44.000Z</updated>
+        <summary type="html"><![CDATA[SilentNotes 是一款尊重隐私的开源便签应用，支持 Windows 与 Android，并可通过 WebDAV、FTP、网盘等方式同步数据，端对端加密，WYSIWYG 编辑器，不收集个人数据，]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手搓大佬也来分享一个自用多年的“日历记事本”]]></title>
+        <id>https://www.appinn.com/?p=38822</id>
+        <link href="https://www.appinn.com/rili-jishiben-for-windows/"/>
+        <updated>2021-05-15T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[来自论坛的“手搓大佬” @dangerace 同学最近分享了它一直自用，并且是自己开发的日历记事本。@Appinn 日历记事本 一个以“日历”为核心的记事本，附加了简单的人脉、提醒、备忘等功能，比较适]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xHub 文件君 – 支持网盘文件解压缩的文档管理应用，可播放视频、音乐，传输文件、阅读小说[iOS 内购永久 VIP 限免]]]></title>
+        <id>https://www.appinn.com/?p=38819</id>
+        <link href="https://www.appinn.com/xhub-files-manager-for-ios/"/>
+        <updated>2021-05-14T04:25:58.000Z</updated>
+        <summary type="html"><![CDATA[xHub 文件君 是一款综合的文档管理 iPad、iPhone 应用，拥有文件浏览，Wi-Fi 文件传输，视频播放，音乐播放，照片浏览，文本编辑和录音等功能，可以对文件搜索/编辑/保存，移动/复制，上]]></summary>
+        <author>
+            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
@@ -449,293 +1397,23 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevTools for CSS layouts 2021 edition]]></title>
-        <id>https://css-tricks.com/?p=340490</id>
-        <link href="https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2"/>
-        <updated>2021-05-13T23:22:45.000Z</updated>
-        <summary type="html"><![CDATA[Chen Hui Jing covers some recent movement in DevTools:
-Firefox’s grid inspector was pretty full-featured from the get-to and released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a basic grid inspector 
-…
-The post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[分享笔记 · ShareNote – 一个简单好用的文字分享工具]]></title>
+        <id>https://www.appinn.com/?p=38814</id>
+        <link href="https://www.appinn.com/sharenote-online/"/>
+        <updated>2021-05-13T07:15:36.000Z</updated>
+        <summary type="html"><![CDATA[分享笔记 · ShareNote 是一款简单好用的文字分享工具，就是把很长的文字转换成漂亮的图片，有 6 种样式，可以添加头图、日期，并且也有移动端适配，“方便“分享。@Appinn 将文字图片化是一]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
-        <updated>2021-05-12T12:42:00.000Z</updated>
-        <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.]]></summary>
+        <title type="html"><![CDATA[西窗烛 – 用屏幕小组件鉴赏诗句。中华传统文化平台，品味中国诗词之美]]></title>
+        <id>https://www.appinn.com/?p=38796</id>
+        <link href="https://www.appinn.com/xichuangzhu/"/>
+        <updated>2021-05-12T08:26:31.000Z</updated>
+        <summary type="html"><![CDATA[西窗烛是一款收录了很多中国诗词的 iPhone、Android、macOS 应用，它能够在 iPhone 的屏幕小组件上显示中国诗词，还能在西窗烛的主屏幕上通过滑动卡片的形式，鉴赏中国诗词之美。另外，]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Little Smashing Stories]]></title>
-        <id>https://smashingmagazine.com/2021/05/little-smashing-stories/</id>
-        <link href="https://smashingmagazine.com/2021/05/little-smashing-stories/"/>
-        <updated>2021-05-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Primer On CSS Container Queries]]></title>
-        <id>https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/</id>
-        <link href="https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/"/>
-        <updated>2021-05-11T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Conference Platform We Use For Our Online Events: Hopin]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/"/>
-        <updated>2021-05-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Amanda Annandale)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Started With React By Building A Whac-A-Mole Game]]></title>
-        <id>https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/</id>
-        <link href="https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/"/>
-        <updated>2021-05-10T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.4.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0"/>
-        <updated>2021-05-10T08:55:42.000Z</updated>
-        <summary type="html"><![CDATA[Added: Basic theme customization: Demo | Source | Docs.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.6.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0"/>
-        <updated>2021-05-10T08:15:20.000Z</updated>
-        <summary type="html"><![CDATA[Added: Link from the title of a subscription to its website.
-Added: Store feedUrl and siteUrl for each source in cache.
-Added: Semantic element (<time>) for timestamp on the UI.
-Added: Semantic API for theming the default template. Demo | Source | Docs
-Changed: Moved feed metadata from article level to feed level in cache.
-Fixed: Any html-like text was stripped from title. Fixed with encoded text.
-Removed: href for each source in cache. The value was never used so it's not a breaking change.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.5.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0"/>
-        <updated>2021-05-08T05:16:47.000Z</updated>
-        <summary type="html"><![CDATA[Added: Atom feed generator
-Added: Customizable site title
-Added: Copy all files from static directory to the root of the site.
-Changed: Favicon, css, and js assets now existing at site root level.
-Chore: Excluded testing files from repo.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Organize Product-Related Assets And Collaborate Better]]></title>
-        <id>https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/</id>
-        <link href="https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/"/>
-        <updated>2021-05-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Valeriia Panina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving The Performance Of Shopify Themes (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/"/>
-        <updated>2021-05-06T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carson Shold)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reducing HTML Payload With Next.js (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/"/>
-        <updated>2021-05-05T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Liran Cohen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.3.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1"/>
-        <updated>2021-05-05T05:19:57.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Avoid crwalers.
-Fixed: Error logging from XML parser.
-Fixed: Typo in docs.
-Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.3.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0"/>
-        <updated>2021-05-05T05:19:26.000Z</updated>
-        <summary type="html"><![CDATA[Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.
-Added: Documentation for osmosfeed.yaml.
-Fixed: More intuitive logging during build.
-Chore: Refactored parameter passing for enrich step.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.2.3]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3"/>
-        <updated>2021-05-05T05:19:03.000Z</updated>
-        <summary type="html"><![CDATA[Changed: favicon update.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.2.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1"/>
-        <updated>2021-05-05T05:18:52.000Z</updated>
-        <summary type="html"><![CDATA[Added: Display CLI version in footer.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git]]></title>
-        <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/</id>
-        <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/"/>
-        <updated>2021-05-04T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tobias Günther)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/"/>
-        <updated>2021-05-04T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Evolution Of Jamstack]]></title>
-        <id>https://smashingmagazine.com/2021/05/evolution-jamstack/</id>
-        <link href="https://smashingmagazine.com/2021/05/evolution-jamstack/"/>
-        <updated>2021-05-03T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mathias Biilmann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May Is In The Air (2021 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/</id>
-        <link href="https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/"/>
-        <updated>2021-04-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Humble `<img>` Element And Core Web Vitals]]></title>
-        <id>https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/</id>
-        <link href="https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
-        <updated>2021-04-29T12:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Addy Osmani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Image Optimization, A New Smashing Book By Addy Osmani]]></title>
-        <id>https://smashingmagazine.com/2021/04/image-optimization-pre-release/</id>
-        <link href="https://smashingmagazine.com/2021/04/image-optimization-pre-release/"/>
-        <updated>2021-04-28T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Easing Functions For CSS Animations And Transitions]]></title>
-        <id>https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/</id>
-        <link href="https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/"/>
-        <updated>2021-04-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Bake Layers Of Accessibility Testing Into Your Process]]></title>
-        <id>https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/</id>
-        <link href="https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/"/>
-        <updated>2021-04-26T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to "layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early — when it’s easier and cheaper to fix them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kate Kalcevich &amp; Mike Gifford)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors]]></title>
-        <id>https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/</id>
-        <link href="https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/"/>
-        <updated>2021-04-23T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Design Done Well: The Ordinary Made Extraordinary (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2021/04/web-design-done-well-part1/</id>
-        <link href="https://smashingmagazine.com/2021/04/web-design-done-well-part1/"/>
-        <updated>2021-04-22T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Complete Guide To Incremental Static Regeneration (ISR) With Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/"/>
-        <updated>2021-04-21T13:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Incremental Static Regeneration (ISR) is a new evolution of the Jamstack, allowing you to update static content instantly without needing a full rebuild of your site. The hybrid approach of Next.js allows you to use ISR for e-commerce, marketing pages, blog posts, ad-backed media, and more.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Lee Robinson)</name>
+            <name>青小蛙</name>
         </author>
     </entry>
 </feed>

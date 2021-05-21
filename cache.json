@@ -1,583 +1,6 @@
 {
   "sources": [
     {
-      "title": "Release notes from osmosfeed",
-      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": [
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2",
-          "author": null,
-          "description": "⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: \"16\" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example\nChore: Reorganize to monorepo with npm workspace.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2",
-          "publishedOn": "2021-05-17T05:32:19.000Z",
-          "wordCount": 340,
-          "title": "v1.7.2"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
-          "author": null,
-          "description": "Fixed: static files were unnecessarily copied for custom templates.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
-          "publishedOn": "2021-05-16T02:33:58.000Z",
-          "wordCount": 276,
-          "title": "v1.7.1"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
-          "author": null,
-          "description": "Added: templating system. Demo | Source | Docs\nChore: rendering logic refactoring. Adopting functional paradigm.\nThank you @tianheg, @onnyyonn",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
-          "publishedOn": "2021-05-16T01:42:24.000Z",
-          "wordCount": 286,
-          "title": "v1.7.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
-          "author": null,
-          "description": "Added: Basic theme customization: Demo | Source | Docs.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
-          "publishedOn": "2021-05-10T08:55:42.000Z",
-          "wordCount": 276,
-          "title": "v1.4.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0",
-          "author": null,
-          "description": "Added: Link from the title of a subscription to its website.\nAdded: Store feedUrl and siteUrl for each source in cache.\nAdded: Semantic element (<time>) for timestamp on the UI.\nAdded: Semantic API for theming the default template. Demo | Source | Docs\nChanged: Moved feed metadata from article level to feed level in cache.\nFixed: Any html-like text was stripped from title. Fixed with encoded text.\nRemoved: href for each source in cache. The value was never used so it's not a breaking change.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0",
-          "publishedOn": "2021-05-10T08:15:20.000Z",
-          "wordCount": 352,
-          "title": "v1.6.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0",
-          "author": null,
-          "description": "Added: Atom feed generator\nAdded: Customizable site title\nAdded: Copy all files from static directory to the root of the site.\nChanged: Favicon, css, and js assets now existing at site root level.\nChore: Excluded testing files from repo.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0",
-          "publishedOn": "2021-05-08T05:16:47.000Z",
-          "wordCount": 306,
-          "title": "v1.5.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1",
-          "author": null,
-          "description": "Fixed: Avoid crwalers.\nFixed: Error logging from XML parser.\nFixed: Typo in docs.\nThank you: @dym-sh, @tabokie, @cheese1",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1",
-          "publishedOn": "2021-05-05T05:19:57.000Z",
-          "wordCount": 285,
-          "title": "v1.3.1"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0",
-          "author": null,
-          "description": "Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.\nAdded: Documentation for osmosfeed.yaml.\nFixed: More intuitive logging during build.\nChore: Refactored parameter passing for enrich step.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0",
-          "publishedOn": "2021-05-05T05:19:26.000Z",
-          "wordCount": 293,
-          "title": "v1.3.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3",
-          "author": null,
-          "description": "Changed: favicon update.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3",
-          "publishedOn": "2021-05-05T05:19:03.000Z",
-          "wordCount": 270,
-          "title": "v1.2.3"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1",
-          "author": null,
-          "description": "Added: Display CLI version in footer.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1",
-          "publishedOn": "2021-05-05T05:18:52.000Z",
-          "wordCount": 273,
-          "title": "v1.2.1"
-        }
-      ]
-    },
-    {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=340599",
-          "author": "Chris Coyier",
-          "description": "Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …\nThe post JSON in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/json-in-css/",
-          "publishedOn": "2021-05-20T22:29:53.000Z",
-          "wordCount": 631,
-          "title": "JSON in CSS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340933",
-          "author": "Chris Coyier",
-          "description": "Ooo look at this mighty SEO flex from Google: Learn CSS! Well deserved — this is great content. Twenty-three chapters taking you through all the fundamentals of CSS with extra content, like relevant podcasts, interactive examples, and even quizzes to …\nThe post Learn CSS! appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://web.dev/learn/css/",
-          "publishedOn": "2021-05-20T21:51:43.000Z",
-          "wordCount": 991,
-          "title": "Learn CSS!"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340715",
-          "author": "Jhey Tompkins",
-          "description": "If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …\nThe post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/",
-          "publishedOn": "2021-05-20T14:24:12.000Z",
-          "wordCount": 1691,
-          "title": "Can We Create a “Resize Hack” With Container Queries?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340897",
-          "author": "Chris Coyier",
-          "description": "Here’s some hardcore deep-dive CSS nerdery from PPK. If you can wrap your mind around min-content (the smallest an element can be based on the content it contains) and max-content (the largest the content of an element can push it) …\nThe post fit-content and fit-content() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html",
-          "publishedOn": "2021-05-20T14:20:56.000Z",
-          "wordCount": 1196,
-          "title": "fit-content and fit-content()"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340731",
-          "author": "Chris Coyier",
-          "description": "The Public Beta of the Notion API dropped! Woot! Here’s their guide. I’ve been a Notion user and fan for a long time, for both personal and professional team use. They even sponsored a few videos around here a …\nThe post Notion API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/notion-api/",
-          "publishedOn": "2021-05-19T23:18:42.000Z",
-          "wordCount": 1042,
-          "title": "Notion API"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340692",
-          "author": "Shubham Jain",
-          "description": "SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …\nThe post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/",
-          "publishedOn": "2021-05-19T14:28:19.000Z",
-          "wordCount": 1558,
-          "title": "svg-loader: A Different Way to Work With External SVG"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340613",
-          "author": "Chris Coyier",
-          "description": "I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.\nA fella wrote to me a while back outlining a situation he was in. His company has …\nThe post Pinned Audio WordPress Theme appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/pinned-audio-wordpress-theme/",
-          "publishedOn": "2021-05-18T19:14:53.000Z",
-          "wordCount": 1082,
-          "title": "Pinned Audio WordPress Theme"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340420",
-          "author": "Silvia O'Dwyer",
-          "description": "Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …\nThe post How to Create Neon Text With CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-create-neon-text-with-css/",
-          "publishedOn": "2021-05-18T14:31:25.000Z",
-          "wordCount": 2401,
-          "title": "How to Create Neon Text With CSS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340716",
-          "author": "Chris Coyier",
-          "description": "Addy Osmani on images in HTML:\nThe humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can \n…\nThe post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "publishedOn": "2021-05-17T22:38:06.000Z",
-          "wordCount": 5325,
-          "title": "The Humble `img` Element And Core Web Vitals"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339522",
-          "author": "Ashley Kolodziej",
-          "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-love-letter-to-html-css/",
-          "publishedOn": "2021-05-17T14:27:22.000Z",
-          "wordCount": 2661,
-          "title": "A Love Letter to HTML & CSS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340594",
-          "author": "Chris Coyier",
-          "description": "An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …\nThe post Euismod appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.euismod.dev/",
-          "publishedOn": "2021-05-17T14:27:13.000Z",
-          "wordCount": 3,
-          "title": "Euismod"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340136",
-          "author": "Chris Coyier",
-          "description": "I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/auto-generated-social-media-images/",
-          "publishedOn": "2021-05-14T20:34:49.000Z",
-          "wordCount": 2298,
-          "title": "Auto-Generated Social Media Images"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340343",
-          "author": "Nathan Babcock",
-          "description": "!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:\n$variable: 'test' !default;\nTo the Sass compiler, this line …\nThe post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/",
-          "publishedOn": "2021-05-14T14:14:34.000Z",
-          "wordCount": 1344,
-          "title": "Creating Stylesheet Feature Flags With Sass !default"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340403",
-          "author": "Chris Coyier",
-          "description": "Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It’s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about …\nThe post HTML Boilerplates appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/html-boilerplates/",
-          "publishedOn": "2021-05-14T14:13:07.000Z",
-          "wordCount": 781,
-          "title": "HTML Boilerplates"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340490",
-          "author": "Chris Coyier",
-          "description": "Chen Hui Jing covers some recent movement in DevTools:\nFirefox’s grid inspector was pretty full-featured from the get-to and released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a basic grid inspector \n…\nThe post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2",
-          "publishedOn": "2021-05-13T23:22:45.000Z",
-          "wordCount": 1594,
-          "title": "DevTools for CSS layouts 2021 edition"
-        }
-      ]
-    },
-    {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
-      "articles": [
-        {
-          "id": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.",
-          "link": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
-          "publishedOn": "2021-05-20T14:20:00.000Z",
-          "wordCount": 831,
-          "title": "Boost Your Skills Online: Smashing Workshops On Front-End And Design"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
-          "author": "hello@smashingmagazine.com (Facundo Giuliani)",
-          "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
-          "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
-          "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1919,
-          "title": "How To Implement Authentication In Next.js With Auth0"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Do we need mega-dropdown hover menus in 2021? Probably not. Let’s explore things to keep in mind when designing and building a mega-dropdown, alternatives to hover menus and fine details for designing a better UX.",
-          "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
-          "publishedOn": "2021-05-19T11:40:00.000Z",
-          "wordCount": 4986,
-          "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
-          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
-          "description": "Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.",
-          "link": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
-          "publishedOn": "2021-05-18T10:30:00.000Z",
-          "wordCount": 1796,
-          "title": "How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.",
-          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
-          "publishedOn": "2021-05-18T05:00:00.000Z",
-          "wordCount": 9250,
-          "title": "Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
-          "author": "hello@smashingmagazine.com (Beau Hartshorne)",
-          "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
-          "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
-          "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2906,
-          "title": "How We Improved Our Core Web Vitals (Case Study)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
-          "author": "hello@smashingmagazine.com (Átila Fassina)",
-          "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
-          "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
-          "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2393,
-          "title": "Tree-Shaking: A Reference Guide"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.",
-          "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
-          "publishedOn": "2021-05-12T12:42:00.000Z",
-          "wordCount": 3443,
-          "title": "Frustrating Design Patterns That Need Fixing: Birthday Picker"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.",
-          "link": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
-          "publishedOn": "2021-05-12T08:00:00.000Z",
-          "wordCount": 1993,
-          "title": "Little Smashing Stories"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.",
-          "link": "https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
-          "publishedOn": "2021-05-11T13:30:00.000Z",
-          "wordCount": 4874,
-          "title": "A Primer On CSS Container Queries"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
-          "author": "hello@smashingmagazine.com (Amanda Annandale)",
-          "description": "At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?",
-          "link": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
-          "publishedOn": "2021-05-11T10:00:00.000Z",
-          "wordCount": 1958,
-          "title": "The Conference Platform We Use For Our Online Events: Hopin"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
-          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
-          "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
-          "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
-          "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6310,
-          "title": "Get Started With React By Building A Whac-A-Mole Game"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
-          "author": "hello@smashingmagazine.com (Valeriia Panina)",
-          "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
-          "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
-          "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4127,
-          "title": "How To Organize Product-Related Assets And Collaborate Better"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
-          "author": "hello@smashingmagazine.com (Carson Shold)",
-          "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
-          "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
-          "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2617,
-          "title": "Improving The Performance Of Shopify Themes (Case Study)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
-          "author": "hello@smashingmagazine.com (Liran Cohen)",
-          "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
-          "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
-          "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2296,
-          "title": "Reducing HTML Payload With Next.js (Case Study)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
-          "author": "hello@smashingmagazine.com (Tobias Günther)",
-          "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
-          "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
-          "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1791,
-          "title": "A Guide To Undoing Mistakes With Git"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.",
-          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
-          "publishedOn": "2021-05-04T05:00:00.000Z",
-          "wordCount": 6993,
-          "title": "Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
-          "author": "hello@smashingmagazine.com (Mathias Biilmann)",
-          "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
-          "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
-          "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2141,
-          "title": "The Evolution Of Jamstack"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
-          "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
-          "publishedOn": "2021-04-30T09:00:00.000Z",
-          "wordCount": 2139,
-          "title": "May Is In The Air (2021 Wallpapers Edition)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "author": "hello@smashingmagazine.com (Addy Osmani)",
-          "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
-          "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "publishedOn": "2021-04-29T12:15:00.000Z",
-          "wordCount": 5325,
-          "title": "The Humble `<img>` Element And Core Web Vitals"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.",
-          "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
-          "publishedOn": "2021-04-28T13:20:00.000Z",
-          "wordCount": 2130,
-          "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.",
-          "link": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
-          "publishedOn": "2021-04-27T12:00:00.000Z",
-          "wordCount": 2623,
-          "title": "Understanding Easing Functions For CSS Animations And Transitions"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
-          "author": "hello@smashingmagazine.com (Kate Kalcevich & Mike Gifford)",
-          "description": "Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to \"layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early — when it’s easier and cheaper to fix them.",
-          "link": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
-          "publishedOn": "2021-04-26T11:00:00.000Z",
-          "wordCount": 3279,
-          "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!",
-          "link": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
-          "publishedOn": "2021-04-23T08:30:00.000Z",
-          "wordCount": 2430,
-          "title": "A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.",
-          "link": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
-          "publishedOn": "2021-04-22T14:00:00.000Z",
-          "wordCount": 1764,
-          "title": "Web Design Done Well: The Ordinary Made Extraordinary (Part 1)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
-          "author": "hello@smashingmagazine.com (Lee Robinson)",
-          "description": "Incremental Static Regeneration (ISR) is a new evolution of the Jamstack, allowing you to update static content instantly without needing a full rebuild of your site. The hybrid approach of Next.js allows you to use ISR for e-commerce, marketing pages, blog posts, ad-backed media, and more.",
-          "link": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
-          "publishedOn": "2021-04-21T13:55:00.000Z",
-          "wordCount": 1929,
-          "title": "A Complete Guide To Incremental Static Regeneration (ISR) With Next.js"
-        }
-      ]
-    },
-    {
-      "title": "freeCodeCamp.org",
-      "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news",
-      "articles": [
-        {
-          "id": "60a6b3ab906c5207e3a7f5fa",
-          "author": "",
-          "description": "Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation",
-          "link": "https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/",
-          "publishedOn": "2021-05-20T19:14:48.000Z",
-          "wordCount": 397,
-          "title": "Angular 11 Tutorial: Code a Project from Scratch"
-        },
-        {
-          "id": "60a694ab906c5207e3a7f544",
-          "author": "",
-          "description": "A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an",
-          "link": "https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/",
-          "publishedOn": "2021-05-20T17:12:29.000Z",
-          "wordCount": 436,
-          "title": "Learn Modern C++ by Building an Audio Plugin"
-        },
-        {
-          "id": "60a4b5c7906c5207e3a7e2bb",
-          "author": "",
-          "description": "In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets",
-          "link": "https://www.freecodecamp.org/news/get-started-with-version-control-and-git/",
-          "publishedOn": "2021-05-20T15:20:53.000Z",
-          "wordCount": 1493,
-          "title": "How to Get Started with Version Control Using Git"
-        },
-        {
-          "id": "60a36742906c5207e3a7da6e",
-          "author": "",
-          "description": "Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most",
-          "link": "https://www.freecodecamp.org/news/learn-javascript-interactive-course/",
-          "publishedOn": "2021-05-20T14:53:38.000Z",
-          "wordCount": 1202,
-          "title": "Learn JavaScript - A Free 7-hour Interactive Tutorial"
-        },
-        {
-          "id": "60a341f5906c5207e3a7da61",
-          "author": "",
-          "description": "CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been",
-          "link": "https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/",
-          "publishedOn": "2021-05-19T23:17:21.000Z",
-          "wordCount": 2742,
-          "title": "How to Use CSS Selectors to Style Your Web Page"
-        },
-        {
-          "id": "60a42386906c5207e3a7dfe2",
-          "author": "",
-          "description": "The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.",
-          "link": "https://www.freecodecamp.org/news/what-is-web3/",
-          "publishedOn": "2021-05-19T21:09:01.000Z",
-          "wordCount": 2087,
-          "title": "What is Web3? The Decentralized Internet of the Future Explained"
-        },
-        {
-          "id": "60a469ec906c5207e3a7e1b9",
-          "author": "",
-          "description": "Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second",
-          "link": "https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/",
-          "publishedOn": "2021-05-19T17:30:08.000Z",
-          "wordCount": 1981,
-          "title": "How to Optimize for Change in Software Development"
-        },
-        {
-          "id": "60a53182906c5207e3a7e588",
-          "author": "",
-          "description": "Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really",
-          "link": "https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/",
-          "publishedOn": "2021-05-18T21:04:00.000Z",
-          "wordCount": 2258,
-          "title": "How to Break into Ethereum, Crypto, and Web3 as a Developer"
-        },
-        {
-          "id": "60a3780f906c5207e3a7db5f",
-          "author": "",
-          "description": "If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? \"Well, I just bill by the hour and send an invoice every week or month.\" ...I hear you say.",
-          "link": "https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/",
-          "publishedOn": "2021-05-18T17:12:59.000Z",
-          "wordCount": 1973,
-          "title": "Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?"
-        },
-        {
-          "id": "6068f146d5756f080ba9402d",
-          "author": "",
-          "description": "Yes, you can learn to code for free, from the convenience of your own home, and at your own pace. I'm going to show you 101 courses where you can learn computer science and programming for free.  The freeCodeCamp courses are completely free and some of them include a free",
-          "link": "https://www.freecodecamp.org/news/coding-programs-101-ways-to-learn-to-code-for-free/",
-          "publishedOn": "2021-05-18T16:50:36.000Z",
-          "wordCount": 3309,
-          "title": "Coding Programs – 101 Ways to Learn to Code for Free"
-        }
-      ]
-    },
-    {
       "title": "阮一峰的网络日志",
       "feedUrl": "http://www.ruanyifeng.com/blog/atom.xml",
       "siteUrl": "http://www.ruanyifeng.com/blog/",
@@ -608,6 +31,941 @@
           "publishedOn": "2021-05-14T00:17:14.000Z",
           "wordCount": 892,
           "title": "科技爱好者周刊（第 158 期）：内容渠道的贬值"
+        }
+      ]
+    },
+    {
+      "title": "GoCN社区",
+      "feedUrl": "https://gocn.vip/topics/feed",
+      "siteUrl": "https://gocn.vip/",
+      "articles": [
+        {
+          "id": "https://gocn.vip/topics/12097",
+          "author": "Bellabellabella",
+          "description": "OpsMind 定位于一家 IT 运维管理技术服务商，ToB 的业务，致力于在云原生时代为企业客户提供包括全栈监控告警、多云管理平台、资源配置管理系统、自动化作业平台、发布流程管理等完整运维管理解决方案，降低企业运维成本。 核心团队成员分别来自头条、腾讯、七牛云、UCloud、百度、京东等知名技术公司。目前客户主要涵盖了游戏行业、金融、零售、出海电商、互联网，目前公司已经盈利并处于爆发式增长阶段， 欢迎了解我们的机会，可以登录我们业务网站看我们的产品和我们的客户情况 www.opsmind.com\n我们目前急需前端开发和前端开发专家的人选，golang 工程师，薪资 25-60Kbase 有期权 ，目前公司资金充足，欢迎想做牛 B 产品的技术来加入我们\n前端开发 JD\n工作内容：\n1、负责 OpsMind 产品前端技术选型、基础技术框架的设计、研发及维护；\n2、负责界面构建、兼容、优化，与后台开发设计人员的协同配合;\n3、 编写与工作相关的技术文件。\n工作要求：\n1、本科学历，计算机类相关专业，2 年以上工作经验；（优秀者学历&经验不限）\n2、精通 JavaScript，熟悉 HTML、CSS，深入理解各种前…",
+          "link": "https://gocn.vip/topics/12097",
+          "publishedOn": "2021-05-21T01:24:45.000Z",
+          "wordCount": 182,
+          "title": "招聘 - 上海-Opsmind(上海零米信息科技）招聘前端开发工程师 & Golang 后端开发工程师"
+        },
+        {
+          "id": "https://gocn.vip/topics/12096",
+          "author": "fuxiaohei",
+          "description": "GoCN 每日新闻（2021-05-20）\n初探 Go 代码混淆 https://mp.weixin.qq.com/s/q9xUFQ7HdHAis70WrFHuOQ\n\n优化 Golang 服务减少 40% 以上的 CPU https://mp.weixin.qq.com/s/dgVv6p8HQtc-krPGEdU2cQ\n\nGo 实现 bridge 设计模式 https://www.smartscribs.com/bridge-design-pattern-in-golang/\n\nGo 模板引擎 templ https://adrianhesketh.com/2021/05/18/introducing-templ/\n\n使用 Viper 和 Consul 配置 Go 应用 https://bencane.com/2021/05/18/using-viper-with-consul-to-configure-go-apps/\n\n\n\n\n\nGopherChina 全部议程和讲师出炉 https://mp.weixin.qq.com/s/G_M4yw6VCTfF03b2L21ZGQ\n\n\n编辑: 傅小黑\n\n\n订阅新闻: …",
+          "link": "https://gocn.vip/topics/12096",
+          "publishedOn": "2021-05-20T16:23:58.000Z",
+          "wordCount": 109,
+          "title": "GoCN 每日新闻（2021-05-20）"
+        },
+        {
+          "id": "https://gocn.vip/topics/12095",
+          "author": "mingming",
+          "description": "职位描述：\n负责 账户与权限系统、公有云资源系统、计费系统 需求开发与系统维护；\n与产品、交互设计 合作把用户需求转化为技术方案；\n参与相关系统架构设计与开发；\n岗位要求：\n本科及以上学历，两年及以上的后端研发经验，有 Go 研发经验或愿意转 Go，有能力的可以降低年限要求；\n具备良好的基本功、编码习惯，熟练使用基本的数据结构和算法；\n熟悉 MYSQL/TiDB 、redis 等相关技术；\n具有良好的学习能力、团队合作意识、较强的沟通能力；\n熟悉 Unix/Linux 操作系统基本操作；\n有以下经验者优先：\n\n\n有账户权限、计费相关系统项目经验；\n有微服务、分布式、gRPC 相关经验；\n有 kafka 、rabbitmq 、elasticsearch 、jaeger/opentracing 、canal 相关经验；\n熟悉 docker 、k8s 、jenkins;\n工作福利：\n健康保险：五险一金、补充商业保险、年度体检、免费健身房、弹性工作制\n带薪假期：法定年假、公司年假、带薪病假\n节假日福利：春节特别假、生日假、节假日礼物\n员工活动：年度旅游、社团活动、免费水果下午茶\n调薪晋升：每年两次晋升窗口、每年一次普…",
+          "link": "https://gocn.vip/topics/12095",
+          "publishedOn": "2021-05-20T02:57:01.000Z",
+          "wordCount": 141,
+          "title": "[上海][部门直招] UCloud 招聘 Golang 后端工程师 15 薪"
+        },
+        {
+          "id": "https://gocn.vip/topics/12094",
+          "author": "kevin",
+          "description": "进程内缓存助你提高并发能力 https://gocn.vip/topics/12091\n\nChaos Mesh® 在腾讯——腾讯互娱混沌工程实践 https://gocn.vip/topics/12092\n\npprof++: 一个带有硬件监控的 Go Profiler https://mp.weixin.qq.com/s/-BSzD_wIEjHnHbs0xnsHXA\n\ngraphjin: 基于数据库快速生成 GraphQL 服务器 https://github.com/dosco/graphjin\n\nGmocker: 使用 JSON 文件生成 mock 服务器 https://github.com/Ananto30/mocker\n\n\n\n\n\nGopherChina 全部议程和讲师出炉 https://mp.weixin.qq.com/s/G_M4yw6VCTfF03b2L21ZGQ\n\n\n编辑: 李俱顺 Kevin\n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs\n\n\nGoCN 归档: https://gocn.vip/topics/…",
+          "link": "https://gocn.vip/topics/12094",
+          "publishedOn": "2021-05-19T08:09:00.000Z",
+          "wordCount": 111,
+          "title": "GoCN 每日新闻 (2021-05-19)"
+        },
+        {
+          "id": "https://gocn.vip/topics/12093",
+          "author": "alicloudnative",
+          "description": "头图来源：https://opensource.guide/\n来源 | 阿里巴巴云原生公众号\n​\n只有贡献代码才算是参与开源项目社区贡献吗？\n一说到参与开源项目贡献，一般大家的反应都是代码级别的贡献，总觉得我的代码被社区合并了，我才算一个贡献者，这是一个常见的错误认知。其实，在一个开源社区中有非常多的角色是 non-code contributor，一个开源社区中的很多关键职责被大家给忽略了。\n​\n组织活动也可以是贡献社区：\n你可以像远在巴西库亚巴的 @fzamperin学习，为你喜欢的开源项目组织 workshop 或线下 meetup\n你还可以帮助社区成员找到合适的线下峰会来提交技术议题\n……\n技术写作或者技术布道也是贡献社区：\n为你喜欢的开源项目编写或者改进文档\n建立一个如何使用这个开源项目的 samples\n将文档翻译成其他语言，帮助全球开发者认识、使用该项目\n在自己的公众号或者博客分享使用该项目的指南和心得\n……\n设计和官网开发也是贡献社区：\n重构开源项目官网来帮助开发者更好的认识、使用该开源项目\n进行用户调研来更好地改善官网导航和目录\n构建一个 style guide 来帮助该项目拥有一个更统一、…",
+          "link": "https://gocn.vip/topics/12093",
+          "publishedOn": "2021-05-19T07:43:56.000Z",
+          "wordCount": 274,
+          "title": "参与 Apache 顶级开源项目的 N 种方式，Apache Dubbo Samples SIG 成立！"
+        },
+        {
+          "id": "https://gocn.vip/topics/12092",
+          "author": "TiDB_Robot",
+          "description": "本篇文章整理自腾讯互娱高级工程师吴召军在 PingCAP Infra Meetup 上的演讲实录，欢迎点击【阅读原文】查看视频回放，后台回复 “135” 即可获取本期 PPT 链接。\n本文首先介绍了腾讯互娱面临的复杂的技术场景，然后介绍了腾讯互娱混沌工程团队基于 Chaos Mesh 打造的云原生混沌工程平台，最后分享腾讯互娱近半年混沌工程实践取得的收益。\n腾讯互娱运营活动每天的访问人次超过 100 亿次，高峰的 QPS 超过 100 万，每天活动代码发布更新超过 500 次，数据量也超过 200 TB。面对海量的用户请求和快捷的版本发布迭代速度，如何才能又快又稳地保障服务的运营？腾讯互娱活动运营团队给出的解决方案是 DevOps 和云原生。\n以前活动的发布都是运维人员来操作，随着活动量快速增长，出现了明显的瓶颈。为了解决这个问题，腾讯互娱设计了一条从代码到生产环境的流水线。现在，活动开发只要把代码提交到仓库，触发代码提交，运营平台就会自动编译构建生成镜像，并且自动把镜像部署到腾讯云 TKE。从代码完成到生产环境发布完成只需 5 分钟，并且全程都是开发自助完成。\n如今，腾讯互娱运营活动基本上所有的服务都是跑在…",
+          "link": "https://gocn.vip/topics/12092",
+          "publishedOn": "2021-05-19T03:27:30.000Z",
+          "wordCount": 216,
+          "title": "Chaos Mesh® 在腾讯——腾讯互娱混沌工程实践"
+        },
+        {
+          "id": "https://gocn.vip/topics/12091",
+          "author": "kevwan",
+          "description": "前言\n缓存，设计的初衷是为了减少繁重的 IO 操作，增加系统并发能力。不管是 CPU多级缓存，page cache，还是我们业务中熟悉的 redis 缓存，本质都是将有限的热点数据存储在一个存取更快的存储介质中。\n计算机本身的缓存设计就是 CPU 采取多级缓存。那对我们服务来说，我们是不是也可以采用这种多级缓存的方式来组织我们的缓存数据。同时 redis 的存取都会经过网络 IO，那我们能不能把热点数据直接存在本进程内，由进程自己缓存一份最近最热的这批数据呢？\n这就引出了我们今天探讨的：local cache，本地缓存，也叫进程缓存。\n本文带你一起探讨下 go-zero 中进程缓存的设计。Let’s go!\n快速入门\n作为一个进程存储设计，当然是 crud 都有的：\n我们先初始化 local cache\n\n\n// 先初始化 local cache\ncache, err = collection.NewCache(time.Minute, collection.WithLimit(10))\nif err != nil {\n  log.Fatal(err)\n}\n\n其中参数的含义：\nexpire：key 统一的过期…",
+          "link": "https://gocn.vip/topics/12091",
+          "publishedOn": "2021-05-19T02:40:45.000Z",
+          "wordCount": 464,
+          "title": "进程内缓存助你提高并发能力！"
+        },
+        {
+          "id": "https://gocn.vip/topics/12090",
+          "author": "yudotyang",
+          "description": "Delve 是一个 go 语言的第三方调试器，github 地址是： https://github.com/go-delve/delve  。\nDelve 是 GDB 调试器的有效替代品。与 GDB 相比，它能更高的理解 Go 的运行时，数据结构以及表达式。Delve 目前支持 Linux，OSX 以及 Windows 的 amd64 平台。\n本文主要介绍使用 delve 调试器如何调试 Go 程序。内容包含如下：\n下载安装 Delve\n查看源码命令组，\n 添加及管理断点命令组（添加断点、查看断点、清除断点等）\n 控制程序的执行流程命令组\n 查看当前状态的变量及表达式的值命令组。\n阅读完本文后，你将能够使用 Delve 工具很容易的调试你的 go 程序。\n下载并安装 Go Delve\n 安装方式一：\n\n$ git clone https://github.com/go-delve/delve\n$ cd delve\n$ go install github.com/go-delve/delve/cmd/dlv\n\n\n\n安装方式二：（适用于 Go 1.16 及以后版本）\n\n$ go install github.co…",
+          "link": "https://gocn.vip/topics/12090",
+          "publishedOn": "2021-05-18T23:16:38.000Z",
+          "wordCount": 1587,
+          "title": "使用 Delve 工具调试 Golang 程序"
+        },
+        {
+          "id": "https://gocn.vip/topics/12089",
+          "author": "HRMing",
+          "description": "关于我们  \n团队主要遍布在美国，香港，泰国，越南，菲律宾地区。项目有体育直播，电竞，游戏，视频站，CDN, IM, 支付，客服系统等产品较为多元，近几年不断在新增项目团队以及拓展市场版图。\n我们能提供什么 \n丰富项目提成\n每周优秀员工奖金\n正式员工满一年保证 13 薪\n灵活的工作地点，弹性上班\n有能力，提期望，我买单\n工作内容以及要求 \n高级全栈工程师\n招聘人数：1 人\n薪资：20-30k\n职位描述\n负责重构压测服务产品架构设计、技术实现及优化；负责核心模块及关键业务的代码开发、调试与维护；研发规范的制定，推动研发规范的执行；工作积极发现和推动解决产品出现的问题。\n职位要求\n精通 Javasript/HTML/CSS 等前端开发技术，基础扎实；熟悉当下主流的前端框架 (React/Vue/Angular 等)，有 Vue 开发经验优先；精通 Node.js 的开发和部署，熟悉 ES6, ES7 语法，有 Express 或 Koa 框架的使用经验；熟悉 Linux 开发环境, 至少熟悉一种脚本语言，具备优秀的代码习惯; 有良好的组件级建模能力，具备大型系统架构经验; 良好的沟通能力和团队合作精神，有责任心，…",
+          "link": "https://gocn.vip/topics/12089",
+          "publishedOn": "2021-05-18T08:24:57.000Z",
+          "wordCount": 249,
+          "title": "[全职远程] 诚聘全栈，前端，C++, 运维"
+        },
+        {
+          "id": "https://gocn.vip/topics/12088",
+          "author": "NebulaGraph",
+          "description": "本文首发于 Nebula Graph 公众号 NebulaGraphCommunity，Follow 看大厂图数据库技术实践。\n\n【作者介绍】\n戚名钰：快手安全 - 移动安全组，主要负责快手安全情报平台的建设\n倪雯：快手数据平台 - 分布式存储组，主要负责快手图数据库的建设\n姚靖怡：快手数据平台 - 分布式存储组，主要负责快手图数据库的建设\n【公司简介】\n快手是一家全球领先的内容社区和社交平台，旨在通过短视频的方式帮助人们发现所需、发挥所长，持续提升每个人独特的幸福感。\n一. 为什么需要图数据库\n传统的关系型数据库，在处理复杂数据关系运算上表现很差，随着数据量和深度的增加，关系型数据库无法在有效的时间内计算出结果。\n所以，为了更好的体现数据间的连接，企业需要一种将关系信息存储为实体、灵活拓展数据模型的数据库技术，这项技术就是图数据库（Graph Database）。\n相比于传统关系型数据库，图数据库具有以下两个优点：\n第一点，图数据库能很好地体现数据之间的关联关系\n\n从上面的图模型可以看出，图数据库的目标就是基于图模型以一种直观的方式来展示这些关系，其基于事物关系的模型表达，使图数据库天然具有可解释性。\n第二…",
+          "link": "https://gocn.vip/topics/12088",
+          "publishedOn": "2021-05-18T08:18:42.000Z",
+          "wordCount": 579,
+          "title": "百亿级图数据在快手安全情报的应用与挑战"
+        },
+        {
+          "id": "https://gocn.vip/topics/12087",
+          "author": "alicloudnative",
+          "description": "来源 | 阿里巴巴云原生公众号\n​\n5 月 13 日，博睿数据与阿里云宣布达成深度合作，重点发力企业智能运维领域。双方签订了云原生核心合作伙伴计划，通过博睿数据领先的拨测网络结合阿里云独特的 AIOps 能力，构建全球领先的 SaaS 产品云拨测，为企业提供领先、专业、全面的智能运维能力。\n​\n\n\nGartner 预测，到 2024 年，将有 30% 的企业会通过可观测技术来提升数字化业务的运行性能，相比 2020 年的 10% 提升了 3 倍。2023 年，全球可观测市场规模预计将达到 164.94 亿美元。\n​\n博睿数据 CEO 冯云彪出席签约仪式并表示，可观测市场不断增长，带来的不仅是机遇，同样也带来了更多挑战。企业对于可观测的视野不再局限于应用程序，而是需要从全局的角度洞察混合 IT 基础设施、数据源、网络、云和边缘端的应用状况，更加主动化、自动化和智能化地提升企业运维的效率。企业不仅仅需要应用的高可用，更需要数字化转型发展所带来的用户体验升级。2021 年，针对企业不断深入的数字化转型需求和技术架构演进，博睿数据创新的提出了 “服务可达的数据链 DNA” 模型，这一模型通过对现有 APM 行业技术产…",
+          "link": "https://gocn.vip/topics/12087",
+          "publishedOn": "2021-05-18T07:12:36.000Z",
+          "wordCount": 216,
+          "title": "博睿数据与阿里云签订云原生核心合作伙伴计划，推动企业智能运维落地"
+        },
+        {
+          "id": "https://gocn.vip/topics/12086",
+          "author": "kevwan",
+          "description": "Previously\n缓存系统涉及的问题和知识点是比较多的，我主要分为以下几个方面来跟大家探讨：\n稳定性\n正确性\n可观测性\n规范落地和工具建设\n上篇 我们分析了缓存系统的稳定性，介绍了 go-zero 是怎么解决缓存穿透、缓存击穿、缓存雪崩问题的。比较浅显易懂，且具有比较强的实战意义，推荐一读。\n本文作为系列文章第二篇，主要跟大家探讨『缓存数据一致性』\n缓存正确性\n\n上篇文章提到，我们引入缓存的初衷是为了减小 DB 压力，增加系统稳定性，所以我们一开始关注的是缓存系统的稳定性。当稳定性解决之后，一般我们就会面临数据正确性问题，可能会经常遇到『明明数据更新了，为啥还是显示老的呢？』这类问题。这就是我们常说的『缓存数据一致性』问题了，接下来我们仔细下分析其产生的原因及应对方法。\n数据更新常见做法\n首先，我们讲数据一致性的前提是我们 DB 的更新和缓存的删除不会当成一个原子操作来看待，因为在高并发的场景下，我们不可能引入一个分布式锁来把这两者绑定为一个原子操作，如果绑定的话就会很大程度上影响并发性能，而且增加系统复杂度，所以我们只会追求数据的最终一致性，且本文只针对非追求强一致性要求的高并发场景，金融支付等同学自行…",
+          "link": "https://gocn.vip/topics/12086",
+          "publishedOn": "2021-05-18T06:47:41.000Z",
+          "wordCount": 181,
+          "title": "缓存数据一致性 - 架构师峰会演讲实录"
+        },
+        {
+          "id": "https://gocn.vip/topics/12085",
+          "author": "alicloudnative",
+          "description": "作者 | Vineyard 团队\n来源 | 阿里巴巴云原生公众号\n​\nVineyard 是一个专为云原生环境下大数据分析场景中端到端工作流提供内存数据共享的分布式引擎，我们很高兴宣布 Vineyard 在2021年4月27日被云原生基金会（CNCF）TOC 接受为沙箱（Sandbox）项目。\n​\nVineyard 项目开源地址：\nhttps://github.com/alibaba/v6d\n项目介绍\n现有的大数据分析场景中，对于端到端任务，不同的子任务之间通常使用例如 HDFS、S3、OSS 这样的分布式文件系统或对象存储系统，来共享任务之间的中间数据，这种方式在运行效率和研发效率上存在诸多问题，以下图所示的一个风控作业工作流为例：\n​\n\n工作流中不同任务之间为了共享中间数据，前一个任务将结果写入文件系统，完成之后，后一个再将文件读出作为输入，这个过程带来了额外的序列化及反序列化、内存拷贝、以及网络、IO 的开销，我们从历史任务中观察到有超过 60% 的任务为此花费了 40% 以上的执行时间。\n对于生产环境，为了高效地解决某一个特定范式的问题往往会引入一个新系统（例如分布式图计算），但这样的系统往往难以直接与…",
+          "link": "https://gocn.vip/topics/12085",
+          "publishedOn": "2021-05-18T06:39:43.000Z",
+          "wordCount": 337,
+          "title": "Vineyard 加入 CNCF Sandbox，将继续瞄准云原生大数据分析领域"
+        },
+        {
+          "id": "https://gocn.vip/topics/12084",
+          "author": "fuckshit",
+          "description": "更新内容\n支持开源中国一键登录\n反作弊系统\n\n\n发表内容验证码开关\n邮箱验证开关\n发表频率控制\n新用户观察期\n用户禁言\n...\n集成 nuxt-vite\n修复积分记录展示错误问题\n永久禁言用户积分清零\n发布地址\ngithub: https://github.com/mlogclub/bbs-go/releases/tag/v3.2.2\n\ngitee: https://gitee.com/mlogclub/bbs-go/releases/v3.2.2\n\n\n文档地址\n交流演示站：https://mlog.club\n\n帮助文档：http://docs.bbs-go.com/\n\n问题反馈：https://mlog.club/topics/node/3\n\n功能建议收集：https://mlog.club/topic/609\n\ngithub 地址：https://github.com/mlogclub/bbs-go\n\ngitee 地址：https://gitee.com/mlogclub/bbs-go\n\n\n功能简介\n\n功能预览\n\n\n\n\n\n\n\n\n\n相关链接\ngithub: https://github.com/mlogcl…",
+          "link": "https://gocn.vip/topics/12084",
+          "publishedOn": "2021-05-18T04:44:59.000Z",
+          "wordCount": 140,
+          "title": "Go 语言开源社区系统 BBS-GO 3.2.6 发布，新增反作弊系统"
+        },
+        {
+          "id": "https://gocn.vip/topics/12083",
+          "author": "ningxiaofang1o",
+          "description": "强大的模糊测试工具 go-fuzz https://gocn.vip/topics/12075\n\n单机内存内缓存怎么做？go-cache 了解下 https://mp.weixin.qq.com/s/LzfLySMPtbCO91q87UKRcQ\n\n深度探索 Go 语言（三）：动态派发 https://mp.weixin.qq.com/s/XLj_AKqETZy4cUBNiNZPBw\n\ngolang 日期与时间完全指南 https://qvault.io/golang/golang-date-time/\n\nGopherChina 全部议程和讲师出炉了  https://mp.weixin.qq.com/s/G_M4yw6VCTfF03b2L21ZGQ\n\n\n\n\n编辑: 熊大\n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12083",
+          "publishedOn": "2021-05-18T03:04:41.000Z",
+          "wordCount": 93,
+          "title": "GoCN 每日新闻 (2021-05-18)"
+        },
+        {
+          "id": "https://gocn.vip/topics/12082",
+          "author": "haohongfan",
+          "description": "hi, 大家好，我是 haohongfan。\nsync.Pool 应该是 Go 里面明星级别的数据结构，有很多优秀的文章都在介绍这个结构，本篇文章简单剖析下 sync.Pool。不过说实话 sync.Pool 并不是我们日常开发中使用频率很高的的并发原语。\n尽管用的频率很低，但是不可否认的是 sync.Pool 确实是 Go 的杀手锏，合理使用 sync.Pool 会让我们的程序性能飙升。本篇文章会从使用方式，源码剖析，运用场景等方面，让你对 sync.Pool 有一个清晰的认知。\n使用方式\nsync.Pool 使用很简单，但是想用对却很麻烦，因为你有可能看到网上一堆错误的示例，各位同学在搜索 sync.Pool 的使用例子时，要特别注意。\nsync.Pool 是一个内存池。通常内存池是用来防止内存泄露的（例如 C/C++)。sync.Pool 这个内存池却不是干这个的，带 GC 功能的语言都存在垃圾回收 STW 问题，需要回收的内存块越多，STW 持续时间就越长。如果能让 new 出来的变量，一直不被回收，得到重复利用，是不是就减轻了 GC 的压力。\n正确的使用示例（下面的 demo 选自 gin）\nfun…",
+          "link": "https://gocn.vip/topics/12082",
+          "publishedOn": "2021-05-18T02:50:49.000Z",
+          "wordCount": 515,
+          "title": "Go sync.Pool 浅析"
+        },
+        {
+          "id": "https://gocn.vip/topics/12081",
+          "author": "azhang",
+          "description": "如何管理多版本的 go   https://lakefs.io/managing-multiple-go-versions-with-go/\n\n一个 SQL 数据库只使用了 2000 行 golang 代码并且没有任何第三方依赖 https://github.com/auxten/go-sqldb\n\n使用 go 开发一个监控剪贴板的服务  https://www.reddit.com/r/golang/comments/ncsnj2/monitoring_clipboard_as_service_with_go/\n\n Gorm 复杂关系举例：  https://github.com/harranali/gorm-relationships-examples\n\n写了 500，000 行 go 代码之后  https://blog.khanacademy.org/half-a-million-lines-of-go\n* GopherChina 全部日程出炉 https://gc.gocn.vip\n\n\n\n\n编辑: 阿章 \n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https:/…",
+          "link": "https://gocn.vip/topics/12081",
+          "publishedOn": "2021-05-17T12:11:02.000Z",
+          "wordCount": 108,
+          "title": "GoCN 每日新闻 (2021-05-17)"
+        },
+        {
+          "id": "https://gocn.vip/topics/12080",
+          "author": "alicloudnative",
+          "description": "来源 | 阿里巴巴云原生公众号\n它来了！它来了！\n2021 年度阿里云开发者大会终于开始报名啦！\n\n每一个时代都有属于自己的英雄\n而在云时代\n开发者就是数字创新的践行者、\n是这个时代的英雄\n他们正在用自己独特的面孔参与到数字时代的建设中\n\n我们希望能够与开发者们\n共同成长、共同定义、共同分享云时代的发展\n“分享是一种快乐”\n我们也希望把这份快乐带给更多的人\n所以才有了这次的 2021 阿里云开发者大会\n\n科技赋能社会\n技术推动变革\n无论你是怀揣着对技术的热爱\n还是带着对技术的探求心\n这一次的开发者大会你都不容错过\n\n数字时代，如何更好地利用云的能力？\n什么是新型、便捷的开发模式？\n如何让开发者更高效地构建应用？\n······\n以上问题\n你都将在本次开发者大会上得到想要的答案\n\n一切，因云而不同，因开发者们而不同\n扫描下方图片二维码\n或直接点击下方图片\n即可报名活动啦~\n名额有限，先到先得！",
+          "link": "https://gocn.vip/topics/12080",
+          "publishedOn": "2021-05-17T08:14:19.000Z",
+          "wordCount": 110,
+          "title": "因你不同，2021 阿里云开发者大会重磅开启 @ 所有开发者！"
+        },
+        {
+          "id": "https://gocn.vip/topics/12079",
+          "author": "alicloudnative",
+          "description": "作者 |  韩堂、柘远、沉醉\n来源 | 阿里巴巴云原生公众号\n​\n前言\n台湾作家林清玄在接受记者采访的时候，如此评价自己 30 多年写作生涯：“第一个十年我才华横溢，‘贼光闪现’，令周边黯然失色；第二个十年，我终于 ‘宝光现形’，不再去抢风头，反而与身边的美丽相得益彰；进入第三个十年，繁华落尽见真醇，我进入了 ‘醇光初现’ 的阶段，真正体味到了境界之美”。\n​\n长夜有穷，真水无香。领略过了 K8s“身在江湖” 的那种惊心动魄以及它那生态系统的繁花似锦，该是回过头来体味高可用体系境界之美的时候了。毕竟仅能经得起敲打还是不能独步武林的！\n​\n在 K8s 高可用领域有一个问题被大家所熟知，那就是 K8s 单集群规模带来的 SLO 问题，如何持续保障？今天就以单集群的规模增长带来的高可用挑战来作为引子来给大家一个体感。\n​\nASI 单集群规模支撑超过社区的 5000 台，这是个非常有意思且具备极大挑战的事情，对需要进行 K8s 生产化的同学，甚至具备 K8s 生产化经验的同学来说，一定会是个感兴趣的话题。回看 ASI 单集群规模从 100 到 10000 的发展之路，伴随着业务的增长和创新带来的每一次集群规模增长，都…",
+          "link": "https://gocn.vip/topics/12079",
+          "publishedOn": "2021-05-17T08:05:49.000Z",
+          "wordCount": 839,
+          "title": "【深度】阿里巴巴万级规模 K8s 集群全局高可用体系之美"
+        },
+        {
+          "id": "https://gocn.vip/topics/12078",
+          "author": "Tiki",
+          "description": "查询数据时给字段设置别名，请问使用 GORM 如何把别名字段的值读取到结构体中？\n表结构\nDROP TABLE IF EXISTS \"test\".\"test\";\nCREATE TABLE \"test\".\"test\" (\n  \"id\" varchar(32) NOT NULL,\n  \"name\" varchar(255) COLLATE \"pg_catalog\".\"default\",\n  \"remark\" varchar(255) COLLATE \"pg_catalog\".\"default\"\n);\nALTER TABLE \"test\".\"test\" ADD CONSTRAINT \"test_pkey\" PRIMARY KEY (\"id\");\n\n表对应模型结构体\ntype Test struct {\n    ID     string  `gorm:\"column:id;type:varchar(32);primaryKey;comment:唯一 ID，流水号\" json:\"id\"` // 唯一 ID，流水号\n    Name   string `gorm:\"column:name;type:varchar(25…",
+          "link": "https://gocn.vip/topics/12078",
+          "publishedOn": "2021-05-17T07:00:02.000Z",
+          "wordCount": 177,
+          "title": "GORM 如何读取别名字段的值"
+        }
+      ]
+    },
+    {
+      "title": "Linuxeden开源社区",
+      "feedUrl": "http://www.linuxeden.com/feed",
+      "siteUrl": "http://www.linuxeden.com",
+      "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=85577",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 05 21",
+          "link": "http://www.linuxeden.com/a/85577",
+          "publishedOn": "2021-05-21T00:26:19.000Z",
+          "wordCount": 84,
+          "title": "开源美图 2021 05 21"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85574",
+          "author": "Editor, Kai",
+          "description": "最大的自由开源软件 IRC 网络 Freenode 疑似发生了剧变，多位志愿者辞职并呼吁用户尽快迁移到新的 IRC 网络 libera.chat，称运行在 freenode.org/net/com 中的 IRC 网络应该被假设控制在一位恶意 […]",
+          "link": "http://www.linuxeden.com/a/85574",
+          "publishedOn": "2021-05-21T00:23:48.000Z",
+          "wordCount": 114,
+          "title": "Freenode 疑似发生巨变"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85572",
+          "author": "Editor, Kai",
+          "description": "This is release 1.38.0 (guadalupe_river_park_conservancy) of gRPC Core. For gRPC documentation, see grpc.io. For previou […]",
+          "link": "http://www.linuxeden.com/a/85572",
+          "publishedOn": "2021-05-21T00:22:04.000Z",
+          "wordCount": 285,
+          "title": "gRPC  1.38.0 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85570",
+          "author": "Editor, Kai",
+          "description": "Dear Spring (and AWS) Community, Today it’s my pleasure to announce a release of Spring Integration for Amazon Web Servi […]",
+          "link": "http://www.linuxeden.com/a/85570",
+          "publishedOn": "2021-05-21T00:11:59.000Z",
+          "wordCount": 190,
+          "title": "Spring Integration for AWS 2.5 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85568",
+          "author": "Editor, Kai",
+          "description": "Greetings Spring community, The Spring Web Services team has released 3.1.1. This is the first major release under the n […]",
+          "link": "http://www.linuxeden.com/a/85568",
+          "publishedOn": "2021-05-21T00:09:43.000Z",
+          "wordCount": 260,
+          "title": "Spring Web Services 3.1.1 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85566",
+          "author": "Editor, Kai",
+          "description": "The newest release of CKEditor 4 is here. It brings better accessibility, right on time for the Global Accessibility Awa […]",
+          "link": "http://www.linuxeden.com/a/85566",
+          "publishedOn": "2021-05-21T00:07:10.000Z",
+          "wordCount": 912,
+          "title": "CKEditor 4.16.1 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85564",
+          "author": "Editor, Kai",
+          "description": "如何在 Ubuntu 服务器上安装桌面环境（GUI） ARM将举办新品发布会：Cortex X2/A79大核有望登场 SonoBus：支持跨平台的开源点对点音频流应用 Chromebook上的Linux将随着Chrome OS 91的发布而 […]",
+          "link": "http://www.linuxeden.com/a/85564",
+          "publishedOn": "2021-05-20T14:29:27.000Z",
+          "wordCount": 101,
+          "title": "每日文章精选 2021 05 20"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85556",
+          "author": "Editor, Kai",
+          "description": "你想在你的 Ubuntu 服务器上安装 GUI 吗？大部分情况下你是可以安装的，在本教程中我会详细介绍安装的步骤。 在正式开始之前，我来告诉你为什么服务器版的 Ubuntu 不带 GUI，以及在什么情况下你可以在服务器上安装 GUI。 为什 […]",
+          "link": "http://www.linuxeden.com/a/85556",
+          "publishedOn": "2021-05-20T14:21:24.000Z",
+          "wordCount": 441,
+          "title": "如何在 Ubuntu 服务器上安装桌面环境（GUI）"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85551",
+          "author": "Editor, Kai",
+          "description": "继Intel、AMD和NVIDIA三家后，ARM也公布了此次出席台北电脑展2021的安排。其中CEO Simon Segars将亲自主持讲演活动，主题是未来计算以及后疫情时代的产业恢复等，时间是5月31日下午14点。此外，ARM IP事业部 […]",
+          "link": "http://www.linuxeden.com/a/85551",
+          "publishedOn": "2021-05-20T13:42:24.000Z",
+          "wordCount": 82,
+          "title": "ARM将举办新品发布会：Cortex X2/A79大核有望登场"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85548",
+          "author": "Editor, Kai",
+          "description": "Google今天在I/O大会上宣布，随着Chrome OS 91的发布，Chromebook上的Linux终于将走出测试阶段。该公司曾在Chrome OS上同时支持Linux应用程序和Android应用程序，希望通过IDE等来吸引开发者的注 […]",
+          "link": "http://www.linuxeden.com/a/85548",
+          "publishedOn": "2021-05-20T13:39:30.000Z",
+          "wordCount": 103,
+          "title": "Chromebook上的Linux将随着Chrome OS 91的发布而走出测试阶段"
+        }
+      ]
+    },
+    {
+      "title": "小众软件",
+      "feedUrl": "http://feed.appinn.com",
+      "siteUrl": "https://www.appinn.com",
+      "articles": [
+        {
+          "id": "https://www.appinn.com/?p=38853",
+          "author": "青小蛙",
+          "description": "👀 微信/QQ/TIM防撤回补丁 是一款适用于 PC 版微信、QQ、TIM 客户端的消息防撤回工具，附赠微信多开功能，使用简单。项目开源，开发者提供了详细的防撤回原理，任何人都可以自己动手制作补丁。@",
+          "link": "https://www.appinn.com/revoke-msg-patcher-for-wechat-qq-tim/",
+          "publishedOn": "2021-05-20T04:20:17.000Z",
+          "wordCount": 1169,
+          "title": "PC 版微信、QQ、TIM 防撤回补丁[Windows]"
+        },
+        {
+          "id": "https://www.appinn.com/?p=38850",
+          "author": "青小蛙",
+          "description": "Dishes Launcher 是一款托盘里的快速启动工具，属于@蓝蓝小雪专为 @oott123 开发定制的小工具，配置简单、使用简单，与著名的 Win+R 方式同源，但是一套适合鼠标的快速启动工具，",
+          "link": "https://www.appinn.com/dishes-launcher/",
+          "publishedOn": "2021-05-19T06:43:15.000Z",
+          "wordCount": 1304,
+          "title": "Dishes Launcher – 托盘里的快速启动工具[Windows]"
+        },
+        {
+          "id": "https://www.appinn.com/?p=38847",
+          "author": "青小蛙",
+          "description": "NotesHub 是一款使用 GitHub 保存数据的在线 Markdown 笔记服务，支持私有仓库，Markdown 语法与预览，PWA 离线使用，后台自动同步，界面主要适配手机屏幕。由于使用 Gi",
+          "link": "https://www.appinn.com/noteshub-online/",
+          "publishedOn": "2021-05-18T09:12:02.000Z",
+          "wordCount": 1261,
+          "title": "NotesHub – 使用 GitHub 保存数据的在线 Markdown 笔记服务"
+        },
+        {
+          "id": "https://www.appinn.com/?p=38835",
+          "author": "青小蛙",
+          "description": "iWifi 测速侠是一款 macOS、iOS 通用应用，用来测网速，以及非常有特色的 AR 测速，可以让你在现实中，直观的看到网速状况。iWifi 测速侠原价 50 元，目前限免中。@Appinn 测",
+          "link": "https://www.appinn.com/iwifi-speedtest/",
+          "publishedOn": "2021-05-18T04:20:48.000Z",
+          "wordCount": 1370,
+          "title": "iWifi 测速侠 – 在现实场景中，用 AR 测速[macOS/iOS 限免]"
+        },
+        {
+          "id": "https://www.appinn.com/?p=38832",
+          "author": "青小蛙",
+          "description": "PasteEx 是一款能够在粘贴时自动生成文件的 Windows 工具，比如将剪贴板内的文本内容，粘贴为 txt 文件；将剪贴板内的图像，粘贴为 png/jpg 格式。@Appinn 大概很多年前，小",
+          "link": "https://www.appinn.com/pasteex-for-windows/",
+          "publishedOn": "2021-05-17T03:50:44.000Z",
+          "wordCount": 1251,
+          "title": "PasteEx – 剪贴板内容自动粘贴为文件，支持 txt、html、png、jpg 等格式[Win]"
+        },
+        {
+          "id": "https://www.appinn.com/?p=38825",
+          "author": "青小蛙",
+          "description": "SilentNotes 是一款尊重隐私的开源便签应用，支持 Windows 与 Android，并可通过 WebDAV、FTP、网盘等方式同步数据，端对端加密，WYSIWYG 编辑器，不收集个人数据，",
+          "link": "https://www.appinn.com/silentnotes/",
+          "publishedOn": "2021-05-16T09:44:44.000Z",
+          "wordCount": 1306,
+          "title": "SilentNotes – 尊重隐私的开源便签，支持 WebDAV 同步、加密[Win/Android]"
+        },
+        {
+          "id": "https://www.appinn.com/?p=38822",
+          "author": "青小蛙",
+          "description": "来自论坛的“手搓大佬” @dangerace 同学最近分享了它一直自用，并且是自己开发的日历记事本。@Appinn 日历记事本 一个以“日历”为核心的记事本，附加了简单的人脉、提醒、备忘等功能，比较适",
+          "link": "https://www.appinn.com/rili-jishiben-for-windows/",
+          "publishedOn": "2021-05-15T11:30:00.000Z",
+          "wordCount": 1217,
+          "title": "手搓大佬也来分享一个自用多年的“日历记事本”"
+        },
+        {
+          "id": "https://www.appinn.com/?p=38819",
+          "author": "青小蛙",
+          "description": "xHub 文件君 是一款综合的文档管理 iPad、iPhone 应用，拥有文件浏览，Wi-Fi 文件传输，视频播放，音乐播放，照片浏览，文本编辑和录音等功能，可以对文件搜索/编辑/保存，移动/复制，上",
+          "link": "https://www.appinn.com/xhub-files-manager-for-ios/",
+          "publishedOn": "2021-05-14T04:25:58.000Z",
+          "wordCount": 1170,
+          "title": "xHub 文件君 – 支持网盘文件解压缩的文档管理应用，可播放视频、音乐，传输文件、阅读小说[iOS 内购永久 VIP 限免]"
+        },
+        {
+          "id": "https://www.appinn.com/?p=38814",
+          "author": "青小蛙",
+          "description": "分享笔记 · ShareNote 是一款简单好用的文字分享工具，就是把很长的文字转换成漂亮的图片，有 6 种样式，可以添加头图、日期，并且也有移动端适配，“方便“分享。@Appinn 将文字图片化是一",
+          "link": "https://www.appinn.com/sharenote-online/",
+          "publishedOn": "2021-05-13T07:15:36.000Z",
+          "wordCount": 1172,
+          "title": "分享笔记 · ShareNote – 一个简单好用的文字分享工具"
+        },
+        {
+          "id": "https://www.appinn.com/?p=38796",
+          "author": "青小蛙",
+          "description": "西窗烛是一款收录了很多中国诗词的 iPhone、Android、macOS 应用，它能够在 iPhone 的屏幕小组件上显示中国诗词，还能在西窗烛的主屏幕上通过滑动卡片的形式，鉴赏中国诗词之美。另外，",
+          "link": "https://www.appinn.com/xichuangzhu/",
+          "publishedOn": "2021-05-12T08:26:31.000Z",
+          "wordCount": 1178,
+          "title": "西窗烛 – 用屏幕小组件鉴赏诗句。中华传统文化平台，品味中国诗词之美"
+        }
+      ]
+    },
+    {
+      "title": "OSCHINA 社区最新新闻",
+      "feedUrl": "https://www.oschina.net/news/rss",
+      "siteUrl": "https://www.oschina.net/news/rss",
+      "articles": [
+        {
+          "id": "https://www.oschina.net/news/142464/android-exposed-the-data-of-over-100-million-users",
+          "author": null,
+          "description": "网络安全公司 Check Point Research 在周四发表了一份报告，在这份报告中 Check Point Research 表示，至少有 23 个热门的 Android 应用程序包含各种「第三方云服务的错误配置」。而这些严重的云服务错误配置，导致超过 1 亿用户的个人数据被泄漏。 云服务如今已被各种在线服务和应用程序广泛使用，而且在疫情的影响下，...",
+          "link": "https://www.oschina.net/news/142464/android-exposed-the-data-of-over-100-million-users",
+          "publishedOn": "2021-05-21T00:55:36.000Z",
+          "wordCount": 481,
+          "title": "Android 应用因云端配置错误，致使上亿用户数据泄漏"
+        },
+        {
+          "id": "https://www.oschina.net/news/142462/google-removes-fake-microsoft-authenticator-extension",
+          "author": null,
+          "description": "完全依靠自动化审查的扩展商店更容易受到虚假和恶意扩展的影响，Chrome Web Store 就属于这类，如今这个商店的扩展程序越来越多，但与此同时受到虚假与恶意扩展的影响也越来越大，最新增加的一个虚假扩展叫做 Microsoft Authenticator。 单从这个扩展的名称来看，似乎表明它是微软的一个官方产品，但实际上它并不是。从下...",
+          "link": "https://www.oschina.net/news/142462/google-removes-fake-microsoft-authenticator-extension",
+          "publishedOn": "2021-05-21T00:29:40.000Z",
+          "wordCount": 486,
+          "title": "Google 从 Chrome 扩展商店下架虚假的微软验证器"
+        },
+        {
+          "id": "https://www.oschina.net/news/142461/angular-devtools",
+          "author": null,
+          "description": "Angular 团队宣布推出 Angular DevTools，一个 Chrome DevTools 扩展，可以用来帮助检查应用程序的结构并分析其性能。 日前，Angular 曾针对 Angular 开发者进行了一项调查发现，大多数人都需要更好的工具来调试其应用程序。其确定了最需要关注的领域包括有：错误信息的改进、理解变化检测的执行、理解注入器层次结构和 ...",
+          "link": "https://www.oschina.net/news/142461/angular-devtools",
+          "publishedOn": "2021-05-21T00:16:00.000Z",
+          "wordCount": 508,
+          "title": "Angular DevTools 扩展发布，帮助改善调试体验"
+        },
+        {
+          "id": "https://www.oschina.net/p/al-khaser",
+          "author": null,
+          "description": "Al-Khaser 是一款没有不良意图的“恶意”软件（处于 PoC 阶段），它通过执行一系列常见的恶意软件手段，以检测系统环境是否处于监控。 通常被用于虚拟机环境检测、仿真、调试器、沙箱检测等场景，常被用于反虚拟化、反沙箱机制、反自动化分析。",
+          "link": "https://www.oschina.net/p/al-khaser",
+          "publishedOn": "2021-05-21T00:02:19.000Z",
+          "wordCount": 470,
+          "title": "Al-Khaser —— 恶意软件检测"
+        },
+        {
+          "id": "https://gitee.com/pingf/dash-echarts",
+          "author": null,
+          "description": "使用 Dash 和 ECharts 快速实现酷炫的 dashboards，无需太多前端知识储备，python 代码快速上手，支持 bmap, mapbox 联动、svg 室内地图。",
+          "link": "https://gitee.com/pingf/dash-echarts",
+          "publishedOn": "2021-05-21T00:01:29.000Z",
+          "wordCount": null,
+          "title": "Gitee 推荐 | 使用 Dash 和 ECharts 实现的 dashboards dash_echarts"
+        },
+        {
+          "id": "https://my.oschina.net/u/3944379/blog/4561929",
+          "author": null,
+          "description": "说来也是巧最近在看 Dubbo 源码，然后发现了一处很奇怪的代码，于是就有了这篇文章，让我们来看一下这段代码，它属于 ChannelEventRunnable，这个 runnable 是 Dubbo IO 线程创建，将此任务扔到业务线程池中处理。",
+          "link": "https://my.oschina.net/u/3944379/blog/4561929",
+          "publishedOn": "2021-05-21T00:00:24.000Z",
+          "wordCount": 604,
+          "title": "每日一博 | 从一段 Dubbo 源码到 CPU 分支预测的一次探险之旅"
+        },
+        {
+          "id": "https://www.oschina.net/news/142448/rop-open-source",
+          "author": null,
+          "description": "我们很高兴地宣布 StreamNative 与腾讯云中间件团队联合宣布开源 RoP！ RoP 将 RocketMQ 协议处理插件引入 Pulsar broker，这样 Pulsar 能支持原生 RocketMQ 协议。 什么是 RoP？ 与 KoP、MoP 和 AoP 相似，RoP 是一种可插拔的协议处理插件。 将 RoP 协议处理插件添加到现有 Pulsar 集群后，用户无需修改代码，便能将现有...",
+          "link": "https://www.oschina.net/news/142448/rop-open-source",
+          "publishedOn": "2021-05-20T16:31:25.000Z",
+          "wordCount": 811,
+          "title": "腾讯和 StreamNative 开源 RoP：Apache Pulsar 支持原生 RocketMQ 协议"
+        },
+        {
+          "id": "https://www.oschina.net/news/142385/google-io-2021-sundar-pichai",
+          "author": null,
+          "description": "作者 / Sundar Pichai，Google 和 Alphabet CEO 很高兴今年能重新举办我们的 I/O 开发者大会。今天早上驾车进入山景城园区时，我有了一种久违的回归正常的感觉。当然，如果没有我们的开发者社群来到现场，一切都将有所不同。在过去的一年里，新冠肺炎疫情给全球的社区都带来了深刻的影响，并仍在继续造成损失。像巴西和我...",
+          "link": "https://www.oschina.net/news/142385/google-io-2021-sundar-pichai",
+          "publishedOn": "2021-05-20T09:18:11.000Z",
+          "wordCount": 636,
+          "title": "Google I/O 2021: 在重要时刻提供帮助"
+        },
+        {
+          "id": "https://www.oschina.net/news/142381/security-news-daily-0519",
+          "author": null,
+          "description": "报告编号：B6-2021-051999 报告来源：360CERT 报告作者：360CERT 更新日期：2021-05-19 1. Vulnerability|漏洞 CVE-2021-1497：Cisco HyperFlex HX Data Platform命令注入漏洞POC公开 https://attackerkb.com/topics/mDqlWhQovO/cve-2021-1497 CVE-2021-1499：Cisco HyperFlex HX Data Platform任意文件上传漏洞POC公开 ...",
+          "link": "https://www.oschina.net/news/142381/security-news-daily-0519",
+          "publishedOn": "2021-05-20T09:07:17.000Z",
+          "wordCount": 460,
+          "title": "安全日报：针对企业的新型勒索病毒；勒索软件服务器被查封"
+        },
+        {
+          "id": "https://www.oschina.net/news/142378/amysql-1-6-released",
+          "author": null,
+          "description": "AMYSQL是一个安全高效、简易的MySQL数据库管理Web客户端，使用AMYSQL可简单高效完成日常MySQL数据管理维护，包含数据库、数据表、用户权限各方面的管理。 AMYSQL支持运行于PHP5~PHP8环境，AMYSQL核心控制程序仅30余KB，主要数据交互控制器文件只有2个、10余函数，其余均为静态JS插件扩展形式载入管理，系统在最大程度简化...",
+          "link": "https://www.oschina.net/news/142378/amysql-1-6-released",
+          "publishedOn": "2021-05-20T08:47:07.000Z",
+          "wordCount": 490,
+          "title": "AMYSQL-1.6 发布 - 在线 MySQL 管理工具"
+        },
+        {
+          "id": "https://www.oschina.net/news/142339/apache-flink-1-13-0-released",
+          "author": null,
+          "description": "翻译 | 高赟 Review | 朱翥、马国维 Flink 1.13 发布了！Flink 1.13 包括了超过 200 名贡献者所提交的 1000 多项修复和优化。 这一版本中，Flink 的一个主要目标取得了重要进展，即让流处理应用的使用像普通应用一样简单和自然。Flink 1.13 新引入的被动扩缩容使得流作业的扩缩容和其它应用一样简单，用户仅需要修改并发...",
+          "link": "https://www.oschina.net/news/142339/apache-flink-1-13-0-released",
+          "publishedOn": "2021-05-20T06:33:13.000Z",
+          "wordCount": 1692,
+          "title": "官宣｜Apache Flink 1.13.0 正式发布，流处理应用更加简单高效！"
+        },
+        {
+          "id": "https://www.oschina.net/news/142335",
+          "author": null,
+          "description": "作者：Michael Scovetta，识别安全威胁工作组，OpenSSF OpenSSF[1]宣布安全指标倡议[2]的初始版本。该计划的主要目标是提供有关与开源项目相关的威胁和风险的有价值的决定性信息。安全指标（Security Metrics）附带了一个认知的仪表板，供涉众做出关于在他们的软件供应链中使用/容纳此类项目的可靠的知情决策。 它是如何...",
+          "link": "https://www.oschina.net/news/142335",
+          "publishedOn": "2021-05-20T06:06:45.000Z",
+          "wordCount": 481,
+          "title": "OpenSSF 安全指标倡议介绍"
+        },
+        {
+          "id": "https://www.oschina.net/news/142326/tpflow-5-0-7-released",
+          "author": null,
+          "description": "欢迎使用 Tpflow V5.0.7 工作流引擎 TpFlow工作流引擎是一套规范化的流程管理系统，基于业务而驱动系统生命力的一套引擎。彻底释放整个信息管理系统的的活力，让系统更具可用性，智能应用型，便捷设计性。Tpflow团队致力于打造中国最优秀的PHP工作流引擎。 主要未部分功能优化，新增流程过滤功能，新增消息接口 坚持这么...",
+          "link": "https://www.oschina.net/news/142326/tpflow-5-0-7-released",
+          "publishedOn": "2021-05-20T03:51:18.000Z",
+          "wordCount": 521,
+          "title": "PHP 开源工作流引擎 Tpflow V5.0.7 正式版发布"
+        },
+        {
+          "id": "https://www.oschina.net/news/142315/kubeoperator-3-7-0-released",
+          "author": null,
+          "description": "5月17日，开源容器平台KubeOperator正式发布v3.7.0版本。在这一版本中，KubeOperator使用“Vue.js+FIT2CLOUD UI”重构了前端界面，同时完成若干功能优化和Bug修复。 重构Web前端界面 相比上一次发布的KubeOperator v3.6.0版本，KubeOperator项目主要是在前端产生了重要变化，用户可以通过KubeOperator v3.x版本平滑升级至...",
+          "link": "https://www.oschina.net/news/142315/kubeoperator-3-7-0-released",
+          "publishedOn": "2021-05-20T03:06:40.000Z",
+          "wordCount": 500,
+          "title": "重要更新丨完成前端重构，KubeOperator 开源容器平台 v3.7.0 发布"
+        },
+        {
+          "id": "https://www.oschina.net/news/142286/chrome-follow-rss-feed",
+          "author": null,
+          "description": "Google Reader（Google 阅读器）曾是 Google 旗下的一个基于网络的聚合器，能在线或者离线阅读 RSS。Google Reader 于 2005 年发布，由于 Google Reader 用户数量逐年下降，Google 于 2013 年 7 月 1 日终止服务。 如今，Google 开始在 Chrome 浏览器上测试新的「关注」功能，将 RSS 阅读器的功能重新带回用户视野。 当用...",
+          "link": "https://www.oschina.net/news/142286/chrome-follow-rss-feed",
+          "publishedOn": "2021-05-20T00:39:22.000Z",
+          "wordCount": 513,
+          "title": "Google 将 RSS 阅读器集成进 Chrome 浏览器，Google Reader 后继有人"
+        },
+        {
+          "id": "https://www.oschina.net/news/142285/flutter-2-2",
+          "author": null,
+          "description": "谷歌在昨日举办的 Google I/O 2021 大会上宣布了 Flutter 2.2，其开发团队称此版本是迄今为止 Flutter 最好的版本。 Flutter 2.2 的更新亮点包括：针对开发者优化通过应用内购买、付款和广告的变现流程；更新工具包和语言特性以帮助开发者消除大部分错误；提升应用程序性能并减小程序包体积。 下面简要介绍 Flutter 2.2 ...",
+          "link": "https://www.oschina.net/news/142285/flutter-2-2",
+          "publishedOn": "2021-05-20T00:29:33.000Z",
+          "wordCount": 554,
+          "title": "Flutter 2.2 发布：针对各平台的性能优化、完善生态支持"
+        },
+        {
+          "id": "https://www.oschina.net/news/142284/2022-internet-explorer-windows-10-microsoft-edge",
+          "author": null,
+          "description": "微软方面宣布，Internet Explorer 11 桌面应用程序将于 2022 年 6 月 15 日退役，同时将从某些 Windows 10 版本中淘汰 Internet Explorer 11，将其替换为基于 Chromium 的 Microsoft Edge。 不过值得注意的是，这次退役并不影响市场上的 Windows 10 LTSC 或 Server Internet Explorer 11桌面应用程序，也不影响 MSHTML（...",
+          "link": "https://www.oschina.net/news/142284/2022-internet-explorer-windows-10-microsoft-edge",
+          "publishedOn": "2021-05-20T00:26:40.000Z",
+          "wordCount": 569,
+          "title": "微软计划在 2022 年删除 Win10 中的 IE 11 浏览器"
+        },
+        {
+          "id": "https://www.oschina.net/news/142283/mozilla-rolling-out-site-isolation-to-all-firefox",
+          "author": null,
+          "description": "Mozilla 日前开始向所有版本的 Firefox 推送站点隔离这一保护用户安全的功能，让用户免受恶意网站发起的攻击。 此前，站点隔离功能只能在 Firefox Nightly 版本中启用，NIghtly 是 Mozilla 用来测试新功能的发布渠道，其中的功能通常都处于尚未准备好更广泛推广的阶段。自 2018 年 4 月以来，站点隔离功能一直处于开发状...",
+          "link": "https://www.oschina.net/news/142283/mozilla-rolling-out-site-isolation-to-all-firefox",
+          "publishedOn": "2021-05-20T00:15:44.000Z",
+          "wordCount": 517,
+          "title": "Mozilla 开始向所有版本的 Firefox 推送站点隔离功能"
+        },
+        {
+          "id": "https://www.oschina.net/news/142282/khanacademy-half-a-million-lines-of-go",
+          "author": null,
+          "description": "美国教育非营利组织可汗学院（Khan Academy）方面透露，其已经用谷歌的 Go 编程语言完成了 50 万行代码，以取代此前用 Python 2 编写的后台服务器。根据介绍，可汗学院在其 Goliath 项目下实现了从 Python 2 到 Go 的大转变。Goliath 最初是使用 Python 2 实现的；从 2019 年开始，可汗学院逐步将其迁移到了 Go。 当我们...",
+          "link": "https://www.oschina.net/news/142282/khanacademy-half-a-million-lines-of-go",
+          "publishedOn": "2021-05-20T00:14:07.000Z",
+          "wordCount": 539,
+          "title": "50 万行 Go 代码，美国一组织从 Python 2 迁移到 Go"
+        },
+        {
+          "id": "https://www.oschina.net/p/xarray",
+          "author": null,
+          "description": "xarray 是一个开源 Python 包，它可以使处理多维数组更加简单、高效并有趣。xarray 在原始类 NumPy 多维数组中引入了标签化的变量名称和坐标索引，实现了更直观、更简洁和更加不容易出错的能力。该软件包包括一个庞大且不断增长的域无关功能库，用于使用这些数据结构进行高级分析和可视化。xarray 灵感来自同为解决数据分...",
+          "link": "https://www.oschina.net/p/xarray",
+          "publishedOn": "2021-05-20T00:10:44.000Z",
+          "wordCount": 763,
+          "title": "xarray —— 在 NumPy 多维数组中加入变量名和坐标索引"
+        },
+        {
+          "id": "https://gitee.com/ElemeFE/element",
+          "author": null,
+          "description": "Element 是一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库，提供了配套设计资源，帮助你的网站快速成型。由饿了么公司前端团队开源。",
+          "link": "https://gitee.com/ElemeFE/element",
+          "publishedOn": "2021-05-20T00:03:46.000Z",
+          "wordCount": null,
+          "title": "Gitee 推荐 | 基于 Vue 2.0 的桌面端组件库 Element"
+        },
+        {
+          "id": "https://my.oschina.net/u/4586915/blog/4703161",
+          "author": null,
+          "description": "C 语言内存管理指对系统内存的分配、创建、使用这一系列操作。在内存管理中，由于是操作系统内存，使用不当会造成毕竟麻烦的结果。本文将从系统内存的分配、创建出发，并且使用例子来举例说明内存管理不当会出现的情况及解决办法。",
+          "link": "https://my.oschina.net/u/4586915/blog/4703161",
+          "publishedOn": "2021-05-20T00:00:16.000Z",
+          "wordCount": 1335,
+          "title": "每日一博 | 看完这篇你还能不懂 C 语言/C++ 内存管理？"
+        },
+        {
+          "id": "https://www.oschina.net/news/142213/google-io-2021-android-12-beta",
+          "author": null,
+          "description": "作者 / Dave Burke, VP of Engineering 今天在 Google I/O 大会上，我们发布了 Android 12 的第一个 Beta 版。Android 12 是我们有史以来最具雄心的版本之一，我们致力于创造一套能适应您的需求的全新用户界面，提高性能，同时将隐私和安全置于核心。对于开发者来说，我们为大家提供了更多的工具，方便您在手机、笔记本电...",
+          "link": "https://www.oschina.net/news/142213/google-io-2021-android-12-beta",
+          "publishedOn": "2021-05-19T09:32:12.000Z",
+          "wordCount": 797,
+          "title": "一起看 I/O | Android 12 Beta 版发布，诸多亮点不容错过"
+        },
+        {
+          "id": "https://www.oschina.net/news/142190/chrome-automated-password-changes",
+          "author": null,
+          "description": "Google 计划在 Android 版 Chrome 浏览器中启动一项新功能，以帮助用户一键轻松修改因数据泄露而外泄的密码。 根据官方所述，有了这项新功能之后，只需轻轻一点，Chrome 浏览器就可以帮助用户进行密码修改。在受支持的网站上，如果 Chrome 浏览器检测到一个可能被泄露的密码，\"Change password\"按钮将从 Assistant 中弹出...",
+          "link": "https://www.oschina.net/news/142190/chrome-automated-password-changes",
+          "publishedOn": "2021-05-19T07:50:58.000Z",
+          "wordCount": 486,
+          "title": "Android 版 Chrome 将可以一键修改外泄密码"
+        },
+        {
+          "id": "https://www.oschina.net/news/142177/webrtc-today-tomorrow-bernard-aboba-qa",
+          "author": null,
+          "description": "WebRTC 无疑推动和改变了互联网视频，而这仅仅是刚刚开始，除了大家熟悉的 WebRTC-PC、Simulcast 和 SVC，有太多的新技术和新架构出现在 WebRTC 新的标准中，比如 WebTransport、WebCodecs、AV1、E2EE、SFrame、ML 等等，这篇文章详细介绍了未来的 WebRTC-NV，不容错过。 说明： 本文为阿里云视频云翻译的技术文章 原文标...",
+          "link": "https://www.oschina.net/news/142177/webrtc-today-tomorrow-bernard-aboba-qa",
+          "publishedOn": "2021-05-19T07:00:34.000Z",
+          "wordCount": 2041,
+          "title": "WebRTC 的现状和未来：专访 W3C WebRTC Chair Bernard Aboba"
+        },
+        {
+          "id": "https://www.oschina.net/news/142159/solon-1-4-1-released",
+          "author": null,
+          "description": "Solon 是一个微型的Java开发框架。强调，克制 + 简洁 + 开放的原则；力求，更小、更快、更自由的体验。支持：RPC、REST API、MVC、Micro service、WebSocket、Socket 等多种开发模式。 Solon Cloud 是一系列的接口标准和配置规范，算是 Solon 的分布式开发套件方案。 快速了解Solon的材料： 《Solon 特性简集，相较于 Sp...",
+          "link": "https://www.oschina.net/news/142159/solon-1-4-1-released",
+          "publishedOn": "2021-05-19T05:49:46.000Z",
+          "wordCount": 689,
+          "title": "Spring Boot & Cloud 轻量替代框架 Solon 1.4.1 发布"
+        },
+        {
+          "id": "https://www.oschina.net/news/142143/android-studio-arctic-fox-beta",
+          "author": null,
+          "description": "谷歌发布了 Android Studio Arctic Fox (2020.3.1) 首个 Beta 版本，如果按照旧的版本号方案来命名，此版本即为 Android Studio 4.3 Beta。 新的版本号命名方案早于去年就已公布，谷歌解释这是为了与 IntelliJ 的版本对齐。下面简单介绍新的版本号方案，新的版本号格式如下： <Year of IntelliJ Version>.<IntelliJ maj...",
+          "link": "https://www.oschina.net/news/142143/android-studio-arctic-fox-beta",
+          "publishedOn": "2021-05-19T03:37:46.000Z",
+          "wordCount": 543,
+          "title": "Android Studio Arctic Fox (2020.3.1) Beta 发布，启用新的版本号命名方案"
+        },
+        {
+          "id": "https://www.oschina.net/news/142109/apache-dubbo-samples-sig",
+          "author": null,
+          "description": "只有贡献代码才算是参与开源项目社区贡献吗？ 一说到参与开源项目贡献，一般大家的反应都是代码级别的贡献，总觉得我的代码被社区合并了，我才算一个贡献者，这是一个常见的错误认知。其实，在一个开源社区中有非常多的角色是 non-code contributor，一个开源社区中的很多关键职责被大家给忽略了。 组织活动也可以是贡献...",
+          "link": "https://www.oschina.net/news/142109/apache-dubbo-samples-sig",
+          "publishedOn": "2021-05-19T00:37:58.000Z",
+          "wordCount": 650,
+          "title": "参与 Apache 顶级开源项目的 N 种方式，Apache Dubbo Samples SIG 成立！"
+        },
+        {
+          "id": "https://www.oschina.net/news/142107/spacex-software-team-use-rust",
+          "author": null,
+          "description": "SpaceX 软件开发团队的部分成员近日在 reddit 参加了 AMA(ask me anything) 活动，邀请任何人来向他们提问有关项目的问题。 其中有一名用户提问道，SpaceX 软件开发团队是否对 Rust 这门语言有更多的想法，以及是否或可能如何使用它？ SpaceX 团队成员\"Asher\"回复称，他们对 Rust 非常感兴趣，因为 Rust 在安全、性能和现...",
+          "link": "https://www.oschina.net/news/142107/spacex-software-team-use-rust",
+          "publishedOn": "2021-05-19T00:34:50.000Z",
+          "wordCount": 470,
+          "title": "SpaceX 使用 Rust 为部分新项目构建原型"
+        },
+        {
+          "id": "https://www.oschina.net/news/142106/apple-stops-developing-cups",
+          "author": null,
+          "description": "早在 2007 年，苹果公司就收购了 Linux 开源打印系统 CUPS，此后在 2017 年决定不再根据 GPL 开发 CUPS，而是转变成 Apache 2.0 许可协议继续开发 CUPS。除了 Linux，这个开源打印系统还广泛运用于 Unix 和 macOS。但随着 2019 年底 CUPS 的首席开发者离开了苹果后，CUPS 的开发似乎也处于停滞状态。幸运的是，如今 CUPS...",
+          "link": "https://www.oschina.net/news/142106/apple-stops-developing-cups",
+          "publishedOn": "2021-05-19T00:32:07.000Z",
+          "wordCount": 527,
+          "title": "苹果放弃开源项目 CUPS 的开发，OpenPrinting 将负责后续工作"
+        },
+        {
+          "id": "https://www.oschina.net/news/142104/jumpserver-confessions",
+          "author": null,
+          "description": "编者注：本文刊登在《新一代堡垒机建设指南》（2021 年 5 月第 I 版）序言部分，文章作者为 JumpServer 开源堡垒机项目创始人广宏伟。 改变世界，从一点点开始 2014年6月，JumpServer开源堡垒机项目诞生。在那个时间节点，这个项目要到哪里去？我的手中没有地图。 那时我是一名运维工程师，入职了一家新公司。上班第一天...",
+          "link": "https://www.oschina.net/news/142104/jumpserver-confessions",
+          "publishedOn": "2021-05-19T00:22:39.000Z",
+          "wordCount": 454,
+          "title": "JumpServer 开源堡垒机的自白：改变世界，从一点点开始"
+        },
+        {
+          "id": "https://www.oschina.net/news/142103/2021-worldwide-security-and-risk-managem",
+          "author": null,
+          "description": "在全球网络犯罪蓬勃发展的背景下，企业和组织也将继续加大在安全工具和技术方面的投入。市场研究公司 Gartner 最新发布的一份报告预测表明，全球在信息安全和风险管理服务方面的支出预计将增长 12.4%，在 2021 年达到 1504 亿美元。 在 2020 年，安全和风险管理方面的支出增长则为 6.4%。Gartner 分析师认为，强劲的增长...",
+          "link": "https://www.oschina.net/news/142103/2021-worldwide-security-and-risk-managem",
+          "publishedOn": "2021-05-19T00:10:20.000Z",
+          "wordCount": 496,
+          "title": "2021 全球网络安全支出预计将达 1500 亿美元"
+        },
+        {
+          "id": "https://www.oschina.net/p/umami",
+          "author": null,
+          "description": "Umami 是 Google Analytics 的一种简单、快速的网站分析替代工具。",
+          "link": "https://www.oschina.net/p/umami",
+          "publishedOn": "2021-05-19T00:04:39.000Z",
+          "wordCount": 426,
+          "title": "Umami —— 基于 JS 的网站分析工具"
+        },
+        {
+          "id": "https://gitee.com/dongyu1009/tiny-map-for-harmony-os",
+          "author": null,
+          "description": "鸿蒙操作系统中，简单易用的轻量化地图组件。",
+          "link": "https://gitee.com/dongyu1009/tiny-map-for-harmony-os",
+          "publishedOn": "2021-05-19T00:03:19.000Z",
+          "wordCount": null,
+          "title": "Gitee 推荐 | 鸿蒙系统中轻量化地图组件 TinyMap For HarmonyOS"
+        },
+        {
+          "id": "https://my.oschina.net/u/4611803/blog/4524830",
+          "author": null,
+          "description": "每个人都可以轻松地将数据放入任何模型机器学习或深度学习框架中。但是遵循最佳实践技巧可能有助于提升工作效率。以下是常见的一些方法。",
+          "link": "https://my.oschina.net/u/4611803/blog/4524830",
+          "publishedOn": "2021-05-19T00:01:29.000Z",
+          "wordCount": 468,
+          "title": "每日一博 | 使用 ML 和 DNN 建模的技巧总结"
+        },
+        {
+          "id": "https://www.oschina.net/news/142099/deno-1-10-released",
+          "author": null,
+          "description": "Deno 1.10 已正式发布，此版本包含许多新功能、性能优化以及错误修复。 改进内置的 test runner 在 Web Workers 中支持结构化克隆 (structured clone) 新增 Web Storage API 支持远程导入映射 (maps) 如果已经安装了 Deno，运行deno upgrade命令即可升级到 1.10 版本。如果是首次安装，可以参考下面的方法： \r\n# Using ...",
+          "link": "https://www.oschina.net/news/142099/deno-1-10-released",
+          "publishedOn": "2021-05-18T23:59:01.000Z",
+          "wordCount": 895,
+          "title": "Deno 1.10 发布：改进内置 test runner、新增 Web Storage API"
+        },
+        {
+          "id": "https://www.oschina.net/news/142098/android-12-beta-1-released",
+          "author": null,
+          "description": "在今天的 Google I/O 大会上，Google 发布了 Android 12 的第一个测试版。Android 12 Beta 对 Android 系统进行的非常大的改动，以下是一些值得关注的变化。 适用于 Android 的新用户界面 正如 Android Developer 在消费者博客中强调的那样，Android 12 带来了 Android 历史上最大的设计变化。Google 重新思考了整个体验...",
+          "link": "https://www.oschina.net/news/142098/android-12-beta-1-released",
+          "publishedOn": "2021-05-18T23:50:50.000Z",
+          "wordCount": 696,
+          "title": "Android 12 Beta 1 发布，改善 UI 和隐私，引入设备高性能标准"
+        },
+        {
+          "id": "https://www.oschina.net/news/142033/layui-2-6-7-released",
+          "author": null,
+          "description": "更新日志： [新增] layui._typeof(operand) / layui._isArray(obj) 两个基础方法。 分别为\"获取详细数据类型\"、\"对象是否为泛数组\" [重写] layui.each() 基础方法，以兼容各种对象遍历 [修复] layui.sort(obj) 基础方法，在比较某些值相等时出现排序异常的问题 [修复] form 组件当 layui-form 元素出现层级嵌套，其提交的...",
+          "link": "https://www.oschina.net/news/142033/layui-2-6-7-released",
+          "publishedOn": "2021-05-18T06:09:29.000Z",
+          "wordCount": 491,
+          "title": "layui 2.6.7 发布，原生态 Web UI 组件库"
+        },
+        {
+          "id": "https://www.oschina.net/news/141999/atzlinux-10-9-2-released",
+          "author": null,
+          "description": "https://www.atzlinux.com/News/2021/20210517.htm 《铜豌豆 Linux》10.9.2 版本发布 2021-05-17 此次发布主要为优化 ISO 安装速度，更新升级软件包、调整软件包。 软件包更新 Debian 官方软件包，更新至 Debian 官方仓库 buster-proposed-updates 2021-05-17 日。 安全更新 Debian 官方软件包安全更新 同步到 2021-05-...",
+          "link": "https://www.oschina.net/news/141999/atzlinux-10-9-2-released",
+          "publishedOn": "2021-05-18T02:59:43.000Z",
+          "wordCount": 687,
+          "title": "《铜豌豆 Linux》10.9.2 版本发布"
+        },
+        {
+          "id": "https://www.oschina.net/news/141998/arthas-3-5-1-released",
+          "author": null,
+          "description": "Arthas是Alibaba开源的Java诊断工具，深受开发者喜爱。 Github：https://github.com/alibaba/arthas 文档：https://arthas.aliyun.com/doc/ 以前使用watch等命令时，我们通常要先知道哪个类，调用了哪个函数，然后触发调用。这样有局限： 线上触发调用比较难 要watch到正确的函数可能要选择多次 条件表达式/结果表达式 ...",
+          "link": "https://www.oschina.net/news/141998/arthas-3-5-1-released",
+          "publishedOn": "2021-05-18T02:59:41.000Z",
+          "wordCount": 695,
+          "title": "Arthas 3.5.1 发布：神级特性！内存搜索对象"
+        },
+        {
+          "id": "https://www.oschina.net/news/141970/magisk-developer-joins-google",
+          "author": null,
+          "description": "熟悉 Android 系统的用户都知道，要想获取系统的最高权限就需要对系统进行 root。如果你在过去几年里对 Android 手机进行了 root 并用来实现一些原本系统所不具备的功能，那么你一定听说过 Magisk 这款工具。今天，Magisk 的开发者吴泓霖（John Wu）宣布，他将加入 Google 的 Android 安全团队。 Magisk 是吴泓霖在 2016...",
+          "link": "https://www.oschina.net/news/141970/magisk-developer-joins-google",
+          "publishedOn": "2021-05-18T00:38:26.000Z",
+          "wordCount": 490,
+          "title": "Magisk 创作者吴泓霖加入 Google，任职于 Android 安全团队"
+        },
+        {
+          "id": "https://www.oschina.net/news/141969/faster-cpython-dark",
+          "author": null,
+          "description": "Python 之父 Guido van Rossum 在 2021 年 Python 语言峰会上透露了一些有关 Python 的发展计划表示，其短期计划是在 Python 3.11 版本中实现至少提速 1 倍。按照官方的发布周期，目前处于测试阶段的 Python 3.10 计划于今年 10 月发布，Python 3.11 则预计于 2022 年发布。 2020 年 11 月，Guido 在退休一年后宣布再度复...",
+          "link": "https://www.oschina.net/news/141969/faster-cpython-dark",
+          "publishedOn": "2021-05-18T00:32:14.000Z",
+          "wordCount": 556,
+          "title": "Python 之父：明年在 Python 中实现至少 1 倍提速"
+        },
+        {
+          "id": "https://www.oschina.net/news/141966/vineyard-cncf-sandbox",
+          "author": null,
+          "description": "Vineyard 是一个专为云原生环境下大数据分析场景中端到端工作流提供内存数据共享的分布式引擎，我们很高兴宣布 Vineyard 在 2021 年 4 月 27 日被云原生基金会（CNCF）TOC 接受为沙箱（Sandbox）项目。 Vineyard 项目开源地址：https://github.com/alibaba/v6d 项目介绍 现有的大数据分析场景中，对于端到端任务，不同的...",
+          "link": "https://www.oschina.net/news/141966/vineyard-cncf-sandbox",
+          "publishedOn": "2021-05-18T00:16:49.000Z",
+          "wordCount": 674,
+          "title": "Vineyard 加入 CNCF Sandbox，将继续瞄准云原生大数据分析领域"
+        },
+        {
+          "id": "https://www.oschina.net/news/141965/survey-shows-enterprises-reliance-on-opensource-software",
+          "author": null,
+          "description": "近日，Percona 对 200 名 IT 决策者进行了调查，通过调查他们发现如今企业对开源软件的价值有着深刻的认识，其中所有的 IT 决策者（100%）均表示，使用开源软件为他们的企业/组织带来了好处。调查报告还显示，在过去的 12个月时间里，79% 的受访者在企业内部都增加了开源软件的使用。 200 名受访者中，25% 来自于 500-99...",
+          "link": "https://www.oschina.net/news/141965/survey-shows-enterprises-reliance-on-opensource-software",
+          "publishedOn": "2021-05-18T00:14:23.000Z",
+          "wordCount": 495,
+          "title": "Percona 调查：企业对开源软件的依赖不断提高"
+        },
+        {
+          "id": "https://www.paddlepaddle.org.cn/modelbasedetail/icnet",
+          "author": null,
+          "description": "ICNet 主要用于图像实时语义分割，能够兼顾速度和准确性。 ICNet的主要思想是将输入图像变换为不同的分辨率，然后用不同计算复杂度的子网络计算不同分辨率的输入，然后将结果合并。",
+          "link": "https://www.paddlepaddle.org.cn/modelbasedetail/icnet",
+          "publishedOn": "2021-05-18T00:09:44.000Z",
+          "wordCount": 217,
+          "title": "深度学习模型库入门：图像语义分割-ICNET"
+        },
+        {
+          "id": "https://www.oschina.net/p/dqlite",
+          "author": null,
+          "description": "Dqlite 是一个快速、嵌入式、持久化的 SQL 数据库，具有Raft共识，非常适合容错的IoT和Edge设备。",
+          "link": "https://www.oschina.net/p/dqlite",
+          "publishedOn": "2021-05-18T00:07:59.000Z",
+          "wordCount": 776,
+          "title": "Dqlite —— 高可用 SQLite 数据库"
+        },
+        {
+          "id": "https://gitee.com/zhongyang219/TrafficMonitor",
+          "author": null,
+          "description": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
+          "link": "https://gitee.com/zhongyang219/TrafficMonitor",
+          "publishedOn": "2021-05-18T00:04:25.000Z",
+          "wordCount": null,
+          "title": "Gitee 推荐 | 桌面悬浮窗软件 TrafficMonitor"
+        },
+        {
+          "id": "https://my.oschina.net/mathinside/blog/4721858",
+          "author": null,
+          "description": "首先，题目中的三个概念对应三类空间，即度量空间（Metric space）、赋范空间（Normed space）和内积空间（Inner prodect space）。",
+          "link": "https://my.oschina.net/mathinside/blog/4721858",
+          "publishedOn": "2021-05-18T00:00:17.000Z",
+          "wordCount": 671,
+          "title": "每日一博 | 度量、范数和内积原来是这么个关系"
+        },
+        {
+          "id": "https://www.oschina.net/news/141955/scala3-released",
+          "author": null,
+          "description": "Scala 3 稳定版来了！发布公告写道：“经过 8 年的努力开发，在此期间共产生了 28000 多次 commit、7400 多个 PR，以及关闭了 4100 多个 issue。从2012年12月6日 Scala 3 的首个 commit 算起，共计超过 100 人为项目做出了贡献。现在，Scala 3 通过结合类型理论的最新研究以及 Scala 2 的行业经验，Scala 的第三次迭代版...",
+          "link": "https://www.oschina.net/news/141955/scala3-released",
+          "publishedOn": "2021-05-17T23:15:05.000Z",
+          "wordCount": 577,
+          "title": "Scala 3 正式发布"
+        },
+        {
+          "id": "https://www.oschina.net/news/141896/hunt-framework-3-4-4-released",
+          "author": null,
+          "description": "Hunt Framework 是一个全栈 D语言 Web 服务框架，框架完全使用 DLang 编写，从底层的 io 设计到协议解析再到框架层完全是自己设计研发，并在使用的便捷性上吸取了其他语言框架的优势，比如 Django 的模板引擎和 Middleware 机制，再比如 Laravel 的依赖输入架构等，让一个完全使用编译型高性能语言开发出来的框架灵活的像...",
+          "link": "https://www.oschina.net/news/141896/hunt-framework-3-4-4-released",
+          "publishedOn": "2021-05-17T10:14:21.000Z",
+          "wordCount": 492,
+          "title": "Hunt Framework 3.4.4 发布，D 语言 Web 服务框架！"
+        }
+      ]
+    },
+    {
+      "title": "大眼仔旭",
+      "feedUrl": "http://www.dayanzai.me/feed",
+      "siteUrl": "http://www.dayanzai.me",
+      "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=31988",
+          "author": "大眼仔~旭",
+          "description": "推荐语：“刘遄老师的新书《Linux就该这么学》双十一当天预售出版上市，必读的Linux系统和红帽认证自学书籍 […]",
+          "link": "http://www.dayanzai.me/linux-book.html",
+          "publishedOn": "2021-05-20T18:28:33.000Z",
+          "wordCount": 501,
+          "title": "《Linux就该这么学》— 非常适合linux技术学习的入门好书"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=40528",
+          "author": "大眼仔~旭",
+          "description": "正版特价！仅需 348 元！洗白白这次错过下次就不知道什么时间了！数量和时间都有限！现在绝大部分网友应该使用的 […]",
+          "link": "http://www.dayanzai.me/windows-10-buy.html",
+          "publishedOn": "2021-05-20T17:20:37.000Z",
+          "wordCount": 659,
+          "title": "微软官方特价！Windows 10 Pro 专业版 仅需 348 元！绑定数字权利、支持迁移授权！"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=36715",
+          "author": "大眼仔~旭",
+          "description": "由本站和APSGO软购商城推荐的官方正版特价！终身版！Office 家庭和学生版 2016/2019 正版办公 […]",
+          "link": "http://www.dayanzai.me/office-buy.html",
+          "publishedOn": "2021-05-20T16:58:44.000Z",
+          "wordCount": 630,
+          "title": "官方正版 Office 2016/2019 家庭和学生版，底价限量促销！仅 98 元！终身使用！"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=47188",
+          "author": "大眼仔~旭",
+          "description": "“站在风口，猪都会飞”。这是如今层出不穷创业公司梦寐以求的，而2020年的风口，远程办公算是一类，年初的突发情 […]",
+          "link": "http://www.dayanzai.me/sunloginclient.html",
+          "publishedOn": "2021-05-20T16:53:56.000Z",
+          "wordCount": 464,
+          "title": "简单好用的远控神器，国产向日葵轻松开启远程办公！"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=46643",
+          "author": "大眼仔~旭",
+          "description": "伴随着视频逐渐成为人们记录日常生活和沟通交流最主要的表达形式和视频共享平台的兴盛，人们对于视频的需求日益增长。 […]",
+          "link": "http://www.dayanzai.me/uniconverter.html",
+          "publishedOn": "2021-05-20T16:50:20.000Z",
+          "wordCount": 483,
+          "title": "一站式音视频处理软件 – 万兴优转 新年限时会员特供+免费体验"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=48908",
+          "author": "大眼仔~旭",
+          "description": "来画动画（www.laihua.com）是在线动画视频制作平台，你可以像做PPT一样做短视频。来画动画平台拥有 […]",
+          "link": "http://www.dayanzai.me/laihua.html",
+          "publishedOn": "2021-05-20T16:48:09.000Z",
+          "wordCount": 461,
+          "title": "创意动画视频制作软件-来画动画 – [VIP限时免费兑换]"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=50411",
+          "author": "大眼仔~旭",
+          "description": "来画视频（www.laihua.com/video）是一款全新的演示视频创建工具，可在进行视频录制或视频会议时 […]",
+          "link": "http://www.dayanzai.me/laihua-video.html",
+          "publishedOn": "2021-05-20T16:46:17.000Z",
+          "wordCount": 445,
+          "title": "来画视频-全新上线演示视频工具-限时免费体验！"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=45425",
+          "author": "大眼仔~旭",
+          "description": "Ashampoo 是软件开发、销售和 Web 门户站点领域的全球领先互联网企业之一。Ashampoo 制造的众 […]",
+          "link": "http://www.dayanzai.me/ashampoo.html",
+          "publishedOn": "2021-05-20T16:42:50.000Z",
+          "wordCount": 578,
+          "title": "阿香婆 Ashampoo 办公软件系列官方正版软件优惠打折啦！"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=1263",
+          "author": "大眼仔~旭",
+          "description": "优秀免费的字幕制作软件 Subtitle Edit 绿色中文版由大眼仔旭（www.dayanzai.me）发布 […]",
+          "link": "http://www.dayanzai.me/subtitle-edit.html",
+          "publishedOn": "2021-05-20T16:30:32.000Z",
+          "wordCount": 1139,
+          "title": "优秀免费的字幕制作软件 Subtitle Edit 3.6.1 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=5663",
+          "author": "大眼仔~旭",
+          "description": "Icaros Shell Extensions 中文版 Windows 资源管理器视频扩展插件由大眼仔旭（ww […]",
+          "link": "http://www.dayanzai.me/icaros.html",
+          "publishedOn": "2021-05-20T16:20:03.000Z",
+          "wordCount": 622,
+          "title": "Windows 资源管理器视频扩展 Icaros Shell Extensions 3.2.1 中文免费版"
         }
       ]
     }
