@@ -581,6 +581,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/142615",
+          "author": null,
+          "description": "TARS基金会现推出全新电子书《Contributors Motivations for Joining Open Source Projects》，带您探索开源文化以及深入了解成为开源贡献者的魅力! 根据2020年GitHub发布的State of Octoverse报告（ octoverse.github.com ），目前全球范围内有超过5600万开发人员参与开源协作，并且该数字有望在2025年达到1亿。 这些惊...",
+          "link": "https://www.oschina.net/news/142615",
+          "publishedOn": "2021-05-21T10:26:06.000Z",
+          "wordCount": 460,
+          "title": "开源贡献文化席卷而来，其背后动机是什么？｜TARS 电子书"
+        },
+        {
           "id": "https://www.oschina.net/news/142603/webank-annual-platinum-sponsor",
           "author": null,
           "description": "开源社由志愿贡献于开源事业的个人依“贡献、共识、共治”原则组成，与支持开源的社区、企业以及政府相关单位紧密合作，始终不忘初心，维持中立、公益与非营利，致力于成为“社区的社区”，聚力于社区，奉献于社区。 成立近七年来，链接了数万名开源人，集聚了上千名社区成员及志愿者、海内外数百位讲师，合作了百余家赞...",
