@@ -1,7 +1,12 @@
 cacheUrl: https://hqiwei.github.io/rss/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
-  - href: http://www.ruanyifeng.com/blog/atom.xml
+  # - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
+  # - href: https://css-tricks.com/feed/
+  # - href: https://www.smashingmagazine.com/feed/
+  # - href: https://www.freecodecamp.org/news/rss/
+  - href: http://www.ruanyifeng.com/blog/atom.xml # 科技爱好者周刊（阮一峰的网络日志）
+  - href: https://gocn.vip/topics/feed # GoCN社区
+  - href: http://www.linuxeden.com/feed # Linuxeden开源社区
+  - href: http://feed.appinn.com # 小众软件
+  - href: https://www.oschina.net/news/rss # 开源软件新闻
+  - href: http://www.dayanzai.me/feed # 大眼仔旭
