@@ -2,6 +2,8 @@
 
 This is repository hosts the UI and content of an RSS feed reader.
 
+[点此访问](https://hqiwei.github.io/rss/)
+
 ## Links and references
 
 - [How does it work?](https://github.com/osmoscraft/osmosfeed#osmosfeed)
