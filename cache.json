@@ -137,6 +137,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12103",
+          "author": "Fintech",
+          "description": "招聘：golang 开发工程师 - 知名区块链公司\n公司：知名区块链公司\n薪资：高于互联网\n地点：上海\n微信：fintech78\n邮箱：career@fintechgl.com\n关键词：golang、互联网\n工作职责：\n1.负责服务器端的架构，模块设计以及代码实现；\n2.负责对数据收集，整理，分析等功能模块的开发和维护。\n任职要求：\n1.本科及以上学历，计算机相关专业；\n2.3 年以上 golang 后端开发经验；\n3.具有分布式系统设计和开发经验者优先；",
+          "link": "https://gocn.vip/topics/12103",
+          "publishedOn": "2021-05-21T10:04:12.000Z",
+          "wordCount": 97,
+          "title": "【FinTech 社区】招聘：golang 开发工程师 - 知名区块链公司"
+        },
+        {
           "id": "https://gocn.vip/topics/12102",
           "author": "keke001",
           "description": "GoCN 每日新闻 (2021-05-21)\ngolang 中的 AES 加密解密\n\nGo 中实现的加密货币机器人 https://github.com/rodrigo-brito/ninjabot\n\nGo 中同名的方法\n\nGo 实现的 JSON 类型检查工具 https://github.com/Kangaroux/go-map-schema\n\n使用 Wails 在 Go 中构建桌面应用\n\n\n\n编辑: 李森森\n订阅新闻: http://tinyletter.com/gocn\n招聘专区: https://gocn.vip/jobs",
@@ -571,6 +580,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/142603/webank-annual-platinum-sponsor",
+          "author": null,
+          "description": "开源社由志愿贡献于开源事业的个人依“贡献、共识、共治”原则组成，与支持开源的社区、企业以及政府相关单位紧密合作，始终不忘初心，维持中立、公益与非营利，致力于成为“社区的社区”，聚力于社区，奉献于社区。 成立近七年来，链接了数万名开源人，集聚了上千名社区成员及志愿者、海内外数百位讲师，合作了百余家赞...",
+          "link": "https://www.oschina.net/news/142603/webank-annual-platinum-sponsor",
+          "publishedOn": "2021-05-21T09:34:32.000Z",
+          "wordCount": 466,
+          "title": "欢迎微众银行成为开源社年度白金伙伴"
+        },
         {
           "id": "https://www.oschina.net/news/142570/sublime-text-4-released",
           "author": null,
