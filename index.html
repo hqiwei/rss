@@ -127,6 +127,44 @@
           <section class="articles-per-source">
             <article>
               <details class="article-expander">
+                <summary class="article-expander__title">gocron 定时任务管理器</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12099">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>Golang | gocron 介绍
+推荐编辑：laocheng
+一、简介
+很多时候，项目中需要用到定时任务，或者周期任务。首先我们想到了 crontab，但是 crontab 使用会和项目分离，不那么方便。那怎么办呢？
+这里，推荐使用gocron 这个库，可以非常方便的设置定时任务，无论年、月、日、时、分、秒的定时设置。同时，它还提供 crontab 字符串格式的设置功能。
+二、快速使用
+步骤如下：
+安装包&quot;github.com/go-co-op/gocron&quot;
+引入包，参照例子直接使用
+1. 简单使用
+首先，初始化 s 对象；
+然后，直接配置定时任务，任务添加函数名 + 参数；
+最后，block 当前进程，观察任务执行。
+package main
+
+import (
+    &quot;fmt&quot;
+    &quot;time&quot;
+
+    &quot;github.com/go-co-op/gocron&quot;
+)
+
+func task(s string){
+    fmt.Printf(&quot;I&#x27;m running, about %s. \n&quot;, s)
+}
+
+func main() {
+    s :&#x3D; gocron.NewScheduler(…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
                 <summary class="article-expander__title">事务前沿研究丨事务测试体系解析</summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12098">
                   <div class="article-summary-box-inner">
@@ -180,6 +218,34 @@ Percolator
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://www.oschina.net/news/rss">OSCHINA 社区最新新闻</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">重磅 || Spring Boot 2.5.0 正式发布</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.oschina.net/news/142532/spring-boot-2-5-0-released">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>spring boot 2.5.0、2.4.6、2.3.11 正式发布。 
+
+  org.springframework.boot
+  spring-boot-starter-parent
+  2.5.0
+
+ 新特性 支持 Java16 支持 Gradle7 增强 Docker 镜像构建工具 全新的数据源加载机制 spring boot 2....</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">WebRTC M90 更新：功能增强、改进稳定性与性能</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.oschina.net/news/142525/webrtc-m90-released">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>WebRTC M90 目前已在 Chrome 测试版中发布，包含 2 个新特性和超过 29 个 bug 修复，以及功能增强、稳定性与性能等方面的改进。 欢迎关注本账号，我们将定期翻译 WebRTC 相关内容，帮助开发者获得最新资讯，走在行业前沿。 01. 公共服务公告 Plan B SDP 弃用 提醒：Plan B SDP 已被弃用，将来会被彻底删除。 时间线见：h...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">2021 OPPO 广告联盟峰会圆满举办丨拥抱联盟新生态，打造融合增长平台</summary>
@@ -1920,7 +1986,7 @@ type Test struct {
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-05-21T03:24:31.550Z">2021-05-21T03:24:31.550Z</time>
+    <time id="build-timestamp" datetime="2021-05-21T04:20:38.754Z">2021-05-21T04:20:38.754Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.7.2</a></span>
   </footer>
   <script src="index.js"></script>

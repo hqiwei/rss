@@ -137,6 +137,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12099",
+          "author": "laocheng",
+          "description": "Golang | gocron 介绍\n推荐编辑：laocheng\n一、简介\n很多时候，项目中需要用到定时任务，或者周期任务。首先我们想到了 crontab，但是 crontab 使用会和项目分离，不那么方便。那怎么办呢？\n这里，推荐使用gocron 这个库，可以非常方便的设置定时任务，无论年、月、日、时、分、秒的定时设置。同时，它还提供 crontab 字符串格式的设置功能。\n二、快速使用\n步骤如下：\n安装包\"github.com/go-co-op/gocron\"\n引入包，参照例子直接使用\n1. 简单使用\n首先，初始化 s 对象；\n然后，直接配置定时任务，任务添加函数名 + 参数；\n最后，block 当前进程，观察任务执行。\npackage main\n\nimport (\n    \"fmt\"\n    \"time\"\n\n    \"github.com/go-co-op/gocron\"\n)\n\nfunc task(s string){\n    fmt.Printf(\"I'm running, about %s. \\n\", s)\n}\n\nfunc main() {\n    s := gocron.NewScheduler(…",
+          "link": "https://gocn.vip/topics/12099",
+          "publishedOn": "2021-05-21T03:54:46.000Z",
+          "wordCount": 192,
+          "title": "gocron 定时任务管理器"
+        },
+        {
           "id": "https://gocn.vip/topics/12098",
           "author": "TiDB_Robot",
           "description": "作者介绍：童牧。\n绪论\n在程序员的生涯中，bug 一直伴随着我们，虽然我们期望写出完美的程序，但是再优秀的程序员也无法保证自己能够不写出 bug。因此，我们为程序编写测试，通过提前发现 bug 来提高最终交付程序的质量。我从在 PingCAP 的工作中感受到，做好数据库和做好数据库测试是密不可分的，本次分享，我们将在第一讲的事务隔离级别的基础上，对数据库事务的测试进行研究，主要讲述，在 PingCAP 我们是如何保证事务的正确性的。\n因为我们保证事务正确性的方法比较多，所以本次我们会着重讲解 Jepsen 和 Elle，而其他方法则是作为补充，我也会简单说明他们的做法和优缺点。我将事务测试的方法划分为以下几个类别：\n理论正确性的验证\n\n\n基于不变量的正确性验证\n\n\n对执行历史进行检查的验证\n\n\n辅助测试手段\n\n\n回顾 Percolator 提交协议\nPercolator\n在开始讲述测试方法前，我们先对 Percolator 提交协议进行回顾，感受一下这一协议下的复杂性。Percolator 提交协议使用 2PC 的提交方式来保证事务的原子性，但是在 shared-nothing 架构下，没有一个节点有全局的事…",
@@ -526,6 +535,24 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/142532/spring-boot-2-5-0-released",
+          "author": null,
+          "description": "spring boot 2.5.0、2.4.6、2.3.11 正式发布。 \r\n<parent>\r\n  <groupId>org.springframework.boot</groupId>\r\n  <artifactId>spring-boot-starter-parent</artifactId>\r\n  <version>2.5.0</version>\r\n</parent>\r\n 新特性 支持 Java16 支持 Gradle7 增强 Docker 镜像构建工具 全新的数据源加载机制 spring boot 2....",
+          "link": "https://www.oschina.net/news/142532/spring-boot-2-5-0-released",
+          "publishedOn": "2021-05-21T03:40:42.000Z",
+          "wordCount": 538,
+          "title": "重磅 || Spring Boot 2.5.0 正式发布"
+        },
+        {
+          "id": "https://www.oschina.net/news/142525/webrtc-m90-released",
+          "author": null,
+          "description": "WebRTC M90 目前已在 Chrome 测试版中发布，包含 2 个新特性和超过 29 个 bug 修复，以及功能增强、稳定性与性能等方面的改进。 欢迎关注本账号，我们将定期翻译 WebRTC 相关内容，帮助开发者获得最新资讯，走在行业前沿。 01. 公共服务公告 Plan B SDP 弃用 提醒：Plan B SDP 已被弃用，将来会被彻底删除。 时间线见：h...",
+          "link": "https://www.oschina.net/news/142525/webrtc-m90-released",
+          "publishedOn": "2021-05-21T03:21:25.000Z",
+          "wordCount": 721,
+          "title": "WebRTC M90 更新：功能增强、改进稳定性与性能"
+        },
         {
           "id": "https://www.oschina.net/news/142514",
           "author": null,
