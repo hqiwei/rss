@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T14:09:31.880Z</updated>
+    <updated>2021-05-22T15:11:00.620Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[在 Linux 上重新映射你的大写锁定键]]></title>
+        <id>http://www.linuxeden.com/?p=85626</id>
+        <link href="http://www.linuxeden.com/a/85626"/>
+        <updated>2021-05-22T15:02:54.000Z</updated>
+        <summary type="html"><![CDATA[通过在 GNOME 3 和 Wayland 上重新映射你的键盘，提高你的打字和导航速度，避免重复性压力伤害。 对我来说，有许多改变生活的 Linux 时刻，但大多数都在成为现状后淡忘了。有一个 Linux 教给我的键盘小技巧，每次我使用它的 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 C 语言理解 Linux 软件库]]></title>
+        <id>http://www.linuxeden.com/?p=85624</id>
+        <link href="http://www.linuxeden.com/a/85624"/>
+        <updated>2021-05-22T15:01:57.000Z</updated>
+        <summary type="html"><![CDATA[软件库是重复使用代码的一种简单而合理的方式。 软件库是一种是一直以来长期存在的、简单合理的复用代码的方式。这篇文章解释了如何从头开始构建库并使得其可用。尽管这两个示例库都以 Linux 为例，但创建、发布和使用这些库的步骤也可以应用于其它类 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[实拍！“祝融号”火星车驶离着陆平台影像]]></title>
+        <id>http://www.linuxeden.com/?p=85617</id>
+        <link href="http://www.linuxeden.com/a/85617"/>
+        <updated>2021-05-22T14:46:38.000Z</updated>
+        <summary type="html"><![CDATA[据“中国探月工程”公众号消息，今天（22日）10时40分，祝融号安全驶离着陆平台，成功打卡火星表面。 5月22日10时40分，“祝融号”火星车驶离着陆平台踏上火星表面，开启巡视探测之旅。火星车携带的前避障相机a/b、后避障相机a/b，拍摄了 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[总结 Windows 下 38 款常见的「快速启动类软件」｜，欢迎补充]]></title>
         <id>https://www.appinn.com/?p=38863</id>
