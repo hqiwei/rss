@@ -1272,6 +1272,33 @@
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
         {
+          "id": "http://www.dayanzai.me/?p=33672",
+          "author": "大眼仔~旭",
+          "description": "开源电子书管理软件 Calibre 中文版由大眼仔旭（www.dayanzai.me）发布。Calibre 是 […]",
+          "link": "http://www.dayanzai.me/calibre.html",
+          "publishedOn": "2021-05-21T16:36:41.000Z",
+          "wordCount": 773,
+          "title": "开源电子书管理软件 Calibre 5.18.0 + x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=3032",
+          "author": "大眼仔~旭",
+          "description": "Mp3tag 中文版 MP3 信息修改工具由大眼仔旭（www.dayanzai.me）发布。MP3文件ID3- […]",
+          "link": "http://www.dayanzai.me/mp3tag.html",
+          "publishedOn": "2021-05-21T16:34:10.000Z",
+          "wordCount": 836,
+          "title": "MP3 信息修改工具 Mp3tag 3.07 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=35322",
+          "author": "大眼仔~旭",
+          "description": "Wii U 模拟器中文版 Cemu Wii U Emulator 中文汉化版由大眼仔旭（www.dayanza […]",
+          "link": "http://www.dayanzai.me/cemu.html",
+          "publishedOn": "2021-05-21T16:27:39.000Z",
+          "wordCount": 667,
+          "title": "Wii U 模拟器中文版 Cemu Wii U Emulator 1.22.13 中文免费版"
+        },
+        {
           "id": "http://www.dayanzai.me/?p=31988",
           "author": "大眼仔~旭",
           "description": "推荐语：“刘遄老师的新书《Linux就该这么学》双十一当天预售出版上市，必读的Linux系统和红帽认证自学书籍 […]",
