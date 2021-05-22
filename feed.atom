@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T07:18:36.339Z</updated>
+    <updated>2021-05-22T08:12:50.550Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apache Beam 2.29.0发布]]></title>
+        <id>http://www.linuxeden.com/?p=85596</id>
+        <link href="http://www.linuxeden.com/a/85596"/>
+        <updated>2021-05-22T08:07:23.000Z</updated>
+        <summary type="html"><![CDATA[apache-beam-2.29.0-source-release.zip        2021-05-20 21:16   61M apache-beam-2.29.0-source-release.zip.asc    2021-05 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重听袁隆平这句话泪流满面：不可能让大家吃不饱饭成为现实]]></title>
+        <id>http://www.linuxeden.com/?p=85593</id>
+        <link href="http://www.linuxeden.com/a/85593"/>
+        <updated>2021-05-22T08:04:13.000Z</updated>
+        <summary type="html"><![CDATA[袁隆平院士将毕生精力用在了水稻育种事业上。“大家吃不饱饭，我亲眼见过。” 当记者问袁老，会不会害怕那样的场景再次出现，他坚定回答，“不可能了”！网友：谢谢您让这句“不可能”成为现实，致敬！ “共和国勋章”获得者、中国工程院院士、国家杂交水稻 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mozilla 正在为 Firefox 进行多项 macOS 改进]]></title>
         <id>https://www.oschina.net/news/142684/mozilla-macos-improvements-firefox</id>
