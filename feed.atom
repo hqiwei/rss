@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T11:09:53.477Z</updated>
+    <updated>2021-05-22T12:15:27.017Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[总结 Windows 下 38 款常见的「快速启动类软件」｜，欢迎补充]]></title>
+        <id>https://www.appinn.com/?p=38863</id>
+        <link href="https://www.appinn.com/38-quick-start/"/>
+        <updated>2021-05-22T11:53:46.000Z</updated>
+        <summary type="html"><![CDATA[@xmmdg 同学在网络黄页中发布了一个有趣的帖子，分类统计了目前市面上 38 款常见的「快速启动类软件」，适用于 Windows 系统，一起来看看。并且最重要的是，继续补充。 总结了一下常见的“快速]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoCN 每日新闻 (2021-05-22)]]></title>
         <id>https://gocn.vip/topics/12105</id>
