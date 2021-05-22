@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T08:12:50.550Z</updated>
+    <updated>2021-05-22T09:12:15.805Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 05 22]]></title>
+        <id>http://www.linuxeden.com/?p=85614</id>
+        <link href="http://www.linuxeden.com/a/85614"/>
+        <updated>2021-05-22T08:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 05 22]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[红旗 Linux 桌面操作系统 v11 社区预览版 (0521) 更新]]></title>
+        <id>http://www.linuxeden.com/?p=85608</id>
+        <link href="http://www.linuxeden.com/a/85608"/>
+        <updated>2021-05-22T08:30:16.000Z</updated>
+        <summary type="html"><![CDATA[红旗 Linux 桌面操作系统 v11 社区预览版 (0521) 更新正式发布。较上一版本，红旗Linux桌面操作系统v11社区预览版（0521）主要更新如下： 更新日志： • 发布红旗浏览器v1.0; • 修复主题异常问题; • 修复部分 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RHEL 8.4发布 支持Tiger Lake核显 扩展eBPF支持]]></title>
+        <id>http://www.linuxeden.com/?p=85604</id>
+        <link href="http://www.linuxeden.com/a/85604"/>
+        <updated>2021-05-22T08:28:03.000Z</updated>
+        <summary type="html"><![CDATA[红帽企业Linux 8.4作为RHEL8的最新迭代，已经达到普遍可用（GA）状态。红帽企业Linux 8.4带来了英特尔Tiger Lake图形支持、扩展的eBPF内核功能，RHEL8内核现在可以主动压缩内存、时间命名空间和其他内核功能回传 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sublime Text 4 发布]]></title>
+        <id>http://www.linuxeden.com/?p=85601</id>
+        <link href="http://www.linuxeden.com/a/85601"/>
+        <updated>2021-05-22T08:22:15.000Z</updated>
+        <summary type="html"><![CDATA[跨平台源码编辑器 Sublime Text 释出了 4 系列的首个稳定版本，Sublime Text 4 的一大改变是许可证不再只绑定一个大版本，而是对购买三年内的所有更新都有效。之后用户仍然可以访问三年内 Sublime Text 释出的 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wine 6.9发布]]></title>
+        <id>http://www.linuxeden.com/?p=85599</id>
+        <link href="http://www.linuxeden.com/a/85599"/>
+        <updated>2021-05-22T08:14:39.000Z</updated>
+        <summary type="html"><![CDATA[What’s new in this release (see below for details): – WPCAP library converted to PE. – Support for pap […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apache Beam 2.29.0发布]]></title>
         <id>http://www.linuxeden.com/?p=85596</id>
