@@ -146,6 +146,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12105",
+          "author": "yulibaozi",
+          "description": "GoCN 每日新闻 (2021-05-22)\n利用 eBPF 支撑大规模 Kubernetes Service https://mp.weixin.qq.com/s/BJHzU4LxLdLnNzOnAqIptg\n\nGolang 中的适配器设计模式 https://www.smartscribs.com/adapter-design-pattern-in-golang/\n\n【深度】阿里巴巴万级规模 K8s 集群全局高可用体系之美 https://gocn.vip/topics/12079\n\n假如 Go 能说话，听听 GMP 的心声 https://mp.weixin.qq.com/s/Tgf-JU9YDume4jRHex65NA\n\n小函数的调用开销需要考虑吗? https://mp.weixin.qq.com/s/nW0Cye1G_A72fm7MuBAM1A\n\n\n\n编辑: yuliz\n订阅新闻: http://tinyletter.com/gocn\n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12105",
+          "publishedOn": "2021-05-22T09:27:33.000Z",
+          "wordCount": 104,
+          "title": "GoCN 每日新闻 (2021-05-22)"
+        },
+        {
           "id": "https://gocn.vip/topics/12104",
           "author": "caibirdme",
           "description": "团队介绍：\n腾讯互娱（IEG）天美 L1 工作室，王者荣耀项目组\n职位一：开悟平台-go 后台开发工程师\n职位描述：\n与产品经理一起深刻分析产品形态和用户诉求\n设计具有前瞻性的系统架构和实现方案，高质量完成产品落地\n岗位要求：\n计算机相关专业本科及以上学历\n3 年以上服务器端开发经验\n理解计算机原理，有良好的的算法数据结构基础，精通 Go 语言及其开发生态\n熟悉高可用、高并发、高性能分布式系统的设计与实现，对常见消息、存储系统有较好的理解\n良好的沟通能力、学习能力、团队协作能力\n加分项：\n有一定团队管理经验，能够主动推进业务迭代\n职位二：王者营地 go 后台开发工程师\n职位描述：\n负责王者营地 App 服务器端开发\n负责服务器端的架构设计和性能优化\n岗位要求：\n计算机相关专业本科及以上学历\n3 年以上后端开发经验，至少 1 年以上 Go 开发经验\n熟练掌握 Go 常用框架特性原理和实现细节\n熟悉 grpc，熟练掌握 mysql redis 等数据库\n熟悉 tcp/ip http 等网络通信协议\n拥有良好的代码习惯，熟悉单元测试编写\n加分项：\n有社区类 App 开发经验\n参与过社区大型开源项目\n简历投递：\n邮箱…",

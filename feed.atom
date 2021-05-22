@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T09:12:15.805Z</updated>
+    <updated>2021-05-22T10:12:37.035Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-05-22)]]></title>
+        <id>https://gocn.vip/topics/12105</id>
+        <link href="https://gocn.vip/topics/12105"/>
+        <updated>2021-05-22T09:27:33.000Z</updated>
+        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-05-22)
+利用 eBPF 支撑大规模 Kubernetes Service https://mp.weixin.qq.com/s/BJHzU4LxLdLnNzOnAqIptg
+
+Golang 中的适配器设计模式 https://www.smartscribs.com/adapter-design-pattern-in-golang/
+
+【深度】阿里巴巴万级规模 K8s 集群全局高可用体系之美 https://gocn.vip/topics/12079
+
+假如 Go 能说话，听听 GMP 的心声 https://mp.weixin.qq.com/s/Tgf-JU9YDume4jRHex65NA
+
+小函数的调用开销需要考虑吗? https://mp.weixin.qq.com/s/nW0Cye1G_A72fm7MuBAM1A
+
+
+
+编辑: yuliz
+订阅新闻: http://tinyletter.com/gocn
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>yulibaozi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源美图 2021 05 22]]></title>
         <id>http://www.linuxeden.com/?p=85614</id>
