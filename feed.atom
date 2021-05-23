@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T14:10:23.258Z</updated>
+    <updated>2021-05-23T15:11:13.740Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CentOS SIG正确保社区贡献的新技术可顺利导入未来的红帽企业版]]></title>
+        <id>http://www.linuxeden.com/?p=85657</id>
+        <link href="http://www.linuxeden.com/a/85657"/>
+        <updated>2021-05-23T14:59:08.000Z</updated>
+        <summary type="html"><![CDATA[随着 CentOS Stream 与红帽企业版（RHEL）构成更紧密的上下游关系，社区里也有不少利益相关者在积极推动一项进展，以确保 CentOS Stream 引入的有趣技术变动，能够被纳入将来的 RHEL 。本周公开提出的 CentOS […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D-Wave CEO专访：畅想实用型量子计算机的现在与将来]]></title>
+        <id>http://www.linuxeden.com/?p=85649</id>
+        <link href="http://www.linuxeden.com/a/85649"/>
+        <updated>2021-05-23T14:55:26.000Z</updated>
+        <summary type="html"><![CDATA[在神秘的量子力学的加持下，量子计算机也被人寄予了厚望。虽然技术仍处于起步阶段，但世界各地的诸多研究团推，都在试图利用量子计算机来找到搞定传统计算机上难以解决的问题的潜在方法。与此同时，总部位于加拿大的 D-Wave 公司，也致力于将量子计算 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoCN 每日新闻 (2021-05-23)]]></title>
         <id>https://gocn.vip/topics/12106</id>
