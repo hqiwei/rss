@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T12:15:39.626Z</updated>
+    <updated>2021-05-23T13:25:54.718Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-05-23)]]></title>
+        <id>https://gocn.vip/topics/12106</id>
+        <link href="https://gocn.vip/topics/12106"/>
+        <updated>2021-05-23T12:45:17.000Z</updated>
+        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-05-23)
+1. API 网关架构 https://eng.uber.com/architecture-api-gateway/
+2. 使用 Go 语言对网页进行截屏 https://www.youtube.com/watch?v=4hrFtF6OuiM
+3. Go 并发同步包 https://ketansingh.me/posts/golang-x-sync/
+4. 深入 Go 中各个高性能 JSON 解析库 https://www.luozhiyun.com/archives/535
+5. lima: 一款 Go 语言实现的 Linux 虚拟机 https://github.com/AkihiroSuda/lima
+编辑: Razil
+订阅新闻: http://tinyletter.com/gocn
+
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>DennisMao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XP Shutdown / Logoff Menu – Windows XP 风格的关机菜单]]></title>
         <id>https://www.appinn.com/?p=38868</id>
