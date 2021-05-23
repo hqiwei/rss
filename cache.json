@@ -414,6 +414,24 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=85665",
+          "author": "Editor, Kai",
+          "description": "使用 sed 命令进行复制、剪切和粘贴 CentOS SIG正确保社区贡献的新技术可顺利导入未来的红帽企业版 D-Wave CEO专访：畅想实用型量子计算机的现在与将来 大批开源项目逃离 Freenode IRC 网络 全新 1Passwo […]",
+          "link": "http://www.linuxeden.com/a/85665",
+          "publishedOn": "2021-05-23T15:35:38.000Z",
+          "wordCount": 107,
+          "title": "每日文章精选 2021 05 23"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85662",
+          "author": "Editor, Kai",
+          "description": "了解 sed 的基本用法，然后下载我们的备忘单，方便快速地参考 Linux 流编辑器。 很少有 Unix 命令像 sed、grep 和 awk 一样出名，它们经常组合在一起，可能是因为它们具有奇怪的名称和强大的文本解析能力。它们还在一些语法 […]",
+          "link": "http://www.linuxeden.com/a/85662",
+          "publishedOn": "2021-05-23T15:18:55.000Z",
+          "wordCount": 422,
+          "title": "使用 sed 命令进行复制、剪切和粘贴"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=85657",
           "author": "Editor, Kai",
           "description": "随着 CentOS Stream 与红帽企业版（RHEL）构成更紧密的上下游关系，社区里也有不少利益相关者在积极推动一项进展，以确保 CentOS Stream 引入的有趣技术变动，能够被纳入将来的 RHEL 。本周公开提出的 CentOS […]",

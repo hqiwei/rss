@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T15:11:13.740Z</updated>
+    <updated>2021-05-23T16:22:39.534Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 05 23]]></title>
+        <id>http://www.linuxeden.com/?p=85665</id>
+        <link href="http://www.linuxeden.com/a/85665"/>
+        <updated>2021-05-23T15:35:38.000Z</updated>
+        <summary type="html"><![CDATA[使用 sed 命令进行复制、剪切和粘贴 CentOS SIG正确保社区贡献的新技术可顺利导入未来的红帽企业版 D-Wave CEO专访：畅想实用型量子计算机的现在与将来 大批开源项目逃离 Freenode IRC 网络 全新 1Passwo […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 sed 命令进行复制、剪切和粘贴]]></title>
+        <id>http://www.linuxeden.com/?p=85662</id>
+        <link href="http://www.linuxeden.com/a/85662"/>
+        <updated>2021-05-23T15:18:55.000Z</updated>
+        <summary type="html"><![CDATA[了解 sed 的基本用法，然后下载我们的备忘单，方便快速地参考 Linux 流编辑器。 很少有 Unix 命令像 sed、grep 和 awk 一样出名，它们经常组合在一起，可能是因为它们具有奇怪的名称和强大的文本解析能力。它们还在一些语法 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CentOS SIG正确保社区贡献的新技术可顺利导入未来的红帽企业版]]></title>
         <id>http://www.linuxeden.com/?p=85657</id>
