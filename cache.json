@@ -691,6 +691,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=38868",
+          "author": "青小蛙",
+          "description": "XP Shutdown / Logoff Menu 是一款用 AutoHotkey 编写的，可以让 Windows XP 以上系统也拥有经典的 XP 风格的关机菜单、用户注销菜单。@Appinn 来自",
+          "link": "https://www.appinn.com/xp-shutdown-and-logoff-menu-windows-xp-style/",
+          "publishedOn": "2021-05-23T10:20:05.000Z",
+          "wordCount": 1180,
+          "title": "XP Shutdown / Logoff Menu – Windows XP 风格的关机菜单"
+        },
+        {
           "id": "https://www.appinn.com/?p=38863",
           "author": "青小蛙",
           "description": "@xmmdg 同学在网络黄页中发布了一个有趣的帖子，分类统计了目前市面上 38 款常见的「快速启动类软件」，适用于 Windows 系统，一起来看看。并且最重要的是，继续补充。 总结了一下常见的“快速",
