@@ -405,6 +405,42 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=85646",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 05 23",
+          "link": "http://www.linuxeden.com/a/85646",
+          "publishedOn": "2021-05-23T02:57:44.000Z",
+          "wordCount": 91,
+          "title": "开源美图 2021 05 23"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85644",
+          "author": "Editor, Kai",
+          "description": "Freenode IRC 网络已经存在了二十多年，在自由及开源软件项目中非常流行，它用于参与开发讨论、用户支持等等。但现在由于“敌意收购”，大部分志愿者离开了该网络。据报道，寻求控制 Freenode IRC 网络的是 VPN 服务商 PI […]",
+          "link": "http://www.linuxeden.com/a/85644",
+          "publishedOn": "2021-05-23T02:40:41.000Z",
+          "wordCount": 116,
+          "title": "大批开源项目逃离 Freenode IRC 网络"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85640",
+          "author": "Editor, Kai",
+          "description": "1Password 是一个相当不错的密码管理器（尽管不是开源的），在开源社区也有很好的口碑。他们甚至 为从事开源项目的用户提供免费的团队成员资格。 它的 Linux 桌面客户端已经处于测试阶段，但现在它已经准备好进入黄金时间。 他们已经正式 […]",
+          "link": "http://www.linuxeden.com/a/85640",
+          "publishedOn": "2021-05-23T02:28:58.000Z",
+          "wordCount": 193,
+          "title": "全新 1Password for Linux 正式推出"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85636",
+          "author": "Editor, Kai",
+          "description": "鸿蒙OS 2.0将在下个月大规模推送给华为旗下手机，开发适配工作正在紧张进行中，版本更迭相当频繁。 105、107版之后，华为又低调放出了HarmonyOS 2.0开发者Beta3 2.0.0.110 log版本，已推送给参加Beta公测的 […]",
+          "link": "http://www.linuxeden.com/a/85636",
+          "publishedOn": "2021-05-23T02:22:43.000Z",
+          "wordCount": 82,
+          "title": "鸿蒙OS 2.0新版发布：一处优化、两处修复"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=85634",
           "author": "Editor, Kai",
           "description": "maven-release-plugin] copy for tag 5.0.0   Assets 2 Source code (zip) Source code (tar.gz)   简介 Elide是一个互联网和移动 […]",
