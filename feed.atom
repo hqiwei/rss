@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T12:17:06.665Z</updated>
+    <updated>2021-05-24T13:29:58.242Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-05-24)]]></title>
+        <id>https://gocn.vip/topics/12110</id>
+        <link href="https://gocn.vip/topics/12110"/>
+        <updated>2021-05-24T13:20:15.000Z</updated>
+        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-05-24)
+懂得取舍才是缓存设计的真谛 https://my.oschina.net/kevwan/blog/5056791
+
+immudb v1.0 released https://www.codenotary.com/blog/immudb-release-1-0/
+
+你知道 Goroutine 是怎么来的吗？ https://mp.weixin.qq.com/s/DZavvanPnRwZMPU-5_wOeg
+
+分布式链路跟踪中的 traceid 和 spanid 代表什么？ https://mp.weixin.qq.com/s/eKbFYwnH4vwgWm6_5sWs3w
+
+Dart Flutter 数据库 ObjectBox 1.0 版本 https://objectbox.io/dart-flutter-database-1_0-release/
+
+
+
+编辑: Max
+订阅新闻: http://tinyletter.com/gocn
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>mahuaibo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nacos 2.0.1 发布，微服务的注册中心和配置中心将更加健壮]]></title>
         <id>https://www.oschina.net/news/142930/nacos-2-0-1-released</id>
