@@ -923,6 +923,51 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/142864/taosdata-raises-47-million-in-series-b-round",
+          "author": null,
+          "description": "2021年5月24日，全球领先的物联网大数据平台涛思数据宣布完成4700万美元B轮融资。本轮融资由经纬中国领投，红杉资本中国基金、GGV纪源资本、指数资本跟投，指数资本担任独家财务顾问。融资资金将主要用于技术研发与市场拓展。 涛思数据成立于2017年，专注时序空间大数据的存储、查询、分析和计算。不依赖任何开源或第三方...",
+          "link": "https://www.oschina.net/news/142864/taosdata-raises-47-million-in-series-b-round",
+          "publishedOn": "2021-05-24T02:14:51.000Z",
+          "wordCount": 493,
+          "title": "TDengine 开发商涛思数据完成 4700 万美元 B 轮融资"
+        },
+        {
+          "id": "https://www.oschina.net/news/142863/jap-1-0-2-released",
+          "author": null,
+          "description": "JAP 1.0.2 正式发布 概要 jap-ids 1.0.2 支持多租户场景、支持动态 issuer、支持前后端分离的业务场景； jap-social 对外提供 refreshToken、revokeToken 和 getUserInfo 方法； 新增 Pipeline 模式，支持自定义部分业务场景的流程，同时引入 SPI 机制； 基于 Github Action，JAP 正式启用快照版，比如：1.0.2-SNAPSHOT。...",
+          "link": "https://www.oschina.net/news/142863/jap-1-0-2-released",
+          "publishedOn": "2021-05-24T01:56:34.000Z",
+          "wordCount": 767,
+          "title": "JAP 1.0.2 正式发布，jap-ids 支持多租户、适配前后端分离、自定义授权流程等新特性"
+        },
+        {
+          "id": "https://www.oschina.net/news/142862/streamx-1-0-0-released",
+          "author": null,
+          "description": "Make Flink|Spark easier!!! 大数据技术如今发展的如火如荼,已呈现百花齐放欣欣向荣的景象,实时处理流域 Apache Spark 和 Apache Flink 更是一个伟大的进步,尤其是Apache Flink被普遍认为是下一代大数据流计算引擎, 我们在使用 Flink 时发现从编程模型, 启动配置到运维管理都有很多可以抽象共用的地方, 我们将一些好的经...",
+          "link": "https://www.oschina.net/news/142862/streamx-1-0-0-released",
+          "publishedOn": "2021-05-24T01:52:09.000Z",
+          "wordCount": 554,
+          "title": "StreamX v1.0.0 发布，Flink 开发脚手架、流批一体平台"
+        },
+        {
+          "id": "https://www.oschina.net/news/142853/centos-sig-centos-stream-rhel",
+          "author": null,
+          "description": "随着 CentOS Stream 成为红帽企业 Linux（RHEL）的上游，一个由红帽利益相关者推动的 CentOS 特别兴趣小组也正在形成。日前，CentOS Stream 功能请求小组已被公开提出，并且经由 CentOS 董事会投票通过。 这个特殊的兴趣小组是为了确保由社区/非红帽成员提出的有趣的功能能够得到评估，并可以进入下一个 RHEL 版本。同时...",
+          "link": "https://www.oschina.net/news/142853/centos-sig-centos-stream-rhel",
+          "publishedOn": "2021-05-24T00:46:33.000Z",
+          "wordCount": 522,
+          "title": "CentOS SIG 可帮助社区将 CentOS Stream 功能纳入 RHEL 中"
+        },
+        {
+          "id": "https://www.oschina.net/news/142852/steve-wozniak-faces-copyright-infringe",
+          "author": null,
+          "description": "近日根据多家外媒报道，苹果公司的联合创始人史蒂夫·沃兹尼亚克（Steve Wozniak）因涉嫌窃取「建立以他的名字命名学校的想法」而面临一百万美元的诉讼。 康涅狄格州的商业教授 Ralph Reilly 声称，他和沃兹尼亚克早前达成了建立一所 \"科技大学\" 的共识，并在 2011 年通过在镜头前的握手的形式达成了协议。这个教育平台旨...",
+          "link": "https://www.oschina.net/news/142852/steve-wozniak-faces-copyright-infringe",
+          "publishedOn": "2021-05-24T00:36:10.000Z",
+          "wordCount": 489,
+          "title": "苹果联合创始人史蒂夫·沃兹尼亚克，因窃取他人创意面临侵权诉讼"
+        },
+        {
           "id": "https://www.oschina.net/news/142851/facebook-ai-wav2vec-u",
           "author": null,
           "description": "Facebook 宣布推出 wav2vec Unsupervised (wav2vec-U)，一种建立根本不需要转录数据的语音识别系统的方法。并表示，它可以与几年前的最佳监督模型的性能相媲美，这些模型是在近 1000 小时的转录语音上训练出来的。他们已经用斯瓦希里语和鞑靼语等语言对 wav2vec-U 进行了测试；因为缺乏广泛的标记训练数据集，这些语言目...",
