@@ -977,6 +977,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/142929/tencent-secguide",
+          "author": null,
+          "description": "腾讯代码安全指南旨在梳理 API 层面的风险点并提供详实可操作的编码指引，是我们开展 DevSecOps 安全左移实践探索过程中，梳理沉淀面向开发人员的代码安全参考材料。 本次开源涉及C/C++、JavaScript、Node、Go、Java、Python六门编程语言的安全指南。 项目主页：https://github.com/Tencent/secguide 一、项目背景 近年来...",
+          "link": "https://www.oschina.net/news/142929/tencent-secguide",
+          "publishedOn": "2021-05-24T10:42:07.000Z",
+          "wordCount": 503,
+          "title": "开源公告｜腾讯代码安全指南开源，涉及 C/C++、Go 等六门编程语言"
+        },
+        {
           "id": "https://www.oschina.net/news/142913/furion-2-7-0-released",
           "author": null,
           "description": "让 .NET 开发更简单，更通用，更流行。 版本序言 经过上百次版本的迭代改进，Furion 日渐稳定完善，使用者也是指数增长，目前总增速保持在每天 15K 的下载量，QQ 交流群也超过 6400+ 人，每天的增速保持在 30/天。 以后再有人问：“你们 C# 有什么拿得出手的框架不？“，可以自豪的回答：”Furion“。 本期亮点 1、框架启...",
@@ -1829,6 +1838,33 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=765",
+          "author": "大眼仔~旭",
+          "description": "跨平台开源 SSH 桌面终端 Electerm 中文版由大眼仔旭（www.dayanzai.me）整理发布。通 […]",
+          "link": "http://www.dayanzai.me/electerm.html",
+          "publishedOn": "2021-05-23T16:25:50.000Z",
+          "wordCount": 546,
+          "title": "跨平台开源 SSH 桌面终端 Electerm 1.13.1 x64 中文免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=41641",
+          "author": "大眼仔~旭",
+          "description": "VSDC Video Editor Pro 是由大眼仔旭（www.dayanzai.me）发布的一款功能丰富的 […]",
+          "link": "http://www.dayanzai.me/vsdc-video-editor.html",
+          "publishedOn": "2021-05-23T16:25:21.000Z",
+          "wordCount": 569,
+          "title": "VSDC 视频编辑器 VSDC Video Editor 6.7.1.292 x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=7311",
+          "author": "大眼仔~旭",
+          "description": "AIMP 中文版由大眼仔旭（www.dayanzai.me）发布，AIMP 绿色版是一款来自俄罗斯的音乐播放软 […]",
+          "link": "http://www.dayanzai.me/aimp.html",
+          "publishedOn": "2021-05-23T16:25:18.000Z",
+          "wordCount": 625,
+          "title": "俄罗斯音乐播放软件 AIMP 4.70 Build 2251 中文多语免费版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=2634",
           "author": "大眼仔~旭",

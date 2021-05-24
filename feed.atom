@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T10:15:48.177Z</updated>
+    <updated>2021-05-24T11:14:32.447Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开源公告｜腾讯代码安全指南开源，涉及 C/C++、Go 等六门编程语言]]></title>
+        <id>https://www.oschina.net/news/142929/tencent-secguide</id>
+        <link href="https://www.oschina.net/news/142929/tencent-secguide"/>
+        <updated>2021-05-24T10:42:07.000Z</updated>
+        <summary type="html"><![CDATA[腾讯代码安全指南旨在梳理 API 层面的风险点并提供详实可操作的编码指引，是我们开展 DevSecOps 安全左移实践探索过程中，梳理沉淀面向开发人员的代码安全参考材料。 本次开源涉及C/C++、JavaScript、Node、Go、Java、Python六门编程语言的安全指南。 项目主页：https://github.com/Tencent/secguide 一、项目背景 近年来...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[程序员写好技术文章的几点小技巧]]></title>
         <id>https://gocn.vip/topics/12109</id>
@@ -337,6 +347,36 @@ func homeHandler(w http.ResponseWriter, r *http.Request…]]></summary>
         <summary type="html"><![CDATA[作为 Android 开发者，我们致力于打造让世界各地的用户们满意的体验。如今，用户比以往任何时候都更依赖您的应用，对您的期望也越来越高，您作为开发者的工作也越来越不易。今天在 Google I/O 大会上，我们介绍了一些能帮到大家的新举措，其中就包括 Android 12 - 这是 Android 有史以来最大的设计变更之一；以及 Jetpac...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跨平台开源 SSH 桌面终端 Electerm 1.13.1 x64 中文免费版]]></title>
+        <id>http://www.dayanzai.me/?p=765</id>
+        <link href="http://www.dayanzai.me/electerm.html"/>
+        <updated>2021-05-23T16:25:50.000Z</updated>
+        <summary type="html"><![CDATA[跨平台开源 SSH 桌面终端 Electerm 中文版由大眼仔旭（www.dayanzai.me）整理发布。通 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VSDC 视频编辑器 VSDC Video Editor 6.7.1.292 x64 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=41641</id>
+        <link href="http://www.dayanzai.me/vsdc-video-editor.html"/>
+        <updated>2021-05-23T16:25:21.000Z</updated>
+        <summary type="html"><![CDATA[VSDC Video Editor Pro 是由大眼仔旭（www.dayanzai.me）发布的一款功能丰富的 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯音乐播放软件 AIMP 4.70 Build 2251 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=7311</id>
+        <link href="http://www.dayanzai.me/aimp.html"/>
+        <updated>2021-05-23T16:25:18.000Z</updated>
+        <summary type="html"><![CDATA[AIMP 中文版由大眼仔旭（www.dayanzai.me）发布，AIMP 绿色版是一款来自俄罗斯的音乐播放软 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
