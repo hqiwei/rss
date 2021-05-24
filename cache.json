@@ -414,6 +414,69 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=85683",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 05 24",
+          "link": "http://www.linuxeden.com/a/85683",
+          "publishedOn": "2021-05-24T00:29:38.000Z",
+          "wordCount": 83,
+          "title": "开源美图 2021 05 24"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85681",
+          "author": "Editor, Kai",
+          "description": "benchpress Commit Description 28ee9864a4 fix(benchpress): update the check for start and end events (#42085) compiler Co […]",
+          "link": "http://www.linuxeden.com/a/85681",
+          "publishedOn": "2021-05-24T00:28:46.000Z",
+          "wordCount": 169,
+          "title": "Angular 12.0.1发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85679",
+          "author": "Editor, Kai",
+          "description": "Feature ActionBarIcon: 新增 icon-prefix 属性 #8748 Calendar: 新增 over-range 事件 #8739 Calendar: 新增 show-range-prompt 属性 #8739  […]",
+          "link": "http://www.linuxeden.com/a/85679",
+          "publishedOn": "2021-05-24T00:26:57.000Z",
+          "wordCount": 155,
+          "title": "Vant 3.0.17发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85676",
+          "author": "Editor, Kai",
+          "description": "Feature Uploader: max-size 属性支持函数格式 #8745 Bug Fixes Button: 修复 loading 状态下点击按钮会提交表单的问题 #8735 修复函数式组件未继承 key 的问题 #8718 转自 […]",
+          "link": "http://www.linuxeden.com/a/85676",
+          "publishedOn": "2021-05-24T00:26:00.000Z",
+          "wordCount": 92,
+          "title": "Vant 2.12.20 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85672",
+          "author": "Editor, Kai",
+          "description": "PyPI 充斥着以流行电影命名的垃圾软件包，其通常与提供盗版下载的盗版网站有关。这些软件包都是由一个独特的假名维护者账户发布的，这使得 PyPI 要一次性删除这些软件包和垃圾账户变得非常困难。除了包含垃圾关键词和视频流网站的链接外，这些软件 […]",
+          "link": "http://www.linuxeden.com/a/85672",
+          "publishedOn": "2021-05-24T00:22:46.000Z",
+          "wordCount": 97,
+          "title": "Python 官方软件包库 PyPI 正被垃圾软件包淹没"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85669",
+          "author": "Editor, Kai",
+          "description": "Perl 语言宣布发布 Perl 5.34.0。5.34 与 5.32 相距 11 个月，包含了来自 78 名作者的大约 28 万行代码变更。主要变化包括：实验性的 try/catch 语法，正则表达式量词允许空下界，新八进制语法 0odd […]",
+          "link": "http://www.linuxeden.com/a/85669",
+          "publishedOn": "2021-05-24T00:22:05.000Z",
+          "wordCount": 92,
+          "title": "Perl 5.34.0 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85667",
+          "author": "Editor, Kai",
+          "description": "FUSE Mount Support multiple filers! #2015 #1531 Filer Receate grpc connections if having transport error #2070 Waits in  […]",
+          "link": "http://www.linuxeden.com/a/85667",
+          "publishedOn": "2021-05-24T00:18:06.000Z",
+          "wordCount": 214,
+          "title": "Seaweedfs 2.49发布"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=85665",
           "author": "Editor, Kai",
           "description": "使用 sed 命令进行复制、剪切和粘贴 CentOS SIG正确保社区贡献的新技术可顺利导入未来的红帽企业版 D-Wave CEO专访：畅想实用型量子计算机的现在与将来 大批开源项目逃离 Freenode IRC 网络 全新 1Passwo […]",
@@ -859,6 +922,69 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/142851/facebook-ai-wav2vec-u",
+          "author": null,
+          "description": "Facebook 宣布推出 wav2vec Unsupervised (wav2vec-U)，一种建立根本不需要转录数据的语音识别系统的方法。并表示，它可以与几年前的最佳监督模型的性能相媲美，这些模型是在近 1000 小时的转录语音上训练出来的。他们已经用斯瓦希里语和鞑靼语等语言对 wav2vec-U 进行了测试；因为缺乏广泛的标记训练数据集，这些语言目...",
+          "link": "https://www.oschina.net/news/142851/facebook-ai-wav2vec-u",
+          "publishedOn": "2021-05-24T00:31:07.000Z",
+          "wordCount": 494,
+          "title": "Facebook AI 新成果，无需人类转录即可学习语音"
+        },
+        {
+          "id": "https://www.oschina.net/news/142850/pypi-with-spam-packages",
+          "author": null,
+          "description": "Python 官方软件库 PyPI 正被垃圾软件包所淹没。这些软件包以不同的电影或电视剧的名称命名，通常与托管盗版内容的山寨和 torrent 网站有关。 这些软件包中每一个都由唯一的维护者帐户发布，这使得 PyPI 一次删除所有软件包和垃圾帐户具有挑战性。 当 Sonatype 的高级软件工程师 Adam Boesch 在审核一个数据集时，注意到...",
+          "link": "https://www.oschina.net/news/142850/pypi-with-spam-packages",
+          "publishedOn": "2021-05-24T00:22:39.000Z",
+          "wordCount": 494,
+          "title": "PyPI 正被大量的垃圾软件包所淹没"
+        },
+        {
+          "id": "https://www.oschina.net/news/142849/summer-2021",
+          "author": null,
+          "description": "社区就位 109 /877 COMMUNITY/PROJECT 开源软件供应链点亮计划-暑期2021（简称暑期2021）是一项专门面向高校学生的开源项目开发活动，旨在鼓励在校学生积极参与开源软件的开发维护，促进优秀开源社区的蓬勃发展。暑期2021由中国科学院软件研究所与openEuler社区主办，中科院软件研究所南京软件技术研究院承办，开源社、s...",
+          "link": "https://www.oschina.net/news/142849/summer-2021",
+          "publishedOn": "2021-05-24T00:18:15.000Z",
+          "wordCount": 499,
+          "title": "109 家社区 877 个项目就绪，学生申请通道开通"
+        },
+        {
+          "id": "https://my.oschina.net/u/4489239/blog/5055352",
+          "author": null,
+          "description": "安卓公司成立于2003年10月，起初的目标是为数码相机开发操作系统，但其创始人后来意识到该市场不够大，于是致力于将安卓项目打造为与移动版Windows、塞班等并肩的移动设备操作系统。谷歌公司于2005年7月收购安卓公司时，该项目还鲜为人知。但目前安卓已经成为移动设备（智能手机、平板电脑）上最流行的操作系统。安卓其实...",
+          "link": "https://my.oschina.net/u/4489239/blog/5055352",
+          "publishedOn": "2021-05-24T00:08:50.000Z",
+          "wordCount": 233,
+          "title": "美最高院甲骨文诉谷歌案全景解析"
+        },
+        {
+          "id": "https://www.oschina.net/p/timberio-vector",
+          "author": null,
+          "description": "Vector 是一个高性能的可观测数据路由器，它使收集、转换和发送日志、指标和事件变得容易。Vector 将数据收集和路由与服务分离，提供控制和数据所有权等能力。",
+          "link": "https://www.oschina.net/p/timberio-vector",
+          "publishedOn": "2021-05-24T00:05:39.000Z",
+          "wordCount": 609,
+          "title": "Vector —— 高性能的日志、指标和事件路由器"
+        },
+        {
+          "id": "https://gitee.com/openharmony-tpc/TimetableView",
+          "author": null,
+          "description": "[TimetableView]是一款开源的、完善、高效的课程表控件。",
+          "link": "https://gitee.com/openharmony-tpc/TimetableView",
+          "publishedOn": "2021-05-24T00:03:09.000Z",
+          "wordCount": 406,
+          "title": "Gitee 推荐 | 完善、高效的课程表控件 TimetableView"
+        },
+        {
+          "id": "https://my.oschina.net/androiddevs/blog/5054873",
+          "author": null,
+          "description": "作为 Android 开发者，我们致力于打造让世界各地的用户们满意的体验。如今，用户比以往任何时候都更依赖您的应用，对您的期望也越来越高，您作为开发者的工作也越来越不易。今天在 Google I/O 大会上，我们介绍了一些能帮到大家的新举措，其中就包括 Android 12 - 这是 Android 有史以来最大的设计变更之一；以及 Jetpac...",
+          "link": "https://my.oschina.net/androiddevs/blog/5054873",
+          "publishedOn": "2021-05-24T00:00:11.000Z",
+          "wordCount": 541,
+          "title": "每日一博 | 一起看 I/O | Android 更新一览"
+        },
         {
           "id": "https://www.oschina.net/news/142783/users-report-constant-chrome-crashes",
           "author": null,
