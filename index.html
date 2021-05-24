@@ -114,6 +114,42 @@
       </li>
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://gocn.vip/">GoCN社区</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Go Web 路由处理利器 gorilla/mux 库</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12107">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>1. gorilla/mux 是什么？
+gorilla/mux 是用来处理路由请求和请求对应的方法的映射关系的包，简单地说，gorilla/mux 就是把收到的请求与一组预先定义的 URL 路径列表做对比，然后在匹配到路径的时候调用关联的处理器（Handler）。
+2. 为什么那么受欢迎？
+gorilla/mux  在标准库 net/http 之上开发的，因此 gorilla/mux 比较能干，标准能干的也能干，不能干的也能干；标准库在运行效率上占优，gorilla/mux 在开发效率上占优；，gorilla/mux 是目前功能最为强大的路由包之一，它提供功能全面而强大,这也是它连续多年成为使用率最高的 Go 第三方包的原因。
+3. 什么时候用到它？
+gorilla/mux 的路由解析所采用的是精准匹配规则，标准库 net/http 采用的是长度优先匹配规则，精准匹配是只会匹配准确指定的路由，而长度优先匹配不支持动态元素，也就是不支持正则以及 URL 路径参数，只能匹配字符数较多的路由；开发 Web，API 时路由一般时动态的，路由参数会跟着访问对象不同而不同，这是 gorilla/mux 恰好满足了这种精准路由匹配需求。
+在知名的路由包中 gorilla/mux 的功能比较强大，使用相对简单且很实，历史也非常悠久，可以放心去使用。
+4. 怎么使用它？
+使用前要安装它，安装要在当前项目所在目录中执行 go get -u github.com/gorilla/mux 即可。
+安装完写一个 Web 应用示例：
+package main
+
+import (
+    &quot;fmt&quot;
+    &quot;net/http&quot;
+
+    &quot;github.com/gorilla/mux&quot;
+)
+
+func homeHandler(w http.ResponseWriter, r *http.Request…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://www.oschina.net/news/rss">OSCHINA 社区最新新闻</a></h3>
           <section class="articles-per-source">
             <article>
@@ -3175,7 +3211,7 @@ type Test struct {
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-05-24T06:15:41.722Z">2021-05-24T06:15:41.722Z</time>
+    <time id="build-timestamp" datetime="2021-05-24T07:20:47.592Z">2021-05-24T07:20:47.592Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.8.1</a></span>
   </footer>
   <script src="index.js"></script>

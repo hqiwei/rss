@@ -146,6 +146,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12107",
+          "author": "Aklman",
+          "description": "1. gorilla/mux 是什么？\ngorilla/mux 是用来处理路由请求和请求对应的方法的映射关系的包，简单地说，gorilla/mux 就是把收到的请求与一组预先定义的 URL 路径列表做对比，然后在匹配到路径的时候调用关联的处理器（Handler）。\n2. 为什么那么受欢迎？\ngorilla/mux  在标准库 net/http 之上开发的，因此 gorilla/mux 比较能干，标准能干的也能干，不能干的也能干；标准库在运行效率上占优，gorilla/mux 在开发效率上占优；，gorilla/mux 是目前功能最为强大的路由包之一，它提供功能全面而强大,这也是它连续多年成为使用率最高的 Go 第三方包的原因。\n3. 什么时候用到它？\ngorilla/mux 的路由解析所采用的是精准匹配规则，标准库 net/http 采用的是长度优先匹配规则，精准匹配是只会匹配准确指定的路由，而长度优先匹配不支持动态元素，也就是不支持正则以及 URL 路径参数，只能匹配字符数较多的路由；开发 Web，API 时路由一般时动态的，路由参数会跟着访问对象不同而不同，这是 gorilla/mux 恰好满足了这种精准路由匹配需求。\n在知名的路由包中 gorilla/mux 的功能比较强大，使用相对简单且很实，历史也非常悠久，可以放心去使用。\n4. 怎么使用它？\n使用前要安装它，安装要在当前项目所在目录中执行 go get -u github.com/gorilla/mux 即可。\n安装完写一个 Web 应用示例：\npackage main\n\nimport (\n    \"fmt\"\n    \"net/http\"\n\n    \"github.com/gorilla/mux\"\n)\n\nfunc homeHandler(w http.ResponseWriter, r *http.Request…",
+          "link": "https://gocn.vip/topics/12107",
+          "publishedOn": "2021-05-24T06:42:06.000Z",
+          "wordCount": 390,
+          "title": "Go Web 路由处理利器 gorilla/mux 库"
+        },
+        {
           "id": "https://gocn.vip/topics/12106",
           "author": "DennisMao",
           "description": "GoCN 每日新闻 (2021-05-23)\n1. API 网关架构 https://eng.uber.com/architecture-api-gateway/\n2. 使用 Go 语言对网页进行截屏 https://www.youtube.com/watch?v=4hrFtF6OuiM\n3. Go 并发同步包 https://ketansingh.me/posts/golang-x-sync/\n4. 深入 Go 中各个高性能 JSON 解析库 https://www.luozhiyun.com/archives/535\n5. lima: 一款 Go 语言实现的 Linux 虚拟机 https://github.com/AkihiroSuda/lima\n编辑: Razil\n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
