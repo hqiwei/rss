@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T20:12:56.921Z</updated>
+    <updated>2021-05-24T21:10:34.837Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use CSS Media Queries to Create Responsive Websites]]></title>
+        <id>60ac07ec11ffb70827ef66e4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites/"/>
+        <updated>2021-05-24T20:36:07.000Z</updated>
+        <summary type="html"><![CDATA[CSS Media Queries allow you to create responsive websites that look good on all screen sizes, from desktop to mobile. We just released a course on the freeCodeCamp channel that will teach you how to create CSS Media Queries. After learning the basics, you will learn how to use media]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Generate a Code Coverage Report with CodeCov and GitHub Actions]]></title>
         <id>60aa161211ffb70827ef5f2c</id>
