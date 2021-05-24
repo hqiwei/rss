@@ -146,6 +146,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12111",
+          "author": "kevwan",
+          "description": "Previously\n前两篇文章（缓存稳定性 和 缓存正确性）跟大家讨论了缓存的『稳定性』和『正确性』，缓存常见问题还剩下『可观测性』和『规范落地&工具建设』\n稳定性\n正确性\n可观测性\n规范落地和工具建设\n上周文章发完之后，很多同学对我留的问题进行了深入的讨论，我相信经过深度的思考，会让你对缓存一致性的理解更加深刻！\n\n首先，各个 Go 群和 go-zero 群里有很多的讨论，但是大家也都没有找到非常满意的答案。\n让我们来一起分析一下这个问题的几种可能解法：\n利用分布式锁让每次的更新变成一个原子操作。这种方法最不可取，就相当于自废武功，放弃了高并发能力，去追求强一致性，别忘了我之前文章强调过『这个系列文章只针对非追求强一致性要求的高并发场景，金融支付等同学自行判断』，所以这种解法我们首先放弃。\n\n\n把 A 删除缓存 加上延迟，比如过 1 秒再执行此操作。这样的坏处是为了解决这种概率极低的情况，而让所有的更新在 1 秒内都只能获取旧数据。这种方法也不是很理想，我们也不希望使用。\n\n\n把 A 删除缓存 这里改成设置一个特殊占位符，并让 B 设置缓存 用 redis 的 setnx 指令，然后后续请求遇到这个特殊占位符时重新请求缓存。这个方法相当于在删除缓存时加了一种新的状态，我们来看下图的情况\n\n\n\n\n是不是又绕回来了，因为 A 请求在遇到占位符时必须强行设置缓存或者判断是不是内容为占位符。所以这也解决不了问题。\n那我们看看 go-zero 是怎么应对这种情况的，我们选择对这种情况不做处理，是不是很吃惊？那么我们回到原点来分析这种情况是怎么发生的：\n对读请求的数据没有缓存（压根没加载到缓存或者缓存已失效），触发了 DB 读取\n此时来了一个对该数据的更新操作\n需要满足这样的顺序：B 请求读 DB -> A 请求写 DB -> A 请求删除缓存 -> B 请求设置缓存\n我们都知道 …",
+          "link": "https://gocn.vip/topics/12111",
+          "publishedOn": "2021-05-24T14:48:20.000Z",
+          "wordCount": 232,
+          "title": "懂得取舍才是缓存设计的真谛"
+        },
+        {
           "id": "https://gocn.vip/topics/12110",
           "author": "mahuaibo",
           "description": "GoCN 每日新闻 (2021-05-24)\n懂得取舍才是缓存设计的真谛 https://my.oschina.net/kevwan/blog/5056791\n\nimmudb v1.0 released https://www.codenotary.com/blog/immudb-release-1-0/\n\n你知道 Goroutine 是怎么来的吗？ https://mp.weixin.qq.com/s/DZavvanPnRwZMPU-5_wOeg\n\n分布式链路跟踪中的 traceid 和 spanid 代表什么？ https://mp.weixin.qq.com/s/eKbFYwnH4vwgWm6_5sWs3w\n\nDart Flutter 数据库 ObjectBox 1.0 版本 https://objectbox.io/dart-flutter-database-1_0-release/\n\n\n\n编辑: Max\n订阅新闻: http://tinyletter.com/gocn\n招聘专区: https://gocn.vip/jobs",
@@ -449,6 +458,24 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=85703",
+          "author": "Editor, Kai",
+          "description": "4 款值得一试的 Linux 终端多路复用器 AMD Zen4接口AM5曝光：改用LGA触点式、告别脆弱的针脚 华为转投第三大CPU架构RISC-V？首款鸿蒙开发板曝光 Angular 12.0.1发布 Python 官方软件包库 PyPI […]",
+          "link": "http://www.linuxeden.com/a/85703",
+          "publishedOn": "2021-05-24T14:30:30.000Z",
+          "wordCount": 97,
+          "title": "每日文章精选 2021 05 24"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85697",
+          "author": "Editor, Kai",
+          "description": "比较 tmux、GNU Screen、Konsole 和 Terminator，看看哪个最适合你。 Linux 用户通常需要大量的虚拟视觉空间。一个终端窗口是永远不够的，所以终端有了标签。一个桌面太受限制了，所以有了虚拟桌面。当然，应用程序 […]",
+          "link": "http://www.linuxeden.com/a/85697",
+          "publishedOn": "2021-05-24T14:15:29.000Z",
+          "wordCount": 344,
+          "title": "4 款值得一试的 Linux 终端多路复用器"
+        },
         {
           "id": "http://www.linuxeden.com/?p=85691",
           "author": "Editor, Kai",
