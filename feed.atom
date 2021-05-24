@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T07:20:47.616Z</updated>
+    <updated>2021-05-24T08:13:12.142Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[团队项目进度跟踪难？延期风险高？国内企服排行榜第一的通用项目管理工具在这里了]]></title>
+        <id>https://www.appinn.com/?p=38872</id>
+        <link href="https://www.appinn.com/worktile-project-manage/"/>
+        <updated>2021-05-24T07:43:09.000Z</updated>
+        <summary type="html"><![CDATA[项目的进度管理、风险控制，是很多项目负责人购买项目管理工具的核心原因之一，但面对市场上几十上百个的项目管理工具软件，到底哪个更好更适合自己，我们很难去一一调研体验。参考一些权威机构发布的产品测评排行榜]]></summary>
+        <author>
+            <name>开发者推荐账号</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go Web 路由处理利器 gorilla/mux 库]]></title>
         <id>https://gocn.vip/topics/12107</id>
