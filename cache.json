@@ -450,6 +450,15 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=85691",
+          "author": "Editor, Kai",
+          "description": "Zen锐龙时代(包括更早的七代APU)，AMD处理器一直坚持使用AM4封装接口不变，兼容性友好，备受好评。 不过这么多年，AMD处理器一直都是PGA针脚式接口，很多人觉得这种太脆弱，经常出现针脚弯折，甚至拔掉散热器带出处理器的尴尬。 Int […]",
+          "link": "http://www.linuxeden.com/a/85691",
+          "publishedOn": "2021-05-24T14:10:03.000Z",
+          "wordCount": 90,
+          "title": "AMD Zen4接口AM5曝光：改用LGA触点式、告别脆弱的针脚"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=85686",
           "author": "Editor, Kai",
           "description": "华为正倾力打造鸿蒙OS操作系统，预计6月2日v2.0版本转正，面向普通消费者开放升级体验。 与此同时，华为芯片业务的进展也备受关注。 经查，华为提供给鸿蒙开发者的一款开发板Hi3861引起了关注。虽然并没有看到官方信息披露，但老外称这是华为 […]",

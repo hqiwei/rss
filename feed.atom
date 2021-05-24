@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T13:29:58.242Z</updated>
+    <updated>2021-05-24T14:14:39.599Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMD Zen4接口AM5曝光：改用LGA触点式、告别脆弱的针脚]]></title>
+        <id>http://www.linuxeden.com/?p=85691</id>
+        <link href="http://www.linuxeden.com/a/85691"/>
+        <updated>2021-05-24T14:10:03.000Z</updated>
+        <summary type="html"><![CDATA[Zen锐龙时代(包括更早的七代APU)，AMD处理器一直坚持使用AM4封装接口不变，兼容性友好，备受好评。 不过这么多年，AMD处理器一直都是PGA针脚式接口，很多人觉得这种太脆弱，经常出现针脚弯折，甚至拔掉散热器带出处理器的尴尬。 Int […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoCN 每日新闻 (2021-05-24)]]></title>
         <id>https://gocn.vip/topics/12110</id>
