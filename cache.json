@@ -414,6 +414,15 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=85686",
+          "author": "Editor, Kai",
+          "description": "华为正倾力打造鸿蒙OS操作系统，预计6月2日v2.0版本转正，面向普通消费者开放升级体验。 与此同时，华为芯片业务的进展也备受关注。 经查，华为提供给鸿蒙开发者的一款开发板Hi3861引起了关注。虽然并没有看到官方信息披露，但老外称这是华为 […]",
+          "link": "http://www.linuxeden.com/a/85686",
+          "publishedOn": "2021-05-24T04:13:34.000Z",
+          "wordCount": 95,
+          "title": "华为转投第三大CPU架构RISC-V？首款鸿蒙开发板曝光"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=85683",
           "author": "Editor, Kai",
           "description": "Linuxeden开源社区-开源美图 2021 05 24",
@@ -922,6 +931,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/142878/gitee-baidu-tongji",
+          "author": null,
+          "description": "访问数据对开源项目的运营来说是一个非常关键的指标，它能够直观地反映出一个开源项目受欢迎的程度及趋势，以方便作者更全面地了解自己项目的流行度。但目前 Gitee 的访问统计功能仍十分基础，仅对访问仓库的 IP 进行了分日的统计与汇总，无法了解到更详细的访问信息，如分时段访问情况、PV/UV、访问来源等等。 为了满足...",
+          "link": "https://www.oschina.net/news/142878/gitee-baidu-tongji",
+          "publishedOn": "2021-05-24T03:28:58.000Z",
+          "wordCount": 480,
+          "title": "开源项目运营新利器：为你的 Gitee 仓库嵌入百度统计"
+        },
         {
           "id": "https://www.oschina.net/news/142864/taosdata-raises-47-million-in-series-b-round",
           "author": null,
