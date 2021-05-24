@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T11:14:32.447Z</updated>
+    <updated>2021-05-24T12:17:06.665Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nacos 2.0.1 发布，微服务的注册中心和配置中心将更加健壮]]></title>
+        <id>https://www.oschina.net/news/142930/nacos-2-0-1-released</id>
+        <link href="https://www.oschina.net/news/142930/nacos-2-0-1-released"/>
+        <updated>2021-05-24T11:03:51.000Z</updated>
+        <summary type="html"><![CDATA[一、前言 自nacos2.0.0于2021年3月发布正式版以来，发现nacos2的版本，带上了性能和速度上的明显提升，至项目的启动速度也明显变快。如果你还没有升级的话，那么2.0.1的小版本更新或者让你在多个场景使用得更加顺畅。特别是K8S上的一些BUG的解决。 二、发行说明 该版本主要修复了k8s环境中Jraft领导者选择的稳定性，并修...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源公告｜腾讯代码安全指南开源，涉及 C/C++、Go 等六门编程语言]]></title>
         <id>https://www.oschina.net/news/142929/tencent-secguide</id>

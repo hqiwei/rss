@@ -977,6 +977,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/142930/nacos-2-0-1-released",
+          "author": null,
+          "description": "一、前言 自nacos2.0.0于2021年3月发布正式版以来，发现nacos2的版本，带上了性能和速度上的明显提升，至项目的启动速度也明显变快。如果你还没有升级的话，那么2.0.1的小版本更新或者让你在多个场景使用得更加顺畅。特别是K8S上的一些BUG的解决。 二、发行说明 该版本主要修复了k8s环境中Jraft领导者选择的稳定性，并修...",
+          "link": "https://www.oschina.net/news/142930/nacos-2-0-1-released",
+          "publishedOn": "2021-05-24T11:03:51.000Z",
+          "wordCount": 505,
+          "title": "Nacos 2.0.1 发布，微服务的注册中心和配置中心将更加健壮"
+        },
+        {
           "id": "https://www.oschina.net/news/142929/tencent-secguide",
           "author": null,
           "description": "腾讯代码安全指南旨在梳理 API 层面的风险点并提供详实可操作的编码指引，是我们开展 DevSecOps 安全左移实践探索过程中，梳理沉淀面向开发人员的代码安全参考材料。 本次开源涉及C/C++、JavaScript、Node、Go、Java、Python六门编程语言的安全指南。 项目主页：https://github.com/Tencent/secguide 一、项目背景 近年来...",
