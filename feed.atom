@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T16:32:33.317Z</updated>
+    <updated>2021-05-25T18:00:51.999Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Design Best Practices for New Developers – How to Create Portfolio-Worthy Work]]></title>
+        <id>608706aedd38b9088c2c012c</id>
+        <link href="https://www.freecodecamp.org/news/web-design-best-practices-for-new-developers/"/>
+        <updated>2021-05-25T16:51:37.000Z</updated>
+        <summary type="html"><![CDATA[If you're a beginner developer, it can be difficult to find ways to use your limited knowledge to support yourself. And at the same time, you won't be able to hone your skills if you aren't using them full time.  It's a precarious spot that I remember being in when]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoCN 每日新闻 (2021-05-25)]]></title>
         <id>https://gocn.vip/topics/12115</id>
