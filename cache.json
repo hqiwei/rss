@@ -1015,6 +1015,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=38892",
+          "author": "青小蛙",
+          "description": "CopyTranslator 是一个开源项目，支持 Windows、macOS、Linux 系统，通过多个翻译公共接口实现复制文本后自动翻译，非常适合用来辅助阅读翻译。@Appinn 上一个这么方便的",
+          "link": "https://www.appinn.com/copytranslator/",
+          "publishedOn": "2021-05-25T04:27:25.000Z",
+          "wordCount": 1143,
+          "title": "CopyTranslator – 复制文本后自动翻译，支持多种翻译接口"
+        },
+        {
           "id": "https://www.appinn.com/?p=38878",
           "author": "青小蛙",
           "description": "LANDrop 是一款类 AirDrop 的跨平台，局域网文件传输工具，只要在一个局域网下，就能自动发现设备和传输文件，支持 Windows、macOS、Linux 系统和 iOS、Android 平",
@@ -1156,6 +1165,24 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/143016/streamnative-opensource-function-mesh",
+          "author": null,
+          "description": "Apache Pulsar 商业化公司 StreamNative 郑重宣布开源 Function Mesh。Function Mesh 是为事件流应用程序构建的无服务框架，为在 Kubernetes 上运行的复杂事件流任务管理 Pulsar Functions 和 Pulsar I/O connector，增强应用程序的事件流功能。 Function Mesh 简介 Function Mesh 是一种 Kubernetes operator，助力用户...",
+          "link": "https://www.oschina.net/news/143016/streamnative-opensource-function-mesh",
+          "publishedOn": "2021-05-25T03:50:58.000Z",
+          "wordCount": 1507,
+          "title": "StreamNative 开源 Function Mesh：简化云上的复杂流任务"
+        },
+        {
+          "id": "https://www.oschina.net/news/143014/fydeos-12-1-released",
+          "author": null,
+          "description": "FydeOS v12.1 是 FydeOS v12 的一次维护和更新版本。在此次发布中，值得注意的变化有： 修复了由于 tpm 芯片造成的在某些设备在 OOBE 时登录账号之后系统提示错误信息并且无法继续的问题。 修复了某些设备通过 OTA 方式升级到 v12 之后安卓子系统可能变得彻底不可用的问题。 修复了某些设备 wifi 无法使用的问题。 修复了...",
+          "link": "https://www.oschina.net/news/143014/fydeos-12-1-released",
+          "publishedOn": "2021-05-25T03:42:16.000Z",
+          "wordCount": 528,
+          "title": "FydeOS for PC v12.1 发布，增加对 Surface Pro 7 的支持"
+        },
         {
           "id": "https://www.oschina.net/news/142981/mozilla-working-to-make-firefox-feel-like-home-on-macos",
           "author": null,
