@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T13:34:28.388Z</updated>
+    <updated>2021-05-25T14:18:47.573Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Git 中上下文切换的 4 种方式]]></title>
+        <id>http://www.linuxeden.com/?p=85733</id>
+        <link href="http://www.linuxeden.com/a/85733"/>
+        <updated>2021-05-25T13:58:33.000Z</updated>
+        <summary type="html"><![CDATA[比较 Git 中四种切换分支的方法的优缺点。 所有大量使用 Git 的人都会用到某种形式的上下文切换。有时这只会给你的工作流程增加少量的开销，但有时，这可能是一段痛苦的经历。 让我们用以下这个例子来讨论一些常见的上下文切换策略的优缺点： 假 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Apisix 2.6 发布]]></title>
+        <id>http://www.linuxeden.com/?p=85731</id>
+        <link href="http://www.linuxeden.com/a/85731"/>
+        <updated>2021-05-25T13:55:03.000Z</updated>
+        <summary type="html"><![CDATA[apache-apisix-2.6-src.tgz        2021-05-24 09:04  190K apache-apisix-2.6-src.tgz.asc    2021-05-24 09:04  833 apache-ap […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inkscape 1.1 发布]]></title>
+        <id>http://www.linuxeden.com/?p=85728</id>
+        <link href="http://www.linuxeden.com/a/85728"/>
+        <updated>2021-05-25T13:53:45.000Z</updated>
+        <summary type="html"><![CDATA[自由软件向量图形编辑器 Inkscape 项目释出了 1.1 版本。Inkscape 1.1 的主要变化包括：欢迎对话框和全新的欢迎界面，命令面板，重新设计了对话框对接系统，可搜索偏好选择，新的导出格式，新的轮廓叠加模式，更多 Live P […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[滴滴【北京总部】- 网约车技术部急招 GO 开发工程师]]></title>
         <id>https://gocn.vip/topics/12114</id>
