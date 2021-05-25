@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T02:22:29.320Z</updated>
+    <updated>2021-05-25T03:40:43.117Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[上海] 循环智能招厉害的 <Go 开发工程师> 啦~]]></title>
+        <id>https://gocn.vip/topics/12112</id>
+        <link href="https://gocn.vip/topics/12112"/>
+        <updated>2021-05-25T02:23:24.000Z</updated>
+        <summary type="html"><![CDATA[ 关于公司
+我们是谁？
+我们是循环智能（Recurrent AI），创始团队是来自清华、卡内基梅隆的顶级大牛：
+Co-founder 杨植麟博士作为第一作者与 Google Brain 联合发布了 XLNet 模型。他师从苹果公司 AI 研究总监 Ruslan Salakhutdinov，曾与图灵奖得主 Youshua Bengio、Yann LeCun 合作发表论文，在自然语言理解、半监督学习等 30 多个数据集上取得历史最好结果。
+Co-founder 张宇韬是清华大学计算机博士，曾作为核心开发者研发了知名的科技大数据分析平台 AMiner，并随 AMiner 团队获得北京市科学技术奖一等奖、吴文俊人工智能技术进步奖一等奖。
+COO 揭发参与了多家世界 500 强和国内互联网巨头系统架构解决方案设计和落地，曾带领团队获得 9 位数的年营业额。
+我们在做什么？
+简单的说，我们想通过最前沿的 AI 技术，让机器更好的理解企业与其客户的沟通过程，进而帮助企业更好的挖掘并利用每一次沟通过程中蕴含的有价值的信息，最终来创造更大的价值；
+在我们看来，企业与客户的 “交互” 主要有两种，一种是人机交互，一种是人与人交互。前者产生的点击、滑动等行为数据已被充分利用，但是后者产生的对话数据的价值却尚未被充分挖掘。我们希望帮助企业连接对话沟通数据到业务价值的鸿沟，帮助拥有中大型电销或者客服中心的企业，从对话数据中发现风险、分析客户心声、监督销售或客服的执行力、预测成单概率，最终帮助企业提升客户转化。
+现在我们的状态？
+在 AI 皇冠技术 NLP 领域里，我们发表了世界领先的 XLNet、Transformer-XL 等模型，并应用在公司的三大主产品线中：线索推荐系统、画像挖掘系统和智能质检系统；
+融资方面，我们近期已连续获得真格基金、金沙江创投、靖亚等机构的 A 轮和红杉、万物、金沙江创投的亿级 A+ 轮融资，2019 年营收达到千万级别
+ 工作职责
+1、负责项目后端业务逻辑开发，与技术团队交流协作；
+2、参与项目架构的制定和优化，开拓和引入新的技术；
+3、参与行业技术方向的讨论，设计行业技术选型；
+4、负责项目部署和升级，以及部分日常维护、相关培训等。
+ 职位要求
+1、本科及以上学历，3 年以上 Go 语言开发经验，有完整软件项目开发、迭代和实施经验，有软硬件结合项目经验优先；
+2、对软件工程和编程技术有较深理解，具备服务器端开发经验且在某个技术领域钻研足够深，熟悉常用的开发框架，具备全栈开发经验者优先；
+3、掌握 golang/java，熟悉大规模、高并发系统架构设计，有大型项目调优经历，熟悉云端项目的部署和维护；
+4、具备如下几种技术能力：
+数据库：mongodb ssdb; 搜索引擎： elasticsearch； 容器技术: docker-compose。
+ 加分项
+有 NLP 领域的业务经验的开发，有 AI 业务或标注系统开发优先
+ 薪资待遇
+25k-50k 14 薪起（优秀可 open 面议）
+ 联系方式
+微信：zyp-pp 邮箱：zhouyanpei@rcrai.com
+工作地点：北京海淀区量子芯座；上海黄浦区日月光中心]]></summary>
+        <author>
+            <name>pipi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mozilla 正在优化 Firefox 在 macOS 上的使用体验]]></title>
         <id>https://www.oschina.net/news/142981/mozilla-working-to-make-firefox-feel-like-home-on-macos</id>
