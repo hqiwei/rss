@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T14:18:47.573Z</updated>
+    <updated>2021-05-25T15:12:02.266Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-05-25)]]></title>
+        <id>https://gocn.vip/topics/12115</id>
+        <link href="https://gocn.vip/topics/12115"/>
+        <updated>2021-05-25T14:41:33.000Z</updated>
+        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-05-25)
+Go 编码安全指南 https://github.com/Tencent/secguide/blob/main/Go%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97.md
+
+私钥安全分发工具 cocert https://github.com/Dentrax/cocert
+
+两年 Go 经验学到的东西 https://sayedalesawy.hashnode.dev/top-5-lessons-i-learned-while-working-with-go-for-two-years
+
+Go 如何进行栈追踪 https://github.com/DataDog/go-profiler-notes/blob/main/stack-traces.md
+
+Linux 中的 macOS 子系统 lima https://github.com/AkihiroSuda/lima
+
+
+
+编辑: lwhile
+订阅新闻: http://tinyletter.com/gocn
+招聘专区: https://gocn.vip/jobs
+GoCN 归档: https://gocn.vip/topics/12115]]></summary>
+        <author>
+            <name>lwhile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 05 25]]></title>
+        <id>http://www.linuxeden.com/?p=85738</id>
+        <link href="http://www.linuxeden.com/a/85738"/>
+        <updated>2021-05-25T14:33:30.000Z</updated>
+        <summary type="html"><![CDATA[对 JavaScript 构建工具的 6 个预测 Git 中上下文切换的 4 种方式 Apache Apisix 2.6 发布 Inkscape 1.1 发布 Python 之父对 Rust、Go、Julia 和 TypeScript 的看 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对 JavaScript 构建工具的 6 个预测]]></title>
+        <id>http://www.linuxeden.com/?p=85736</id>
+        <link href="http://www.linuxeden.com/a/85736"/>
+        <updated>2021-05-25T14:29:55.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript 前端工具的生态系统充满着变数和竞争，且只有最好的工具才会存活下来。 生产中使用的代码与开发中的有所不同. 在生产中，我们需要构建一些能运行得够快、能管理各种依赖关系、能自动执行任务、能加载外部模块等功能的包。而那些将开 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Git 中上下文切换的 4 种方式]]></title>
         <id>http://www.linuxeden.com/?p=85733</id>

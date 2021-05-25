@@ -209,6 +209,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12115",
+          "author": "lwhile",
+          "description": "GoCN 每日新闻 (2021-05-25)\nGo 编码安全指南 https://github.com/Tencent/secguide/blob/main/Go%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97.md\n\n私钥安全分发工具 cocert https://github.com/Dentrax/cocert\n\n两年 Go 经验学到的东西 https://sayedalesawy.hashnode.dev/top-5-lessons-i-learned-while-working-with-go-for-two-years\n\nGo 如何进行栈追踪 https://github.com/DataDog/go-profiler-notes/blob/main/stack-traces.md\n\nLinux 中的 macOS 子系统 lima https://github.com/AkihiroSuda/lima\n\n\n\n编辑: lwhile\n订阅新闻: http://tinyletter.com/gocn\n招聘专区: https://gocn.vip/jobs\nGoCN 归档: https://gocn.vip/topics/12115",
+          "link": "https://gocn.vip/topics/12115",
+          "publishedOn": "2021-05-25T14:41:33.000Z",
+          "wordCount": 104,
+          "title": "GoCN 每日新闻 (2021-05-25)"
+        },
+        {
           "id": "https://gocn.vip/topics/12114",
           "author": "pengpeng",
           "description": "职位描述\n我们是网约车运营引擎团队，负责滴滴网约车和花小猪业务的增长赋能，落地集团 0188 战略目标。在这里，你既可以亲历创新业务的从 0-1，也可以见证成熟业务的突围升级。我们的业务包括智能补贴引擎、智能 CRM、社群裂变、会员积分、电商、广告、游戏等，你将接触最核心的运营方法论，与行业老炮及技术专家一起，共同面对海量数据和复杂业务抽象的技术挑战。部门氛围开放，成长没有天花板，期待心里有火、眼里有光的你加入我们。\n【岗位职责】\n负责运营引擎核心业务的架构设计、开发，提升系统性能和开发效率;\n有运营增长思维，通过不断的技术研究和创新，与产品、运营一起快速迭代提升业务的核心数据。\n【任职要求】\n本科及以上学历，计算机相关专业\n扎实的数据和算法基础，强悍优秀的代码能力，至少熟悉一门开发语言，包括但不限于 Go/PHP/JAVA;\n对于复杂业务抽象，高并发服务设计和实现有经验，对分布式系统有自己的理解\n良好的沟通和团队协作能力，主动性和自驱能力强，愿意跳出舒适区推动技术方案、业务场景的落地使用；\n加分项：参与过营销、广告投放引擎、搜索排序、推荐引擎等相关研发工作\n加分项：对运营增长感兴趣，关注行业动态\n只要你愿意转 go，不限你的后端语言，PHP/JAVA/C/C++，我们都收！！\n有意向可扫描二维码来联系我哦!",
@@ -548,6 +557,24 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=85738",
+          "author": "Editor, Kai",
+          "description": "对 JavaScript 构建工具的 6 个预测 Git 中上下文切换的 4 种方式 Apache Apisix 2.6 发布 Inkscape 1.1 发布 Python 之父对 Rust、Go、Julia 和 TypeScript 的看 […]",
+          "link": "http://www.linuxeden.com/a/85738",
+          "publishedOn": "2021-05-25T14:33:30.000Z",
+          "wordCount": 123,
+          "title": "每日文章精选 2021 05 25"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85736",
+          "author": "Editor, Kai",
+          "description": "JavaScript 前端工具的生态系统充满着变数和竞争，且只有最好的工具才会存活下来。 生产中使用的代码与开发中的有所不同. 在生产中，我们需要构建一些能运行得够快、能管理各种依赖关系、能自动执行任务、能加载外部模块等功能的包。而那些将开 […]",
+          "link": "http://www.linuxeden.com/a/85736",
+          "publishedOn": "2021-05-25T14:29:55.000Z",
+          "wordCount": 362,
+          "title": "对 JavaScript 构建工具的 6 个预测"
+        },
         {
           "id": "http://www.linuxeden.com/?p=85733",
           "author": "Editor, Kai",
