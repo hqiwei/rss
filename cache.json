@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60a93b0011ffb70827ef5b0d",
+          "author": null,
+          "description": "In HTML, it’s the default behavior for forms to redirect to a new page whenever they're submitted. So in order to provide dynamic functionality, React uses a strategy called controlled components. If you have recently gone through a React course, you probably didn't like this part, because there are",
+          "link": "https://www.freecodecamp.org/news/how-to-use-react-hook-form-with-chakra-ui/",
+          "publishedOn": "2021-05-25T20:26:38.000Z",
+          "wordCount": 1752,
+          "title": "How to Use React-Hook-Form to Build Beautiful Forms with Chakra UI"
+        },
+        {
           "id": "608706aedd38b9088c2c012c",
           "author": null,
           "description": "If you're a beginner developer, it can be difficult to find ways to use your limited knowledge to support yourself. And at the same time, you won't be able to hone your skills if you aren't using them full time.  It's a precarious spot that I remember being in when",
