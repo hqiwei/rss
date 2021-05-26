@@ -693,6 +693,33 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=85796",
+          "author": "Editor, Kai",
+          "description": "将 Fedora Linux 系统添加到企业域中 Fedora Cloud 35发行版本将默认使用Btrfs文件系统 每秒900多颗！ARM处理器季度出货73亿颗、历史1900亿颗 现在可以在Windows 10中运行Linux GUI应用 […]",
+          "link": "http://www.linuxeden.com/a/85796",
+          "publishedOn": "2021-05-26T15:11:35.000Z",
+          "wordCount": 97,
+          "title": "每日文章精选 2021 05 26"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85791",
+          "author": "Editor, Kai",
+          "description": "在企业互联网场景中，一般情况下最广泛使用的基于 Linux 的操作系统是 Red Hat Enterprise Linux（RHEL），它主要用于服务器，但也可以用作工作站。Fedora linux 其实也是工作站系统的一个很好的选择，它提 […]",
+          "link": "http://www.linuxeden.com/a/85791",
+          "publishedOn": "2021-05-26T15:09:37.000Z",
+          "wordCount": 203,
+          "title": "将 Fedora Linux 系统添加到企业域中"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85787",
+          "author": "Editor, Kai",
+          "description": "自 Fedora 33 以来，Fedora Workstation 一直默认为 Btrfs 文件系统，而 Fedora 的其他版本则默认采用 EXT4 文件系统。不过在即将到来的 Fedora Cloud 35 中，这个云端的分支发行版本也 […]",
+          "link": "http://www.linuxeden.com/a/85787",
+          "publishedOn": "2021-05-26T14:44:31.000Z",
+          "wordCount": 127,
+          "title": "Fedora Cloud 35发行版本将默认使用Btrfs文件系统"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=85782",
           "author": "Editor, Kai",
           "description": "今天，ARM一口气发布了全套计算方案，包括64位的Cortex-X2、A710、A510 CPU处理器，Mali-G710、G610、G510、G310 GPU图形核心，和相关的互连、网络技术。 同时，ARM给出最新数据，2020年第四季度 […]",

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T14:26:01.416Z</updated>
+    <updated>2021-05-26T15:15:03.253Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 05 26]]></title>
+        <id>http://www.linuxeden.com/?p=85796</id>
+        <link href="http://www.linuxeden.com/a/85796"/>
+        <updated>2021-05-26T15:11:35.000Z</updated>
+        <summary type="html"><![CDATA[将 Fedora Linux 系统添加到企业域中 Fedora Cloud 35发行版本将默认使用Btrfs文件系统 每秒900多颗！ARM处理器季度出货73亿颗、历史1900亿颗 现在可以在Windows 10中运行Linux GUI应用 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将 Fedora Linux 系统添加到企业域中]]></title>
+        <id>http://www.linuxeden.com/?p=85791</id>
+        <link href="http://www.linuxeden.com/a/85791"/>
+        <updated>2021-05-26T15:09:37.000Z</updated>
+        <summary type="html"><![CDATA[在企业互联网场景中，一般情况下最广泛使用的基于 Linux 的操作系统是 Red Hat Enterprise Linux（RHEL），它主要用于服务器，但也可以用作工作站。Fedora linux 其实也是工作站系统的一个很好的选择，它提 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora Cloud 35发行版本将默认使用Btrfs文件系统]]></title>
+        <id>http://www.linuxeden.com/?p=85787</id>
+        <link href="http://www.linuxeden.com/a/85787"/>
+        <updated>2021-05-26T14:44:31.000Z</updated>
+        <summary type="html"><![CDATA[自 Fedora 33 以来，Fedora Workstation 一直默认为 Btrfs 文件系统，而 Fedora 的其他版本则默认采用 EXT4 文件系统。不过在即将到来的 Fedora Cloud 35 中，这个云端的分支发行版本也 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每秒900多颗！ARM处理器季度出货73亿颗、历史1900亿颗]]></title>
         <id>http://www.linuxeden.com/?p=85782</id>
