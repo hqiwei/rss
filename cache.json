@@ -236,6 +236,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12116",
+          "author": "kevwan",
+          "description": "前言\n群里老有同学问，go-zero 的 数据库 和 redis 库是否有连接池支持。先说结论：有的，可以放心大胆用！\n从框架设计来说，对于数据库连接这种资源当然是尽可能减少频繁操作：\n为业务减负\n提升框架自身的性能\n池化技术是一个通用化技术，本身就应该作为一个通用库支撑框架的上层业务\n所以不管是 sqlx，redis，以及 mongo，等以后可能要支持的数据源类型，底层的池化处理都是通用的；所以当开发者需要一个池化处理组件时，go-zero 也是提供的。\n池化技术支持的库就位于：core/resourcemanager.go。下面来看看这个库的使用～～\n使用\n使用的话，我们直接来看 sqlx ，它是怎么用的：\n// 1. 初始化\nvar connManager = syncx.NewResourceManager()\n\nfunc getCachedSqlConn(driverName, server string) (*db, error) {\n  val, err := connManager.GetResource(server, func() (io.Closer, error) {\n    // 2. 此处才是真正创建连接的地方\n    conn, err := newDBConnection(driverName, server)\n    ...\n    // 3. 将连接返回给连接池【内部也肯定是存起来】\n    return &db{\n      DB: conn,\n    }, nil\n  })\n  ...\n  return val.(*db), nil\n}\n\n说说其中的要点：\nNewResourceManager：创建一个池子\nGetResource(key, createFunc)：key 是用来防止并发获取资源时重复请求，createFunc 才是正在用来创建资源的函数【此函数需要有开发者自己编写符合业务需求资源】\n总结一下资源池的模型：\n// 1. new\nvar manager = NewResourceManager()\n\n// 2. 业务资源获取函数\nfunc getResource(key string) (*resource, error) {\n  return manager.GetResource(key, createFunc);\n}\n\n// 3.业务资源创建函数【由开发者自己编写，此处只是一个样例】\nfunc createFunc() (io.Closer, error) {\n  // 打开一个资源\n  conn, err := openResource();\n  // 设置一下资源配置\n  conn.setConfig()\n\n  return conn, err;\n}\n\n整体分析\n\n其实流程上很简单，其中还有我们老生常谈的 sharedCalls：\nGetResource，携带特定的 key，到资源池中的 map 中查找：\n\n\n查到了，直接返回\n没有查到，调用传入的 create() ；此处才真正创建一个真实的资源连接，并放入 map\n\n\n\n其中对 map 的查询和写入，都得加锁。\n其中在对资源池进行操作时，附加上 sharedCalls ：防止并发请求时无效流量请求以及共享请求结果。\n关于 SharedCalls，还不清楚的同学，可以到 go-zero 官方文档中仔细查看。\n总结\n本篇文章对 go-zero 的资源池库从使用到结构进行了分析。大家也可以在业务中常发生资源申请的逻辑处，加上 resourcemanager，本质上也是给资源加上一个缓存，节省反复创建。\n关于 go-zero 更多的设计和实现文章，可以关注『微服务实践』公众号。\n项目地址\nhttps://github.com/tal-tech/go-zero\n欢迎使用 go-zero 并 star 支持我们！\n微信交流群\n关注『微服务实践』公众号并点击 交流群 获取社区群二维码。",
+          "link": "https://gocn.vip/topics/12116",
+          "publishedOn": "2021-05-26T00:36:36.000Z",
+          "wordCount": 222,
+          "title": "通用连接池帮你解决资源管理难题"
+        },
+        {
           "id": "https://gocn.vip/topics/12115",
           "author": "lwhile",
           "description": "GoCN 每日新闻 (2021-05-25)\nGo 编码安全指南 https://github.com/Tencent/secguide/blob/main/Go%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97.md\n\n私钥安全分发工具 cocert https://github.com/Dentrax/cocert\n\n两年 Go 经验学到的东西 https://sayedalesawy.hashnode.dev/top-5-lessons-i-learned-while-working-with-go-for-two-years\n\nGo 如何进行栈追踪 https://github.com/DataDog/go-profiler-notes/blob/main/stack-traces.md\n\nLinux 中的 macOS 子系统 lima https://github.com/AkihiroSuda/lima\n\n\n\n编辑: lwhile\n订阅新闻: http://tinyletter.com/gocn\n招聘专区: https://gocn.vip/jobs\nGoCN 归档: https://gocn.vip/topics/12115",
@@ -584,6 +593,96 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=85776",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 05 26",
+          "link": "http://www.linuxeden.com/a/85776",
+          "publishedOn": "2021-05-26T00:26:14.000Z",
+          "wordCount": 77,
+          "title": "开源美图 2021 05 26"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85770",
+          "author": "Editor, Kai",
+          "description": "随着今年的Build开发者活动拉开帷幕，微软宣布了Windows 10的一项重要新功能，现在能够以图形用户界面运行Linux应用程序。这是对Windows Subsystem for Linux的重大扩展，之前它已经可以让用户运行基于命令行 […]",
+          "link": "http://www.linuxeden.com/a/85770",
+          "publishedOn": "2021-05-26T00:25:03.000Z",
+          "wordCount": 99,
+          "title": "现在可以在Windows 10中运行Linux GUI应用程序了"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85766",
+          "author": "Editor, Kai",
+          "description": "微软每年的Build大会总是一个令人兴奋的事件，特别是对于利用该公司服务的开发者，如Azure。像往常一样，这家科技巨头的云平台迅速登上科技媒体的头条。那些想在云中运行Java企业版（EE）工作负载的客户现在可以开始试用来自Azure市场的 […]",
+          "link": "http://www.linuxeden.com/a/85766",
+          "publishedOn": "2021-05-26T00:22:02.000Z",
+          "wordCount": 99,
+          "title": "微软OpenJDK的构建版现在已经在Azure普遍可用"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85762",
+          "author": "Editor, Kai",
+          "description": "除了专注于新服务和新功能技术实现的面向开发者的一系列发布外，微软还透露，它正在与各种组织合作，组建绿色软件基金会。作为这项工作的一部分，微软正在与众多公司联手，包括埃森哲、GitHub、ThoughtWorks和高盛等，这个非营利组织也与L […]",
+          "link": "http://www.linuxeden.com/a/85762",
+          "publishedOn": "2021-05-26T00:21:24.000Z",
+          "wordCount": 83,
+          "title": "微软、埃森哲和GitHub联手宣布成立绿色软件基金会"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85760",
+          "author": "Editor, Kai",
+          "description": "Enhancements #5121 – Add content type filters for tags #6358 – Add search field for VLAN groups #6393 – […]",
+          "link": "http://www.linuxeden.com/a/85760",
+          "publishedOn": "2021-05-26T00:14:19.000Z",
+          "wordCount": 220,
+          "title": "Netbox 2.11.4发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85758",
+          "author": "Editor, Kai",
+          "description": "Refactor Menu to support keyboard access and enhance accessibility experience. #30382 Redesign Table filter and sorter b […]",
+          "link": "http://www.linuxeden.com/a/85758",
+          "publishedOn": "2021-05-26T00:13:13.000Z",
+          "wordCount": 453,
+          "title": "Ant Design 4.16.0 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85756",
+          "author": "Editor, Kai",
+          "description": "Fixes Fixed SHA issue when creating a universal macOS build.   Assets 81 chromedriver-v13.0.1-darwin-arm64.zip 12 M […]",
+          "link": "http://www.linuxeden.com/a/85756",
+          "publishedOn": "2021-05-26T00:11:21.000Z",
+          "wordCount": 327,
+          "title": "Electron  13.0.1 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85754",
+          "author": "Editor, Kai",
+          "description": "The Nim team is happy to announce version 1.4.8, our fourth patch release for Nim 1.4. Version 1.4.8 is a result of one  […]",
+          "link": "http://www.linuxeden.com/a/85754",
+          "publishedOn": "2021-05-26T00:10:06.000Z",
+          "wordCount": 429,
+          "title": "nim 1.4.8发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85752",
+          "author": "Editor, Kai",
+          "description": "Changes with nginx 1.21.0                                        25 May 2021 *) Security: 1-byte memory overwrite might  […]",
+          "link": "http://www.linuxeden.com/a/85752",
+          "publishedOn": "2021-05-26T00:08:46.000Z",
+          "wordCount": 207,
+          "title": "Nginx 1.21.0发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85741",
+          "author": "Editor, Kai",
+          "description": "今天，ARM发布了2020年度新品家族，包括纯粹64位的超大核心Cortex-X2、大核心Cortex-A710、小核心Cortex-A510(分别取代X1、A78、A55)，三级缓存和丛簇设计DSU-110，互连网格网络IP CI-700 […]",
+          "link": "http://www.linuxeden.com/a/85741",
+          "publishedOn": "2021-05-26T00:06:03.000Z",
+          "wordCount": 85,
+          "title": "ARM Cortex-X2超大核心发布：纯粹64位、机器学习性能翻番"
+        },
         {
           "id": "http://www.linuxeden.com/?p=85738",
           "author": "Editor, Kai",
@@ -1264,6 +1363,96 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/143147",
+          "author": null,
+          "description": "类型系统在前端领域曾经是存在感很低的概念，而随着 TypeScript 语言的兴起和流行，类型系统逐步进入前端开发者的视野，它所带来的错误检测能力、抽象能力和安全方面的提升正是现代 Web 开发所迫切需要的。 然而 TypeScript 的出现并没有解决所有场景下的类型安全问题，在 HTTP 请求、RPC、跨端接口调用等等场景中，依然...",
+          "link": "https://www.oschina.net/news/143147",
+          "publishedOn": "2021-05-26T00:41:11.000Z",
+          "wordCount": 553,
+          "title": "字节 97 年前端：大四接触开源，毕业即成框架核心开发者"
+        },
+        {
+          "id": "https://www.oschina.net/news/143146/linux-5-14-dm-optimization",
+          "author": null,
+          "description": "近日，红帽的工程师们对 DeviceMapper（DM，设备映射器）的代码进行了大幅的性能优化，这项改动现在已经进入了 Linux 5.14 的合并队列中。 设备映射器是一个由 Linux 内核提供的框架，用于将物理块设备映射到更高级别的虚拟块设备上。它构成了逻辑卷管理器（LVM）、软件 RAID 和 dm-crypt 磁盘加密的基础，并提供了额外的...",
+          "link": "https://www.oschina.net/news/143146/linux-5-14-dm-optimization",
+          "publishedOn": "2021-05-26T00:36:11.000Z",
+          "wordCount": 510,
+          "title": "红帽为 Linux 5.14 大幅优化设备映射器，最高提升十倍性能"
+        },
+        {
+          "id": "https://www.oschina.net/news/143144/kotlin-native-memory-management-update",
+          "author": null,
+          "description": "在 2020 年，JetBrains 的 Kotlin 团队曾发布了重新设计 Kotlin/Native 中内存管理方法的计划。现如今，该团队则对其进展进行了更新，并分享了一些关于内存管理设计的细节。此外，官方透露，他们计划在 2021 年夏季结束前提供一个开发预览。 根据 JetBrains 的说法，最初的 Kotlin/Native 自动内存管理器使用了一个延迟引...",
+          "link": "https://www.oschina.net/news/143144/kotlin-native-memory-management-update",
+          "publishedOn": "2021-05-26T00:34:56.000Z",
+          "wordCount": 506,
+          "title": "JetBrains 旨在通过更好的垃圾回收机制来改善 Kotlin/Native"
+        },
+        {
+          "id": "https://www.oschina.net/news/143143",
+          "author": null,
+          "description": "“源动力“技术沙龙由浪潮ZNBaseDB发起，旨在为所有开源爱好者分享有干货重内容的数据库信息。Meetup与2021年四月份启动，已完成第一期分享。嘉宾包括Zilliz首席布道师顾钧老师等。本次活动，为第二期。我们邀请了陈磊老师和管延信老师。 陈磊，开放原子开源基金会TOC成员，360资深技术专家，基础架构负责人，开源爱好者...",
+          "link": "https://www.oschina.net/news/143143",
+          "publishedOn": "2021-05-26T00:33:04.000Z",
+          "wordCount": 459,
+          "title": "“源动力“技术沙龙：深入了解 KV 数据库和 ZNBaseDB"
+        },
+        {
+          "id": "https://www.oschina.net/p/jolie",
+          "author": null,
+          "description": "面向微服务、为微服务开发设计的编程语言，旨在为微服务的开发提供原生抽象 (native abstraction)。",
+          "link": "https://www.oschina.net/p/jolie",
+          "publishedOn": "2021-05-26T00:31:51.000Z",
+          "wordCount": 1006,
+          "title": "Jolie —— 面向微服务的编程语言"
+        },
+        {
+          "id": "https://my.oschina.net/kevwan/blog/5056791",
+          "author": null,
+          "description": "本文主要跟大家探讨『缓存监控和代码自动化』。",
+          "link": "https://my.oschina.net/kevwan/blog/5056791",
+          "publishedOn": "2021-05-26T00:30:02.000Z",
+          "wordCount": 291,
+          "title": "每日一博 | 懂得取舍才是缓存设计的真谛"
+        },
+        {
+          "id": "https://www.oschina.net/news/143138/google-publish-fuchsia-os-1-0",
+          "author": null,
+          "description": "Google 开发已久的新一代操作系统 Fuchsia ，已经开始投放到第一代 Nest Hub 上运行。 从今天起，一项更新开始向 2018 年首次发布的第一代 Nest Hub 用户推出。这次更新不会改变 Nest Hub 的任何功能，但智能显示器将运行 Fuchsia 操作系统，而不是它之前使用的基于 Linux 的 \"Cast OS\"。事实上，用户对 Nest Hub 的体验...",
+          "link": "https://www.oschina.net/news/143138/google-publish-fuchsia-os-1-0",
+          "publishedOn": "2021-05-26T00:17:25.000Z",
+          "wordCount": 538,
+          "title": "Google 正式推出 Fuchsia OS"
+        },
+        {
+          "id": "https://gitee.com/jd-platform-opensource/isearch",
+          "author": null,
+          "description": "本团队开发的检索服务提供分词和建立索引功能，可自定义中文词库，可满足复杂查询需求，支持包括字段检索、字段排序、布尔搜索、范围检索、地理位置（POI、AOI）查询等功能。",
+          "link": "https://gitee.com/jd-platform-opensource/isearch",
+          "publishedOn": "2021-05-26T00:06:12.000Z",
+          "wordCount": 632,
+          "title": "Gitee 推荐 | 京东开源检索服务 isearch"
+        },
+        {
+          "id": "https://www.oschina.net/news/143136/ansible-4-0-released",
+          "author": null,
+          "description": "Red Hat 已于上周发布了 Ansible 4.0，并表示此次更新基于 ansible-core-2.11.x 软件包，对于 Ansible 3 使用的软件包来说是一次重大更新。Ansible 3 基于 Ansible Base 2.10.x，所以 4 和 3 的 core playbook 语言可能会向后不兼容。详情查看迁移指南。 获取新版本 由于 PIP 的限制，如果希望从 Ansible 3（或者更早版本...",
+          "link": "https://www.oschina.net/news/143136/ansible-4-0-released",
+          "publishedOn": "2021-05-26T00:00:13.000Z",
+          "wordCount": 525,
+          "title": "Ansible 4.0.0 稳定版发布"
+        },
+        {
+          "id": "https://www.oschina.net/news/143135/edge-will-support-fast-boost-and-sleeping-tabs",
+          "author": null,
+          "description": "在今天的 Microsoft 年度 Build 大会上，微软宣布了其 Edge 浏览器即将发布的 91 版本的一些新功能。这些功能都不是大改动，但对其用户来说可以充分提高使用体验。 一个新功能是 \"启动加速\"，它允许 Edge 几乎立即启动。Microsoft 实现该功能的方式很直接。当用户启动 Windows 设备时，会简单地加载一些核心的 Edge 进程...",
+          "link": "https://www.oschina.net/news/143135/edge-will-support-fast-boost-and-sleeping-tabs",
+          "publishedOn": "2021-05-25T23:43:34.000Z",
+          "wordCount": 494,
+          "title": "Microsoft Edge 浏览器将支持快速启动和标签睡眠"
+        },
         {
           "id": "https://www.oschina.net/news/143016/streamnative-opensource-function-mesh",
           "author": null,
