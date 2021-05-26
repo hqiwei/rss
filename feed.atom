@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T00:46:17.457Z</updated>
+    <updated>2021-05-26T02:49:04.061Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[微软 Build 2021 正式开始，重要项目更新汇总]]></title>
+        <id>https://www.oschina.net/news/143152/ms-build-2021-update-news</id>
+        <link href="https://www.oschina.net/news/143152/ms-build-2021-update-news"/>
+        <updated>2021-05-26T01:38:31.000Z</updated>
+        <summary type="html"><![CDATA[微软专门面向开发者举办的 Build 2021 已于今天开始，口号十分直白地在向开发者示好：「Microsoft ❤️ developers」。 为了表达这份爱意，微软首日便为许多开发者关注的项目带来了更新。 Windows Terminal Preview 1.9 Visual Studio 2019 v16.10 和 v16.11 Preview 1 .NET MAUI Preview 4 .NET 6 Preview 4 微软构建的...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[字节 97 年前端：大四接触开源，毕业即成框架核心开发者]]></title>
         <id>https://www.oschina.net/news/143147</id>
@@ -314,6 +324,36 @@ https://github.com/tal-tech/go-zero
         <summary type="html"><![CDATA[If you're a beginner developer, it can be difficult to find ways to use your limited knowledge to support yourself. And at the same time, you won't be able to hone your skills if you aren't using them full time.  It's a precarious spot that I remember being in when]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[矢量图形编辑软件 Inkscape 1.1 + x64 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=8491</id>
+        <link href="http://www.dayanzai.me/inkscape.html"/>
+        <updated>2021-05-25T16:35:37.000Z</updated>
+        <summary type="html"><![CDATA[Inkscape 中文多语特别版由大眼仔旭（www.dayanzai.me）发布。Inkscape 中文版是一 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源免费的翻译工具 Crow Translate 2.8.3 x64 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=6346</id>
+        <link href="http://www.dayanzai.me/crow-translate.html"/>
+        <updated>2021-05-25T16:20:46.000Z</updated>
+        <summary type="html"><![CDATA[开源免费的翻译工具 Crow Translate 中文版 由大眼仔旭（www.dayanzai.me）发布。C […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自动关机辅助工具 Shutdown Timer Classic 1.2.3 中文免费版]]></title>
+        <id>http://www.dayanzai.me/?p=1227</id>
+        <link href="http://www.dayanzai.me/shutdown-timer-classic.html"/>
+        <updated>2021-05-25T16:18:42.000Z</updated>
+        <summary type="html"><![CDATA[自动关机辅助工具 Shutdown Timer Classic 中文版 由大眼仔旭（www.dayanzai. […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>

@@ -1364,6 +1364,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/143152/ms-build-2021-update-news",
+          "author": null,
+          "description": "微软专门面向开发者举办的 Build 2021 已于今天开始，口号十分直白地在向开发者示好：「Microsoft ❤️ developers」。 为了表达这份爱意，微软首日便为许多开发者关注的项目带来了更新。 Windows Terminal Preview 1.9 Visual Studio 2019 v16.10 和 v16.11 Preview 1 .NET MAUI Preview 4 .NET 6 Preview 4 微软构建的...",
+          "link": "https://www.oschina.net/news/143152/ms-build-2021-update-news",
+          "publishedOn": "2021-05-26T01:38:31.000Z",
+          "wordCount": 624,
+          "title": "微软 Build 2021 正式开始，重要项目更新汇总"
+        },
+        {
           "id": "https://www.oschina.net/news/143147",
           "author": null,
           "description": "类型系统在前端领域曾经是存在感很低的概念，而随着 TypeScript 语言的兴起和流行，类型系统逐步进入前端开发者的视野，它所带来的错误检测能力、抽象能力和安全方面的提升正是现代 Web 开发所迫切需要的。 然而 TypeScript 的出现并没有解决所有场景下的类型安全问题，在 HTTP 请求、RPC、跨端接口调用等等场景中，依然...",
@@ -2450,6 +2459,33 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=8491",
+          "author": "大眼仔~旭",
+          "description": "Inkscape 中文多语特别版由大眼仔旭（www.dayanzai.me）发布。Inkscape 中文版是一 […]",
+          "link": "http://www.dayanzai.me/inkscape.html",
+          "publishedOn": "2021-05-25T16:35:37.000Z",
+          "wordCount": 591,
+          "title": "矢量图形编辑软件 Inkscape 1.1 + x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=6346",
+          "author": "大眼仔~旭",
+          "description": "开源免费的翻译工具 Crow Translate 中文版 由大眼仔旭（www.dayanzai.me）发布。C […]",
+          "link": "http://www.dayanzai.me/crow-translate.html",
+          "publishedOn": "2021-05-25T16:20:46.000Z",
+          "wordCount": 580,
+          "title": "开源免费的翻译工具 Crow Translate 2.8.3 x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=1227",
+          "author": "大眼仔~旭",
+          "description": "自动关机辅助工具 Shutdown Timer Classic 中文版 由大眼仔旭（www.dayanzai. […]",
+          "link": "http://www.dayanzai.me/shutdown-timer-classic.html",
+          "publishedOn": "2021-05-25T16:18:42.000Z",
+          "wordCount": 537,
+          "title": "自动关机辅助工具 Shutdown Timer Classic 1.2.3 中文免费版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=35827",
           "author": "大眼仔~旭",
