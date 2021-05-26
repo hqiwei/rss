@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60aced0011ffb70827ef6d96",
+          "author": null,
+          "description": "In this video course I show you how to build three popular games using the latest game development library for JavaScript called Kaboom.js. This course is exciting for two reasons: First of all, I am going to be introducing a new technology designed especially for game development in JavaScript.",
+          "link": "https://www.freecodecamp.org/news/how-to-build-mario-zelda-and-space-invaders-with-kaboom-js/",
+          "publishedOn": "2021-05-26T14:12:27.000Z",
+          "wordCount": 1271,
+          "title": "How to Build Super Mario Bros, Zelda, and Space Invaders with Kaboom.js"
+        },
+        {
           "id": "60ac3a2711ffb70827ef6aec",
           "author": null,
           "description": "Walkthrough for Hack The Box Valentine machine",
@@ -235,6 +244,15 @@
       "feedUrl": "https://gocn.vip/topics/feed",
       "siteUrl": "https://gocn.vip/",
       "articles": [
+        {
+          "id": "https://gocn.vip/topics/12126",
+          "author": "yudotyang",
+          "description": "1. 基准测试\n三思而后行（Measure twice and cut once）\n在我们试图改进程序性能之前，我们首先要知道程序的当前性能。\n本节主要关注使用 Go testing 包如何构建有用的基准测试，并且给出一些最佳实践避免踩坑。\n1.1 基准测试基本原则\n在进行基准测试之前，你必须要有一个稳定的环境以得到可重复的输出结果。\n机器必须是空闲状态 -- 不能在共享的硬件上采集数据，当长时间运行基准测试时不能浏览网页等\n机器是否关闭了节能模式。一般笔记本电脑上会默认开启该模式。\n避免使用虚拟机和云主机。一般情况下，为了尽可能地提高资源的利用率，虚拟机和云主机 CPU 和内存一般会超分配，超分机器的性能表现会非常地不稳定。\n如果负担得起，请购买专用的性能测试硬件。 机架安装，禁用所有电源管理和热量缩放功能，并且永远不要在这些计算机上更新软件。 最后一点是从系统管理的角度来看糟糕的建议，但是如果软件更新改变了内核或库的执行方式 - 想想 Spectre 补丁 - 这将使以前的任何基准测试结果无效。\n对于其他的原则，请进行前后采样，然后多次运行以获取一致的结果。\n1.2  使用 testing 包构建基准测试\ntesting 包中已经内置了基准测试的功能。如果我们有一个如下简单的函数：\nfunc Fib3(n int) int {\n    switch n {\n    case 0:\n        return 0\n    case 1:\n        return 1\n    case 2:\n        return 1\n    default:\n        return Fib(n-1) + Fib(n-2)\n    }\n}\n\n我们可以通过 testing 包来写基准测试，基准测试的代码如下：\nfunc BenchmarkFib20(b *testing.B…",
+          "link": "https://gocn.vip/topics/12126",
+          "publishedOn": "2021-05-26T14:16:52.000Z",
+          "wordCount": 1241,
+          "title": "Go 高性能系列教程之一：基准测试"
+        },
         {
           "id": "https://gocn.vip/topics/12125",
           "author": "astaxie",
@@ -674,6 +692,15 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=85782",
+          "author": "Editor, Kai",
+          "description": "今天，ARM一口气发布了全套计算方案，包括64位的Cortex-X2、A710、A510 CPU处理器，Mali-G710、G610、G510、G310 GPU图形核心，和相关的互连、网络技术。 同时，ARM给出最新数据，2020年第四季度 […]",
+          "link": "http://www.linuxeden.com/a/85782",
+          "publishedOn": "2021-05-26T14:18:51.000Z",
+          "wordCount": 89,
+          "title": "每秒900多颗！ARM处理器季度出货73亿颗、历史1900亿颗"
+        },
         {
           "id": "http://www.linuxeden.com/?p=85776",
           "author": "Editor, Kai",
