@@ -168,6 +168,61 @@
           <section class="articles-per-source">
             <article>
               <details class="article-expander">
+                <summary class="article-expander__title">golang 限流器，控制并发，线程池</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12122">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>gowp
+golang worker pool ,线程池 , 工作池
+并发限制 goroutine 池。
+限制任务执行的并发性，而不是排队的任务数。
+无论排队多少任务，都不会阻止提交任务。
+通过队列支持
+限流器
+golang 工作池公共库
+支持最大任务数, 放到工作池里面 并等待全部完成
+package main
+
+import (
+    &quot;fmt&quot;
+    &quot;time&quot;
+
+    &quot;github.com/xxjwxc/gowp/workerpool&quot;
+)
+
+func main() {
+    wp :&#x3D; workerpool.New(10)             //设置最大线程数
+    for i :&#x3D; 0; i \t%v&quot;, ii, j))
+                time.Sleep(1 * time.Second)
+            }
+            //time.Sleep(1 * time.Second)
+            return nil
+        })
+    }
+
+    wp.Wait()
+    fmt.Println(&quot;down&quot;)
+}
+
+限流器 (cache)
+package main
+
+import (
+    &quot;fmt&quot;
+    &quot;sync&quot;
+    &quot;time&quot;
+
+    &quot;github.com/xxjwxc/gowp/limiter&quot;
+)
+
+func main() {
+  …</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
                 <summary class="article-expander__title">阿里云联合中国信通院发布《云计算开放应用架构》标准，加速云原生应用规模化落地进程</summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12121">
                   <div class="article-summary-box-inner">
@@ -4706,7 +4761,7 @@ type Test struct {
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-05-26T10:24:26.987Z">2021-05-26T10:24:26.987Z</time>
+    <time id="build-timestamp" datetime="2021-05-26T11:21:44.173Z">2021-05-26T11:21:44.173Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.9.0</a></span>
   </footer>
   <script src="index.js"></script>
