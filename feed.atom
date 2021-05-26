@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T11:21:44.201Z</updated>
+    <updated>2021-05-26T12:20:56.375Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-05-26)]]></title>
+        <id>https://gocn.vip/topics/12123</id>
+        <link href="https://gocn.vip/topics/12123"/>
+        <updated>2021-05-26T12:12:55.000Z</updated>
+        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-05-26)
+如何运行并行功能测试 https://medium.com/fiverr-engineering/running-parallel-functional-tests-2f6609bfbf4e
+
+Go 中一些不曾注意的点 https://arash-cordi.medium.com/dark-corners-of-go-4e29aafcd4b9
+
+如何像专家一样编写 Golang 基准测试 https://hackernoon.com/how-to-write-benchmarks-in-golang-like-an-expert-0w1834gs
+
+详解 Go 空结构体的 3 种使用场景 https://mp.weixin.qq.com/s/zbYIdB0HlYwYSQRXFFpqSg
+
+Promtheus rules lint 工具 https://github.com/cloudflare/pint
+
+
+
+
+编辑: 宋佳洋
+订阅新闻: http://tinyletter.com/gocn
+
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>songjiayang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[golang 限流器，控制并发，线程池]]></title>
         <id>https://gocn.vip/topics/12122</id>
