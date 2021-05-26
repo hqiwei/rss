@@ -24,6 +24,17 @@
           <section class="articles-per-source">
             <article>
               <details class="article-expander">
+                <summary class="article-expander__title">猫咪锁屏提醒 – 拥有 20 只猫，在 iPhone 锁屏界面显示待办事项</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.appinn.com/maomi-suoping-for-iphone/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(4 min)</span>
+                    <span>猫咪锁屏提醒是一款利用快捷指令实现在 iPhone 锁屏界面显示待办事项、倒数日、提醒的应用，拥有 20 只可爱的猫咪，也会同时出现在锁屏界面。@Appinn 来自发现频道，开发者 @Carefree</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
                 <summary class="article-expander__title">密码管理器 1Password for Mac 测试版的浏览器扩展终于支持自动解锁了</summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://www.appinn.com/1password-for-mac-shares-lock-state/">
                   <div class="article-summary-box-inner">
@@ -155,6 +166,43 @@
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://gocn.vip/">GoCN社区</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">集群镜像：实现高效的分布式应用交付</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12120">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>作者 | fanux.中弈
+来源 | 阿里巴巴云原生公众号
+什么是集群镜像
+​
+顾名思义，和操作系统 .iso 镜像或 Docker 镜像类似，集群镜像是用一定的技术手段把整个集群的所有文件以一定格式打成的一个资源包。
+​
+
+对比单机和集群会发现一些的有趣现象：
+​
+单机有计算、存储、网络等驱动；集群有 CNI/CSI/CRI 实现像是集群的驱动。
+单机有 ubuntu centos 操作系统；集群中可以把 Kubernetes 看成云操作系统。
+单机上可以运行 docker 容器或虚拟机；相当于一个运行的实例，集群上也有运行着 K8s 的实例。
+单机上有虚拟机镜像，docker 镜像；随着云计算技术的发展，集群上也会抽象出类似的镜像技术。
+以基于 Kubernetes 的集群镜像为例，里面包含了除操作系统以外的所有文件：
+​
+docker 依赖的二进制与 systemd 配置、dockerd 配置，以及一个私有的容器镜像仓库。
+Kubernetes 核心组件二进制、容器镜像、kubelet system 配置等。
+应用需要用到的 yaml 配置或 helm chart，以及应用的容器镜像。
+其它脚本、配置与二进制工具等应用运行需要的所有依赖。
+同样，集群镜像运行时肯定不是起一个容器或者装在一台机器上，而是这个镜像可以直接安装到多台服务器上或者直接对接到公有云的基础设施上。
+sealer 介绍
+​
+sealer 是阿里巴巴开源的集群镜像的一个实现方式，项目地址：https://github.com/alibaba/sealer 。
+​
+Docker 解决了单个容器的镜像化问题，而 sealer 通过把整个集群打包，实现了分布式软件的 Build Share Run!!!
+​
+试想我们要去交付一个 SaaS 应用，它依赖了 MySQL/ES/Redis 这些数据库和中间件，所…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">[深圳 - 南山] [腾讯] Golang 高级开发工程师</summary>
@@ -307,6 +355,17 @@ https://github.com/tal-tech/go-zero
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://www.oschina.net/news/rss">OSCHINA 社区最新新闻</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Linux 基金会与微软等共同成立绿色软件基金会，将可持续性作为软件工程的核心</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.oschina.net/news/143212/greensoftware-foundation">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>当我们思考软件行业的未来时，我们相信我们有责任帮助建立一个更美好的未来——一个更可持续的未来——在我们的组织内部和与全球的行业领袖合作。鉴于全球数据中心占全球电力需求的 1%，而且预计未来 10 年将消耗 3-8%的电力，我们必须把这作为一个行业来解决。 为了帮助实现这一目标，我们激动地宣布成立绿色软件基金会...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">为什么众筹对开源有效</summary>
@@ -4630,7 +4689,7 @@ type Test struct {
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-05-26T07:37:50.112Z">2021-05-26T07:37:50.112Z</time>
+    <time id="build-timestamp" datetime="2021-05-26T08:26:00.758Z">2021-05-26T08:26:00.758Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.9.0</a></span>
   </footer>
   <script src="index.js"></script>
