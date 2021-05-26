@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T15:15:03.253Z</updated>
+    <updated>2021-05-26T16:37:34.895Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a GraphQL API Using Laravel]]></title>
+        <id>60abc59d11ffb70827ef6304</id>
+        <link href="https://www.freecodecamp.org/news/build-a-graphql-api-using-laravel/"/>
+        <updated>2021-05-26T16:34:32.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll walk you through how to set up your own GraphQL API using PHP and Laravel. Two years ago, I started working professionally as a backend developer. And I was very intimidated by all the technology I didn't yet know. Words like Docker, Kubernetes, and GraphQL seemed]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日文章精选 2021 05 26]]></title>
         <id>http://www.linuxeden.com/?p=85796</id>
