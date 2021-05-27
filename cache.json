@@ -756,6 +756,15 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=85820",
+          "author": "Editor, Kai",
+          "description": "apache-fineract-1.5.0-binary.tar.gz        2021-05-25 01:05  188M apache-fineract-1.5.0-binary.tar.gz.asc    2021-05-25  […]",
+          "link": "http://www.linuxeden.com/a/85820",
+          "publishedOn": "2021-05-27T14:06:29.000Z",
+          "wordCount": 116,
+          "title": "Apache Fineract 1.5.0 发布 ，用于金融服务的开源软件"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=85817",
           "author": "Editor, Kai",
           "description": "Linuxeden开源社区-开源美图 2021 05 27",
