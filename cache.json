@@ -281,6 +281,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12129",
+          "author": "bugme",
+          "description": "Go 基准测试 https://gocn.vip/topics/12126\n\nGo 指针 https://sher-chowdhury.medium.com/pointers-in-go-507ec33446b0\n\nGo 自定义 http 错误 https://dev.to/clavinjune/my-custom-http-error-in-golang-5ab\n\nGo 语言 JSON 使用技巧 https://www.liwenzhou.com/posts/Go/json_tricks_in_go\n\nGo 简单快速模板引擎 https://github.com/valyala/fasttemplate\n\n\n\n\n编辑: bugme\n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12129",
+          "publishedOn": "2021-05-27T10:10:50.000Z",
+          "wordCount": 102,
+          "title": "GoCN 每日新闻 (2021-05-27)"
+        },
+        {
           "id": "https://gocn.vip/topics/12128",
           "author": "Fintech",
           "description": "大家好，我是 FinTech 社区的 Stella, FinTech 是一个拥有 5 万＋会员的高品质金融科技社区。目前我们有 Golang／C++／机器学习等 8 大社群，欢迎添加微信 fintech89，加入 Golang 群，加入社群，攒人脉，提认知！\n目前以下＃Golang－深圳/上海/远程＃岗位热招中！\n\n微信：fintech89 邮箱：sztech@fintechgl.co\n更多关于行业求职介绍，点击视频：程序员不用 996，如果加入金融科技行业？\nhttps://mp.weixin.qq.com/s/Mh5RL0BuYru9FuC1KmyAjQ",
