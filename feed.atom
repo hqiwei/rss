@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T06:39:20.732Z</updated>
+    <updated>2021-05-27T07:47:08.941Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeepL 发布 iPhone 客户端，可能是最好的在线翻译工具]]></title>
+        <id>https://www.appinn.com/?p=38921</id>
+        <link href="https://www.appinn.com/deepl-for-iphone-and-ipad/"/>
+        <updated>2021-05-27T07:11:17.000Z</updated>
+        <summary type="html"><![CDATA[DeepL 是一款基于神经网络技术的在线翻译工具，「翻译质量好到不需要人工校对」，支持包括中文在内的总计 26 种语言，500 多种语言组合互相翻译，在拥有网页版本、Windows、macOS 客户端]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你参与开源吗？一起为「开源长廊」添砖加瓦吧！]]></title>
         <id>https://www.oschina.net/question/2720166_2322652</id>
