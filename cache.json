@@ -1625,6 +1625,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/question/2720166_2322652",
+          "author": null,
+          "description": "GOTC 「开源长廊」公开征集开源厂商、开源/技术社区 ！",
+          "link": "https://www.oschina.net/question/2720166_2322652",
+          "publishedOn": "2021-05-27T01:07:44.000Z",
+          "wordCount": 221,
+          "title": "你参与开源吗？一起为「开源长廊」添砖加瓦吧！"
+        },
+        {
           "id": "https://my.oschina.net/u/4489239/blog/5060017",
           "author": null,
           "description": "1997 年出生的 Swoole 核心贡献者和 PHP 内核贡献者是代码狂人，影迷、科幻迷、FPS 游戏爱好者；初恋也超拽——PHP 语言是我的初恋，没有她就没有今天的我",
@@ -1677,6 +1686,15 @@
           "publishedOn": "2021-05-27T00:19:01.000Z",
           "wordCount": 697,
           "title": "每日一博 | Flutter 混合开发基础"
+        },
+        {
+          "id": "https://www.oschina.net/news/143292/nginx-1-20-1-n-1-21-0-released",
+          "author": null,
+          "description": "nginx 1.20.1 稳定版和 1.21.0 主线版已发布。这两个版本均修复了一个高危的安全漏洞——1-byte memory overwrite。此漏洞存在于 nginx 的 DNS 解析模块，并且仅在配置文件中使用\"resolver\"指令时才会影响 nginx。攻击者可以利用该漏洞进行远程 DDoS 攻击，甚至远程执行。 漏洞简介 1-byte memory overwrite in resolve...",
+          "link": "https://www.oschina.net/news/143292/nginx-1-20-1-n-1-21-0-released",
+          "publishedOn": "2021-05-27T00:14:05.000Z",
+          "wordCount": 518,
+          "title": "nginx 1.20.1 稳定版和 1.21.0 主线版发布，修复高危安全漏洞"
         },
         {
           "id": "https://www.oschina.net/news/143290/apache-apisix-2-6-0-released",
@@ -2836,6 +2854,15 @@
           "publishedOn": "2021-05-26T16:35:12.000Z",
           "wordCount": 560,
           "title": "Windows 网络修复工具 Complete Internet Repair 8.1.3.5260 中文版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=1954",
+          "author": "大眼仔~旭",
+          "description": "Windows 高级进程监视工具 Process Monitor 中文版由大眼仔旭（www.dayanzai. […]",
+          "link": "http://www.dayanzai.me/process-monitor.html",
+          "publishedOn": "2021-05-26T16:34:15.000Z",
+          "wordCount": 525,
+          "title": "Windows 高级进程监视工具 Process Monitor 3.81 + x64 中文免费版"
         },
         {
           "id": "http://www.dayanzai.me/?p=3569",
