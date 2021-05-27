@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T14:32:12.505Z</updated>
+    <updated>2021-05-27T15:21:58.976Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀]]></title>
+        <id>60a325c6906c5207e3a7da25</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-a-basketball-in-unity-with-materials-and-textures/"/>
+        <updated>2021-05-27T15:16:34.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll teach you how to make a basketball using materials and textures in Unity. You can extend this micro-concept to create any kind of ball like a football, tennis ball, or snooker balls.  That said, these techniques aren't just limited to creating round 3D objects like balls.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么是 Java 的无服务器化？]]></title>
+        <id>http://www.linuxeden.com/?p=85833</id>
+        <link href="http://www.linuxeden.com/a/85833"/>
+        <updated>2021-05-27T14:54:07.000Z</updated>
+        <summary type="html"><![CDATA[Java 仍是开发企业应用程序最流行的语言之一。那么，为什么无服务器serverless开发人员对它望而却步？ 几十年来，企业已经在各类平台上开发了关键业务应用程序，包括物理服务器、虚拟机和云环境。这些应用程序在各行各业都有一个共同点，那就 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sailfish OS 4.1终于拥抱64位 Android10应用支持API等级]]></title>
+        <id>http://www.linuxeden.com/?p=85826</id>
+        <link href="http://www.linuxeden.com/a/85826"/>
+        <updated>2021-05-27T14:44:32.000Z</updated>
+        <summary type="html"><![CDATA[当其他移动操作系统多年来一直采用64位软件堆栈，并在逐步淘汰32位应用支持的过程中，Jolla正在庆祝Sailfish 4.1终于标志着他们第一个完全64位的Sailfish OS软件堆栈的到来，但它目前只可用于索尼Xperia 10 II […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apache Fineract 1.5.0 发布 ，用于金融服务的开源软件]]></title>
         <id>http://www.linuxeden.com/?p=85820</id>
