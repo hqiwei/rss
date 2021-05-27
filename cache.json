@@ -281,6 +281,24 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12128",
+          "author": "Fintech",
+          "description": "大家好，我是 FinTech 社区的 Stella, FinTech 是一个拥有 5 万＋会员的高品质金融科技社区。目前我们有 Golang／C++／机器学习等 8 大社群，欢迎添加微信 fintech89，加入 Golang 群，加入社群，攒人脉，提认知！\n目前以下＃Golang－深圳/上海/远程＃岗位热招中！\n\n微信：fintech89 邮箱：sztech@fintechgl.co\n更多关于行业求职介绍，点击视频：程序员不用 996，如果加入金融科技行业？\nhttps://mp.weixin.qq.com/s/Mh5RL0BuYru9FuC1KmyAjQ",
+          "link": "https://gocn.vip/topics/12128",
+          "publishedOn": "2021-05-27T07:50:32.000Z",
+          "wordCount": 106,
+          "title": "＃上海、深圳、远程办公 # 多家公司请 Golang 开发人才!"
+        },
+        {
+          "id": "https://gocn.vip/topics/12127",
+          "author": "Fintech",
+          "description": "大家好，我是 FinTech 社区的 Stella, FinTech 是一个拥有 5 万＋会员的高品质金融科技社区。目前我们有 Golang／C++／机器学习等 8 大社群，欢迎添加微信 fintech89，加入 Golang 群，加入社群，攒人脉，提认知！\n目前以下＃Golang－深圳/上海/远程＃岗位热招中！\n\n微信：fintech89\n邮箱：sztech@fintechgl.co\n更多关于行业求职介绍，点击视频：程序员不用 996，如果加入金融科技行业？ \nhttps://mp.weixin.qq.com/s/Mh5RL0BuYru9FuC1KmyAjQ",
+          "link": "https://gocn.vip/topics/12127",
+          "publishedOn": "2021-05-27T07:47:59.000Z",
+          "wordCount": 97,
+          "title": "＃上海、深圳、远程办公 # 多家公司请 Golang 开发人才!"
+        },
+        {
           "id": "https://gocn.vip/topics/12126",
           "author": "yudotyang",
           "description": "1. 基准测试\n三思而后行（Measure twice and cut once）\n在我们试图改进程序性能之前，我们首先要知道程序的当前性能。\n本节主要关注使用 Go testing 包如何构建有用的基准测试，并且给出一些最佳实践避免踩坑。\n1.1 基准测试基本原则\n在进行基准测试之前，你必须要有一个稳定的环境以得到可重复的输出结果。\n机器必须是空闲状态 -- 不能在共享的硬件上采集数据，当长时间运行基准测试时不能浏览网页等\n机器是否关闭了节能模式。一般笔记本电脑上会默认开启该模式。\n避免使用虚拟机和云主机。一般情况下，为了尽可能地提高资源的利用率，虚拟机和云主机 CPU 和内存一般会超分配，超分机器的性能表现会非常地不稳定。\n如果负担得起，请购买专用的性能测试硬件。 机架安装，禁用所有电源管理和热量缩放功能，并且永远不要在这些计算机上更新软件。 最后一点是从系统管理的角度来看糟糕的建议，但是如果软件更新改变了内核或库的执行方式 - 想想 Spectre 补丁 - 这将使以前的任何基准测试结果无效。\n对于其他的原则，请进行前后采样，然后多次运行以获取一致的结果。\n1.2  使用 testing 包构建基准测试\ntesting 包中已经内置了基准测试的功能。如果我们有一个如下简单的函数：\nfunc Fib3(n int) int {\n    switch n {\n    case 0:\n        return 0\n    case 1:\n        return 1\n    case 2:\n        return 1\n    default:\n        return Fib(n-1) + Fib(n-2)\n    }\n}\n\n我们可以通过 testing 包来写基准测试，基准测试的代码如下：\nfunc BenchmarkFib20(b *testing.B…",
