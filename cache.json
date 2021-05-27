@@ -1715,6 +1715,24 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/143461/curl-7-77-0-released",
+          "author": null,
+          "description": "cURL 7.77.0 现已发布。这是该软件的第 200 次版本发布，因此官方也将 7.77.0 版本命名为 200 OK。 “它恰好与我们超过 900 个提交者和超过 2400 个项目的贡献者相吻合。这也是有史以来第一个我们在 RELEASE-NOTES 中感谢 80 多人帮助我们发布的版本，并且我们 在bug-bounty 计划中创造了两个新的记录：对一个 bug 的最大...",
+          "link": "https://www.oschina.net/news/143461/curl-7-77-0-released",
+          "publishedOn": "2021-05-27T23:16:56.000Z",
+          "wordCount": 708,
+          "title": "cURL 7.77.0 发布，200 OK"
+        },
+        {
+          "id": "https://www.oschina.net/news/143453/metersphere-1-10-0-released",
+          "author": null,
+          "description": "5月27日，MeterSphere一站式开源持续测试平台正式发布v1.10.0版本。 在这一版本中，我们重点优化了平台的相关管理功能，包括提供全局的操作、变更记录功能，重构了用户权限体系，支持自定义用户权限及项目级的权限控制等。 除此之外，v1.10.0版本也对各个模块的具体功能进行了大量优化，包括测试跟踪提交缺陷到其他平台时...",
+          "link": "https://www.oschina.net/news/143453/metersphere-1-10-0-released",
+          "publishedOn": "2021-05-27T16:12:53.000Z",
+          "wordCount": 543,
+          "title": "支持自定义权限及项目级别权限配置，MeterSphere 开源持续测试平台 v1.10.0 发布"
+        },
+        {
           "id": "https://www.oschina.net/question/2720166_2322652",
           "author": null,
           "description": "GOTC 「开源长廊」公开征集开源厂商、开源/技术社区 ！",
