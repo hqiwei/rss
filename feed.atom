@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T15:21:58.976Z</updated>
+    <updated>2021-05-27T16:48:50.078Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 05 27]]></title>
+        <id>http://www.linuxeden.com/?p=85838</id>
+        <link href="http://www.linuxeden.com/a/85838"/>
+        <updated>2021-05-27T15:22:56.000Z</updated>
+        <summary type="html"><![CDATA[什么是 Java 的无服务器化？ Sailfish OS 4.1终于拥抱64位 Android10应用支持API等级 Apache Fineract 1.5.0 发布 ，用于金融服务的开源软件 用开源软件保护你的文件的 5 种方法 【湖南大 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀]]></title>
         <id>60a325c6906c5207e3a7da25</id>
