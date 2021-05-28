@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T03:30:12.967Z</updated>
+    <updated>2021-05-28T05:28:16.957Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[When The Last Time – 我上次做这事情是什么时候？我有多久没有处理这件事情呢？]]></title>
+        <id>https://www.appinn.com/?p=38925</id>
+        <link href="https://www.appinn.com/when-the-last-time-for-iphone/"/>
+        <updated>2021-05-28T04:27:43.000Z</updated>
+        <summary type="html"><![CDATA[When The Last Time 是一款帮你追踪并记录重复发生事情的 iPhone 应用，并提示下一次处理的时间。解决这样的问题：我上次做这事情是什么时候？我有多久没有处理这件事情呢？@Appin]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[灵活的 Go http client 库-Sling]]></title>
+        <id>https://gocn.vip/topics/12130</id>
+        <link href="https://gocn.vip/topics/12130"/>
+        <updated>2021-05-28T04:12:29.000Z</updated>
+        <summary type="html"><![CDATA[推荐理由
+项目开发中，发送 http 请求的场景，推荐使用 Sling 库。Sling 本身是基于 net/http 来处理发送请求，同时做了较好的封装，既可以利用 net/http 的一些特性（如：httptrace)，同时又不必关心 net/http 库的一些琐碎细节。
+功能介绍
+Sling 支持以下主要的功能：
+支持 GET/POST/PUT/PATCH/DELETE/HEAD
+基于 Base/Path 可以扩展和复用 Sling
+query 参数可以用结构体来 Encode
+Request Body 支持 form 和 json
+可将 Json 格式的 Response 直接 Decode 到定义好的结构体
+可扩展 Response 的 Decoder，以及 Doer。
+使用指南
+Sling 对 http 请求的要素 method、baseUrl、Path、query、body、request、response 等做了封装，基本使用可以参考https://github.com/dghubble/sling 上的示例代码。
+
+
+可以通过实现 ResponseDecoder 和 Doer 的接口，来定制响应的 decoder 和发送请求的具体实现。
+
+
+利用 Sling 灵活扩展的特性提高业务代码复用，可以参考下面的示例：
+
+
+const baseURL = "https://api.github.com/"
+
+// Github Issue (abbreviated)
+type Issue struct {
+    Title  string `json:"title"`
+    Body   string `json:"body"`
+}
+
+type IssueService struct {
+    sling *sling.Sling
+}
+
+func NewIssueService(httpClient *http.Client) *IssueService {
+    return &IssueService{
+        sling: sling.New().Client(httpClient).Base(baseURL),
+    }
+}
+
+func (s *IssueService) ListByRepo(owner, repo string, params *IssueListParams) ([]Issue, *http.Response, error) {
+    issues := new([]Issue)
+    githubError := new(GithubError)
+    path := fmt.Sprintf("repos/%s/%s/issues", owner, repo)
+    // 注意此处一定要调用New方法来clone一个sling实例
+    resp, err := s.sling.New().Get(path).QueryStruct(params).Receive(issues, githubError)
+    if err == nil {
+        err = githubError
+    }
+    return *issues, resp, err
+}
+
+总结
+Sling 的默认实现可以覆盖大部分对于 http 发送请求场景，同时可以通过实现 Doer 和 ResponseDecoder 接口来扩展个性化的场景。
+参考资料
+https://github.com/dghubble/sling]]></summary>
+        <author>
+            <name>wentao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 软件包管理器 1.0 正式发布]]></title>
         <id>https://www.oschina.net/news/143478/windows-package-manager-1-0-ga</id>

@@ -308,6 +308,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12130",
+          "author": "wentao",
+          "description": "推荐理由\n项目开发中，发送 http 请求的场景，推荐使用 Sling 库。Sling 本身是基于 net/http 来处理发送请求，同时做了较好的封装，既可以利用 net/http 的一些特性（如：httptrace)，同时又不必关心 net/http 库的一些琐碎细节。\n功能介绍\nSling 支持以下主要的功能：\n支持 GET/POST/PUT/PATCH/DELETE/HEAD\n基于 Base/Path 可以扩展和复用 Sling\nquery 参数可以用结构体来 Encode\nRequest Body 支持 form 和 json\n可将 Json 格式的 Response 直接 Decode 到定义好的结构体\n可扩展 Response 的 Decoder，以及 Doer。\n使用指南\nSling 对 http 请求的要素 method、baseUrl、Path、query、body、request、response 等做了封装，基本使用可以参考https://github.com/dghubble/sling 上的示例代码。\n\n\n可以通过实现 ResponseDecoder 和 Doer 的接口，来定制响应的 decoder 和发送请求的具体实现。\n\n\n利用 Sling 灵活扩展的特性提高业务代码复用，可以参考下面的示例：\n\n\nconst baseURL = \"https://api.github.com/\"\n\n// Github Issue (abbreviated)\ntype Issue struct {\n    Title  string `json:\"title\"`\n    Body   string `json:\"body\"`\n}\n\ntype IssueService struct {\n    sling *sling.Sling\n}\n\nfunc NewIssueService(httpClient *http.Client) *IssueService {\n    return &IssueService{\n        sling: sling.New().Client(httpClient).Base(baseURL),\n    }\n}\n\nfunc (s *IssueService) ListByRepo(owner, repo string, params *IssueListParams) ([]Issue, *http.Response, error) {\n    issues := new([]Issue)\n    githubError := new(GithubError)\n    path := fmt.Sprintf(\"repos/%s/%s/issues\", owner, repo)\n    // 注意此处一定要调用New方法来clone一个sling实例\n    resp, err := s.sling.New().Get(path).QueryStruct(params).Receive(issues, githubError)\n    if err == nil {\n        err = githubError\n    }\n    return *issues, resp, err\n}\n\n总结\nSling 的默认实现可以覆盖大部分对于 http 发送请求场景，同时可以通过实现 Doer 和 ResponseDecoder 接口来扩展个性化的场景。\n参考资料\nhttps://github.com/dghubble/sling",
+          "link": "https://gocn.vip/topics/12130",
+          "publishedOn": "2021-05-28T04:12:29.000Z",
+          "wordCount": 230,
+          "title": "灵活的 Go http client 库-Sling"
+        },
+        {
           "id": "https://gocn.vip/topics/12129",
           "author": "bugme",
           "description": "Go 基准测试 https://gocn.vip/topics/12126\n\nGo 指针 https://sher-chowdhury.medium.com/pointers-in-go-507ec33446b0\n\nGo 自定义 http 错误 https://dev.to/clavinjune/my-custom-http-error-in-golang-5ab\n\nGo 语言 JSON 使用技巧 https://www.liwenzhou.com/posts/Go/json_tricks_in_go\n\nGo 简单快速模板引擎 https://github.com/valyala/fasttemplate\n\n\n\n\n编辑: bugme\n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
@@ -1599,6 +1608,15 @@
       "feedUrl": "http://feed.appinn.com",
       "siteUrl": "https://www.appinn.com",
       "articles": [
+        {
+          "id": "https://www.appinn.com/?p=38925",
+          "author": "青小蛙",
+          "description": "When The Last Time 是一款帮你追踪并记录重复发生事情的 iPhone 应用，并提示下一次处理的时间。解决这样的问题：我上次做这事情是什么时候？我有多久没有处理这件事情呢？@Appin",
+          "link": "https://www.appinn.com/when-the-last-time-for-iphone/",
+          "publishedOn": "2021-05-28T04:27:43.000Z",
+          "wordCount": 1156,
+          "title": "When The Last Time – 我上次做这事情是什么时候？我有多久没有处理这件事情呢？"
+        },
         {
           "id": "https://www.appinn.com/?p=38921",
           "author": "青小蛙",
