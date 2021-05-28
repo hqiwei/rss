@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60b0de2211ffb70827ef8d7c",
+          "author": null,
+          "description": "Computer vision is being used in more and more applications.  We just released a full course on the freeCodeCamp.org YouTube channel that will help you learn advanced computer vision using Python. You will learn state of the art computer vision techniques by building five projects with libraries such as",
+          "link": "https://www.freecodecamp.org/news/advanced-computer-vision-with-python/",
+          "publishedOn": "2021-05-28T12:26:38.000Z",
+          "wordCount": 368,
+          "title": "Advanced Computer Vision with Python"
+        },
+        {
           "id": "60af931811ffb70827ef85d3",
           "author": null,
           "description": "When you training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating",
