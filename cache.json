@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60acf28e11ffb70827ef6dd9",
+          "author": null,
+          "description": "Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up making $100,000 a year as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary,",
+          "link": "https://www.freecodecamp.org/news/my-developer-journey-how-i-went-from-1000-a-year-to-100000-as-a-dev/",
+          "publishedOn": "2021-05-28T22:58:18.000Z",
+          "wordCount": 2775,
+          "title": "My Developer Journey – How I Went from Making $1,000 to $100,000 a Year"
+        },
+        {
           "id": "60b08d8811ffb70827ef8c7b",
           "author": null,
           "description": "If you've been following the news lately, you may have noticed a worrisome tech trend. The frequency and severity of cybersecurity attacks are exploding.  We've seen news of a sprawling hack involving the SolarWinds management platform. That attack may have compromised the systems of over 18,000 SolarWinds customers.  Then,",
@@ -1885,6 +1894,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/143606/firefox-support-mv3",
+          "author": null,
+          "description": "Mozilla 发文表示，Firefox 将实现 Google Chrome 的 Manifest V3 扩展规范，以保持兼容性，支持跨浏览器开发。 Manifest V3 扩展规范 由 Google 提出，旨在增强 Chrome 浏览器的安全、隐私和性能，其内容包括不再允许远程托管的代码、使用新的 declarativeNetRequest API 处理网络请求修改、一个扩展只能执行包含在其包...",
+          "link": "https://www.oschina.net/news/143606/firefox-support-mv3",
+          "publishedOn": "2021-05-28T23:13:00.000Z",
+          "wordCount": 494,
+          "title": "Firefox 将支持 Manifest V3 扩展规范"
+        },
         {
           "id": "https://www.oschina.net/news/143514/tecent-csig",
           "author": null,

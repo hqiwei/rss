@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T22:21:44.514Z</updated>
+    <updated>2021-05-28T23:26:13.250Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Firefox 将支持 Manifest V3 扩展规范]]></title>
+        <id>https://www.oschina.net/news/143606/firefox-support-mv3</id>
+        <link href="https://www.oschina.net/news/143606/firefox-support-mv3"/>
+        <updated>2021-05-28T23:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla 发文表示，Firefox 将实现 Google Chrome 的 Manifest V3 扩展规范，以保持兼容性，支持跨浏览器开发。 Manifest V3 扩展规范 由 Google 提出，旨在增强 Chrome 浏览器的安全、隐私和性能，其内容包括不再允许远程托管的代码、使用新的 declarativeNetRequest API 处理网络请求修改、一个扩展只能执行包含在其包...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Developer Journey – How I Went from Making $1,000 to $100,000 a Year]]></title>
+        <id>60acf28e11ffb70827ef6dd9</id>
+        <link href="https://www.freecodecamp.org/news/my-developer-journey-how-i-went-from-1000-a-year-to-100000-as-a-dev/"/>
+        <updated>2021-05-28T22:58:18.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up making $100,000 a year as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Secure Your Android App – Four Security Best Practices Every Android Dev Should Know]]></title>
         <id>60b08d8811ffb70827ef8c7b</id>
