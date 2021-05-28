@@ -828,6 +828,51 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=85870",
+          "author": "Editor, Kai",
+          "description": "优麒麟 20.04 LTS Pro 0528更新：多项细节优化，体验升级 Linux 5.14将为英特尔独立显卡带来重新设计的用户空间API 3 个到今天仍然有用的 Python 3.2 特性 Comcast 用户在下载 Ubuntu 之后 […]",
+          "link": "http://www.linuxeden.com/a/85870",
+          "publishedOn": "2021-05-28T15:07:06.000Z",
+          "wordCount": 123,
+          "title": "每日文章精选 2021 05 28"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85865",
+          "author": "Editor, Kai",
+          "description": "自优麒麟 20.04 LTS Pro 发布后，官方一直积极从各个渠道汇总大家的反馈建议，并针对存在的问题进行记录和处理。对于系统使用过程中遇到的任何问题或者建议，欢迎大家通过系统中用户反馈程序、微信交流群、QQ交流群、官方邮箱、优麒麟社区论 […]",
+          "link": "http://www.linuxeden.com/a/85865",
+          "publishedOn": "2021-05-28T14:58:47.000Z",
+          "wordCount": 150,
+          "title": "优麒麟 20.04 LTS Pro 0528更新：多项细节优化，体验升级"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85861",
+          "author": "Editor, Kai",
+          "description": "今年夏天的Linux 5.14内核将为英特尔的DG1显卡和他们未来的独立显卡产品带来一个重新设计的用户空间API（User-Space API）。对英特尔内核图形驱动的的这一改变，目前被标记为 “broken”，直到 […]",
+          "link": "http://www.linuxeden.com/a/85861",
+          "publishedOn": "2021-05-28T14:57:58.000Z",
+          "wordCount": 107,
+          "title": "Linux 5.14将为英特尔独立显卡带来重新设计的用户空间API"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85859",
+          "author": "Editor, Kai",
+          "description": "探索一些未被充分利用但仍然有用的 Python 特性。 这是Python 3.x 首发特性系列文章中的第三篇。其中一些 Python 版本已经推出了一段时间。例如，Python 3.2 是在 2011 年首次发布的，但其中引入的一些很酷、很 […]",
+          "link": "http://www.linuxeden.com/a/85859",
+          "publishedOn": "2021-05-28T14:54:46.000Z",
+          "wordCount": 346,
+          "title": "3 个到今天仍然有用的 Python 3.2 特性"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85856",
+          "author": "Editor, Kai",
+          "description": "美国电信公司 Comcast 的一位用户在 Reddit/linux 频道上透露，他通过 BT 下载了 Ubuntu 的 ISO 镜像之后收到 DMCA 侵权通知。在 DMCA 通知中，反盗版组织列举的侵权文件的哈希值为 4ba4fbf72 […]",
+          "link": "http://www.linuxeden.com/a/85856",
+          "publishedOn": "2021-05-28T14:52:22.000Z",
+          "wordCount": 129,
+          "title": "Comcast 用户在下载 Ubuntu 之后收到 DMCA 侵权通知"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=85853",
           "author": "Editor, Kai",
           "description": "Linuxeden开源社区-开源美图 2021 05 28",
