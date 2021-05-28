@@ -265,6 +265,15 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html",
+          "publishedOn": "2021-05-28T00:20:22.000Z",
+          "wordCount": 434,
+          "title": "科技爱好者周刊（第 160 期）：中年码农的困境"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n重庆市很多山地，地形复杂，产生了特有的奇观：被高架道路团团围住的楼盘。（via）\n本周话题：游戏开发者的年薪\n最近，推特上面有很多欧美的游戏开发者，晒自己的薪水，使用 #GameDevPaidMe 这个标签就能看到，从中可以了解国外程序员的收入。\n下面是一个美国开发者的发言。\n\n他有超过十年的开发经验，年薪是20多万美元。这还是在西雅图，如果在湾区，工资可能还会再高一些。这跟我听说的差不多，美国高级程序员的年薪，一般都会超过20万美元（约130万人民币）。\n我没想到的是，欧洲程序员的年薪，比美国少非常多。\n\n上面这个英国开发者，作为高级程序员，年薪居然才4万英镑（约36万人民币）。他入行时，更是少到1.5万英镑（约14万人民币）。欧洲其他国家的情况也差不多，年薪也就几万欧元，如果是东欧国家（比如波兰），薪水就更低了。\n这就是令我吃惊的地方， 西欧国家的人均 GDP 远高…",
@@ -773,6 +782,60 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=85853",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 05 28",
+          "link": "http://www.linuxeden.com/a/85853",
+          "publishedOn": "2021-05-28T00:30:36.000Z",
+          "wordCount": 86,
+          "title": "开源美图 2021 05 28"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85851",
+          "author": "Editor, Kai",
+          "description": "探索一些未被充分利用但仍然有用的 Python 特性。 这是 Python 3.x 首发特性系列文章的第二篇。Python 3.1 于 2009 年首次发布，尽管它已经发布了很长时间，但它引入的许多特性都没有被充分利用，而且相当酷。下面是其 […]",
+          "link": "http://www.linuxeden.com/a/85851",
+          "publishedOn": "2021-05-28T00:26:27.000Z",
+          "wordCount": 254,
+          "title": "3 个值得使用的在 Python 3.1 中发布的特性"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85848",
+          "author": "Editor, Kai",
+          "description": "ScummVM 是在现代硬件上玩老式视频游戏的最直接的方法之一。 玩冒险游戏一直是我使用计算机经验的一个重要部分。从最早的基于文本的冒险游戏到 2D 像素艺术、全动态视频和 3D 游戏，冒险游戏类型为我提供了很多美好的回忆。 有时我想重温那 […]",
+          "link": "http://www.linuxeden.com/a/85848",
+          "publishedOn": "2021-05-28T00:23:52.000Z",
+          "wordCount": 293,
+          "title": "用这个开源项目在 Linux 上玩复古视频游戏"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85844",
+          "author": "Editor, Kai",
+          "description": "Valve 正在开发类似 Switch 的便捷式 PC 游戏机，运行 Linux 系统，如果一切顺利有望在年底发售。Valve 已经在 Steam 的最新版本中加入硬件相关的代码。运营 Steam 数据库服务 SteamDB 的 Pavel […]",
+          "link": "http://www.linuxeden.com/a/85844",
+          "publishedOn": "2021-05-28T00:21:38.000Z",
+          "wordCount": 121,
+          "title": "Valve 开发运行 Linux 游戏的掌机"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85842",
+          "author": "Editor, Kai",
+          "description": "forms Commit Description 19d7bf4162 fix(forms): Add float number support for min and max validator (#42223) migrations C […]",
+          "link": "http://www.linuxeden.com/a/85842",
+          "publishedOn": "2021-05-28T00:15:40.000Z",
+          "wordCount": 152,
+          "title": "Angular 12.0.2发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85840",
+          "author": "Editor, Kai",
+          "description": "Complete changelog #17493 – Hibernate Validator – Work around Jandex issue in enclosingTarget() #17472 ̵ […]",
+          "link": "http://www.linuxeden.com/a/85840",
+          "publishedOn": "2021-05-28T00:10:34.000Z",
+          "wordCount": 120,
+          "title": "Quarkus 1.13.6.Final 发布"
+        },
         {
           "id": "http://www.linuxeden.com/?p=85838",
           "author": "Editor, Kai",
@@ -1714,6 +1777,105 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/143474/oceanbase-opensource-come-soon",
+          "author": null,
+          "description": "《新浪科技》独家获悉，蚂蚁集团自研数据库 OceanBase 将于近期开源代码，时间最早可锁定至6月1日。 以下是新浪科技的报道原文： 新浪科技讯 5月27日下午消息，蚂蚁集团自研数据库OceanBase将于近期开源代码，时间最早可锁定至6月1日。届时，广大数据库开发人员及相关从业者将可以通过OceanBase官网、GitHub等渠道下载体...",
+          "link": "https://www.oschina.net/news/143474/oceanbase-opensource-come-soon",
+          "publishedOn": "2021-05-28T00:31:16.000Z",
+          "wordCount": 491,
+          "title": "蚂蚁集团自研数据库 OceanBase 将开源"
+        },
+        {
+          "id": "https://www.oschina.net/news/143471/rider-2021-2-roadmap",
+          "author": null,
+          "description": "跨平台 .NET IDE Rider 近日公布了 2021.2 的路线图，介绍了目前正在开发的一些特性，并表示其中一些可能在接下来的版本中出现。其表示将很快发布 Rider 的第一个 EAP 版本。以下是其主要内容： Blazor Web Assembly（WASM）使开发人员能够直接在客户端（Web 浏览器）中运行 Blazor Web 应用程序，并具有本地性能。而最新...",
+          "link": "https://www.oschina.net/news/143471/rider-2021-2-roadmap",
+          "publishedOn": "2021-05-28T00:16:03.000Z",
+          "wordCount": 551,
+          "title": ".NET IDE Rider 公布 2021.2 路线图"
+        },
+        {
+          "id": "https://my.oschina.net/gitosc/blog/5059747",
+          "author": null,
+          "description": "所谓质量左移是指代码在测试之前，在编码阶段就已经介入了代码的质量检测，提前发现并修复代码问题，有效减少测试时间，提高研发效率，发现BUG越晚，修复的成本越大。",
+          "link": "https://my.oschina.net/gitosc/blog/5059747",
+          "publishedOn": "2021-05-28T00:10:55.000Z",
+          "wordCount": 329,
+          "title": "深度解读静态代码扫描，如何更低成本提升代码质量"
+        },
+        {
+          "id": "https://www.oschina.net/news/143469/state-of-serverless-2021",
+          "author": null,
+          "description": "Datadog 发布了一份 2021 年 Serverless 状态报告指出，从云原生初创公司到大型企业，Serverless 已经在各种规模的组织中流行。该报告研究了数千家公司运行的数百万个功能，以了解 Serverless 在现实世界中的应用情况。 报告指出，AWS Lambda 是最成熟、使用最广泛的 FaaS 产品；Azure Functions 和 Google Cloud Funct...",
+          "link": "https://www.oschina.net/news/143469/state-of-serverless-2021",
+          "publishedOn": "2021-05-28T00:09:30.000Z",
+          "wordCount": 636,
+          "title": "报告：Serverless 已成为许多软件堆栈的关键部分"
+        },
+        {
+          "id": "https://www.oschina.net/news/143468/microsoft-and-ibm-collaborate-on-openliberty-and-websphere",
+          "author": null,
+          "description": "IBM 和微软近日宣布推出联合开发的解决方案，用于在基于 Azure Linux 的虚拟机（VM）上运行 IBM 的 WebSphere Application Server（WAS）网络部署。 该解决方案针对传统的 WAS Java EE 应用服务器而设计（而不是低开销的 WebSphere Liberty），使企业能够在 Azure 上运行企业 Java 工作负载，同时让他们能够访问各种 Az...",
+          "link": "https://www.oschina.net/news/143468/microsoft-and-ibm-collaborate-on-openliberty-and-websphere",
+          "publishedOn": "2021-05-28T00:08:26.000Z",
+          "wordCount": 577,
+          "title": "微软和 IBM 在 Open Liberty 和 WebSphere 项目上展开合作"
+        },
+        {
+          "id": "https://www.oschina.net/p/py-key-board-fairy",
+          "author": null,
+          "description": "Python编写的简单版键盘精灵，可以替代你游戏中的卡键盘和鼠标宏。",
+          "link": "https://www.oschina.net/p/py-key-board-fairy",
+          "publishedOn": "2021-05-28T00:06:34.000Z",
+          "wordCount": 854,
+          "title": "PyKeyBoardFairy —— Python 编写的简单版键盘精灵"
+        },
+        {
+          "id": "https://my.oschina.net/u/3645114/blog/5060830",
+          "author": null,
+          "description": "笔者经过上次对 zgc 在不同环境下进行的测试后，发现 zgc 所带来的提升非常之大。但是在全面使用之前，难免对其几大新特性有一些好奇，比如：染色指针、读屏障、动态 region 以及支持 NUMA 等等。",
+          "link": "https://my.oschina.net/u/3645114/blog/5060830",
+          "publishedOn": "2021-05-28T00:02:36.000Z",
+          "wordCount": 2172,
+          "title": "每日一博 | 从源码出发看 ZGC 的技术内幕"
+        },
+        {
+          "id": "https://gitee.com/hubzyy/sketch-meaxure",
+          "author": null,
+          "description": "Sketch MeaXure 是使用 TypeScript 对Sketch Measure的重新实现，它使用 Sketch JavaScript API。",
+          "link": "https://gitee.com/hubzyy/sketch-meaxure",
+          "publishedOn": "2021-05-28T00:00:09.000Z",
+          "wordCount": 410,
+          "title": "Gitee 推荐 | 从 Sketch 导出静态 HTML 文件-Sketch MeaXure"
+        },
+        {
+          "id": "https://www.oschina.net/news/143464/unreal-engine-5-early-access",
+          "author": null,
+          "description": "虚幻引擎 5 的抢先体验版现已推出！ 发布公告称：“此版本尚未达到生产标准，但你可以通过它首次接触到一些在去年的公布演示中令你兴奋万分的技术——更不用说它还将包含一些你从未见过的技术。” 下面总结了如今已经可以公开测试的重要新功能。 Nanite Nanite是一个虚拟化微多边形几何体系统，你可以通过它创作具有海量...",
+          "link": "https://www.oschina.net/news/143464/unreal-engine-5-early-access",
+          "publishedOn": "2021-05-27T23:54:50.000Z",
+          "wordCount": 506,
+          "title": "虚幻引擎 (Unreal Engine) 5 发布抢先体验版"
+        },
+        {
+          "id": "https://www.oschina.net/news/143463/chrome-performance-up-23-percent",
+          "author": null,
+          "description": "Google 发文表示，通过新的 V8 JavaScript 编译器 Sparkplug 和 short builtins 机制，近日更新的 Chrome 91 获得了 23% 的性能提升。 首先，在 Chrome 浏览器中，V8 引擎负责 JavaScript 执行。其具有多个编译器，可以在执行 JavaScript 的各个阶段做出不同的取舍。三年前，Google 推出了一个两层编译器系统，由 Igniti...",
+          "link": "https://www.oschina.net/news/143463/chrome-performance-up-23-percent",
+          "publishedOn": "2021-05-27T23:49:30.000Z",
+          "wordCount": 555,
+          "title": "Google 表示 Chrome 91 性能提高了 23%"
+        },
+        {
+          "id": "https://www.oschina.net/news/143462/oracle-linux-8-4-released",
+          "author": null,
+          "description": "Oracle 已面向 64 位英特尔和 AMD(x86_64) 以及 64 位 Arm(aarch64) 平台发布了 Oracle Linux 8.4。 Oracle Linux 8.4 在安装镜像中使用的内核版本是 UEK R6 Update 2 和 RHCK。对于全新的安装，默认使用 UEK R6，并且是首次启动时的默认内核。UEK R6 是由 Oracle 开发、构建和测试的内核，它基于 Linux Kernel 5.4 mai...",
+          "link": "https://www.oschina.net/news/143462/oracle-linux-8-4-released",
+          "publishedOn": "2021-05-27T23:44:58.000Z",
+          "wordCount": 557,
+          "title": "Oracle Linux 8.4 发布"
+        },
         {
           "id": "https://www.oschina.net/news/143461/curl-7-77-0-released",
           "author": null,
@@ -2954,6 +3116,15 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=3544",
+          "author": "大眼仔~旭",
+          "description": "Cyberduck 中文版 免费开源的 FTP/SFTP 软件由大眼仔旭（www.dayanzai.me）发布 […]",
+          "link": "http://www.dayanzai.me/cyberduck.html",
+          "publishedOn": "2021-05-27T16:12:09.000Z",
+          "wordCount": 555,
+          "title": "免费开源的 FTP/SFTP 软件 Cyberduck 7.9.1.34974 中文多语免费版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=32486",
           "author": "大眼仔~旭",

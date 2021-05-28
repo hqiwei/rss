@@ -2,10 +2,190 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T23:21:15.523Z</updated>
+    <updated>2021-05-28T00:56:04.468Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[蚂蚁集团自研数据库 OceanBase 将开源]]></title>
+        <id>https://www.oschina.net/news/143474/oceanbase-opensource-come-soon</id>
+        <link href="https://www.oschina.net/news/143474/oceanbase-opensource-come-soon"/>
+        <updated>2021-05-28T00:31:16.000Z</updated>
+        <summary type="html"><![CDATA[《新浪科技》独家获悉，蚂蚁集团自研数据库 OceanBase 将于近期开源代码，时间最早可锁定至6月1日。 以下是新浪科技的报道原文： 新浪科技讯 5月27日下午消息，蚂蚁集团自研数据库OceanBase将于近期开源代码，时间最早可锁定至6月1日。届时，广大数据库开发人员及相关从业者将可以通过OceanBase官网、GitHub等渠道下载体...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 05 28]]></title>
+        <id>http://www.linuxeden.com/?p=85853</id>
+        <link href="http://www.linuxeden.com/a/85853"/>
+        <updated>2021-05-28T00:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 05 28]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 个值得使用的在 Python 3.1 中发布的特性]]></title>
+        <id>http://www.linuxeden.com/?p=85851</id>
+        <link href="http://www.linuxeden.com/a/85851"/>
+        <updated>2021-05-28T00:26:27.000Z</updated>
+        <summary type="html"><![CDATA[探索一些未被充分利用但仍然有用的 Python 特性。 这是 Python 3.x 首发特性系列文章的第二篇。Python 3.1 于 2009 年首次发布，尽管它已经发布了很长时间，但它引入的许多特性都没有被充分利用，而且相当酷。下面是其 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用这个开源项目在 Linux 上玩复古视频游戏]]></title>
+        <id>http://www.linuxeden.com/?p=85848</id>
+        <link href="http://www.linuxeden.com/a/85848"/>
+        <updated>2021-05-28T00:23:52.000Z</updated>
+        <summary type="html"><![CDATA[ScummVM 是在现代硬件上玩老式视频游戏的最直接的方法之一。 玩冒险游戏一直是我使用计算机经验的一个重要部分。从最早的基于文本的冒险游戏到 2D 像素艺术、全动态视频和 3D 游戏，冒险游戏类型为我提供了很多美好的回忆。 有时我想重温那 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valve 开发运行 Linux 游戏的掌机]]></title>
+        <id>http://www.linuxeden.com/?p=85844</id>
+        <link href="http://www.linuxeden.com/a/85844"/>
+        <updated>2021-05-28T00:21:38.000Z</updated>
+        <summary type="html"><![CDATA[Valve 正在开发类似 Switch 的便捷式 PC 游戏机，运行 Linux 系统，如果一切顺利有望在年底发售。Valve 已经在 Steam 的最新版本中加入硬件相关的代码。运营 Steam 数据库服务 SteamDB 的 Pavel […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 160 期）：中年码农的困境]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html"/>
+        <updated>2021-05-28T00:20:22.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET IDE Rider 公布 2021.2 路线图]]></title>
+        <id>https://www.oschina.net/news/143471/rider-2021-2-roadmap</id>
+        <link href="https://www.oschina.net/news/143471/rider-2021-2-roadmap"/>
+        <updated>2021-05-28T00:16:03.000Z</updated>
+        <summary type="html"><![CDATA[跨平台 .NET IDE Rider 近日公布了 2021.2 的路线图，介绍了目前正在开发的一些特性，并表示其中一些可能在接下来的版本中出现。其表示将很快发布 Rider 的第一个 EAP 版本。以下是其主要内容： Blazor Web Assembly（WASM）使开发人员能够直接在客户端（Web 浏览器）中运行 Blazor Web 应用程序，并具有本地性能。而最新...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular 12.0.2发布]]></title>
+        <id>http://www.linuxeden.com/?p=85842</id>
+        <link href="http://www.linuxeden.com/a/85842"/>
+        <updated>2021-05-28T00:15:40.000Z</updated>
+        <summary type="html"><![CDATA[forms Commit Description 19d7bf4162 fix(forms): Add float number support for min and max validator (#42223) migrations C […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深度解读静态代码扫描，如何更低成本提升代码质量]]></title>
+        <id>https://my.oschina.net/gitosc/blog/5059747</id>
+        <link href="https://my.oschina.net/gitosc/blog/5059747"/>
+        <updated>2021-05-28T00:10:55.000Z</updated>
+        <summary type="html"><![CDATA[所谓质量左移是指代码在测试之前，在编码阶段就已经介入了代码的质量检测，提前发现并修复代码问题，有效减少测试时间，提高研发效率，发现BUG越晚，修复的成本越大。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quarkus 1.13.6.Final 发布]]></title>
+        <id>http://www.linuxeden.com/?p=85840</id>
+        <link href="http://www.linuxeden.com/a/85840"/>
+        <updated>2021-05-28T00:10:34.000Z</updated>
+        <summary type="html"><![CDATA[Complete changelog #17493 – Hibernate Validator – Work around Jandex issue in enclosingTarget() #17472 ̵ […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[报告：Serverless 已成为许多软件堆栈的关键部分]]></title>
+        <id>https://www.oschina.net/news/143469/state-of-serverless-2021</id>
+        <link href="https://www.oschina.net/news/143469/state-of-serverless-2021"/>
+        <updated>2021-05-28T00:09:30.000Z</updated>
+        <summary type="html"><![CDATA[Datadog 发布了一份 2021 年 Serverless 状态报告指出，从云原生初创公司到大型企业，Serverless 已经在各种规模的组织中流行。该报告研究了数千家公司运行的数百万个功能，以了解 Serverless 在现实世界中的应用情况。 报告指出，AWS Lambda 是最成熟、使用最广泛的 FaaS 产品；Azure Functions 和 Google Cloud Funct...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软和 IBM 在 Open Liberty 和 WebSphere 项目上展开合作]]></title>
+        <id>https://www.oschina.net/news/143468/microsoft-and-ibm-collaborate-on-openliberty-and-websphere</id>
+        <link href="https://www.oschina.net/news/143468/microsoft-and-ibm-collaborate-on-openliberty-and-websphere"/>
+        <updated>2021-05-28T00:08:26.000Z</updated>
+        <summary type="html"><![CDATA[IBM 和微软近日宣布推出联合开发的解决方案，用于在基于 Azure Linux 的虚拟机（VM）上运行 IBM 的 WebSphere Application Server（WAS）网络部署。 该解决方案针对传统的 WAS Java EE 应用服务器而设计（而不是低开销的 WebSphere Liberty），使企业能够在 Azure 上运行企业 Java 工作负载，同时让他们能够访问各种 Az...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyKeyBoardFairy —— Python 编写的简单版键盘精灵]]></title>
+        <id>https://www.oschina.net/p/py-key-board-fairy</id>
+        <link href="https://www.oschina.net/p/py-key-board-fairy"/>
+        <updated>2021-05-28T00:06:34.000Z</updated>
+        <summary type="html"><![CDATA[Python编写的简单版键盘精灵，可以替代你游戏中的卡键盘和鼠标宏。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 从源码出发看 ZGC 的技术内幕]]></title>
+        <id>https://my.oschina.net/u/3645114/blog/5060830</id>
+        <link href="https://my.oschina.net/u/3645114/blog/5060830"/>
+        <updated>2021-05-28T00:02:36.000Z</updated>
+        <summary type="html"><![CDATA[笔者经过上次对 zgc 在不同环境下进行的测试后，发现 zgc 所带来的提升非常之大。但是在全面使用之前，难免对其几大新特性有一些好奇，比如：染色指针、读屏障、动态 region 以及支持 NUMA 等等。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitee 推荐 | 从 Sketch 导出静态 HTML 文件-Sketch MeaXure]]></title>
+        <id>https://gitee.com/hubzyy/sketch-meaxure</id>
+        <link href="https://gitee.com/hubzyy/sketch-meaxure"/>
+        <updated>2021-05-28T00:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Sketch MeaXure 是使用 TypeScript 对Sketch Measure的重新实现，它使用 Sketch JavaScript API。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[虚幻引擎 (Unreal Engine) 5 发布抢先体验版]]></title>
+        <id>https://www.oschina.net/news/143464/unreal-engine-5-early-access</id>
+        <link href="https://www.oschina.net/news/143464/unreal-engine-5-early-access"/>
+        <updated>2021-05-27T23:54:50.000Z</updated>
+        <summary type="html"><![CDATA[虚幻引擎 5 的抢先体验版现已推出！ 发布公告称：“此版本尚未达到生产标准，但你可以通过它首次接触到一些在去年的公布演示中令你兴奋万分的技术——更不用说它还将包含一些你从未见过的技术。” 下面总结了如今已经可以公开测试的重要新功能。 Nanite Nanite是一个虚拟化微多边形几何体系统，你可以通过它创作具有海量...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 表示 Chrome 91 性能提高了 23%]]></title>
+        <id>https://www.oschina.net/news/143463/chrome-performance-up-23-percent</id>
+        <link href="https://www.oschina.net/news/143463/chrome-performance-up-23-percent"/>
+        <updated>2021-05-27T23:49:30.000Z</updated>
+        <summary type="html"><![CDATA[Google 发文表示，通过新的 V8 JavaScript 编译器 Sparkplug 和 short builtins 机制，近日更新的 Chrome 91 获得了 23% 的性能提升。 首先，在 Chrome 浏览器中，V8 引擎负责 JavaScript 执行。其具有多个编译器，可以在执行 JavaScript 的各个阶段做出不同的取舍。三年前，Google 推出了一个两层编译器系统，由 Igniti...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle Linux 8.4 发布]]></title>
+        <id>https://www.oschina.net/news/143462/oracle-linux-8-4-released</id>
+        <link href="https://www.oschina.net/news/143462/oracle-linux-8-4-released"/>
+        <updated>2021-05-27T23:44:58.000Z</updated>
+        <summary type="html"><![CDATA[Oracle 已面向 64 位英特尔和 AMD(x86_64) 以及 64 位 Arm(aarch64) 平台发布了 Oracle Linux 8.4。 Oracle Linux 8.4 在安装镜像中使用的内核版本是 UEK R6 Update 2 和 RHCK。对于全新的安装，默认使用 UEK R6，并且是首次启动时的默认内核。UEK R6 是由 Oracle 开发、构建和测试的内核，它基于 Linux Kernel 5.4 mai...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[cURL 7.77.0 发布，200 OK]]></title>
         <id>https://www.oschina.net/news/143461/curl-7-77-0-released</id>
@@ -34,6 +214,16 @@
         <summary type="html"><![CDATA[5月27日，MeterSphere一站式开源持续测试平台正式发布v1.10.0版本。 在这一版本中，我们重点优化了平台的相关管理功能，包括提供全局的操作、变更记录功能，重构了用户权限体系，支持自定义用户权限及项目级的权限控制等。 除此之外，v1.10.0版本也对各个模块的具体功能进行了大量优化，包括测试跟踪提交缺陷到其他平台时...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免费开源的 FTP/SFTP 软件 Cyberduck 7.9.1.34974 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=3544</id>
+        <link href="http://www.dayanzai.me/cyberduck.html"/>
+        <updated>2021-05-27T16:12:09.000Z</updated>
+        <summary type="html"><![CDATA[Cyberduck 中文版 免费开源的 FTP/SFTP 软件由大眼仔旭（www.dayanzai.me）发布 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
