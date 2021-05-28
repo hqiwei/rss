@@ -1778,6 +1778,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/143478/windows-package-manager-1-0-ga",
+          "author": null,
+          "description": "微软在近日举办的 Build 2021 上宣布 Windows 软件包管理器 —— Windows Package Manager 1.0 正式推出。Windows 软件包管理器于去年的 Build 2020 宣布开源并发布了预览版。 Windows Package Manager 是一个综合的程序包管理器解决方案，由一个命令行工具和一组用于在 Windows 10 上安装应用程序的服务组成。winget 是...",
+          "link": "https://www.oschina.net/news/143478/windows-package-manager-1-0-ga",
+          "publishedOn": "2021-05-28T01:29:35.000Z",
+          "wordCount": 531,
+          "title": "Windows 软件包管理器 1.0 正式发布"
+        },
+        {
           "id": "https://www.oschina.net/news/143474/oceanbase-opensource-come-soon",
           "author": null,
           "description": "《新浪科技》独家获悉，蚂蚁集团自研数据库 OceanBase 将于近期开源代码，时间最早可锁定至6月1日。 以下是新浪科技的报道原文： 新浪科技讯 5月27日下午消息，蚂蚁集团自研数据库OceanBase将于近期开源代码，时间最早可锁定至6月1日。届时，广大数据库开发人员及相关从业者将可以通过OceanBase官网、GitHub等渠道下载体...",
@@ -3116,6 +3125,42 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=40060",
+          "author": "大眼仔~旭",
+          "description": "开源免费优秀播放器 Media Player Classic 中文版由大眼仔旭（www.dayanzai.me […]",
+          "link": "http://www.dayanzai.me/media-player-classic.html",
+          "publishedOn": "2021-05-27T16:37:38.000Z",
+          "wordCount": 738,
+          "title": "开源免费优秀播放器 Media Player Classic – Home Cinema 1.9.12 + x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=2199",
+          "author": "大眼仔~旭",
+          "description": "Screen To Gif 中文版 又一款超强开源免费的 Gif 录屏工具。前天小编（www.dayanzai […]",
+          "link": "http://www.dayanzai.me/screen-to-gif.html",
+          "publishedOn": "2021-05-27T16:32:42.000Z",
+          "wordCount": 621,
+          "title": "开源免费 Gif 录制工具 ScreenToGif 2.30.1 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=43344",
+          "author": "大眼仔~旭",
+          "description": "Opera 浏览器 Opera 中文版由大眼仔旭（www.dayanzai.me）整理发布。Opera 是一种 […]",
+          "link": "http://www.dayanzai.me/opera.html",
+          "publishedOn": "2021-05-27T16:29:09.000Z",
+          "wordCount": 569,
+          "title": "Opera 浏览器 Opera 76.0.4017.154 + x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=42612",
+          "author": "大眼仔~旭",
+          "description": "微软全新 Chromium 内核浏览器 Microsoft Edge 中文版由大眼仔旭（www.dayanza […]",
+          "link": "http://www.dayanzai.me/microsoft-edge.html",
+          "publishedOn": "2021-05-27T16:23:41.000Z",
+          "wordCount": 688,
+          "title": "微软全新 Chromium 内核浏览器 Microsoft Edge 91.0.864.37 + x64 中文企业版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=3544",
           "author": "大眼仔~旭",
