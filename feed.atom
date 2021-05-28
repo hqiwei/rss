@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T09:34:43.661Z</updated>
+    <updated>2021-05-28T10:40:59.259Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Go 高性能系列教程之二：性能评估和分析]]></title>
+        <id>https://gocn.vip/topics/12133</id>
+        <link href="https://gocn.vip/topics/12133"/>
+        <updated>2021-05-28T09:40:56.000Z</updated>
+        <summary type="html"><![CDATA[在上一节中，我们研究了对单个函数进行基准测试，这个的使用场景是在你已经提前知道瓶颈在哪里时很有用。
+但是，通常你会发现你并不知道性能瓶颈在哪里，你经常会问：
+程序为什么耗时这么久？
+对于上面的问题，我们需要对整个程序进行概要分析以找出程序的瓶颈在哪里。本节，我们讲使用 Go 的内置性能分析工具 pprof 从内部查看程序的整体运行情况。
+2.1 pprof
+今天我们要讨论的第一个工具是 pprof. pprof诞生自 Google Perf Tools 工具套件，并且已经集成到 Go 运行时环境中。
+pprof由两部分组成：
+runtime/pprof 运行时包。
+go tool pprof 工具。用于分析性能。
+2.2 性能类型
+pprof 支持以下类型的性能分析：
+CPU 性能分析
+内存性能分析
+阻塞性能分析
+互斥&竞争分析
+2.2.1 CPU 性能分析（CPU profiling）
+CPU 性能分析是最常用、最明确的性能分析。
+当 CPU 性能分析启用的时候，运行时环境会每 10 毫秒中断一次并记录下当前运行协程的堆栈跟踪信息。
+一旦性能分析完成，我们就可以分析并找出执行耗时最长的代码路径。一个函数在性能分析中出现的次数越多，则其所在的代码路径花费的时间就越长。
+2.2.2 内存性能分析（Memory profiling）
+内存性能分析记录了堆内存分配的调用栈信息。栈内存分配的耗时可以忽略不计，所以不计入到内存性能分析中。
+和 CPU 数据采集类似，内存数据采集默认是每分配 1000 次则采样一次。
+由于内存数据采集是基于采样的，并且由于它跟踪的是未使用的分配，因此该技术很难确定应用程序的整体内存使用情况。
+个人观点：我并没有发现内存分析对找到内存峰值有用。稍后我们将介绍一些较好的方式用来查看到应用程序整体使用内存情况。
+2.2.3 阻塞性能分析（Blocking p…]]></summary>
+        <author>
+            <name>yudotyang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暑期 2021 | Serverless Devs 最全项目申请攻略来啦！]]></title>
         <id>https://gocn.vip/topics/12132</id>
