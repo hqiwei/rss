@@ -335,6 +335,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12137",
+          "author": "cloudy",
+          "description": "GoCN 每日新闻 (2021-05-29)\ndubbo-go v3 版本 go module 踩坑记 https://gocn.vip/topics/12136\n\nGo 高性能系列教程：读懂 pprof 生成的报告 https://gocn.vip/topics/12134\n\nK8s 工作负载图表工具 https://github.com/Trois-Six/k8s-diagrams\n\n灵活的 Go http client 库-Sling https://mp.weixin.qq.com/s/liCnGt0-me4cv-1WAJSSBQ\n\ngo web client 单元测试实践 chttps://dev.to/chen/practical-unit-testing-web-client-in-go-1o2m\n编辑: cloudy\n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12137",
+          "publishedOn": "2021-05-29T07:24:31.000Z",
+          "wordCount": 108,
+          "title": "GoCN 每日新闻 (2021-05-29)"
+        },
+        {
           "id": "https://gocn.vip/topics/12136",
           "author": "alexstocks",
           "description": "董剑辉 盛傲飞\n1. 问题背景\n该问题源于我们想对 dubbo-go 的 module path 做一次变更，使用dubbo.apache.org/dubbo-go/v3 替换之前的 github.com/apache/dubbo-go。\n首先，我们做了路径映射，在 dubbo.apache.org 下放置了一个 dubbogo/v3 文件，内容如下：\n<html>\n  <head>\n    <meta name=\"go-import\" content=\"dubbo.apache.org/dubbo-go/v3 git <https://github.com/apache/dubbo-go>\">\n    <meta name=\"go-source\" content=\"dubbo.apache.org/dubbo-go/v3 git <https://github.com/apache/dubbo-go/tree/3.0{/dir}> <https://github.com/apache/dubbo-go/blob/3.0{/dir}/{file}#L{line}>\">\n    <meta http-equiv=\"refresh\" content=\"0; url=https://pkg.go.dev/dubbo.apache.org/dubbo-go/v3\">\n  </head>\n  <body>\n    <p>Redirecting to <a href=\"<https://pkg.go.dev/dubbo.apache.org/dubbo-go/v3>\">pkg.go.dev/dubbo.apache.org/dubbo-go/v3</a>...</p>\n  </body>\n</html>\n\n其次，我们修改了 go.mod 的 module 和对应的所有 import，并…",
