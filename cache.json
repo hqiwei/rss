@@ -335,6 +335,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12136",
+          "author": "alexstocks",
+          "description": "董剑辉 盛傲飞\n1. 问题背景\n该问题源于我们想对 dubbo-go 的 module path 做一次变更，使用dubbo.apache.org/dubbo-go/v3 替换之前的 github.com/apache/dubbo-go。\n首先，我们做了路径映射，在 dubbo.apache.org 下放置了一个 dubbogo/v3 文件，内容如下：\n<html>\n  <head>\n    <meta name=\"go-import\" content=\"dubbo.apache.org/dubbo-go/v3 git <https://github.com/apache/dubbo-go>\">\n    <meta name=\"go-source\" content=\"dubbo.apache.org/dubbo-go/v3 git <https://github.com/apache/dubbo-go/tree/3.0{/dir}> <https://github.com/apache/dubbo-go/blob/3.0{/dir}/{file}#L{line}>\">\n    <meta http-equiv=\"refresh\" content=\"0; url=https://pkg.go.dev/dubbo.apache.org/dubbo-go/v3\">\n  </head>\n  <body>\n    <p>Redirecting to <a href=\"<https://pkg.go.dev/dubbo.apache.org/dubbo-go/v3>\">pkg.go.dev/dubbo.apache.org/dubbo-go/v3</a>...</p>\n  </body>\n</html>\n\n其次，我们修改了 go.mod 的 module 和对应的所有 import，并…",
+          "link": "https://gocn.vip/topics/12136",
+          "publishedOn": "2021-05-29T01:18:27.000Z",
+          "wordCount": 609,
+          "title": "dubbo-go v3 版本 go module 踩坑记"
+        },
+        {
           "id": "https://gocn.vip/topics/12135",
           "author": "cczsunnyman",
           "description": "NSQ 如何实现文件队列  https://reposkeeper.net/2020/11/nsq-disk-queue-implement.html\n\nGo sync.Pool 浅析  https://blog.csdn.net/haohongfan/article/details/116978613\n\nGolang 指针和 C++ 指针的简单剖析  https://juejin.cn/post/6967315069310861319\n\n在 Go 中使用位掩码  https://www.ardanlabs.com/blog/2021/04/using-bitmasks-in-go.html\n\nGo 中的垃圾收集  https://www.ardanlabs.com/blog/2019/07/garbage-collection-in-go-part3-gcpacing.html\n\n\n\n\n编辑: czzsunnyman\n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
@@ -863,6 +872,60 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=85883",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 05 29",
+          "link": "http://www.linuxeden.com/a/85883",
+          "publishedOn": "2021-05-29T02:13:37.000Z",
+          "wordCount": 81,
+          "title": "开源美图 2021 05 29"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85880",
+          "author": "Editor, Kai",
+          "description": "华为多次公开表示，鸿蒙系统完全开源开放。谁会第一个对鸿蒙放开怀抱？ 日前，魅族智享生活官微宣布：“你好，鸿蒙。一起拥抱全场景智能生活。Watch me!” 随后，魅族科技转发上述消息：“一起拥抱全场景智能生活。Watch me! #魅族的智 […]",
+          "link": "http://www.linuxeden.com/a/85880",
+          "publishedOn": "2021-05-29T02:07:20.000Z",
+          "wordCount": 86,
+          "title": "魅族宣布接入鸿蒙系统 魅友激动：格局大了"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85878",
+          "author": "Editor, Kai",
+          "description": "在将嵌入式系统操作系统移植到不同的芯片架构时，RT-Thread 的维护者们从中学到了什么。 曾经有人问我，为什么计算机被称为“计算机”，它们做的事情可远不止计算数字。一台现代的个人电脑可以浏览互联网、播放音频和视频、为视频游戏和电影生成漂 […]",
+          "link": "http://www.linuxeden.com/a/85878",
+          "publishedOn": "2021-05-29T02:03:26.000Z",
+          "wordCount": 225,
+          "title": "将操作系统移植到新的芯片架构的经验"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85876",
+          "author": "Editor, Kai",
+          "description": "发版日期：2021 年 5 月 28 日 TiDB 版本：4.0.13 新功能 TiDB 支持将列属性 AUTO_INCREMENT 变更为 AUTO_RANDOM #24608 引入 infoschema.client_errors_su […]",
+          "link": "http://www.linuxeden.com/a/85876",
+          "publishedOn": "2021-05-29T01:50:36.000Z",
+          "wordCount": 540,
+          "title": "TiDB 4.0.13 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85874",
+          "author": "Editor, Kai",
+          "description": "apache-camel-2.25.4-src.zip        2021-05-28 07:26   65M apache-camel-2.25.4-src.zip.asc    2021-05-28 07:26  833 apach […]",
+          "link": "http://www.linuxeden.com/a/85874",
+          "publishedOn": "2021-05-29T01:37:15.000Z",
+          "wordCount": 101,
+          "title": "Apache Camel 2.25.4发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85872",
+          "author": "Editor, Kai",
+          "description": "SQLAlchemy 1.4.16 is now available. With the pace of regressions having slowed, it is hoped that the 1.4 series continue […]",
+          "link": "http://www.linuxeden.com/a/85872",
+          "publishedOn": "2021-05-29T01:28:15.000Z",
+          "wordCount": 158,
+          "title": "SQLAlchemy 1.4.16发布"
+        },
         {
           "id": "http://www.linuxeden.com/?p=85870",
           "author": "Editor, Kai",
@@ -1912,6 +1975,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/143624/quic-is-now-rfc-9000",
+          "author": null,
+          "description": "IETF（互联网工程任务组）已将 QUIC 发布为 RFC 9000，并由 RFC 9001, RFC 9002 和 RFC 8999 提供支持。这意味着 QUIC 第一版已正式确定，并且部署 QUIC 所使用的版本也已经从临时草稿版本转变为新的第一版（HTTP/3 作为运行于 QUIC 之上的 HTTP 也即将发布）。 RFC Editor 页面显示，目前 RFC 9000 处于“提案标准 (PRO...",
+          "link": "https://www.oschina.net/news/143624/quic-is-now-rfc-9000",
+          "publishedOn": "2021-05-29T01:51:06.000Z",
+          "wordCount": 496,
+          "title": "IETF 将 QUIC 发布为 RFC 9000"
+        },
         {
           "id": "https://www.oschina.net/news/143619",
           "author": null,
@@ -3377,6 +3449,42 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=52322",
+          "author": "大眼仔~旭",
+          "description": "浏览行为可以发现许多互联网用户的信息。例如，经常使用搜索引擎查找纯素食的大眼仔不太可能希望购买一包香肠。对于广 […]",
+          "link": "http://www.dayanzai.me/behavior-orientation-ads.html",
+          "publishedOn": "2021-05-29T03:58:47.000Z",
+          "wordCount": 504,
+          "title": "行为定位：在互联网上是如何为您量身定制广告的"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=9401",
+          "author": "大眼仔~旭",
+          "description": "GPU-Z 中文版由大眼仔旭（www.dayanzai.me）发布。说起处理器识别工具 CPU-Z，其知名度和 […]",
+          "link": "http://www.dayanzai.me/gpu-z.html",
+          "publishedOn": "2021-05-28T16:30:58.000Z",
+          "wordCount": 604,
+          "title": "GPU-Z 中文版显卡测试软件 TechPowerUp GPU-Z 2.40.0 中文绿色版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=727",
+          "author": "大眼仔~旭",
+          "description": "开源免费的远程协助工具 Veyon 中文版由大眼仔旭（www.dayanzai.me）发布。Veyon 是一款 […]",
+          "link": "http://www.dayanzai.me/veyon.html",
+          "publishedOn": "2021-05-28T16:30:47.000Z",
+          "wordCount": 662,
+          "title": "开源免费的远程协助工具 Veyon 4.5.6 + x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=14960",
+          "author": "大眼仔~旭",
+          "description": "3D Youtube Downloader 1.19 中文版由大眼仔旭（www.dayanzai.me）发布。 […]",
+          "link": "http://www.dayanzai.me/3d-youtube-downloader.html",
+          "publishedOn": "2021-05-28T16:20:48.000Z",
+          "wordCount": 534,
+          "title": "Youtube 网络视频下载工具 3D Youtube Downloader 1.19.9 中文多语免费版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=40060",
           "author": "大眼仔~旭",
