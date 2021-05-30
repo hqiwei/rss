@@ -900,6 +900,24 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=85931",
+          "author": "Editor, Kai",
+          "description": "回顾一下 Python 3.4 中的枚举 明尼苏达大学有害提交事件后 Linux考虑为补丁提供加密证明 体验 /e/ OS：开源的去谷歌化的安卓 高通秀出“5G朋友圈”：互联互通的未来世界长这样 Btrfs 文件系统入门 Python 3. […]",
+          "link": "http://www.linuxeden.com/a/85931",
+          "publishedOn": "2021-05-30T15:23:02.000Z",
+          "wordCount": 101,
+          "title": "每日文章精选2021 05 30"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85929",
+          "author": "Editor, Kai",
+          "description": "另外探索一些未被充分利用但仍然有用的 Python 特性。 这是 Python 3.x 首发特性系列文章的第五篇。Python 3.4 在 2014 年首次发布，尽管它已经发布了很长时间，但它引入的许多特性都没有被充分利用，而且相当酷。下面 […]",
+          "link": "http://www.linuxeden.com/a/85929",
+          "publishedOn": "2021-05-30T15:21:41.000Z",
+          "wordCount": 341,
+          "title": "回顾一下 Python 3.4 中的枚举"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=85925",
           "author": "Editor, Kai",
           "description": "Linux内核开发者Konstantin Ryabitsev一直在开发Patatt，作为一个基于加密的补丁认证系统。虽然已经开始了一段时间，但在明尼苏达大学技术人员为了完成课题而向Linux内核灌入缺陷代码的 “伪君子提交\b […]",

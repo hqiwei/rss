@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T15:19:39.752Z</updated>
+    <updated>2021-05-30T16:52:16.122Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选2021 05 30]]></title>
+        <id>http://www.linuxeden.com/?p=85931</id>
+        <link href="http://www.linuxeden.com/a/85931"/>
+        <updated>2021-05-30T15:23:02.000Z</updated>
+        <summary type="html"><![CDATA[回顾一下 Python 3.4 中的枚举 明尼苏达大学有害提交事件后 Linux考虑为补丁提供加密证明 体验 /e/ OS：开源的去谷歌化的安卓 高通秀出“5G朋友圈”：互联互通的未来世界长这样 Btrfs 文件系统入门 Python 3. […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[回顾一下 Python 3.4 中的枚举]]></title>
+        <id>http://www.linuxeden.com/?p=85929</id>
+        <link href="http://www.linuxeden.com/a/85929"/>
+        <updated>2021-05-30T15:21:41.000Z</updated>
+        <summary type="html"><![CDATA[另外探索一些未被充分利用但仍然有用的 Python 特性。 这是 Python 3.x 首发特性系列文章的第五篇。Python 3.4 在 2014 年首次发布，尽管它已经发布了很长时间，但它引入的许多特性都没有被充分利用，而且相当酷。下面 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[明尼苏达大学有害提交事件后 Linux考虑为补丁提供加密证明]]></title>
         <id>http://www.linuxeden.com/?p=85925</id>
