@@ -2075,6 +2075,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/143733/cosky-1-0-0-released",
+          "author": null,
+          "description": "CoSky 基于 Redis 的服务治理平台（服务注册/发现 & 配置中心） Consul + Sky = CoSky CoSky 是一个轻量级、低成本的服务注册、服务发现、 配置服务 SDK，通过使用现有基础设施中的 Redis （相信你已经部署了Redis），不用给运维部署带来额外的成本与负担。 借助于 Redis 的高性能， CoSky 提供了超高TPS&QPS (10W+/s J...",
+          "link": "https://www.oschina.net/news/143733/cosky-1-0-0-released",
+          "publishedOn": "2021-05-30T07:47:50.000Z",
+          "wordCount": 951,
+          "title": "CoSky(Govern-Service) 1.0.0 发布，基于 Redis 的服务治理平台"
+        },
+        {
           "id": "https://www.oschina.net/news/143717/dahlia-os-publish-flmage",
           "author": null,
           "description": "Dahlia OS 的独立开发者实现了便携式 Fuchsia 模拟器 Flmage，以帮助体验 Fuchsia OS。 本周早些时候，Google 正式发布了的 Fuchsia OS，不过现在只有一些第一代 Nest Hub 的用户能够体验。尽管 Fuchsia OS 是开源的，用户可以在自己电脑上下载代码并编译，但依然只能在 Google Pixelbook 等兼容设备上运行。因此，Dahli...",

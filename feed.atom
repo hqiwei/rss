@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T08:04:51.625Z</updated>
+    <updated>2021-05-30T09:36:37.398Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CoSky(Govern-Service) 1.0.0 发布，基于 Redis 的服务治理平台]]></title>
+        <id>https://www.oschina.net/news/143733/cosky-1-0-0-released</id>
+        <link href="https://www.oschina.net/news/143733/cosky-1-0-0-released"/>
+        <updated>2021-05-30T07:47:50.000Z</updated>
+        <summary type="html"><![CDATA[CoSky 基于 Redis 的服务治理平台（服务注册/发现 & 配置中心） Consul + Sky = CoSky CoSky 是一个轻量级、低成本的服务注册、服务发现、 配置服务 SDK，通过使用现有基础设施中的 Redis （相信你已经部署了Redis），不用给运维部署带来额外的成本与负担。 借助于 Redis 的高性能， CoSky 提供了超高TPS&QPS (10W+/s J...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PhotoPrism – 可私有部署，基于机器学习 TensorFlow 的图像自动分类、开源照片管理工具，类本地化 Google Photos 服务]]></title>
         <id>https://www.appinn.com/?p=38930</id>
