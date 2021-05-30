@@ -882,6 +882,24 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=85916",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 05 30",
+          "link": "http://www.linuxeden.com/a/85916",
+          "publishedOn": "2021-05-30T01:27:17.000Z",
+          "wordCount": 75,
+          "title": "开源美图 2021 05 30"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85906",
+          "author": "Editor, Kai",
+          "description": "“5G时代，公司与公司，产业与产业之间相互连接的重要性更加凸显。只有这样，5G的潜力才会被充分释放，助力变革千行百业。”在2021高通技术与合作峰会上，高通中国区董事长孟樸如此剖析5G变革的形式，这意味着5G并非是单个企业的私有产物，而是需 […]",
+          "link": "http://www.linuxeden.com/a/85906",
+          "publishedOn": "2021-05-30T01:19:21.000Z",
+          "wordCount": 127,
+          "title": "高通秀出“5G朋友圈”：互联互通的未来世界长这样"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=85903",
           "author": "Editor, Kai",
           "description": "B-tree 文件系统（Btrfs）融合了文件系统和卷管理器。它为 Linux 操作系统提供了高级文件系统应当拥有的诸多不错的功能特性。 好几年前 Btrfs 就已经可以在 Linux 中使用了，所以你可能已经熟悉它了。如果没有，你可能对它 […]",
@@ -1861,6 +1879,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=38930",
+          "author": "青小蛙",
+          "description": "PhotoPrism 是一款开源的，基于机器学习软件 Google TensorFlow 的开源照片管理工具，它能够实现自动图像分类，可检测颜色、色度、亮度、质量、全景照片、位置等图片属性，支持直接上",
+          "link": "https://www.appinn.com/photoprism/",
+          "publishedOn": "2021-05-30T04:05:45.000Z",
+          "wordCount": 1225,
+          "title": "PhotoPrism – 可私有部署，基于机器学习 TensorFlow 的图像自动分类、开源照片管理工具，类本地化 Google Photos 服务"
+        },
+        {
           "id": "https://www.appinn.com/?p=38925",
           "author": "青小蛙",
           "description": "When The Last Time 是一款帮你追踪并记录重复发生事情的 iPhone 应用，并提示下一次处理的时间。解决这样的问题：我上次做这事情是什么时候？我有多久没有处理这件事情呢？@Appin",
@@ -2047,6 +2074,33 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/143717/dahlia-os-publish-flmage",
+          "author": null,
+          "description": "Dahlia OS 的独立开发者实现了便携式 Fuchsia 模拟器 Flmage，以帮助体验 Fuchsia OS。 本周早些时候，Google 正式发布了的 Fuchsia OS，不过现在只有一些第一代 Nest Hub 的用户能够体验。尽管 Fuchsia OS 是开源的，用户可以在自己电脑上下载代码并编译，但依然只能在 Google Pixelbook 等兼容设备上运行。因此，Dahli...",
+          "link": "https://www.oschina.net/news/143717/dahlia-os-publish-flmage",
+          "publishedOn": "2021-05-30T03:15:04.000Z",
+          "wordCount": 475,
+          "title": "独立开发者实现 Fuchsia OS 模拟器"
+        },
+        {
+          "id": "https://www.oschina.net/news/143714/fuchsia-os-partially-written-in-rust-has-shipped",
+          "author": null,
+          "description": "谷歌近日正式面向公众推出了 Fuchsia OS，获得 Fuchsia 1.0 推送的设备是第一代 Nest Hub。 与基于 Linux 内核的 Chrome OS 和 Android 等操作系统不同，Fuchsia 使用了全新的、自研的 Zircon 微内核，其采用 C++ 编写。内核的组件则使用到了 Go、Rust、Python，以及 C/C++ 等编程语言进行编写，如 USB 驱动程序使用 C+...",
+          "link": "https://www.oschina.net/news/143714/fuchsia-os-partially-written-in-rust-has-shipped",
+          "publishedOn": "2021-05-30T02:39:17.000Z",
+          "wordCount": 499,
+          "title": "Fuchsia 的 Rust 代码占比超 50%"
+        },
+        {
+          "id": "https://www.oschina.net/news/143704",
+          "author": null,
+          "description": "SphereEx 签署 CLA ( Contribution License Agreement，贡献许可协议），正式加入 openGauss 社区。 SphereEx 和 openGauss 是天然契合的伙伴。openGauss 作为企业级开源数据库，具备高可用、高性能、高安全、易运维等特性，而 SphereEx 主导 ShardingSphere 作为数据库上层的生态产品，关注于连接应用与数据库，将连接层...",
+          "link": "https://www.oschina.net/news/143704",
+          "publishedOn": "2021-05-30T01:23:31.000Z",
+          "wordCount": 473,
+          "title": "SphereEx 加入 openGauss 社区"
+        },
         {
           "id": "https://www.oschina.net/news/143703/aliyun-opensource-polardb-for-postgresql",
           "author": null,
