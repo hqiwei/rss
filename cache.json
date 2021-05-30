@@ -900,6 +900,24 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=85925",
+          "author": "Editor, Kai",
+          "description": "Linux内核开发者Konstantin Ryabitsev一直在开发Patatt，作为一个基于加密的补丁认证系统。虽然已经开始了一段时间，但在明尼苏达大学技术人员为了完成课题而向Linux内核灌入缺陷代码的 “伪君子提交\b […]",
+          "link": "http://www.linuxeden.com/a/85925",
+          "publishedOn": "2021-05-30T15:01:41.000Z",
+          "wordCount": 85,
+          "title": "明尼苏达大学有害提交事件后 Linux考虑为补丁提供加密证明"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85919",
+          "author": "Editor, Kai",
+          "description": "/e/ 安卓操作系统是一个以隐私为导向的去谷歌化的移动操作系统，是 Lineage OS 的复刻，由 Mandrake Linux（现在的 Mandriva Linux）的创建者 Gaël Duval 于 2018 年中期创立。 尽管安卓在 […]",
+          "link": "http://www.linuxeden.com/a/85919",
+          "publishedOn": "2021-05-30T14:52:30.000Z",
+          "wordCount": 266,
+          "title": "体验 /e/ OS：开源的去谷歌化的安卓"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=85916",
           "author": "Editor, Kai",
           "description": "Linuxeden开源社区-开源美图 2021 05 30",
