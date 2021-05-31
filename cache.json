@@ -335,6 +335,24 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12142",
+          "author": "alicloudnative",
+          "description": "作者 | 董剑辉、盛傲飞\n来源 | 阿里巴巴云原生公众号\n​\n问题背景\n​\n该问题源于我们想对 dubbo-go 的 module path 做一次变更，使用 dubbo.apache.org/dubbo-go/v3 替换之前的 github.com/apache/dubbo-go。\n​\n首先，我们做了路径映射，在 dubbo.apache.org 下放置了一个 dubbogo/v3 文件，内容如下：\n​\n<html>\n  <head>\n    <meta name=\"go-import\" content=\"dubbo.apache.org/dubbo-go/v3 git <https://github.com/apache/dubbo-go>\">\n    <meta name=\"go-source\" content=\"dubbo.apache.org/dubbo-go/v3 git <https://github.com/apache/dubbo-go/tree/3.0{/dir}> <https://github.com/apache/dubbo-go/blob/3.0{/dir}/{file}#L{line}>\">\n    <meta http-equiv=\"refresh\" content=\"0; url=https://pkg.go.dev/dubbo.apache.org/dubbo-go/v3\">\n  </head>\n  <body>\n    <p>Redirecting to <a href=\"<https://pkg.go.dev/dubbo.apache.org/dubbo-go/v3>\">pkg.go.dev/dubbo.apache.org/dubbo-go/v3</a>...</p>\n  </body>\n</html>\n\n​\n其次，我们修改了 go…",
+          "link": "https://gocn.vip/topics/12142",
+          "publishedOn": "2021-05-31T09:49:39.000Z",
+          "wordCount": 649,
+          "title": "dubbo-go v3 版本 go module 踩坑记"
+        },
+        {
+          "id": "https://gocn.vip/topics/12141",
+          "author": "cuteLittleDevil",
+          "description": "GoCN 每日新闻 (2021-05-31)\nGM 到 GMP，Golang 经历了什么？ https://mp.weixin.qq.com/s/RR3ducI2gK7JuLAzeILRzg#at\n\nGo 语言如何实现可重入锁？ https://mp.weixin.qq.com/s/wBp4k7pJLNeSzyLVhGHLEA\n\n如何使用 Golang 进行测试驱动开发 https://medium.com/@jilsonfreddy/how-to-do-test-driven-development-using-golang-unit-testing-945256aa45cf\n\nGo 性能工具备忘录 https://steveazz.xyz/blog/go-performance-tools-cheat-sheet\n\n字节跳动的 JSON 处理库 https://github.com/bytedance/sonic\n\n\n\n\n编辑: CDS\n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs\n\nGoCN 归档: https://gocn.vip/topics/12141",
+          "link": "https://gocn.vip/topics/12141",
+          "publishedOn": "2021-05-31T09:05:14.000Z",
+          "wordCount": 104,
+          "title": "GoCN 每日新闻 (2021-05-31)"
+        },
+        {
           "id": "https://gocn.vip/topics/12140",
           "author": "alicloudnative",
           "description": "来源 | 阿里巴巴云原生公众号\n​\n5 月 29 日，“2021 阿里云开发者大会” 于北京国际会议中心举办。在本次大会 “云原生技术与最佳实践” 论坛现场，阿里云容器服务负责人易立、VMware 中国研发中心研发总监路广联合宣布达成双方在 “云原生边缘计算” 领域的技术战略合作，希望未来依托开源社区力量，加速边缘云原生生态系统的构建，共同推动云边融合进程，帮助更多企业全面拥抱数智化转型升级。\n\n左 1： 路广，VMware 中国研发中心研发总监​\n右 1：易立，阿里云容器服务负责人\n​\n在 5G、IoT、AI 等技术的高速发展下，企业正在积极探索如何更好地利用新技术创新应用，拓展业务边界。智能终端设备数量急剧增加，使边缘计算技术在过去几年经历了极为快速的演进。与此同时，将云计算的能力下沉到边缘侧、设备侧，并通过中心进行统一交付、运维、管控成为新趋势。\n​\n\n易立，阿里云容器服务负责人\n边缘云原生正在越来越被广泛地应用于汽车、农业、能源、交通等各行各业。与云原生模式的结合，可以使边缘计算最大程度结合云的能力，保证业务在边端获得和云上一致的运维体验、更好的隔离性和安全性。进一步扩展边缘计算的应用范围。\n​\nOpenYurt +EdgeX：共建生态，打造零侵入式的云边端一体化平台\n​\n\n作为云原生技术的重要基石，Kubernetes 逐渐成为用户和云计算新的交互界面，其强大的容器编排调度能力被广泛应用于大规模应用管理、多云混合云支持等场景。然而，管理边缘往往应用需要解决更多问题，比如边缘资源分散在不同地域、云边网络连接不可靠、云边端运维协同难度大、对异构资源支持困难等等。这些都使得在边缘场景中直接使用 Kubernetes 极具挑战。\n阿里云开源项目 OpenYurt 和由 VMware 共同发起并维护其中国社区的开源项目 EdgeX Foundry 展开深度合作，将帮助企业和…",
@@ -2210,6 +2228,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/143909",
+          "author": null,
+          "description": "业界要闻 1. Antrea 项目进入 CNCF Sandbox 摘要：Antrea 项目是一个基于 Open vSwitch（OVS）的开源 Kubernetes CNI 网络插件解决方案，旨在为 Kubernetes 集群提供更高效、更安全的跨平台网络和安全策略。 2. Argo Rollouts 发布1.0版本 摘要：Argo Rollouts是一个部署（deployment）控制器，它填补了 Kubernetes dep...",
+          "link": "https://www.oschina.net/news/143909",
+          "publishedOn": "2021-05-31T09:04:18.000Z",
+          "wordCount": 596,
+          "title": "云原生计算动态周报：Linkerd 和 Istio 基准测试、Antrea 进入 CNCF Sandbox"
+        },
+        {
           "id": "https://www.oschina.net/news/143894",
           "author": null,
           "description": "5 月 29 日，“2021 阿里云开发者大会”于北京国际会议中心举办。在本次大会“云原生技术与最佳实践”论坛现场，阿里云容器服务负责人易立、VMware 中国研发中心研发总监路广联合宣布达成双方在“云原生边缘计算”领域的技术战略合作，希望未来依托开源社区力量，加速边缘云原生生态系统的构建，共同推动云边融合进程，帮...",
@@ -3871,6 +3898,24 @@
           "publishedOn": "2021-05-31T03:31:22.000Z",
           "wordCount": 608,
           "title": "网站优化之如何编写在 Google 上排名靠前的 SEO 内容"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=13327",
+          "author": "大眼仔~旭",
+          "description": "音频文件标签编辑器 Metatogger 中文版 由大眼仔旭（www.dayanzai.me）发布。功能强大且 […]",
+          "link": "http://www.dayanzai.me/metatogger.html",
+          "publishedOn": "2021-05-30T16:34:18.000Z",
+          "wordCount": 492,
+          "title": "音频文件标签编辑器 Metatogger 7.1.0.0 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=42043",
+          "author": "大眼仔~旭",
+          "description": ".NET 反编译工具 ILSpy 绿色中文版由大眼仔旭（www.dayanzai.me）整理发布。无论您是一个 […]",
+          "link": "http://www.dayanzai.me/ilspy.html",
+          "publishedOn": "2021-05-30T16:28:56.000Z",
+          "wordCount": 765,
+          "title": ".NET 反编译工具 ILSpy 7.1.0.6543 绿色中文版"
         },
         {
           "id": "http://www.dayanzai.me/?p=33151",
