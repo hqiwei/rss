@@ -335,6 +335,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12143",
+          "author": "gocloudcoder",
+          "description": "Go 正则表达式库之 commonregex\n为什么使用 commonregex?\n在开发的时候，我们会遇到一些需要使用字符串的匹配和查找的任务。我们可以使用正则表达式去提取感兴趣的数据，如手机号码，邮件，超链接等。但是正则表达式写起来费时费力，而且容易遗忘。commonregex 它提供了很多内置的正则表达式，开箱即用，能极大的提高开发体验和开发效率。\ncommonregex 简介\n提供经常使用的正则表达式的集合。\n它提供了这些作为获取与特定模式对应的匹配字符串的简单函数。\n日期\n时间\n电话号码\n超链接\n邮件地址\nIPv4/IPv6/IP 地址\n价格\n十六进制颜色值\n信用卡卡号\n10/13 位 ISBN\n邮政编码\nMD5\nSHA1\nSHA256\nGUID，全局唯一标识\nGit 仓库地址\n快速使用 commonregex\n安装 commonregex\ngo get -u github.com/mingrammer/commonregex\n\n简单使用 commonregex\npackage main\n\nimport (\n  \"fmt\"\n\n  cregex \"github.com/mingrammer/commonregex\"\n)\n\nfunc main() {\n  text := `John, please get that article on www.linkedin.com to me by 5:00PM on Jan 9th 2012. 4:00 would be ideal, actually. If you have any questions, You can reach me at (519)-236-2723x341 or get in touch with my associate at harold.smith@gmail.com`\n\n  dateList := cregex.Date(text)\n  timeList := cregex.Time(text)\n  linkList := cregex.Links(text)\n  phoneList := cregex.PhonesWithExts(text)\n  emailList := cregex.Emails(text)\n\n  fmt.Println(\"date list:\", dateList)\n  fmt.Println(\"time list:\", timeList)\n  fmt.Println(\"link list:\", linkList)\n  fmt.Println(\"phone list:\", phoneList)\n  fmt.Println(\"email list:\", emailList)\n}\n\ncommonregex提供的 API 非常易于使用，调用相应的类别方法返回一段文本中符合这些格式的字符串列表。\n上面依次从text获取日期列表，时间列表，超链接列表，电话号码列表和电子邮件列表。\n总结\ncommonregex 提供了常用的正则表达式的函数，足以应付我们日常开发场景，能较大的提高我们的开发效率。\n参考资料\nhttps://github.com/mingrammer/commonregex\nhttps://darjun.github.io/2020/09/05/godailylib/commonregex/",
+          "link": "https://gocn.vip/topics/12143",
+          "publishedOn": "2021-05-31T14:03:07.000Z",
+          "wordCount": 207,
+          "title": "Go 正则表达式库之 commonregex"
+        },
+        {
           "id": "https://gocn.vip/topics/12142",
           "author": "alicloudnative",
           "description": "作者 | 董剑辉、盛傲飞\n来源 | 阿里巴巴云原生公众号\n​\n问题背景\n​\n该问题源于我们想对 dubbo-go 的 module path 做一次变更，使用 dubbo.apache.org/dubbo-go/v3 替换之前的 github.com/apache/dubbo-go。\n​\n首先，我们做了路径映射，在 dubbo.apache.org 下放置了一个 dubbogo/v3 文件，内容如下：\n​\n<html>\n  <head>\n    <meta name=\"go-import\" content=\"dubbo.apache.org/dubbo-go/v3 git <https://github.com/apache/dubbo-go>\">\n    <meta name=\"go-source\" content=\"dubbo.apache.org/dubbo-go/v3 git <https://github.com/apache/dubbo-go/tree/3.0{/dir}> <https://github.com/apache/dubbo-go/blob/3.0{/dir}/{file}#L{line}>\">\n    <meta http-equiv=\"refresh\" content=\"0; url=https://pkg.go.dev/dubbo.apache.org/dubbo-go/v3\">\n  </head>\n  <body>\n    <p>Redirecting to <a href=\"<https://pkg.go.dev/dubbo.apache.org/dubbo-go/v3>\">pkg.go.dev/dubbo.apache.org/dubbo-go/v3</a>...</p>\n  </body>\n</html>\n\n​\n其次，我们修改了 go…",
