@@ -6,6 +6,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60acf28e11ffb70827ef6dd9",
+          "author": null,
+          "description": "Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up increasing my salary as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary, and how",
+          "link": "https://www.freecodecamp.org/news/my-developer-journey-how-i-increased-my-salary-and-got-a-remote-job/",
+          "publishedOn": "2021-06-01T16:35:00.000Z",
+          "wordCount": 2823,
+          "title": "My Developer Journey – How I Got a Remote Job and Increased My Salary While Contributing to Open Source"
+        },
+        {
+          "id": "60aff2d711ffb70827ef8829",
+          "author": null,
+          "description": "This informative tutorial goes deep into how to get a cybersecurity job, with insights from senior leaders and hiring managers in the field.",
+          "link": "https://www.freecodecamp.org/news/how-to-get-a-cybersecurity-job/",
+          "publishedOn": "2021-06-01T16:34:00.000Z",
+          "wordCount": 2137,
+          "title": "How to Get a Cybersecurity Job in 2021"
+        },
+        {
           "id": "607f5fafdd38b9088c2bd0c9",
           "author": null,
           "description": "When you're debating someone, you want to use all the resources at your disposal to convince them you're right. But you should be careful that you don't end up using a logical fallacy to help you make your point. What is a Logical Fallacy?A logical fallacy is an error",
