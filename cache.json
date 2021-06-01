@@ -963,6 +963,42 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=85993",
+          "author": "Editor, Kai",
+          "description": "Python 3.5 带给我们的方便的矩阵以及其他改进 ARM CEO：联发科年底将首发v9 64位指令集芯片 Raspberry Pi开售RP2040微控制器芯片 售价1美元 QUIC 协议正式发布了 RFC 9000 ，成为 IETF  […]",
+          "link": "http://www.linuxeden.com/a/85993",
+          "publishedOn": "2021-06-01T13:45:32.000Z",
+          "wordCount": 107,
+          "title": "每日文章精选 2021 06 01"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85991",
+          "author": "Editor, Kai",
+          "description": "探索一些未被充分利用但仍然有用的 Python 特性。 这是 Python 3.x 首发特性系列文章的第六篇。Python 3.5 在 2015 年首次发布，尽管它已经发布了很长时间，但它引入的许多特性都没有被充分利用，而且相当酷。下面是其 […]",
+          "link": "http://www.linuxeden.com/a/85991",
+          "publishedOn": "2021-06-01T13:43:42.000Z",
+          "wordCount": 299,
+          "title": "Python 3.5 带给我们的方便的矩阵以及其他改进"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85988",
+          "author": "Editor, Kai",
+          "description": "在ARMv8.x沿用10年后，今年3月，ARM推出了v9 64位指令集，前不久，基于v9的新一代公版CPU架构超大核Cortex-X2、大核Cortex-A710、小核Cortex-A510发布。 在今天（6月1日）的台北电脑展活动中，AR […]",
+          "link": "http://www.linuxeden.com/a/85988",
+          "publishedOn": "2021-06-01T13:42:53.000Z",
+          "wordCount": 105,
+          "title": "ARM CEO：联发科年底将首发v9 64位指令集芯片"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=85984",
+          "author": "Editor, Kai",
+          "description": "今年早些时候，Raspberry Pi基金会宣布推出4美元的Raspberry Pi Pico和RP2040微控制器用于嵌入式开发。现在，RP2040芯片正在通过他们的经销商以仅1美元的价格出售，供那些想用这种树莓派芯片构建自己的电子产品的 […]",
+          "link": "http://www.linuxeden.com/a/85984",
+          "publishedOn": "2021-06-01T13:34:10.000Z",
+          "wordCount": 97,
+          "title": "Raspberry Pi开售RP2040微控制器芯片 售价1美元"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=85981",
           "author": "Editor, Kai",
           "description": "Linuxeden开源社区-开源美图 2021 06 01",

@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T12:53:05.783Z</updated>
+    <updated>2021-06-01T14:22:10.173Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 06 01]]></title>
+        <id>http://www.linuxeden.com/?p=85993</id>
+        <link href="http://www.linuxeden.com/a/85993"/>
+        <updated>2021-06-01T13:45:32.000Z</updated>
+        <summary type="html"><![CDATA[Python 3.5 带给我们的方便的矩阵以及其他改进 ARM CEO：联发科年底将首发v9 64位指令集芯片 Raspberry Pi开售RP2040微控制器芯片 售价1美元 QUIC 协议正式发布了 RFC 9000 ，成为 IETF  […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 3.5 带给我们的方便的矩阵以及其他改进]]></title>
+        <id>http://www.linuxeden.com/?p=85991</id>
+        <link href="http://www.linuxeden.com/a/85991"/>
+        <updated>2021-06-01T13:43:42.000Z</updated>
+        <summary type="html"><![CDATA[探索一些未被充分利用但仍然有用的 Python 特性。 这是 Python 3.x 首发特性系列文章的第六篇。Python 3.5 在 2015 年首次发布，尽管它已经发布了很长时间，但它引入的许多特性都没有被充分利用，而且相当酷。下面是其 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARM CEO：联发科年底将首发v9 64位指令集芯片]]></title>
+        <id>http://www.linuxeden.com/?p=85988</id>
+        <link href="http://www.linuxeden.com/a/85988"/>
+        <updated>2021-06-01T13:42:53.000Z</updated>
+        <summary type="html"><![CDATA[在ARMv8.x沿用10年后，今年3月，ARM推出了v9 64位指令集，前不久，基于v9的新一代公版CPU架构超大核Cortex-X2、大核Cortex-A710、小核Cortex-A510发布。 在今天（6月1日）的台北电脑展活动中，AR […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi开售RP2040微控制器芯片 售价1美元]]></title>
+        <id>http://www.linuxeden.com/?p=85984</id>
+        <link href="http://www.linuxeden.com/a/85984"/>
+        <updated>2021-06-01T13:34:10.000Z</updated>
+        <summary type="html"><![CDATA[今年早些时候，Raspberry Pi基金会宣布推出4美元的Raspberry Pi Pico和RP2040微控制器用于嵌入式开发。现在，RP2040芯片正在通过他们的经销商以仅1美元的价格出售，供那些想用这种树莓派芯片构建自己的电子产品的 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VLOOK 10.5 发布！表格自动排版特性又上新了～好用实用 Typora/Markdown 插件]]></title>
         <id>https://www.oschina.net/news/144105/vlook-10-5-released</id>
