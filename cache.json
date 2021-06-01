@@ -2149,6 +2149,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=38943",
+          "author": "青小蛙",
+          "description": "Screenshot Capture 是一款小巧、开源的网页截图扩展，灵活易用，支持 Chrome、Edge 浏览器，支持快捷键、支持 Retina 屏幕、不需要特殊权限、可复制到剪贴板或保存为图片。",
+          "link": "https://www.appinn.com/screenshot-capture-for-chrome/",
+          "publishedOn": "2021-06-01T08:13:21.000Z",
+          "wordCount": 1108,
+          "title": "Screenshot Capture – 小巧、开源的网页截图扩展[Chrome/Edge]"
+        },
+        {
           "id": "https://www.appinn.com/?p=38938",
           "author": "青小蛙",
           "description": "图片视频压缩大师 是一款用来批量压缩 iPhone 相册中的照片、视频尺寸的应用，并且还支持查看照片的 EXIF 信息，以及编辑和删除 EXIF 信息，包括 GPS 信息。@Appinn 来自发现频道",
