@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T11:50:52.796Z</updated>
+    <updated>2021-06-01T12:53:05.783Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VLOOK 10.5 发布！表格自动排版特性又上新了～好用实用 Typora/Markdown 插件]]></title>
+        <id>https://www.oschina.net/news/144105/vlook-10-5-released</id>
+        <link href="https://www.oschina.net/news/144105/vlook-10-5-released"/>
+        <updated>2021-06-01T11:55:25.000Z</updated>
+        <summary type="html"><![CDATA[Markdown 粉最喜欢 VLOOK「表格自动化排版」特性，今天又上新了！ 在 V10.5 版本事，可以实现设置表格列头自动重复出现了～这个对于长表格、带行分组的表格绝对是友好的助攻。 ———————————— 完整的更新日志如下： VLOOK™ 的所有特性清单，详见快速入坑 → 一键进入 表格 （+新增）表格列头支持标记为重复显...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Screenshot Capture – 小巧、开源的网页截图扩展[Chrome/Edge]]]></title>
         <id>https://www.appinn.com/?p=38943</id>
