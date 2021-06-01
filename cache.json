@@ -2363,6 +2363,24 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/144034",
+          "author": null,
+          "description": "6月1日，在数据库OceanBase3.0峰会上，蚂蚁集团自主研发的分布式数据库OceanBase首次从技术、商业和生态三个维度对未来发展战略进行了系统性阐述。同时，OceanBase宣布正式开源，并成立OceanBase开源社区，社区官网同步上线，300万行核心代码向社区开放。 未来三年专注核心分布式改造 CEO杨冰表示，OceanBase将持续坚持自...",
+          "link": "https://www.oschina.net/news/144034",
+          "publishedOn": "2021-06-01T05:36:40.000Z",
+          "wordCount": 503,
+          "title": "蚂蚁自研数据库 OceanBase 首次阐述战略：继续坚持自研开放之路，开源 300 万行核心代码"
+        },
+        {
+          "id": "https://www.oschina.net/news/144033/lcui-2-2-0-released",
+          "author": null,
+          "description": "LCUI 2.2.0 发布了。LCUI 是一个用 C 语言编写的图形界面开发库，可用于构建简单的桌面应用程序。 更新概要 问题修复 conditional jump or move depends on uninitialised value(s) (7174868) gui: 水平滚动条未起作用 (#219) (31dee24) gui: 当部件的定位为绝对定位时，尺寸计算错误 (35bfa3f) gui: 组件在隐藏后未更新...",
+          "link": "https://www.oschina.net/news/144033/lcui-2-2-0-released",
+          "publishedOn": "2021-06-01T05:36:19.000Z",
+          "wordCount": 934,
+          "title": "LCUI 2.2.0 发布，C 的图形界面开发库"
+        },
+        {
           "id": "https://www.paddlepaddle.org.cn/modelbasedetail/deepspeech2",
           "author": null,
           "description": "一个采用 PaddlePaddle 平台的端到端自动语音识别（ASR）引擎的开源项目，具体原理请参考论文 Deep Speech 2: End-to-End Speech Recognition in English and Mandarin。",

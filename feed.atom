@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T05:21:11.190Z</updated>
+    <updated>2021-06-01T07:41:09.335Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[蚂蚁自研数据库 OceanBase 首次阐述战略：继续坚持自研开放之路，开源 300 万行核心代码]]></title>
+        <id>https://www.oschina.net/news/144034</id>
+        <link href="https://www.oschina.net/news/144034"/>
+        <updated>2021-06-01T05:36:40.000Z</updated>
+        <summary type="html"><![CDATA[6月1日，在数据库OceanBase3.0峰会上，蚂蚁集团自主研发的分布式数据库OceanBase首次从技术、商业和生态三个维度对未来发展战略进行了系统性阐述。同时，OceanBase宣布正式开源，并成立OceanBase开源社区，社区官网同步上线，300万行核心代码向社区开放。 未来三年专注核心分布式改造 CEO杨冰表示，OceanBase将持续坚持自...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LCUI 2.2.0 发布，C 的图形界面开发库]]></title>
+        <id>https://www.oschina.net/news/144033/lcui-2-2-0-released</id>
+        <link href="https://www.oschina.net/news/144033/lcui-2-2-0-released"/>
+        <updated>2021-06-01T05:36:19.000Z</updated>
+        <summary type="html"><![CDATA[LCUI 2.2.0 发布了。LCUI 是一个用 C 语言编写的图形界面开发库，可用于构建简单的桌面应用程序。 更新概要 问题修复 conditional jump or move depends on uninitialised value(s) (7174868) gui: 水平滚动条未起作用 (#219) (31dee24) gui: 当部件的定位为绝对定位时，尺寸计算错误 (35bfa3f) gui: 组件在隐藏后未更新...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-01)]]></title>
         <id>https://gocn.vip/topics/12145</id>
