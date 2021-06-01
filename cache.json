@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "607f5fafdd38b9088c2bd0c9",
+          "author": null,
+          "description": "When you're debating someone, you want to use all the resources at your disposal to convince them you're right. But you should be careful that you don't end up using a logical fallacy to help you make your point. What is a Logical Fallacy?A logical fallacy is an error",
+          "link": "https://www.freecodecamp.org/news/logical-fallacies-definition-fallacy-examples/",
+          "publishedOn": "2021-06-01T04:19:48.000Z",
+          "wordCount": 6170,
+          "title": "Logical Fallacies – Definition and Fallacy Examples"
+        },
+        {
           "id": "60acf28e11ffb70827ef6dd9",
           "author": null,
           "description": "Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up making $100,000 a year as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary,",
@@ -334,6 +343,24 @@
       "feedUrl": "https://gocn.vip/topics/feed",
       "siteUrl": "https://gocn.vip/",
       "articles": [
+        {
+          "id": "https://gocn.vip/topics/12145",
+          "author": "_Lin",
+          "description": "GoCN 每日新闻 (2021-06-01)\nGo 高性能系列教程之三：编译器优化 https://gocn.vip/topics/12144\n\n理解 Golang 中函数调用的原理  https://blog.51cto.com/u_15127695/2829851\n\nGo 微服务全链路跟踪详解 https://mp.weixin.qq.com/s/C6OtNYtskdPpfw-HsP76vQ\n\n自适应微服务治理背后的算法 https://mp.weixin.qq.com/s/OpF4JVWHA9W1v0yefeo56w\n\n消息队列解耦是骗小孩儿的 https://mp.weixin.qq.com/s/O0KGm3nVUSWMSKwHlPiJpg\n\n\n\n免费门票来了！Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n编辑: 琳 \n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12145",
+          "publishedOn": "2021-06-01T04:46:56.000Z",
+          "wordCount": 100,
+          "title": "GoCN 每日新闻 (2021-06-01)"
+        },
+        {
+          "id": "https://gocn.vip/topics/12144",
+          "author": "yudotyang",
+          "description": "这部分主要集中在 Go 编译器优化方面。其中逃逸分析和内联优化是在编译器的前端处理的，这时代码仍然处于抽象语法树的形式。然后代码被传给 SSA（static single assignment form）编译器继续优化，会经过死代码消除、边界检查消除、Nil 检查消除。\n3.1 Go 编译器的历史\n大约在 2007 年，Go 编译器开始是作为 Plan9 编译器工具链的一个分支。当时的编译器和 Aho 和 UIIman 的 Dragon Book 极为相似。\n在 2015 年，Go 1.5 的编译器在技术上从 C 转换到了 Go 语言。\n一年以后，Go 1.7 介绍了基于 SSA 技术的新的编译器后端实现，替换了之前的 Plan9 风格的代码生成器。这个新的后端实现介绍了为通用以及特定架构的优化提供了可能。\n3.2 逃逸分析\n我们首先要介绍的优化技术是逃逸分析。\n为了演示逃逸分析所做的事情，我们回想下 Go 规范没有提到的堆或栈。在引言中只涉及到了 Go 语言是基于垃圾回收的，但并没有提及是怎么实现的。\nGo 规范的兼容实现版本可以存储堆上每次分配的内存。这会给垃圾收集器带来很大的压力，但这不是错误的实现方式。这几年来，gccgo对逃逸分析的支持非常有限，因此可以认为在这种模式下运行是有效的 (for several years, gccgo had very limited support for escape analysis so could effectively be considered to be operating in this mode)。\n然而，goroutine 的栈用来存储局部变量是一个非常简单有效的地方；因为在函数返回时会自动对栈的信息进行收集，所以无需在栈上进行垃圾回收。因此，在安全的情况下，更有效的内存分配方式是在栈上进行分配。\n在一些像 C…",
+          "link": "https://gocn.vip/topics/12144",
+          "publishedOn": "2021-06-01T03:49:27.000Z",
+          "wordCount": 2407,
+          "title": "Go 高性能系列教程之三：编译器优化"
+        },
         {
           "id": "https://gocn.vip/topics/12143",
           "author": "gocloudcoder",
@@ -4080,6 +4107,15 @@
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
         {
+          "id": "http://www.dayanzai.me/?p=2824",
+          "author": "大眼仔~旭",
+          "description": "如果您想自己去设计字体，那么就尝试下大眼仔推荐的这款开源免费字体设计工具吧。FontForge 是一个免费的开 […]",
+          "link": "http://www.dayanzai.me/fontforge.html",
+          "publishedOn": "2021-05-31T16:34:58.000Z",
+          "wordCount": 736,
+          "title": "开源免费字体设计工具 FontForge 2020.11.07 中文多语免费版"
+        },
+        {
           "id": "http://www.dayanzai.me/?p=6816",
           "author": "大眼仔~旭",
           "description": "开源免费 Windows 动态桌面壁纸 WinDynamicDesktop 中文版由大眼仔旭（www.daya […]",
@@ -4541,5 +4577,5 @@
       ]
     }
   ],
-  "cliVersion": "1.9.0"
+  "cliVersion": "1.10.2"
 }

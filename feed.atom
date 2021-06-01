@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T01:42:02.895Z</updated>
-    <generator>osmosfeed 1.9.0</generator>
+    <updated>2021-06-01T05:21:11.190Z</updated>
+    <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-01)]]></title>
+        <id>https://gocn.vip/topics/12145</id>
+        <link href="https://gocn.vip/topics/12145"/>
+        <updated>2021-06-01T04:46:56.000Z</updated>
+        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-06-01)
+Go 高性能系列教程之三：编译器优化 https://gocn.vip/topics/12144
+
+理解 Golang 中函数调用的原理  https://blog.51cto.com/u_15127695/2829851
+
+Go 微服务全链路跟踪详解 https://mp.weixin.qq.com/s/C6OtNYtskdPpfw-HsP76vQ
+
+自适应微服务治理背后的算法 https://mp.weixin.qq.com/s/OpF4JVWHA9W1v0yefeo56w
+
+消息队列解耦是骗小孩儿的 https://mp.weixin.qq.com/s/O0KGm3nVUSWMSKwHlPiJpg
+
+
+
+免费门票来了！Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ
+编辑: 琳 
+订阅新闻: http://tinyletter.com/gocn
+
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>_Lin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logical Fallacies – Definition and Fallacy Examples]]></title>
+        <id>607f5fafdd38b9088c2bd0c9</id>
+        <link href="https://www.freecodecamp.org/news/logical-fallacies-definition-fallacy-examples/"/>
+        <updated>2021-06-01T04:19:48.000Z</updated>
+        <summary type="html"><![CDATA[When you're debating someone, you want to use all the resources at your disposal to convince them you're right. But you should be careful that you don't end up using a logical fallacy to help you make your point. What is a Logical Fallacy?A logical fallacy is an error]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go 高性能系列教程之三：编译器优化]]></title>
+        <id>https://gocn.vip/topics/12144</id>
+        <link href="https://gocn.vip/topics/12144"/>
+        <updated>2021-06-01T03:49:27.000Z</updated>
+        <summary type="html"><![CDATA[这部分主要集中在 Go 编译器优化方面。其中逃逸分析和内联优化是在编译器的前端处理的，这时代码仍然处于抽象语法树的形式。然后代码被传给 SSA（static single assignment form）编译器继续优化，会经过死代码消除、边界检查消除、Nil 检查消除。
+3.1 Go 编译器的历史
+大约在 2007 年，Go 编译器开始是作为 Plan9 编译器工具链的一个分支。当时的编译器和 Aho 和 UIIman 的 Dragon Book 极为相似。
+在 2015 年，Go 1.5 的编译器在技术上从 C 转换到了 Go 语言。
+一年以后，Go 1.7 介绍了基于 SSA 技术的新的编译器后端实现，替换了之前的 Plan9 风格的代码生成器。这个新的后端实现介绍了为通用以及特定架构的优化提供了可能。
+3.2 逃逸分析
+我们首先要介绍的优化技术是逃逸分析。
+为了演示逃逸分析所做的事情，我们回想下 Go 规范没有提到的堆或栈。在引言中只涉及到了 Go 语言是基于垃圾回收的，但并没有提及是怎么实现的。
+Go 规范的兼容实现版本可以存储堆上每次分配的内存。这会给垃圾收集器带来很大的压力，但这不是错误的实现方式。这几年来，gccgo对逃逸分析的支持非常有限，因此可以认为在这种模式下运行是有效的 (for several years, gccgo had very limited support for escape analysis so could effectively be considered to be operating in this mode)。
+然而，goroutine 的栈用来存储局部变量是一个非常简单有效的地方；因为在函数返回时会自动对栈的信息进行收集，所以无需在栈上进行垃圾回收。因此，在安全的情况下，更有效的内存分配方式是在栈上进行分配。
+在一些像 C…]]></summary>
+        <author>
+            <name>yudotyang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[深度学习模型库入门：语音识别—DeepSpeech2]]></title>
         <id>https://www.paddlepaddle.org.cn/modelbasedetail/deepspeech2</id>
@@ -164,6 +221,16 @@
         <summary type="html"><![CDATA[蚂蚁集团自研数据库 OceanBase 现已开源，采用 MulanPubL - 2.0 许可证。OceanBase 数据库是一个原生的分布式关系数据库，完全由阿里巴巴和蚂蚁集团自主研发。 OceanBase 社区版是一款开源分布式 HTAP（Hybrid Transactional/Analytical Processing）数据库管理系统，具有原生分布式架构，支持金融级高可用、透明水平扩展...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源免费字体设计工具 FontForge 2020.11.07 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=2824</id>
+        <link href="http://www.dayanzai.me/fontforge.html"/>
+        <updated>2021-05-31T16:34:58.000Z</updated>
+        <summary type="html"><![CDATA[如果您想自己去设计字体，那么就尝试下大眼仔推荐的这款开源免费字体设计工具吧。FontForge 是一个免费的开 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
