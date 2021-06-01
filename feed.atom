@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T14:22:10.173Z</updated>
+    <updated>2021-06-01T15:36:20.335Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[全网首发！四招解锁 HarmonyOS 开发者成长计划，免费资料大奖拿到手软]]></title>
+        <id>https://www.oschina.net/news/144124/harmonyos-developer</id>
+        <link href="https://www.oschina.net/news/144124/harmonyos-developer"/>
+        <updated>2021-06-01T14:31:47.000Z</updated>
+        <summary type="html"><![CDATA[为了让大家快人一步，迅速从入门小白晋级技术大神，我们集结HarmonyOS技术专家，为应用开发者量身打造了一个路径最短、可实操性最强的学习路线。 包括学习HarmonyOS最新特性和界面开发、熟悉HarmonyOS系统框架，以及开发HarmonyOS应用。 我们收集了工具、教程、详解视频等可实操的学习资料，可以帮你在学习应用开发中事半...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日文章精选 2021 06 01]]></title>
         <id>http://www.linuxeden.com/?p=85993</id>

@@ -2408,6 +2408,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/144124/harmonyos-developer",
+          "author": null,
+          "description": "为了让大家快人一步，迅速从入门小白晋级技术大神，我们集结HarmonyOS技术专家，为应用开发者量身打造了一个路径最短、可实操性最强的学习路线。 包括学习HarmonyOS最新特性和界面开发、熟悉HarmonyOS系统框架，以及开发HarmonyOS应用。 我们收集了工具、教程、详解视频等可实操的学习资料，可以帮你在学习应用开发中事半...",
+          "link": "https://www.oschina.net/news/144124/harmonyos-developer",
+          "publishedOn": "2021-06-01T14:31:47.000Z",
+          "wordCount": 835,
+          "title": "全网首发！四招解锁 HarmonyOS 开发者成长计划，免费资料大奖拿到手软"
+        },
+        {
           "id": "https://www.oschina.net/news/144105/vlook-10-5-released",
           "author": null,
           "description": "Markdown 粉最喜欢 VLOOK「表格自动化排版」特性，今天又上新了！ 在 V10.5 版本事，可以实现设置表格列头自动重复出现了～这个对于长表格、带行分组的表格绝对是友好的助攻。 ———————————— 完整的更新日志如下： VLOOK™ 的所有特性清单，详见快速入坑 → 一键进入 表格 （+新增）表格列头支持标记为重复显...",
