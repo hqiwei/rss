@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T22:09:34.156Z</updated>
+    <updated>2021-06-01T23:42:54.236Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[采用全新设计语言，Firefox 89 发生重大变化]]></title>
+        <id>https://www.oschina.net/news/144145/firefox-89-released</id>
+        <link href="https://www.oschina.net/news/144145/firefox-89-released"/>
+        <updated>2021-06-01T23:30:08.000Z</updated>
+        <summary type="html"><![CDATA[6 月 1 日，Firefox 89 稳定版本正式发布。该版本的重点是界面的重新设计，新设计影响到主要的界面元素，如主工具栏、地址栏、菜单、浏览器显示的提示和标签。该版本也是自 2017 年 Firefox Quantum 发布以来做出的最大改变。 所有的 Firefox 频道都在差不多的时间内被提升了一个版本。Firefox 88 稳定版被更新到 89 版，...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data Analytics with Pandas – How to Drop a List of Rows from a Pandas Dataframe]]></title>
         <id>60b1eed311ffb70827ef9504</id>

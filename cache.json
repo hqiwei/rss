@@ -2444,6 +2444,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/144145/firefox-89-released",
+          "author": null,
+          "description": "6 月 1 日，Firefox 89 稳定版本正式发布。该版本的重点是界面的重新设计，新设计影响到主要的界面元素，如主工具栏、地址栏、菜单、浏览器显示的提示和标签。该版本也是自 2017 年 Firefox Quantum 发布以来做出的最大改变。 所有的 Firefox 频道都在差不多的时间内被提升了一个版本。Firefox 88 稳定版被更新到 89 版，...",
+          "link": "https://www.oschina.net/news/144145/firefox-89-released",
+          "publishedOn": "2021-06-01T23:30:08.000Z",
+          "wordCount": 564,
+          "title": "采用全新设计语言，Firefox 89 发生重大变化"
+        },
+        {
           "id": "https://www.oschina.net/news/144124/harmonyos-developer",
           "author": null,
           "description": "为了让大家快人一步，迅速从入门小白晋级技术大神，我们集结HarmonyOS技术专家，为应用开发者量身打造了一个路径最短、可实操性最强的学习路线。 包括学习HarmonyOS最新特性和界面开发、熟悉HarmonyOS系统框架，以及开发HarmonyOS应用。 我们收集了工具、教程、详解视频等可实操的学习资料，可以帮你在学习应用开发中事半...",
