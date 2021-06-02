@@ -2,16 +2,206 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T23:42:54.236Z</updated>
+    <updated>2021-06-02T01:49:33.861Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[六大开源基金会负责人对话，你有什么想问他们？]]></title>
+        <id>https://www.oschina.net/news/144158/gotc-opensourc-foundation</id>
+        <link href="https://www.oschina.net/news/144158/gotc-opensourc-foundation"/>
+        <updated>2021-06-02T00:39:42.000Z</updated>
+        <summary type="html"><![CDATA[开源之风已然盛行，随着这股热风极速上涌，开源生态似乎正在得到一次新生。今天我们看开源，可能会有众多问题： 今天的开源与过去的开源有什么不同？ 未来的开源会如何？ 开源在不同视角、在不同地区、在不同领域看来分别是怎样繁荣的？ 开源的协作模式如今怎样渗透到其它领域？ 开源与云厂的冲突如何收场？ 开源作者如何...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[树莓派单独出售 RP2040 芯片，仅售 1 美元]]></title>
+        <id>https://www.oschina.net/news/144156/raspberry-pi-rp2040-chip-for-a-dollar</id>
+        <link href="https://www.oschina.net/news/144156/raspberry-pi-rp2040-chip-for-a-dollar"/>
+        <updated>2021-06-02T00:31:37.000Z</updated>
+        <summary type="html"><![CDATA[今年早些时候，树莓派基金会（Raspberry Pi Foundation）宣布推出搭载 RP2040 的 Raspberry Pi Pico 微控制器用于进行嵌入式开发，售价仅需 4 美元。如今，树莓派基金会决定将 RP2040 芯片单独出售，通过经销商可以以 1 美元的价格购买到，供那些想用这种树莓派芯片构建自己的电子产品的极客或企业使用。 这个售价仅 1 ...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular 计划推出一个自动化功能请求流程]]></title>
+        <id>https://www.oschina.net/news/144155/angular-new-feature-request-process</id>
+        <link href="https://www.oschina.net/news/144155/angular-new-feature-request-process"/>
+        <updated>2021-06-02T00:31:13.000Z</updated>
+        <summary type="html"><![CDATA[Angular 宣布将在接下来的几周内推出一个新的自动化功能请求流程。起因在于，Angular 团队在过去的 6 个月中对 3 个主要存储库中的 4.5k 个问题进行了分类，并合并了数百个请求。与此同时他们发现，处理数千个请求可能很麻烦。“它可能会拖慢我们在讨论线程中的响应速度，并且常常会分散我们对开发人员的首要需求的注意力...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 06 02]]></title>
+        <id>http://www.linuxeden.com/?p=86013</id>
+        <link href="http://www.linuxeden.com/a/86013"/>
+        <updated>2021-06-02T00:27:55.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 06 02]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nyxt 浏览器：一个受 Emacs 和 Vim 启发的面向键盘的网页浏览器]]></title>
+        <id>http://www.linuxeden.com/?p=86009</id>
+        <link href="http://www.linuxeden.com/a/86009"/>
+        <updated>2021-06-02T00:23:01.000Z</updated>
+        <summary type="html"><![CDATA[你可以得到很多适用于 Linux 的开源网页浏览器，不只是基于 Chrome 的浏览器，而且还有 其它的替代品。 它们大多数都侧重于提供漂亮的用户体验，并同时兼顾隐私功能。 然而，Nyxt 浏览器可能不是为最好的用户体验而建立的，而是为资深 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Cloud 2020.0.3 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86007</id>
+        <link href="http://www.linuxeden.com/a/86007"/>
+        <updated>2021-06-02T00:21:44.000Z</updated>
+        <summary type="html"><![CDATA[On behalf of the community, I am pleased to announce that Service Release 3 of the Spring Cloud 2020.0 Release Train (20 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源公告｜微信云端深度学习推理框架 WeChat TFCC 开源啦！]]></title>
+        <id>https://www.oschina.net/news/144154/wechat-tfcc-open-source</id>
+        <link href="https://www.oschina.net/news/144154/wechat-tfcc-open-source"/>
+        <updated>2021-06-02T00:18:08.000Z</updated>
+        <summary type="html"><![CDATA[WeChat TFCC 是微信技术架构部后台团队研发的服务端深度学习通用推理框架，也是腾讯深度学习与加速Oteam云帆的开源协同成果，具有高性能、易用、通用的特点，已在微信视频号、微信开放平台推荐系统、微信画像、微信智聆语音识别、语音合成等业务广泛使用; 支持81个ONNX Operation和108个Tensorflow Operation，覆盖推荐、...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面对众多质疑，Google 为 Chrome 浏览器添加 FLoC 广告追踪开关]]></title>
+        <id>https://www.oschina.net/news/144153/chrome-adds-floc-switch</id>
+        <link href="https://www.oschina.net/news/144153/chrome-adds-floc-switch"/>
+        <updated>2021-06-02T00:14:12.000Z</updated>
+        <summary type="html"><![CDATA[在最新版本的 Chrome Canary 浏览器中，Google 为近期闹得沸沸扬扬的 FLoC 广告追踪功能添加了禁用开关，通过开关用户可以自行选择是否加入 Google FLoC 计划，不再不明不白就被 Google 加入这一测试计划。 FLoC 是 Google 改变现如今网络广告计划的一部分。其核心思想是改变追踪用户的方式，在这个用户隐私数据被滥用的...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RxJava 3.0.13 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86005</id>
+        <link href="http://www.linuxeden.com/a/86005"/>
+        <updated>2021-06-02T00:13:35.000Z</updated>
+        <summary type="html"><![CDATA[Maven JavaDocs ⚠️ RxJava is now signed with a new private key. The new public key fingerprint is 1D9AA7F9E1E2824728B8CD1 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logstash 7.13.1 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86003</id>
+        <link href="http://www.linuxeden.com/a/86003"/>
+        <updated>2021-06-02T00:12:51.000Z</updated>
+        <summary type="html"><![CDATA[Plugin releasesedit Cef Codec – 6.2.1 Added field mapping to docs. Fixed ECS mapping of deviceMacAddress field. Ag […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elasticsearch  7.13.1 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86001</id>
+        <link href="http://www.linuxeden.com/a/86001"/>
+        <updated>2021-06-02T00:12:11.000Z</updated>
+        <summary type="html"><![CDATA[Also see Breaking changes in 7.13. Bug fixesedit Engine Fix illegal access on PIT creation for frozen index #73517 (issu […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ThoughtWorks 刘尚奇：架构耦合是毒性，不谈计量是耍流氓]]></title>
+        <id>https://www.oschina.net/question/4489239_2322718</id>
+        <link href="https://www.oschina.net/question/4489239_2322718"/>
+        <updated>2021-06-02T00:11:51.000Z</updated>
+        <summary type="html"><![CDATA[软件耦合一定是件糟糕的事吗？ 大多数人对这个问题的回答都是“是”。任何一个软件中都会涉及不同程度的耦合，混乱或是错误的耦合会给软件的理解、维护、修改带来许多麻烦，低耦合常常能降低一些错误对软件架构的伤害。因此“高内聚低耦合”是软件开发领域为数不多的“银弹”之一。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis 6.2.4 发布]]></title>
+        <id>http://www.linuxeden.com/?p=85999</id>
+        <link href="http://www.linuxeden.com/a/85999"/>
+        <updated>2021-06-02T00:11:19.000Z</updated>
+        <summary type="html"><![CDATA[Upgrade urgency: SECURITY, Contains fixes to security issues that affect authenticated client connections. MODERATE othe […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD 演示开源图像缩放技术 FidelityFX Super Resolution]]></title>
+        <id>http://www.linuxeden.com/?p=85995</id>
+        <link href="http://www.linuxeden.com/a/85995"/>
+        <updated>2021-06-02T00:09:16.000Z</updated>
+        <summary type="html"><![CDATA[相比英伟达私有的只支持自家显卡的 DLSS 图像缩放技术，AMD 在台北电脑展上演示了它开源的 FidelityFX Super Resolution（ FSR ）技术，这一技术甚至支持英伟达不支持 DLSS 的低端显卡。AMD 将在 6  […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rtfd —— 构建文档的命令工具]]></title>
+        <id>https://www.oschina.net/p/rtfd</id>
+        <link href="https://www.oschina.net/p/rtfd"/>
+        <updated>2021-06-02T00:05:10.000Z</updated>
+        <summary type="html"><![CDATA[rtfd是一个基于sphinx来构建文档的命令工具，用来生成并阅读文档。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitee 推荐 | 高性能纯协程网络通信引擎 Swow]]></title>
+        <id>https://gitee.com/swow/swow</id>
+        <link href="https://gitee.com/swow/swow"/>
+        <updated>2021-06-02T00:03:17.000Z</updated>
+        <summary type="html"><![CDATA[Swow 是一个使用 PHP 和 C 编写的高性能纯协程网络通信引擎。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 剖析经典论文 GBDT+LR]]></title>
+        <id>https://my.oschina.net/u/4579195/blog/4664666</id>
+        <link href="https://my.oschina.net/u/4579195/blog/4664666"/>
+        <updated>2021-06-02T00:01:16.000Z</updated>
+        <summary type="html"><![CDATA[今天我们来剖析一篇经典的论文：Practial Lessons from Predicting Clicks on Ads at Facebook。从这篇paper的名称当中我们可以看得出来，这篇paper的作者是Facebook的广告团队。这是一篇将GBDT与LR模型结合应用在广告点击率预测的方法，虽然距今已经有好几年了，但是文中的方法仍然没有完全过时，至今依然有一些小公司还...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Discord AI Chatbot that Talks Like Your Favorite Character]]></title>
+        <id>60b5025111ffb70827ef9ebe</id>
+        <link href="https://www.freecodecamp.org/news/discord-ai-chatbot/"/>
+        <updated>2021-06-01T23:47:33.000Z</updated>
+        <summary type="html"><![CDATA[Let's build an AI model that speaks just like your favorite character and deploy that model as a Discord chatbot. All the coding and deployment happen in the cloud (for free!), so you don't even need a local IDE to follow along.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[采用全新设计语言，Firefox 89 发生重大变化]]></title>
         <id>https://www.oschina.net/news/144145/firefox-89-released</id>
         <link href="https://www.oschina.net/news/144145/firefox-89-released"/>
         <updated>2021-06-01T23:30:08.000Z</updated>
         <summary type="html"><![CDATA[6 月 1 日，Firefox 89 稳定版本正式发布。该版本的重点是界面的重新设计，新设计影响到主要的界面元素，如主工具栏、地址栏、菜单、浏览器显示的提示和标签。该版本也是自 2017 年 Firefox Quantum 发布以来做出的最大改变。 所有的 Firefox 频道都在差不多的时间内被提升了一个版本。Firefox 88 稳定版被更新到 89 版，...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenHarmony 2.0 Canary 发布]]></title>
+        <id>https://www.oschina.net/news/144144/openharmony-2-0-canary-released</id>
+        <link href="https://www.oschina.net/news/144144/openharmony-2-0-canary-released"/>
+        <updated>2021-06-01T23:21:38.000Z</updated>
+        <summary type="html"><![CDATA[OpenHarmony 2.0 Canary 现已发布，当前版本在 OpenHarmony 1.1.0 的基础上，增加标准系统版本，具备的主要功能如下： 新增22个子系统，支持全面的OS能力，支持内存大于128M的带屏设备开发等。 提供系统三大应用：桌面、设置和SystemUI。 提供全新的OpenHarmony应用框架能力、Ability Cross-platform Engine能力。 提供J...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>
@@ -54,6 +244,16 @@
         <summary type="html"><![CDATA[This informative tutorial goes deep into how to get a cybersecurity job, with insights from senior leaders and hiring managers in the field.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简洁优雅免费 Markdown 编辑器 Typora 0.10.11 + x64 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=39876</id>
+        <link href="http://www.dayanzai.me/typora.html"/>
+        <updated>2021-06-01T16:26:50.000Z</updated>
+        <summary type="html"><![CDATA[Typora 中文版是一款简单、高效而且非常优雅的 Markdown 编辑器，它提供了一种所见即所得的全新的  […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
@@ -361,6 +561,26 @@ Go 规范的兼容实现版本可以存储堆上每次分配的内存。这会�
         <summary type="html"><![CDATA[蚂蚁集团自研数据库 OceanBase 现已开源，采用 MulanPubL - 2.0 许可证。OceanBase 数据库是一个原生的分布式关系数据库，完全由阿里巴巴和蚂蚁集团自主研发。 OceanBase 社区版是一款开源分布式 HTAP（Hybrid Transactional/Analytical Processing）数据库管理系统，具有原生分布式架构，支持金融级高可用、透明水平扩展...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源免费在线直播工具 OBS Studio 27.0 + x64 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=34222</id>
+        <link href="http://www.dayanzai.me/obs-studio.html"/>
+        <updated>2021-05-31T16:36:30.000Z</updated>
+        <summary type="html"><![CDATA[开源免费在线直播工具 OBS Studio 中文版由大眼仔旭（www.dayanzai.me）发布。什么是 O […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轻量级视频编码压制工具 ShanaEncoder 5.2.1.4 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=42460</id>
+        <link href="http://www.dayanzai.me/shanaencoder.html"/>
+        <updated>2021-05-31T16:36:05.000Z</updated>
+        <summary type="html"><![CDATA[ShanaEncoder 中文版是一种这样的程序，能够将整个库转换为多种格式，因此可以保证满足大多数编码需求。 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
