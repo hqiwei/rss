@@ -1035,6 +1035,51 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=86040",
+          "author": "Editor, Kai",
+          "description": "使用 systemd 作为问题定位工具 Apache Tika 1.26 发布 Apache Bookkeeper 4.14.1发布 台积电公布最新技术进展！3nm明年量产 Nyxt 浏览器：一个受 Emacs 和 Vim 启发的面向键盘的 […]",
+          "link": "http://www.linuxeden.com/a/86040",
+          "publishedOn": "2021-06-02T14:25:58.000Z",
+          "wordCount": 109,
+          "title": "每日文章精选 2021 06 02"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86038",
+          "author": "Editor, Kai",
+          "description": "虽然 systemd 并非真正的故障定位工具，但其输出中的信息为解决问题指明了方向。 没有人会认为 systemd 是一个故障定位工具，但当我的 web 服务器遇到问题时，我对 systemd 和它的一些功能的不断了解帮助我找到并规避了问题 […]",
+          "link": "http://www.linuxeden.com/a/86038",
+          "publishedOn": "2021-06-02T14:22:37.000Z",
+          "wordCount": 890,
+          "title": "使用 systemd 作为问题定位工具"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86027",
+          "author": "Editor, Kai",
+          "description": "CHANGES-1.26.txt                2021-06-01 14:50   94K tika-1.26-src.zip               2021-06-01 14:50  118M tika-1.26- […]",
+          "link": "http://www.linuxeden.com/a/86027",
+          "publishedOn": "2021-06-02T14:10:26.000Z",
+          "wordCount": 157,
+          "title": "Apache Tika 1.26 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86020",
+          "author": "Editor, Kai",
+          "description": "bkctl-4.14.1-bin.tar.gz                    2021-05-29 05:09   59M bkctl-4.14.1-bin.tar.gz.asc                2021-05-29  […]",
+          "link": "http://www.linuxeden.com/a/86020",
+          "publishedOn": "2021-06-02T14:08:19.000Z",
+          "wordCount": 128,
+          "title": "Apache Bookkeeper 4.14.1发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86016",
+          "author": "Editor, Kai",
+          "description": "本周，台积电举办了2021年技术研讨会，分享其先进逻辑技术、特殊技术、3DFabric先进封装与芯片堆叠等方面的最新进展，由于疫情尚未平复，台积电依然沿用去年的线上模式举办这次论坛。 “数字化转型为半导体行业开辟了一个充满机遇的新世界，我们 […]",
+          "link": "http://www.linuxeden.com/a/86016",
+          "publishedOn": "2021-06-02T13:42:38.000Z",
+          "wordCount": 90,
+          "title": "台积电公布最新技术进展！3nm明年量产"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86013",
           "author": "Editor, Kai",
           "description": "Linuxeden开源社区-开源美图 2021 06 02",
