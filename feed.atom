@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T01:49:33.861Z</updated>
+    <updated>2021-06-02T05:17:24.118Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -224,6 +224,16 @@
         <summary type="html"><![CDATA[Next.js makes developing React applications simpler. It provides a common structure that allows you to build frontend React applications, and transparently handles server-side rendering for you. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Next.js.  Kapehe developed]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[火了这么多年的博客到底是什么你真的知道吗？]]></title>
+        <id>http://www.dayanzai.me/?p=1088</id>
+        <link href="http://www.dayanzai.me/what-is-a-blog.html"/>
+        <updated>2021-06-01T16:38:38.000Z</updated>
+        <summary type="html"><![CDATA[很多人认为博客只是一种在线日记，但这低估了专业管理博客的影响力。各种博客作者 – 独立企业家、公司 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
