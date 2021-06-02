@@ -389,6 +389,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12148",
+          "author": "Orichalcum",
+          "description": "OpenKruise v0.9.0 版本发布：新增 Pod 重启、删除防护等重磅功能 https://gocn.vip/topics/12146\n\nGo 正则表达式库之 commonregex https://gocn.vip/topics/12143\n\n使用 httputil 反向代理在单个端口上托管 gRPC REST 和 HTML https://medium.com/james-reads-public-cloud-technology-blog/using-a-httputil-reverse-proxy-to-host-grpc-rest-html-on-a-single-port-9d3f629762b7\n\nGo 泛型在函数式编程中的应用 https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/\n\n从数据库创建 gRPC 服务器 https://github.com/walterwanderley/xo-grpc\n\n\n\n\n\n免费门票来了！Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n编辑: Shann\n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12148",
+          "publishedOn": "2021-06-02T11:17:07.000Z",
+          "wordCount": 108,
+          "title": "GoCN 每日新闻 (2021-06-02)"
+        },
+        {
           "id": "https://gocn.vip/topics/12147",
           "author": "NebulaGraph",
           "description": "本文首发于 Nebula Graph 公众号 NebulaGraphCommunity，Follow 看大厂图数据库技术实践。\n\n测试框架的演进\n截止目前为止，在 Nebula Graph 的开发过程中，测试框架一共发生三次较大的改动，如下图所示。在不断的演进中，团队还是积累了一些经验和教训，希望借由此文做个简单的介绍和梳理。\n\n对于一个数据库产品而言，测试的重要性不言而喻，如何强调都不为过。所以测试框架无论切换到谁，出发点始终只有一个：方便快速的积累测试用例来保障 Nebula Graph 功能的稳定。这里提到的 “方便快速”，不是局限于 “开发者” 这个群体，而是需要面向 Nebula Graph 的所有用户，可能是运维、文档甚至是非技术相关人员。为了实现这点目标，最好是能够让用户进行 “无码编程” 甚至不需要编程。\n纵观大多数的数据库产品，往往是定制一套自己的文本规则，开发者基于这套规则来提交测试，前期我们也有过这方面的尝试，后续考虑到要从头实现定制功能太多，再加上用户又需要学习一套新的规则，最终没有真正的切换过去。直到我们开始做兼容 openCypher 的 MATCH 功能时，注意到 TCK 这个 repo，这虽然是一个兼容性的测试套件，但给我们实现 Nebula Graph 的集成测试提供了新的思路。前述尝试不好落地的一个原因是 Nebula Graph 返回的结果集中是一个可能含有点、边和路径的复合数据结构，采用类似 JSON 的方式不是不可，只是不够优雅简洁。结果集多了之后，便有 “形式” 大于 “内容” 之嫌，结构上的描述远超真正关心的数据，啰嗦冗长，不胜其烦。而 TCK 中制定的这套描述点、边和路径的描述规则足够简单直观，又契合 MATCH 中的 Pattern 语句，前后呼应，只要用过 openCypher 的用户，很容易接受和理解。只是针对 Nebu…",
@@ -2560,6 +2569,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/144282",
+          "author": null,
+          "description": "2020年是个特别的一年，我们重新定义了系统桌面的UI环境，基于更加扁平、轻量的设计理念去诠释优麒麟整个系统设计生态，同时，秉持着对用户的诉求以及对产品的全面提升，我们此次对软件商店进行了整体功能优化。UI升级，这次，我们“大有不同”。 改版初衷是什么？ 从麒麟系统问世，从 1.0 到 3.0 的对系统不断打磨，麒麟...",
+          "link": "https://www.oschina.net/news/144282",
+          "publishedOn": "2021-06-02T12:31:40.000Z",
+          "wordCount": 503,
+          "title": "优麒麟软件商店 UI 升级之旅 - 带来视觉极致享受"
+        },
         {
           "id": "https://www.oschina.net/news/144158/gotc-opensourc-foundation",
           "author": null,
