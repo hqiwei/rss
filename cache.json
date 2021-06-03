@@ -2786,6 +2786,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/144450",
+          "author": null,
+          "description": "机器学习（ML）和深度学习（DL）在众多真实的应用场景中愈发重要。这些模型使用已知数据进行训练，并部署在图像分类、内容推荐等场景中进行新数据的处理。总体而言，数据越多，ML/DL 模型就越完善。但囤积和处理海量数据也带来了隐私、安全和监管等风险。 隐私保护机器学习（PPML）有助于化解这些风险。其采用加密技术差...",
+          "link": "https://www.oschina.net/news/144450",
+          "publishedOn": "2021-06-03T10:03:48.000Z",
+          "wordCount": 730,
+          "title": "助力数据安全：蚂蚁携手英特尔共同打造验证 PPML 解决方案"
+        },
+        {
           "id": "https://www.oschina.net/news/144388/confluent-ipo",
           "author": null,
           "description": "基于 Apache Kafka 进行商业支持的创业公司 Confluent 已向美国证券交易委员会 (SEC) 提交 S-1 文件，正式启动 IPO。摩根士丹利、摩根大通和高盛是此次 IPO 的主承销商，Confluent 的股票将在纳斯达克交易，代码为“CFLT”。 Confluent 是一家云软件开发商，它建立在 Apache Kafka 之上，通过围绕开源技术提供服务、支持...",
