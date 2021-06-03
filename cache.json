@@ -6,6 +6,69 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60afce3011ffb70827ef869c",
+          "author": null,
+          "description": "Git has a feature to \"sign\" commits, but what is signing, and what are the benefits? TL;DR: If you don't care for the details, and just need to get commit signing setup quickly, skip to How to Sign Commits. Signing, or code signing specifically, is the process of using",
+          "link": "https://www.freecodecamp.org/news/what-is-commit-signing-in-git/",
+          "publishedOn": "2021-06-02T23:14:01.000Z",
+          "wordCount": 2282,
+          "title": "What is Commit Signing in Git?"
+        },
+        {
+          "id": "60b3a25211ffb70827ef9b39",
+          "author": null,
+          "description": "In this article, you will learn about environment variables in Vanilla JavaScript. You'll also learn how to serve API keys to your application through the Netlify build command. What are JavaScript environment variables?Environment variables are very common when you're using JavaScript frameworks like React or Vue for creating frontend",
+          "link": "https://www.freecodecamp.org/news/how-to-use-environment-variables-in-vanillajs/",
+          "publishedOn": "2021-06-02T22:54:18.000Z",
+          "wordCount": 1415,
+          "title": "How to Use Environment Variables in VanillaJS"
+        },
+        {
+          "id": "60b3ccee11ffb70827ef9bc0",
+          "author": null,
+          "description": "One of the most difficult things about getting started in a new career as a developer is figuring out exactly what you should be learning – and then translating that into an effective plan. There are so many resources out there for learning, so lack of information is not the problem.",
+          "link": "https://www.freecodecamp.org/news/how-to-design-your-own-learning-plan-for-any-tech-stack/",
+          "publishedOn": "2021-06-02T21:18:15.000Z",
+          "wordCount": 2365,
+          "title": "How to Design Your Own Learning Plan for Any Tech Stack"
+        },
+        {
+          "id": "60a699b0906c5207e3a7f5ab",
+          "author": null,
+          "description": "Configuring your .vimrc file lets you use the full power of Vim. With a customized .vimrc file you can increase your Vim powers tenfold. In this article I will show you a few ways you can customize your .vimrc file. I will go over: Basic SettingsPluginsFoldingVimscriptStatus lineFirst create the following",
+          "link": "https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/",
+          "publishedOn": "2021-06-02T20:44:22.000Z",
+          "wordCount": 3441,
+          "title": "Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More"
+        },
+        {
+          "id": "60b0f11411ffb70827ef8dbc",
+          "author": null,
+          "description": "Often times you might want your system to communicate with other web servers to get information. For example, let's say a new user wants to sign up for an account on your website. And instead of having to manually fill out a form to send their information to your system,",
+          "link": "https://www.freecodecamp.org/news/how-to-make-api-calls-with-fetch/",
+          "publishedOn": "2021-06-02T19:39:05.000Z",
+          "wordCount": 1155,
+          "title": "Fetch API – How to Make a GET Request and POST Request in JavaScript"
+        },
+        {
+          "id": "60b4ff4711ffb70827ef9eb2",
+          "author": null,
+          "description": "What is Vue.js? Vue.js is a progressive JavaScript frontend framework written by Evan You. It's one of the most powerful and easy to learn frameworks, and it has over 9.5 million downloads per month.  In September 2020, Vue 3 core was released. The new Vue.js release",
+          "link": "https://www.freecodecamp.org/news/migrate-from-vue2-to-vue3-with-example-project/",
+          "publishedOn": "2021-06-02T19:14:53.000Z",
+          "wordCount": 2649,
+          "title": "How to Migrate from Vue v.2 to Vue v.3 with a Simple Example Project"
+        },
+        {
+          "id": "60b51f6e11ffb70827ef9f7c",
+          "author": null,
+          "description": "Today we're going to build and run an ice cream shop and learn asynchronous JavaScript at the same time. Along the way, you'll learn how to use: CallbacksPromisesAsync / AwaitHere's what we'll cover in this article:What is Asynchronous JavaScript?Synchronous vs Asynchronous JavaScriptHow Callbacks Work in JavaScriptHow Promises Work in",
+          "link": "https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/",
+          "publishedOn": "2021-06-02T14:45:18.000Z",
+          "wordCount": 3302,
+          "title": "JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦"
+        },
+        {
           "id": "60b5025111ffb70827ef9ebe",
           "author": null,
           "description": "Let's build an AI model that speaks just like your favorite character and deploy that model as a Discord chatbot. All the coding and deployment happen in the cloud (for free!), so you don't even need a local IDE to follow along.",
@@ -2614,6 +2677,87 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/144333/openai-launches-100-million-fund-with-backing-from-microsoft",
+          "author": null,
+          "description": "近日，OpenAI 推出了 OpenAI Startup Fund（OpenAI 初创基金），该基金目前具有一亿美金的资金池，用于帮助人工智能公司对世界产生深远、积极的影响。该基金由 OpenAI 管理，由微软和其他合作伙伴投资，OpenAI 表示被选中的公司将提前进入未来的 OpenAI 系统，得到 OpenAI 团队的支持。 据 OpenAI 的首席执行官 Sam Altm...",
+          "link": "https://www.oschina.net/news/144333/openai-launches-100-million-fund-with-backing-from-microsoft",
+          "publishedOn": "2021-06-03T00:58:43.000Z",
+          "wordCount": 503,
+          "title": "OpenAI 与微软合作，推出 1 亿美元的初创基金"
+        },
+        {
+          "id": "https://www.oschina.net/news/144329/cloudera-to-be-acquired-5-3-billion",
+          "author": null,
+          "description": "企业数据云管理公司 Cloudera 宣布已达成一项最终协议，其将被 Clayton、Dubilier & Rice（\"CD&R\"）和 KKR 的关联公司收购，全现金交易价值约为 53 亿美元。该交易预计于 2021 年下半年完成，将使得 Cloudera 成为一家私人公司。 Cloudera 于 2008 年由谷歌、Facebook、甲骨文和雅虎公司的一群工程师创立；是 Hadoop 数据...",
+          "link": "https://www.oschina.net/news/144329/cloudera-to-be-acquired-5-3-billion",
+          "publishedOn": "2021-06-03T00:33:03.000Z",
+          "wordCount": 543,
+          "title": "Cloudera 将以 53 亿美元被收购并私有化"
+        },
+        {
+          "id": "https://www.oschina.net/news/144328/gcc-drops-fsf-ca",
+          "author": null,
+          "description": "当 RMS 重返自由软件基金会（FSF，Free Software Foundation）董事会时，FSF 董事会并未考虑其他人会如何看待他的回归。鉴于这一事件引发的风波，GCC 指导委员会（GCC Steering Committee）此前已将 RMS 从 GCC 的最初创建者成员中移除，GCC 指导委员会近日宣布，他们还将放弃长期以来要求所有代码贡献的版权转让给 FSF ...",
+          "link": "https://www.oschina.net/news/144328/gcc-drops-fsf-ca",
+          "publishedOn": "2021-06-03T00:20:58.000Z",
+          "wordCount": 522,
+          "title": "GCC 不再要求将版权转让给自由软件基金会"
+        },
+        {
+          "id": "https://www.oschina.net/news/144326/stack-overflow-sold-1-8-billion-prosus",
+          "author": null,
+          "description": "欧洲最大的科技投资公司 Prosus 宣布，已经以 18 亿美元收购了软件开发人员的在线社区 Stack Overflow，这是该公司对不断增长的在线技术学习需求的押注。同时，此举也将其持股从中国市场分散开来。 Stack OverFlow 总部设在美国纽约，运营着一个免费站点，供软件工程师分享问题和答案。它有一个企业产品 Stack OverFlow...",
+          "link": "https://www.oschina.net/news/144326/stack-overflow-sold-1-8-billion-prosus",
+          "publishedOn": "2021-06-03T00:11:47.000Z",
+          "wordCount": 553,
+          "title": "腾讯大股东 Prosus 以 18 亿美元收购了 Stack OverFlow"
+        },
+        {
+          "id": "https://my.oschina.net/u/4489239/blog/5067250",
+          "author": null,
+          "description": "6 月 1 日，开放原子开源基金会（以下简称基金会）发布针对孵化项目的毕业标准 v1.0。毕业标准 v1.0 制定总体遵循“宽进严出”原则，注重考察项目代码和社区的成熟度，并把项目的安全性作为最高优先级。",
+          "link": "https://my.oschina.net/u/4489239/blog/5067250",
+          "publishedOn": "2021-06-03T00:05:55.000Z",
+          "wordCount": 579,
+          "title": "开放原子开源基金会发布毕业标准：宽进严出、聚焦成熟度"
+        },
+        {
+          "id": "https://www.oschina.net/p/Kooder",
+          "author": null,
+          "description": "Kooder 是一个开源的代码搜索工具，目标是为包括 Gitee/GitLab/Gitea 在内的代码托管系统提供自动的源码、仓库和 Issue 的搜索服务。",
+          "link": "https://www.oschina.net/p/Kooder",
+          "publishedOn": "2021-06-03T00:02:38.000Z",
+          "wordCount": 547,
+          "title": "Kooder —— 源码托管系统代码搜索工具"
+        },
+        {
+          "id": "https://gitee.com/doc_wei01/skyeye-report",
+          "author": null,
+          "description": "skyeye-report 是一款高性能的 Java 报表引擎，提供完善的基于网页的报表设计器，可快速做出各种复杂的中式报表。支持多种数据源以及拖拽式报表功能。专业化报表设计编辑器，支持多种格式文件的导出。",
+          "link": "https://gitee.com/doc_wei01/skyeye-report",
+          "publishedOn": "2021-06-03T00:01:23.000Z",
+          "wordCount": 419,
+          "title": "Gitee 推荐 | 高性能的 Java 报表引擎 skyeye-report"
+        },
+        {
+          "id": "https://my.oschina.net/u/3024426/blog/4636206",
+          "author": null,
+          "description": "CSRF 全称叫做，跨站请求伪造(Cross—Site Request Forgery)，顾名思义，攻击者盗用了你的身份，以你的名义发送恶意请求，对服务器来说这个请求是完全合法的，但是却完成了攻击者所期望的一个操作，比如以你的名义发送邮件、发消息，盗取你的账号，添加系统管理员，甚至于购买商品、虚拟货币转账等。对于服务器而言，判断...",
+          "link": "https://my.oschina.net/u/3024426/blog/4636206",
+          "publishedOn": "2021-06-03T00:00:38.000Z",
+          "wordCount": 457,
+          "title": "每日一博 | CSRF、XSS 攻防原理及解决方案"
+        },
+        {
+          "id": "https://www.oschina.net/news/144318/chrome-os-91-released",
+          "author": null,
+          "description": "继上周的桌面端 Chrome 浏览器更新至 91 版本之后，Chrome OS 91 从今天起也将陆续推送至用户的 Chromebook 上。 Nearby Share Chrome OS 91 中最重要的升级就是带来了 Nearby Share 功能，Nearby Share 在去年率先在 Android 设备上推出，让不同品牌的 Android 手机可以快速共享手机中的文件。如今该功能正式登陆 Chro...",
+          "link": "https://www.oschina.net/news/144318/chrome-os-91-released",
+          "publishedOn": "2021-06-02T23:32:04.000Z",
+          "wordCount": 518,
+          "title": "Chrome OS 91 发布，为 Chromebook 带来文件互传功能"
+        },
         {
           "id": "https://www.oschina.net/news/144282",
           "author": null,
