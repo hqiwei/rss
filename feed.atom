@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T14:01:52.092Z</updated>
+    <updated>2021-06-03T15:26:07.451Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 06 03]]></title>
+        <id>http://www.linuxeden.com/?p=86075</id>
+        <link href="http://www.linuxeden.com/a/86075"/>
+        <updated>2021-06-03T14:35:25.000Z</updated>
+        <summary type="html"><![CDATA[Qbs 1.19.0 发布 你使用过 Python 3.6 中针对文件系统的这个神奇方法吗？ 麻省理工学院研发可编程数字纤维 有内存传感器和人工智能 欧洲投资公司Prosus以18亿美元收购Stack Overflow码农服务网站 GCC  […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qbs 1.19.0 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86073</id>
+        <link href="http://www.linuxeden.com/a/86073"/>
+        <updated>2021-06-03T14:31:11.000Z</updated>
+        <summary type="html"><![CDATA[Qbs is a community-driven language-agnostic build automation system. It is fast and offers an easy-to-learn language bas […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你使用过 Python 3.6 中针对文件系统的这个神奇方法吗？]]></title>
+        <id>http://www.linuxeden.com/?p=86071</id>
+        <link href="http://www.linuxeden.com/a/86071"/>
+        <updated>2021-06-03T14:24:05.000Z</updated>
+        <summary type="html"><![CDATA[探索 os.fspath 和其他两个未被充分利用但仍然有用的 Python 特性。 这是 Python 3.x 首发特性系列文章中的第七篇。Python 3.6 首次发布于 2016 年，尽管它已经发布了一段时间，但它引入的许多特性都没有得 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[麻省理工学院研发可编程数字纤维 有内存传感器和人工智能]]></title>
+        <id>http://www.linuxeden.com/?p=86067</id>
+        <link href="http://www.linuxeden.com/a/86067"/>
+        <updated>2021-06-03T14:01:58.000Z</updated>
+        <summary type="html"><![CDATA[麻省理工学院研究人员创造了第一种具有数字功能的纤维，在被缝入衬衫后能够感知、存储、分析和推断活动。数字纤维扩大了织物的可能性，可以发现人体中隐藏模式，可以用于体能监测、医疗推断和早期疾病检测。 研究人员在《自然通讯》上描述了数字光纤的特点。 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[助力数据安全：蚂蚁携手英特尔共同打造验证 PPML 解决方案]]></title>
         <id>https://www.oschina.net/news/144450</id>
