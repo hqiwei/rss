@@ -452,6 +452,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12149",
+          "author": "simple634725267",
+          "description": "负责【WPS 个人云】产品线上服务与开发；\n日均几千万人使用的 WPS 云产品开发。\n【golang 程序开发】岗位要求：\n3 年以上工作经验，golang 方向后端开发；\n掌握常用数据结构、算法，面向对象编程，熟悉 Linux 系统；\n了解基本网络知识，TCP/IP、UDP、HTTP 等网络协议；\n掌握 c/c++/python/php/go/SQL 一种或多种编程语言，golang 优先；\n有 nginx/redis/mysql/docker/kafka/es 一种或多种软件使用经验者；\n有 web 前端开发经验者强烈加分。\n【运维开发】岗位职责：\n负责云平台后端可靠性系统开发和按时交付，保证交付质量；\n参与建设可靠性运维支撑平台、自动化平台，开发相关运维工具；\n负责容器及虚拟化相关前沿技术规划和研发工作，从技术上保证产品的竞争力。\n岗位要求：\n学历本科以上，两年以上工作经验；\n精通 Linux，对系统原理有深入理解；\n熟悉 TCP/IP 及网络编程；\n熟悉掌握 Python，Shell 编程，有 golang 经验加分；\n熟悉常用开源组件，K8S、Elasticsearch、Redis、Kafka、Nginx、Ceph；\n有责任心，积极主动，思维清晰，具有良好的团队协作和沟通表达能力。\nBase  金山办公  珠海/广州\n应聘邮箱： 634725267@qq.com\n邮件命名：Go 招聘 + 姓名 +GoCN",
+          "link": "https://gocn.vip/topics/12149",
+          "publishedOn": "2021-06-03T01:58:20.000Z",
+          "wordCount": 127,
+          "title": "✧ෆ◞◟˃̶̤⌄˂ 期望遇见你【金山 WPS】Go 开发招聘"
+        },
+        {
           "id": "https://gocn.vip/topics/12148",
           "author": "Orichalcum",
           "description": "OpenKruise v0.9.0 版本发布：新增 Pod 重启、删除防护等重磅功能 https://gocn.vip/topics/12146\n\nGo 正则表达式库之 commonregex https://gocn.vip/topics/12143\n\n使用 httputil 反向代理在单个端口上托管 gRPC REST 和 HTML https://medium.com/james-reads-public-cloud-technology-blog/using-a-httputil-reverse-proxy-to-host-grpc-rest-html-on-a-single-port-9d3f629762b7\n\nGo 泛型在函数式编程中的应用 https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/\n\n从数据库创建 gRPC 服务器 https://github.com/walterwanderley/xo-grpc\n\n\n\n\n\n免费门票来了！Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n编辑: Shann\n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs",
@@ -1097,6 +1106,15 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=86044",
+          "author": "Editor, Kai",
+          "description": "有一天，我试图在一个新的 Ubuntu 系统上编译一个程序，当我试图使用 make 命令时，它向我抛出一个错误： The program 'make' is currently not installed. You can install  […]",
+          "link": "http://www.linuxeden.com/a/86044",
+          "publishedOn": "2021-06-03T01:31:15.000Z",
+          "wordCount": 192,
+          "title": "Make 命令未找到？这是修复它的方法"
+        },
         {
           "id": "http://www.linuxeden.com/?p=86040",
           "author": "Editor, Kai",
@@ -2677,6 +2695,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://my.oschina.net/u/4855753/blog/5065587",
+          "author": null,
+          "description": "OSC 特别策划毕业季征文活动，送定制 T 恤、内裤、晴雨伞、笔记本~",
+          "link": "https://my.oschina.net/u/4855753/blog/5065587",
+          "publishedOn": "2021-06-03T02:57:46.000Z",
+          "wordCount": 182,
+          "title": "我真·我敢 毕业季征文活动 | 6.7~6.20，赢 OSC 周边好礼！"
+        },
         {
           "id": "https://www.oschina.net/news/144333/openai-launches-100-million-fund-with-backing-from-microsoft",
           "author": null,

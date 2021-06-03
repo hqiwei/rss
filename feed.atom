@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T01:28:22.166Z</updated>
+    <updated>2021-06-03T04:46:05.187Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[我真·我敢 毕业季征文活动 | 6.7~6.20，赢 OSC 周边好礼！]]></title>
+        <id>https://my.oschina.net/u/4855753/blog/5065587</id>
+        <link href="https://my.oschina.net/u/4855753/blog/5065587"/>
+        <updated>2021-06-03T02:57:46.000Z</updated>
+        <summary type="html"><![CDATA[OSC 特别策划毕业季征文活动，送定制 T 恤、内裤、晴雨伞、笔记本~]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✧ෆ◞◟˃̶̤⌄˂ 期望遇见你【金山 WPS】Go 开发招聘]]></title>
+        <id>https://gocn.vip/topics/12149</id>
+        <link href="https://gocn.vip/topics/12149"/>
+        <updated>2021-06-03T01:58:20.000Z</updated>
+        <summary type="html"><![CDATA[负责【WPS 个人云】产品线上服务与开发；
+日均几千万人使用的 WPS 云产品开发。
+【golang 程序开发】岗位要求：
+3 年以上工作经验，golang 方向后端开发；
+掌握常用数据结构、算法，面向对象编程，熟悉 Linux 系统；
+了解基本网络知识，TCP/IP、UDP、HTTP 等网络协议；
+掌握 c/c++/python/php/go/SQL 一种或多种编程语言，golang 优先；
+有 nginx/redis/mysql/docker/kafka/es 一种或多种软件使用经验者；
+有 web 前端开发经验者强烈加分。
+【运维开发】岗位职责：
+负责云平台后端可靠性系统开发和按时交付，保证交付质量；
+参与建设可靠性运维支撑平台、自动化平台，开发相关运维工具；
+负责容器及虚拟化相关前沿技术规划和研发工作，从技术上保证产品的竞争力。
+岗位要求：
+学历本科以上，两年以上工作经验；
+精通 Linux，对系统原理有深入理解；
+熟悉 TCP/IP 及网络编程；
+熟悉掌握 Python，Shell 编程，有 golang 经验加分；
+熟悉常用开源组件，K8S、Elasticsearch、Redis、Kafka、Nginx、Ceph；
+有责任心，积极主动，思维清晰，具有良好的团队协作和沟通表达能力。
+Base  金山办公  珠海/广州
+应聘邮箱： 634725267@qq.com
+邮件命名：Go 招聘 + 姓名 +GoCN]]></summary>
+        <author>
+            <name>simple634725267</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make 命令未找到？这是修复它的方法]]></title>
+        <id>http://www.linuxeden.com/?p=86044</id>
+        <link href="http://www.linuxeden.com/a/86044"/>
+        <updated>2021-06-03T01:31:15.000Z</updated>
+        <summary type="html"><![CDATA[有一天，我试图在一个新的 Ubuntu 系统上编译一个程序，当我试图使用 make 命令时，它向我抛出一个错误： The program 'make' is currently not installed. You can install  […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI 与微软合作，推出 1 亿美元的初创基金]]></title>
         <id>https://www.oschina.net/news/144333/openai-launches-100-million-fund-with-backing-from-microsoft</id>
