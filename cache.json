@@ -452,6 +452,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12152",
+          "author": "alicloudnative",
+          "description": "作者 | 高文俊\n来源｜阿里巴巴云原生公众号\n​\n简介\nOpenYurt 是由阿里云开源的基于原生 Kubernetes 构建的、业内首个对于 Kubernetes 非侵入式的边缘计算项目，目标是扩展 Kubernetes 以无缝支持边缘计算场景。它提供了完整的 Kubernetes API 兼容性；支持所有 Kubernetes 工作负载、服务、运营商、CNI 插件和 CSI 插件；提供良好的节点自治能力和云边协同能力。OpenYurt 可以轻松部署在任何 Kubernetes 集群服务中，让强大的云原生能力扩展到边缘。\n​\n边缘本地存储\n​\nOpenYurt v0.4.0 版本推出全新特性：边缘本地存储管理，用于高效地管理边缘节点的存储资源，用户可以通过 ConfigMap 来动态配置集群内节点的本地资源，并能无缝对接 CSI 存储插件，通过原生的 PV/PVC 方式使用本地存储。\n​\n该项目组件主要包含两个部分， 一个是定义在集群中 kube-system namespace 的 node-resource-topo ConfigMap, 一个是部署在集群中 kube-system namespace 下面的 node-resource-manager Daemonset, 每个 Node 节点上的 node-resource-manager 通过挂载 node-resource-topo ConfigMap 的方式生产并管理用户定义的本地资源。架构如下：\n​\n\n主要优点：\n简单易用：node-resource-manager 可以仅通过定义 ConfigMap 就完成对集群中的本地资源的初始化和更新。\n易于集成：node-resource-manager 可以与 csi 插件集成来完成 kubernetes 集群中的相关本地资源的生命周期管理。\n与云平台无关：nod…",
+          "link": "https://gocn.vip/topics/12152",
+          "publishedOn": "2021-06-03T08:09:11.000Z",
+          "wordCount": 321,
+          "title": "OpenYurt v0.4.0 新特性发布：高效地管理边缘存储资源"
+        },
+        {
           "id": "https://gocn.vip/topics/12151",
           "author": "azhang",
           "description": "GoCN 每日新闻 (2021-06-03)\n基于 cdp 协议开发的浏览器自动化工具 rod  https://go-rod.github.io/i18n/zh-CN/#/get-started/README\n\nGo 重构和转换工具  https://github.com/uber-go/gopatch#gopatch\n3.开发小应用的 jetbrains 插件 tinygo   https://blog.jetbrains.com/go/2021/06/02/tinygo-for-tiny-applications-discover-a-new-plugin-for-goland/\n\n使用 httputil 反向代理工具将 grpc rest & html 绑定到一个端口上  https://medium.com/james-reads-public-cloud-technology-blog/using-a-httputil-reverse-proxy-to-host-grpc-rest-html-on-a-single-port-9d3f629762b7\n\nPre-commit-golang 支持 revive 了 https://github.com/TekWizely/pre-commit-golang/releases/tag/v0.8.3\n\n\n\n\n\n免费门票来了！Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n编辑: 阿章 \n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs\n\n\nGoCN 归档: https://gocn.vip/topics/12149",
@@ -2526,6 +2535,15 @@
       "feedUrl": "http://feed.appinn.com",
       "siteUrl": "https://www.appinn.com",
       "articles": [
+        {
+          "id": "https://www.appinn.com/?p=38953",
+          "author": "青小蛙",
+          "description": "Gdu 是一款实用 Go 语言编写的跨平台磁盘使用情况分析工具，虽然是命令行式工具，但 Gdu 还是有一个简单的图形界面，并且多数操作可通过方向键操作。@Appinn Gdu – go D",
+          "link": "https://www.appinn.com/gdu-go-diskusage/",
+          "publishedOn": "2021-06-03T06:40:44.000Z",
+          "wordCount": 1106,
+          "title": "Gdu – Windows 也能用的「命令行式」磁盘使用情况分析工具"
+        },
         {
           "id": "https://www.appinn.com/?p=38949",
           "author": "青小蛙",

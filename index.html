@@ -20,6 +20,23 @@
     <ul class="sources card">
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.appinn.com">小众软件</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Gdu – Windows 也能用的「命令行式」磁盘使用情况分析工具</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.appinn.com/gdu-go-diskusage/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(4 min)</span>
+                    <span>Gdu 是一款实用 Go 语言编写的跨平台磁盘使用情况分析工具，虽然是命令行式工具，但 Gdu 还是有一个简单的图形界面，并且多数操作可通过方向键操作。@Appinn Gdu – go D</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="http://www.linuxeden.com">Linuxeden开源社区</a></h3>
           <section class="articles-per-source">
             <article>
@@ -105,6 +122,33 @@
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://gocn.vip/">GoCN社区</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">OpenYurt v0.4.0 新特性发布：高效地管理边缘存储资源</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12152">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>作者 | 高文俊
+来源｜阿里巴巴云原生公众号
+​
+简介
+OpenYurt 是由阿里云开源的基于原生 Kubernetes 构建的、业内首个对于 Kubernetes 非侵入式的边缘计算项目，目标是扩展 Kubernetes 以无缝支持边缘计算场景。它提供了完整的 Kubernetes API 兼容性；支持所有 Kubernetes 工作负载、服务、运营商、CNI 插件和 CSI 插件；提供良好的节点自治能力和云边协同能力。OpenYurt 可以轻松部署在任何 Kubernetes 集群服务中，让强大的云原生能力扩展到边缘。
+​
+边缘本地存储
+​
+OpenYurt v0.4.0 版本推出全新特性：边缘本地存储管理，用于高效地管理边缘节点的存储资源，用户可以通过 ConfigMap 来动态配置集群内节点的本地资源，并能无缝对接 CSI 存储插件，通过原生的 PV/PVC 方式使用本地存储。
+​
+该项目组件主要包含两个部分， 一个是定义在集群中 kube-system namespace 的 node-resource-topo ConfigMap, 一个是部署在集群中 kube-system namespace 下面的 node-resource-manager Daemonset, 每个 Node 节点上的 node-resource-manager 通过挂载 node-resource-topo ConfigMap 的方式生产并管理用户定义的本地资源。架构如下：
+​
+
+主要优点：
+简单易用：node-resource-manager 可以仅通过定义 ConfigMap 就完成对集群中的本地资源的初始化和更新。
+易于集成：node-resource-manager 可以与 csi 插件集成来完成 kubernetes 集群中的相关本地资源的生命周期管理。
+与云平台无关：nod…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">GoCN 每日新闻 (2021-06-03)</summary>
@@ -8714,7 +8758,7 @@ type Test struct {
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-06-03T06:45:08.040Z">2021-06-03T06:45:08.040Z</time>
+    <time id="build-timestamp" datetime="2021-06-03T08:22:10.295Z">2021-06-03T08:22:10.295Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.10.2</a></span>
   </footer>
   <script src="index.js"></script>
