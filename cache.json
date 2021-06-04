@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60b2a4c611ffb70827ef9842",
+          "author": null,
+          "description": "TypeScript has taken the development world by storm. No wonder it has over 15 million weekly downloads on npm. But what is TypeScript, and what do you need to know about it?  In this article, I am going answer those questions. By the end you'll have a grasp of the",
+          "link": "https://www.freecodecamp.org/news/learn-typescript-basics/",
+          "publishedOn": "2021-06-04T18:01:00.000Z",
+          "wordCount": 2225,
+          "title": "Learn TypeScript Basics in this Beginner&#x27;s Guide"
+        },
+        {
           "id": "60b98ebfacb62507dd1d8ec4",
           "author": null,
           "description": "Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course",
