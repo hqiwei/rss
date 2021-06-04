@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60b98ebfacb62507dd1d8ec4",
+          "author": null,
+          "description": "Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course",
+          "link": "https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/",
+          "publishedOn": "2021-06-04T02:32:22.000Z",
+          "wordCount": 390,
+          "title": "Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery"
+        },
+        {
           "id": "60b11ff811ffb70827ef8f94",
           "author": null,
           "description": "Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.",
@@ -514,6 +523,15 @@
       "feedUrl": "https://gocn.vip/topics/feed",
       "siteUrl": "https://gocn.vip/",
       "articles": [
+        {
+          "id": "https://gocn.vip/topics/12154",
+          "author": "ningxiaofang1o",
+          "description": "Go 1.16.5 和 Go 1.15.13 发布 https://groups.google.com/g/golang-announce/c/RgCMkAEQjSI/m/r_EP-NlKBgAJ\n\n\n自动测试工具 Fuzzing 发布 beta  https://blog.golang.org/fuzz-beta\n\n\nOpenYurt v0.4.0 新特性发布：高效地管理边缘存储资源  https://gocn.vip/topics/12152\n\n\nstringer 命令，通过代码生成提高效率  https://mp.weixin.qq.com/s/Ik3PxNRbddtbm6E-Xo_rdA\n\n\n假如 Go 能说话，听听 GMP 的心声 https://mp.weixin.qq.com/s/eHXAPQkzwMTaLVrXESowBg\n\n\n\n\n\n免费门票来了！Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n编辑: 熊大 \n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12154",
+          "publishedOn": "2021-06-04T01:55:40.000Z",
+          "wordCount": 106,
+          "title": "GoCN 每日新闻 (2021-06-04)"
+        },
         {
           "id": "https://gocn.vip/topics/12153",
           "author": "12345678",
@@ -2689,6 +2707,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=38958",
+          "author": "青小蛙",
+          "description": "Rclone for Android 是一款基于著名网盘文件管理工具 Rclone 的 Android 客户端，可以让你方便的在 Android 设备上管理网盘文件，支持直接导入 Rclone 配置文",
+          "link": "https://www.appinn.com/rclone-for-android/",
+          "publishedOn": "2021-06-04T03:06:00.000Z",
+          "wordCount": 1223,
+          "title": "Rclone for Android – 云服务/网盘文件管理工具 Rclone 的 Android 客户端"
+        },
+        {
           "id": "https://www.appinn.com/?p=38953",
           "author": "青小蛙",
           "description": "Gdu 是一款实用 Go 语言编写的跨平台磁盘使用情况分析工具，虽然是命令行式工具，但 Gdu 还是有一个简单的图形界面，并且多数操作可通过方向键操作。@Appinn Gdu – go D",
@@ -2938,6 +2965,24 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/144532/jpress-4-0-released",
+          "author": null,
+          "description": "JPress v4.0 正式版终于来了，相对 JPress v3.x 来说，超过 100 项的新增或者细节优化，模板制作对于模板作者来说也更加简单了。 JPress 是一个使用 Java 开发的类似 WordPress 的产品，具有完善的模板和插件功能，并在此基础上新增了在线商城、会员中心以及和微信深度整合的功能。到目前为止， 已经有 10w+ 网站使用 JP...",
+          "link": "https://www.oschina.net/news/144532/jpress-4-0-released",
+          "publishedOn": "2021-06-04T03:22:22.000Z",
+          "wordCount": 586,
+          "title": "重大版本，JPress v4.0 正式版发布，超 100 项的新增或优化"
+        },
+        {
+          "id": "https://my.oschina.net/u/5148943/blog/5063429",
+          "author": null,
+          "description": "云溪数据库 ZNBase 是由浪潮开源的一款 NewSQL 分布式数据库，具备 HTAP 特性，拥有强一致、高可用的分布式架构。对于一个高可用的分布式系统来说，为了保障不同集群不同节点的数据一致，一致性算法尤为重要。Raft 是一种管理日志复制的分布式一致性算法，包括 ZNBase 在内的很多分布式系统都采用 Raft 作为底层的一致性...",
+          "link": "https://my.oschina.net/u/5148943/blog/5063429",
+          "publishedOn": "2021-06-04T01:35:21.000Z",
+          "wordCount": 551,
+          "title": "深入解析 Raft 模块在 ZNBase 中的优化改造"
+        },
         {
           "id": "https://www.oschina.net/news/144508/chrome-warns-you-of-extensions-from-untrusted-devs",
           "author": null,
