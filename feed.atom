@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T06:45:45.346Z</updated>
+    <updated>2021-06-04T08:47:59.523Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Eolinker 加入 TARS 基金会｜推动微服务开源技术]]></title>
+        <id>https://www.oschina.net/news/144591/eolinker-tars</id>
+        <link href="https://www.oschina.net/news/144591/eolinker-tars"/>
+        <updated>2021-06-04T08:09:05.000Z</updated>
+        <summary type="html"><![CDATA[TARS基金会是Linux基金会下的非营利性、微服务基金会，旨在建设一个强大而灵活的微服务生态系统，今天很高兴地宣布Eolinker作为普通会员加入TARS基金。Eolinker是业内领先的API全生命周期管理解决方案的领军者，帮助企业快速构建 API 研发、测试、监控、安全、开放能力。 Eolinker是国内最大的在线API管理服务供应商，旨...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Proxy-Go 控制面板 v3.0 发布，新增版本参数，更新功能！]]></title>
         <id>https://www.oschina.net/news/144541/proxy-go-3-0-released</id>
@@ -291,6 +301,26 @@ stringer 命令，通过代码生成提高效率  https://mp.weixin.qq.com/s/Ik3
         <summary type="html"><![CDATA[If you're new to cloud technologies, you might be confused about the difference between serverless technologies and managed services.  So in this article you'll learn what these terms mean and what the main differences are.    What Are Managed Services? A managed service let the end-user focus on using a service]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音频标签编辑管理工具 TagScanner 6.1.9 + x64 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=36041</id>
+        <link href="http://www.dayanzai.me/tagscanner.html"/>
+        <updated>2021-06-03T16:34:01.000Z</updated>
+        <summary type="html"><![CDATA[音频标签编辑管理工具 TagScanner 中文版由大眼仔旭（www.dayanzai.me）发布。TagSc […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nextcloud 集成的纯文本 Markdown 笔记 QOwnNotes 21.6.0 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=41988</id>
+        <link href="http://www.dayanzai.me/qownnotes.html"/>
+        <updated>2021-06-03T16:23:27.000Z</updated>
+        <summary type="html"><![CDATA[QOwnNotes 中文版由大眼仔旭（www.dayanzai.me）整理发布。QOwnNotes 绿色版是一 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
