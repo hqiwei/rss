@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T04:05:19.419Z</updated>
+    <updated>2021-06-04T06:45:45.346Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Proxy-Go 控制面板 v3.0 发布，新增版本参数，更新功能！]]></title>
+        <id>https://www.oschina.net/news/144541/proxy-go-3-0-released</id>
+        <link href="https://www.oschina.net/news/144541/proxy-go-3-0-released"/>
+        <updated>2021-06-04T04:32:23.000Z</updated>
+        <summary type="html"><![CDATA[Proxy-Go 控制面板 ProxyAdmin 是强大的代理服务工具 snail007/goproxy 的控制面板，运行了它，一秒让你的服务器变为强大的代理服务器，友好的交互界面，小白也能轻松上手，让你用起来得心应手，心情舒畅。 更新内容： 1.新增更新功能，执行`proxy-admin update`就可以更新了，升级更加方便。还能用`proxy-admin update...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重大版本，JPress v4.0 正式版发布，超 100 项的新增或优化]]></title>
         <id>https://www.oschina.net/news/144532/jpress-4-0-released</id>

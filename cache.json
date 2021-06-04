@@ -2966,6 +2966,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/144541/proxy-go-3-0-released",
+          "author": null,
+          "description": "Proxy-Go 控制面板 ProxyAdmin 是强大的代理服务工具 snail007/goproxy 的控制面板，运行了它，一秒让你的服务器变为强大的代理服务器，友好的交互界面，小白也能轻松上手，让你用起来得心应手，心情舒畅。 更新内容： 1.新增更新功能，执行`proxy-admin update`就可以更新了，升级更加方便。还能用`proxy-admin update...",
+          "link": "https://www.oschina.net/news/144541/proxy-go-3-0-released",
+          "publishedOn": "2021-06-04T04:32:23.000Z",
+          "wordCount": 454,
+          "title": "Proxy-Go 控制面板 v3.0 发布，新增版本参数，更新功能！"
+        },
+        {
           "id": "https://www.oschina.net/news/144532/jpress-4-0-released",
           "author": null,
           "description": "JPress v4.0 正式版终于来了，相对 JPress v3.x 来说，超过 100 项的新增或者细节优化，模板制作对于模板作者来说也更加简单了。 JPress 是一个使用 Java 开发的类似 WordPress 的产品，具有完善的模板和插件功能，并在此基础上新增了在线商城、会员中心以及和微信深度整合的功能。到目前为止， 已经有 10w+ 网站使用 JP...",
