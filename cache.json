@@ -5079,6 +5079,15 @@
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
         {
+          "id": "http://www.dayanzai.me/?p=52408",
+          "author": "大眼仔~旭",
+          "description": "运行 CentOS 7 的新云服务器上可用的默认 PHP 版本是 5.4 版。了解如何将其升级到 PHP 7. […]",
+          "link": "http://www.dayanzai.me/centos-upgrade-php.html",
+          "publishedOn": "2021-06-04T10:54:39.000Z",
+          "wordCount": 618,
+          "title": "在 CentOS 7 云服务器上将 PHP 从 5.4 升级到 7.0"
+        },
+        {
           "id": "http://www.dayanzai.me/?p=36041",
           "author": "大眼仔~旭",
           "description": "音频标签编辑管理工具 TagScanner 中文版由大眼仔旭（www.dayanzai.me）发布。TagSc […]",
