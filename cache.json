@@ -524,6 +524,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12155",
+          "author": "cctonange",
+          "description": "职位描述\n岗位职责:\n负责分布式时序数据库的底层计算和存储系统的设计与开发\n负责分布式时序数据库的稳定性以及性能优化\n任职资格：\n三年以上相关领域开发经验，扎实的编程能力，精通 C/C++/Rust/Go 中的一种；对分布式系统的架构和原理有比较深入的了解；\n熟悉 TCP/IP 协议、HTTP 协议；\n熟悉 MySQL/PostgreSQL/Greenplum/InfluxDB/Hbase/ClickHouse/LevelDB/RocksDB 等至少一种数据库系统实现原理；\n优秀的发现和解决问题能力，良好的沟通能力，具备团队合作精神。\n加分项：\n拥抱开源，对前沿技术有浓厚的热情和探索欲望，有开源项目经历；\n熟悉 LSM/Raft/Paxos 算法；\n阅读过一个或多个数据库的源码，或者参与过其源码贡献。\n只要对数据库开发有热情，喜欢做有挑战性的事，基础不错，都欢迎来聊。\n开发语言会 Go/Rust 的更好，因为数据库是基于这两门语言开发的。\n待遇\n根据能力 10k-40k 。\n联系方式\ncctonange@gmail.com",
+          "link": "https://gocn.vip/topics/12155",
+          "publishedOn": "2021-06-04T10:08:42.000Z",
+          "wordCount": 102,
+          "title": "[成都/佳华科技] 时序数据库开发 (初/中/高级都招)"
+        },
+        {
           "id": "https://gocn.vip/topics/12154",
           "author": "ningxiaofang1o",
           "description": "Go 1.16.5 和 Go 1.15.13 发布 https://groups.google.com/g/golang-announce/c/RgCMkAEQjSI/m/r_EP-NlKBgAJ\n\n\n自动测试工具 Fuzzing 发布 beta  https://blog.golang.org/fuzz-beta\n\n\nOpenYurt v0.4.0 新特性发布：高效地管理边缘存储资源  https://gocn.vip/topics/12152\n\n\nstringer 命令，通过代码生成提高效率  https://mp.weixin.qq.com/s/Ik3PxNRbddtbm6E-Xo_rdA\n\n\n假如 Go 能说话，听听 GMP 的心声 https://mp.weixin.qq.com/s/eHXAPQkzwMTaLVrXESowBg\n\n\n\n\n\n免费门票来了！Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n编辑: 熊大 \n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs",
