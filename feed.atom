@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T21:01:05.506Z</updated>
+    <updated>2021-06-04T22:33:46.010Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Search and Filter Components in React]]></title>
+        <id>60b3480c11ffb70827ef9a88</id>
+        <link href="https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/"/>
+        <updated>2021-06-04T21:34:33.000Z</updated>
+        <summary type="html"><![CDATA[If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Machine Learning in Python – The Top New Scikit-Learn 0.24 Features You Should Know]]></title>
         <id>60ba33d7acb62507dd1d9050</id>

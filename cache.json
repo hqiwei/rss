@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60b3480c11ffb70827ef9a88",
+          "author": null,
+          "description": "If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.",
+          "link": "https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/",
+          "publishedOn": "2021-06-04T21:34:33.000Z",
+          "wordCount": 2174,
+          "title": "How to Search and Filter Components in React"
+        },
+        {
           "id": "60ba33d7acb62507dd1d9050",
           "author": null,
           "description": "Scikit-learn is one of the most popular open-source and free machine learning libraries for Python.  The scikit-learn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction. Many data scientists, machine learning engineers, and researchers rely on this library for",
