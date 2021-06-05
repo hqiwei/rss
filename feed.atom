@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T13:59:19.523Z</updated>
+    <updated>2021-06-05T14:40:44.217Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 06 05]]></title>
+        <id>http://www.linuxeden.com/?p=86135</id>
+        <link href="http://www.linuxeden.com/a/86135"/>
+        <updated>2021-06-05T14:08:43.000Z</updated>
+        <summary type="html"><![CDATA[英特尔和 AMD 提出 x86 中断处理的不同替代，Linus 建议两个都搞 46%的开源维护者是没有任何报酬的 26%年收入超1000美元 [图]科学家打造人工神经元芯片 可实时识别生物信号 Spring Integration AWS  […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英特尔和 AMD 提出 x86 中断处理的不同替代，Linus 建议两个都搞]]></title>
         <id>http://www.linuxeden.com/?p=86130</id>

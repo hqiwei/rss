@@ -1305,6 +1305,15 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=86135",
+          "author": "Editor, Kai",
+          "description": "英特尔和 AMD 提出 x86 中断处理的不同替代，Linus 建议两个都搞 46%的开源维护者是没有任何报酬的 26%年收入超1000美元 [图]科学家打造人工神经元芯片 可实时识别生物信号 Spring Integration AWS  […]",
+          "link": "http://www.linuxeden.com/a/86135",
+          "publishedOn": "2021-06-05T14:08:43.000Z",
+          "wordCount": 114,
+          "title": "每日文章精选 2021 06 05"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86130",
           "author": "Editor, Kai",
           "description": "从 286 时代起，x86 处理器都是使用一个拜占庭系统去管理中断、故障和异常，它组合使用了查询表、权限检查等，可能会让人困惑，但大部分情况下能正常工作。不可避免的是，中断描述符表存在一些 bug，竞争条件、死锁、无限循环和权限冲突等问题虽 […]",
