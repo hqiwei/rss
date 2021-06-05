@@ -168,6 +168,88 @@
           <section class="articles-per-source">
             <article>
               <details class="article-expander">
+                <summary class="article-expander__title">编译器如何判断你是否是 Duck Type</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12161">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>go version 1.14.12
+何为 Duck Type
+当看到一只鸟走起来像鸭子、游泳起来像鸭子、叫起来也像鸭子，那么这只鸟就可以被称为鸭子。
+
+Show me the code 🤔
+type Duck interface {
+    Quack()
+}
+type Cat struct{}
+//Quack ,now, the Cat is Duck
+func (c Cat) Quack() {
+    fmt.Println(&quot;Miowo&quot;)
+}
+func main() {
+    var _ Duck &#x3D; Cat{}
+}
+
+
+那么，我也可以是鸭子？
+​
+得意之时，Cat 突然尴尬地说，我好像不会Quack 这个技能，但是我会Quacks 😁，您看这也差不多，我也能算鸭子吧？
+ 那我们还是问问土拨鼠兄弟
+      
+土拨鼠盘算了一番，毫无犹豫地划了个 ❌
+
+Cat 刚想争辩，土拨鼠已遁入土里，Cat 不服，遂掘地三尺，挖向了底层。。。好了，回归正题，我们先分析问题。
+​
+问题分析
+问题定位：出现在编译过程中，查看 compile 包。
+报错定位：在 compile 包全局搜索报错信息关键字段 does not implement。
+筛选一下，找到了subr.go
+很好，我们定位了:
+*why &#x3D; fmt.Sprintf(&quot;:\n\t%v does not implement %v (missing %v method)&quot;, src, dst, missing.Sym)
+
+
+
+函数内上下文发现（注意代码注释）：
+// 3. dst is an interface type and src implements dst.
+    if dst.IsInterface() &amp;&amp; src.Etype !&#x3D; TNIL {
+        var missing, hav…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Go 高性能系列教程之读懂 Go 的执行跟踪器</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12160">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>介绍
+有没有想过你的协程是如何被 go 运行时调度的？有没有想过为什么增加了并发但性能却没有提高？Go 的执行跟踪器（execution tracer）可以帮我们回答这些 问题以及帮你诊断性能问题，比如延迟，竞争和并行阻塞。
+该工具自 Go 1.15 版本开始可用，主要工作是收集 go 运行时特定的事件。例如：
+协程的创建、启动以及结束。
+协程阻塞/解除阻塞事件（系统调用 syscalls，通道 channels，锁 locks）
+网络 I/0 相关事件
+系统调用
+垃圾回收（GC）
+所有这些数据都是通过跟踪器（tracer）进行收集的，没有任何聚集或取样。在一些繁忙的应用中，可能会导致一个非常大的文件，该文件可以通过 go tool trace命令进行分析。
+在 Go 的工具链中，之前已经有 pprof 可以收集内存和 CPU 的数据了，为什么还要研发执行跟踪器，并把它加入到官方的工具链中呢？然而，CPU 的收集器（CPU Profiler）能够告诉你一个函数花费了多少 CPU 的执行时间，但不能告诉你在运行时环境中，是什么阻塞了协程的运行，也不能告诉你协程在可用的线程上是如何调度器的。这就是跟踪器（tracer）真正发挥作用的地方。tracer 设计文档很好的解释了 tracer 的动机以及如何被设计的。
+开启 tracer 之旅
+我们以&quot;Hello World&quot;来作为执行跟踪（tracing）的示例。在这个例子中，我们使用 runtime/trace 包中的 start/stop 方法来讲跟踪的数据写入到标准错误输出中。跟踪输出将被写到标准的错误输出中--os.stderr
+package main
+
+import (
+   &quot;os&quot;
+   &quot;runtime/trace&quot;
+)
+
+func main() {
+   trace.Start(os.Stderr)
+   def…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
                 <summary class="article-expander__title">【云原生 AI】Fluid + JindoFS 助力微博海量小文件模型训练速度提升 18 倍</summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12159">
                   <div class="article-summary-box-inner">
@@ -9758,7 +9840,7 @@ type Test struct {
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-06-05T15:17:31.450Z">2021-06-05T15:17:31.450Z</time>
+    <time id="build-timestamp" datetime="2021-06-05T16:44:43.766Z">2021-06-05T16:44:43.766Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.10.2</a></span>
   </footer>
   <script src="index.js"></script>

@@ -560,6 +560,24 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12161",
+          "author": "rbowind",
+          "description": "go version 1.14.12\n何为 Duck Type\n当看到一只鸟走起来像鸭子、游泳起来像鸭子、叫起来也像鸭子，那么这只鸟就可以被称为鸭子。\n\nShow me the code 🤔\ntype Duck interface {\n    Quack()\n}\ntype Cat struct{}\n//Quack ,now, the Cat is Duck\nfunc (c Cat) Quack() {\n    fmt.Println(\"Miowo\")\n}\nfunc main() {\n    var _ Duck = Cat{}\n}\n\n\n那么，我也可以是鸭子？\n​\n得意之时，Cat 突然尴尬地说，我好像不会Quack 这个技能，但是我会Quacks 😁，您看这也差不多，我也能算鸭子吧？\n 那我们还是问问土拨鼠兄弟\n      \n土拨鼠盘算了一番，毫无犹豫地划了个 ❌\n\nCat 刚想争辩，土拨鼠已遁入土里，Cat 不服，遂掘地三尺，挖向了底层。。。好了，回归正题，我们先分析问题。\n​\n问题分析\n问题定位：出现在编译过程中，查看 compile 包。\n报错定位：在 compile 包全局搜索报错信息关键字段 does not implement。\n筛选一下，找到了subr.go\n很好，我们定位了:\n*why = fmt.Sprintf(\":\\n\\t%v does not implement %v (missing %v method)\", src, dst, missing.Sym)\n\n\n\n函数内上下文发现（注意代码注释）：\n// 3. dst is an interface type and src implements dst.\n    if dst.IsInterface() && src.Etype != TNIL {\n        var missing, hav…",
+          "link": "https://gocn.vip/topics/12161",
+          "publishedOn": "2021-06-05T15:59:45.000Z",
+          "wordCount": 438,
+          "title": "编译器如何判断你是否是 Duck Type"
+        },
+        {
+          "id": "https://gocn.vip/topics/12160",
+          "author": "yudotyang",
+          "description": "介绍\n有没有想过你的协程是如何被 go 运行时调度的？有没有想过为什么增加了并发但性能却没有提高？Go 的执行跟踪器（execution tracer）可以帮我们回答这些 问题以及帮你诊断性能问题，比如延迟，竞争和并行阻塞。\n该工具自 Go 1.15 版本开始可用，主要工作是收集 go 运行时特定的事件。例如：\n协程的创建、启动以及结束。\n协程阻塞/解除阻塞事件（系统调用 syscalls，通道 channels，锁 locks）\n网络 I/0 相关事件\n系统调用\n垃圾回收（GC）\n所有这些数据都是通过跟踪器（tracer）进行收集的，没有任何聚集或取样。在一些繁忙的应用中，可能会导致一个非常大的文件，该文件可以通过 go tool trace命令进行分析。\n在 Go 的工具链中，之前已经有 pprof 可以收集内存和 CPU 的数据了，为什么还要研发执行跟踪器，并把它加入到官方的工具链中呢？然而，CPU 的收集器（CPU Profiler）能够告诉你一个函数花费了多少 CPU 的执行时间，但不能告诉你在运行时环境中，是什么阻塞了协程的运行，也不能告诉你协程在可用的线程上是如何调度器的。这就是跟踪器（tracer）真正发挥作用的地方。tracer 设计文档很好的解释了 tracer 的动机以及如何被设计的。\n开启 tracer 之旅\n我们以\"Hello World\"来作为执行跟踪（tracing）的示例。在这个例子中，我们使用 runtime/trace 包中的 start/stop 方法来讲跟踪的数据写入到标准错误输出中。跟踪输出将被写到标准的错误输出中--os.stderr\npackage main\n\nimport (\n   \"os\"\n   \"runtime/trace\"\n)\n\nfunc main() {\n   trace.Start(os.Stderr)\n   def…",
+          "link": "https://gocn.vip/topics/12160",
+          "publishedOn": "2021-06-05T15:47:28.000Z",
+          "wordCount": 474,
+          "title": "Go 高性能系列教程之读懂 Go 的执行跟踪器"
+        },
+        {
           "id": "https://gocn.vip/topics/12159",
           "author": "alicloudnative",
           "description": "作者 ｜\n吴彤  微博深度学习平台工程师\n郝丽  微博深度学习平台工程师\n导读：深度学习平台在微博社交业务扮演着重要的角色。计算存储分离架构下，微博深度学习平台在数据访问与调度方面存在性能低效的问题。本文将介绍微博内部设计实现的一套全新的基于 Fluid（内含 JindoRuntime）的新架构方案，显著提升了海量小文件场景模型训练的性能和稳定性，多机多卡分布式训练场景可将模型训练的速度提升 18 倍。\n背景​\n​\n新浪微博是中国最大的社交媒体平台，每天上亿条内容产生并在万亿级关系的社交网络上进行传播。下图是微博的业务生态图，通过优质用户生产、传播优质内容，普通用户消费这些内容，进而关注自己喜欢的博主，建立联系，形成闭环生态。\n\n微博机器学习平台的主要作用是让整个过程流转得更高效流畅：通过理解优质内容，构建用户画像，把用户感兴趣的优质内容推给用户，让他们和内容生产者互动，进而刺激生产者生产更多更好的内容, 实现信息消费者和信息生产者的双赢。而随着多媒体内容变成主流，深度学习技术就变得更为重要。从多媒体的内容理解，到 CTR 任务的优化，都离不开深度学习技术的支持。\n​\n大规模深度学习模型训练挑战\n​\n随着深度学习在微博业务场景中的广泛使用，微博深度学习平台扮演了非常核心的角色。该平台采用了存储与计算分离的架构，使得计算资源得以与存储资源解耦，从而实现了灵活的资源配比以及便捷的存储扩展，并且降低了存储成本。\n\n然而，这种架构也带来了一些挑战，其中比较关键的问题体现在数据访问性能和稳定性方面：\n​\n计算存储分离架构导致数据访问高延时，导致训练慢：业务团队使用的深度学习任务（图像或语音模型）会访问海量小文件。实验表明，HDFS 读取海量小文件场景与本地读取对比性能相差近十倍甚至百倍。\n\n\nKubernetes 调度器数据缓存无感知，同一数据源多次运行访问依旧慢：相同模型、不同超参…",
