@@ -560,6 +560,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12157",
+          "author": "bigwhite-github",
+          "description": "本文永久链接 - https://tonybai.com/2021/06/04/go-source-analysis-with-functrace\n在《像跟踪分布式服务调用那样跟踪 Go 函数调用链》一文中，我们介绍了一种跟踪函数调用链的思路，并给出了一种实现functrace：https://github.com/bigwhite/functraceGo 项目源码时也能起到关键的辅助作用。这里就和大家简单讲解一下如何用 functrace 来辅助 Go 源码阅读和分析。。这个小工具不仅仅是分享给大家的，我自己在工作和学习时也在使用。最近发现这个小工具在阅读和分析某个\n程序员的日常离不开 “源码阅读和分析”，日常阅读代码的姿势无非是这么几种（或几种的组合）：\n结合源码编辑器或 IDE 提供的强大的源码交叉索引和跳转功能在一个庞大的源码库中建立起代码间的联系；\n将代码跑起来，在代码中加上一些 print 输出，跟踪执行流并画出；\n也有人喜欢用调试器从一点（通常是 main）开始单步跟踪执行流。\n无论哪一种方式，最终只要时间够长，态度到位，总是会将代码分析出个七七八八的。\n就笔者来看，无论是哪种范式：命令式、面向对象、函数式，最终梳理出来的源码脉络都是建立在执行基本单元 (函数或方法) 上，代码的执行主线（并发程序会有若干条）本质上就是一条函数/方法调用链。只要把这条链理出来，代码理解起来就不难了。上述的代码阅读方法实质也是参照这个逻辑的。只是对于调用层次较深，还伴随有回调的代码，梳理调用链难度高、效率低。\nfunctrace 最初用于跟踪函数调用链（得益于 Go 核心开发团队公开的抽象语法树 AST API），但如果在阅读代码时直接用 functrace 输出函数调用链，那将大幅提高我们源码阅读分析的效率。下面我们就用一个样例项目来试试如何用 functrace 梳理出代码的…",
+          "link": "https://gocn.vip/topics/12157",
+          "publishedOn": "2021-06-05T02:39:26.000Z",
+          "wordCount": 1119,
+          "title": "使用 functrace 辅助进行 Go 项目源码分析"
+        },
+        {
           "id": "https://gocn.vip/topics/12156",
           "author": "astaxie",
           "description": "Go 语言\n在当今最流行的编程语言列表里，Go 语言一直是名列前茅。众所周知 Go 语言现在很火，写 Go 代码也很有意思，Go 在社区也很受用户欢迎，主要是 Go 语言的速度快，效率高。\nGo 诞生于 Google。有了大厂庇护，才好开挂。Google 曾经一直有个传统，允许员工自由支配本属于工作时间的 20% 来用于创新实践，这为 Google 带来很多开创性的项目，Go 就是其中之一。\nGo 早期由三位大牛发起，我们大概分析一下当时的环境背景：\n首先，当时传统的编程语言通常都会有如下一些缺点：\n学习成本太高，如 C++，为准确表达作者思想，我们要花费大量时间学习语言；\n编译速度太慢，代码的编写、预处理、编译与运行流程花费时间太长；\n缺乏类型检查，主要指诸如 python、php 等解释性语言，这常会导致一些低级错误发生；\n而且计算机领域相比于前些年也发生了很多变化，比如：\n计算机硬件发展迅速，软件已经不能充分发挥它们的优势，比如多 CPU；\n语言越来越复杂，要么并发与性能不佳，要么风格不够优雅且不统一；\n人力成本越高越贵，项目的迭代周期越来越短；\n针对如上的各种情况，于是在 2007 年，他们正式开始着手 Go 的设计与开发，并在 2009 年的 11 月正式发布。\n在全球范围内，从 2010 年的集体追新，到之后几年内的理性对待，再到 2016 年、2017 年的 “第二春”，直至 2018 年的升降大反差和 2020 年的新反弹。Go 语言可谓是经历了诸多风风雨雨，持续地在各种好评和诟病之间砥砺前行，既得意过也失意过。\n\nGoogle trend\n\nTIOBE Index 之 Go 语言\n\nTIOBE Index（2021 年 5 月）\n前几个星期腾讯刚公布的数据也表明 Go 在很多大公司已经越来越得到认可：\n\n如今 Go 被称为云计算时代的基础语言，倍受追捧，用…",
@@ -1277,6 +1286,33 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=86113",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 06 05",
+          "link": "http://www.linuxeden.com/a/86113",
+          "publishedOn": "2021-06-05T01:14:42.000Z",
+          "wordCount": 87,
+          "title": "开源美图 2021 06 05"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86111",
+          "author": "Editor, Kai",
+          "description": "Dear Spring Community, Today it’s my pleasure to announce releases of Spring Integration for Amazon Web Services extensi […]",
+          "link": "http://www.linuxeden.com/a/86111",
+          "publishedOn": "2021-06-05T01:07:08.000Z",
+          "wordCount": 166,
+          "title": "Spring Integration AWS 2.5.1、Spring Cloud Stream Kinesis Binder 2.2.0 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86109",
+          "author": "Editor, Kai",
+          "description": "The Wine development release 6.10 is now available. What’s new in this release (see below for details): – Mo […]",
+          "link": "http://www.linuxeden.com/a/86109",
+          "publishedOn": "2021-06-05T00:58:51.000Z",
+          "wordCount": 526,
+          "title": "Wine 6.10发布"
+        },
         {
           "id": "http://www.linuxeden.com/?p=86107",
           "author": "Editor, Kai",
@@ -2832,6 +2868,15 @@
       "feedUrl": "http://feed.appinn.com",
       "siteUrl": "https://www.appinn.com",
       "articles": [
+        {
+          "id": "https://www.appinn.com/?p=38961",
+          "author": "青小蛙",
+          "description": "VectorIcons Mixer 是一款来自小图标库 Iconshock 的新服务，它能够对超过 23000 个图标进行定制，包括改变颜色和添加背景，针对个人用户：可免费使用、下载 PNG 格式、最",
+          "link": "https://www.appinn.com/vectoricons-mixer/",
+          "publishedOn": "2021-06-05T02:53:00.000Z",
+          "wordCount": 1145,
+          "title": "VectorIcons Mixer –  超过 23,000 个可定制的图标"
+        },
         {
           "id": "https://www.appinn.com/?p=38958",
           "author": "青小蛙",
@@ -5267,6 +5312,24 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=1056",
+          "author": "大眼仔~旭",
+          "description": "Adobe Camera Raw 13 中文版由大眼仔旭（www.dayanzai.me）发布。Photosh […]",
+          "link": "http://www.dayanzai.me/cameraraw.html",
+          "publishedOn": "2021-06-04T16:38:33.000Z",
+          "wordCount": 631,
+          "title": "优秀 RAW 处理工具 Adobe Camera Raw 13.2 + Mac 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=1815",
+          "author": "大眼仔~旭",
+          "description": "PicPick 中文版 今天小编（www.dayanzai.me）大眼仔旭给大家分享一款绿色免费的优秀截图工具 […]",
+          "link": "http://www.dayanzai.me/picpick.html",
+          "publishedOn": "2021-06-04T16:35:35.000Z",
+          "wordCount": null,
+          "title": "优秀免费截图办公工具 PicPick 5.1.6 中多语免费版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=52408",
           "author": "大眼仔~旭",
