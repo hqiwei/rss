@@ -124,6 +124,36 @@
           <section class="articles-per-source">
             <article>
               <details class="article-expander">
+                <summary class="article-expander__title">【云原生 AI】Fluid + JindoFS 助力微博海量小文件模型训练速度提升 18 倍</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12159">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>作者 ｜
+吴彤  微博深度学习平台工程师
+郝丽  微博深度学习平台工程师
+导读：深度学习平台在微博社交业务扮演着重要的角色。计算存储分离架构下，微博深度学习平台在数据访问与调度方面存在性能低效的问题。本文将介绍微博内部设计实现的一套全新的基于 Fluid（内含 JindoRuntime）的新架构方案，显著提升了海量小文件场景模型训练的性能和稳定性，多机多卡分布式训练场景可将模型训练的速度提升 18 倍。
+背景​
+​
+新浪微博是中国最大的社交媒体平台，每天上亿条内容产生并在万亿级关系的社交网络上进行传播。下图是微博的业务生态图，通过优质用户生产、传播优质内容，普通用户消费这些内容，进而关注自己喜欢的博主，建立联系，形成闭环生态。
+
+微博机器学习平台的主要作用是让整个过程流转得更高效流畅：通过理解优质内容，构建用户画像，把用户感兴趣的优质内容推给用户，让他们和内容生产者互动，进而刺激生产者生产更多更好的内容, 实现信息消费者和信息生产者的双赢。而随着多媒体内容变成主流，深度学习技术就变得更为重要。从多媒体的内容理解，到 CTR 任务的优化，都离不开深度学习技术的支持。
+​
+大规模深度学习模型训练挑战
+​
+随着深度学习在微博业务场景中的广泛使用，微博深度学习平台扮演了非常核心的角色。该平台采用了存储与计算分离的架构，使得计算资源得以与存储资源解耦，从而实现了灵活的资源配比以及便捷的存储扩展，并且降低了存储成本。
+
+然而，这种架构也带来了一些挑战，其中比较关键的问题体现在数据访问性能和稳定性方面：
+​
+计算存储分离架构导致数据访问高延时，导致训练慢：业务团队使用的深度学习任务（图像或语音模型）会访问海量小文件。实验表明，HDFS 读取海量小文件场景与本地读取对比性能相差近十倍甚至百倍。
+
+
+Kubernetes 调度器数据缓存无感知，同一数据源多次运行访问依旧慢：相同模型、不同超参…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
                 <summary class="article-expander__title">GoCN 每日新闻 (2021-06-05)</summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12158">
                   <div class="article-summary-box-inner">
@@ -9684,7 +9714,7 @@ type Test struct {
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-06-05T10:40:32.813Z">2021-06-05T10:40:32.813Z</time>
+    <time id="build-timestamp" datetime="2021-06-05T11:39:21.646Z">2021-06-05T11:39:21.646Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.10.2</a></span>
   </footer>
   <script src="index.js"></script>
