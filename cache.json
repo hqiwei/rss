@@ -560,6 +560,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12158",
+          "author": "kevin",
+          "description": "vtprotobuf: 高性能 gogoprotobuf 替代品，兼容 ProtoBuf APIv2 https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/\n\n『每周译 Go』Go 内存管理概述 https://mp.weixin.qq.com/s/PNRhtdS_gZVTtrkkRmx7yA\n\nLazyLRU 应用至生产环境 https://medium.com/bluecore-engineering/lazylru-laughing-all-the-way-to-production-19d2a053c3cb\n\nGoLand 发布 2021.2 EAP build #2 https://blog.jetbrains.com/go/2021/06/04/goland-2021-2-eap-build-2-is-here/\n\nphotoprism：开源的 Google Photos 替代品 https://github.com/photoprism/photoprism\n\n\n\n\n\n免费门票来了！Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n编辑: 李俱顺 Kevin\n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs\n\n\nGOCN 归档: https://gocn.vip/topics/12158",
+          "link": "https://gocn.vip/topics/12158",
+          "publishedOn": "2021-06-05T06:39:33.000Z",
+          "wordCount": 115,
+          "title": "GoCN 每日新闻 (2021-06-05)"
+        },
+        {
           "id": "https://gocn.vip/topics/12157",
           "author": "bigwhite-github",
           "description": "本文永久链接 - https://tonybai.com/2021/06/04/go-source-analysis-with-functrace\n在《像跟踪分布式服务调用那样跟踪 Go 函数调用链》一文中，我们介绍了一种跟踪函数调用链的思路，并给出了一种实现functrace：https://github.com/bigwhite/functraceGo 项目源码时也能起到关键的辅助作用。这里就和大家简单讲解一下如何用 functrace 来辅助 Go 源码阅读和分析。。这个小工具不仅仅是分享给大家的，我自己在工作和学习时也在使用。最近发现这个小工具在阅读和分析某个\n程序员的日常离不开 “源码阅读和分析”，日常阅读代码的姿势无非是这么几种（或几种的组合）：\n结合源码编辑器或 IDE 提供的强大的源码交叉索引和跳转功能在一个庞大的源码库中建立起代码间的联系；\n将代码跑起来，在代码中加上一些 print 输出，跟踪执行流并画出；\n也有人喜欢用调试器从一点（通常是 main）开始单步跟踪执行流。\n无论哪一种方式，最终只要时间够长，态度到位，总是会将代码分析出个七七八八的。\n就笔者来看，无论是哪种范式：命令式、面向对象、函数式，最终梳理出来的源码脉络都是建立在执行基本单元 (函数或方法) 上，代码的执行主线（并发程序会有若干条）本质上就是一条函数/方法调用链。只要把这条链理出来，代码理解起来就不难了。上述的代码阅读方法实质也是参照这个逻辑的。只是对于调用层次较深，还伴随有回调的代码，梳理调用链难度高、效率低。\nfunctrace 最初用于跟踪函数调用链（得益于 Go 核心开发团队公开的抽象语法树 AST API），但如果在阅读代码时直接用 functrace 输出函数调用链，那将大幅提高我们源码阅读分析的效率。下面我们就用一个样例项目来试试如何用 functrace 梳理出代码的…",
