@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T12:37:43.424Z</updated>
+    <updated>2021-06-05T13:59:19.523Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[英特尔和 AMD 提出 x86 中断处理的不同替代，Linus 建议两个都搞]]></title>
+        <id>http://www.linuxeden.com/?p=86130</id>
+        <link href="http://www.linuxeden.com/a/86130"/>
+        <updated>2021-06-05T13:27:51.000Z</updated>
+        <summary type="html"><![CDATA[从 286 时代起，x86 处理器都是使用一个拜占庭系统去管理中断、故障和异常，它组合使用了查询表、权限检查等，可能会让人困惑，但大部分情况下能正常工作。不可避免的是，中断描述符表存在一些 bug，竞争条件、死锁、无限循环和权限冲突等问题虽 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[46%的开源维护者是没有任何报酬的 26%年收入超1000美元]]></title>
+        <id>http://www.linuxeden.com/?p=86125</id>
+        <link href="http://www.linuxeden.com/a/86125"/>
+        <updated>2021-06-05T13:26:59.000Z</updated>
+        <summary type="html"><![CDATA[开源软件管理解决方案供应商 Tidelift 一项新调查发现，大多数开源维护者的报酬不足，而且大多数工作都是紧张和无偿的。尽管面临着诸多挑战，但诸多积极影响依然激励着这些维护者继续工作。 这项针对开源维护者的调查是在 2021 年年初的时候 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[图]科学家打造人工神经元芯片 可实时识别生物信号]]></title>
+        <id>http://www.linuxeden.com/?p=86116</id>
+        <link href="http://www.linuxeden.com/a/86116"/>
+        <updated>2021-06-05T13:25:25.000Z</updated>
+        <summary type="html"><![CDATA[来自苏黎世的研究团队近日开发出了一种由人工神经元制成的紧凑、节能的设备，能够对脑电波进行解码。该芯片利用从癫痫患者的脑电波中记录的数据来识别大脑中哪些区域会导致癫痫发作。这为治疗开辟了新的应用前景。 目前的神经网络算法产生令人印象深刻的结果 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【云原生 AI】Fluid + JindoFS 助力微博海量小文件模型训练速度提升 18 倍]]></title>
         <id>https://gocn.vip/topics/12159</id>
