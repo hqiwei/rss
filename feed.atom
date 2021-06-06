@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T07:50:41.378Z</updated>
+    <updated>2021-06-06T08:41:29.450Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Go 高性能系列教程之四：执行跟踪器]]></title>
+        <id>https://gocn.vip/topics/12162</id>
+        <link href="https://gocn.vip/topics/12162"/>
+        <updated>2021-06-06T08:21:43.000Z</updated>
+        <summary type="html"><![CDATA[原文链接 https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html#benchmarking
+执行跟踪器（execution tracer）是由 Dmity Vyukov 为 Go 1.5 版本开发的，并且几年以来一直在文档记录和使用中。
+不像采样分析检测，执行跟踪器是被集成到 Go 运行时环境的，所以，它能够知道 Go 程序在特定的时刻正在做什么。但是原理是什么呢？
+4.1 什么是执行跟踪器，我们又为什么需要它？
+我认为要解释什么是执行跟踪器，它又为什么如此重要。最简单的方式就是通过使用 pprof 的代码片段，用 go tool pprof 执行一段性能表现不佳的代码，看看有哪些方面是该工具覆盖不到的。
+我们看下这段代码，代码地址位于Francesc Compoy's mandelbrot package
+cd examples/mandelbrot
+go build && ./mandelbrot
+
+如果我们编译并运行该程序，将产生如下的图片：
+点击查看图片
+4.1.1 这个程序运行了多长时间
+那么，这段程序生成一个 1024*1024 像素图片化了多长时间？
+我知道的最简单的方式就是使用使用 time 命令：
+% time ./mandelbrot
+real    0m1.654s
+user    0m1.630s
+sys     0m0.015s
+
+注意：不要使用 time go run mandebrot.go,否则你将要包含编译该程序的时间。
+4.1.2 这个程序做了什么？
+那么，这个程序花了 1.6 秒的时间生成了一张曼德勃罗图片并输出了它。
+这是比较好的吗？我们还能让它运行的再快点吗？
+回答这个问题的一个方式就是使用 Go 内建的 pprof 工具来监控分析程序。
+让我…]]></summary>
+        <author>
+            <name>yudotyang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Tab Studio – 可高度自定义的新标签页扩展[Chrome]]]></title>
         <id>https://www.appinn.com/?p=38964</id>

@@ -560,6 +560,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12162",
+          "author": "yudotyang",
+          "description": "原文链接 https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html#benchmarking\n执行跟踪器（execution tracer）是由 Dmity Vyukov 为 Go 1.5 版本开发的，并且几年以来一直在文档记录和使用中。\n不像采样分析检测，执行跟踪器是被集成到 Go 运行时环境的，所以，它能够知道 Go 程序在特定的时刻正在做什么。但是原理是什么呢？\n4.1 什么是执行跟踪器，我们又为什么需要它？\n我认为要解释什么是执行跟踪器，它又为什么如此重要。最简单的方式就是通过使用 pprof 的代码片段，用 go tool pprof 执行一段性能表现不佳的代码，看看有哪些方面是该工具覆盖不到的。\n我们看下这段代码，代码地址位于Francesc Compoy's mandelbrot package\ncd examples/mandelbrot\ngo build && ./mandelbrot\n\n如果我们编译并运行该程序，将产生如下的图片：\n点击查看图片\n4.1.1 这个程序运行了多长时间\n那么，这段程序生成一个 1024*1024 像素图片化了多长时间？\n我知道的最简单的方式就是使用使用 time 命令：\n% time ./mandelbrot\nreal    0m1.654s\nuser    0m1.630s\nsys     0m0.015s\n\n注意：不要使用 time go run mandebrot.go,否则你将要包含编译该程序的时间。\n4.1.2 这个程序做了什么？\n那么，这个程序花了 1.6 秒的时间生成了一张曼德勃罗图片并输出了它。\n这是比较好的吗？我们还能让它运行的再快点吗？\n回答这个问题的一个方式就是使用 Go 内建的 pprof 工具来监控分析程序。\n让我…",
+          "link": "https://gocn.vip/topics/12162",
+          "publishedOn": "2021-06-06T08:21:43.000Z",
+          "wordCount": 982,
+          "title": "Go 高性能系列教程之四：执行跟踪器"
+        },
+        {
           "id": "https://gocn.vip/topics/12161",
           "author": "rbowind",
           "description": "go version 1.14.12\n何为 Duck Type\n当看到一只鸟走起来像鸭子、游泳起来像鸭子、叫起来也像鸭子，那么这只鸟就可以被称为鸭子。\n\nShow me the code 🤔\ntype Duck interface {\n    Quack()\n}\ntype Cat struct{}\n//Quack ,now, the Cat is Duck\nfunc (c Cat) Quack() {\n    fmt.Println(\"Miowo\")\n}\nfunc main() {\n    var _ Duck = Cat{}\n}\n\n\n那么，我也可以是鸭子？\n​\n得意之时，Cat 突然尴尬地说，我好像不会Quack 这个技能，但是我会Quacks 😁，您看这也差不多，我也能算鸭子吧？\n 那我们还是问问土拨鼠兄弟\n      \n土拨鼠盘算了一番，毫无犹豫地划了个 ❌\n\nCat 刚想争辩，土拨鼠已遁入土里，Cat 不服，遂掘地三尺，挖向了底层。。。好了，回归正题，我们先分析问题。\n​\n问题分析\n问题定位：出现在编译过程中，查看 compile 包。\n报错定位：在 compile 包全局搜索报错信息关键字段 does not implement。\n筛选一下，找到了subr.go\n很好，我们定位了:\n*why = fmt.Sprintf(\":\\n\\t%v does not implement %v (missing %v method)\", src, dst, missing.Sym)\n\n\n\n函数内上下文发现（注意代码注释）：\n// 3. dst is an interface type and src implements dst.\n    if dst.IsInterface() && src.Etype != TNIL {\n        var missing, hav…",
