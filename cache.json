@@ -3209,6 +3209,78 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/144765",
+          "author": null,
+          "description": "2021 年 6 月 4 日，由中国信息通信研究院（以下简称“中国信通院”）主办的 “ 2021 云边协同大会 ” 在北京举行。本次会议以 “ 开启分布式云新时代 ” 为主题，旨在搭建数字经济与 5G 时代下云服务与边缘计算融合发展的桥梁，并面向行业发布多项云边协同发展阶段性成果。其中，阿里云边缘容器服务 ACK @ Edge 获得 “...",
+          "link": "https://www.oschina.net/news/144765",
+          "publishedOn": "2021-06-06T00:31:18.000Z",
+          "wordCount": 563,
+          "title": "阿里云边缘容器服务、申通 IoT 云边端架构入选 2021 云边协同发展阶段性领先成果"
+        },
+        {
+          "id": "https://www.oschina.net/news/144764/lg-open-sources-fosslight",
+          "author": null,
+          "description": "韩国商业巨头 LG 公司近日宣布，已经将其公司内部使用的工具进行了开源，该工具主要用于识别和管理自己企业内的开源软件。 这套工具名为 FOSSlight，它可以帮助企业内的开发人员确保他们使用的代码是受到相应许可证允许的，并寻找开源软件中已知的漏洞，以便开发人员解决这些问题，还可以用于检查与 LG 合作的第三方所提...",
+          "link": "https://www.oschina.net/news/144764/lg-open-sources-fosslight",
+          "publishedOn": "2021-06-06T00:20:28.000Z",
+          "wordCount": 476,
+          "title": "LG 开源企业内部工具，用于开源合规性检测"
+        },
+        {
+          "id": "https://www.oschina.net/news/144763/ibms-loopback-openjs-foundation",
+          "author": null,
+          "description": "IBM 宣布将 LoopBack 项目贡献给 OpenJS 基金会，LoopBack 也成为了 OpenJS 基金会最新的孵化项目。“相信在社区活跃的核心开发者的支持下，该项目将继续发展和繁荣”。目前的情况是，有近一半的 Loopback 拉取请求来自 IBM 以外的社区贡献者。 OpenJS 基金会执行董事 Robin Ginn 称，很高兴 LoopBack 能加入 OpenJS 基金...",
+          "link": "https://www.oschina.net/news/144763/ibms-loopback-openjs-foundation",
+          "publishedOn": "2021-06-06T00:12:59.000Z",
+          "wordCount": 528,
+          "title": "IBM 的 LoopBack 框架作为孵化项目加入 OpenJS 基金会"
+        },
+        {
+          "id": "https://www.oschina.net/p/packone",
+          "author": null,
+          "description": "PackOne 致力于实现主流大数据软件在云端的快速弹性部署。通过对云 API 和 Apache Ambari API 的联合调用，完成 Hadoop、Spark、NiFi、PiFlow、Kylin、MongoDB、Neo4J 等流行的大数据管理/处理软件在云端的一键部署和一键伸缩。",
+          "link": "https://www.oschina.net/p/packone",
+          "publishedOn": "2021-06-06T00:06:29.000Z",
+          "wordCount": 473,
+          "title": "PackOne —— 大数据软件栈部署和管理工具"
+        },
+        {
+          "id": "https://gitee.com/LaomoBK/ail",
+          "author": null,
+          "description": "AIL 是一门运行在 Python 虚拟机上的面向对象的编程语言。",
+          "link": "https://gitee.com/LaomoBK/ail",
+          "publishedOn": "2021-06-06T00:04:58.000Z",
+          "wordCount": 450,
+          "title": "Gitee 推荐 | 面向对象的编程语言 AIL"
+        },
+        {
+          "id": "https://my.oschina.net/u/4579558/blog/4669703",
+          "author": null,
+          "description": "本文中所提到的都是基于intel x86Cpu，开发环境是基于windows 10 + vs2019。本片博客需要读者自己明白十进制、十六进制、二进制之间的转换，文中不会介绍转换过程，需要了解详细过程的情查找相关资料",
+          "link": "https://my.oschina.net/u/4579558/blog/4669703",
+          "publishedOn": "2021-06-06T00:02:29.000Z",
+          "wordCount": 516,
+          "title": "每日一博 | 聊一聊定点数和浮点数的存储方式"
+        },
+        {
+          "id": "https://www.oschina.net/news/144756/centos-linux-8-2105-released",
+          "author": null,
+          "description": "CentOS Linux 8 最新版本 CentOS 8.4 已正式 GA，版本号 2105，rebuild 自 RHEL 8.4。 镜像下载：http://mirror.centos.org/centos/8/isos/ 主要变化 此版本在可选的 module stream 中增加了以下新版本软件包： Python 3.9 SWIG 4.0 Subversion 1.14 Redis 6 PostgreSQL 13 MariaDB 10.5 多个滚动更新的 AppStream 重新采...",
+          "link": "https://www.oschina.net/news/144756/centos-linux-8-2105-released",
+          "publishedOn": "2021-06-05T23:34:24.000Z",
+          "wordCount": 562,
+          "title": "CentOS 8.4 发布"
+        },
+        {
+          "id": "https://www.oschina.net/news/144752/wine-6-10-released",
+          "author": null,
+          "description": "Wine（Wine Is Not an Emulator）是一个能够在多种兼容 POSIX 接口的操作系统（诸如 Linux、macOS 与 BSD 等）上运行 Windows 应用的兼容层。它不是像虚拟机或者模拟器一样模仿内部的 Windows 逻辑，而是将 Windows API 调用翻译成为动态的 POSIX 调用，免除了性能和其它一些行为的内存占用，让你能够干净地整合 Window...",
+          "link": "https://www.oschina.net/news/144752/wine-6-10-released",
+          "publishedOn": "2021-06-05T23:01:39.000Z",
+          "wordCount": 491,
+          "title": "Wine 6.10 发布，Windows 应用的兼容层"
+        },
+        {
           "id": "https://www.oschina.net/news/144680/apple-google-mozilla-microsoft-to-improve-browser-extensions",
           "author": null,
           "description": "Firefox、Edge、Safari 和其他众多的浏览器都以 Chrome 的扩展 API 为基础，但每个浏览器都增加了自己的变化，并不完全与 Google 的 API 保持一致。因此对于那些想要支持多个浏览器的扩展程序而言，开发者可能很难进行开发和维护。 值得庆幸的是，苹果、微软、Google 和 Mozilla 这几家浏览器市场占有率排名前几位的公司...",
