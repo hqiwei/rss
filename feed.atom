@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T12:38:26.431Z</updated>
+    <updated>2021-06-06T14:01:50.587Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[在 Linux 终端将图像转换成 ASCII 艺术]]></title>
+        <id>http://www.linuxeden.com/?p=86161</id>
+        <link href="http://www.linuxeden.com/a/86161"/>
+        <updated>2021-06-06T13:58:06.000Z</updated>
+        <summary type="html"><![CDATA[想在 Linux 终端中做一些有趣的事情吗？把一张普通的图片转换成 ASCII 艺术怎么样？ 你知道 什么是 ASCII 么？它是一个标准，在 8 位码中的 256 个空位上分配字母、数字和其他字符。ASCII 艺术是一个由可打印的 ASC […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用文本描述创造 Android 应用]]></title>
+        <id>http://www.linuxeden.com/?p=86157</id>
+        <link href="http://www.linuxeden.com/a/86157"/>
+        <updated>2021-06-06T13:47:24.000Z</updated>
+        <summary type="html"><![CDATA[孟加拉国技术工程大学和 UCLA 的研究人员开发出一种框架，能从文本描述创造 Android 应用。研究报告（PDF）发表在预印本网站 arXiv 上。这项研究在人类语言和编程语言之间架起桥梁，让编程变得更容易。大部分此类的技术是基于端对端 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻（2021-06-06）]]></title>
+        <id>https://gocn.vip/topics/12163</id>
+        <link href="https://gocn.vip/topics/12163"/>
+        <updated>2021-06-06T13:11:16.000Z</updated>
+        <summary type="html"><![CDATA[GoCN 每日新闻（2021-06-06）
+详解 Go 团队不建议用的 unsafe.Pointer https://mp.weixin.qq.com/s/8qtHdw2JiRQ1cXlzbJ0ANA
+
+新 Goland 插件支持 TinyGo https://blog.jetbrains.com/go/2021/06/02/tinygo-for-tiny-applications-discover-a-new-plugin-for-goland/
+
+使用 go-i18n 实现国际化 https://lokalise.com/blog/go-internationalization-using-go-i18n/
+
+awesome-go-orms https://github.com/d-tsuji/awesome-go-orms
+
+Go 实现终端 slide 展示工具 https://github.com/maaslalani/slides
+
+
+
+
+编辑: 傅小黑
+订阅新闻: http://tinyletter.com/gocn
+
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>fuxiaohei</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go 高性能系列教程之四：执行跟踪器]]></title>
         <id>https://gocn.vip/topics/12162</id>
