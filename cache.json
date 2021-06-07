@@ -1341,6 +1341,60 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=86196",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 06 07",
+          "link": "http://www.linuxeden.com/a/86196",
+          "publishedOn": "2021-06-07T00:23:07.000Z",
+          "wordCount": 79,
+          "title": "开源美图 2021 06 07"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86183",
+          "author": "Editor, Kai",
+          "description": "不久前，识别硬件瓶颈还需要深厚的专业知识。今天的开源 GUI 性能监视器使它变得相当简单。 计算机是一个集成的系统，它的性能取决于最慢的硬件组件。如果一个组件的能力比其他组件差，性能落后而不能跟上，它就会拖累你的整个系统。这就是一个 性能瓶 […]",
+          "link": "http://www.linuxeden.com/a/86183",
+          "publishedOn": "2021-06-07T00:21:59.000Z",
+          "wordCount": 473,
+          "title": "使用开源工具识别 Linux 的性能瓶颈"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86180",
+          "author": "Editor, Kai",
+          "description": "麒麟软件商店：是一个图形化的软件管理工具，为用户提供软件下载、安装、卸载、更新等一站式软件服务，并推荐常用软件和优质精选软件。用户不仅可以通过快速搜索定位到自己需要的软件，还可以根据具体需求在商店的分类索引中找到相关软件。软件商店列表上的每 […]",
+          "link": "http://www.linuxeden.com/a/86180",
+          "publishedOn": "2021-06-07T00:20:34.000Z",
+          "wordCount": 123,
+          "title": "麒麟软件商店 v4.0 功能详解"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86178",
+          "author": "Editor, Kai",
+          "description": "We at the phpMyAdmin project are pleased to release phpMyAdmin 5.1.1, a bugfix release. There are many new bug fixes; a  […]",
+          "link": "http://www.linuxeden.com/a/86178",
+          "publishedOn": "2021-06-07T00:13:42.000Z",
+          "wordCount": 230,
+          "title": "phpMyAdmin 5.1.1发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86176",
+          "author": "Editor, Kai",
+          "description": "June Headline: Python has never been so close to position #1 before Python is about to take over the first position in t […]",
+          "link": "http://www.linuxeden.com/a/86176",
+          "publishedOn": "2021-06-07T00:11:06.000Z",
+          "wordCount": 1734,
+          "title": "TIOBE  2021年6月排行榜"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86172",
+          "author": "Editor, Kai",
+          "description": "Linux x86/x86_64内核代码已经有了保留前1MB内存部分的逻辑，以避免BIOS或内核有可能破坏这些空间，而自Linux 5.13开始将无条件地始终保留前1MB内存。Linux内核已经满足了英特尔Sandy Bridge图形访问低 […]",
+          "link": "http://www.linuxeden.com/a/86172",
+          "publishedOn": "2021-06-07T00:07:43.000Z",
+          "wordCount": 98,
+          "title": "Linux x86/x86_64现在将始终保留前1MB的内存"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86170",
           "author": "Editor, Kai",
           "description": "6G白皮书正式发布：八大应用 推动人类进入虚拟化数字孪生世界 在 Linux 终端将图像转换成 ASCII 艺术 用文本描述创造 Android 应用 华为发布鸿蒙系统沟通口径通知：基础能力全部捐献给开放原子开源基金会 用这个 Python […]",
@@ -3325,6 +3379,69 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/144880/githubs-new-policies",
+          "author": null,
+          "description": "GitHub 近日推出了他们更新后的社区准则，解释了该公司将如何处理托管在其服务上的漏洞和恶意软件样本。 安全研究员 Nguyen Jang 在 3 月向 GitHub 上传了一个概念验证漏洞（PoC），该漏洞是微软 Exchange ProxyLogon 漏洞。在上传该漏洞后不久，Jang 就收到了一封来自 GitHub 的电子邮件，称 PoC 漏洞因违反可接受的使用...",
+          "link": "https://www.oschina.net/news/144880/githubs-new-policies",
+          "publishedOn": "2021-06-07T00:33:24.000Z",
+          "wordCount": 504,
+          "title": "GitHub 推出新政策，允许托管以安全研究为目的的恶意软件"
+        },
+        {
+          "id": "https://www.oschina.net/news/144879/facebook-open-sources-flores-101-dataset",
+          "author": null,
+          "description": "Facebook 宣布开源了一个名为 Flores-101 的数据集。该公司表示，这是一个首创的多对多评估数据集，涵盖世界各地的101种语言；这个工具使研究人员能够快速测试和改进像 M2M-100 这样的多语言翻译模型。 我们公开 FLORES-101，是因为我们相信可以打破语言障碍，这意味着要帮助研究人员创造更多不同的（和当地相关的）翻译...",
+          "link": "https://www.oschina.net/news/144879/facebook-open-sources-flores-101-dataset",
+          "publishedOn": "2021-06-07T00:33:05.000Z",
+          "wordCount": 488,
+          "title": "Facebook 开源 Flores-101 数据集以实现更准确的 AI 翻译"
+        },
+        {
+          "id": "https://www.oschina.net/news/144878/eset-threat-android",
+          "author": null,
+          "description": "当企业在持续的勒索软件攻击下步履维艰时，Android 用户也正日益成为银行恶意软件的目标，安全机构 ESET 调查显示，在过去几个月中此类恶意软件数量增长了 159%。 ESET 表示，尽管针对 Android 操作系统的银行恶意软件在数量上急剧上升，但由于 Google 不断提升 Android 操作系统的安全性以及加大 Play Store 筛查力度，...",
+          "link": "https://www.oschina.net/news/144878/eset-threat-android",
+          "publishedOn": "2021-06-07T00:26:59.000Z",
+          "wordCount": 505,
+          "title": "安全机构调查显示，2021 年 Android 银行类恶意软件数量增长 159%"
+        },
+        {
+          "id": "https://www.oschina.net/news/144877/microsoft-16-bln-purchase-nuance",
+          "author": null,
+          "description": "外媒消息称，根据 Nuance 向政府提交的文件显示，微软公司收购人工智能和语音技术公司 Nuance 的交易已获得美国反垄断批准。 Nuance 于日前在提交给美国证券交易委员会（SEC）的文件中指出，美国政府就这笔交易提出反对意见的最后期限已经于 6 月 1 日到期。该公司在文件中表示，这一期限\"满足了完成合并的条件之一\"。 ...",
+          "link": "https://www.oschina.net/news/144877/microsoft-16-bln-purchase-nuance",
+          "publishedOn": "2021-06-07T00:13:14.000Z",
+          "wordCount": 507,
+          "title": "微软 160 亿美元收购 Nuance 获美国反垄断机构批准"
+        },
+        {
+          "id": "https://www.oschina.net/p/gokins",
+          "author": null,
+          "description": "Gokins 是一个由 Go 语言和 Vue 编写的一款轻量级、能够持续集成和持续交付的工具。",
+          "link": "https://www.oschina.net/p/gokins",
+          "publishedOn": "2021-06-07T00:02:30.000Z",
+          "wordCount": 509,
+          "title": "Gokins —— 基于 Go 语言的持续集成和持续交付的工具"
+        },
+        {
+          "id": "https://gitee.com/dream7180/ExifPro-mod-cn",
+          "author": null,
+          "description": "EXIFPro 是一个优秀的图像查看, 处理及管理工具, 使用 VC++ 开发, 小巧快速, 支持查看丰富的 EXIF 信息, 非常适用于查看您的 RAW 数字照片和其他常规图像。EXIFPro V1.x 到 V2.1 是收费软件, 后来就没再出新版了。再后来作者开源了 ExifPro, 源码发布在 GitHub 上: https://github.com/mikekov/ExifPro. 但是在2018年2月...",
+          "link": "https://gitee.com/dream7180/ExifPro-mod-cn",
+          "publishedOn": "2021-06-07T00:01:23.000Z",
+          "wordCount": 433,
+          "title": "Gitee 推荐 | 图像查看、处理及管理工具 ExifPro Mod"
+        },
+        {
+          "id": "https://my.oschina.net/u/4611831/blog/4562065",
+          "author": null,
+          "description": "B+树节点是一组按照key有序的元素，B+树包含两种类型的节点，一种是索引节点，一种是叶子节点 索引节点也叫内部节点，索引节点只包含key，不包含data, 节点的 key是升序排列的，对于指定的索引节点key来说，它左子树上所有的key都小于它的key，它右子树上所有的key都大于等于它的key 叶节点上存储的是主键和数据(key和d...",
+          "link": "https://my.oschina.net/u/4611831/blog/4562065",
+          "publishedOn": "2021-06-07T00:00:22.000Z",
+          "wordCount": 480,
+          "title": "每日一博 | 理解 B+ 树"
+        },
         {
           "id": "https://www.oschina.net/news/144781",
           "author": null,
