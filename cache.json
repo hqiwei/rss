@@ -560,6 +560,24 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12166",
+          "author": "TiDB_Robot",
+          "description": "作者介绍：王天宜\nPrometheus + Grafana 作为一套普适的监控系统广泛应用于各种应用环境中。\n本文主要介绍能否将 TiDB + Prometheus 新搭建的监控系统，迁移到已有的监控系统的方案。\n对资源比较紧张，高可用需求不强烈的用户，我们建议直接通过 Prometheus Label 进行集群的划分，做到 All in One 的 Prometheus 监控环境。对资源宽裕，高可用需求比较强烈的用户，可以考虑使用 Prometheus 多租户的解决方案。\nGrafana 作为一个无状态的应用，如果有高可用的需求，可以考虑通过 Keepalived + Haproxy 的结构部署成高可用的架构。\n从本文中，你将将了解到：\n如何将不同的 TiDB 集群 Prometheus 监控平台整合到同一 Prometheus 平台中\n\n\n如何通过 Grafana 查看 Prometheus 中的 metric\n\n\n如何将不同集群的 cluster 标签注入到 Grafana dashboard 中\n\n\n如何通过 Grafana HTTP API 批量将报表导入到 Grafana 中\n\n\n如何解决大量指标数据造成的 Prometheus 性能问题\n\n\n如何将 Prometheus 中的数据导入到关系型数据库中进行查询或指标分析\n\n\n如何实现 Prometheus 的高可用和高租户\n\n\n\n本文的思路导读：\n我想做什么：将每个集群独立的 Prometheus + Grafana 整合到统一的平台，单一入口进行查询\n\n\nPrometheus 如何整合：使用独立的 Prometheus 拉取不同集群的 metric，通过 label 进行区分\n\n\nGrafana 如何整合：需要将每一个 expr 都推入集群的标签信息加以隔离，生成新的报表，使用 Grafana HTTP API…",
+          "link": "https://gocn.vip/topics/12166",
+          "publishedOn": "2021-06-07T03:14:29.000Z",
+          "wordCount": 1598,
+          "title": "使用 Prometheus + Grafana 打造 TiDB 监控整合方案"
+        },
+        {
+          "id": "https://gocn.vip/topics/12165",
+          "author": "dmbjwy007",
+          "description": "公司介绍：\n华云数据控股集团成立于 2010 年，坚持自主研发和开拓创新，打造管理统一、体验一致的云平台，支持全芯全栈云计算解决方案，为党政、金融、交通、医疗、教育、电信、电力和制造等各行业和领域用户提供信创云计算解决方案和服务。目前，华云数据业务覆盖全国及海外市场，在全球设有分支机构 10 余个，客户总量超过 30 万。\n详细介绍：https://huayun.com/about\n职位描述：\n1、负责项目的开发与维护，并且按时高质完成；负责系统国产化适配\n2、负责项目技术评测，数据库设计、功能模块设计、流程图设计、相关文档编写；\n职位要求：\n1、三年及以上服务端开发经验，两年及以上 golang 服务端研发经验；本科及以上学历，计算机相关专业；\n2、熟悉 Linux 平台下的 Golang 编程，掌握一种及以上 go web 框架；\n3、熟悉 Golang 协程，熟悉 channel 和锁，对高并发、高可用架构系统有正确、深刻的理解；\n4、熟悉常用的互联网技术，包括但不限于 git、MySQL、Redis、RPC、MQ、缓存技术、微服务架构；熟悉 docker+kubernetes 技术栈，有过 docke 容器化应用经验优先\n5、能快速接收和掌握新技术，工作自主驱动，具备良好的问题定位分析能力；\n6、具备团队协作能力，富有挑战精神和强烈的进取心。\n7、对语言持开放性。\n联系方式：\nbaomingsheng@huayun.com\n联系微信：dkspaceoo1\n工作地点：\n无锡市滨湖区慧泽西路科教软件园 B 区 6 号华云数据大厦\n待遇\n具体面谈",
+          "link": "https://gocn.vip/topics/12165",
+          "publishedOn": "2021-06-07T03:12:15.000Z",
+          "wordCount": 123,
+          "title": "[无锡] 华云数据招聘 go 开发工程师"
+        },
+        {
           "id": "https://gocn.vip/topics/12164",
           "author": "tong.wang",
           "description": "Golang 开发工程师\n岗位职责：\n1、负责公司项目的后端 GO 接口的软件设计和开发工作；\n2、负责产品开发过程中相关研发文档的编写；\n3、配合测试人员对项目进行调试和 BUG 修复；\n4、定期自我重构优化代码，持续提升效率性能；\n5、管理项目进度，协调前端同事对接完成产品功能；\n6、负责开发部分功能的运维，确保及时修复突发问题。\n任职要求：\n1、计算机或相关专业，本科或以上学历，三年及以上的任何语言后台开发经验，两年或及以上 GO 开发经验；\n2、精通 GO 语言，在项目中高效使用过协程；\n3、熟练掌握 Linux 操作系统、熟悉常用数据结构和算法；\n4、熟悉 MySql/MongoDB/Redis 数据库的配置、脚本编写、维护、性能优化，了解事务触发器存储过程中间件等，有数据库设计和优化经验；有处理高并发及海量数据处理经验优先；\n5、熟悉 Http、Socket 、多线程、队列编程；\n6、有微信小程序、微信公众号开发经验，熟悉微信开发文档规则；\n7、有高并发服务设计和实现经验者优先；\n8、具有良好规范的代码及技术文档编写习惯；\n9、有很强的分析问题和解决问题的能力；\n10、有良好的团队合作能力，善于沟通，工作自主驱动，具备良好的业务理解能力。\n优点：\n加班少，薪资高，美女多，AI 方向，已沉淀大量数据\n联系方式：tony.wang@aiskin.cn 微信：wt334542263",
@@ -3389,6 +3407,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/144916/rocky-linux-community-updatemay-2021",
+          "author": null,
+          "description": "Rocky Linux 8.4 RC 版本发布啦！！！ 相关信息：https://rockylinux.org/zh-cn/news/rocky-linux-8-4-rc1-release/ 下载地址：https://rockylinux.org/download/ 概述 对我们来说，这是一个非常激动人心的月份。5月1日凌晨，我们发布了Rocky Linux 8.3的RC版本（如果你还没有这个版本，请随时下载并测试，如果发现有任何...",
+          "link": "https://www.oschina.net/news/144916/rocky-linux-community-updatemay-2021",
+          "publishedOn": "2021-06-07T03:14:49.000Z",
+          "wordCount": 504,
+          "title": "Rocky Linux 社区更新-2021年5月"
+        },
+        {
           "id": "https://www.oschina.net/news/144888/gotc-2021-fyde-os",
           "author": null,
           "description": "提到桌面操作系统，Windows 与 macOS 自然是家喻户晓，Linux 在开发者群体中的地位也无需赘言。而在刚刚过去的 2020 年，业界有一匹“名不见经传”的黑马挤下 macOS 成为全球第二大桌面操作系统，令不少人感到惊讶不已。 市场分析公司 IDC 提供的数据显示，Chromebook 在 2020 年的市场份额获得大幅增长，首次突破 10%，...",
@@ -5748,6 +5775,24 @@
             "length": "917033",
             "type": "video/webm"
           }
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=12730",
+          "author": "大眼仔~旭",
+          "description": "Sandboxie 中文版由大眼仔旭（www.dayanzai.me）发布。沙盘英文名sandbox(sand […]",
+          "link": "http://www.dayanzai.me/sandboxie.html",
+          "publishedOn": "2021-06-06T16:32:04.000Z",
+          "wordCount": 591,
+          "title": "经典优秀的沙盘工具 Sandboxie 5.49.8 + x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=1386",
+          "author": "大眼仔~旭",
+          "description": "开源免费沙箱增强版 Sandboxie Plus 中文版由大眼仔旭（www.dayanzai.me）发布。Sa […]",
+          "link": "http://www.dayanzai.me/sandboxie-plus.html",
+          "publishedOn": "2021-06-06T16:24:58.000Z",
+          "wordCount": 719,
+          "title": "开源免费沙箱增强版 Sandboxie Plus 0.7.5 + x64 中文免费版"
         },
         {
           "id": "http://www.dayanzai.me/?p=4747",
