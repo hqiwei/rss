@@ -1386,6 +1386,51 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=86221",
+          "author": "Editor, Kai",
+          "description": "Apache Johnzon 1.2.13 发布 用 Python 3.8 中的这个位置技巧让你的 API 变得更好 Linux 5.10 LTS 延长至六年支持期背后的故事 ARM CEO谈NVIDIA收购：芯片授权任何人都可以用 使用开 […]",
+          "link": "http://www.linuxeden.com/a/86221",
+          "publishedOn": "2021-06-07T13:55:29.000Z",
+          "wordCount": 111,
+          "title": "每日文章精选 2021 06 07"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86217",
+          "author": "Editor, Kai",
+          "description": "apache-johnzon-1.2.13-src.zip        2021-06-06 10:25  1.0M apache-johnzon-1.2.13-src.zip.asc    2021-06-06 10:25  488 a […]",
+          "link": "http://www.linuxeden.com/a/86217",
+          "publishedOn": "2021-06-07T13:48:03.000Z",
+          "wordCount": 99,
+          "title": "Apache  Johnzon 1.2.13 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86215",
+          "author": "Editor, Kai",
+          "description": "索只接受位置参数和其他两个未被充分利用但仍然有用的 Python 特性。 这是 Python 3.x 首发特性系列文章的第九篇。Python 3.8 于 2019 年首次发布，两年后，它的许多很酷的新特性仍然没有被使用。下面是其中的三个。  […]",
+          "link": "http://www.linuxeden.com/a/86215",
+          "publishedOn": "2021-06-07T13:28:43.000Z",
+          "wordCount": 224,
+          "title": "用 Python 3.8 中的这个位置技巧让你的 API 变得更好"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86209",
+          "author": "Editor, Kai",
+          "description": "可能你已经知道原计划支持 2 年的 Linux 5.10 LTS 已经延长支持到 6 年了，但是你可能不知道是谁站出来提供了支持。 支持到 2026 年的 Linux 5.10！ 去年年底，Linux 内核社区发布最新长期支持版本 Linu […]",
+          "link": "http://www.linuxeden.com/a/86209",
+          "publishedOn": "2021-06-07T13:27:19.000Z",
+          "wordCount": 339,
+          "title": "Linux 5.10 LTS 延长至六年支持期背后的故事"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86207",
+          "author": "Editor, Kai",
+          "description": "去年9月份NVIDIA宣布斥资400亿美元收购ARM公司，后者是全球最重要的芯片IP授权公司之一，基于ARM的CPU处理器是智能手机、平板芯片几乎唯一的选择。 NVIDIA收购ARM公司还需要全球多个国家的反垄断审批，前不久NVIDIA C […]",
+          "link": "http://www.linuxeden.com/a/86207",
+          "publishedOn": "2021-06-07T13:23:20.000Z",
+          "wordCount": 87,
+          "title": "ARM CEO谈NVIDIA收购：芯片授权任何人都可以用"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86196",
           "author": "Editor, Kai",
           "description": "Linuxeden开源社区-开源美图 2021 06 07",

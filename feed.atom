@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T12:44:59.503Z</updated>
+    <updated>2021-06-07T14:18:43.477Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 06 07]]></title>
+        <id>http://www.linuxeden.com/?p=86221</id>
+        <link href="http://www.linuxeden.com/a/86221"/>
+        <updated>2021-06-07T13:55:29.000Z</updated>
+        <summary type="html"><![CDATA[Apache Johnzon 1.2.13 发布 用 Python 3.8 中的这个位置技巧让你的 API 变得更好 Linux 5.10 LTS 延长至六年支持期背后的故事 ARM CEO谈NVIDIA收购：芯片授权任何人都可以用 使用开 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache  Johnzon 1.2.13 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86217</id>
+        <link href="http://www.linuxeden.com/a/86217"/>
+        <updated>2021-06-07T13:48:03.000Z</updated>
+        <summary type="html"><![CDATA[apache-johnzon-1.2.13-src.zip        2021-06-06 10:25  1.0M apache-johnzon-1.2.13-src.zip.asc    2021-06-06 10:25  488 a […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 Python 3.8 中的这个位置技巧让你的 API 变得更好]]></title>
+        <id>http://www.linuxeden.com/?p=86215</id>
+        <link href="http://www.linuxeden.com/a/86215"/>
+        <updated>2021-06-07T13:28:43.000Z</updated>
+        <summary type="html"><![CDATA[索只接受位置参数和其他两个未被充分利用但仍然有用的 Python 特性。 这是 Python 3.x 首发特性系列文章的第九篇。Python 3.8 于 2019 年首次发布，两年后，它的许多很酷的新特性仍然没有被使用。下面是其中的三个。  […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.10 LTS 延长至六年支持期背后的故事]]></title>
+        <id>http://www.linuxeden.com/?p=86209</id>
+        <link href="http://www.linuxeden.com/a/86209"/>
+        <updated>2021-06-07T13:27:19.000Z</updated>
+        <summary type="html"><![CDATA[可能你已经知道原计划支持 2 年的 Linux 5.10 LTS 已经延长支持到 6 年了，但是你可能不知道是谁站出来提供了支持。 支持到 2026 年的 Linux 5.10！ 去年年底，Linux 内核社区发布最新长期支持版本 Linu […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARM CEO谈NVIDIA收购：芯片授权任何人都可以用]]></title>
+        <id>http://www.linuxeden.com/?p=86207</id>
+        <link href="http://www.linuxeden.com/a/86207"/>
+        <updated>2021-06-07T13:23:20.000Z</updated>
+        <summary type="html"><![CDATA[去年9月份NVIDIA宣布斥资400亿美元收购ARM公司，后者是全球最重要的芯片IP授权公司之一，基于ARM的CPU处理器是智能手机、平板芯片几乎唯一的选择。 NVIDIA收购ARM公司还需要全球多个国家的反垄断审批，前不久NVIDIA C […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[云原生推动全云开发与实践]]></title>
         <id>https://gocn.vip/topics/12168</id>
