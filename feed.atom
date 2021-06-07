@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T05:28:20.814Z</updated>
+    <updated>2021-06-07T07:27:33.407Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Video to Pic – 从视频中逐帧导出图片[iPhone]]]></title>
+        <id>https://www.appinn.com/?p=38985</id>
+        <link href="https://www.appinn.com/video-to-pic-for-ios/"/>
+        <updated>2021-06-07T06:28:27.000Z</updated>
+        <summary type="html"><![CDATA[Video to Pic 是一款可以从视频或 Live Photos（实况照片）中“逐帧“导出一张或多张高质量照片的应用，支持 iPad、iPhone，支持切换不同的视频帧率，可导出 PNG 和 JP]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevUI 11.3.0 发布：首次开放 DevUI 动效]]></title>
+        <id>https://www.oschina.net/news/144952/devui-11-3-0-released</id>
+        <link href="https://www.oschina.net/news/144952/devui-11-3-0-released"/>
+        <updated>2021-06-07T06:25:18.000Z</updated>
+        <summary type="html"><![CDATA[DevUI 是一款面向企业中后台产品的开源前端解决方案，它倡导沉浸、灵活、至简的设计价值观，提倡设计者为真实的需求服务，为多数人的设计，拒绝哗众取宠、取悦眼球的设计。如果你正在开发 ToB 的工具类产品，DevUI 将是一个很不错的选择！ 新增特性 新版本主要包含以下特性： 开放DevUI动效,参考扩展服务/Animations动效...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rocky Linux 社区更新-2021年5月]]></title>
         <id>https://www.oschina.net/news/144916/rocky-linux-community-updatemay-2021</id>
