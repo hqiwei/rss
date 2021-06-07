@@ -3416,6 +3416,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/144997/webank-opensource-may",
+          "author": null,
+          "description": "WeBASE 区块链中间件平台 https://github.com/WeBankFinTech/WeBASE https://gitee.com/WeBank/WeBASEv1.5.1：发布中，预计 6 月初发布完成。 主要功能：扩展合约仓库数量，向社区发布合约仓库贡献和接入方法，和社区共建合约仓库；支持在合约 IDE 中可以导出 JAVA 工程；应用管理优化等。 WeCross 区块链跨链协作平台 ...",
+          "link": "https://www.oschina.net/news/144997/webank-opensource-may",
+          "publishedOn": "2021-06-07T08:59:06.000Z",
+          "wordCount": 503,
+          "title": "微众银行区块链开源项目 - 5月进展合集"
+        },
+        {
           "id": "https://www.oschina.net/news/144952/devui-11-3-0-released",
           "author": null,
           "description": "DevUI 是一款面向企业中后台产品的开源前端解决方案，它倡导沉浸、灵活、至简的设计价值观，提倡设计者为真实的需求服务，为多数人的设计，拒绝哗众取宠、取悦眼球的设计。如果你正在开发 ToB 的工具类产品，DevUI 将是一个很不错的选择！ 新增特性 新版本主要包含以下特性： 开放DevUI动效,参考扩展服务/Animations动效...",
