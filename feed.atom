@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T14:18:43.477Z</updated>
+    <updated>2021-06-07T15:32:01.772Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Angular NgClass Example – How to Add Conditional CSS Classes]]></title>
+        <id>60b136d911ffb70827ef912b</id>
+        <link href="https://www.freecodecamp.org/news/angular-ngclass-example/"/>
+        <updated>2021-06-07T15:01:26.000Z</updated>
+        <summary type="html"><![CDATA[ngClass is a directive in Angular that adds and removes CSS classes on an HTML element. In this article, we are talking about ngClass in Angular only, not ng-class in angular.js. Prerequisites – What is Property Binding?Two things we have to understand first are property binding and interpolation in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日文章精选 2021 06 07]]></title>
         <id>http://www.linuxeden.com/?p=86221</id>
