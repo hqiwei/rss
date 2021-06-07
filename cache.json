@@ -3515,6 +3515,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/p/kuiper",
+          "author": null,
+          "description": "EMQ X Kuiper 是 Golang 实现的轻量级物联网边缘分析、流式处理开源软件，可以运行在各类资源受限的边缘设备上。",
+          "link": "https://www.oschina.net/p/kuiper",
+          "publishedOn": "2021-06-07T23:25:43.000Z",
+          "wordCount": 827,
+          "title": "Kuiper ——  Go 实现的物联网边缘数据分析软件"
+        },
+        {
           "id": "https://www.oschina.net/news/145029/refline-js-0-5-0-released",
           "author": null,
           "description": "refline.js是完全不依赖设计器环境的参考线组件，方便各种设计器快速接入，支持参考线及吸附功能。 项目地址： https://github.com/refline/refline.js 更新内容： 支持参考线对齐匹配 支持参考线吸附 操作优化：小于1px的吸附逻辑 体验地址：codesandbox 示例：...",

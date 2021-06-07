@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T22:35:10.869Z</updated>
+    <updated>2021-06-07T23:31:50.634Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kuiper ——  Go 实现的物联网边缘数据分析软件]]></title>
+        <id>https://www.oschina.net/p/kuiper</id>
+        <link href="https://www.oschina.net/p/kuiper"/>
+        <updated>2021-06-07T23:25:43.000Z</updated>
+        <summary type="html"><![CDATA[EMQ X Kuiper 是 Golang 实现的轻量级物联网边缘分析、流式处理开源软件，可以运行在各类资源受限的边缘设备上。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use OpenCV and Python for Computer Vision and AI]]></title>
         <id>60be863cd3126007592d4c36</id>
