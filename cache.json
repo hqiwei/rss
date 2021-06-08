@@ -1458,6 +1458,42 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=86252",
+          "author": "Editor, Kai",
+          "description": "寻找为 Linux 内核贡献数千补丁的“超能力者”！ Marvell推出业内首款1.6T以太网PHY：5nm先进制程 100G PAM4 I/O Notepad++ v8 发布 Torvalds 继续反对在编译 Linux 内核时使用 -O […]",
+          "link": "http://www.linuxeden.com/a/86252",
+          "publishedOn": "2021-06-08T14:37:51.000Z",
+          "wordCount": 119,
+          "title": "每日文章精选 2021 06 08"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86248",
+          "author": "Editor, Kai",
+          "description": "在 LWN.net 发布的 Linux 内核报告中，常年可以看到一个贡献者 —— “Yue Hai Bing”，自 2018 年底以来，TA 对每个版本都会贡献大量的补丁，帮助 Linux 内核不断迭代。为了找到这个来自华为的优秀贡献者，我 […]",
+          "link": "http://www.linuxeden.com/a/86248",
+          "publishedOn": "2021-06-08T14:35:23.000Z",
+          "wordCount": 312,
+          "title": "寻找为 Linux 内核贡献数千补丁的“超能力者”！"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86244",
+          "author": "Editor, Kai",
+          "description": "美满电子（Marvell）刚刚发布了业内首款基于 5nm 先进制程的 1.6T 以太网 PHY 解决方案，特点是支持十万兆（100G）级别的 PAM4 输入 / 输出。对于数据中心来说，100G 串行 I/O 可在云基础架构中发挥关键作用， […]",
+          "link": "http://www.linuxeden.com/a/86244",
+          "publishedOn": "2021-06-08T14:32:25.000Z",
+          "wordCount": 208,
+          "title": "Marvell推出业内首款1.6T以太网PHY：5nm先进制程 100G PAM4 I/O"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86240",
+          "author": "Editor, Kai",
+          "description": "文本编辑器 Notepad++ 释出了 v8。主要新特性包括：深色模式（Dark Mode）、ARM64 构建版本，工具栏 Fluent UI 图标，免干扰模式，深色模式 API NPPM_ADDTOOLBARICON_FORDARKMOD […]",
+          "link": "http://www.linuxeden.com/a/86240",
+          "publishedOn": "2021-06-08T14:28:52.000Z",
+          "wordCount": 98,
+          "title": "Notepad++ v8 发布"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86237",
           "author": "Editor, Kai",
           "description": "Linuxeden开源社区-开源美图 2021 06 08",
