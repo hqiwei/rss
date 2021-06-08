@@ -6,6 +6,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60b23b8911ffb70827ef954e",
+          "author": null,
+          "description": "If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.",
+          "link": "https://www.freecodecamp.org/news/pass-data-between-components-in-react/",
+          "publishedOn": "2021-06-08T16:17:32.000Z",
+          "wordCount": 1205,
+          "title": "How to Pass Data and Events Between Components in React"
+        },
+        {
+          "id": "60be6a3cd3126007592d4a03",
+          "author": null,
+          "description": "Today we're going to learn CSS Grid properties so that you can make your own responsive websites. I'll explain how each of Grid's properties work along with a CheatSheet that covers everything you can do with Grid. Let's go. 🎖️ Table of Contents: CSS Grid Architecture CSS Grid Chart Grid Parent",
+          "link": "https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/",
+          "publishedOn": "2021-06-08T16:02:45.000Z",
+          "wordCount": 2548,
+          "title": "Complete CSS Grid Tutorial with Cheat Sheet 🎖️"
+        },
+        {
           "id": "60bbd28eacb62507dd1d99fb",
           "author": null,
           "description": "Learn how to build full stack serverless apps with Supabase and Next.js.",
