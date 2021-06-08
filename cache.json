@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60bbd28eacb62507dd1d99fb",
+          "author": null,
+          "description": "Learn how to build full stack serverless apps with Supabase and Next.js.",
+          "link": "https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/",
+          "publishedOn": "2021-06-07T23:33:30.000Z",
+          "wordCount": 3567,
+          "title": "How to Build a Full Stack App with Supabase and Next.js"
+        },
+        {
           "id": "60be863cd3126007592d4c36",
           "author": null,
           "description": "OpenCV is a popular Python library for real-time computer vision. We just released a new OpenCV course on the freeCodeCamp.org YouTube channel. This course comes directly from the creators of OpenCV and is the perfect course for beginners.  You will learn how to use OpenCV for Computer Vision and",
@@ -1412,6 +1421,69 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=86237",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 06 08",
+          "link": "http://www.linuxeden.com/a/86237",
+          "publishedOn": "2021-06-08T00:31:45.000Z",
+          "wordCount": 88,
+          "title": "开源美图 2021 06 08"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86234",
+          "author": "Editor, Kai",
+          "description": "由于 GCC 的较旧版本可能会在 -O3 编译器优化级别下产生坏的代码，而且有时没有性能上的好处，Linus Torvalds 仍然反对在编译 Linux 内核时使用这种优化标志。Torvalds 总结了他目前对 -O3 的看法：“它在历史 […]",
+          "link": "http://www.linuxeden.com/a/86234",
+          "publishedOn": "2021-06-08T00:30:49.000Z",
+          "wordCount": 117,
+          "title": "Torvalds 继续反对在编译 Linux 内核时使用 -O3 优化标志"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86232",
+          "author": "Editor, Kai",
+          "description": "FUSE mount Support macfuse 4.x on MacOS Add current and parent directoreis . and .. #2105 Avoid file handle locking when […]",
+          "link": "http://www.linuxeden.com/a/86232",
+          "publishedOn": "2021-06-08T00:28:41.000Z",
+          "wordCount": 230,
+          "title": "Seaweedfs 2.52 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86230",
+          "author": "Editor, Kai",
+          "description": "This first patch release to the Qt 6.1 series contains more than 150 bug fixes to the top of Qt 6.1.0 release. See more  […]",
+          "link": "http://www.linuxeden.com/a/86230",
+          "publishedOn": "2021-06-08T00:28:02.000Z",
+          "wordCount": 197,
+          "title": "Qt 6.1.1 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86228",
+          "author": "Editor, Kai",
+          "description": "3.1.0 Features Migration Build: a build of Vue 3 that provides Vue 2 compatible behavior. The Migration Build is intende […]",
+          "link": "http://www.linuxeden.com/a/86228",
+          "publishedOn": "2021-06-08T00:25:49.000Z",
+          "wordCount": 944,
+          "title": "Vue 3.1.0 Pluto\\3.1.1发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86226",
+          "author": "Editor, Kai",
+          "description": "Fix Menu auto overflow with horizontal mod breaks by float element. #30879 Typography Fix the problem that Typography.Pa […]",
+          "link": "http://www.linuxeden.com/a/86226",
+          "publishedOn": "2021-06-08T00:23:43.000Z",
+          "wordCount": 280,
+          "title": "Ant Design 4.16.2 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86224",
+          "author": "Editor, Kai",
+          "description": "What’s new in this release (see below for details): – Various bug fixes – Add support for wine64 on Ap […]",
+          "link": "http://www.linuxeden.com/a/86224",
+          "publishedOn": "2021-06-08T00:21:16.000Z",
+          "wordCount": 920,
+          "title": "Wine 维护版 6.0.1 发布"
+        },
         {
           "id": "http://www.linuxeden.com/?p=86221",
           "author": "Editor, Kai",
@@ -3514,6 +3586,69 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://gitee.com/h4cd/gotc-open-source-gallery",
+          "author": null,
+          "description": "欢迎来这幅史无前例的开源画卷上留下浓墨重彩的一笔！",
+          "link": "https://gitee.com/h4cd/gotc-open-source-gallery",
+          "publishedOn": "2021-06-08T00:45:53.000Z",
+          "wordCount": 383,
+          "title": "开源大佬除了 Linus 还有谁？来「开源长廊」告诉大家吧"
+        },
+        {
+          "id": "https://www.paddlepaddle.org.cn/modelbasedetail/ssr",
+          "author": null,
+          "description": "Sequence Semantic Retrieval （SSR）解决了 GRU4Rec 模型无法预测训练数据集中不存在的项目，比如新闻推荐的问题。模型与 Multi-Rate Deep Learning for Temporal Recommendation 有相似的概念。它由两个部分组成：一个是匹配模型部分，另一个是检索部分。...",
+          "link": "https://www.paddlepaddle.org.cn/modelbasedetail/ssr",
+          "publishedOn": "2021-06-08T00:20:51.000Z",
+          "wordCount": 501,
+          "title": "深度学习模型库入门：个性化推荐-SSR"
+        },
+        {
+          "id": "https://www.oschina.net/news/145082/devui-on-gotc",
+          "author": null,
+          "description": "DevUI 是华为云开源的企业级 UI 组件库，它从华为云 DevCloud 研发工具体系孵化而来。其官网的介绍写道： “DevUI Design 可以让开发人员专门专注于应用逻辑的思考，而设计人员专注于用户体验，交互和流程。” DevUI 基于 Angular 框架，提供了功能强大、场景丰富的多种组件，如 Tree、Table 等。DevUI 倡导沉浸、灵活、...",
+          "link": "https://www.oschina.net/news/145082/devui-on-gotc",
+          "publishedOn": "2021-06-08T00:19:28.000Z",
+          "wordCount": 519,
+          "title": "DevUI —— 华为云开源的企业级 UI 组件库"
+        },
+        {
+          "id": "https://my.oschina.net/u/5148943/blog/5063434",
+          "author": null,
+          "description": "本文将着重介绍新增 Leader 亲和选举、混合序列化、Raft Log 分离与定制存储、Raft 心跳与数据分离这四大优化改进。",
+          "link": "https://my.oschina.net/u/5148943/blog/5063434",
+          "publishedOn": "2021-06-08T00:15:14.000Z",
+          "wordCount": 1035,
+          "title": "深入解析 Raft 模块在 ZNBase 中的优化改造（下）"
+        },
+        {
+          "id": "https://www.oschina.net/news/145080/wwdc-2021",
+          "author": null,
+          "description": "在刚刚结束的 WWDC2021 上，苹果宣布了 iOS 15、iPadOS 15 以及 macOS Monterey。具体的更新内容这里不再重复，本文主要介绍几个和开发者紧密相关的亮点。 Swift Playgrounds 4 支持编译 APP 用一句话概括此变化就是，可以用 iPad 写代码了。通过在 iPadOS 15 上使用新版本的 Swift Playgrounds，开发者可从头开始创建 ...",
+          "link": "https://www.oschina.net/news/145080/wwdc-2021",
+          "publishedOn": "2021-06-08T00:04:53.000Z",
+          "wordCount": 479,
+          "title": "WWDC2021 亮点：iPad 支持编译 APP、Xcode Cloud、Universal Control"
+        },
+        {
+          "id": "https://www.oschina.net/news/145079/qt-6-2-features-freeze",
+          "author": null,
+          "description": "根据邮件列表显示，Qt 6.2 已经进入功能冻结状态。 在去年年底 Qt 6.0 发布后，Qt 表示将压缩今年的发布周期，因此在 Qt 6.1 刚刚发布 1 个月后，Qt 6.2 就已经进入了功能冻结期。不过，由于 QML 的 cmake API 改动还没有完成，Qt 6.2 现在还不能展开新的分支，所以从 \"dev\" 到 \"6.2\" 的分支将在之后创建。此外，在 Qt M...",
+          "link": "https://www.oschina.net/news/145079/qt-6-2-features-freeze",
+          "publishedOn": "2021-06-07T23:58:30.000Z",
+          "wordCount": 497,
+          "title": "Qt 6.2 功能冻结，更多 Qt5 模块移植到 Qt6"
+        },
+        {
+          "id": "https://gitee.com/baidu/m-git",
+          "author": null,
+          "description": "MGit 是一款 Ruby 封装的基于 Git 的多仓库管理工具，可以高效的、同时的对多个 Git 仓库执行 Git 命令。 适合于在多个仓库中进行关联开发的项目，提高 Git 操作的效率，避免逐个执行 Git 命令带来的误操作风险。",
+          "link": "https://gitee.com/baidu/m-git",
+          "publishedOn": "2021-06-07T23:33:52.000Z",
+          "wordCount": 481,
+          "title": "Gitee 推荐 | 基于 Git 的多仓库管理工具 MGit"
+        },
         {
           "id": "https://www.oschina.net/p/kuiper",
           "author": null,
