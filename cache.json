@@ -6114,6 +6114,15 @@
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
         {
+          "id": "http://www.dayanzai.me/?p=52444",
+          "author": "大眼仔~旭",
+          "description": "Atom 是由 GitHub 开发的免费文本和源代码编辑器。 它是一个开源文本编辑器，大多数操作系统都支持它， […]",
+          "link": "http://www.dayanzai.me/atom-keyboard-shortcuts.html",
+          "publishedOn": "2021-06-08T03:35:46.000Z",
+          "wordCount": 1374,
+          "title": "适用于 Windows、Mac 和 Linux 的 Atom 键盘快捷键备忘单"
+        },
+        {
           "id": "http://www.dayanzai.me/?p=52430",
           "author": "大眼仔~旭",
           "description": "如果您想防止其他人从您的网站上窃取内容，您可以借助 CSS、JavaScript 和 jQuery 在一定程度 […]",
