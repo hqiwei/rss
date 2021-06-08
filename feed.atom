@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T09:12:53.859Z</updated>
+    <updated>2021-06-08T11:12:57.909Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[微众银行大数据开源项目更新合集 5 月篇]]></title>
+        <id>https://www.oschina.net/news/145190/webank-bigdata-opensource-may</id>
+        <link href="https://www.oschina.net/news/145190/webank-bigdata-opensource-may"/>
+        <updated>2021-06-08T09:21:06.000Z</updated>
+        <summary type="html"><![CDATA[DataSphere Studio 数据应用开发门户 DSS1.0.0 完成了 Linkis1.0.0 的对接和联调测试，包含数据服务、工作流编排、工程权限控制等功能。 https://github.com/WeBankFinTech/DataSphereStudio https://gitee.com/WeBank/DataSphereStudio Linkis 金融级大数据平台中间件服务集合 Linkis1.0.0 正式版本开发和测试完成、正在...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源公告｜C++ 分布式编译系统 yadcc 开源了]]></title>
         <id>https://www.oschina.net/news/145170</id>
