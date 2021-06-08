@@ -596,6 +596,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12170",
+          "author": "Junebao",
+          "description": "我运行 \nfunc TestA(t *testing.T) {\n    fmt.Println(map[string]string{\"b\": \"\\r\"})\n}\n\n却只输出了一个 “]” 请问这是 go 有意为之还是 bug 啊",
+          "link": "https://gocn.vip/topics/12170",
+          "publishedOn": "2021-06-08T11:14:23.000Z",
+          "wordCount": 92,
+          "title": "关于 fmt 标准化输出 map 的问题"
+        },
+        {
           "id": "https://gocn.vip/topics/12169",
           "author": "keke001",
           "description": "GoCN 每日新闻 (2021-06-08)\n在 Golang 中创建自定义应用程序 logger https://jilsonfreddy.medium.com/create-a-custom-application-logger-in-golang-cdd11ba106d5\n\n在 Go 1.16+ 中构建 GUI 桌面应用程序 https://blog.ctrlshiftmake.com/build-tray-gui-desktop-application-go\n\nGo 实现为以太坊智能合约创建绑定 https://www.metachris.com/2021/05/creating-go-bindings-for-ethereum-smart-contracts/\n\nGo 中简单、可定制、分级且高效的日志记录 https://github.com/ermanimer/log\n\nGo 实现的发送原始 HTTP 请求的基准测试和压力测试工具 https://github.com/utkusen/reqstress\n\n\n\n\n\nGopherChina 倒计时 19 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n编辑: 李森森\n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs",

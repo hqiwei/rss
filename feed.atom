@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T11:12:57.909Z</updated>
+    <updated>2021-06-08T12:14:50.700Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[关于 fmt 标准化输出 map 的问题]]></title>
+        <id>https://gocn.vip/topics/12170</id>
+        <link href="https://gocn.vip/topics/12170"/>
+        <updated>2021-06-08T11:14:23.000Z</updated>
+        <summary type="html"><![CDATA[我运行 
+func TestA(t *testing.T) {
+    fmt.Println(map[string]string{"b": "\r"})
+}
+
+却只输出了一个 “]” 请问这是 go 有意为之还是 bug 啊]]></summary>
+        <author>
+            <name>Junebao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微众银行大数据开源项目更新合集 5 月篇]]></title>
         <id>https://www.oschina.net/news/145190/webank-bigdata-opensource-may</id>
