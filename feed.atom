@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T00:53:15.257Z</updated>
+    <updated>2021-06-08T02:46:16.001Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[如何禁用网页上的文本选择、剪切、复制、粘贴和右键单击功能]]></title>
+        <id>http://www.dayanzai.me/?p=52430</id>
+        <link href="http://www.dayanzai.me/dont-copy-the-page.html"/>
+        <updated>2021-06-08T02:31:48.000Z</updated>
+        <summary type="html"><![CDATA[如果您想防止其他人从您的网站上窃取内容，您可以借助 CSS、JavaScript 和 jQuery 在一定程度 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-08)]]></title>
+        <id>https://gocn.vip/topics/12169</id>
+        <link href="https://gocn.vip/topics/12169"/>
+        <updated>2021-06-08T02:12:47.000Z</updated>
+        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-06-08)
+在 Golang 中创建自定义应用程序 logger https://jilsonfreddy.medium.com/create-a-custom-application-logger-in-golang-cdd11ba106d5
+
+在 Go 1.16+ 中构建 GUI 桌面应用程序 https://blog.ctrlshiftmake.com/build-tray-gui-desktop-application-go
+
+Go 实现为以太坊智能合约创建绑定 https://www.metachris.com/2021/05/creating-go-bindings-for-ethereum-smart-contracts/
+
+Go 中简单、可定制、分级且高效的日志记录 https://github.com/ermanimer/log
+
+Go 实现的发送原始 HTTP 请求的基准测试和压力测试工具 https://github.com/utkusen/reqstress
+
+
+
+
+
+GopherChina 倒计时 19 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ
+
+
+编辑: 李森森
+
+
+订阅新闻: http://tinyletter.com/gocn
+
+
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>keke001</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go Fuzzing 进入 Beta 测试阶段]]></title>
+        <id>https://www.oschina.net/news/145093/go-fuzz-beta</id>
+        <link href="https://www.oschina.net/news/145093/go-fuzz-beta"/>
+        <updated>2021-06-08T01:26:59.000Z</updated>
+        <summary type="html"><![CDATA[Go 团队宣布原生的 fuzzing（模糊测试）功能已准备好在其开发分支 dev.fuzz 上进行 Beta 测试。 Fuzzing 属于自动化测试，它通过持续控制程序的输入来暴露诸如 panic 或 bug 之类的错误。这些半随机的数据突变可以发现现有单元测试可能遗漏的新代码覆盖范围，以及很难被注意到的边缘案例的错误。由于模糊测试可以触达这些...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源大佬除了 Linus 还有谁？来「开源长廊」告诉大家吧]]></title>
         <id>https://gitee.com/h4cd/gotc-open-source-gallery</id>
@@ -54,6 +108,16 @@
         <summary type="html"><![CDATA[This first patch release to the Qt 6.1 series contains more than 150 bug fixes to the top of Qt 6.1.0 release. See more  […]]]></summary>
         <author>
             <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wine 的 Wayland 驱动程序现在支持 Vulkan 等功能]]></title>
+        <id>https://www.oschina.net/news/145084/wine-wayland-support-vulkan</id>
+        <link href="https://www.oschina.net/news/145084/wine-wayland-support-vulkan"/>
+        <updated>2021-06-08T00:27:30.000Z</updated>
+        <summary type="html"><![CDATA[根据邮件列表显示，Wine 的实验性 Wayland 驱动现在支持 Vulkan、多显示器设置、HiDPI、光标剪切以及 Wayland 键盘图等功能。 与 X11 等传统显示系统相比，Wayland 协议在设计上受到更多的限制，因此 Wine 的实验性 Wayland 驱动于去年年底提出，该驱动允许用户直接在 Wayland 合成器上运行 Windows GDI 和 OpenGL 应用程...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
     <entry>
@@ -184,6 +248,16 @@
         <summary type="html"><![CDATA[Closures are a confusing JavaScript concept to learn, because it's hard to see how they're actually used.  Unlike other concepts such as functions, variables, and objects, you don't always use closures conscientiously and directly. You don't say: Oh! Here I will use a closure as a solution. But at the]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[程序卸载工具 Wise Program Uninstaller 2.5.1 Build 147 中文免费版]]></title>
+        <id>http://www.dayanzai.me/?p=5777</id>
+        <link href="http://www.dayanzai.me/wise-program-uninstaller.html"/>
+        <updated>2021-06-07T16:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Wise Program Uninstaller 绿色中文版程序卸载工具由大眼仔旭（www.dayanzai. […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>

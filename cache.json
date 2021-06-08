@@ -596,6 +596,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12169",
+          "author": "keke001",
+          "description": "GoCN 每日新闻 (2021-06-08)\n在 Golang 中创建自定义应用程序 logger https://jilsonfreddy.medium.com/create-a-custom-application-logger-in-golang-cdd11ba106d5\n\n在 Go 1.16+ 中构建 GUI 桌面应用程序 https://blog.ctrlshiftmake.com/build-tray-gui-desktop-application-go\n\nGo 实现为以太坊智能合约创建绑定 https://www.metachris.com/2021/05/creating-go-bindings-for-ethereum-smart-contracts/\n\nGo 中简单、可定制、分级且高效的日志记录 https://github.com/ermanimer/log\n\nGo 实现的发送原始 HTTP 请求的基准测试和压力测试工具 https://github.com/utkusen/reqstress\n\n\n\n\n\nGopherChina 倒计时 19 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n编辑: 李森森\n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12169",
+          "publishedOn": "2021-06-08T02:12:47.000Z",
+          "wordCount": 112,
+          "title": "GoCN 每日新闻 (2021-06-08)"
+        },
+        {
           "id": "https://gocn.vip/topics/12168",
           "author": "alicloudnative",
           "description": "作者｜丁宇\n\n今天，千行百业都在拥抱云计算和云原生，进行数字化创新和升级，云原生内涵得到了极大丰富，使得我们今天可以重新定义云原生。云原生技术的出现，有利于帮助开发者构建弹性扩展、容错性好、易于管理，便于观测的松耦合系统，代表技术 Kubernetes 、容器、 DevOps  、微服务、服务网格、 Serverless ，可以看到，这样的技术是一组应用层技术的集合，而云计算的传统优势是资源的池化，这种集约化管理，会带来弹性分布式和基于 API  自动化管理的能力，可以说云原生只有和云计算结合起来，才可以发挥真正的威力。\n​\n因云而生的云原生\n\n云原生技术和云计算结合起来是什么呢？就是我们今天说的云原生产品，今天的云平台提供了大量的云原生产品，包括大数据、数据库、容器服务、中间件、应用 PaaS 、云原生安全、开发者工具、音视频服务、弹性裸金属服务器等，因云而生的产品、软件、硬件、技术、架构才是真正的云原生。\n​\n云原生开启全云开发时代\n​\n\n今天我们认为云原生成为云计算的一次再升级。对于云平台来讲，以容器为代表的技术，成为了云计算新的服务界，面向开发者，向下能够封装基础设施，屏蔽异构环境的差异性，以阿里云容器服务 ACK 为例，能够向下封装三十款云产品，带来非常简单的使用界面；向上支持三十多款云产品，支持异构负载和架构。对于企业来讲，云原生正在加速企业的数字化创新，从基础设施云化、核心技术互联网化、应用架构现代化、业务数据化智能化四个方向发力，帮助企业实现业务创新。\n​\n今天云原生成为企业数字创新的最短路径和基石，对于开发者来讲，云原生重塑软件生命周期，一方面向下优化，实现软硬一体协同优化，降低技术成本，提升技术效率；另一方面向上支撑多种工作负载，让架构带来更多美好特性。关注云原生的朋友肯定知道， CNCF 已经有几百个项目，从整个应用的开发到具体的开发框架、开发工具 I…",
@@ -3587,6 +3596,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/145093/go-fuzz-beta",
+          "author": null,
+          "description": "Go 团队宣布原生的 fuzzing（模糊测试）功能已准备好在其开发分支 dev.fuzz 上进行 Beta 测试。 Fuzzing 属于自动化测试，它通过持续控制程序的输入来暴露诸如 panic 或 bug 之类的错误。这些半随机的数据突变可以发现现有单元测试可能遗漏的新代码覆盖范围，以及很难被注意到的边缘案例的错误。由于模糊测试可以触达这些...",
+          "link": "https://www.oschina.net/news/145093/go-fuzz-beta",
+          "publishedOn": "2021-06-08T01:26:59.000Z",
+          "wordCount": 474,
+          "title": "Go Fuzzing 进入 Beta 测试阶段"
+        },
+        {
           "id": "https://gitee.com/h4cd/gotc-open-source-gallery",
           "author": null,
           "description": "欢迎来这幅史无前例的开源画卷上留下浓墨重彩的一笔！",
@@ -3594,6 +3612,15 @@
           "publishedOn": "2021-06-08T00:45:53.000Z",
           "wordCount": 383,
           "title": "开源大佬除了 Linus 还有谁？来「开源长廊」告诉大家吧"
+        },
+        {
+          "id": "https://www.oschina.net/news/145084/wine-wayland-support-vulkan",
+          "author": null,
+          "description": "根据邮件列表显示，Wine 的实验性 Wayland 驱动现在支持 Vulkan、多显示器设置、HiDPI、光标剪切以及 Wayland 键盘图等功能。 与 X11 等传统显示系统相比，Wayland 协议在设计上受到更多的限制，因此 Wine 的实验性 Wayland 驱动于去年年底提出，该驱动允许用户直接在 Wayland 合成器上运行 Windows GDI 和 OpenGL 应用程...",
+          "link": "https://www.oschina.net/news/145084/wine-wayland-support-vulkan",
+          "publishedOn": "2021-06-08T00:27:30.000Z",
+          "wordCount": 483,
+          "title": "Wine 的 Wayland 驱动程序现在支持 Vulkan 等功能"
         },
         {
           "id": "https://www.paddlepaddle.org.cn/modelbasedetail/ssr",
@@ -6086,6 +6113,24 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=52430",
+          "author": "大眼仔~旭",
+          "description": "如果您想防止其他人从您的网站上窃取内容，您可以借助 CSS、JavaScript 和 jQuery 在一定程度 […]",
+          "link": "http://www.dayanzai.me/dont-copy-the-page.html",
+          "publishedOn": "2021-06-08T02:31:48.000Z",
+          "wordCount": 776,
+          "title": "如何禁用网页上的文本选择、剪切、复制、粘贴和右键单击功能"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=5777",
+          "author": "大眼仔~旭",
+          "description": "Wise Program Uninstaller 绿色中文版程序卸载工具由大眼仔旭（www.dayanzai. […]",
+          "link": "http://www.dayanzai.me/wise-program-uninstaller.html",
+          "publishedOn": "2021-06-07T16:30:38.000Z",
+          "wordCount": 540,
+          "title": "程序卸载工具 Wise Program Uninstaller 2.5.1 Build 147 中文免费版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=52414",
           "author": "大眼仔~旭",
