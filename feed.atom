@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T03:58:16.580Z</updated>
+    <updated>2021-06-08T05:03:29.667Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2021 Epic BundleHunt：51 款正版软件捆绑包，包含 iStat Menus，支持支付宝付款]]></title>
+        <id>https://www.appinn.com/?p=38997</id>
+        <link href="https://www.appinn.com/2021-epic-bundlehunt/"/>
+        <updated>2021-06-08T04:37:50.000Z</updated>
+        <summary type="html"><![CDATA[BundleHunt 是老牌的 macOS 软件捆绑包销售商，只需要低廉的入场门票，即可挑选特价软件授权。比如这次名为2021 Epic macOS Bundle! 的捆绑包，就包含了 51 款兼容最]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[适用于 Windows、Mac 和 Linux 的 Atom 键盘快捷键备忘单]]></title>
         <id>http://www.dayanzai.me/?p=52444</id>

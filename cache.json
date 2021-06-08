@@ -3301,6 +3301,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=38997",
+          "author": "青小蛙",
+          "description": "BundleHunt 是老牌的 macOS 软件捆绑包销售商，只需要低廉的入场门票，即可挑选特价软件授权。比如这次名为2021 Epic macOS Bundle! 的捆绑包，就包含了 51 款兼容最",
+          "link": "https://www.appinn.com/2021-epic-bundlehunt/",
+          "publishedOn": "2021-06-08T04:37:50.000Z",
+          "wordCount": 259,
+          "title": "2021 Epic BundleHunt：51 款正版软件捆绑包，包含 iStat Menus，支持支付宝付款"
+        },
+        {
           "id": "https://www.appinn.com/?p=38972",
           "author": "青小蛙",
           "description": "ReadMark 是由轻芒杂志团队发布的一款针对非中文用户，带有马克「Mark」功能的 RSS 阅读器，作为一款出海产品，目前的 ReadMark 还在 alpha 内测阶段，今天应该有不少同学拿到了",
