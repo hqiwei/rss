@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T06:25:03.350Z</updated>
+    <updated>2021-06-08T07:25:30.615Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开源公告｜C++ 分布式编译系统 yadcc 开源了]]></title>
+        <id>https://www.oschina.net/news/145170</id>
+        <link href="https://www.oschina.net/news/145170"/>
+        <updated>2021-06-08T07:19:47.000Z</updated>
+        <summary type="html"><![CDATA[yadcc是广泛投产于腾讯广告后台的C++分布式编译系统。 我们在调研学习了业界的ccache、sccache、distcc、icecc等开源的编译加速系统之后，根据我们实际的工业生产场景，设计了这样一套系统。 目前我们实际生产环境： - 有~1700编译核心； - 使用512并发编译（实际并发度取决于本地预处理能力，32逻辑核以上可达到512并发...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EdgeX Foundry 成立四周年！]]></title>
+        <id>https://www.oschina.net/news/145167/edgex-foundry-four-anniversary</id>
+        <link href="https://www.oschina.net/news/145167/edgex-foundry-four-anniversary"/>
+        <updated>2021-06-08T07:02:14.000Z</updated>
+        <summary type="html"><![CDATA[作者：Keith Steele，IOTech 首席执行官，LF Edge Board 和 EdgeX 技术指导小组的成员。 文章简介：短短四年时间，EdgeX已经成为边缘/物联网的全球标准；以下博客内容研究了原因并展望了未来。 边缘计算的出现 早在2017年，“边缘计算”是 Gartner 报告中的一个预测，它被称为“所有基础设施之母”。一种新的计算模型，边...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 Epic BundleHunt：51 款正版软件捆绑包，包含 iStat Menus，支持支付宝付款]]></title>
         <id>https://www.appinn.com/?p=38997</id>

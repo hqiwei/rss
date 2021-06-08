@@ -3605,6 +3605,24 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/145170",
+          "author": null,
+          "description": "yadcc是广泛投产于腾讯广告后台的C++分布式编译系统。 我们在调研学习了业界的ccache、sccache、distcc、icecc等开源的编译加速系统之后，根据我们实际的工业生产场景，设计了这样一套系统。 目前我们实际生产环境： - 有~1700编译核心； - 使用512并发编译（实际并发度取决于本地预处理能力，32逻辑核以上可达到512并发...",
+          "link": "https://www.oschina.net/news/145170",
+          "publishedOn": "2021-06-08T07:19:47.000Z",
+          "wordCount": 490,
+          "title": "开源公告｜C++ 分布式编译系统 yadcc 开源了"
+        },
+        {
+          "id": "https://www.oschina.net/news/145167/edgex-foundry-four-anniversary",
+          "author": null,
+          "description": "作者：Keith Steele，IOTech 首席执行官，LF Edge Board 和 EdgeX 技术指导小组的成员。 文章简介：短短四年时间，EdgeX已经成为边缘/物联网的全球标准；以下博客内容研究了原因并展望了未来。 边缘计算的出现 早在2017年，“边缘计算”是 Gartner 报告中的一个预测，它被称为“所有基础设施之母”。一种新的计算模型，边...",
+          "link": "https://www.oschina.net/news/145167/edgex-foundry-four-anniversary",
+          "publishedOn": "2021-06-08T07:02:14.000Z",
+          "wordCount": 509,
+          "title": "EdgeX Foundry 成立四周年！"
+        },
+        {
           "id": "https://www.oschina.net/news/145093/go-fuzz-beta",
           "author": null,
           "description": "Go 团队宣布原生的 fuzzing（模糊测试）功能已准备好在其开发分支 dev.fuzz 上进行 Beta 测试。 Fuzzing 属于自动化测试，它通过持续控制程序的输入来暴露诸如 panic 或 bug 之类的错误。这些半随机的数据突变可以发现现有单元测试可能遗漏的新代码覆盖范围，以及很难被注意到的边缘案例的错误。由于模糊测试可以触达这些...",
