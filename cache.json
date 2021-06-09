@@ -3902,6 +3902,33 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/145423/rocky-linux-8-4-rc1-released",
+          "author": null,
+          "description": "Rocky Linux 8.4 RC1 已于上周五发布，开发团队建议不要在生产环境使用 RC 版本，只能将此用于测试，并且表示不支持从 Rocky Linux 8.3 RC1 升级到 Rocky Linux 8.4 RC1，也不支持从 RC 版本升级到稳定版本。 此外，他们计划解决 Rocky Linux 8.4 RC1 中所有反馈的错误后，直接发布 GA 版本。 Rocky Linux 8.4 RC1 下载地...",
+          "link": "https://www.oschina.net/news/145423/rocky-linux-8-4-rc1-released",
+          "publishedOn": "2021-06-09T22:50:14.000Z",
+          "wordCount": 643,
+          "title": "Rocky Linux 8.4 RC1 发布，下一版本正式 GA"
+        },
+        {
+          "id": "https://www.oschina.net/news/145421/linux-5-14-dropping-raw-driver",
+          "author": null,
+          "description": "Linux 系统上的 RAW 驱动（RAW_DRIVER）主要用于提供对块设备的直接 I/O 访问。早在 2000 年中期，RAW 驱动就已被废弃了，而且长久以来大家都不推荐继续使用它。如今，RAW 驱动将在今年夏天随着 Linux 5.14 内核的推出而一同被移除。 RAW 驱动允许 Linux 内核直接向块设备提供无缓冲的 I/O，但是它已经有十多年没有被使用...",
+          "link": "https://www.oschina.net/news/145421/linux-5-14-dropping-raw-driver",
+          "publishedOn": "2021-06-09T22:18:31.000Z",
+          "wordCount": 514,
+          "title": "Linux 5.14 将彻底移除早已被废弃的 RAW 驱动程序"
+        },
+        {
+          "id": "https://www.oschina.net/news/145420/ransomware-cost-250-billion-2031",
+          "author": null,
+          "description": "Cybersecurity Ventures 预测，到 2031 年，勒索软件每年将给受害者带来约 2650 亿美元的损失；这一金额是其基于未来 10 年损害成本同比增长 30% 的基础所得出。该公司 2017 年的一份报告曾预测，2017 年勒索软件所造成的的损失将达到 50 亿美元，相较于 2015 年的 3.25 亿美元增长了 15 倍。2018 年的损失预计将达到 80...",
+          "link": "https://www.oschina.net/news/145420/ransomware-cost-250-billion-2031",
+          "publishedOn": "2021-06-09T22:16:42.000Z",
+          "wordCount": 527,
+          "title": "2031 年，全球由勒索软件所造成的损失将超 2650 亿美元"
+        },
+        {
           "id": "https://gotc.oschina.net/?fr=zh0609",
           "author": null,
           "description": "每片领域都有自己的规则，都由适应这套规则的的事物组成，开源社区也不例外，那么想要融入开源社区，你需要先问清楚自己：你是怎样的一个人，而在社区中你的“人设”又应该是什么样？",
