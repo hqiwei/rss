@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T16:22:42.453Z</updated>
+    <updated>2021-06-09T17:39:17.245Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -387,6 +387,16 @@ Release:  https://github.com/seata/seata/releases
         <summary type="html"><![CDATA[开源视频服务器 SRS 已成为增长势头最快的同类型软件，Stars 数量也是音视频服务器中最多的，其性能约是 NginxRTMP、Janus 的三倍，目前还没有更高性能的开源同类产品]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy Your freeCodeCamp Project on AWS – A Beginner&#x27;s Guide to the Cloud]]></title>
+        <id>60bfa4d4d3126007592d5160</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-your-freecodecamp-project-on-aws/"/>
+        <updated>2021-06-08T23:47:43.000Z</updated>
+        <summary type="html"><![CDATA[Throughout this post we’ll deploy your freeCodeCamp front end project using various services on AWS like S3, ElasticBeanstalk, and Lambda.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
