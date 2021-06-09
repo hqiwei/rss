@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T14:13:09.400Z</updated>
+    <updated>2021-06-09T15:10:43.319Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 06 09]]></title>
+        <id>http://www.linuxeden.com/?p=86294</id>
+        <link href="http://www.linuxeden.com/a/86294"/>
+        <updated>2021-06-09T14:41:50.000Z</updated>
+        <summary type="html"><![CDATA[Tomcat Native 1.2.30发布 使用开源工具升级你的 Linux PC 硬件 Windows同样无条件保留了前1MB的内存 Linux只是晚了一步 openSUSE Leap 15.3 版本缩小了与 SUSE Linux 企业 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tomcat Native 1.2.30发布]]></title>
         <id>http://www.linuxeden.com/?p=86290</id>

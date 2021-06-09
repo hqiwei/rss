@@ -1530,6 +1530,15 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=86294",
+          "author": "Editor, Kai",
+          "description": "Tomcat Native 1.2.30发布 使用开源工具升级你的 Linux PC 硬件 Windows同样无条件保留了前1MB的内存 Linux只是晚了一步 openSUSE Leap 15.3 版本缩小了与 SUSE Linux 企业 […]",
+          "link": "http://www.linuxeden.com/a/86294",
+          "publishedOn": "2021-06-09T14:41:50.000Z",
+          "wordCount": 108,
+          "title": "每日文章精选 2021 06 09"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86290",
           "author": "Editor, Kai",
           "description": "The Apache Tomcat Project is proud to announce the release of version 1.2.30 of Tomcat Native. The notable changes since […]",
