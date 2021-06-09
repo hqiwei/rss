@@ -6483,6 +6483,24 @@
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
         {
+          "id": "http://www.dayanzai.me/?p=36170",
+          "author": "大眼仔~旭",
+          "description": "自由/免费/开源的专业绘画软件 Krita 中文版由大眼仔旭（www.dayanzai.me）发布。Krita […]",
+          "link": "http://www.dayanzai.me/krita.html",
+          "publishedOn": "2021-06-08T16:31:16.000Z",
+          "wordCount": null,
+          "title": "自由/免费/开源的专业绘画软件 Krita 4.4.5 + x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=46474",
+          "author": "大眼仔~旭",
+          "description": "在当今世界，网页浏览器试图拼命地复制和相互匹配的功能和最新的噱头，有一个浏览器，它比想象的更多的方式脱颖而出。 […]",
+          "link": "http://www.dayanzai.me/vivaldi.html",
+          "publishedOn": "2021-06-08T16:24:21.000Z",
+          "wordCount": 1306,
+          "title": "全新的 Vivaldi 浏览器 Vivaldi 4.0.2312.24 + x64 中文多语免费版"
+        },
+        {
           "id": "http://www.dayanzai.me/?p=52444",
           "author": "大眼仔~旭",
           "description": "Atom 是由 GitHub 开发的免费文本和源代码编辑器。 它是一个开源文本编辑器，大多数操作系统都支持它， […]",
