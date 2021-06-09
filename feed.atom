@@ -2,10 +2,160 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T23:10:45.263Z</updated>
+    <updated>2021-06-09T00:35:03.814Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 06 09]]></title>
+        <id>http://www.linuxeden.com/?p=86273</id>
+        <link href="http://www.linuxeden.com/a/86273"/>
+        <updated>2021-06-09T00:32:14.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 06 09]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[openSUSE Leap 15.3 版本缩小了与 SUSE Linux 企业版的差距]]></title>
+        <id>http://www.linuxeden.com/?p=86269</id>
+        <link href="http://www.linuxeden.com/a/86269"/>
+        <updated>2021-06-09T00:30:13.000Z</updated>
+        <summary type="html"><![CDATA[随着 openSUSE 15.3 的发布，与 SUSE Linux 企业版的差距终于缩小了。对于开发团队来说，这应该是一个令人兴奋的用于测试的更新。 去年，在 openSUSE Leap 15.2 发行版 中他们希望通过使用与企业版相同二进 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HHVM 4.113发布]]></title>
+        <id>http://www.linuxeden.com/?p=86266</id>
+        <link href="http://www.linuxeden.com/a/86266"/>
+        <updated>2021-06-09T00:29:16.000Z</updated>
+        <summary type="html"><![CDATA[HHVM 4.113 is released! This release marks the end of support for 4.107; HHVM 4.108–4.112 remain supported, as do the 4. […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源筑梦，破势而出 – 优麒麟发布会正式启动报名]]></title>
+        <id>http://www.linuxeden.com/?p=86263</id>
+        <link href="http://www.linuxeden.com/a/86263"/>
+        <updated>2021-06-09T00:24:48.000Z</updated>
+        <summary type="html"><![CDATA[2021年6月20日，《优麒麟20.04 LTS Pro发布会暨第十届“麒麟杯”全国开源应用软件开发大赛专家研讨会》将于6月20日在北京丽亭华苑酒店举行。 转自 https://www.ubuntukylin.com/news/1659-c […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rustup 1.24.3发布]]></title>
+        <id>http://www.linuxeden.com/?p=86261</id>
+        <link href="http://www.linuxeden.com/a/86261"/>
+        <updated>2021-06-09T00:17:58.000Z</updated>
+        <summary type="html"><![CDATA[The rustup working group is happy to announce the release of rustup version 1.24.3. Rustup is the recommended tool to in […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免费商用！华为全新定制字体HarmonyOS Sans上线 鸿蒙OS专属]]></title>
+        <id>http://www.linuxeden.com/?p=86258</id>
+        <link href="http://www.linuxeden.com/a/86258"/>
+        <updated>2021-06-09T00:15:44.000Z</updated>
+        <summary type="html"><![CDATA[华为正式发布了HarmonyOS 2鸿蒙操作系统，其字体设计也是全新定制的“HarmonyOS Sans”，现已公开上线，可以免费商用。 该字体来自汉仪字库字体设计团队，设计上聚焦于功能性、普适性，是一款多语言的无级可变字体，支持简体中文、 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XAMPP 7.3.28, 7.4.20 & 8.0.7 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86256</id>
+        <link href="http://www.linuxeden.com/a/86256"/>
+        <updated>2021-06-09T00:12:55.000Z</updated>
+        <summary type="html"><![CDATA[XAMPP is an easy to install Apache distribution containing MariaDB, PHP, and Perl. Just download and start the installer […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 5.22]]></title>
+        <id>http://www.linuxeden.com/?p=86254</id>
+        <link href="http://www.linuxeden.com/a/86254"/>
+        <updated>2021-06-09T00:09:11.000Z</updated>
+        <summary type="html"><![CDATA[Plasma 5.22 improves all its core strengths and is more stable, more usable and more flexible than ever. Read on to disc […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[openSUSE FrontRunner 将帮助发行版获得更多硬件架构支持]]></title>
+        <id>https://www.oschina.net/news/145267/opensuse-frontrunner-help-get-more-hardware-support</id>
+        <link href="https://www.oschina.net/news/145267/opensuse-frontrunner-help-get-more-hardware-support"/>
+        <updated>2021-06-09T00:00:05.000Z</updated>
+        <summary type="html"><![CDATA[openSUSE 社区的开发者们正在通过 FrontRunner 项目来获得更广泛的硬件支持。 FrontRunner 是开放构建服务（OBS，Open Build Service）资源中的 SUSE Linux Enterprise 的重建（rebuild） ，该计划得到了 SUSE 和 openSUSE 的支持，其工作重点是支持新的硬件架构，并通过 openSUSE Step 项目提供社区协作。FrontRunner 在...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在开源社区里，你怎么打造人设？]]></title>
+        <id>https://www.oschina.net/news/145266</id>
+        <link href="https://www.oschina.net/news/145266"/>
+        <updated>2021-06-08T23:58:22.000Z</updated>
+        <summary type="html"><![CDATA[在一个开源社区里，你要如何做，才能被接纳为“自己人”？ 每片领域都有自己的规则，都由适应这套规则的的事物组成，开源社区也不例外，那么想要融入开源社区，你需要先问清楚自己：你是怎样的一个人，而在社区中你的“人设”又应该是什么样？ 怎样通过适应社区中的规则与“潜规则”，打造自己的人设，从而融入社区，真正...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[送书福利 | 用「星选集」分享优秀开源项目，轻松拿大奖]]></title>
+        <id>https://gitee.com/gitee-community/gitee-8th-collections-producer?utm_source=osc_zx_0608</id>
+        <link href="https://gitee.com/gitee-community/gitee-8th-collections-producer?utm_source=osc_zx_0608"/>
+        <updated>2021-06-08T23:50:20.000Z</updated>
+        <summary type="html"><![CDATA[一场星选集作品的数量 battle ，最高可领一整套技术书籍～]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SRS 创始人杨成立：成为 CTO 的时间比计划提前 10 年]]></title>
+        <id>https://my.oschina.net/u/4489239/blog/5073269</id>
+        <link href="https://my.oschina.net/u/4489239/blog/5073269"/>
+        <updated>2021-06-08T23:48:39.000Z</updated>
+        <summary type="html"><![CDATA[开源视频服务器 SRS 已成为增长势头最快的同类型软件，Stars 数量也是音视频服务器中最多的，其性能约是 NginxRTMP、Janus 的三倍，目前还没有更高性能的开源同类产品]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[InversifyJS —— 轻量级反转控件 (IoC) 容器]]></title>
+        <id>https://www.oschina.net/p/inversifyjs</id>
+        <link href="https://www.oschina.net/p/inversifyjs"/>
+        <updated>2021-06-08T23:43:29.000Z</updated>
+        <summary type="html"><![CDATA[一个强大而轻量级的反转控件 (IoC) 容器，适用于由 TypeScript 编写的 JavaScript 和 Node.js 应用。它使用类构造函数去定义和注入它的依赖。InversifyJS API 友好易懂，鼓励对 OOP 和 IoC 最佳实践的应用。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 深入浅出协程、线程和并发问题]]></title>
+        <id>https://my.oschina.net/androiddevs/blog/5067617</id>
+        <link href="https://my.oschina.net/androiddevs/blog/5067617"/>
+        <updated>2021-06-08T23:39:11.000Z</updated>
+        <summary type="html"><![CDATA[本文会告诉大家协程是如何在 Android 运行时中被运行的，它们和线程之间的关系是什么，以及在使用 Java 编程语言线程模型时所遇到的并发问题。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitee 推荐 | 持续集成和发布系统 GoCD]]></title>
+        <id>https://gitee.com/thoughtworks/gocd</id>
+        <link href="https://gitee.com/thoughtworks/gocd"/>
+        <updated>2021-06-08T23:33:54.000Z</updated>
+        <summary type="html"><![CDATA[ThoughtWorks Go 是 ThoughtWorks 公司的一款持续集成和发布的系统。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TIOBE 6 月榜单：新增 logo，Python 距离榜一越来越近]]></title>
         <id>https://www.oschina.net/news/145254/tiobe-index-202106</id>
