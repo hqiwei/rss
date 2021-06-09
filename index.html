@@ -20,6 +20,23 @@
     <ul class="sources card">
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.appinn.com">小众软件</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">给「荔」一夏 618 正版软件大促，36 款软件 6 折起抢购【最简单粗暴版】</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.appinn.com/lizhi-618-2021/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>「数码荔枝」带来了 618 给「荔」一夏正版软件促销活动，包括抢购、秒杀、减满。但…这太复杂了，我们粗暴点的好不好？好的，粗暴的来了。 下面是这次 618 活动的优惠列表，直接点击后面的链</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="http://www.linuxeden.com">Linuxeden开源社区</a></h3>
           <section class="articles-per-source">
             <article>
@@ -114,8 +131,161 @@
       </li>
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://gocn.vip/">GoCN社区</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">[深圳] ANKER 招 golang 开发一名~</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12175">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>公司简介:https://www.anker-in.com/ 
+
+
+1 、负责智能硬件产品后端 API 开发；
+
+
+职位要求：
+
+
+感兴趣可以联系邮箱：bobo.chen@anker.com</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">构建实时数仓 - 当 TiDB 偶遇 Pravega</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12174">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>作者介绍: 王天宜，TiDB 社区部门架构师。曾就职于 Fidelity Investment，Softbank Investment，拥有丰富的数据库高可用方案设计经验，对 TiDB、Oracle、PostgreSQL、MySQL 等数据库的高可用架构与数据库生态有深入研究。
+数据仓库是公司数据发展到一定规模后必然需要提供的一种基础服务，也是 “数据智能” 建设的基础环节。早期数仓多为离线模式，主要处理的是 T+1 的数据，随着互联网时代的到来，实时数据处理的场景日益增多，离线数仓已无法满足业务发展的实时性需求。为更好的解决业务场景的实时化需求，实时数仓建设已成必然趋势，这也是 HTAP 数据库的重要能力之一。
+实时数仓相较于离线数仓，主要处理的是 T+0 的数据，实时性更高，完美契合业务高效运转的需求。在架构上，实时数仓通常使用 Flink 来消费 Kafka 中的数据，将数据流实时的写入数据库中。这种方案虽然解决了数据处理的时效问题，但很多时候，由于 Kafka 没有落盘机制，可能在极端的情况造成消息队列中数据丢失。
+针对上述问题，笔者调研了页面上的数据库与存储引擎，发现了能彻底解决 Kafka 落盘问题的，更高效准确的实时数仓新方案。
+首先，在数据库的选择上，考虑可扩展性更高的分布式数据库 TiDB，从数据库层面解决海量数据存储的问题，其次是分布式流存储引擎 Pravega，解决使用传统消息队列数据丢失问题和自动伸缩难题，提高了实时数仓系统的并行性，可用性与安全性。以下将详细分析。
+TiDB 偶遇 Pravega
+Pravega 是一款 DellEMC 开源的流存储项目，并已经进入 CNCF 的 sandbox 阶段。从功能上来看，除与 Apache Kafka、Apache Pulsar 相似，Pravega 提供了 stream、schema registry。…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Seata 新特性，APM 支持 SkyWalking</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12173">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>作者：赵禹光，Seata Contributor，SkyWalking PMC
+​
+背景前序
+​
+
+正如所看到的文章题目，就在此时，Seata 与 SkyWalking 两个生态融合,取得了阶段性成果。下面就结合文章内容，给你徐徐道来。
+​
+事情的起因是这样的，Seata、SkyWalking 分别是分布式事务领域、一站式 APM 领域的的佼佼者，这一点通过 Github Star 排名就可以知道，也就不再赘述了。所以早在 2019 年，Seata 的用户就提出了使用 SkyWalking 观测的诉求。
+​
+Seata 融入 SkyWalking 监控后，就有了 APM 特性，用户在定位 Seata 分布式事务的问题时，可以通过分布式链路、机器指标、日志内容等多个维度进行问题剖析，实现定位问题的提效。
+​
+那结合这个诉求，两个社区感兴趣的同学就开始展开了初步讨论和实践，但是由于当时 Seata 的传输协议中，没有类似于 HTTP Header 的面向传输的消息头部，所以实现的第一版虽然实现了监控观测，但是兼容性非常不友好，这在解决分布式事务的监控中，显然是有欠缺的。故此，我们开启了二番讨论，结论是兼容性的前置条件是必须的，所以，Seata 要实现传输协议升级，就此 Seata 将此事放在了 RoadMap 中。SkyWalking 社区这边也暂时搁置了这件事。
+​
+时光荏苒，转眼 1 年多就过去了，Seata 社区在过程中已经完成了传输协议的升级，那我们就重启此事。
+​
+一、Seata 接入 SkyWalking 后，用户得到了什么
+​
+
+背景已经叙述完了，由于时间有些久，可能大家对两个生态融合之后带来的效果，也不是很清晰了，这里就我的个人的理解，介绍下两个生态融合后，给用户带来的益处：
+​
+Seata 的性能可被更好的观测:
+​
+
+我看到很多 Seata 分享的时候都有用户提问，Seata 性能消耗数据，因为分布式事务的性能消耗与场景关系非常大，所以用户通过 SkyWalking 可以更简单的观测自己的场景，自己给自己答案。
+​
+分布式事务执行过程有痕迹
+​
+
+在 AT 模式下，Seata 通过面向传输的消息头部，传递全局事务 XID ，全局事务执行完成后，每个在 DB 中的执行过程都会被清理掉，这在回溯执行过程的时候非常不友好，这些海量数据 Seata 可不会存储，这严重增加分布式事务关联数据库表的空间，带来不必要的性能消耗。所以两个生态融合后，SkyWalking 相关的数据库监控，就可以记录这些执行过程的海量数据。
+​
+定位问题的提效
+在日志中打印 XID 的同时打印 TraceId ，当出现问题想回溯 XID 相关联的全局链路时，在 SkyWalking 的展示端输入 TraceId 即可，通过 Seata 整体监控融入 SkyWalking ，不仅拥有全链路领域的监控，还在仪表盘、拓扑图、在线剖析和报警都得到了监控。
+​
+入门 Seata 提高一个维度
+​
+
+分布式事务一直被炒得很热，但真正能在市场上落地的也只有 Seata ，所以 Seata 并没有开源的学习范本，所以快速带领大家入门的资料也比较少。而且 Seata 有 3 个角色、4 种经典模式，可以多种组合，综上所诉，不由得让使用者云里雾里，两个生态融合后，用户可以清晰从上帝 (监控) 知道 Seata 的执行过程，进而透析工作原理。
+​
+二、典型 AT 模式监控场景
+​
+
+下面就官方 AT 模式的 Demo ，展示下接入后的 APM 特性。
+​
+官方描述的 ToC 交易场景
+用户请求交易服务
+交易服务锁定库存
+交易服务创建账单
+账单服务进行扣款
+​
+
+
+当 Seata 与 SkyWalking 融合后，场景复原
+
+全局事务正常链路描述
+​
+
+
+
+​
+全局事务异常链路描述
+​
+
+
+
+​
+用户手册
+官网
+SkyWalking APM: 
+http://seata.io/zh-cn/docs/user/apm/skywalking.html
+常用链接
+Seata:  https://github.com/seata/seata
+Samples:  https://github.com/seata/seata-samples
+Release:  https://github.com/seata/seata/releases
+官网:  https://seata.io
+​
+投稿
+欢迎大家将 Seata 相关的实践文章投稿至：slievrly@gmail.com
+​</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://www.oschina.net/news/rss">OSCHINA 社区最新新闻</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Vue v3.1.0 (Pluto) 发布</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.oschina.net/news/145271/vuejs-3-1-0-released">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Vue.js v3.1.0 (Pluto) 已发布，目前的最新版本为 3.1.1。 新版本增加了多项新特性，优化了性能，以及修复 bug，同时还有一些破坏性的变化。 新特性 Migration Build：提供兼容 Vue 2 行为的 Vue 3 构建。Migration Build 旨在帮助将现有的 Vue 2 应用程序迁移到 Vue 3 compiler-core：支持空白字符处理策略 (dee3d6a) ...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">WSL 支持运行 AI 训练任务以及 Linux GUI 应用</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.oschina.net/news/145269/wsl-support-ai-training-n-wslg">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>WSL 现已支持在 Windows 上利用 GPU 运行应用程序，用户可直接在 WSL 内部运行 Linux AI 和机器学习场景。 据微软介绍，在机器学习领域，数据科学专业人员十分需要最佳的工具来提升工作效率。WSL 对图形处理单元 (GPU) 计算工作流的支持使数据科学家能够无缝访问 Windows 主机上的 GPU，以加快 ML 模型的训练速度。 此外...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">openSUSE FrontRunner 将帮助发行版获得更多硬件架构支持</summary>
@@ -11511,7 +11681,7 @@ type Test struct {
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-06-09T00:35:03.768Z">2021-06-09T00:35:03.768Z</time>
+    <time id="build-timestamp" datetime="2021-06-09T03:33:52.064Z">2021-06-09T03:33:52.064Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.10.2</a></span>
   </footer>
   <script src="index.js"></script>
