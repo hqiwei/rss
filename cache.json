@@ -3830,6 +3830,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://gotc.oschina.net/?fr=zh0609",
+          "author": null,
+          "description": "每片领域都有自己的规则，都由适应这套规则的的事物组成，开源社区也不例外，那么想要融入开源社区，你需要先问清楚自己：你是怎样的一个人，而在社区中你的“人设”又应该是什么样？",
+          "link": "https://gotc.oschina.net/?fr=zh0609",
+          "publishedOn": "2021-06-09T11:22:25.000Z",
+          "wordCount": 1518,
+          "title": "开源社区中如何打造人设？肖战哥哥看了直呼内行"
+        },
+        {
           "id": "https://www.oschina.net/news/145328",
           "author": null,
           "description": "关于 Apache Pulsar Apache Pulsar 是 Apache 软件基金会顶级项目，是下一代云原生分布式消息流平台，集消息、存储、轻量化函数式计算为一体，采用计算与存储分离架构设计，支持多租户、持久化存储、多机房跨区域数据复制，具有强一致性、高吞吐、低延时及高可扩展性等流数据存储特性。 GitHub 地址：http://github.com...",

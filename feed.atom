@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T11:10:11.210Z</updated>
+    <updated>2021-06-09T12:14:38.452Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开源社区中如何打造人设？肖战哥哥看了直呼内行]]></title>
+        <id>https://gotc.oschina.net/?fr=zh0609</id>
+        <link href="https://gotc.oschina.net/?fr=zh0609"/>
+        <updated>2021-06-09T11:22:25.000Z</updated>
+        <summary type="html"><![CDATA[每片领域都有自己的规则，都由适应这套规则的的事物组成，开源社区也不例外，那么想要融入开源社区，你需要先问清楚自己：你是怎样的一个人，而在社区中你的“人设”又应该是什么样？]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GopherChina T 恤来了]]></title>
         <id>https://gocn.vip/topics/12177</id>
