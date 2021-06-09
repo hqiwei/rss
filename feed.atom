@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T13:26:28.024Z</updated>
+    <updated>2021-06-09T14:13:09.400Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tomcat Native 1.2.30发布]]></title>
+        <id>http://www.linuxeden.com/?p=86290</id>
+        <link href="http://www.linuxeden.com/a/86290"/>
+        <updated>2021-06-09T14:04:32.000Z</updated>
+        <summary type="html"><![CDATA[The Apache Tomcat Project is proud to announce the release of version 1.2.30 of Tomcat Native. The notable changes since […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用开源工具升级你的 Linux PC 硬件]]></title>
+        <id>http://www.linuxeden.com/?p=86281</id>
+        <link href="http://www.linuxeden.com/a/86281"/>
+        <updated>2021-06-09T13:59:09.000Z</updated>
+        <summary type="html"><![CDATA[升级你的电脑硬件来提升性能，以获得最大的回报。 在我的文章《使用开源工具识别 Linux 性能瓶颈》中，我解释了一些使用开源的图形用户界面（GUI）工具监测 Linux 性能的简单方法。我的重点是识别 性能瓶颈，即硬件资源达到极限并阻碍你的 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows同样无条件保留了前1MB的内存 Linux只是晚了一步]]></title>
+        <id>http://www.linuxeden.com/?p=86276</id>
+        <link href="http://www.linuxeden.com/a/86276"/>
+        <updated>2021-06-09T13:48:35.000Z</updated>
+        <summary type="html"><![CDATA[上周末，Linux 5.13内核进行了修改，使Linux x86/x86_64内核开始强制保留最初的1MB内存，以避免一些BIOS和帧缓冲器有时对系统内存的最低部分进行破坏的问题。虽然人们认为无条件地保留前1MB有点麻烦，而且也许Windo […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源社区中如何打造人设？肖战哥哥看了直呼内行]]></title>
         <id>https://gotc.oschina.net/?fr=zh0609</id>

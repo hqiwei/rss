@@ -1530,6 +1530,33 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=86290",
+          "author": "Editor, Kai",
+          "description": "The Apache Tomcat Project is proud to announce the release of version 1.2.30 of Tomcat Native. The notable changes since […]",
+          "link": "http://www.linuxeden.com/a/86290",
+          "publishedOn": "2021-06-09T14:04:32.000Z",
+          "wordCount": 153,
+          "title": "Tomcat Native 1.2.30发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86281",
+          "author": "Editor, Kai",
+          "description": "升级你的电脑硬件来提升性能，以获得最大的回报。 在我的文章《使用开源工具识别 Linux 性能瓶颈》中，我解释了一些使用开源的图形用户界面（GUI）工具监测 Linux 性能的简单方法。我的重点是识别 性能瓶颈，即硬件资源达到极限并阻碍你的 […]",
+          "link": "http://www.linuxeden.com/a/86281",
+          "publishedOn": "2021-06-09T13:59:09.000Z",
+          "wordCount": 479,
+          "title": "使用开源工具升级你的 Linux PC 硬件"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86276",
+          "author": "Editor, Kai",
+          "description": "上周末，Linux 5.13内核进行了修改，使Linux x86/x86_64内核开始强制保留最初的1MB内存，以避免一些BIOS和帧缓冲器有时对系统内存的最低部分进行破坏的问题。虽然人们认为无条件地保留前1MB有点麻烦，而且也许Windo […]",
+          "link": "http://www.linuxeden.com/a/86276",
+          "publishedOn": "2021-06-09T13:48:35.000Z",
+          "wordCount": 101,
+          "title": "Windows同样无条件保留了前1MB的内存 Linux只是晚了一步"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86273",
           "author": "Editor, Kai",
           "description": "Linuxeden开源社区-开源美图 2021 06 09",
