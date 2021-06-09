@@ -3499,6 +3499,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=39011",
+          "author": "青小蛙",
+          "description": "虽然你的手机容量有 256G 128G，但还是架不住空间不足要删除手机中的照片、视频，那么，不要群晖、不要云服务，怎么样能最省成本（当然是 0 成本）的将照片、视频自动备份到电脑中呢？@Appinn",
+          "link": "https://www.appinn.com/lomorage-backup-photos/",
+          "publishedOn": "2021-06-09T05:52:29.000Z",
+          "wordCount": 744,
+          "title": "如何用现有的 1 台电脑 1 部手机，「0 成本」自动备份手机照片、视频？Lomorage"
+        },
+        {
           "id": "https://www.appinn.com/?p=39012",
           "author": "青小蛙",
           "description": "「数码荔枝」带来了 618 给「荔」一夏正版软件促销活动，包括抢购、秒杀、减满。但…这太复杂了，我们粗暴点的好不好？好的，粗暴的来了。 下面是这次 618 活动的优惠列表，直接点击后面的链",
@@ -3811,6 +3820,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/145328",
+          "author": null,
+          "description": "关于 Apache Pulsar Apache Pulsar 是 Apache 软件基金会顶级项目，是下一代云原生分布式消息流平台，集消息、存储、轻量化函数式计算为一体，采用计算与存储分离架构设计，支持多租户、持久化存储、多机房跨区域数据复制，具有强一致性、高吞吐、低延时及高可扩展性等流数据存储特性。 GitHub 地址：http://github.com...",
+          "link": "https://www.oschina.net/news/145328",
+          "publishedOn": "2021-06-09T05:58:50.000Z",
+          "wordCount": 521,
+          "title": "Apache Pulsar 社区志愿者招募"
+        },
         {
           "id": "https://www.oschina.net/news/145271/vuejs-3-1-0-released",
           "author": null,
