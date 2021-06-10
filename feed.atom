@@ -2,10 +2,150 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T23:10:24.700Z</updated>
+    <updated>2021-06-10T00:33:29.135Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 06 10]]></title>
+        <id>http://www.linuxeden.com/?p=86311</id>
+        <link href="http://www.linuxeden.com/a/86311"/>
+        <updated>2021-06-10T00:23:04.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 06 10]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上线时间不到一周，鸿蒙 2 升级用户突破千万]]></title>
+        <id>http://www.linuxeden.com/?p=86308</id>
+        <link href="http://www.linuxeden.com/a/86308"/>
+        <updated>2021-06-10T00:22:03.000Z</updated>
+        <summary type="html"><![CDATA[6 月 2 日晚，华为的 HarmonyOS 2 正式发布，这是一款面向全场景的分布式操作系统，可用于物联网各种设备，除手机外，也能适配手表、平板等智能终端设备。华为称，这是华为史上最大规模的一次升级，自 6 月 2 日起，将有超过百款手机 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Framework 5.3.8 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86306</id>
+        <link href="http://www.linuxeden.com/a/86306"/>
+        <updated>2021-06-10T00:18:30.000Z</updated>
+        <summary type="html"><![CDATA[On behalf of the team and everyone who has contributed, I am pleased to announce that Spring Framework 5.3.8 is availabl […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qt Creator 4.15.1发布]]></title>
+        <id>http://www.linuxeden.com/?p=86304</id>
+        <link href="http://www.linuxeden.com/a/86304"/>
+        <updated>2021-06-10T00:15:04.000Z</updated>
+        <summary type="html"><![CDATA[This release fixes freezes when cancelling the C++ indexer, and after the configuration of a CMake project changed. It a […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JRuby 9.2.18.0 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86302</id>
+        <link href="http://www.linuxeden.com/a/86302"/>
+        <updated>2021-06-10T00:11:08.000Z</updated>
+        <summary type="html"><![CDATA[The JRuby community is pleased to announce the release of JRuby 9.2.18.0 Homepage: http://www.jruby.org/ Download: http: […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[禅道15.0.1版本发布，主要修复Bug]]></title>
+        <id>http://www.linuxeden.com/?p=86299</id>
+        <link href="http://www.linuxeden.com/a/86299"/>
+        <updated>2021-06-10T00:09:56.000Z</updated>
+        <summary type="html"><![CDATA[大家好，禅道15.0.1版本发布了！此次发布主要修复Bug，提升用户体验。欢迎大家下载升级。 一、修改记录 修复的Bug 12839   打开文档链接页面报错 12838   执行用例列表用例显示不全 12821   15版本新概念禅道 产 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PGP 发布三十周年]]></title>
+        <id>http://www.linuxeden.com/?p=86296</id>
+        <link href="http://www.linuxeden.com/a/86296"/>
+        <updated>2021-06-10T00:06:03.000Z</updated>
+        <summary type="html"><![CDATA[6 月 6 日是 PGP 1.0 发布三十周年。PGP 作者 Philip Zimmermann 回忆说，当年他将 Pretty Good Privacy 上传到了互联网上，开启了结束美国对强加密软件出口管制的十年之路。PGP 1.0 发布 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.14 或将支持 Hyper-V DRM 显示驱动程序]]></title>
+        <id>https://www.oschina.net/news/145433/linux-5-14-will-support-hyper-v-drm</id>
+        <link href="https://www.oschina.net/news/145433/linux-5-14-will-support-hyper-v-drm"/>
+        <updated>2021-06-09T23:59:00.000Z</updated>
+        <summary type="html"><![CDATA[根据邮件列表显示，一个新的 Hyper-V DRM 显示驱动程序已经包含在本周的 drm-misc-next PR 中，即将合并到 Linux 5.14 主线。 该 Hyper-V DRM 显示驱动程序最初由 Microsoft 工程师于去年夏天发布，当时该驱动程序仅是 Hyper-V Linux 帧缓冲器（hyperv_fb）驱动的移植，很多高级功能例如硬件光标、EDID、多个脏区等尚不支...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GOTC 深圳站延期通告]]></title>
+        <id>https://www.oschina.net/news/145432/gotc-sz-delay</id>
+        <link href="https://www.oschina.net/news/145432/gotc-sz-delay"/>
+        <updated>2021-06-09T23:46:37.000Z</updated>
+        <summary type="html"><![CDATA[十分遗憾地通知您，由于疫情影响，全球开源技术峰会 GOTC 深圳站的举办时间有所变化。 原定于 7 月 9 日-10 日同时于上海和深圳两地举办的 GOTC，现进行如下调整： GOTC 上海站，7 月 9 日-10 日，如期进行。 GOTC 深圳站，调整至 7 月 31 日-8 月 1 日。 希望不会影响您的计划，并请调整好时间安排。后续如再有变动，将...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[优秀原创作者访谈 | 8 年互联网职场老兵、90 后超级奶爸的两个坚持：坚持原创，坚持开源]]></title>
+        <id>https://my.oschina.net/u/4855753/blog/5059702</id>
+        <link href="https://my.oschina.net/u/4855753/blog/5059702"/>
+        <updated>2021-06-09T23:35:30.000Z</updated>
+        <summary type="html"><![CDATA[这就是咱们采访的主人公“悟空聊架构”博主，也是咱们OSC作者4月份月度评选“优秀原创作者”TOP1的获奖者。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 读写分离水太深，你把握不住，让 CQRS 来]]></title>
+        <id>https://my.oschina.net/u/4250089/blog/5072991</id>
+        <link href="https://my.oschina.net/u/4250089/blog/5072991"/>
+        <updated>2021-06-09T23:25:44.000Z</updated>
+        <summary type="html"><![CDATA[多年以前，那时我正年轻，做技术如鱼得水，甚至一度希望自己能当一辈子的一线程序员。但是我又有两个小愿望想要达成：一个是想多挣点钱；另一个就是对项目的技术栈和架构选型能多有点主动权]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[openSUSE Leap 15.3 正式发布]]></title>
+        <id>https://www.oschina.net/news/145428/opensuse-leap-15-3-released</id>
+        <link href="https://www.oschina.net/news/145428/opensuse-leap-15-3-released"/>
+        <updated>2021-06-09T23:18:57.000Z</updated>
+        <summary type="html"><![CDATA[openSUSE Leap 15.3 已正式发布，openSUSE 是基于企业发行版 SUSE Linux Enterprise (SLE) 的社区发行版。 官方的发布公告写道：“作为坚如磐石的 openSUSE 15.x 系列的新成员，它继承了前代产品的所有优秀特性。这次的版本相比较之前的 Leap 有了一个巨大的变化，openSUSE Leap 15.3 不仅仅像之前的版本一样编译自 SUSE...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitee 推荐 | 飞桨可视化分析工具 VisualDL]]></title>
+        <id>https://gitee.com/paddlepaddle/VisualDL</id>
+        <link href="https://gitee.com/paddlepaddle/VisualDL"/>
+        <updated>2021-06-09T23:15:49.000Z</updated>
+        <summary type="html"><![CDATA[VisualDL 是飞桨可视化分析工具，以丰富的图表呈现训练参数变化趋势、模型结构、数据样本、高维数据分布等。可帮助用户更清晰直观地理解深度学习模型训练过程及模型结构，进而实现高效的模型优化。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naive UI —— Vue 3 组件库]]></title>
+        <id>https://www.oschina.net/p/naive-ui</id>
+        <link href="https://www.oschina.net/p/naive-ui"/>
+        <updated>2021-06-09T23:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Naive UI 是一个完全使用 TypeScript 编写的 Vue 3 组件库，拥有超过 70 个组件，提供使用 TypeScript 构建的先进的类型安全主题系统，并且 select、tree、transfer、table、cascader 等组件支持使用虚拟列表]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rocky Linux 8.4 RC1 发布，下一版本正式 GA]]></title>
         <id>https://www.oschina.net/news/145423/rocky-linux-8-4-rc1-released</id>
