@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T05:28:51.906Z</updated>
+    <updated>2021-06-10T06:16:50.547Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[我爱跳广告 – 又一款自动跳过开屏广告的安卓应用]]></title>
+        <id>https://www.appinn.com/?p=39034</id>
+        <link href="https://www.appinn.com/love-jump-ad-for-android/"/>
+        <updated>2021-06-10T05:42:01.000Z</updated>
+        <summary type="html"><![CDATA[我爱跳广告 是一款无需 root、自动跳过第三方 App 开屏广告的安卓应用。需要无障碍权限，通过文本匹配，帮你在打开一些 App 时，自动跳过开屏广告，从而直接进入 App 主界面。@Appinn]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fizz Gateway 2.1.0 发布，Dubbo 路由深度支持]]></title>
         <id>https://www.oschina.net/news/145483/fizz-gateway-2-1-0-released</id>

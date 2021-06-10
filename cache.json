@@ -3652,6 +3652,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=39034",
+          "author": "青小蛙",
+          "description": "我爱跳广告 是一款无需 root、自动跳过第三方 App 开屏广告的安卓应用。需要无障碍权限，通过文本匹配，帮你在打开一些 App 时，自动跳过开屏广告，从而直接进入 App 主界面。@Appinn",
+          "link": "https://www.appinn.com/love-jump-ad-for-android/",
+          "publishedOn": "2021-06-10T05:42:01.000Z",
+          "wordCount": 746,
+          "title": "我爱跳广告 – 又一款自动跳过开屏广告的安卓应用"
+        },
+        {
           "id": "https://www.appinn.com/?p=39011",
           "author": "青小蛙",
           "description": "虽然你的手机容量有 256G 128G，但还是架不住空间不足要删除手机中的照片、视频，那么，不要群晖、不要云服务，怎么样能最省成本（当然是 0 成本）的将照片、视频自动备份到电脑中呢？@Appinn",
