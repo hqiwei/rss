@@ -659,6 +659,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12179",
+          "author": "happy_brother",
+          "description": "以 goroutine 形式进行 Go 并发编程是一种非常方便的方法，但有没有想过他是如何有效地运行这些 goroutine？下面从设计的角度，深入了解和研究 Go 运行时调度程序，以及如何在性能调试过程中使用它来解释 Go 程序的调度程序跟踪信息。\n要了解为什么需要有一个运行时的调度以及它是如何工作的，先要回到操作系统的历史上，在这里将找到答案，因为如果不了解问题的根源。\n操作系统的历史\n单用户（无操作系统）\n批处理  单编程  运行完成\n多程序\n多程序的目的是使 CPU 和 I/O 重叠。如何做到的呢？\n多批次\n多批次\n分时\n现代大多数操作系统使用分时调度程序。\n这些调度程序调度的是什么呢？\n这些都是有代价的。\n调度成本\n\n因此，使用一个包含多个线程的进程效率更高，因为进程创建既耗时又耗费资源。随后出现了多线程问题：C10k 问题是主要的问题。\n例如，如果将调度程序周期定义为 10 毫秒（毫秒），并且有 2 个线程，则每个线程将分别获得 5 毫秒。如果您有 5 个线程，则每个线程将获得 2ms。但是，如果有 1000 个线程怎么办？给每个线程 10s（微秒）的时间片？你将花费大量时间进行上下文切换，但是无法完成真正的工作。\n你需要限制时间片的长度。在最后一种情况下，如果最小时间片是 2ms，并且有 1000 个线程，则调度程序周期需要增加到 2s（秒）。如果有 10,000 个线程，则调度程序周期为 20 秒。在这个简单的示例中，如果每个线程都使用其全时切片，则所有线程一次运行需要 20 秒。因此，我们需要一些可以使并发成本降低而又不会造成过多开销的东西。\n用户级线程\n在 Go 中，我们叫它 “ Goroutine”（在逻辑上）\nGoroutine\n\n协程是轻量级线程，由 Go 运行时管理（逻辑上一个执行的线程）。要 go 在函数调用之前启动运行 go 关键字。\nfun…",
+          "link": "https://gocn.vip/topics/12179",
+          "publishedOn": "2021-06-10T09:56:52.000Z",
+          "wordCount": 797,
+          "title": "Go Runtime 的调度器"
+        },
+        {
           "id": "https://gocn.vip/topics/12178",
           "author": "TiDB_Robot",
           "description": "PingCAP DevCon 2021 正在积极筹划准备中，本届大会以\"开放 x 连接 x 预见\"为主题，这绝不会只是一句空口号，它将真正融入到大会的方方面面，可以让每一位参与者真切感知，因此本届大会将开放热力图在线征集平台，连接你们中的每一位，一起预见未来！\n「一图胜千言」\n通过 TiDB “Key Visualizer” 工具，你可以具象化的看到自己对于业务的「假设」是否符合预期，我们相信，“那些最有突破性和最有创造力的解决方案，往往来自于你认识到你对问题的基本假设是错的” Key Visualizer 的热力图正是以一种艺术的直觉方式来发现这样的认知时刻！\n\n「有一种艺术叫热力艺术」\n热力图是一种热力艺术，\n而每一个创造热力艺术的 “你” 都是我们想要合作的艺术家。\n在大会前期，我们诚邀你上传自己与 TiDB 有关的 “热力图”，\n并附上简要文字阐述热力图背后的故事，期间我们会在后台进行筛选，\n被选中的作品将在大会展区的热力艺术画廊展出，\n届时参会的嘉宾都可以一览你的大作，与大家以图会友。\n「一定不白来」\n参与本次征集活动，您将获得：\n1、凡是参与本次征集活动的创作者均可获得热力图精美画框；\n2、大会前公布入选 DevCon 展区画廊的作品和创作者，入选的作者将获得本次 DevCon 门票，更有机会获得本次 DevCon VIP 礼包；\n3、入选作品将以艺术画作的形式在 PingCAP DevCon 2021 大会展区展出。\n「一定要报名」\n热力艺术，火热报名中，请点击下方链接👇填写征集表单并上传你的艺术大作~\n👉TiDB“热力画廊” 征集👈\n注意：上传的热力图尺寸为 3：4，图片大小不少于 3m。\n有意向的朋友们赶快填写征集表单，报名参与吧！\n用最硬核的技术和最炸裂的创意去创造无限可能，\n我们期待你的大作！",
@@ -3991,6 +4000,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/145542/webank-ai-opensource-may",
+          "author": null,
+          "description": "FATE 联邦学习系统 https://github.com/FederatedAI/FATE https://gitee.com/WeBank/FATE 1. FATE-Cloud 完成 1.2 版本生产发布，具备双向授权和安全证书功能； 2. FATE v1.7 完成需求评审，进入开发阶段 EggRoll 分布式计算、存储、通信引擎 https://github.com/WeBankFinTech/eggroll https://gitee.com/WeBank/eggrol...",
+          "link": "https://www.oschina.net/news/145542/webank-ai-opensource-may",
+          "publishedOn": "2021-06-10T09:53:34.000Z",
+          "wordCount": 516,
+          "title": "微众银行 AI 开源项目-更新合集 5 月篇"
+        },
         {
           "id": "https://www.oschina.net/news/145483/fizz-gateway-2-1-0-released",
           "author": null,
