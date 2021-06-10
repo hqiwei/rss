@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T14:12:35.425Z</updated>
+    <updated>2021-06-10T15:10:53.812Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 06 10]]></title>
+        <id>http://www.linuxeden.com/?p=86324</id>
+        <link href="http://www.linuxeden.com/a/86324"/>
+        <updated>2021-06-10T14:52:26.000Z</updated>
+        <summary type="html"><![CDATA[Vivaldi 4.0 发布 Linux Kernel 5.14将移除已淘汰的RAW驱动 Apache Hive 2.3.9 发布 上线时间不到一周，鸿蒙 2 升级用户突破千万 PGP 发布三十周年 使用开源工具升级你的 Linux PC  […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vivaldi 4.0 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86322</id>
+        <link href="http://www.linuxeden.com/a/86322"/>
+        <updated>2021-06-10T14:41:54.000Z</updated>
+        <summary type="html"><![CDATA[基于 Chromium 的浏览器 Vivaldi 释出了 4.0 版本。Vivaldi 由 Opera 联合创始人谭咏文（Jon von Tetzchner）创办。Vivaldi 4.0 的特性包括：桌面和 Android 版本内置翻译功能 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Kernel 5.14将移除已淘汰的RAW驱动]]></title>
+        <id>http://www.linuxeden.com/?p=86318</id>
+        <link href="http://www.linuxeden.com/a/86318"/>
+        <updated>2021-06-10T14:37:02.000Z</updated>
+        <summary type="html"><![CDATA[Linux 中的 RAW 驱动（RAW_DRIVER）主要用于提供对块设备的直接 I/O 访问，不过即将推出的 Linux Kernel 5.14 内核中将移除该驱动。该驱动原本计划在 2000 年年中的时候就要废弃，而且在更早的时候就已经 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Hive 2.3.9 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86314</id>
+        <link href="http://www.linuxeden.com/a/86314"/>
+        <updated>2021-06-10T14:32:07.000Z</updated>
+        <summary type="html"><![CDATA[apache-hive-2.3.9-bin.tar.gz        2021-06-09 18:30  273M apache-hive-2.3.9-bin.tar.gz.asc    2021-06-09 18:30  833 apa […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure Data Fundamentals Certification (DP-900) – Pass the Exam With This Free 4.5-Hour Course]]></title>
         <id>60b93afaacb62507dd1d8915</id>

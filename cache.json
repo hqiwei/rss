@@ -1602,6 +1602,42 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=86324",
+          "author": "Editor, Kai",
+          "description": "Vivaldi 4.0 发布 Linux Kernel 5.14将移除已淘汰的RAW驱动 Apache Hive 2.3.9 发布 上线时间不到一周，鸿蒙 2 升级用户突破千万 PGP 发布三十周年 使用开源工具升级你的 Linux PC  […]",
+          "link": "http://www.linuxeden.com/a/86324",
+          "publishedOn": "2021-06-10T14:52:26.000Z",
+          "wordCount": 107,
+          "title": "每日文章精选 2021 06 10"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86322",
+          "author": "Editor, Kai",
+          "description": "基于 Chromium 的浏览器 Vivaldi 释出了 4.0 版本。Vivaldi 由 Opera 联合创始人谭咏文（Jon von Tetzchner）创办。Vivaldi 4.0 的特性包括：桌面和 Android 版本内置翻译功能 […]",
+          "link": "http://www.linuxeden.com/a/86322",
+          "publishedOn": "2021-06-10T14:41:54.000Z",
+          "wordCount": 114,
+          "title": "Vivaldi 4.0 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86318",
+          "author": "Editor, Kai",
+          "description": "Linux 中的 RAW 驱动（RAW_DRIVER）主要用于提供对块设备的直接 I/O 访问，不过即将推出的 Linux Kernel 5.14 内核中将移除该驱动。该驱动原本计划在 2000 年年中的时候就要废弃，而且在更早的时候就已经 […]",
+          "link": "http://www.linuxeden.com/a/86318",
+          "publishedOn": "2021-06-10T14:37:02.000Z",
+          "wordCount": 114,
+          "title": "Linux Kernel 5.14将移除已淘汰的RAW驱动"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86314",
+          "author": "Editor, Kai",
+          "description": "apache-hive-2.3.9-bin.tar.gz        2021-06-09 18:30  273M apache-hive-2.3.9-bin.tar.gz.asc    2021-06-09 18:30  833 apa […]",
+          "link": "http://www.linuxeden.com/a/86314",
+          "publishedOn": "2021-06-10T14:32:07.000Z",
+          "wordCount": 103,
+          "title": "Apache Hive 2.3.9 发布"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86311",
           "author": "Editor, Kai",
           "description": "Linuxeden开源社区-开源美图 2021 06 10",
