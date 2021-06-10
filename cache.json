@@ -3974,6 +3974,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/145483/fizz-gateway-2-1-0-released",
+          "author": null,
+          "description": "Fizz Gateway 2.1.0 已经发布，HTTP/Dubbo路由深度支持。 v2.1.0 changelog： 支持配置Dubbo路由； 支持form-data接口的服务编排； 支持文件上传； 测试页面支持输入和展示XML, 支持以form-data和x-wwww-form-urlencoded方式提交请求； 优化找不到路由的错误提示语 增加网关分组的实例IP的合法性校验 增加获取appid自定义...",
+          "link": "https://www.oschina.net/news/145483/fizz-gateway-2-1-0-released",
+          "publishedOn": "2021-06-10T04:08:35.000Z",
+          "wordCount": 662,
+          "title": "Fizz Gateway 2.1.0 发布，Dubbo 路由深度支持"
+        },
+        {
           "id": "https://www.oschina.net/news/145442/oss-software-development-n-pressure",
           "author": null,
           "description": "Redis 作者 antirez 近日对在维护开源项目过程中遇到精神压力的情况发表了看法。 起因是开源项目 Docz 作者 Pedro 在 repo 中发表的一篇短文章，他在其中描述了自己在维护开源项目过程中心理状态的变化。 最初为了开发 Docz，他可以提前 3 小时起床，推迟 3 小时睡觉，可以说是全力以赴地创建了这个项目。Docz 也给 Pedr...",
@@ -4206,6 +4215,15 @@
           "publishedOn": "2021-06-08T09:21:06.000Z",
           "wordCount": 497,
           "title": "微众银行大数据开源项目更新合集 5 月篇"
+        },
+        {
+          "id": "https://www.oschina.net/news/145174/metersphere-lts",
+          "author": null,
+          "description": "2021年6月8日，MeterSphere一站式开源持续测试平台公布首个LTS版本。MeterSphere开源项目组宣布，于2021年5月27日发布的MeterSphere v1.10版本正式成为该项目的第一个LTS（Long Term Support）版本。针对这一版本，MeterSphere开源项目组将对其用户进行长期支持，并且在主线功能版本的基础之上，按需发布LTS版本的问题修...",
+          "link": "https://www.oschina.net/news/145174/metersphere-lts",
+          "publishedOn": "2021-06-08T07:46:32.000Z",
+          "wordCount": 526,
+          "title": "量变到质变，MeterSphere 一站式开源持续测试平台发布首个 LTS 版本"
         },
         {
           "id": "https://www.oschina.net/news/145170",
@@ -6769,6 +6787,15 @@
           "publishedOn": "2021-06-09T16:29:13.000Z",
           "wordCount": 633,
           "title": "多媒体播放器 VLC Media Player 3.0.15 + x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=3241",
+          "author": "大眼仔~旭",
+          "description": "WinNTSetup 绿色中文版 Windows 系统安装部署工具由大眼仔旭（www.dayanzai.me） […]",
+          "link": "http://www.dayanzai.me/winntsetup.html",
+          "publishedOn": "2021-06-09T16:28:47.000Z",
+          "wordCount": 719,
+          "title": "Windows 系统安装部署工具 WinNTSetup 4.6.3 x64 绿色单文件版"
         },
         {
           "id": "http://www.dayanzai.me/?p=43444",

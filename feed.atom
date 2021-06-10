@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T03:27:37.469Z</updated>
+    <updated>2021-06-10T04:26:27.258Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fizz Gateway 2.1.0 发布，Dubbo 路由深度支持]]></title>
+        <id>https://www.oschina.net/news/145483/fizz-gateway-2-1-0-released</id>
+        <link href="https://www.oschina.net/news/145483/fizz-gateway-2-1-0-released"/>
+        <updated>2021-06-10T04:08:35.000Z</updated>
+        <summary type="html"><![CDATA[Fizz Gateway 2.1.0 已经发布，HTTP/Dubbo路由深度支持。 v2.1.0 changelog： 支持配置Dubbo路由； 支持form-data接口的服务编排； 支持文件上传； 测试页面支持输入和展示XML, 支持以form-data和x-wwww-form-urlencoded方式提交请求； 优化找不到路由的错误提示语 增加网关分组的实例IP的合法性校验 增加获取appid自定义...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TiDB“热力画廊” 征集 | 以图会友，看见热力艺术]]></title>
         <id>https://gocn.vip/topics/12178</id>
@@ -284,6 +294,16 @@
         <link href="http://www.dayanzai.me/vlc-media-player.html"/>
         <updated>2021-06-09T16:29:13.000Z</updated>
         <summary type="html"><![CDATA[VLC Media Player 3.0 + x64 中文版 多媒体播放器由大眼仔旭（www.dayanzai […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 系统安装部署工具 WinNTSetup 4.6.3 x64 绿色单文件版]]></title>
+        <id>http://www.dayanzai.me/?p=3241</id>
+        <link href="http://www.dayanzai.me/winntsetup.html"/>
+        <updated>2021-06-09T16:28:47.000Z</updated>
+        <summary type="html"><![CDATA[WinNTSetup 绿色中文版 Windows 系统安装部署工具由大眼仔旭（www.dayanzai.me） […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
         </author>
@@ -907,6 +927,16 @@ func TestA(t *testing.T) {
         <link href="https://www.oschina.net/news/145190/webank-bigdata-opensource-may"/>
         <updated>2021-06-08T09:21:06.000Z</updated>
         <summary type="html"><![CDATA[DataSphere Studio 数据应用开发门户 DSS1.0.0 完成了 Linkis1.0.0 的对接和联调测试，包含数据服务、工作流编排、工程权限控制等功能。 https://github.com/WeBankFinTech/DataSphereStudio https://gitee.com/WeBank/DataSphereStudio Linkis 金融级大数据平台中间件服务集合 Linkis1.0.0 正式版本开发和测试完成、正在...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[量变到质变，MeterSphere 一站式开源持续测试平台发布首个 LTS 版本]]></title>
+        <id>https://www.oschina.net/news/145174/metersphere-lts</id>
+        <link href="https://www.oschina.net/news/145174/metersphere-lts"/>
+        <updated>2021-06-08T07:46:32.000Z</updated>
+        <summary type="html"><![CDATA[2021年6月8日，MeterSphere一站式开源持续测试平台公布首个LTS版本。MeterSphere开源项目组宣布，于2021年5月27日发布的MeterSphere v1.10版本正式成为该项目的第一个LTS（Long Term Support）版本。针对这一版本，MeterSphere开源项目组将对其用户进行长期支持，并且在主线功能版本的基础之上，按需发布LTS版本的问题修...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>
