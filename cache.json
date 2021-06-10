@@ -4064,6 +4064,24 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/145587/hackers-using-chrome-windows-zero-days-vulnerabilities",
+          "author": null,
+          "description": "卡巴斯基的安全研究人员近日发现了一个名为 PuzzleMaker 的恶意攻击者，他利用 Google Chrome 浏览器和 Windows 10 的零日漏洞链，对全球多家公司进行了有高度针对性的攻击。 据卡巴斯基的报告，由 PuzzleMaker 发起的攻击在 4 月中旬首次被发现，该漏洞链中的第一个漏洞是 CVE-2021-21224，这是 Chrome 浏览器在 90.0.4...",
+          "link": "https://www.oschina.net/news/145587/hackers-using-chrome-windows-zero-days-vulnerabilities",
+          "publishedOn": "2021-06-10T23:04:52.000Z",
+          "wordCount": 566,
+          "title": "黑客利用 Chrome 和 Windows 零日漏洞链，对目标系统进行攻击"
+        },
+        {
+          "id": "https://www.oschina.net/news/145582/intel-publish-optimization-code",
+          "author": null,
+          "description": "Intel 发布了最新的 CPU 优化参考手册，并且在 GitHub 上上传了相关示例代码。 一直以来，Intel 都维护着一份冗长的 \"优化参考手册\"，以帮助开发者了解如何为其最新的 CPU 微架构优化代码。最近，Intel 不仅更新了该手册，而且在 GitHub 上开源了很多相关的代码示例，以更好地帮助开发者学习 Intel 优化技术，从而充分利...",
+          "link": "https://www.oschina.net/news/145582/intel-publish-optimization-code",
+          "publishedOn": "2021-06-10T22:55:59.000Z",
+          "wordCount": 529,
+          "title": "Intel 发布 CPU 优化代码示例"
+        },
+        {
           "id": "https://www.oschina.net/news/145542/webank-ai-opensource-may",
           "author": null,
           "description": "FATE 联邦学习系统 https://github.com/FederatedAI/FATE https://gitee.com/WeBank/FATE 1. FATE-Cloud 完成 1.2 版本生产发布，具备双向授权和安全证书功能； 2. FATE v1.7 完成需求评审，进入开发阶段 EggRoll 分布式计算、存储、通信引擎 https://github.com/WeBankFinTech/eggroll https://gitee.com/WeBank/eggrol...",

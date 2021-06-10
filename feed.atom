@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T22:09:43.456Z</updated>
+    <updated>2021-06-10T23:09:39.438Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[黑客利用 Chrome 和 Windows 零日漏洞链，对目标系统进行攻击]]></title>
+        <id>https://www.oschina.net/news/145587/hackers-using-chrome-windows-zero-days-vulnerabilities</id>
+        <link href="https://www.oschina.net/news/145587/hackers-using-chrome-windows-zero-days-vulnerabilities"/>
+        <updated>2021-06-10T23:04:52.000Z</updated>
+        <summary type="html"><![CDATA[卡巴斯基的安全研究人员近日发现了一个名为 PuzzleMaker 的恶意攻击者，他利用 Google Chrome 浏览器和 Windows 10 的零日漏洞链，对全球多家公司进行了有高度针对性的攻击。 据卡巴斯基的报告，由 PuzzleMaker 发起的攻击在 4 月中旬首次被发现，该漏洞链中的第一个漏洞是 CVE-2021-21224，这是 Chrome 浏览器在 90.0.4...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel 发布 CPU 优化代码示例]]></title>
+        <id>https://www.oschina.net/news/145582/intel-publish-optimization-code</id>
+        <link href="https://www.oschina.net/news/145582/intel-publish-optimization-code"/>
+        <updated>2021-06-10T22:55:59.000Z</updated>
+        <summary type="html"><![CDATA[Intel 发布了最新的 CPU 优化参考手册，并且在 GitHub 上上传了相关示例代码。 一直以来，Intel 都维护着一份冗长的 "优化参考手册"，以帮助开发者了解如何为其最新的 CPU 微架构优化代码。最近，Intel 不仅更新了该手册，而且在 GitHub 上开源了很多相关的代码示例，以更好地帮助开发者学习 Intel 优化技术，从而充分利...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[深圳 - 南山][18k-35k] 招聘 Golang 后端工程师一名]]></title>
         <id>https://gocn.vip/topics/12181</id>
