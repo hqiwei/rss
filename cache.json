@@ -668,6 +668,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12181",
+          "author": "niuniu",
+          "description": "公司网址：https://ones.ai\n岗位职责：\n1、参与平台相关的系统开发；\n2、针对业务需求进行设计和开发；\n3、编写工具，提高内部研发效率\n岗位要求：\n1、全日制大学本科或以上学历，至少 2 年以上互联网或软件行业相关工作经验；\n2、熟悉常用算法及数据结构；\n3、熟悉 Go 开发语言及框架，有 1 年以上经验；\n4、熟悉数据库开发，有 1 年以上经验；\n5、理解网络基本原理并能在研发中运用；\n6、了解 Linux 系统和常用命令，熟悉基础的服务器部署操作，有 DevOps 经验优先；\n7、熟悉 MySQL，了解 GraphQL 优先；\n8、良好的文档阅读及编写能力，良好的团队沟通和协作能力。\n简历投递 E-mail：bGl1eGluQG9uZXMuYWk=",
+          "link": "https://gocn.vip/topics/12181",
+          "publishedOn": "2021-06-10T15:29:18.000Z",
+          "wordCount": 111,
+          "title": "[深圳 - 南山][18k-35k] 招聘 Golang 后端工程师一名"
+        },
+        {
           "id": "https://gocn.vip/topics/12180",
           "author": "mahuaibo",
           "description": "GoCN 每日新闻 (2021-06-10)\nGo Runtime 的调度器 https://mp.weixin.qq.com/s/hU6Xmp5zeh9vgUEV5otjWg\n\n一文讲懂服务的优雅重启和更新 https://mp.weixin.qq.com/s/yryqf8SCzvt-BFj8j5bZ2w\n\n你不知道的 Go 之 pprof https://mp.weixin.qq.com/s/pSD2k1uNH9WFZumw24I4uQ\n\n源码剖析 Go 语言的 timer https://mp.weixin.qq.com/s/GwY6650MNF07MOb79-A-jQ\n\n一文教你搞懂 Go 中栈操作 https://mp.weixin.qq.com/s/hU6Xmp5zeh9vgUEV5otjWg\n\n\n\n\nGopherChina 倒计时 17 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n\n编辑: Max\n订阅新闻: http://tinyletter.com/gocn\n招聘专区: https://gocn.vip/jobs",
