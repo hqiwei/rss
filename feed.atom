@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T20:09:22.639Z</updated>
+    <updated>2021-06-10T21:09:08.402Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -10550,16 +10550,6 @@ type Test struct {
         <link href="https://www.appinn.com/sharenote-online/"/>
         <updated>2021-05-13T07:15:36.000Z</updated>
         <summary type="html"><![CDATA[分享笔记 · ShareNote 是一款简单好用的文字分享工具，就是把很长的文字转换成漂亮的图片，有 6 种样式，可以添加头图、日期，并且也有移动端适配，“方便“分享。@Appinn 将文字图片化是一]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西窗烛 – 用屏幕小组件鉴赏诗句。中华传统文化平台，品味中国诗词之美]]></title>
-        <id>https://www.appinn.com/?p=38796</id>
-        <link href="https://www.appinn.com/xichuangzhu/"/>
-        <updated>2021-05-12T08:26:31.000Z</updated>
-        <summary type="html"><![CDATA[西窗烛是一款收录了很多中国诗词的 iPhone、Android、macOS 应用，它能够在 iPhone 的屏幕小组件上显示中国诗词，还能在西窗烛的主屏幕上通过滑动卡片的形式，鉴赏中国诗词之美。另外，]]></summary>
         <author>
             <name>青小蛙</name>
         </author>
