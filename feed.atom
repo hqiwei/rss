@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T07:19:24.789Z</updated>
+    <updated>2021-06-10T08:11:00.728Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Parallels Desktop 官网 618 促销 7 折特惠]]></title>
+        <id>https://www.appinn.com/?p=39038</id>
+        <link href="https://www.appinn.com/parallels-desktop-2021-618/"/>
+        <updated>2021-06-10T07:42:35.000Z</updated>
+        <summary type="html"><![CDATA[Parallels Desktop 大概算做 macOS 上最好的虚拟机产品，无论是用来在 Mac 上安装 Windows、Liuux，甚至在 Mac 里再虚拟一个 macOS，体验各种奇形怪状的系统]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我爱跳广告 – 又一款自动跳过开屏广告的安卓应用]]></title>
         <id>https://www.appinn.com/?p=39034</id>
