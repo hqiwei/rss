@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T10:10:58.929Z</updated>
+    <updated>2021-06-10T11:08:48.878Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OldOS – 梦回 iOS 4，用现代 iPhone 体验 11 年前的手机系统]]></title>
+        <id>https://www.appinn.com/?p=39048</id>
+        <link href="https://www.appinn.com/oldos-testflight/"/>
+        <updated>2021-06-10T10:54:58.000Z</updated>
+        <summary type="html"><![CDATA[OldOS 是一款功能齐全，甚至可以用作第二个操作系统的 iPhone 应用，它使用 SwiftUI 模仿了 11 年前的苹果操作系统 iOS 4，让你在如今 iOS 15 中也能体验 iOS 4，包]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-10)]]></title>
+        <id>https://gocn.vip/topics/12180</id>
+        <link href="https://gocn.vip/topics/12180"/>
+        <updated>2021-06-10T10:42:09.000Z</updated>
+        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-06-10)
+Go Runtime 的调度器 https://mp.weixin.qq.com/s/hU6Xmp5zeh9vgUEV5otjWg
+
+一文讲懂服务的优雅重启和更新 https://mp.weixin.qq.com/s/yryqf8SCzvt-BFj8j5bZ2w
+
+你不知道的 Go 之 pprof https://mp.weixin.qq.com/s/pSD2k1uNH9WFZumw24I4uQ
+
+源码剖析 Go 语言的 timer https://mp.weixin.qq.com/s/GwY6650MNF07MOb79-A-jQ
+
+一文教你搞懂 Go 中栈操作 https://mp.weixin.qq.com/s/hU6Xmp5zeh9vgUEV5otjWg
+
+
+
+
+GopherChina 倒计时 17 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ
+
+
+
+编辑: Max
+订阅新闻: http://tinyletter.com/gocn
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>mahuaibo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go Runtime 的调度器]]></title>
         <id>https://gocn.vip/topics/12179</id>
