@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T00:33:29.135Z</updated>
+    <updated>2021-06-10T02:12:44.003Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Redis 作者谈如何处理维护开源项目面对的精神压力]]></title>
+        <id>https://www.oschina.net/news/145442/oss-software-development-n-pressure</id>
+        <link href="https://www.oschina.net/news/145442/oss-software-development-n-pressure"/>
+        <updated>2021-06-10T01:18:40.000Z</updated>
+        <summary type="html"><![CDATA[Redis 作者 antirez 近日对在维护开源项目过程中遇到精神压力的情况发表了看法。 起因是开源项目 Docz 作者 Pedro 在 repo 中发表的一篇短文章，他在其中描述了自己在维护开源项目过程中心理状态的变化。 最初为了开发 Docz，他可以提前 3 小时起床，推迟 3 小时睡觉，可以说是全力以赴地创建了这个项目。Docz 也给 Pedr...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub 机密扫描现在支持 PyPI 和 RubyGems]]></title>
+        <id>https://www.oschina.net/news/145435/github-secret-scan-support-pypl-and-rubygems</id>
+        <link href="https://www.oschina.net/news/145435/github-secret-scan-support-pypl-and-rubygems"/>
+        <updated>2021-06-10T00:47:51.000Z</updated>
+        <summary type="html"><![CDATA[GitHub 最近将其机密扫描功能扩展到包含 PyPI 和 RubyGems 注册表机密的存储库，以防止 Ruby 和 Python 开发人员无意中将机密和凭据提交到他们的 GitHub 存储库。 机密（secret），也被称为令牌，是用于验证的唯一字符串。在编写软件时，开发人员通常会利用一些第三方软件来避免 “重复造轮子”。有时，第三方软件可以导...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源美图 2021 06 10]]></title>
         <id>http://www.linuxeden.com/?p=86311</id>
@@ -204,6 +224,36 @@
         <summary type="html"><![CDATA[Bootstrap is one of the most popular CSS frameworks and Sass is one of the most popular preprocessors for CSS. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Bootstrap 5 and Sass by building a portfolio website. Patrick Muriungi developed this course.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在计算机像素中是什么，又是如何呈现的？]]></title>
+        <id>http://www.dayanzai.me/?p=36751</id>
+        <link href="http://www.dayanzai.me/what-is-a-pixel.html"/>
+        <updated>2021-06-09T16:35:13.000Z</updated>
+        <summary type="html"><![CDATA[没有图像，通信将一事无成——几乎什么都没有。甚至在摄影中的电子记录技术取代负片和印刷品之前，已经开发了各种图像 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多媒体播放器 VLC Media Player 3.0.15 + x64 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=2651</id>
+        <link href="http://www.dayanzai.me/vlc-media-player.html"/>
+        <updated>2021-06-09T16:29:13.000Z</updated>
+        <summary type="html"><![CDATA[VLC Media Player 3.0 + x64 中文版 多媒体播放器由大眼仔旭（www.dayanzai […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全局广告拦截专家 Adguard 官方正版优惠，98元永久更新使用！]]></title>
+        <id>http://www.dayanzai.me/?p=43444</id>
+        <link href="http://www.dayanzai.me/adguard-buy.html"/>
+        <updated>2021-06-09T16:22:14.000Z</updated>
+        <summary type="html"><![CDATA[AdGuard 广告拦截隐私保护软件 -3设备终身授权由大眼仔旭（www.dayanzai.me）和 APSG […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>

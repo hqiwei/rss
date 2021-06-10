@@ -3965,6 +3965,24 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/145442/oss-software-development-n-pressure",
+          "author": null,
+          "description": "Redis 作者 antirez 近日对在维护开源项目过程中遇到精神压力的情况发表了看法。 起因是开源项目 Docz 作者 Pedro 在 repo 中发表的一篇短文章，他在其中描述了自己在维护开源项目过程中心理状态的变化。 最初为了开发 Docz，他可以提前 3 小时起床，推迟 3 小时睡觉，可以说是全力以赴地创建了这个项目。Docz 也给 Pedr...",
+          "link": "https://www.oschina.net/news/145442/oss-software-development-n-pressure",
+          "publishedOn": "2021-06-10T01:18:40.000Z",
+          "wordCount": 544,
+          "title": "Redis 作者谈如何处理维护开源项目面对的精神压力"
+        },
+        {
+          "id": "https://www.oschina.net/news/145435/github-secret-scan-support-pypl-and-rubygems",
+          "author": null,
+          "description": "GitHub 最近将其机密扫描功能扩展到包含 PyPI 和 RubyGems 注册表机密的存储库，以防止 Ruby 和 Python 开发人员无意中将机密和凭据提交到他们的 GitHub 存储库。 机密（secret），也被称为令牌，是用于验证的唯一字符串。在编写软件时，开发人员通常会利用一些第三方软件来避免 “重复造轮子”。有时，第三方软件可以导...",
+          "link": "https://www.oschina.net/news/145435/github-secret-scan-support-pypl-and-rubygems",
+          "publishedOn": "2021-06-10T00:47:51.000Z",
+          "wordCount": 546,
+          "title": "GitHub 机密扫描现在支持 PyPI 和 RubyGems"
+        },
+        {
           "id": "https://www.oschina.net/news/145433/linux-5-14-will-support-hyper-v-drm",
           "author": null,
           "description": "根据邮件列表显示，一个新的 Hyper-V DRM 显示驱动程序已经包含在本周的 drm-misc-next PR 中，即将合并到 Linux 5.14 主线。 该 Hyper-V DRM 显示驱动程序最初由 Microsoft 工程师于去年夏天发布，当时该驱动程序仅是 Hyper-V Linux 帧缓冲器（hyperv_fb）驱动的移植，很多高级功能例如硬件光标、EDID、多个脏区等尚不支...",
@@ -6716,6 +6734,33 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=36751",
+          "author": "大眼仔~旭",
+          "description": "没有图像，通信将一事无成——几乎什么都没有。甚至在摄影中的电子记录技术取代负片和印刷品之前，已经开发了各种图像 […]",
+          "link": "http://www.dayanzai.me/what-is-a-pixel.html",
+          "publishedOn": "2021-06-09T16:35:13.000Z",
+          "wordCount": 568,
+          "title": "在计算机像素中是什么，又是如何呈现的？"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=2651",
+          "author": "大眼仔~旭",
+          "description": "VLC Media Player 3.0 + x64 中文版 多媒体播放器由大眼仔旭（www.dayanzai […]",
+          "link": "http://www.dayanzai.me/vlc-media-player.html",
+          "publishedOn": "2021-06-09T16:29:13.000Z",
+          "wordCount": 633,
+          "title": "多媒体播放器 VLC Media Player 3.0.15 + x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=43444",
+          "author": "大眼仔~旭",
+          "description": "AdGuard 广告拦截隐私保护软件 -3设备终身授权由大眼仔旭（www.dayanzai.me）和 APSG […]",
+          "link": "http://www.dayanzai.me/adguard-buy.html",
+          "publishedOn": "2021-06-09T16:22:14.000Z",
+          "wordCount": 553,
+          "title": "全局广告拦截专家 Adguard 官方正版优惠，98元永久更新使用！"
+        },
         {
           "id": "http://www.dayanzai.me/?p=36170",
           "author": "大眼仔~旭",
