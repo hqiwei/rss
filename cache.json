@@ -659,6 +659,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12178",
+          "author": "TiDB_Robot",
+          "description": "PingCAP DevCon 2021 正在积极筹划准备中，本届大会以\"开放 x 连接 x 预见\"为主题，这绝不会只是一句空口号，它将真正融入到大会的方方面面，可以让每一位参与者真切感知，因此本届大会将开放热力图在线征集平台，连接你们中的每一位，一起预见未来！\n「一图胜千言」\n通过 TiDB “Key Visualizer” 工具，你可以具象化的看到自己对于业务的「假设」是否符合预期，我们相信，“那些最有突破性和最有创造力的解决方案，往往来自于你认识到你对问题的基本假设是错的” Key Visualizer 的热力图正是以一种艺术的直觉方式来发现这样的认知时刻！\n\n「有一种艺术叫热力艺术」\n热力图是一种热力艺术，\n而每一个创造热力艺术的 “你” 都是我们想要合作的艺术家。\n在大会前期，我们诚邀你上传自己与 TiDB 有关的 “热力图”，\n并附上简要文字阐述热力图背后的故事，期间我们会在后台进行筛选，\n被选中的作品将在大会展区的热力艺术画廊展出，\n届时参会的嘉宾都可以一览你的大作，与大家以图会友。\n「一定不白来」\n参与本次征集活动，您将获得：\n1、凡是参与本次征集活动的创作者均可获得热力图精美画框；\n2、大会前公布入选 DevCon 展区画廊的作品和创作者，入选的作者将获得本次 DevCon 门票，更有机会获得本次 DevCon VIP 礼包；\n3、入选作品将以艺术画作的形式在 PingCAP DevCon 2021 大会展区展出。\n「一定要报名」\n热力艺术，火热报名中，请点击下方链接👇填写征集表单并上传你的艺术大作~\n👉TiDB“热力画廊” 征集👈\n注意：上传的热力图尺寸为 3：4，图片大小不少于 3m。\n有意向的朋友们赶快填写征集表单，报名参与吧！\n用最硬核的技术和最炸裂的创意去创造无限可能，\n我们期待你的大作！",
+          "link": "https://gocn.vip/topics/12178",
+          "publishedOn": "2021-06-10T03:08:55.000Z",
+          "wordCount": 131,
+          "title": "TiDB“热力画廊” 征集 | 以图会友，看见热力艺术"
+        },
+        {
           "id": "https://gocn.vip/topics/12177",
           "author": "astaxie",
           "description": "今年的 GopherChina 2021 的 T 恤来了，只送不卖，现场等你\n\n报名地址：https://www.bagevent.com/event/gopherchina2021",
@@ -6742,6 +6751,15 @@
           "publishedOn": "2021-06-09T16:35:13.000Z",
           "wordCount": 568,
           "title": "在计算机像素中是什么，又是如何呈现的？"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=38770",
+          "author": "大眼仔~旭",
+          "description": "Hot Door CADTools 12 中文版是由 Hot Door 公司开发的一款用于 Adobe Ill […]",
+          "link": "http://www.dayanzai.me/hot-door-cadtools.html",
+          "publishedOn": "2021-06-09T16:30:28.000Z",
+          "wordCount": 959,
+          "title": "Hot Door CADtools 12.2.6 for Illustrator CS6~CC 2021 x64 中文免费版"
         },
         {
           "id": "http://www.dayanzai.me/?p=2651",
