@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T11:08:48.878Z</updated>
+    <updated>2021-06-10T12:14:53.320Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Azure Data Fundamentals Certification (DP-900) – Pass the Exam With This Free 4.5-Hour Course]]></title>
+        <id>60b93afaacb62507dd1d8915</id>
+        <link href="https://www.freecodecamp.org/news/azure-data-fundamentals-certification-dp-900-pass-the-exam-with-this-free-4-5-hour-course/"/>
+        <updated>2021-06-10T11:35:00.000Z</updated>
+        <summary type="html"><![CDATA[You can learn everything you need to know to earn the Azure Data Fundamentals by completing this free 4.5 hour course. What is the Azure Data Fundamentals?The Azure Data Fundamentals Certification is for those seeking a data-related role such as Data Analyst, Data Engineer, or Data Scientist. The]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OldOS – 梦回 iOS 4，用现代 iPhone 体验 11 年前的手机系统]]></title>
         <id>https://www.appinn.com/?p=39048</id>

@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60b93afaacb62507dd1d8915",
+          "author": null,
+          "description": "You can learn everything you need to know to earn the Azure Data Fundamentals by completing this free 4.5 hour course. What is the Azure Data Fundamentals?The Azure Data Fundamentals Certification is for those seeking a data-related role such as Data Analyst, Data Engineer, or Data Scientist. The",
+          "link": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-dp-900-pass-the-exam-with-this-free-4-5-hour-course/",
+          "publishedOn": "2021-06-10T11:35:00.000Z",
+          "wordCount": 581,
+          "title": "Azure Data Fundamentals Certification (DP-900) – Pass the Exam With This Free 4.5-Hour Course"
+        },
+        {
           "id": "60b357ad11ffb70827ef9a90",
           "author": null,
           "description": "Last year I tweeted about how I was moving from a Slum where I lived for 29 years to a multi-story rented apartment.  The tech community on Twitter responded with nothing but love. Dan Wahlin posted that he would love to hear more about my story. It's not going to",
