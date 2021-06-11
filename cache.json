@@ -677,6 +677,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12185",
+          "author": "dolfly",
+          "description": "工作职责\n负责移动安全相关云服务平台的设计和实现.\n设计搭建私有化场景下基于 Kubernetes 的解决方案.\n负责服务端业务 API 设计、开发和实现.\n进行相关产品的技术文档编写，方案设计.\n职位要求\n本科及以上学历，熟悉 Golang 语言,有相关开发经验.\n熟悉或者了解虚拟化、容器技术，有 Kubernetes、Docker 开发和使用经验优先.\n深刻理解数据结构和算法设计，具备良好的代码质量.\n良好的沟通能力和团队协作精神，严谨的工作态度与高质量意识.\n善于学习新的知识，动手能力强，有强烈的责任心，喜欢钻研技术.\n商业化交付相关的经验优先考虑.\n有意向请发送简历到 msecurity@baidu.com",
+          "link": "https://gocn.vip/topics/12185",
+          "publishedOn": "2021-06-11T08:37:13.000Z",
+          "wordCount": 96,
+          "title": "【百度 - 安全部】服务端研发工程师 (Golang)"
+        },
+        {
           "id": "https://gocn.vip/topics/12184",
           "author": "lwhile",
           "description": "GoCN 每日新闻 (2021-06-11)\nGo 1.17 beta 1 发布 (泛型支持) https://groups.google.com/g/golang-dev/c/TfpiXhSOMRM/m/wROPV0blAgAJ \n如何使用 GitHub Actions 自动发布你的 Go 二进制应用 https://web3.coach/golang-github-actions-release-binaries-tutorial\n\nGo、WebAssembly、HTTP 请求和 Promises https://withblue.ink/2020/10/03/go-webassembly-http-requests-and-promises.html\n\nGraphQL 聚合网关 Bramble https://github.com/movio/bramble\n\n最后测试开发模式介绍 https://bitfieldconsulting.com/golang/test-last-development\n\n\n\n编辑: lwhile\n订阅新闻: http://tinyletter.com/gocn\n招聘专区: https://gocn.vip/jobs",
