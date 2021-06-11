@@ -4163,6 +4163,24 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/145658",
+          "author": null,
+          "description": "关于 Apache Pulsar Apache Pulsar 是 Apache 软件基金会顶级项目，是下一代云原生分布式消息流平台，集消息、存储、轻量化函数式计算为一体，采用计算与存储分离架构设计，支持多租户、持久化存储、多机房跨区域数据复制，具有强一致性、高吞吐、低延时及高可扩展性等流数据存储特性。 GitHub 地址：http://github.com...",
+          "link": "https://www.oschina.net/news/145658",
+          "publishedOn": "2021-06-11T06:56:58.000Z",
+          "wordCount": 737,
+          "title": "Apache Pulsar 社区新里程碑 —— 全球贡献者超 400 位！"
+        },
+        {
+          "id": "https://www.oschina.net/news/145640/grafana-8-0-released",
+          "author": null,
+          "description": "前言 Grafana v8.0 的重大变更包括对告警系统的重构；新的可视化改进，包括状态时间线、状态历史和直方图面板； 实时流； 可以重用的库面板； 和细粒度的访问控制，允许企业客户确保其组织中的每个人都具有适当的访问级别。 我们还对 Grafana 的性能和功能进行了升级。 用户界面的改进带来了焕然一新的外观和感觉； Ente...",
+          "link": "https://www.oschina.net/news/145640/grafana-8-0-released",
+          "publishedOn": "2021-06-11T06:00:33.000Z",
+          "wordCount": 716,
+          "title": "Grafana 8 发布：统一告警、实时流和新的可视化等！"
+        },
+        {
           "id": "https://www.oschina.net/news/145599/linus-talk-about-anti-vax-lies",
           "author": null,
           "description": "Linus 在内核邮件列表回复了一则反对接受疫苗的言论。 起因是一名内核维护者在邮件列表发布的帖子出现如下言论： > And I know *a lot* of people who will never take part in this generic > human experiment that basically creates a new humanoid race (people > who generate and exhaust the toxic spike prote...",
