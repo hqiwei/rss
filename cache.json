@@ -616,6 +616,15 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html",
+          "publishedOn": "2021-06-11T00:15:31.000Z",
+          "wordCount": 552,
+          "title": "科技爱好者周刊（第 162 期）：生活就像《吃豆人》游戏"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -1610,6 +1619,87 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=86357",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 06 11",
+          "link": "http://www.linuxeden.com/a/86357",
+          "publishedOn": "2021-06-11T00:28:30.000Z",
+          "wordCount": 80,
+          "title": "开源美图 2021 06 11"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86355",
+          "author": "Editor, Kai",
+          "description": "On behalf of the team and everyone who has contributed, I’m happy to announce that Spring Boot 2.3.12.RELEASE has been r […]",
+          "link": "http://www.linuxeden.com/a/86355",
+          "publishedOn": "2021-06-11T00:23:03.000Z",
+          "wordCount": 179,
+          "title": "Spring Boot 2.3.12.RELEASE 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86353",
+          "author": "Editor, Kai",
+          "description": "On behalf of the team and everyone who has contributed, I’m happy to announce that Spring Boot 2.4.7 has been released a […]",
+          "link": "http://www.linuxeden.com/a/86353",
+          "publishedOn": "2021-06-11T00:22:29.000Z",
+          "wordCount": 179,
+          "title": "Spring Boot 2.4.7 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86351",
+          "author": "Editor, Kai",
+          "description": "On behalf of the team and everyone who has contributed, I’m happy to announce that Spring Boot 2.5.1 has been released a […]",
+          "link": "http://www.linuxeden.com/a/86351",
+          "publishedOn": "2021-06-11T00:22:00.000Z",
+          "wordCount": 179,
+          "title": "Spring Boot 2.5.1发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86349",
+          "author": "Editor, Kai",
+          "description": "2021-06-09 [Feature] [geo/map] 在 transform 和 svg解析器中支持 skew。#755 (pissang) [Feature] [tree] 在tooltip组件的回调函数参数中新增treeAnce […]",
+          "link": "http://www.linuxeden.com/a/86349",
+          "publishedOn": "2021-06-11T00:20:57.000Z",
+          "wordCount": 249,
+          "title": "Echarts 5.1.2 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86347",
+          "author": "Editor, Kai",
+          "description": "Complete changelog #17763 – SimpleScheduler – fix CronTrigger#evaluate() #17758 – Also register Custom […]",
+          "link": "http://www.linuxeden.com/a/86347",
+          "publishedOn": "2021-06-11T00:19:23.000Z",
+          "wordCount": 289,
+          "title": "Quarkus 1.13.7.Final 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86345",
+          "author": "Editor, Kai",
+          "description": "Release 1.4.18 includes some ORM regressions typically involving very complex mapping/query combinations, as well as mak […]",
+          "link": "http://www.linuxeden.com/a/86345",
+          "publishedOn": "2021-06-11T00:13:06.000Z",
+          "wordCount": 162,
+          "title": "SQLAlchemy 1.4.18发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86330",
+          "author": "Editor, Kai",
+          "description": "6月9日，在酒泉发射场，神舟十二号载人飞船、长征二号F遥十二运载火箭组合体转运至发射区，整个过程历时一个半小时。 目前，船箭状态良好，后续将按计划开展发射前的各项功能检查、联合测试等工作，择机发射，送3名航天员进入太空。 神舟十二号发射后， […]",
+          "link": "http://www.linuxeden.com/a/86330",
+          "publishedOn": "2021-06-11T00:08:26.000Z",
+          "wordCount": 80,
+          "title": "神舟十二号将送3名航天员上太空：视频燃情回顾转运全程"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86326",
+          "author": "Editor, Kai",
+          "description": "中国科学院官网刊文称，上海光机所在计算光刻技术研究方面取得重要进展。 近日，中科院上海光学精密机械研究所信息光学与光电技术实验室提出一种基于虚拟边（Virtual Edge）与双采样率像素化掩模图形（Mask pixelation with […]",
+          "link": "http://www.linuxeden.com/a/86326",
+          "publishedOn": "2021-06-11T00:07:22.000Z",
+          "wordCount": 106,
+          "title": "中科院：计算光刻技术取得重大进展"
+        },
         {
           "id": "http://www.linuxeden.com/?p=86324",
           "author": "Editor, Kai",
@@ -4063,6 +4153,78 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/145599/linus-talk-about-anti-vax-lies",
+          "author": null,
+          "description": "Linus 在内核邮件列表回复了一则反对接受疫苗的言论。 起因是一名内核维护者在邮件列表发布的帖子出现如下言论： > And I know *a lot* of people who will never take part in this generic > human experiment that basically creates a new humanoid race (people > who generate and exhaust the toxic spike prote...",
+          "link": "https://www.oschina.net/news/145599/linus-talk-about-anti-vax-lies",
+          "publishedOn": "2021-06-11T01:03:16.000Z",
+          "wordCount": 572,
+          "title": "Linus 怒斥反疫苗言论，称邮件列表不接受愚蠢的谎言"
+        },
+        {
+          "id": "https://my.oschina.net/oscpyaqxylk/blog/5075907",
+          "author": null,
+          "description": "所谓的软件供应链，就是一个企业在生产环境中，包括研发、运营、销售等环节所依赖的计算机软件。",
+          "link": "https://my.oschina.net/oscpyaqxylk/blog/5075907",
+          "publishedOn": "2021-06-10T23:45:03.000Z",
+          "wordCount": 436,
+          "title": "关注企业开源供应链：开源有风险，使用需谨慎！"
+        },
+        {
+          "id": "https://www.oschina.net/news/145594/linux-5-13-support-lenovo-control-second-fan",
+          "author": null,
+          "description": "根据邮件列表显示，Linux 5.13 将允许联想控制其 ThinkPad X1 Carbon Gen 9 上的第二个风扇。 该补丁来自一位独立用户，使 ThinkPad ACPI 驱动程序能够控制最新的ThinkPad X1 Carbon 笔记本电脑的第二个风扇，以避免副风扇永远以恒定速度运行。ThinkPad ACPI 驱动对第二风扇的支持已经有一段时间了，并为拥有额外风扇的相...",
+          "link": "https://www.oschina.net/news/145594/linux-5-13-support-lenovo-control-second-fan",
+          "publishedOn": "2021-06-10T23:43:31.000Z",
+          "wordCount": 506,
+          "title": "Linux 5.13 将支持联想控制其笔记本电脑的第二个风扇"
+        },
+        {
+          "id": "https://my.oschina.net/u/4469669/blog/5074866",
+          "author": null,
+          "description": "2020 openEuler 高校开发者大赛是开源中国社区（OSCHINA）联合 Gitee 和 openEuler 社区联合推出的面向高校师生的编程比赛，此次大赛主要是希望通过实战训练给高校学生提供一个锻炼开发技能的机会，同时也鼓励高校学生积极参与开源项目的建设与贡献，为国内开源生态体系的构建贡献一份力量。...",
+          "link": "https://my.oschina.net/u/4469669/blog/5074866",
+          "publishedOn": "2021-06-10T23:42:24.000Z",
+          "wordCount": 258,
+          "title": "2020 openEuler 高校开发者大赛完美收官！开源，不止于此"
+        },
+        {
+          "id": "https://my.oschina.net/upyun/blog/5074913",
+          "author": null,
+          "description": "wasm 本身不是一种编程语言，而是一种字节码的标准，可以通过不同种类的高级编程语言，比如 Rust、Go、Python 等等，通过各自编译器将代码转换成 .wasm 文件，放入到浏览器预先做好的 wasm 虚拟机当中运行。",
+          "link": "https://my.oschina.net/upyun/blog/5074913",
+          "publishedOn": "2021-06-10T23:40:26.000Z",
+          "wordCount": 611,
+          "title": "每日一博 | 深入浅出聊聊 Rust WebAssembly（一）"
+        },
+        {
+          "id": "https://www.oschina.net/p/mix-img",
+          "author": null,
+          "description": "通过调用 canvas API 实现包括图片和文字的合成，并最终生成图片 base64，合成成功后向用户展示和分享",
+          "link": "https://www.oschina.net/p/mix-img",
+          "publishedOn": "2021-06-10T23:37:07.000Z",
+          "wordCount": 669,
+          "title": "mix-img —— 前端图片合成工具库"
+        },
+        {
+          "id": "https://gitee.com/emqx/emqx",
+          "author": null,
+          "description": "一款完全开源，高度可伸缩，高可用的分布式 MQTT 消息服务器，适用于 IoT、M2M 和移动应用程序，可处理千万级别的并发客户端。",
+          "link": "https://gitee.com/emqx/emqx",
+          "publishedOn": "2021-06-10T23:33:18.000Z",
+          "wordCount": 942,
+          "title": "Gitee 推荐 | 高可用的分布式 MQTT 消息服务器 EMQ X"
+        },
+        {
+          "id": "https://www.oschina.net/news/145588/2021-iot-edge-commercial-survey",
+          "author": null,
+          "description": "Eclipse 基金会发布的一份“2021 IoT and Edge Commercial Adoption Survey”报告指出，组织正在以增量模式将开源纳入其部署计划。这清楚地表明，占主导地位的物联网和边缘平台要么是开源的，要么是基于开源的。 该调查的时间范围为 2021 年 1 月 12 日至 3 月 15 日，基于 300 多名相关专业人士进行了调研。调查结果显示...",
+          "link": "https://www.oschina.net/news/145588/2021-iot-edge-commercial-survey",
+          "publishedOn": "2021-06-10T23:06:05.000Z",
+          "wordCount": 486,
+          "title": "Eclipse 基金会报告：开源对物联网和边缘部署至关重要"
+        },
         {
           "id": "https://www.oschina.net/news/145587/hackers-using-chrome-windows-zero-days-vulnerabilities",
           "author": null,
@@ -6878,6 +7040,24 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=476",
+          "author": "大眼仔~旭",
+          "description": "Screenpresso Pro 1.8 中文版 优秀截图工具由大眼仔旭发布。今天小编（www.dayanza […]",
+          "link": "http://www.dayanzai.me/screenpresso-pro.html",
+          "publishedOn": "2021-06-10T16:34:41.000Z",
+          "wordCount": 610,
+          "title": "优秀截图工具 Screenpresso Pro 1.8.9.0 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=12494",
+          "author": "大眼仔~旭",
+          "description": "PeaZip Portable 由大眼仔旭（www.dayanzai.me）发布。PeaZip 中文版是可以在 […]",
+          "link": "http://www.dayanzai.me/peazip.html",
+          "publishedOn": "2021-06-10T16:30:21.000Z",
+          "wordCount": 806,
+          "title": "优秀免费压缩文档管理工具 PeaZip 8.0.0 + x64 中文多语免费版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=36751",
           "author": "大眼仔~旭",

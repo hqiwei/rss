@@ -2,10 +2,190 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T23:09:39.438Z</updated>
+    <updated>2021-06-11T02:01:37.850Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linus 怒斥反疫苗言论，称邮件列表不接受愚蠢的谎言]]></title>
+        <id>https://www.oschina.net/news/145599/linus-talk-about-anti-vax-lies</id>
+        <link href="https://www.oschina.net/news/145599/linus-talk-about-anti-vax-lies"/>
+        <updated>2021-06-11T01:03:16.000Z</updated>
+        <summary type="html"><![CDATA[Linus 在内核邮件列表回复了一则反对接受疫苗的言论。 起因是一名内核维护者在邮件列表发布的帖子出现如下言论： > And I know *a lot* of people who will never take part in this generic > human experiment that basically creates a new humanoid race (people > who generate and exhaust the toxic spike prote...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 06 11]]></title>
+        <id>http://www.linuxeden.com/?p=86357</id>
+        <link href="http://www.linuxeden.com/a/86357"/>
+        <updated>2021-06-11T00:28:30.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 06 11]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Boot 2.3.12.RELEASE 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86355</id>
+        <link href="http://www.linuxeden.com/a/86355"/>
+        <updated>2021-06-11T00:23:03.000Z</updated>
+        <summary type="html"><![CDATA[On behalf of the team and everyone who has contributed, I’m happy to announce that Spring Boot 2.3.12.RELEASE has been r […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Boot 2.4.7 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86353</id>
+        <link href="http://www.linuxeden.com/a/86353"/>
+        <updated>2021-06-11T00:22:29.000Z</updated>
+        <summary type="html"><![CDATA[On behalf of the team and everyone who has contributed, I’m happy to announce that Spring Boot 2.4.7 has been released a […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Boot 2.5.1发布]]></title>
+        <id>http://www.linuxeden.com/?p=86351</id>
+        <link href="http://www.linuxeden.com/a/86351"/>
+        <updated>2021-06-11T00:22:00.000Z</updated>
+        <summary type="html"><![CDATA[On behalf of the team and everyone who has contributed, I’m happy to announce that Spring Boot 2.5.1 has been released a […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Echarts 5.1.2 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86349</id>
+        <link href="http://www.linuxeden.com/a/86349"/>
+        <updated>2021-06-11T00:20:57.000Z</updated>
+        <summary type="html"><![CDATA[2021-06-09 [Feature] [geo/map] 在 transform 和 svg解析器中支持 skew。#755 (pissang) [Feature] [tree] 在tooltip组件的回调函数参数中新增treeAnce […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quarkus 1.13.7.Final 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86347</id>
+        <link href="http://www.linuxeden.com/a/86347"/>
+        <updated>2021-06-11T00:19:23.000Z</updated>
+        <summary type="html"><![CDATA[Complete changelog #17763 – SimpleScheduler – fix CronTrigger#evaluate() #17758 – Also register Custom […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 162 期）：生活就像《吃豆人》游戏]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html"/>
+        <updated>2021-06-11T00:15:31.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLAlchemy 1.4.18发布]]></title>
+        <id>http://www.linuxeden.com/?p=86345</id>
+        <link href="http://www.linuxeden.com/a/86345"/>
+        <updated>2021-06-11T00:13:06.000Z</updated>
+        <summary type="html"><![CDATA[Release 1.4.18 includes some ORM regressions typically involving very complex mapping/query combinations, as well as mak […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神舟十二号将送3名航天员上太空：视频燃情回顾转运全程]]></title>
+        <id>http://www.linuxeden.com/?p=86330</id>
+        <link href="http://www.linuxeden.com/a/86330"/>
+        <updated>2021-06-11T00:08:26.000Z</updated>
+        <summary type="html"><![CDATA[6月9日，在酒泉发射场，神舟十二号载人飞船、长征二号F遥十二运载火箭组合体转运至发射区，整个过程历时一个半小时。 目前，船箭状态良好，后续将按计划开展发射前的各项功能检查、联合测试等工作，择机发射，送3名航天员进入太空。 神舟十二号发射后， […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中科院：计算光刻技术取得重大进展]]></title>
+        <id>http://www.linuxeden.com/?p=86326</id>
+        <link href="http://www.linuxeden.com/a/86326"/>
+        <updated>2021-06-11T00:07:22.000Z</updated>
+        <summary type="html"><![CDATA[中国科学院官网刊文称，上海光机所在计算光刻技术研究方面取得重要进展。 近日，中科院上海光学精密机械研究所信息光学与光电技术实验室提出一种基于虚拟边（Virtual Edge）与双采样率像素化掩模图形（Mask pixelation with […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关注企业开源供应链：开源有风险，使用需谨慎！]]></title>
+        <id>https://my.oschina.net/oscpyaqxylk/blog/5075907</id>
+        <link href="https://my.oschina.net/oscpyaqxylk/blog/5075907"/>
+        <updated>2021-06-10T23:45:03.000Z</updated>
+        <summary type="html"><![CDATA[所谓的软件供应链，就是一个企业在生产环境中，包括研发、运营、销售等环节所依赖的计算机软件。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.13 将支持联想控制其笔记本电脑的第二个风扇]]></title>
+        <id>https://www.oschina.net/news/145594/linux-5-13-support-lenovo-control-second-fan</id>
+        <link href="https://www.oschina.net/news/145594/linux-5-13-support-lenovo-control-second-fan"/>
+        <updated>2021-06-10T23:43:31.000Z</updated>
+        <summary type="html"><![CDATA[根据邮件列表显示，Linux 5.13 将允许联想控制其 ThinkPad X1 Carbon Gen 9 上的第二个风扇。 该补丁来自一位独立用户，使 ThinkPad ACPI 驱动程序能够控制最新的ThinkPad X1 Carbon 笔记本电脑的第二个风扇，以避免副风扇永远以恒定速度运行。ThinkPad ACPI 驱动对第二风扇的支持已经有一段时间了，并为拥有额外风扇的相...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020 openEuler 高校开发者大赛完美收官！开源，不止于此]]></title>
+        <id>https://my.oschina.net/u/4469669/blog/5074866</id>
+        <link href="https://my.oschina.net/u/4469669/blog/5074866"/>
+        <updated>2021-06-10T23:42:24.000Z</updated>
+        <summary type="html"><![CDATA[2020 openEuler 高校开发者大赛是开源中国社区（OSCHINA）联合 Gitee 和 openEuler 社区联合推出的面向高校师生的编程比赛，此次大赛主要是希望通过实战训练给高校学生提供一个锻炼开发技能的机会，同时也鼓励高校学生积极参与开源项目的建设与贡献，为国内开源生态体系的构建贡献一份力量。...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 深入浅出聊聊 Rust WebAssembly（一）]]></title>
+        <id>https://my.oschina.net/upyun/blog/5074913</id>
+        <link href="https://my.oschina.net/upyun/blog/5074913"/>
+        <updated>2021-06-10T23:40:26.000Z</updated>
+        <summary type="html"><![CDATA[wasm 本身不是一种编程语言，而是一种字节码的标准，可以通过不同种类的高级编程语言，比如 Rust、Go、Python 等等，通过各自编译器将代码转换成 .wasm 文件，放入到浏览器预先做好的 wasm 虚拟机当中运行。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mix-img —— 前端图片合成工具库]]></title>
+        <id>https://www.oschina.net/p/mix-img</id>
+        <link href="https://www.oschina.net/p/mix-img"/>
+        <updated>2021-06-10T23:37:07.000Z</updated>
+        <summary type="html"><![CDATA[通过调用 canvas API 实现包括图片和文字的合成，并最终生成图片 base64，合成成功后向用户展示和分享]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitee 推荐 | 高可用的分布式 MQTT 消息服务器 EMQ X]]></title>
+        <id>https://gitee.com/emqx/emqx</id>
+        <link href="https://gitee.com/emqx/emqx"/>
+        <updated>2021-06-10T23:33:18.000Z</updated>
+        <summary type="html"><![CDATA[一款完全开源，高度可伸缩，高可用的分布式 MQTT 消息服务器，适用于 IoT、M2M 和移动应用程序，可处理千万级别的并发客户端。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eclipse 基金会报告：开源对物联网和边缘部署至关重要]]></title>
+        <id>https://www.oschina.net/news/145588/2021-iot-edge-commercial-survey</id>
+        <link href="https://www.oschina.net/news/145588/2021-iot-edge-commercial-survey"/>
+        <updated>2021-06-10T23:06:05.000Z</updated>
+        <summary type="html"><![CDATA[Eclipse 基金会发布的一份“2021 IoT and Edge Commercial Adoption Survey”报告指出，组织正在以增量模式将开源纳入其部署计划。这清楚地表明，占主导地位的物联网和边缘平台要么是开源的，要么是基于开源的。 该调查的时间范围为 2021 年 1 月 12 日至 3 月 15 日，基于 300 多名相关专业人士进行了调研。调查结果显示...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黑客利用 Chrome 和 Windows 零日漏洞链，对目标系统进行攻击]]></title>
         <id>https://www.oschina.net/news/145587/hackers-using-chrome-windows-zero-days-vulnerabilities</id>
@@ -24,6 +204,26 @@
         <summary type="html"><![CDATA[Intel 发布了最新的 CPU 优化参考手册，并且在 GitHub 上上传了相关示例代码。 一直以来，Intel 都维护着一份冗长的 "优化参考手册"，以帮助开发者了解如何为其最新的 CPU 微架构优化代码。最近，Intel 不仅更新了该手册，而且在 GitHub 上开源了很多相关的代码示例，以更好地帮助开发者学习 Intel 优化技术，从而充分利...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[优秀截图工具 Screenpresso Pro 1.8.9.0 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=476</id>
+        <link href="http://www.dayanzai.me/screenpresso-pro.html"/>
+        <updated>2021-06-10T16:34:41.000Z</updated>
+        <summary type="html"><![CDATA[Screenpresso Pro 1.8 中文版 优秀截图工具由大眼仔旭发布。今天小编（www.dayanza […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[优秀免费压缩文档管理工具 PeaZip 8.0.0 + x64 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=12494</id>
+        <link href="http://www.dayanzai.me/peazip.html"/>
+        <updated>2021-06-10T16:30:21.000Z</updated>
+        <summary type="html"><![CDATA[PeaZip Portable 由大眼仔旭（www.dayanzai.me）发布。PeaZip 中文版是可以在 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
