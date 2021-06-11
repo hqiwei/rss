@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60c24cf8d3126007592d61d5",
+          "author": null,
+          "description": "Do you write conditionals correctly within your React applications?  Good conditionals are an essential part of any React application. We use conditionals to show or hide elements or components in our applications.  In short – to be an effective React developer, you must know how to write good conditionals. Let's go",
+          "link": "https://www.freecodecamp.org/news/learn-react-conditionals/",
+          "publishedOn": "2021-06-11T16:04:46.000Z",
+          "wordCount": 1323,
+          "title": "How to Level Up Your React Conditionals"
+        },
+        {
           "id": "60b93afaacb62507dd1d8915",
           "author": null,
           "description": "You can learn everything you need to know to earn the Azure Data Fundamentals by completing this free 4.5 hour course. What is the Azure Data Fundamentals?The Azure Data Fundamentals Certification is for those seeking a data-related role such as Data Analyst, Data Engineer, or Data Scientist. The",
@@ -676,6 +685,24 @@
       "feedUrl": "https://gocn.vip/topics/feed",
       "siteUrl": "https://gocn.vip/",
       "articles": [
+        {
+          "id": "https://gocn.vip/topics/12187",
+          "author": "yudotyang",
+          "description": "原文链接 https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html#tips-and-tricks)\n这是一些随机的建议。也是该系列的最后一部分，包含一些微小的优化代码的技巧。\n6.1 协程\nGo 语言中最关键的特性就是协程\n协程非常易用、创建成本低，你几乎可以认为是没有代价的。\nGo 的运行时是为拥有成千上万个协程的程序而编写的，一个程序包含成千上万的协程并不奇怪。\n但是，每个协程都需要一个最小的协程栈的内存空间，目前最小内存空间是 2kb。\n2048 * 1,000,000 goroutines = 2GB 内存，而且他们还没有做任何事情。\n6.1 要知道何时停止 goroutine\n协程的的创建和运行的成本非常低。但就内存占用而言，他们的成本确实有限，但也不能创建无限个协程。\n在你的程序中，每次你使用go关键词就能启动一个协程，但你必须要知道如何，以及何时该协程能结束。\n在你的程序设计中，某些协程可能会运行直到程序结束才会退出。这些协程非常罕见，但也要遵循该规则）。\n如果你不知道何时结束协程，那将会有潜在的内存泄漏的隐患。因为协程会将其内存以及从栈上可以访问的任何堆上分配的变量固定在堆内存上。\n注意：永远不要开启一个不知道如何停止的协程\n6.1.2 深入阅读\nConcurrency Made Easy  video\nConcurrency Made Easy  slides\nNever start a goroutine without knowning when it will stop(Practical Go, QCon Shanghai 2018)\n6.2 对于某些请求，Go 使用高效的网络轮询算法\nGo 运行时使用有效的操作系统轮询机制（kqueue，epoll，wind…",
+          "link": "https://gocn.vip/topics/12187",
+          "publishedOn": "2021-06-11T15:14:41.000Z",
+          "wordCount": 251,
+          "title": "Go 高性能系列教程之六：一些建议和实践"
+        },
+        {
+          "id": "https://gocn.vip/topics/12186",
+          "author": "yudotyang",
+          "description": "原文链接 https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html#memory-and-gc\nGo 是一门自动垃圾收回的语言。这是设计原则，不能改变。\n作为自动垃圾回收的语言，Go 程序的性能通常取决于他们与垃圾收集器的交互。\n除了算法的选择以外，内存的消耗是决定应用程序性能和可伸缩性的最重要的因素。\n本节将讨论垃圾回收器的操作，如何评估程序的内存使用情况以及在垃圾回收器的性能成为瓶颈时如何降低内存使用量的策略。\n5.1 垃圾回收器的目的\n任何垃圾回收器的目的都是为了让程序有足够的可用内存。\n你可能不太同意这个观点，但是这是垃圾回收器设计者工作时最基本的假设。\n就总运行时间而言，STW、标记清除 GC 是最有效的垃圾回收算法。适用于批处理、模拟等。但是，随着时间的流式，Go GC 从纯粹的 STW（stop the world）转变成并发、非压缩的方式。这是因为 Go GC 被设计成了低延迟服务和交互程序。\nGo GC 的设计偏向于低延迟，而不再是高吞吐；它将一些内存分配成本转移到了 mutator 上，以减少后续的清理成本。\n5.2 垃圾回收器的设计\n在过去的几年里，Go GC 的设计发生了很多改变：\nGo 1.0，高度依赖于tcmalloc的 STW、标记清除收集器\nGo 1.3，非常精确的收集器（fully precise collector），不会将堆内存上的大数字误认为是指针了，因此降低了内存浪费。\n Go 1.5，一个新的 GC 设计，主要关注在低延迟而非高吞吐量上。\n Go 1.6，改进 GC，用低延迟处理大的堆内存。\n Go 1.7，一些小的改进，主要是重构。\n Go 1.8，更进一步降低 STW 的时间，目前降低到了 100 微秒以内。\n Go 1.10+， 摆脱了纯…",
+          "link": "https://gocn.vip/topics/12186",
+          "publishedOn": "2021-06-11T15:13:45.000Z",
+          "wordCount": 1018,
+          "title": "Go 高性能系列教程之五：内存和垃圾回收"
+        },
         {
           "id": "https://gocn.vip/topics/12185",
           "author": "dolfly",
@@ -1655,6 +1682,42 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=86377",
+          "author": "Editor, Kai",
+          "description": "抽丝剥茧 Linux 浮点运算的原理 Apache Beam 2.30.0发布 Linus Torvalds鼓励内核开发者在内的所有人都去接种疫苗 Spring Boot 2.3.12.RELEASE 发布 中科院：计算光刻技术取得重大进展 […]",
+          "link": "http://www.linuxeden.com/a/86377",
+          "publishedOn": "2021-06-11T15:34:56.000Z",
+          "wordCount": 95,
+          "title": "每日文章精选 2021 06 11"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86370",
+          "author": "Editor, Kai",
+          "description": "编者按：本文来自华辰连科技术团队，分享了他们在将浮点运算放到内核态时的探索。 最近我们有一个需求，需要把用户态的浮点数运算全部放到内核态运行，以提高运行速度，移植的过程中发现问题没有这么简单，然后我们抽丝剥茧，揭开 Linux 对浮点处理的 […]",
+          "link": "http://www.linuxeden.com/a/86370",
+          "publishedOn": "2021-06-11T15:26:30.000Z",
+          "wordCount": 535,
+          "title": "抽丝剥茧 Linux 浮点运算的原理"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86365",
+          "author": "Editor, Kai",
+          "description": "python/                                      2021-06-10 19:22    – apache-beam-2.30.0-source-release.zip        20 […]",
+          "link": "http://www.linuxeden.com/a/86365",
+          "publishedOn": "2021-06-11T14:43:42.000Z",
+          "wordCount": 96,
+          "title": "Apache Beam 2.30.0发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86361",
+          "author": "Editor, Kai",
+          "description": "Linus Torvalds 习惯在 Linux Kernel Mailing List（LKML）上言辞激烈地表达自己的想法，不过在今天发布的文章中，围绕着 COVID-19 疫苗接种问题进行了一次热情且重要的探讨。   虽然近 […]",
+          "link": "http://www.linuxeden.com/a/86361",
+          "publishedOn": "2021-06-11T14:26:34.000Z",
+          "wordCount": 113,
+          "title": "Linus Torvalds鼓励内核开发者在内的所有人都去接种疫苗"
+        },
         {
           "id": "http://www.linuxeden.com/?p=86357",
           "author": "Editor, Kai",
