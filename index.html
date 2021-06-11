@@ -20,6 +20,23 @@
     <ul class="sources card">
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.appinn.com">小众软件</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">阿里云盘小白羊版 – 第三方阿里云盘客户端[Windows/macOS]</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.appinn.com/aliyun-pan-third-client/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(4 min)</span>
+                    <span>阿里云盘小白羊版 是一款第三方的阿里云盘客户端，支持 Windows、 macOS，扫码登录之后，可满速下载，满速上传，支持预览视频、图片，支持多并发上传、断点续传，支持 115 链、秒传链。@App</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="http://www.linuxeden.com">Linuxeden开源社区</a></h3>
           <section class="articles-per-source">
             <article>
@@ -144,6 +161,77 @@
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://gocn.vip/">GoCN社区</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">GoCN 每日新闻 (2021-06-11)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12184">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>GoCN 每日新闻 (2021-06-11)
+Go 1.17 beta 1 发布 (泛型支持) https://groups.google.com/g/golang-dev/c/TfpiXhSOMRM/m/wROPV0blAgAJ 
+如何使用 GitHub Actions 自动发布你的 Go 二进制应用 https://web3.coach/golang-github-actions-release-binaries-tutorial
+
+Go、WebAssembly、HTTP 请求和 Promises https://withblue.ink/2020/10/03/go-webassembly-http-requests-and-promises.html
+
+GraphQL 聚合网关 Bramble https://github.com/movio/bramble
+
+最后测试开发模式介绍 https://bitfieldconsulting.com/golang/test-last-development
+
+
+
+编辑: lwhile
+订阅新闻: http://tinyletter.com/gocn
+招聘专区: https://gocn.vip/jobs</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Go 系统监控利器-gopsutil</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12183">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>Go 系统监控利器-gopsutil
+一、简介
+什么是 gopsutil？
+要说gopsutil就不得不先了解 psutil,顾名思义，psutil &#x3D; process and system utilities，
+它是 Python 的跨平台库，能够轻松实现获取系统运行的进程和系统利用率，包括 CPU、内存、磁盘、网络等信息。
+而gopsutil就是psutil的 Golang 移植版。
+为什么用 gopsutil？
+和直接使用 syscall 调用对应的系统方法相比，gopsutil 为我们屏蔽了各个系统间的差异，可移植性非常强。
+二、快速上手
+安装：
+go get github.com/shirou/gopsutil
+
+使用：
+package main
+
+import (
+    &quot;fmt&quot;
+    &quot;github.com/shirou/gopsutil/cpu&quot;
+    &quot;time&quot;
+)
+
+func main() {
+    info, _ :&#x3D; cpu.Info()
+
+    per, _ :&#x3D; cpu.Percent(1 * time.Second, true)
+
+    fmt.Printf(&quot;CPU Percent: %f\n&quot;, per)
+
+    fmt.Println(info)
+}
+
+
+
+输出：
+CPU Percent: [4.040404 4.000000 5.050505 6.930693]
+[{&quot;cpu&quot;:0,&quot;vendorId&quot;:&quot;AuthenticAMD&quot;,&quot;family&quot;:&quot;23&quot;,&quot;model&quot;:&quot;49&quot;,&quot;stepping&quot;:0,&quot;physicalId&quot;:&quot;0&quot;,&quot;coreId&quot;:&quot;0&quot;,&quot;cores&quot;:1,&quot;modelName&quot;:&quot;AMD EPYC 7K62 48-Core Processor&quot;,&quot;mhz&quot;:2595.124,&quot;cac…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">实时分析，以数治税 ｜烟台税务的融合大数据创新之路</summary>
@@ -12730,7 +12818,7 @@ type Test struct {
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-06-11T07:12:55.202Z">2021-06-11T07:12:55.202Z</time>
+    <time id="build-timestamp" datetime="2021-06-11T08:10:21.322Z">2021-06-11T08:10:21.322Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.10.2</a></span>
   </footer>
   <script src="index.js"></script>

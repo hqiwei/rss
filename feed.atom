@@ -2,10 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T07:12:55.243Z</updated>
+    <updated>2021-06-11T08:10:21.367Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-11)]]></title>
+        <id>https://gocn.vip/topics/12184</id>
+        <link href="https://gocn.vip/topics/12184"/>
+        <updated>2021-06-11T08:02:13.000Z</updated>
+        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-06-11)
+Go 1.17 beta 1 发布 (泛型支持) https://groups.google.com/g/golang-dev/c/TfpiXhSOMRM/m/wROPV0blAgAJ 
+如何使用 GitHub Actions 自动发布你的 Go 二进制应用 https://web3.coach/golang-github-actions-release-binaries-tutorial
+
+Go、WebAssembly、HTTP 请求和 Promises https://withblue.ink/2020/10/03/go-webassembly-http-requests-and-promises.html
+
+GraphQL 聚合网关 Bramble https://github.com/movio/bramble
+
+最后测试开发模式介绍 https://bitfieldconsulting.com/golang/test-last-development
+
+
+
+编辑: lwhile
+订阅新闻: http://tinyletter.com/gocn
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>lwhile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里云盘小白羊版 – 第三方阿里云盘客户端[Windows/macOS]]]></title>
+        <id>https://www.appinn.com/?p=39051</id>
+        <link href="https://www.appinn.com/aliyun-pan-third-client/"/>
+        <updated>2021-06-11T07:51:34.000Z</updated>
+        <summary type="html"><![CDATA[阿里云盘小白羊版 是一款第三方的阿里云盘客户端，支持 Windows、 macOS，扫码登录之后，可满速下载，满速上传，支持预览视频、图片，支持多并发上传、断点续传，支持 115 链、秒传链。@App]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go 系统监控利器-gopsutil]]></title>
+        <id>https://gocn.vip/topics/12183</id>
+        <link href="https://gocn.vip/topics/12183"/>
+        <updated>2021-06-11T07:16:21.000Z</updated>
+        <summary type="html"><![CDATA[Go 系统监控利器-gopsutil
+一、简介
+什么是 gopsutil？
+要说gopsutil就不得不先了解 psutil,顾名思义，psutil = process and system utilities，
+它是 Python 的跨平台库，能够轻松实现获取系统运行的进程和系统利用率，包括 CPU、内存、磁盘、网络等信息。
+而gopsutil就是psutil的 Golang 移植版。
+为什么用 gopsutil？
+和直接使用 syscall 调用对应的系统方法相比，gopsutil 为我们屏蔽了各个系统间的差异，可移植性非常强。
+二、快速上手
+安装：
+go get github.com/shirou/gopsutil
+
+使用：
+package main
+
+import (
+    "fmt"
+    "github.com/shirou/gopsutil/cpu"
+    "time"
+)
+
+func main() {
+    info, _ := cpu.Info()
+
+    per, _ := cpu.Percent(1 * time.Second, true)
+
+    fmt.Printf("CPU Percent: %f\n", per)
+
+    fmt.Println(info)
+}
+
+
+
+输出：
+CPU Percent: [4.040404 4.000000 5.050505 6.930693]
+[{"cpu":0,"vendorId":"AuthenticAMD","family":"23","model":"49","stepping":0,"physicalId":"0","coreId":"0","cores":1,"modelName":"AMD EPYC 7K62 48-Core Processor","mhz":2595.124,"cac…]]></summary>
+        <author>
+            <name>hausliu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apache Pulsar 社区新里程碑 —— 全球贡献者超 400 位！]]></title>
         <id>https://www.oschina.net/news/145658</id>
