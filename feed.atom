@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T19:09:31.172Z</updated>
+    <updated>2021-06-11T20:09:18.168Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -11030,16 +11030,6 @@ type Test struct {
 买来以后，Verizon 就发现了真相，内容行业根本不行，非常难做，那些门户网站疲软不堪，业务毫无起色。去年又赶上了疫情，于是不想再撑了，决定认赔出局，抛售旗下的媒体资产，集中精力做无线通信。…]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分享笔记 · ShareNote – 一个简单好用的文字分享工具]]></title>
-        <id>https://www.appinn.com/?p=38814</id>
-        <link href="https://www.appinn.com/sharenote-online/"/>
-        <updated>2021-05-13T07:15:36.000Z</updated>
-        <summary type="html"><![CDATA[分享笔记 · ShareNote 是一款简单好用的文字分享工具，就是把很长的文字转换成漂亮的图片，有 6 种样式，可以添加头图、日期，并且也有移动端适配，“方便“分享。@Appinn 将文字图片化是一]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
 </feed>
