@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T16:16:38.448Z</updated>
+    <updated>2021-06-12T17:24:14.850Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -11282,16 +11282,6 @@ type Test struct {
         <link href="https://www.appinn.com/rili-jishiben-for-windows/"/>
         <updated>2021-05-15T11:30:00.000Z</updated>
         <summary type="html"><![CDATA[来自论坛的“手搓大佬” @dangerace 同学最近分享了它一直自用，并且是自己开发的日历记事本。@Appinn 日历记事本 一个以“日历”为核心的记事本，附加了简单的人脉、提醒、备忘等功能，比较适]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xHub 文件君 – 支持网盘文件解压缩的文档管理应用，可播放视频、音乐，传输文件、阅读小说[iOS 内购永久 VIP 限免]]]></title>
-        <id>https://www.appinn.com/?p=38819</id>
-        <link href="https://www.appinn.com/xhub-files-manager-for-ios/"/>
-        <updated>2021-05-14T04:25:58.000Z</updated>
-        <summary type="html"><![CDATA[xHub 文件君 是一款综合的文档管理 iPad、iPhone 应用，拥有文件浏览，Wi-Fi 文件传输，视频播放，音乐播放，照片浏览，文本编辑和录音等功能，可以对文件搜索/编辑/保存，移动/复制，上]]></summary>
         <author>
             <name>青小蛙</name>
         </author>
