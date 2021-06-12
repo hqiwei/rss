@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T08:09:53.425Z</updated>
+    <updated>2021-06-12T09:08:51.383Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-12)]]></title>
+        <id>https://gocn.vip/topics/12188</id>
+        <link href="https://gocn.vip/topics/12188"/>
+        <updated>2021-06-12T08:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Go 实现正向代理服务器 https://juejin.cn/post/6972563525361369125
+
+编写友好的 Go 命令行应用程序 https://mp.weixin.qq.com/s/qOhdWkIG5lZG6hV7QHIsaQ
+
+你不知道的 Go 之 const https://mp.weixin.qq.com/s/EKnphU752SY1vp_O_qY1ag
+
+Go 高性能系列教程之五：内存和垃圾回收 https://gocn.vip/topics/12186
+
+Go Race Detector with ThreadSanitizer https://medium.com/a-journey-with-go/go-race-detector-with-threadsanitizer-8e497f9e42db
+
+
+
+
+编辑: bugme
+订阅新闻: http://tinyletter.com/gocn
+
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>bugme</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 刀买 1000+ 款独立游戏？不冲吗？]]></title>
         <id>https://www.appinn.com/?p=39037</id>

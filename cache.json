@@ -722,6 +722,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12188",
+          "author": "bugme",
+          "description": "Go 实现正向代理服务器 https://juejin.cn/post/6972563525361369125\n\n编写友好的 Go 命令行应用程序 https://mp.weixin.qq.com/s/qOhdWkIG5lZG6hV7QHIsaQ\n\n你不知道的 Go 之 const https://mp.weixin.qq.com/s/EKnphU752SY1vp_O_qY1ag\n\nGo 高性能系列教程之五：内存和垃圾回收 https://gocn.vip/topics/12186\n\nGo Race Detector with ThreadSanitizer https://medium.com/a-journey-with-go/go-race-detector-with-threadsanitizer-8e497f9e42db\n\n\n\n\n编辑: bugme\n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12188",
+          "publishedOn": "2021-06-12T08:49:00.000Z",
+          "wordCount": 104,
+          "title": "GoCN 每日新闻 (2021-06-12)"
+        },
+        {
           "id": "https://gocn.vip/topics/12187",
           "author": "yudotyang",
           "description": "原文链接 https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html#tips-and-tricks)\n这是一些随机的建议。也是该系列的最后一部分，包含一些微小的优化代码的技巧。\n6.1 协程\nGo 语言中最关键的特性就是协程\n协程非常易用、创建成本低，你几乎可以认为是没有代价的。\nGo 的运行时是为拥有成千上万个协程的程序而编写的，一个程序包含成千上万的协程并不奇怪。\n但是，每个协程都需要一个最小的协程栈的内存空间，目前最小内存空间是 2kb。\n2048 * 1,000,000 goroutines = 2GB 内存，而且他们还没有做任何事情。\n6.1 要知道何时停止 goroutine\n协程的的创建和运行的成本非常低。但就内存占用而言，他们的成本确实有限，但也不能创建无限个协程。\n在你的程序中，每次你使用go关键词就能启动一个协程，但你必须要知道如何，以及何时该协程能结束。\n在你的程序设计中，某些协程可能会运行直到程序结束才会退出。这些协程非常罕见，但也要遵循该规则）。\n如果你不知道何时结束协程，那将会有潜在的内存泄漏的隐患。因为协程会将其内存以及从栈上可以访问的任何堆上分配的变量固定在堆内存上。\n注意：永远不要开启一个不知道如何停止的协程\n6.1.2 深入阅读\nConcurrency Made Easy  video\nConcurrency Made Easy  slides\nNever start a goroutine without knowning when it will stop(Practical Go, QCon Shanghai 2018)\n6.2 对于某些请求，Go 使用高效的网络轮询算法\nGo 运行时使用有效的操作系统轮询机制（kqueue，epoll，wind…",
