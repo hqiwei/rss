@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T05:12:44.694Z</updated>
+    <updated>2021-06-12T06:10:42.862Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 刀买 1000+ 款独立游戏？不冲吗？]]></title>
+        <id>https://www.appinn.com/?p=39037</id>
+        <link href="https://www.appinn.com/indie-bundle-for-palestinian-aid/"/>
+        <updated>2021-06-12T05:10:05.000Z</updated>
+        <summary type="html"><![CDATA[来自发现频道的消息，@520c 同学说到：一千多款独立游戏，最低价5刀（当然欢迎捐更多），大家不冲吗？还是只有我默默地后知后觉？ 这个捆绑游戏的所有利润都将捐给联合国近东巴勒斯坦难民救济和工程处（UN]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源美图 2021 06 12]]></title>
         <id>http://www.linuxeden.com/?p=86391</id>
