@@ -1719,6 +1719,42 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=86388",
+          "author": "Editor, Kai",
+          "description": "Bug Fixes modal: swipe to close modal is no longer swipeable on footer (#23401) (ae96563), closes #23398 title: inherit  […]",
+          "link": "http://www.linuxeden.com/a/86388",
+          "publishedOn": "2021-06-12T01:21:24.000Z",
+          "wordCount": 156,
+          "title": "Ionic 5.6.9 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86385",
+          "author": "Editor, Kai",
+          "description": "feat: Add FsWatcher interface (#10798) feat: Add origin data dir to deno info (#10589) feat: Initialize runtime_compiler […]",
+          "link": "http://www.linuxeden.com/a/86385",
+          "publishedOn": "2021-06-12T01:10:21.000Z",
+          "wordCount": 238,
+          "title": "Deno 1.11.0 发布，JavaScript/TypeScript 的安全的运行时"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86382",
+          "author": "Editor, Kai",
+          "description": "apache-dubbo-2.7.12-src.zip        2021-06-11 09:43  5.0M apache-dubbo-2.7.12-src.zip.asc    2021-06-11 09:43  833 apach […]",
+          "link": "http://www.linuxeden.com/a/86382",
+          "publishedOn": "2021-06-12T01:00:10.000Z",
+          "wordCount": 107,
+          "title": "Apache Dubbo 2.7.12发布， 一款高性能、轻量级的开源 Java 服务框架"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86379",
+          "author": "Editor, Kai",
+          "description": "Fixed – RedisSentinel.getMaster() method throws NPE Fixed – RSemaphore.drainPermits() throws ClassCastExcept […]",
+          "link": "http://www.linuxeden.com/a/86379",
+          "publishedOn": "2021-06-12T00:53:45.000Z",
+          "wordCount": 190,
+          "title": "Redisson 3.15.6 发布"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86377",
           "author": "Editor, Kai",
           "description": "抽丝剥茧 Linux 浮点运算的原理 Apache Beam 2.30.0发布 Linus Torvalds鼓励内核开发者在内的所有人都去接种疫苗 Spring Boot 2.3.12.RELEASE 发布 中科院：计算光刻技术取得重大进展 […]",
@@ -4288,6 +4324,24 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/145753/the-plan-for-react-18",
+          "author": null,
+          "description": "React 开发团队公布了 React 18 的开发和发布计划，当前的最新工作进展如下： 已开始 React 18 版本的发布工作，这将是下一个主要版本 创建了工作组，为社区逐步采用 React 18 的新特性做准备 发布了 React 18 Alpha 版本，便于库作者尝试它并向开发团队提出相应反馈 React 18 主要变化 当 React 18 发布时，它将包含开箱...",
+          "link": "https://www.oschina.net/news/145753/the-plan-for-react-18",
+          "publishedOn": "2021-06-12T01:13:54.000Z",
+          "wordCount": 554,
+          "title": "React 18 最新进展：发布 alpha 版本、全新 SSR 架构"
+        },
+        {
+          "id": "https://www.oschina.net/news/145751/vscode-1-57-released",
+          "author": null,
+          "description": "Visual Studio Code 1.57 稳定版已发布。 主要更新亮点： Workspace Trust Workspace Trust 是为 Workspace 添加的安全加固功能，此功能可让用户决定自己的项目文件夹是否应该允许或限制自动代码执行。 全新的入门指南体验 全新的欢迎页面默认面向所有用户开启，帮助他们快速设置和学习 VS Code。 远程仓库 (Remote Repo...",
+          "link": "https://www.oschina.net/news/145751/vscode-1-57-released",
+          "publishedOn": "2021-06-12T00:44:17.000Z",
+          "wordCount": 529,
+          "title": "Visual Studio Code 1.57 发布，集成 Edge 开发工具"
+        },
         {
           "id": "https://www.oschina.net/news/145749/chrome-os-will-release-every-4-weeks",
           "author": null,
@@ -7265,6 +7319,15 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=1796",
+          "author": "大眼仔~旭",
+          "description": "K-Lite Codec Pack Mega 中文版 今天小编（www.dayanzai.me）大眼仔旭给大家 […]",
+          "link": "http://www.dayanzai.me/k-lite-codec-pack.html",
+          "publishedOn": "2021-06-11T16:21:16.000Z",
+          "wordCount": 607,
+          "title": "万能音视频解码器 K-Lite Codec Pack Mega 16.2.5 中文多语免费版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=476",
           "author": "大眼仔~旭",
