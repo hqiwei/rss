@@ -7320,6 +7320,24 @@
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
         {
+          "id": "http://www.dayanzai.me/?p=8376",
+          "author": "大眼仔~旭",
+          "description": "Q-Dir 绿色便携中文版由大眼仔旭（www.dayanzai.me）发布。Q-Dir 是一款强大且走极端路线 […]",
+          "link": "http://www.dayanzai.me/q-dir.html",
+          "publishedOn": "2021-06-11T16:36:21.000Z",
+          "wordCount": 488,
+          "title": "窗口文件管理器 Q-Dir 9.55 + x64 绿色便携中文版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=996",
+          "author": "大眼仔~旭",
+          "description": "FreeFileSync 中文版免费开源的文件夹比较和同步软件由大眼仔旭（www.dayanzai.me）发布 […]",
+          "link": "http://www.dayanzai.me/freefilesync.html",
+          "publishedOn": "2021-06-11T16:25:21.000Z",
+          "wordCount": 560,
+          "title": "免费开源的文件夹比较和同步软件 FreeFileSync 11.11 中文免费版"
+        },
+        {
           "id": "http://www.dayanzai.me/?p=1796",
           "author": "大眼仔~旭",
           "description": "K-Lite Codec Pack Mega 中文版 今天小编（www.dayanzai.me）大眼仔旭给大家 […]",
