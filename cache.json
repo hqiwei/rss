@@ -1719,6 +1719,24 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=86414",
+          "author": "Editor, Kai",
+          "description": "Python 3.9 如何修复装饰器并改进字典 RTFM！如何阅读（和理解）Linux 中神奇的手册页 BSD也有好界面 由macOS启发的HelloSystem 0.5发行版上线 Ionic 5.6.9 发布 抽丝剥茧 Linux 浮点运 […]",
+          "link": "http://www.linuxeden.com/a/86414",
+          "publishedOn": "2021-06-12T15:16:24.000Z",
+          "wordCount": 95,
+          "title": "每日文章精选 2021 06 12"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86410",
+          "author": "Editor, Kai",
+          "description": "探索最近版本的 Python 的一些有用的特性。 这是 Python 3.x 首发特性系列文章中的第十篇，其中一些版本已经发布了一段时间。Python 3.9 在 2020 年首次发布，具有很酷的新特性，但仍未被充分利用。下面是其中的三个。 […]",
+          "link": "http://www.linuxeden.com/a/86410",
+          "publishedOn": "2021-06-12T15:13:04.000Z",
+          "wordCount": 212,
+          "title": "Python 3.9 如何修复装饰器并改进字典"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86399",
           "author": "Editor, Kai",
           "description": "man pages，即参考手册页reference manual pages的简称，是你进入 Linux 的钥匙。你想知道的一切都在那里，包罗万象。这套文档永远不会赢得普利策奖，但这套文档是相当准确和完整的。手册页是主要信源，其权威性是众所 […]",
