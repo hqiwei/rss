@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T14:08:21.807Z</updated>
+    <updated>2021-06-12T15:09:45.350Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RTFM！如何阅读（和理解）Linux 中神奇的手册页]]></title>
+        <id>http://www.linuxeden.com/?p=86399</id>
+        <link href="http://www.linuxeden.com/a/86399"/>
+        <updated>2021-06-12T15:05:55.000Z</updated>
+        <summary type="html"><![CDATA[man pages，即参考手册页reference manual pages的简称，是你进入 Linux 的钥匙。你想知道的一切都在那里，包罗万象。这套文档永远不会赢得普利策奖，但这套文档是相当准确和完整的。手册页是主要信源，其权威性是众所 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BSD也有好界面 由macOS启发的HelloSystem 0.5发行版上线]]></title>
+        <id>http://www.linuxeden.com/?p=86394</id>
+        <link href="http://www.linuxeden.com/a/86394"/>
+        <updated>2021-06-12T14:58:12.000Z</updated>
+        <summary type="html"><![CDATA[helloSystem是近来最有前途的基于BSD的桌面发行版之一，它希望成为BSD中的macOS，并具有良好的桌面体验。近几个月来，helloSystem一直在朝着他们的目标取得良好进展，本周末现在发布了0.5版本。 helloSystem […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-12)]]></title>
         <id>https://gocn.vip/topics/12188</id>
