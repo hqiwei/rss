@@ -1719,6 +1719,69 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=86430",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 06 13",
+          "link": "http://www.linuxeden.com/a/86430",
+          "publishedOn": "2021-06-13T01:31:06.000Z",
+          "wordCount": 77,
+          "title": "开源美图 2021 06 13"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86428",
+          "author": "Editor, Kai",
+          "description": "了解 BHM 对他们意味着什么，什么影响了他们的职业生涯，为想要进入科技领域的少数族群提供资源，等等。 为了纪念 BHM，我收集了一些我最喜欢的技术专家和开源贡献者的意见。这四位正在为下一代铺路，同时也在为他们在科技行业所做的工作铺路。了解 […]",
+          "link": "http://www.linuxeden.com/a/86428",
+          "publishedOn": "2021-06-13T01:22:16.000Z",
+          "wordCount": 262,
+          "title": "4 位技术专家谈少数族群的技术职业"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86426",
+          "author": "Editor, Kai",
+          "description": "common Commit Description 200cc31df4 fix(common): infer correct type when trackBy is used in ngFor (#41995) 0dad375de7 f […]",
+          "link": "http://www.linuxeden.com/a/86426",
+          "publishedOn": "2021-06-13T01:17:23.000Z",
+          "wordCount": 204,
+          "title": "Angular 12.0.4 (2021-06-09)发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86422",
+          "author": "Editor, Kai",
+          "description": "近日，科学家发现了能提高硅光致发光（PL）的方法。硅是所有现代电子产品的核心，同时它在光子发射器和吸收器上的表现非常糟糕。而科学家的这项发现可能为光子集成电路铺平道路，提升其性能。这篇论文发表在《Laser and Photonics Re […]",
+          "link": "http://www.linuxeden.com/a/86422",
+          "publishedOn": "2021-06-13T01:12:11.000Z",
+          "wordCount": 94,
+          "title": "为光子集成电路铺平道路 科学家发现提高硅光致发光方法"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86420",
+          "author": "Editor, Kai",
+          "description": "person reacted 👀 1   Assets 2 Source code (zip) Source code (tar.gz)   转自 https://github.com/Alexey-T/ […]",
+          "link": "http://www.linuxeden.com/a/86420",
+          "publishedOn": "2021-06-13T01:09:16.000Z",
+          "wordCount": 94,
+          "title": "CudaText 1.133.7 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86418",
+          "author": "Editor, Kai",
+          "description": "CKEditor 5 v28.0.0 brings the long-awaited Revision History feature. It is a top-class document versioning tool that all […]",
+          "link": "http://www.linuxeden.com/a/86418",
+          "publishedOn": "2021-06-13T01:06:27.000Z",
+          "wordCount": 1794,
+          "title": "CKEditor 5 v28.0.0 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86416",
+          "author": "Editor, Kai",
+          "description": "Saturday, 12 June 2021 KDE today announces the release of KDE Frameworks 5.83.0. KDE Frameworks are 83 addon libraries t […]",
+          "link": "http://www.linuxeden.com/a/86416",
+          "publishedOn": "2021-06-13T00:41:24.000Z",
+          "wordCount": 2124,
+          "title": "KDE Frameworks 5.83.0 发布"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86414",
           "author": "Editor, Kai",
           "description": "Python 3.9 如何修复装饰器并改进字典 RTFM！如何阅读（和理解）Linux 中神奇的手册页 BSD也有好界面 由macOS启发的HelloSystem 0.5发行版上线 Ionic 5.6.9 发布 抽丝剥茧 Linux 浮点运 […]",
@@ -4369,6 +4432,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/145828/google-stops-experiment-that-simplified-urls",
+          "author": null,
+          "description": "Chrome 终于不再折腾 URL 了。 Chromium 近期合并的一个 commit 显示，其开发团队已删除简化 URL 的功能代码。理由是此项实验性功能对相关安全指标没有推动效果，所以不打算正式上线。 此处提到的安全指标来自谷歌过去一年运行的一系列实验室测试，详情点此查看。 Delete simplified domain experiment This experiment ...",
+          "link": "https://www.oschina.net/news/145828/google-stops-experiment-that-simplified-urls",
+          "publishedOn": "2021-06-13T01:30:36.000Z",
+          "wordCount": 523,
+          "title": "谷歌停止 Chrome 简化 URL 的实验"
+        },
         {
           "id": "https://my.oschina.net/u/4526289/blog/5073847",
           "author": null,

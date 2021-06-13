@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T00:32:39.032Z</updated>
+    <updated>2021-06-13T01:58:20.748Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 06 13]]></title>
+        <id>http://www.linuxeden.com/?p=86430</id>
+        <link href="http://www.linuxeden.com/a/86430"/>
+        <updated>2021-06-13T01:31:06.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 06 13]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌停止 Chrome 简化 URL 的实验]]></title>
+        <id>https://www.oschina.net/news/145828/google-stops-experiment-that-simplified-urls</id>
+        <link href="https://www.oschina.net/news/145828/google-stops-experiment-that-simplified-urls"/>
+        <updated>2021-06-13T01:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Chrome 终于不再折腾 URL 了。 Chromium 近期合并的一个 commit 显示，其开发团队已删除简化 URL 的功能代码。理由是此项实验性功能对相关安全指标没有推动效果，所以不打算正式上线。 此处提到的安全指标来自谷歌过去一年运行的一系列实验室测试，详情点此查看。 Delete simplified domain experiment This experiment ...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 位技术专家谈少数族群的技术职业]]></title>
+        <id>http://www.linuxeden.com/?p=86428</id>
+        <link href="http://www.linuxeden.com/a/86428"/>
+        <updated>2021-06-13T01:22:16.000Z</updated>
+        <summary type="html"><![CDATA[了解 BHM 对他们意味着什么，什么影响了他们的职业生涯，为想要进入科技领域的少数族群提供资源，等等。 为了纪念 BHM，我收集了一些我最喜欢的技术专家和开源贡献者的意见。这四位正在为下一代铺路，同时也在为他们在科技行业所做的工作铺路。了解 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular 12.0.4 (2021-06-09)发布]]></title>
+        <id>http://www.linuxeden.com/?p=86426</id>
+        <link href="http://www.linuxeden.com/a/86426"/>
+        <updated>2021-06-13T01:17:23.000Z</updated>
+        <summary type="html"><![CDATA[common Commit Description 200cc31df4 fix(common): infer correct type when trackBy is used in ngFor (#41995) 0dad375de7 f […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为光子集成电路铺平道路 科学家发现提高硅光致发光方法]]></title>
+        <id>http://www.linuxeden.com/?p=86422</id>
+        <link href="http://www.linuxeden.com/a/86422"/>
+        <updated>2021-06-13T01:12:11.000Z</updated>
+        <summary type="html"><![CDATA[近日，科学家发现了能提高硅光致发光（PL）的方法。硅是所有现代电子产品的核心，同时它在光子发射器和吸收器上的表现非常糟糕。而科学家的这项发现可能为光子集成电路铺平道路，提升其性能。这篇论文发表在《Laser and Photonics Re […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CudaText 1.133.7 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86420</id>
+        <link href="http://www.linuxeden.com/a/86420"/>
+        <updated>2021-06-13T01:09:16.000Z</updated>
+        <summary type="html"><![CDATA[person reacted 👀 1   Assets 2 Source code (zip) Source code (tar.gz)   转自 https://github.com/Alexey-T/ […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CKEditor 5 v28.0.0 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86418</id>
+        <link href="http://www.linuxeden.com/a/86418"/>
+        <updated>2021-06-13T01:06:27.000Z</updated>
+        <summary type="html"><![CDATA[CKEditor 5 v28.0.0 brings the long-awaited Revision History feature. It is a top-class document versioning tool that all […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Frameworks 5.83.0 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86416</id>
+        <link href="http://www.linuxeden.com/a/86416"/>
+        <updated>2021-06-13T00:41:24.000Z</updated>
+        <summary type="html"><![CDATA[Saturday, 12 June 2021 KDE today announces the release of KDE Frameworks 5.83.0. KDE Frameworks are 83 addon libraries t […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日一博 | 教你认识 Vuex 状态机]]></title>
         <id>https://my.oschina.net/u/4526289/blog/5073847</id>
