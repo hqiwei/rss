@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T14:08:17.581Z</updated>
+    <updated>2021-06-13T15:09:41.134Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 06 13]]></title>
+        <id>http://www.linuxeden.com/?p=86456</id>
+        <link href="http://www.linuxeden.com/a/86456"/>
+        <updated>2021-06-13T14:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Linux 5.14 即将为英特尔独立显卡启用图形TTM内存管理初始位 7 年之久的 Linux 特权升级漏洞的补丁发布 15 个提高工作效率的 VS Code 键盘快捷键 4 位技术专家谈少数族群的技术职业 Python 3.9 如何修复 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.14 即将为英特尔独立显卡启用图形TTM内存管理初始位]]></title>
+        <id>http://www.linuxeden.com/?p=86452</id>
+        <link href="http://www.linuxeden.com/a/86452"/>
+        <updated>2021-06-13T14:49:59.000Z</updated>
+        <summary type="html"><![CDATA[十年前，只有集成显卡的开发任务需要完成的英特尔的开源Linux图形驱动工程师宣布不支持TTM，而是设计了图形执行管理器（GEM）来满足内核图形内存管理的需要，但现在英特尔开始推出独立显卡和专用显存存，这时候TTM内存管理的需求就显得迫切了起 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 年之久的 Linux 特权升级漏洞的补丁发布]]></title>
+        <id>http://www.linuxeden.com/?p=86449</id>
+        <link href="http://www.linuxeden.com/a/86449"/>
+        <updated>2021-06-13T14:42:21.000Z</updated>
+        <summary type="html"><![CDATA[Polkit 是一个包含在几乎所有现代 Linux 发行版中的 Linux 系统服务，它为非特权进程与特权进程的通信提供了一种有组织的方式，七年来它一直隐藏着一个重大的安全漏洞。该漏洞允许非特权用户通过少数的标准命令行工具获得管理权限的 S […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 个提高工作效率的 VS Code 键盘快捷键]]></title>
+        <id>http://www.linuxeden.com/?p=86433</id>
+        <link href="http://www.linuxeden.com/a/86433"/>
+        <updated>2021-06-13T14:40:28.000Z</updated>
+        <summary type="html"><![CDATA[毫无疑问，微软的 VS Code是最好的开源代码编辑器之一。它与传说中的 Vim 不同，VS Code 不需要你是一个快捷键大师（LCTT 译注：以下都指键盘快捷键），开发者们对它大部分的功能都及其熟悉，且推崇备至。 但这并不意味着你不能成 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apache Dubbo 3.0.0 正式版即将发布]]></title>
         <id>https://www.oschina.net/news/145848/dubbo-3-0-come-soon</id>
