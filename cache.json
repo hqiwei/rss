@@ -4433,6 +4433,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/145848/dubbo-3-0-come-soon",
+          "author": null,
+          "description": "在今年3月份Apache Dubbo发布首个3.0分支预览版本3.0.0.preview时，官方已预告6月份将发布3.0正式版。 恰逢端午假期，前方传来最新消息，Dubbo项目的GitHub发布页面3.0.0版已显示为预发布状态。按照惯例，需要发起社区邮件投票，通过后将进入正式版本的发布流程。Apache Dubbo 3.0.0版发布后，相关构建稍后将会同步至Mav...",
+          "link": "https://www.oschina.net/news/145848/dubbo-3-0-come-soon",
+          "publishedOn": "2021-06-13T09:10:34.000Z",
+          "wordCount": 498,
+          "title": "Apache Dubbo 3.0.0 正式版即将发布"
+        },
+        {
           "id": "https://www.oschina.net/news/145828/google-stops-experiment-that-simplified-urls",
           "author": null,
           "description": "Chrome 终于不再折腾 URL 了。 Chromium 近期合并的一个 commit 显示，其开发团队已删除简化 URL 的功能代码。理由是此项实验性功能对相关安全指标没有推动效果，所以不打算正式上线。 此处提到的安全指标来自谷歌过去一年运行的一系列实验室测试，详情点此查看。 Delete simplified domain experiment This experiment ...",
