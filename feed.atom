@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T03:13:23.138Z</updated>
+    <updated>2021-06-14T04:12:13.504Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 06 14]]></title>
+        <id>http://www.linuxeden.com/?p=86471</id>
+        <link href="http://www.linuxeden.com/a/86471"/>
+        <updated>2021-06-14T03:34:28.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 06 14]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alibaba Nacos 2.0.2发布]]></title>
+        <id>http://www.linuxeden.com/?p=86469</id>
+        <link href="http://www.linuxeden.com/a/86469"/>
+        <updated>2021-06-14T03:23:18.000Z</updated>
+        <summary type="html"><![CDATA[In this version, Nacos community have done a lot of optimizations for the features of the upgrade from 1.X to 2.0.X, suc […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Seaweedfs 2.53 发布]]></title>
         <id>http://www.linuxeden.com/?p=86467</id>
