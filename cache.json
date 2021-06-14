@@ -4460,6 +4460,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/145896/intel-in-talks-to-acquire-risc-v-firm-sifiv",
+          "author": null,
+          "description": "根据彭博社的报道，英特尔提出以超过 20 亿美元的价格收购 SiFive。此报道未经证实，据说双方仍处于谈判的早期阶段，其他公司也可能对收购 SiFive 感兴趣。彭博社称不能保证 SiFive 会和任何公司达成交易，前者可能会选择保持独立。 根据数据供应商 PitchBook 的数据，SiFive 在 2020 年进行融资时，最后一次的估值约为 ...",
+          "link": "https://www.oschina.net/news/145896/intel-in-talks-to-acquire-risc-v-firm-sifiv",
+          "publishedOn": "2021-06-14T01:53:53.000Z",
+          "wordCount": 516,
+          "title": "英特尔有意以 20 亿美元收购 RISC-V 公司 SiFive"
+        },
+        {
           "id": "https://www.oschina.net/p/autokey",
           "author": null,
           "description": "AutoKey 用来配置你的键盘，纠正常见的错别字，输入常用的短语等等，是一个开源的 Linux 桌面自动化工具。",
