@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T00:29:06.671Z</updated>
+    <updated>2021-06-14T01:57:35.560Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AutoKey —— Linux 键盘配置工具]]></title>
+        <id>https://www.oschina.net/p/autokey</id>
+        <link href="https://www.oschina.net/p/autokey"/>
+        <updated>2021-06-14T00:30:50.000Z</updated>
+        <summary type="html"><![CDATA[AutoKey 用来配置你的键盘，纠正常见的错别字，输入常用的短语等等，是一个开源的 Linux 桌面自动化工具。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 初窥鸿蒙]]></title>
+        <id>https://my.oschina.net/o2team/blog/5075771</id>
+        <link href="https://my.oschina.net/o2team/blog/5075771"/>
+        <updated>2021-06-14T00:26:47.000Z</updated>
+        <summary type="html"><![CDATA[鸿蒙即 HarmonyOS ，是华为公司推出的支持手机、平板、智能穿戴、智慧屏、车机等多种终端设备的分布式操作系统，并且它提供了多语言开发的 API，支持 Java、XML、C/C++、JS、CSS、HML（类 HTML 的鸿蒙自己的标记语言）等开发语言，而且它提供多种响应式布局方案，支持栅格化布局，可以使用同一套代码部署在手机手表平板等...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gitee 推荐 | 轻巧快速的 Linux 网速插件 lfxSpeed]]></title>
         <id>https://gitee.com/xmuli/lfxSpeed</id>
