@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T08:10:28.225Z</updated>
+    <updated>2021-06-14T09:09:33.571Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[请问如何获得一个 map 类型变量占用的内存呢]]></title>
+        <id>https://gocn.vip/topics/12189</id>
+        <link href="https://gocn.vip/topics/12189"/>
+        <updated>2021-06-14T08:16:57.000Z</updated>
+        <summary type="html"><![CDATA[比如我有一个变量：
+type item struct {
+    uid  uint64.
+    cost float64
+    hop   int
+    index int
+    path  route
+}
+mapData := make(map[uint64]map[uint64]item)
+
+我能取得 mapData 占用内存的大小吗]]></summary>
+        <author>
+            <name>chenli</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ActionsFlow – 高自定义，可替代  IFTTT 的自动化工作流工具，基于 Github Actions]]></title>
         <id>https://www.appinn.com/?p=39057</id>
