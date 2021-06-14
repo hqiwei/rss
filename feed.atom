@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T09:09:33.571Z</updated>
+    <updated>2021-06-14T10:10:30.921Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-13)]]></title>
+        <id>https://gocn.vip/topics/12190</id>
+        <link href="https://gocn.vip/topics/12190"/>
+        <updated>2021-06-14T09:33:31.000Z</updated>
+        <summary type="html"><![CDATA[Go 系统监控利器-gopsutil  https://gocn.vip/topics/12183
+
+Go 高性能系列教程之六：一些建议和实践  https://gocn.vip/topics/12187
+
+在 Go 中使用位掩码  https://www.ardanlabs.com/blog/2021/04/using-bitmasks-in-go.html
+
+Goroutine 泄漏 - 被遗弃的接收器  https://www.ardanlabs.com/blog/2018/12/goroutine-leaks-the-abandoned-receivers.html
+
+Go 初始化流程分析  https://juejin.cn/post/6969230952685895694
+
+
+
+
+编辑: czzsunnyman
+订阅新闻: http://tinyletter.com/gocn
+
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>cczsunnyman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[请问如何获得一个 map 类型变量占用的内存呢]]></title>
         <id>https://gocn.vip/topics/12189</id>
