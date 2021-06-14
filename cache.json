@@ -4451,15 +4451,6 @@
           "publishedOn": "2021-05-16T09:44:44.000Z",
           "wordCount": 1306,
           "title": "SilentNotes – 尊重隐私的开源便签，支持 WebDAV 同步、加密[Win/Android]"
-        },
-        {
-          "id": "https://www.appinn.com/?p=38822",
-          "author": "青小蛙",
-          "description": "来自论坛的“手搓大佬” @dangerace 同学最近分享了它一直自用，并且是自己开发的日历记事本。@Appinn 日历记事本 一个以“日历”为核心的记事本，附加了简单的人脉、提醒、备忘等功能，比较适",
-          "link": "https://www.appinn.com/rili-jishiben-for-windows/",
-          "publishedOn": "2021-05-15T11:30:00.000Z",
-          "wordCount": 1217,
-          "title": "手搓大佬也来分享一个自用多年的“日历记事本”"
         }
       ]
     },
@@ -4468,6 +4459,24 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://gitee.com/xmuli/lfxSpeed",
+          "author": null,
+          "description": "一款轻巧、快速的网速插件，可在 Deepin 商店 || 星火商店直接下载",
+          "link": "https://gitee.com/xmuli/lfxSpeed",
+          "publishedOn": "2021-06-14T00:23:35.000Z",
+          "wordCount": 456,
+          "title": "Gitee 推荐 | 轻巧快速的 Linux 网速插件 lfxSpeed"
+        },
+        {
+          "id": "https://www.oschina.net/news/145886/chrome-tab-groups-get-new-features",
+          "author": null,
+          "description": "去年 9 月，Google 宣布历时 19 个月开发的 “标签组” 功能正式上线，该功能随即成为 Chrome 最成功的 UI 创新之一。现在，Google 正在开发 “标签组” 相关的新功能。 第一个功能是保存已关闭选项卡的名称和组织，让用户可以轻松找到并重新打开之前关闭的单个和整个选项卡组。 此功能在 Chrome Canary 中的 “显示应用...",
+          "link": "https://www.oschina.net/news/145886/chrome-tab-groups-get-new-features",
+          "publishedOn": "2021-06-13T23:25:34.000Z",
+          "wordCount": 471,
+          "title": "Google 为 Chrome 标签组开发新功能"
+        },
         {
           "id": "https://www.oschina.net/news/145848/dubbo-3-0-come-soon",
           "author": null,

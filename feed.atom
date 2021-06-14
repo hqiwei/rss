@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T23:09:21.280Z</updated>
+    <updated>2021-06-14T00:29:06.671Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gitee 推荐 | 轻巧快速的 Linux 网速插件 lfxSpeed]]></title>
+        <id>https://gitee.com/xmuli/lfxSpeed</id>
+        <link href="https://gitee.com/xmuli/lfxSpeed"/>
+        <updated>2021-06-14T00:23:35.000Z</updated>
+        <summary type="html"><![CDATA[一款轻巧、快速的网速插件，可在 Deepin 商店 || 星火商店直接下载]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 为 Chrome 标签组开发新功能]]></title>
+        <id>https://www.oschina.net/news/145886/chrome-tab-groups-get-new-features</id>
+        <link href="https://www.oschina.net/news/145886/chrome-tab-groups-get-new-features"/>
+        <updated>2021-06-13T23:25:34.000Z</updated>
+        <summary type="html"><![CDATA[去年 9 月，Google 宣布历时 19 个月开发的 “标签组” 功能正式上线，该功能随即成为 Chrome 最成功的 UI 创新之一。现在，Google 正在开发 “标签组” 相关的新功能。 第一个功能是保存已关闭选项卡的名称和组织，让用户可以轻松找到并重新打开之前关闭的单个和整个选项卡组。 此功能在 Chrome Canary 中的 “显示应用...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日文章精选 2021 06 13]]></title>
         <id>http://www.linuxeden.com/?p=86456</id>
@@ -11462,16 +11482,6 @@ type Test struct {
         <link href="https://www.appinn.com/silentnotes/"/>
         <updated>2021-05-16T09:44:44.000Z</updated>
         <summary type="html"><![CDATA[SilentNotes 是一款尊重隐私的开源便签应用，支持 Windows 与 Android，并可通过 WebDAV、FTP、网盘等方式同步数据，端对端加密，WYSIWYG 编辑器，不收集个人数据，]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手搓大佬也来分享一个自用多年的“日历记事本”]]></title>
-        <id>https://www.appinn.com/?p=38822</id>
-        <link href="https://www.appinn.com/rili-jishiben-for-windows/"/>
-        <updated>2021-05-15T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[来自论坛的“手搓大佬” @dangerace 同学最近分享了它一直自用，并且是自己开发的日历记事本。@Appinn 日历记事本 一个以“日历”为核心的记事本，附加了简单的人脉、提醒、备忘等功能，比较适]]></summary>
         <author>
             <name>青小蛙</name>
         </author>
