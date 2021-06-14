@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T02:38:43.979Z</updated>
+    <updated>2021-06-14T03:13:23.138Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Seaweedfs 2.53 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86467</id>
+        <link href="http://www.linuxeden.com/a/86467"/>
+        <updated>2021-06-14T03:04:12.000Z</updated>
+        <summary type="html"><![CDATA[Filer when deleting a bucket, remove all bucket metadata for mysql and postgres filer stores. (mysql2, postgres2, and sq […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Commons-IO 2.10.0 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86462</id>
+        <link href="http://www.linuxeden.com/a/86462"/>
+        <updated>2021-06-14T02:57:14.000Z</updated>
+        <summary type="html"><![CDATA[Parent Directory                             – binaries/               2021-06-13 13:57    – source/         […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.13-rc6发布 新版内核发布周期临近]]></title>
+        <id>http://www.linuxeden.com/?p=86458</id>
+        <link href="http://www.linuxeden.com/a/86458"/>
+        <updated>2021-06-14T02:49:49.000Z</updated>
+        <summary type="html"><![CDATA[经过几周的5.13-rc的不断更新，其中的变化比Linus Torvalds希望看到的要多，Linux 5.13-rc6现在已经发布了，这一次的变化规模较小，而对于内核开发的后期阶段来说，这是一个好现象。Torvalds在5.13-rc6公 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英特尔有意以 20 亿美元收购 RISC-V 公司 SiFive]]></title>
         <id>https://www.oschina.net/news/145896/intel-in-talks-to-acquire-risc-v-firm-sifiv</id>

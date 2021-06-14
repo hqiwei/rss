@@ -1719,6 +1719,33 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=86467",
+          "author": "Editor, Kai",
+          "description": "Filer when deleting a bucket, remove all bucket metadata for mysql and postgres filer stores. (mysql2, postgres2, and sq […]",
+          "link": "http://www.linuxeden.com/a/86467",
+          "publishedOn": "2021-06-14T03:04:12.000Z",
+          "wordCount": 179,
+          "title": "Seaweedfs 2.53 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86462",
+          "author": "Editor, Kai",
+          "description": "Parent Directory                             – binaries/               2021-06-13 13:57    – source/         […]",
+          "link": "http://www.linuxeden.com/a/86462",
+          "publishedOn": "2021-06-14T02:57:14.000Z",
+          "wordCount": 292,
+          "title": "Commons-IO 2.10.0 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86458",
+          "author": "Editor, Kai",
+          "description": "经过几周的5.13-rc的不断更新，其中的变化比Linus Torvalds希望看到的要多，Linux 5.13-rc6现在已经发布了，这一次的变化规模较小，而对于内核开发的后期阶段来说，这是一个好现象。Torvalds在5.13-rc6公 […]",
+          "link": "http://www.linuxeden.com/a/86458",
+          "publishedOn": "2021-06-14T02:49:49.000Z",
+          "wordCount": 94,
+          "title": "Linux 5.13-rc6发布 新版内核发布周期临近"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86456",
           "author": "Editor, Kai",
           "description": "Linux 5.14 即将为英特尔独立显卡启用图形TTM内存管理初始位 7 年之久的 Linux 特权升级漏洞的补丁发布 15 个提高工作效率的 VS Code 键盘快捷键 4 位技术专家谈少数族群的技术职业 Python 3.9 如何修复 […]",
