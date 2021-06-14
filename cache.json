@@ -713,6 +713,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12191",
+          "author": "cloudy",
+          "description": "GoCN 每日新闻 (2021-06-14)\nGo 高性能系列教程之六：一些建议和实践 https://gocn.vip/topics/12187\n\nGo 模糊测试 beta 版准备好了 https://mp.weixin.qq.com/s/wR3B50lh5-CK5Zs9-zNnDg\n\ngo 学习笔记（二）派生类型 https://mp.weixin.qq.com/s/HAkcgwnLy3W2XT4YRXYcJg\n\n聊聊 Go 并发安全 https://mp.weixin.qq.com/s/ybW8sW7Xq6XpqQzMQlIlHA\n\nGo 语言学习路线来啦 https://mp.weixin.qq.com/s/aU5WqMxVS2vgGLGedZEu7w\n\n\n\n\n\nGopherChina 倒计时 13 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n编辑: cloudy\n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12191",
+          "publishedOn": "2021-06-14T15:07:35.000Z",
+          "wordCount": 108,
+          "title": "GoCN 每日新闻 (2021-06-14)"
+        },
+        {
           "id": "https://gocn.vip/topics/12190",
           "author": "cczsunnyman",
           "description": "Go 系统监控利器-gopsutil  https://gocn.vip/topics/12183\n\nGo 高性能系列教程之六：一些建议和实践  https://gocn.vip/topics/12187\n\n在 Go 中使用位掩码  https://www.ardanlabs.com/blog/2021/04/using-bitmasks-in-go.html\n\nGoroutine 泄漏 - 被遗弃的接收器  https://www.ardanlabs.com/blog/2018/12/goroutine-leaks-the-abandoned-receivers.html\n\nGo 初始化流程分析  https://juejin.cn/post/6969230952685895694\n\n\n\n\n编辑: czzsunnyman\n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
@@ -1736,6 +1745,42 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=86490",
+          "author": "Editor, Kai",
+          "description": "Linux、Python 的 Freenode IRC 频道也被关闭了 如何在 Ubuntu Linux 上安装 Code Blocks IDE Linux 5.14内核主线预计能够与Raspberry Pi 400实现兼容 Alibaba […]",
+          "link": "http://www.linuxeden.com/a/86490",
+          "publishedOn": "2021-06-14T14:46:37.000Z",
+          "wordCount": 129,
+          "title": "每日文章精选 2021 06 14"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86487",
+          "author": "Editor, Kai",
+          "description": "在 Freenode IRC 服务器管理权被某韩国王室继承人夺走之后，开源社区的 IRC 频道纷纷主动搬走或被迫关闭了其在 Freenode 上的频道。运行了 22 年之久的 ##linux 频道已经被 Freenode 查封，同样被查封的 […]",
+          "link": "http://www.linuxeden.com/a/86487",
+          "publishedOn": "2021-06-14T14:43:40.000Z",
+          "wordCount": 131,
+          "title": "Linux、Python 的 Freenode IRC 频道也被关闭了"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86480",
+          "author": "Editor, Kai",
+          "description": "Code Blocks 是一个用 C++ 编写的开源 IDE，非常适合 C、C++ 和 Fortran 开发。它是跨平台的，可以在 Linux、macOS 和 Windows 上运行。 Code Blocks 是轻量级和快速的。它支持工作区 […]",
+          "link": "http://www.linuxeden.com/a/86480",
+          "publishedOn": "2021-06-14T14:32:25.000Z",
+          "wordCount": 271,
+          "title": "如何在 Ubuntu Linux 上安装 Code Blocks IDE"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86474",
+          "author": "Editor, Kai",
+          "description": "去年11月推出的Raspberry Pi 400是一款Raspberry Pi键盘电脑，它实际上是将Raspberry Pi 4 SBC嵌入到键盘中，并整合到一个大铝块上。对于一贯简约的树莓派产品而言，这是一个很好的小设备，并且从Linux […]",
+          "link": "http://www.linuxeden.com/a/86474",
+          "publishedOn": "2021-06-14T14:12:31.000Z",
+          "wordCount": 127,
+          "title": "Linux 5.14内核主线预计能够与Raspberry Pi 400实现兼容"
+        },
         {
           "id": "http://www.linuxeden.com/?p=86471",
           "author": "Editor, Kai",
