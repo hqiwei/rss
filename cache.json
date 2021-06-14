@@ -6,6 +6,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60873d1fdd38b9088c2c0842",
+          "author": null,
+          "description": "System Design is an important topic to understand if you want to advance further in your career as a software engineer. Even if you are just beginning your coding journey, it's a good idea to get a head start on learning about system design.  Early in your career you will",
+          "link": "https://www.freecodecamp.org/news/system-design-interview-practice-tutorial/",
+          "publishedOn": "2021-06-14T22:46:31.000Z",
+          "wordCount": 2704,
+          "title": "System Design Interview Tutorial – The Beginner&#x27;s Guide to System Design"
+        },
+        {
+          "id": "60c3b862d3126007592d689b",
+          "author": null,
+          "description": "Have you ever used the CSS order or direction properties? You've probably used them dozens of times, but did you realize that these properties will cause a disconnect between what's being displayed and what's actually in the DOM? Using the order property will create a disconnect between the visual presentation",
+          "link": "https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/",
+          "publishedOn": "2021-06-14T20:15:00.000Z",
+          "wordCount": 1297,
+          "title": "HTML Roving tabindex Attribute Explained with Examples"
+        },
+        {
           "id": "60c794e64dc1a607ed7b25ba",
           "author": null,
           "description": "A while ago, I was doing side gig for a client who had a website hosted on Squarespace. They asked me to implement an advanced design for a page that wasn't possible with the site's current DIY tools. For an experienced and battle-tested web developer like me, this was a",
