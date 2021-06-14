@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T05:13:45.092Z</updated>
+    <updated>2021-06-14T06:11:21.450Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ActionsFlow – 高自定义，可替代  IFTTT 的自动化工作流工具，基于 Github Actions]]></title>
+        <id>https://www.appinn.com/?p=39057</id>
+        <link href="https://www.appinn.com/actionsflow/"/>
+        <updated>2021-06-14T04:52:12.000Z</updated>
+        <summary type="html"><![CDATA[ActionsFlow 是一款帮助你实现自动化工作流程的工具，可以用来替代 IFTTT、Zapier 等商业服务，基于 Github Actions，免费实现自动化。@Appinn 来自发现频道，@S]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源美图 2021 06 14]]></title>
         <id>http://www.linuxeden.com/?p=86471</id>
