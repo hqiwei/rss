@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T21:08:39.165Z</updated>
+    <updated>2021-06-14T22:10:34.666Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -11702,16 +11702,6 @@ type Test struct {
         <link href="https://www.appinn.com/pasteex-for-windows/"/>
         <updated>2021-05-17T03:50:44.000Z</updated>
         <summary type="html"><![CDATA[PasteEx 是一款能够在粘贴时自动生成文件的 Windows 工具，比如将剪贴板内的文本内容，粘贴为 txt 文件；将剪贴板内的图像，粘贴为 png/jpg 格式。@Appinn 大概很多年前，小]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SilentNotes – 尊重隐私的开源便签，支持 WebDAV 同步、加密[Win/Android]]]></title>
-        <id>https://www.appinn.com/?p=38825</id>
-        <link href="https://www.appinn.com/silentnotes/"/>
-        <updated>2021-05-16T09:44:44.000Z</updated>
-        <summary type="html"><![CDATA[SilentNotes 是一款尊重隐私的开源便签应用，支持 Windows 与 Android，并可通过 WebDAV、FTP、网盘等方式同步数据，端对端加密，WYSIWYG 编辑器，不收集个人数据，]]></summary>
         <author>
             <name>青小蛙</name>
         </author>
