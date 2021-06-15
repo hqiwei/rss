@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T04:12:21.378Z</updated>
+    <updated>2021-06-15T05:13:37.642Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[无需公网，低成本快速实现外网访问内网、实现远程控制、穿透群晖nas]]></title>
+        <id>https://www.appinn.com/?p=39065</id>
+        <link href="https://www.appinn.com/xiaomy-202106/"/>
+        <updated>2021-06-15T04:32:13.000Z</updated>
+        <summary type="html"><![CDATA[很多人都想随时随地能轻松远程访问家里的 NAS (私人网盘/共享文件)，或连接电脑远程桌面控制、访问公司内部 OA 系统，还有一些摄像头、树莓派等设备也希望能在公网直接访问。 但可惜的是，大家的宽带基]]></summary>
+        <author>
+            <name>开发者推荐账号</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【上海】米哈游急招 Golang 工程师、其他岗位也有]]></title>
         <id>https://gocn.vip/topics/12193</id>
