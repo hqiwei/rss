@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T22:09:30.724Z</updated>
+    <updated>2021-06-15T23:09:39.122Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12069,16 +12069,6 @@ fun…]]></summary>
 招聘专区: https:/…]]></summary>
         <author>
             <name>azhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hunt Framework 3.4.4 发布，D 语言 Web 服务框架！]]></title>
-        <id>https://www.oschina.net/news/141896/hunt-framework-3-4-4-released</id>
-        <link href="https://www.oschina.net/news/141896/hunt-framework-3-4-4-released"/>
-        <updated>2021-05-17T10:14:21.000Z</updated>
-        <summary type="html"><![CDATA[Hunt Framework 是一个全栈 D语言 Web 服务框架，框架完全使用 DLang 编写，从底层的 io 设计到协议解析再到框架层完全是自己设计研发，并在使用的便捷性上吸取了其他语言框架的优势，比如 Django 的模板引擎和 Middleware 机制，再比如 Laravel 的依赖输入架构等，让一个完全使用编译型高性能语言开发出来的框架灵活的像...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
