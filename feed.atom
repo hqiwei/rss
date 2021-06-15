@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T17:29:06.568Z</updated>
+    <updated>2021-06-15T18:13:45.473Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python Decorators – How to Create and Use Decorators in Python With Examples]]></title>
+        <id>60c3dcb3d3126007592d6c6d</id>
+        <link href="https://www.freecodecamp.org/news/python-decorators-explained-with-examples/"/>
+        <updated>2021-06-15T17:57:54.000Z</updated>
+        <summary type="html"><![CDATA[Python decorators allow you to change the behavior of a function without modifying the function itself. In this article I will show you how to create and use decorators. You will see how easy it is to use this advanced Python feature. In this article I will discuss the following]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Strangler Fig Pattern and How it Helps Manage Legacy Code]]></title>
+        <id>602aaaf60a2838549dcc5c7f</id>
+        <link href="https://www.freecodecamp.org/news/what-is-the-strangler-pattern-in-software-development/"/>
+        <updated>2021-06-15T17:43:43.000Z</updated>
+        <summary type="html"><![CDATA[Any sufficiently old codebase eventually starts to contain legacy code. Architecture, performance, comments, and more begin to degrade the moment after they are written. Some parts of the codebase last longer than other parts, but inevitably new coding standards emerge to reduce technical debt. Then you have to rework a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Open Any Repo in VS Code Without Cloning It]]></title>
         <id>60b7cb6aacb62507dd1d7c1a</id>
