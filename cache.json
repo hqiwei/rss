@@ -4676,6 +4676,33 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/145982/what-happens-to-a-programmers-career-as-he-gets",
+          "author": null,
+          "description": "随着年龄的增长，程序员的职业生涯会发生什么变化？对于 45-50 岁左右的编程经历，你有什么故事或建议分享吗？如何在那之前规划自己的职业生涯？美国和欧洲在这个问题上有什么不同吗？ 上面是近日在 Reddit 上十分火热的一则帖子，许多“高龄”程序员在这篇帖子的评论中分享了自己的故事和经历，或是根据自己的实验提供了...",
+          "link": "https://www.oschina.net/news/145982/what-happens-to-a-programmers-career-as-he-gets",
+          "publishedOn": "2021-06-15T00:56:05.000Z",
+          "wordCount": 468,
+          "title": "60 岁程序员的职业生涯"
+        },
+        {
+          "id": "https://www.oschina.net/news/145979/komodor-closes-21m-funding-round",
+          "author": null,
+          "description": "Komodor 宣布获得 2100 万美元的 A 轮融资，这是一个简化 Kubernetes 故障排除的平台。 本轮融资由 Accel 领投，其他天使投资人包括 GitHub 的 CTO Jason Warner、Sri Viswanath、Atlassian 首席技术官、Snyk 联合创始人 Danny Grander、Logz.io 首席执行官 Tomer Levy 以及 Aqua Security 联合创始人 Amir Jerbi。 Komo...",
+          "link": "https://www.oschina.net/news/145979/komodor-closes-21m-funding-round",
+          "publishedOn": "2021-06-15T00:41:52.000Z",
+          "wordCount": 532,
+          "title": "Kubernetes 故障排除平台 Komodor 获 2100 万美元融资"
+        },
+        {
+          "id": "https://www.oschina.net/news/145977/ubuntu-pro-available-on-google-cloud",
+          "author": null,
+          "description": "在 2019 年底，Ubuntu Pro 就已登陆亚马逊 EC2（Amazon Elastic Compute Cloud）。Ubuntu Pro 具有十年的软件更新/安全更新、内核实时补丁、Canonical Landscape 集成等特性。今天，Google 和 Canonical 共同宣布，Ubuntu Pro 将登陆 Google Cloud 平台。 目前，Ubuntu Pro 已经可以在 Google Cloud 上使用，以更高级的 ...",
+          "link": "https://www.oschina.net/news/145977/ubuntu-pro-available-on-google-cloud",
+          "publishedOn": "2021-06-15T00:35:29.000Z",
+          "wordCount": 550,
+          "title": "Google 与 Canonical 合作将 Ubuntu Pro 带到 Google Cloud 上"
+        },
+        {
           "id": "https://www.oschina.net/news/145976/raspberry-pi-400-linux-5-14",
           "author": null,
           "description": "从 Linux 5.14 开始，Raspberry Pi 400 或将可以与主线内核完美兼容。Raspberry Pi 400 是树莓派基金会于 2020 年 11 月发布的一款别具一格的新品单板计算机；其外观看起来就是一块小键盘，开发板集成在键盘内部。官方表示其性能比 Raspberry Pi 4 还要略高。 Raspberry Pi 400 实际上是将 Raspberry Pi 4 SBC 嵌入到键盘...",
@@ -7841,6 +7868,15 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=34814",
+          "author": "大眼仔~旭",
+          "description": "免费文本代码编辑器 Text Editor Pro 中文版由大眼仔~旭发布。功能强大的文本编辑工具，语法高亮支 […]",
+          "link": "http://www.dayanzai.me/text-editor-pro.html",
+          "publishedOn": "2021-06-13T16:38:57.000Z",
+          "wordCount": 709,
+          "title": "免费文本代码编辑器 Text Editor Pro 16.0.0 + x64 中文多语免费版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=8376",
           "author": "大眼仔~旭",
