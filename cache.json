@@ -1872,15 +1872,6 @@
           "publishedOn": "2021-05-17T08:05:49.000Z",
           "wordCount": 839,
           "title": "【深度】阿里巴巴万级规模 K8s 集群全局高可用体系之美"
-        },
-        {
-          "id": "https://gocn.vip/topics/12078",
-          "author": "Tiki",
-          "description": "查询数据时给字段设置别名，请问使用 GORM 如何把别名字段的值读取到结构体中？\n表结构\nDROP TABLE IF EXISTS \"test\".\"test\";\nCREATE TABLE \"test\".\"test\" (\n  \"id\" varchar(32) NOT NULL,\n  \"name\" varchar(255) COLLATE \"pg_catalog\".\"default\",\n  \"remark\" varchar(255) COLLATE \"pg_catalog\".\"default\"\n);\nALTER TABLE \"test\".\"test\" ADD CONSTRAINT \"test_pkey\" PRIMARY KEY (\"id\");\n\n表对应模型结构体\ntype Test struct {\n    ID     string  `gorm:\"column:id;type:varchar(32);primaryKey;comment:唯一 ID，流水号\" json:\"id\"` // 唯一 ID，流水号\n    Name   string `gorm:\"column:name;type:varchar(25…",
-          "link": "https://gocn.vip/topics/12078",
-          "publishedOn": "2021-05-17T07:00:02.000Z",
-          "wordCount": 177,
-          "title": "GORM 如何读取别名字段的值"
         }
       ]
     },

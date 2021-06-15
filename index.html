@@ -14177,30 +14177,6 @@ ASI 单集群规模支撑超过社区的 5000 台，这是个非常有意思且�
                 </a>
               </details>
             </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">GORM 如何读取别名字段的值</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12078">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>查询数据时给字段设置别名，请问使用 GORM 如何把别名字段的值读取到结构体中？
-表结构
-DROP TABLE IF EXISTS &quot;test&quot;.&quot;test&quot;;
-CREATE TABLE &quot;test&quot;.&quot;test&quot; (
-  &quot;id&quot; varchar(32) NOT NULL,
-  &quot;name&quot; varchar(255) COLLATE &quot;pg_catalog&quot;.&quot;default&quot;,
-  &quot;remark&quot; varchar(255) COLLATE &quot;pg_catalog&quot;.&quot;default&quot;
-);
-ALTER TABLE &quot;test&quot;.&quot;test&quot; ADD CONSTRAINT &quot;test_pkey&quot; PRIMARY KEY (&quot;id&quot;);
-
-表对应模型结构体
-type Test struct {
-    ID     string  &#x60;gorm:&quot;column:id;type:varchar(32);primaryKey;comment:唯一 ID，流水号&quot; json:&quot;id&quot;&#x60; // 唯一 ID，流水号
-    Name   string &#x60;gorm:&quot;column:name;type:varchar(25…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
         </section>
       </li>
       <li class="source">
@@ -14235,7 +14211,7 @@ type Test struct {
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-06-15T18:13:45.407Z">2021-06-15T18:13:45.407Z</time>
+    <time id="build-timestamp" datetime="2021-06-15T19:10:41.950Z">2021-06-15T19:10:41.950Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.10.2</a></span>
   </footer>
   <script src="index.js"></script>

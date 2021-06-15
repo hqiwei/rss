@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T18:13:45.473Z</updated>
+    <updated>2021-06-15T19:10:41.990Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12112,29 +12112,6 @@ fun…]]></summary>
 ASI 单集群规模支撑超过社区的 5000 台，这是个非常有意思且具备极大挑战的事情，对需要进行 K8s 生产化的同学，甚至具备 K8s 生产化经验的同学来说，一定会是个感兴趣的话题。回看 ASI 单集群规模从 100 到 10000 的发展之路，伴随着业务的增长和创新带来的每一次集群规模增长，都…]]></summary>
         <author>
             <name>alicloudnative</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GORM 如何读取别名字段的值]]></title>
-        <id>https://gocn.vip/topics/12078</id>
-        <link href="https://gocn.vip/topics/12078"/>
-        <updated>2021-05-17T07:00:02.000Z</updated>
-        <summary type="html"><![CDATA[查询数据时给字段设置别名，请问使用 GORM 如何把别名字段的值读取到结构体中？
-表结构
-DROP TABLE IF EXISTS "test"."test";
-CREATE TABLE "test"."test" (
-  "id" varchar(32) NOT NULL,
-  "name" varchar(255) COLLATE "pg_catalog"."default",
-  "remark" varchar(255) COLLATE "pg_catalog"."default"
-);
-ALTER TABLE "test"."test" ADD CONSTRAINT "test_pkey" PRIMARY KEY ("id");
-
-表对应模型结构体
-type Test struct {
-    ID     string  `gorm:"column:id;type:varchar(32);primaryKey;comment:唯一 ID，流水号" json:"id"` // 唯一 ID，流水号
-    Name   string `gorm:"column:name;type:varchar(25…]]></summary>
-        <author>
-            <name>Tiki</name>
         </author>
     </entry>
 </feed>
