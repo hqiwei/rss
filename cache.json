@@ -4712,6 +4712,33 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/146077",
+          "author": null,
+          "description": "6月10日，以“创造最好的OS，成就更好的我们”为主题的 openEuler Developer Day 2021在北京成功举行。本次大会由openEuler社区发起，是面向开发者的一场技术盛会，在为期一天的时间里，各行业组织专家、学者、企业领袖和开发者们围绕多样性计算、云原生全栈、全场景协同等技术方向进行深度的交流与探讨。 大会现场，新增...",
+          "link": "https://www.oschina.net/news/146077",
+          "publishedOn": "2021-06-15T08:06:38.000Z",
+          "wordCount": 535,
+          "title": "新增电信、联通等四家企业为 openEuler 理事会成员，百度正式加入社区"
+        },
+        {
+          "id": "https://www.oschina.net/news/146060",
+          "author": null,
+          "description": "关于 Apache Pulsar Apache Pulsar 是 Apache 软件基金会顶级项目，是下一代云原生分布式消息流平台，集消息、存储、轻量化函数式计算为一体，采用计算与存储分离架构设计，支持多租户、持久化存储、多机房跨区域数据复制，具有强一致性、高吞吐、低延时及高可扩展性等流数据存储特性。 GitHub 地址：http://github.com...",
+          "link": "https://www.oschina.net/news/146060",
+          "publishedOn": "2021-06-15T07:25:09.000Z",
+          "wordCount": 787,
+          "title": "Pulsar 社区周报｜2021-05-31～2021-06-06"
+        },
+        {
+          "id": "https://www.oschina.net/event/2322865",
+          "author": null,
+          "description": "长安链是在科技部、工信部、国资委等国家部委及北京市政府的指导下发布的国内首个自主可控的区块链软硬件技术体系。自发布以来，秉持开源开放的理念，在底层核心技术和软件平台研发及开源生态构建上持续投入，不断响应号召，为区块链产业深化与创新发展提供新动能。",
+          "link": "https://www.oschina.net/event/2322865",
+          "publishedOn": "2021-06-15T07:20:24.000Z",
+          "wordCount": 209,
+          "title": "揭秘长安链，“核心开发者说”系列活动重磅开启"
+        },
+        {
           "id": "https://www.oschina.net/news/145982/what-happens-to-a-programmers-career-as-he-gets",
           "author": null,
           "description": "随着年龄的增长，程序员的职业生涯会发生什么变化？对于 45-50 岁左右的编程经历，你有什么故事或建议分享吗？如何在那之前规划自己的职业生涯？美国和欧洲在这个问题上有什么不同吗？ 上面是近日在 Reddit 上十分火热的一则帖子，许多“高龄”程序员在这篇帖子的评论中分享了自己的故事和经历，或是根据自己的实验提供了...",
