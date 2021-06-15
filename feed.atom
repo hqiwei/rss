@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T20:09:22.182Z</updated>
+    <updated>2021-06-15T21:08:17.406Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12049,49 +12049,6 @@ fun…]]></summary>
         <summary type="html"><![CDATA[Hunt Framework 是一个全栈 D语言 Web 服务框架，框架完全使用 DLang 编写，从底层的 io 设计到协议解析再到框架层完全是自己设计研发，并在使用的便捷性上吸取了其他语言框架的优势，比如 Django 的模板引擎和 Middleware 机制，再比如 Laravel 的依赖输入架构等，让一个完全使用编译型高性能语言开发出来的框架灵活的像...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[因你不同，2021 阿里云开发者大会重磅开启 @ 所有开发者！]]></title>
-        <id>https://gocn.vip/topics/12080</id>
-        <link href="https://gocn.vip/topics/12080"/>
-        <updated>2021-05-17T08:14:19.000Z</updated>
-        <summary type="html"><![CDATA[来源 | 阿里巴巴云原生公众号
-它来了！它来了！
-2021 年度阿里云开发者大会终于开始报名啦！
-
-每一个时代都有属于自己的英雄
-而在云时代
-开发者就是数字创新的践行者、
-是这个时代的英雄
-他们正在用自己独特的面孔参与到数字时代的建设中
-
-我们希望能够与开发者们
-共同成长、共同定义、共同分享云时代的发展
-“分享是一种快乐”
-我们也希望把这份快乐带给更多的人
-所以才有了这次的 2021 阿里云开发者大会
-
-科技赋能社会
-技术推动变革
-无论你是怀揣着对技术的热爱
-还是带着对技术的探求心
-这一次的开发者大会你都不容错过
-
-数字时代，如何更好地利用云的能力？
-什么是新型、便捷的开发模式？
-如何让开发者更高效地构建应用？
-······
-以上问题
-你都将在本次开发者大会上得到想要的答案
-
-一切，因云而不同，因开发者们而不同
-扫描下方图片二维码
-或直接点击下方图片
-即可报名活动啦~
-名额有限，先到先得！]]></summary>
-        <author>
-            <name>alicloudnative</name>
         </author>
     </entry>
 </feed>
