@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T21:08:17.406Z</updated>
+    <updated>2021-06-15T22:09:30.724Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineering Course for Beginners]]></title>
+        <id>60c91b2b4dc1a607ed7b389a</id>
+        <link href="https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/"/>
+        <updated>2021-06-15T21:33:17.000Z</updated>
+        <summary type="html"><![CDATA[DevOps is becoming an in-demand role at many software companies. We just released a DevOps Engineering course on the freeCodeCamp.org YouTube channel. Learn all about DevOps in this comprehensive course for beginners with three technical tutorials. Colin Chartier created this course. He is the co-founder and CEO at LayerCI.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does &#x27;this&#x27; Mean in JavaScript? The this Keyword Explained with Examples]]></title>
+        <id>60c72a0ad3126007592d7e2a</id>
+        <link href="https://www.freecodecamp.org/news/what-is-this-in-javascript/"/>
+        <updated>2021-06-15T21:19:12.000Z</updated>
+        <summary type="html"><![CDATA[To understand what this truly means in JavaScript, let's take a look at a very similar concept in the English Language: Polysemy. Let's consider the word "run". Run is a single word which could mean many different things depending on the context. “I will run home” – means to move quickly]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What to Charge as a Freelance Developer – and Why You Should Avoid Being the Cheapest]]></title>
+        <id>60c8912c4dc1a607ed7b2fff</id>
+        <link href="https://www.freecodecamp.org/news/what-to-charge-as-a-freelance-developer-dont-be-the-cheapest/"/>
+        <updated>2021-06-15T21:10:54.000Z</updated>
+        <summary type="html"><![CDATA[As a freelance developer, knowing how much to charge for a project can often feel like a gamble. It's easy to wonder "Am I setting my price too high?" This is normally the first question that comes to mind. And your brain will probably meet this question with a resounding]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python Decorators – How to Create and Use Decorators in Python With Examples]]></title>
         <id>60c3dcb3d3126007592d6c6d</id>
