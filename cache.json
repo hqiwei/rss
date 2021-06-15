@@ -758,6 +758,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12192",
+          "author": "chcoball",
+          "description": "本人 go 小白一枚，求推荐好的 go 开源项目学习，有兴趣交流可联系：hr@test.dibiantech.com",
+          "link": "https://gocn.vip/topics/12192",
+          "publishedOn": "2021-06-15T02:48:23.000Z",
+          "wordCount": 76,
+          "title": "求好的 go 开源项目"
+        },
+        {
           "id": "https://gocn.vip/topics/12191",
           "author": "cloudy",
           "description": "GoCN 每日新闻 (2021-06-14)\nGo 高性能系列教程之六：一些建议和实践 https://gocn.vip/topics/12187\n\nGo 模糊测试 beta 版准备好了 https://mp.weixin.qq.com/s/wR3B50lh5-CK5Zs9-zNnDg\n\ngo 学习笔记（二）派生类型 https://mp.weixin.qq.com/s/HAkcgwnLy3W2XT4YRXYcJg\n\n聊聊 Go 并发安全 https://mp.weixin.qq.com/s/ybW8sW7Xq6XpqQzMQlIlHA\n\nGo 语言学习路线来啦 https://mp.weixin.qq.com/s/aU5WqMxVS2vgGLGedZEu7w\n\n\n\n\n\nGopherChina 倒计时 13 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n编辑: cloudy\n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs",
@@ -4344,6 +4353,15 @@
       "feedUrl": "http://feed.appinn.com",
       "siteUrl": "https://www.appinn.com",
       "articles": [
+        {
+          "id": "https://www.appinn.com/?p=39061",
+          "author": "青小蛙",
+          "description": "通知播报助手是一款可以通过语音，自动读出手机通知的 Android 应用，包括微信、QQ、来电、短信、蓝牙连接状态、电池状态、整点报时等内容，方便在不便看手机的时候也能获取最新信息。@Appinn 这",
+          "link": "https://www.appinn.com/tongzhi-bobao-zhushou-for-android/",
+          "publishedOn": "2021-06-15T02:52:00.000Z",
+          "wordCount": 1098,
+          "title": "通知播报助手 – 用语音自动读出手机通知：微信、QQ、来电、短信、蓝牙、电池状态等[Android]"
+        },
         {
           "id": "https://www.appinn.com/?p=39057",
           "author": "青小蛙",
