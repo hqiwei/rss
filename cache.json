@@ -758,6 +758,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12194",
+          "author": "alicloudnative",
+          "description": "作者｜ 赵明山（立衡）\n​\n\n前言\n​\nOpenKruise 是阿里云开源的云原生应用自动化管理套件，也是当前托管在 Cloud Native Computing Foundation ( CNCF ) 下的 Sandbox 项目。它来自阿里巴巴多年来容器化、云原生的技术沉淀，是阿里内部生产环境大规模应用的基于 Kubernetes 之上的标准扩展组件，也是紧贴上游社区标准、适应互联网规模化场景的技术理念与最佳实践。\n​\nOpenKruise 在 2021.5.20 发布了最新的 v0.9.0 版本（ ChangeLog ），上一篇文章我们介绍了新增 Pod 重启、删除防护等重磅功能，今天向大家介绍另一个核心特性，即 SidecarSet 基于上一个版本扩展了特别针对 Service Mesh 场景的支持。\n​\n背景：如何独立升级 Mesh 容器\n​\nSidecarSet 是 Kruise 提供的独立管理 Sidecar 容器的 workload。用户通过 SidecarSet 能够便利的完成对 Sidecar 容器的自动注入和独立升级，详情请参考：OpenKruise 官网\n​\n默认情况下，Sidecar 的独立升级顺序是先停止旧版本的容器，然后再创建新版本的容器。这种方式尤其适合不影响 Pod 服务可用性的 Sidecar 容器，例如日志收集  agent ，但是对于很多代理或运行时的 Sidecar 容器，如 Istio Envoy，这种升级方法就有问题了。Envoy 作为 Pod 中的一个 Proxy 容器代理了所有的流量，这种场景下如果直接重启升级，Pod 服务的可用性必然会受到影响，因此需要考虑应用自身的发布和容量情况，无法完全独立于应用做 Sidecar 的发布。\n​\n阿里巴巴集团内部拥有上万的 Pod 都是基于 Service Mesh 来实现相互间的通信，…",
+          "link": "https://gocn.vip/topics/12194",
+          "publishedOn": "2021-06-15T09:11:29.000Z",
+          "wordCount": 688,
+          "title": "OpenKruise ：SidecarSet 助力 Mesh 容器热升级"
+        },
+        {
           "id": "https://gocn.vip/topics/12193",
           "author": "gocnzhan",
           "description": "联系方式\n微信 base64: enk0NjAxNjAyMzE=\n有意向私聊\nGolang 后端开发\n岗位职责：\n1、负责用户社区及通行证系统的开发及维护；\n2、负责游戏 SDK 和平台基础服务及组件的开发；\n3、负责游戏官网和活动相关平台的开发；\n4、负责公司内部游戏运营平台和协作效率工具开发；\n5、负责基础应用框架的维护和迭代，完善和优化服务治理系统，参与技术文档的编写。\n岗位要求：\n1、本科以上学历，有两年以上的服务端开发经验者优先；\n2、熟悉 Go 语言，有实际使用 Go 语言项目开发经验；\n3、对微服务架构有一定程度的研究并有开发经验，在服务治理，服务监控方面有相关经验；\n4、熟悉 Web 技术栈和 Web 应用开发，包括 HTTP、安全、数据库、缓存、消息队列等；\n5、熟悉 SQL 和数据库设计，具备 mysql 数据库设计和性能优化经验；熟悉主流非关系性数据库、缓存技术，例如：Redis、MongoDB、Memcached 等；\n6、掌握基本的前端知识 js、ajax 等，了解前后端分离架构；\n7、了解 Linux/Unix 系统常用命令，了解 docker、kubernetes 等容器技术；\n8、有高并发，海量用户经验优先。\n其他岗位\n国内岗位\n\n海外岗位",
