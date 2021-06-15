@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T11:08:06.941Z</updated>
+    <updated>2021-06-15T12:13:40.812Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-15)]]></title>
+        <id>https://gocn.vip/topics/12195</id>
+        <link href="https://gocn.vip/topics/12195"/>
+        <updated>2021-06-15T11:28:47.000Z</updated>
+        <summary type="html"><![CDATA[从零学 Go：列表与字典 https://juejin.cn/post/6972316925795762183
+
+Go 1.16 如何使用 go:embed 资源文件内嵌功能 https://blog.jetbrains.com/go/2021/06/09/how-to-use-go-embed-in-go-1-16/
+
+Golang 如何调度你的程序的 https://juejin.cn/post/6972893426425528357
+
+初探 Golang ReverseProxy 源码 https://coderdao.github.io/2021/06/13/%E5%88%9D%E6%8E%A2-ReverseProxy-%E6%BA%90%E7%A0%81/
+
+在终端以幻灯片方式阅读 Markdown 文件 https://github.com/maaslalani/slides
+
+
+
+GopherChina 倒计时 12 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ
+编辑: samurai
+订阅新闻: http://tinyletter.com/gocn
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>samurai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenKruise ：SidecarSet 助力 Mesh 容器热升级]]></title>
         <id>https://gocn.vip/topics/12194</id>
