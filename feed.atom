@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T16:17:23.125Z</updated>
+    <updated>2021-06-16T17:27:28.830Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Teach Yourself Data Analytics in 30 Days]]></title>
+        <id>60ca30af4dc1a607ed7b4197</id>
+        <link href="https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/"/>
+        <updated>2021-06-16T17:19:31.000Z</updated>
+        <summary type="html"><![CDATA[You can learn the basics of Data Analytics with 30 days of practice.  We just released a Data Analytics course on the freeCodeCamp.org YouTube channel. The course includes a 40-minute video, as well as a website and Jupyter notebooks. If you follow the plan laid out in these course]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go 开发工程师：迎接上升风口，踏入蓝海行业！]]></title>
+        <id>https://gocn.vip/topics/12209</id>
+        <link href="https://gocn.vip/topics/12209"/>
+        <updated>2021-06-16T16:58:40.000Z</updated>
+        <summary type="html"><![CDATA[Go 开发工程师：迎接上升风口，踏入蓝海行业！
+适合零基础小白学习吗
+小同学，当你问出这句话的时候，就说明你已经不是小白了，你是个很有主见的 “大人” 了，要是你问零基础适合学习么？我肯定的告诉你：非常适合，而且要相信自己不是小白，而是小牛~祝你更进一步，加油~
+课程中的项目是真的企业级/商业级项目么？
+同学这个问题是我见过问得最有水平的问题了~ 确实网络上充斥了很多美其名曰 “企业级/商业项目”，然而当你咨询想要体验一下项目效果，这么最低的标准都达不到，也就是网络充斥很多打着 “企业级” 名号的耍流氓项目，他们连最低的企业级标准 -- 可部署可上线标准都达不到！ 那么，同学想一下这个问题：什么样的标准才能称之为 “企业级/商业级”?那么我认为有如下几点标准必须符合： 1、【最低标准】可部署可上线（课程两个分别打开微信，搜索 “租辆酷车”、“波哥电商” 体验项目）2、 真正的三端分离项目（两项目都符合，以微商城举例）3、 满足企业真实的开发场景（以共享出行项目为例）（1）先进的 google 设计理念 + 架构实践（2）符合当前最前卫的开发流程（3）“敏捷开发”、“领域驱动 DDD” 等的最佳实践 4、 符合企业标准架构演进：从三端分离到微服务化项目迭代（1）微电商项目（前端 + 后端 + 后台管理-->搜索微服务化）（2）共享出行项目（Typescript 前端 + 后端 +Vue3.0 后台管理-->云原生微服务）
+超清原画 完整无密 网盘下载
+点击下载：Go 开发工程师：迎接上升风口，踏入蓝海行业！]]></summary>
+        <author>
+            <name>qiusuo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日文章精选 2021 06 16]]></title>
         <id>http://www.linuxeden.com/?p=86540</id>
@@ -12557,73 +12583,6 @@ https://github.com/alibaba/v6d
         <summary type="html"><![CDATA[更新日志： [新增] layui._typeof(operand) / layui._isArray(obj) 两个基础方法。 分别为"获取详细数据类型"、"对象是否为泛数组" [重写] layui.each() 基础方法，以兼容各种对象遍历 [修复] layui.sort(obj) 基础方法，在比较某些值相等时出现排序异常的问题 [修复] form 组件当 layui-form 元素出现层级嵌套，其提交的...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go 语言开源社区系统 BBS-GO 3.2.6 发布，新增反作弊系统]]></title>
-        <id>https://gocn.vip/topics/12084</id>
-        <link href="https://gocn.vip/topics/12084"/>
-        <updated>2021-05-18T04:44:59.000Z</updated>
-        <summary type="html"><![CDATA[更新内容
-支持开源中国一键登录
-反作弊系统
-
-
-发表内容验证码开关
-邮箱验证开关
-发表频率控制
-新用户观察期
-用户禁言
-...
-集成 nuxt-vite
-修复积分记录展示错误问题
-永久禁言用户积分清零
-发布地址
-github: https://github.com/mlogclub/bbs-go/releases/tag/v3.2.2
-
-gitee: https://gitee.com/mlogclub/bbs-go/releases/v3.2.2
-
-
-文档地址
-交流演示站：https://mlog.club
-
-帮助文档：http://docs.bbs-go.com/
-
-问题反馈：https://mlog.club/topics/node/3
-
-功能建议收集：https://mlog.club/topic/609
-
-github 地址：https://github.com/mlogclub/bbs-go
-
-gitee 地址：https://gitee.com/mlogclub/bbs-go
-
-
-功能简介
-
-功能预览
-
-
-
-
-
-
-
-
-
-相关链接
-github: https://github.com/mlogcl…]]></summary>
-        <author>
-            <name>fuckshit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iWifi 测速侠 – 在现实场景中，用 AR 测速[macOS/iOS 限免]]]></title>
-        <id>https://www.appinn.com/?p=38835</id>
-        <link href="https://www.appinn.com/iwifi-speedtest/"/>
-        <updated>2021-05-18T04:20:48.000Z</updated>
-        <summary type="html"><![CDATA[iWifi 测速侠是一款 macOS、iOS 通用应用，用来测网速，以及非常有特色的 AR 测速，可以让你在现实中，直观的看到网速状况。iWifi 测速侠原价 50 元，目前限免中。@Appinn 测]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
 </feed>

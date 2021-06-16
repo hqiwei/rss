@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60ca30af4dc1a607ed7b4197",
+          "author": null,
+          "description": "You can learn the basics of Data Analytics with 30 days of practice.  We just released a Data Analytics course on the freeCodeCamp.org YouTube channel. The course includes a 40-minute video, as well as a website and Jupyter notebooks. If you follow the plan laid out in these course",
+          "link": "https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/",
+          "publishedOn": "2021-06-16T17:19:31.000Z",
+          "wordCount": 411,
+          "title": "Teach Yourself Data Analytics in 30 Days"
+        },
+        {
           "id": "60c91b2b4dc1a607ed7b389a",
           "author": null,
           "description": "DevOps is becoming an in-demand role at many software companies. We just released a DevOps Engineering course on the freeCodeCamp.org YouTube channel. Learn all about DevOps in this comprehensive course for beginners with three technical tutorials. Colin Chartier created this course. He is the co-founder and CEO at LayerCI.",
@@ -829,6 +838,15 @@
       "feedUrl": "https://gocn.vip/topics/feed",
       "siteUrl": "https://gocn.vip/",
       "articles": [
+        {
+          "id": "https://gocn.vip/topics/12209",
+          "author": "qiusuo",
+          "description": "Go 开发工程师：迎接上升风口，踏入蓝海行业！\n适合零基础小白学习吗\n小同学，当你问出这句话的时候，就说明你已经不是小白了，你是个很有主见的 “大人” 了，要是你问零基础适合学习么？我肯定的告诉你：非常适合，而且要相信自己不是小白，而是小牛~祝你更进一步，加油~\n课程中的项目是真的企业级/商业级项目么？\n同学这个问题是我见过问得最有水平的问题了~ 确实网络上充斥了很多美其名曰 “企业级/商业项目”，然而当你咨询想要体验一下项目效果，这么最低的标准都达不到，也就是网络充斥很多打着 “企业级” 名号的耍流氓项目，他们连最低的企业级标准 -- 可部署可上线标准都达不到！ 那么，同学想一下这个问题：什么样的标准才能称之为 “企业级/商业级”?那么我认为有如下几点标准必须符合： 1、【最低标准】可部署可上线（课程两个分别打开微信，搜索 “租辆酷车”、“波哥电商” 体验项目）2、 真正的三端分离项目（两项目都符合，以微商城举例）3、 满足企业真实的开发场景（以共享出行项目为例）（1）先进的 google 设计理念 + 架构实践（2）符合当前最前卫的开发流程（3）“敏捷开发”、“领域驱动 DDD” 等的最佳实践 4、 符合企业标准架构演进：从三端分离到微服务化项目迭代（1）微电商项目（前端 + 后端 + 后台管理-->搜索微服务化）（2）共享出行项目（Typescript 前端 + 后端 +Vue3.0 后台管理-->云原生微服务）\n超清原画 完整无密 网盘下载\n点击下载：Go 开发工程师：迎接上升风口，踏入蓝海行业！",
+          "link": "https://gocn.vip/topics/12209",
+          "publishedOn": "2021-06-16T16:58:40.000Z",
+          "wordCount": 111,
+          "title": "Go 开发工程师：迎接上升风口，踏入蓝海行业！"
+        },
         {
           "id": "https://gocn.vip/topics/12208",
           "author": "yang759126596",
@@ -1944,15 +1962,6 @@
           "publishedOn": "2021-05-18T06:39:43.000Z",
           "wordCount": 337,
           "title": "Vineyard 加入 CNCF Sandbox，将继续瞄准云原生大数据分析领域"
-        },
-        {
-          "id": "https://gocn.vip/topics/12084",
-          "author": "fuckshit",
-          "description": "更新内容\n支持开源中国一键登录\n反作弊系统\n\n\n发表内容验证码开关\n邮箱验证开关\n发表频率控制\n新用户观察期\n用户禁言\n...\n集成 nuxt-vite\n修复积分记录展示错误问题\n永久禁言用户积分清零\n发布地址\ngithub: https://github.com/mlogclub/bbs-go/releases/tag/v3.2.2\n\ngitee: https://gitee.com/mlogclub/bbs-go/releases/v3.2.2\n\n\n文档地址\n交流演示站：https://mlog.club\n\n帮助文档：http://docs.bbs-go.com/\n\n问题反馈：https://mlog.club/topics/node/3\n\n功能建议收集：https://mlog.club/topic/609\n\ngithub 地址：https://github.com/mlogclub/bbs-go\n\ngitee 地址：https://gitee.com/mlogclub/bbs-go\n\n\n功能简介\n\n功能预览\n\n\n\n\n\n\n\n\n\n相关链接\ngithub: https://github.com/mlogcl…",
-          "link": "https://gocn.vip/topics/12084",
-          "publishedOn": "2021-05-18T04:44:59.000Z",
-          "wordCount": 140,
-          "title": "Go 语言开源社区系统 BBS-GO 3.2.6 发布，新增反作弊系统"
         }
       ]
     },
@@ -4937,15 +4946,6 @@
           "publishedOn": "2021-05-18T09:12:02.000Z",
           "wordCount": 1261,
           "title": "NotesHub – 使用 GitHub 保存数据的在线 Markdown 笔记服务"
-        },
-        {
-          "id": "https://www.appinn.com/?p=38835",
-          "author": "青小蛙",
-          "description": "iWifi 测速侠是一款 macOS、iOS 通用应用，用来测网速，以及非常有特色的 AR 测速，可以让你在现实中，直观的看到网速状况。iWifi 测速侠原价 50 元，目前限免中。@Appinn 测",
-          "link": "https://www.appinn.com/iwifi-speedtest/",
-          "publishedOn": "2021-05-18T04:20:48.000Z",
-          "wordCount": 1370,
-          "title": "iWifi 测速侠 – 在现实场景中，用 AR 测速[macOS/iOS 限免]"
         }
       ]
     },
