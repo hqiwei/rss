@@ -2,10 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T23:09:39.122Z</updated>
+    <updated>2021-06-16T00:31:15.706Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JRuby 9.2.19.0 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86518</id>
+        <link href="http://www.linuxeden.com/a/86518"/>
+        <updated>2021-06-16T00:27:36.000Z</updated>
+        <summary type="html"><![CDATA[The JRuby community is pleased to announce the release of JRuby 9.2.19.0 Homepage: http://www.jruby.org/ Download: http: […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在企业内部推动开源]]></title>
+        <id>https://www.oschina.net/news/146148</id>
+        <link href="https://www.oschina.net/news/146148"/>
+        <updated>2021-06-16T00:25:50.000Z</updated>
+        <summary type="html"><![CDATA[如今，国内的开源生态蓬勃发展。 或是出于提升自己的编程水平，或是出于助人为乐的兴趣爱好，又或是出于享受解决问题时带来的快感，已经有越来越多的国人开发者参与到开源社区的贡献中。 但现实中，大部分开发者只能利用业余的时间参与开源贡献。那么问题来了，为什么企业中的基础软件大部分基于开源而来，而支持员工参与...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 智能手机市场将增长 12%，芯片短缺或成阻碍]]></title>
+        <id>https://www.oschina.net/news/146147/smartphone-shipments-2021</id>
+        <link href="https://www.oschina.net/news/146147/smartphone-shipments-2021"/>
+        <updated>2021-06-16T00:22:51.000Z</updated>
+        <summary type="html"><![CDATA[研究公司 Canalys 的最新预测指出，尽管供应压力较大，但 2021 年全球智能手机市场仍将增长 12%，出货量达到 14 亿部。这代表着市场自 2020 年以来的强劲复苏，彼时受全球 COVID-19 大流行造成的主要市场限制，智能手机出货量下降了 7%。同时，Canalys 也指出，随着疫苗在世界各地的继续推广、疫情得到抑制后，零部件供应...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deno 1.11.1 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86516</id>
+        <link href="http://www.linuxeden.com/a/86516"/>
+        <updated>2021-06-16T00:19:34.000Z</updated>
+        <summary type="html"><![CDATA[feat(unstable): add additional logging information in LSP (#10890) fix: Deno.inspect should inspect the object the proxy […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ant Design 4.16.3 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86514</id>
+        <link href="http://www.linuxeden.com/a/86514"/>
+        <updated>2021-06-16T00:17:14.000Z</updated>
+        <summary type="html"><![CDATA[🐞 Fix the mistake that tooltip mount on wrong dom, when getPopupContainer of tooltip’s props is undefined  […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在开源社区生存的规则和潜规则]]></title>
+        <id>https://my.oschina.net/u/4489239/blog/5078069</id>
+        <link href="https://my.oschina.net/u/4489239/blog/5078069"/>
+        <updated>2021-06-16T00:15:35.000Z</updated>
+        <summary type="html"><![CDATA[当你准备进入一个技术交流社区时，有人建议你在社区中做一个“大妈”体质的人，因为这样会更受欢迎，你会怎么想？在开源社理事长庄表伟看来，大妈乐于助人的特质会促使他们做出更多贡献，非常适合开源社区中的礼物文化，从而更容易被社区接纳。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iText 加入了 MuleSoft 技术合作伙伴计划]]></title>
+        <id>https://www.oschina.net/news/146145/itext-joins-mulesoft-technology-partner-program</id>
+        <link href="https://www.oschina.net/news/146145/itext-joins-mulesoft-technology-partner-program"/>
+        <updated>2021-06-16T00:15:09.000Z</updated>
+        <summary type="html"><![CDATA[iText 是一个用于在 Java 和 .NET 中创建和操作 PDF 文件的开源库。源代码最初是在 MPL 许可证下进行分发的。不过从 5.0.0 版本（2009年12月7日发布）开始，改为在 AGPLv3 下进行分发。 iText 提供了对大多数高级的 PDF 功能的支持，如基于 PKI 的签名、40 位和 128 位加密、颜色校正、PDF 表格（AcroForms）、PDF/X、通...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[禅道15.0.2版本发布，主要修复Bug]]></title>
+        <id>http://www.linuxeden.com/?p=86511</id>
+        <link href="http://www.linuxeden.com/a/86511"/>
+        <updated>2021-06-16T00:14:15.000Z</updated>
+        <summary type="html"><![CDATA[大家好，禅道15.0.2版本发布了！此次发布主要修复Bug，兼容手机端。欢迎大家下载升级。 一、修改记录 完成的需求 兼容手机端修改 修复的Bug 1552 测试报告的报表，用例和Bug的饼状图不一样大 二、下载链接 安装包下载 源码包 W […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recoil —— React 状态管理库]]></title>
+        <id>https://www.oschina.net/p/recoil</id>
+        <link href="https://www.oschina.net/p/recoil"/>
+        <updated>2021-06-16T00:03:12.000Z</updated>
+        <summary type="html"><![CDATA[Recoil 是 Facebook 开源的 React 状态管理库，目前处于实验性阶段。Rcoil 提供了在仅使用 React 情况下难以实现的多项功能，同时与 React 的最新功能兼容。 Recoil 能为开发者创建一个数据流图 (data-flow graph)，从 atom（共享状态）到 selector（纯函数），再向下流到 React 组件。Atom 是组件可以订阅的状态单位。s...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitee 推荐 | VS Code 的 Markdown 插件 Markdown Editor]]></title>
+        <id>https://gitee.com/zane_young/vscode-markdown-editor</id>
+        <link href="https://gitee.com/zane_young/vscode-markdown-editor"/>
+        <updated>2021-06-16T00:01:38.000Z</updated>
+        <summary type="html"><![CDATA[一个 VS Code 插件，让你的 VS Code 秒变和 typora 一样的所见即所得 markdown 编辑器，支持表格可视化编辑，拖拽图片，各种图标等。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 最简单的微服务部署测试实践]]></title>
+        <id>https://my.oschina.net/u/3944234/blog/4673597</id>
+        <link href="https://my.oschina.net/u/3944234/blog/4673597"/>
+        <updated>2021-06-16T00:00:32.000Z</updated>
+        <summary type="html"><![CDATA[微服务特别适合业务复杂，开发队伍庞大的项目。微服务可以到达化整为零，简化单个服务，降低沟通成本的效果。但微服务在性能上比单体服务低，也会有数据冗余的问题，要结合自身情况，不要盲目崇拜。 本文介绍一种简单的微服务技术架构。帮助大家对微服务如何部署，如何开发有个初步的认识。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PeaZip 8.0.0 发布，压缩管理工具]]></title>
+        <id>https://www.oschina.net/news/146139/peazip-8-0-0-released</id>
+        <link href="https://www.oschina.net/news/146139/peazip-8-0-0-released"/>
+        <updated>2021-06-15T23:31:13.000Z</updated>
+        <summary type="html"><![CDATA[PeaZip 是一个适用于 Windows 和 Linux 的免费文件存档工具和 rar 提取器，可处理 200 多种存档类型（7z, ace, arc, bz2, cab, gz, iso, paq, pea, rar, tar, wim, zip, zipx...），处理跨区存档（001, r01, z01...）并支持多种存档加密标准。 该项目旨在为多种开源技术（7-Zip、FreeArc、PAQ、PEA、UPX）提供一个跨平台...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineering Course for Beginners]]></title>
         <id>60c91b2b4dc1a607ed7b389a</id>
@@ -12042,33 +12162,6 @@ fun…]]></summary>
         <summary type="html"><![CDATA[Scala 3 稳定版来了！发布公告写道：“经过 8 年的努力开发，在此期间共产生了 28000 多次 commit、7400 多个 PR，以及关闭了 4100 多个 issue。从2012年12月6日 Scala 3 的首个 commit 算起，共计超过 100 人为项目做出了贡献。现在，Scala 3 通过结合类型理论的最新研究以及 Scala 2 的行业经验，Scala 的第三次迭代版...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoCN 每日新闻 (2021-05-17)]]></title>
-        <id>https://gocn.vip/topics/12081</id>
-        <link href="https://gocn.vip/topics/12081"/>
-        <updated>2021-05-17T12:11:02.000Z</updated>
-        <summary type="html"><![CDATA[如何管理多版本的 go   https://lakefs.io/managing-multiple-go-versions-with-go/
-
-一个 SQL 数据库只使用了 2000 行 golang 代码并且没有任何第三方依赖 https://github.com/auxten/go-sqldb
-
-使用 go 开发一个监控剪贴板的服务  https://www.reddit.com/r/golang/comments/ncsnj2/monitoring_clipboard_as_service_with_go/
-
- Gorm 复杂关系举例：  https://github.com/harranali/gorm-relationships-examples
-
-写了 500，000 行 go 代码之后  https://blog.khanacademy.org/half-a-million-lines-of-go
-* GopherChina 全部日程出炉 https://gc.gocn.vip
-
-
-
-
-编辑: 阿章 
-订阅新闻: http://tinyletter.com/gocn
-
-招聘专区: https:/…]]></summary>
-        <author>
-            <name>azhang</name>
         </author>
     </entry>
 </feed>
