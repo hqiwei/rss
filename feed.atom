@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T21:08:19.870Z</updated>
+    <updated>2021-06-16T22:09:21.739Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Split – How to Split a String into an Array in JS]]></title>
+        <id>60c088e5d3126007592d56f1</id>
+        <link href="https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/"/>
+        <updated>2021-06-16T21:19:08.000Z</updated>
+        <summary type="html"><![CDATA[In general, a string represents a sequence of characters in a programming language.  Let's look at an example of a string created using a sequence of characters, "Yes, You Can DO It!". In JavaScript, we can create a string in a couple of ways: Using the string literal as a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Skewness and Kurtosis – Positively Skewed and Negatively Skewed Distributions in Statistics Explained]]></title>
         <id>60b8cb0aacb62507dd1d82ea</id>
@@ -12471,16 +12481,6 @@ $ go install github.co…]]></summary>
         <summary type="html"><![CDATA[Yes, you can learn to code for free, from the convenience of your own home, and at your own pace. I'm going to show you 101 courses where you can learn computer science and programming for free.  The freeCodeCamp courses are completely free and some of them include a free]]></summary>
         <author>
             <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NotesHub – 使用 GitHub 保存数据的在线 Markdown 笔记服务]]></title>
-        <id>https://www.appinn.com/?p=38847</id>
-        <link href="https://www.appinn.com/noteshub-online/"/>
-        <updated>2021-05-18T09:12:02.000Z</updated>
-        <summary type="html"><![CDATA[NotesHub 是一款使用 GitHub 保存数据的在线 Markdown 笔记服务，支持私有仓库，Markdown 语法与预览，PWA 离线使用，后台自动同步，界面主要适配手机屏幕。由于使用 Gi]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
 </feed>

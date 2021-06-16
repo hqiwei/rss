@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60c088e5d3126007592d56f1",
+          "author": null,
+          "description": "In general, a string represents a sequence of characters in a programming language.  Let's look at an example of a string created using a sequence of characters, \"Yes, You Can DO It!\". In JavaScript, we can create a string in a couple of ways: Using the string literal as a",
+          "link": "https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/",
+          "publishedOn": "2021-06-16T21:19:08.000Z",
+          "wordCount": 1696,
+          "title": "JavaScript Split – How to Split a String into an Array in JS"
+        },
+        {
           "id": "60b8cb0aacb62507dd1d82ea",
           "author": null,
           "description": "In this article, I'll explain two important concepts in statistics: skewness and kurtosis. And don't worry – you won't need to know very much math to understand these concepts and learn how to apply them. What are Density Curves?Let's first talk a bit about density curves, as skewness and kurtosis",
@@ -4910,15 +4919,6 @@
           "publishedOn": "2021-05-19T06:43:15.000Z",
           "wordCount": 1304,
           "title": "Dishes Launcher – 托盘里的快速启动工具[Windows]"
-        },
-        {
-          "id": "https://www.appinn.com/?p=38847",
-          "author": "青小蛙",
-          "description": "NotesHub 是一款使用 GitHub 保存数据的在线 Markdown 笔记服务，支持私有仓库，Markdown 语法与预览，PWA 离线使用，后台自动同步，界面主要适配手机屏幕。由于使用 Gi",
-          "link": "https://www.appinn.com/noteshub-online/",
-          "publishedOn": "2021-05-18T09:12:02.000Z",
-          "wordCount": 1261,
-          "title": "NotesHub – 使用 GitHub 保存数据的在线 Markdown 笔记服务"
         }
       ]
     },
