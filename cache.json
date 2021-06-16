@@ -830,6 +830,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12199",
+          "author": "_Lin",
+          "description": "GoCN 每日新闻 (2021-06-16)\n说说 Golang goroutine 并发那些事儿 https://blog.51cto.com/u_15162069/2907504\n\nfasthttp：比 net/http 快十倍的 Go 框架 (server 篇)  https://www.luozhiyun.com/archives/574\n\n详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？ https://segmentfault.com/a/1190000040181868\n\n一个 Gin 缓存中间件的设计与实现 https://www.cyhone.com/articles/gin-cache\n\n用于加载 csv 和 excel (xlsx) 文件并运行 sql 命令的命令行工具 https://github.com/dhamith93/csv-sql\n\n\n\nGopherChina 倒计时 11 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n编辑: 琳 \n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12199",
+          "publishedOn": "2021-06-16T06:03:40.000Z",
+          "wordCount": 122,
+          "title": "GoCN 每日新闻 (2021-06-16)"
+        },
+        {
           "id": "https://gocn.vip/topics/12198",
           "author": "Cluas",
           "description": "原文地址：https://steveazz.xyz/blog/go-performance-tools-cheat-sheet\n\n原文作者：Steve Azzopardi\n\n\n本文永久链接：https://github.com/gocn/translator/blob/master/2021/w23_go_performance_tools_cheat_sheet.md\n\n\n译者：Cluas\n\n\n校对：Martinho0330\n\n\n\nGo 有很多工具可以让你了解你的应用程序可能在哪里花费 CPU 时间或分配内存。我不是每天都使用这些工具，所以我每次都是在寻找同样的东西。这篇文章的目的是为这些 Go 所提供的工具提供一个参考文献。\n我们将使用 https://gitlab.com/steveazz-blog/go-performance-tools-cheat-sheet 作为一个演示项目，同样的事情有 3 种实现方式，每一种都比前一种性能更好。\n  默认实现\n\n  性能更好的实现\n\n  性能最好的实现\n\n\n基准测试 (Benchmarks)\n最流行的方法之一是使用 Go 中内置的 基准测试 来看看你是否改进了什么。\n在我们的演示项目中，已经有了 可用的基准测试 我们可以用一个命令运行它们。\ngo test -bench=. -test.benchmem  ./rand/\n\ngoos: darwin\ngoarch: amd64\npkg: gitlab.com/steveazz/blog/go-performance-tools-cheat-sheet/rand\ncpu: Intel(R) Core(TM) i7-6820HQ CPU @ 2.70GHz\nBenchmarkHitCount100-8              3020            367016 ns/…",
