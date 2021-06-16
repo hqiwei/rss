@@ -8148,15 +8148,6 @@
           "publishedOn": "2021-05-18T23:50:50.000Z",
           "wordCount": 696,
           "title": "Android 12 Beta 1 发布，改善 UI 和隐私，引入设备高性能标准"
-        },
-        {
-          "id": "https://www.oschina.net/news/142033/layui-2-6-7-released",
-          "author": null,
-          "description": "更新日志： [新增] layui._typeof(operand) / layui._isArray(obj) 两个基础方法。 分别为\"获取详细数据类型\"、\"对象是否为泛数组\" [重写] layui.each() 基础方法，以兼容各种对象遍历 [修复] layui.sort(obj) 基础方法，在比较某些值相等时出现排序异常的问题 [修复] form 组件当 layui-form 元素出现层级嵌套，其提交的...",
-          "link": "https://www.oschina.net/news/142033/layui-2-6-7-released",
-          "publishedOn": "2021-05-18T06:09:29.000Z",
-          "wordCount": 491,
-          "title": "layui 2.6.7 发布，原生态 Web UI 组件库"
         }
       ]
     },
