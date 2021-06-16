@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T00:31:15.706Z</updated>
+    <updated>2021-06-16T01:58:46.005Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[下一代 Windows 界面曝光：新的开始菜单和任务栏、圆角设计]]></title>
+        <id>https://www.oschina.net/news/146153/windows-11-leak-screenshots</id>
+        <link href="https://www.oschina.net/news/146153/windows-11-leak-screenshots"/>
+        <updated>2021-06-16T00:54:21.000Z</updated>
+        <summary type="html"><![CDATA[据外媒 The Verge 的报道，自百度贴吧出现 Windows 11 的首个屏幕截图后，微软即将推出的下一代操作系统（或被命名为 Windows 11）的镜像已出现在网络上。 从被曝光的截图可以看到，新系统的任务栏在视觉方面进行了比较大的改造，例如将图标居中、清理托盘区域、使用新的“开始”按钮等。 当然，如果不希望将应用程序图标...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 06 16]]></title>
+        <id>http://www.linuxeden.com/?p=86524</id>
+        <link href="http://www.linuxeden.com/a/86524"/>
+        <updated>2021-06-16T00:35:01.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 06 16]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[即日起，Linux 内核开发者可申请 @linux.dev 专用邮箱]]></title>
+        <id>https://www.oschina.net/news/146152/linux-dev-mailboxes-for-kernel-work</id>
+        <link href="https://www.oschina.net/news/146152/linux-dev-mailboxes-for-kernel-work"/>
+        <updated>2021-06-16T00:33:14.000Z</updated>
+        <summary type="html"><![CDATA[Konstantin Ryabitsev 是 kernel.org 的系统管理员也是 Linux 内核开发者，他为 Linux 源代码的协作开发和官方分发背后的计算基础设施做出了巨大贡献。今天，Konstantin Ryabitsev 宣布了一项新的服务，该服务将为 Linux 内核开发人员提供 @linux.dev 邮箱。 Linux 的持续发展依赖于内核开发人员之间不断地发送和接收电子...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[万维网源代码将作为NFT被发明者蒂姆·伯纳斯·李爵士拍卖]]></title>
+        <id>http://www.linuxeden.com/?p=86520</id>
+        <link href="http://www.linuxeden.com/a/86520"/>
+        <updated>2021-06-16T00:31:46.000Z</updated>
+        <summary type="html"><![CDATA[1989年，英国计算机科学家蒂姆·伯纳斯·李爵士创造了一些将永远改变世界的东西。你猜对了，万维网（WWW），使我们所知的互联网成为可能。当然世界一直处于非常有趣的发展中，伯纳斯·李已经决定，他将通过以不可伪造的代币（NFT […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JRuby 9.2.19.0 发布]]></title>
         <id>http://www.linuxeden.com/?p=86518</id>
@@ -174,6 +214,36 @@
         <summary type="html"><![CDATA[Any sufficiently old codebase eventually starts to contain legacy code. Architecture, performance, comments, and more begin to degrade the moment after they are written. Some parts of the codebase last longer than other parts, but inevitably new coding standards emerge to reduce technical debt. Then you have to rework a]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全新火狐浏览器 Mozilla Firefox 89.0.1 + x64 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=41453</id>
+        <link href="http://www.dayanzai.me/firefox.html"/>
+        <updated>2021-06-15T16:38:01.000Z</updated>
+        <summary type="html"><![CDATA[火狐，是由 Mozilla 开发的网页浏览器。我们的 使命是创造一个开放，创新与机遇的网络环境。Mozilla […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界上流行的种子客户端 uTorrent PRO 3.5.5 Build 46038 中文免费版]]></title>
+        <id>http://www.dayanzai.me/?p=31505</id>
+        <link href="http://www.dayanzai.me/utorrent.html"/>
+        <updated>2021-06-15T16:36:59.000Z</updated>
+        <summary type="html"><![CDATA[世界上最流行的种子客户端 uTorrent PRO 3.5.5 中文版由大眼仔旭（www.dayanzai.m […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 窗口选项卡增强工具 Stardock Groupy 1.49.1 x64 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=42951</id>
+        <link href="http://www.dayanzai.me/stardock-groupy.html"/>
+        <updated>2021-06-15T16:31:30.000Z</updated>
+        <summary type="html"><![CDATA[Windows 窗口选项卡增强工具 Stardock Groupy x64 中文版由大眼仔旭（www.daya […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
