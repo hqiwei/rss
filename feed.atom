@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T11:08:20.677Z</updated>
+    <updated>2021-06-16T12:13:51.922Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12685,56 +12685,6 @@ fun…]]></summary>
         <link href="https://www.oschina.net/news/141965/survey-shows-enterprises-reliance-on-opensource-software"/>
         <updated>2021-05-18T00:14:23.000Z</updated>
         <summary type="html"><![CDATA[近日，Percona 对 200 名 IT 决策者进行了调查，通过调查他们发现如今企业对开源软件的价值有着深刻的认识，其中所有的 IT 决策者（100%）均表示，使用开源软件为他们的企业/组织带来了好处。调查报告还显示，在过去的 12个月时间里，79% 的受访者在企业内部都增加了开源软件的使用。 200 名受访者中，25% 来自于 500-99...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深度学习模型库入门：图像语义分割-ICNET]]></title>
-        <id>https://www.paddlepaddle.org.cn/modelbasedetail/icnet</id>
-        <link href="https://www.paddlepaddle.org.cn/modelbasedetail/icnet"/>
-        <updated>2021-05-18T00:09:44.000Z</updated>
-        <summary type="html"><![CDATA[ICNet 主要用于图像实时语义分割，能够兼顾速度和准确性。 ICNet的主要思想是将输入图像变换为不同的分辨率，然后用不同计算复杂度的子网络计算不同分辨率的输入，然后将结果合并。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dqlite —— 高可用 SQLite 数据库]]></title>
-        <id>https://www.oschina.net/p/dqlite</id>
-        <link href="https://www.oschina.net/p/dqlite"/>
-        <updated>2021-05-18T00:07:59.000Z</updated>
-        <summary type="html"><![CDATA[Dqlite 是一个快速、嵌入式、持久化的 SQL 数据库，具有Raft共识，非常适合容错的IoT和Edge设备。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitee 推荐 | 桌面悬浮窗软件 TrafficMonitor]]></title>
-        <id>https://gitee.com/zhongyang219/TrafficMonitor</id>
-        <link href="https://gitee.com/zhongyang219/TrafficMonitor"/>
-        <updated>2021-05-18T00:04:25.000Z</updated>
-        <summary type="html"><![CDATA[这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日一博 | 度量、范数和内积原来是这么个关系]]></title>
-        <id>https://my.oschina.net/mathinside/blog/4721858</id>
-        <link href="https://my.oschina.net/mathinside/blog/4721858"/>
-        <updated>2021-05-18T00:00:17.000Z</updated>
-        <summary type="html"><![CDATA[首先，题目中的三个概念对应三类空间，即度量空间（Metric space）、赋范空间（Normed space）和内积空间（Inner prodect space）。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scala 3 正式发布]]></title>
-        <id>https://www.oschina.net/news/141955/scala3-released</id>
-        <link href="https://www.oschina.net/news/141955/scala3-released"/>
-        <updated>2021-05-17T23:15:05.000Z</updated>
-        <summary type="html"><![CDATA[Scala 3 稳定版来了！发布公告写道：“经过 8 年的努力开发，在此期间共产生了 28000 多次 commit、7400 多个 PR，以及关闭了 4100 多个 issue。从2012年12月6日 Scala 3 的首个 commit 算起，共计超过 100 人为项目做出了贡献。现在，Scala 3 通过结合类型理论的最新研究以及 Scala 2 的行业经验，Scala 的第三次迭代版...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>

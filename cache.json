@@ -8193,51 +8193,6 @@
           "publishedOn": "2021-05-18T00:14:23.000Z",
           "wordCount": 495,
           "title": "Percona 调查：企业对开源软件的依赖不断提高"
-        },
-        {
-          "id": "https://www.paddlepaddle.org.cn/modelbasedetail/icnet",
-          "author": null,
-          "description": "ICNet 主要用于图像实时语义分割，能够兼顾速度和准确性。 ICNet的主要思想是将输入图像变换为不同的分辨率，然后用不同计算复杂度的子网络计算不同分辨率的输入，然后将结果合并。",
-          "link": "https://www.paddlepaddle.org.cn/modelbasedetail/icnet",
-          "publishedOn": "2021-05-18T00:09:44.000Z",
-          "wordCount": 217,
-          "title": "深度学习模型库入门：图像语义分割-ICNET"
-        },
-        {
-          "id": "https://www.oschina.net/p/dqlite",
-          "author": null,
-          "description": "Dqlite 是一个快速、嵌入式、持久化的 SQL 数据库，具有Raft共识，非常适合容错的IoT和Edge设备。",
-          "link": "https://www.oschina.net/p/dqlite",
-          "publishedOn": "2021-05-18T00:07:59.000Z",
-          "wordCount": 776,
-          "title": "Dqlite —— 高可用 SQLite 数据库"
-        },
-        {
-          "id": "https://gitee.com/zhongyang219/TrafficMonitor",
-          "author": null,
-          "description": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
-          "link": "https://gitee.com/zhongyang219/TrafficMonitor",
-          "publishedOn": "2021-05-18T00:04:25.000Z",
-          "wordCount": null,
-          "title": "Gitee 推荐 | 桌面悬浮窗软件 TrafficMonitor"
-        },
-        {
-          "id": "https://my.oschina.net/mathinside/blog/4721858",
-          "author": null,
-          "description": "首先，题目中的三个概念对应三类空间，即度量空间（Metric space）、赋范空间（Normed space）和内积空间（Inner prodect space）。",
-          "link": "https://my.oschina.net/mathinside/blog/4721858",
-          "publishedOn": "2021-05-18T00:00:17.000Z",
-          "wordCount": 671,
-          "title": "每日一博 | 度量、范数和内积原来是这么个关系"
-        },
-        {
-          "id": "https://www.oschina.net/news/141955/scala3-released",
-          "author": null,
-          "description": "Scala 3 稳定版来了！发布公告写道：“经过 8 年的努力开发，在此期间共产生了 28000 多次 commit、7400 多个 PR，以及关闭了 4100 多个 issue。从2012年12月6日 Scala 3 的首个 commit 算起，共计超过 100 人为项目做出了贡献。现在，Scala 3 通过结合类型理论的最新研究以及 Scala 2 的行业经验，Scala 的第三次迭代版...",
-          "link": "https://www.oschina.net/news/141955/scala3-released",
-          "publishedOn": "2021-05-17T23:15:05.000Z",
-          "wordCount": 577,
-          "title": "Scala 3 正式发布"
         }
       ]
     },
