@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T14:09:00.997Z</updated>
+    <updated>2021-06-16T15:10:22.182Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 06 16]]></title>
+        <id>http://www.linuxeden.com/?p=86540</id>
+        <link href="http://www.linuxeden.com/a/86540"/>
+        <updated>2021-06-16T14:58:51.000Z</updated>
+        <summary type="html"><![CDATA[Google 开源全同态加密的通用转译器 2021 年学习 Java 的三个理由 FreeDOS 入门 万维网源代码将作为NFT被发明者蒂姆·伯纳斯·李爵士拍卖 Canonical宣布为Google Cloud 提供Ubuntu Pro及长 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google 开源全同态加密的通用转译器]]></title>
         <id>http://www.linuxeden.com/?p=86536</id>
@@ -12614,69 +12624,6 @@ github: https://github.com/mlogcl…]]></summary>
         <summary type="html"><![CDATA[iWifi 测速侠是一款 macOS、iOS 通用应用，用来测网速，以及非常有特色的 AR 测速，可以让你在现实中，直观的看到网速状况。iWifi 测速侠原价 50 元，目前限免中。@Appinn 测]]></summary>
         <author>
             <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoCN 每日新闻 (2021-05-18)]]></title>
-        <id>https://gocn.vip/topics/12083</id>
-        <link href="https://gocn.vip/topics/12083"/>
-        <updated>2021-05-18T03:04:41.000Z</updated>
-        <summary type="html"><![CDATA[强大的模糊测试工具 go-fuzz https://gocn.vip/topics/12075
-
-单机内存内缓存怎么做？go-cache 了解下 https://mp.weixin.qq.com/s/LzfLySMPtbCO91q87UKRcQ
-
-深度探索 Go 语言（三）：动态派发 https://mp.weixin.qq.com/s/XLj_AKqETZy4cUBNiNZPBw
-
-golang 日期与时间完全指南 https://qvault.io/golang/golang-date-time/
-
-GopherChina 全部议程和讲师出炉了  https://mp.weixin.qq.com/s/G_M4yw6VCTfF03b2L21ZGQ
-
-
-
-
-编辑: 熊大
-订阅新闻: http://tinyletter.com/gocn
-
-招聘专区: https://gocn.vip/jobs]]></summary>
-        <author>
-            <name>ningxiaofang1o</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《铜豌豆 Linux》10.9.2 版本发布]]></title>
-        <id>https://www.oschina.net/news/141999/atzlinux-10-9-2-released</id>
-        <link href="https://www.oschina.net/news/141999/atzlinux-10-9-2-released"/>
-        <updated>2021-05-18T02:59:43.000Z</updated>
-        <summary type="html"><![CDATA[https://www.atzlinux.com/News/2021/20210517.htm 《铜豌豆 Linux》10.9.2 版本发布 2021-05-17 此次发布主要为优化 ISO 安装速度，更新升级软件包、调整软件包。 软件包更新 Debian 官方软件包，更新至 Debian 官方仓库 buster-proposed-updates 2021-05-17 日。 安全更新 Debian 官方软件包安全更新 同步到 2021-05-...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arthas 3.5.1 发布：神级特性！内存搜索对象]]></title>
-        <id>https://www.oschina.net/news/141998/arthas-3-5-1-released</id>
-        <link href="https://www.oschina.net/news/141998/arthas-3-5-1-released"/>
-        <updated>2021-05-18T02:59:41.000Z</updated>
-        <summary type="html"><![CDATA[Arthas是Alibaba开源的Java诊断工具，深受开发者喜爱。 Github：https://github.com/alibaba/arthas 文档：https://arthas.aliyun.com/doc/ 以前使用watch等命令时，我们通常要先知道哪个类，调用了哪个函数，然后触发调用。这样有局限： 线上触发调用比较难 要watch到正确的函数可能要选择多次 条件表达式/结果表达式 ...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go sync.Pool 浅析]]></title>
-        <id>https://gocn.vip/topics/12082</id>
-        <link href="https://gocn.vip/topics/12082"/>
-        <updated>2021-05-18T02:50:49.000Z</updated>
-        <summary type="html"><![CDATA[hi, 大家好，我是 haohongfan。
-sync.Pool 应该是 Go 里面明星级别的数据结构，有很多优秀的文章都在介绍这个结构，本篇文章简单剖析下 sync.Pool。不过说实话 sync.Pool 并不是我们日常开发中使用频率很高的的并发原语。
-尽管用的频率很低，但是不可否认的是 sync.Pool 确实是 Go 的杀手锏，合理使用 sync.Pool 会让我们的程序性能飙升。本篇文章会从使用方式，源码剖析，运用场景等方面，让你对 sync.Pool 有一个清晰的认知。
-使用方式
-sync.Pool 使用很简单，但是想用对却很麻烦，因为你有可能看到网上一堆错误的示例，各位同学在搜索 sync.Pool 的使用例子时，要特别注意。
-sync.Pool 是一个内存池。通常内存池是用来防止内存泄露的（例如 C/C++)。sync.Pool 这个内存池却不是干这个的，带 GC 功能的语言都存在垃圾回收 STW 问题，需要回收的内存块越多，STW 持续时间就越长。如果能让 new 出来的变量，一直不被回收，得到重复利用，是不是就减轻了 GC 的压力。
-正确的使用示例（下面的 demo 选自 gin）
-fun…]]></summary>
-        <author>
-            <name>haohongfan</name>
         </author>
     </entry>
 </feed>
