@@ -830,6 +830,87 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12208",
+          "author": "yang759126596",
+          "description": "经过前五篇的学习，综合篇结合前面的，用一个项目在进行融会贯通。\n源码地址\n源码地址\n爱租房微服务综合项目\n系列文章\n微服务实战 Go Micro v3 系列（一）- 基础篇\n微服务实战 Go Micro v3 系列（二）- HelloWorld\n微服务实战 Go-Micro v3 系列（三）- 启动 HTTP 服务\n微服务实战 Go Micro v3 系列（四）- 事件驱动 (Pub/Sub)\n微服务实战 Go Micro v3 系列（五）- 注册和配置中心\n微服务实战 Go Micro v3 系列（六）- 综合篇（爱租房项目）\n项目介绍\n此项目，是我 fork github 一个开源项目而来的，由于刚好它是 go-micro-v2，我进行升级改造到 v3 用来做综合篇。\n技术栈\ngolang + docker + consul + grpc + protobuf + beego + mysql + redis + fastDFS + nginx\n目录介绍\n├── DeleteSession\n│   ├── 退出登录时清除 session\n├── GetArea\n│   ├── 获取地区信息服务\n├── GetImageCd\n│   ├── 获取验证码图片服务\n├── GetSession\n│   ├── 获取 Session 信息服务\n├── GetSmscd\n│   ├── 获取短信信息服务\n├── GetUserHouses\n│   ├── 获取用户已发布房屋的服务\n├── GetUserInfo\n│   ├── 获取用户详细信息的服务\n├── web\n│   ├── conf 项目配置文件\n│   │   ├── app.conf\n│   │   ├── data.sql\n│   │   └── redis.conf\n│   ├── handler\n│   │   └── handler.go 配置路由\n│   ├── html 项目静态文件\n│   ├── main.go 主函数\n│   ├── model 数据库模型\n│   │   └── models.go\n│   ├── plugin.go\n│   ├── server.sh\n│   └── utils 项目中用到的工具函数\n│       ├── config.go\n│       ├── error.go\n│       └── misc.go\n├── PostAvatar\n│   ├──   发送（上传）用户头像服务\n├── PostHouses\n│   ├── 发送（发布）房源信息服务\n├── PostHousesImage\n│   ├── 发送（上传）房屋图片服务\n├── PostLogin\n│   ├── 发送登录服务消息\n├── PostRet\n│   ├── 发现注册信息服务\n├── PostUserAuth\n│   ├── 发送用户实名认证信息服务\n├── PutUserInfo\n│   ├── 发送用户信息\n├── GetUserAuth\n│   ├── 获取（检查）用户实名信息服务\n├── PostHousesImage\n│   ├── 发送（上传）房屋图片服务\n├── GetHouseInfo\n│   ├── 获取房屋详细信息服务\n├── GetIndex\n│   ├── 获取首页轮播图片服务\n├── GetHouses\n│   ├── 获取（搜索）房源服务\n├── PostOrders\n│   ├── 发送（发布）订单服务\n├── GetUserOrder\n│   ├── 获取房东/租户订单信息服务\n├── PutOrders\n│   ├── 更新房东同意/拒绝订单\n├── PutComments\n│   ├── 更新用户评价订单信息\n└── README.md\n部分效果图\n\n\n\n参考链接\n参考项目的源代码",
+          "link": "https://gocn.vip/topics/12208",
+          "publishedOn": "2021-06-16T08:44:17.000Z",
+          "wordCount": 336,
+          "title": "微服务实战 Go Micro v3 系列（六）- 综合篇（爱租房项目）"
+        },
+        {
+          "id": "https://gocn.vip/topics/12207",
+          "author": "yang759126596",
+          "description": "这一篇就来讲讲，go-micro v3 如何进行配置 consul 注册中心和操作配置中心\n源码地址\n源码地址\n爱租房微服务综合项目\n系列文章\n微服务实战 Go Micro v3 系列（一）- 基础篇\n微服务实战 Go Micro v3 系列（二）- HelloWorld\n微服务实战 Go-Micro v3 系列（三）- 启动 HTTP 服务\n微服务实战 Go Micro v3 系列（四）- 事件驱动 (Pub/Sub)\n微服务实战 Go Micro v3 系列（五）- 注册和配置中心\n微服务实战 Go Micro v3 系列（六）- 综合篇（爱租房项目）\n前言\ngo-micro 框架为服务注册发现提供了标准的接口 Registry。只要实现这个接口就可以定制自己的服务注册和发现。不过官方已经为主流注册中心提供了官方的接口实现，大多数时候我们不需要从头写起。\n代码仓库\n示例代码\nDocker 安装 Consul\n这里使用 consul 演示，因为 consul 自带 UI 界面，方便操作\ndocker pull consul # 默认拉取latest\n\n运行单机版 consul\ndocker run -d -p 8500:8500 --restart=always --name=consul consul:latest agent -server -bootstrap -ui -node=1 -client='0.0.0.0'\n\n参数解释如下：\nagent: 表示启动 Agent 进程。\n\n\nserver：表示启动 Consul Server 模式\n\n\nclient：表示启动 Consul Client 模式。\n\n\nbootstrap：表示这个节点是 Server-Leader ，每个数据中心只能运行一台服务器。技术角度上讲 Leader 是通过 Raft 算法选举的，但是…",
+          "link": "https://gocn.vip/topics/12207",
+          "publishedOn": "2021-06-16T08:43:47.000Z",
+          "wordCount": 484,
+          "title": "微服务实战 Go Micro v3 系列（五）- 注册和配置中心"
+        },
+        {
+          "id": "https://gocn.vip/topics/12206",
+          "author": "yang759126596",
+          "description": "事件驱动架构 理解起来比较简单，普遍认为好的软件架构都是解耦的，微服务之间不应该相互耦合或依赖。举个例子，我们在代码中调用微服务 go.srv.user-service 的函数，会先通过服务发现找到微服务的地址再调用，我们的代码与该微服务有了直接性的调用交互，并不算是完全的解耦。\n源码地址\n源码地址\n爱租房微服务综合项目\n系列文章\n微服务实战 Go Micro v3 系列（一）- 基础篇\n微服务实战 Go Micro v3 系列（二）- HelloWorld\n微服务实战 Go-Micro v3 系列（三）- 启动 HTTP 服务\n微服务实战 Go Micro v3 系列（四）- 事件驱动 (Pub/Sub)\n微服务实战 Go Micro v3 系列（五）- 注册和配置中心\n微服务实战 Go Micro v3 系列（六）- 综合篇（爱租房项目）\n发布与订阅模式\n为了理解事件驱动架构为何能使代码完全解耦，先了解事件的发布、订阅流程。微服务 X 完成任务 x 后通知消息系统说 “x 已完成”，它并不关心有哪些微服务正在监听这个事件、事件发生后会产生哪些影响。如果系统发生了某个事件，随之其他微服务都要做出动作是很容易的。\n举个例子，user-service 创建了一个新用户，email-service 要给该用户发一封注册成功的邮件，message-service 要给网站管理员发一条用户注册的通知短信。\n一般实现\n在 user-service 的代码中实例化另两个微服务 Client 后，调用函数发邮件和短信，代码耦合度很高。如下图：\n\n事件驱动\n在事件驱动的架构下，user-service 只需向消息系统发布一条 topic 为 “user.created” 的消息，其他两个订阅了此 topic 的 service 能知道有用户注册了，拿到用户信息后他们自行发邮件、发短信。如下…",
+          "link": "https://gocn.vip/topics/12206",
+          "publishedOn": "2021-06-16T08:43:17.000Z",
+          "wordCount": 470,
+          "title": "微服务实战 Go Micro v3 系列（四）- 事件驱动 (Pub/Sub)"
+        },
+        {
+          "id": "https://gocn.vip/topics/12205",
+          "author": "yang759126596",
+          "description": "这篇就是使用 go-micro 的 http 创建一个可以调用接口的微服务 HTTP\n源码地址\n源码地址\n爱租房微服务综合项目\n系列文章\n微服务实战 Go Micro v3 系列（一）- 基础篇\n微服务实战 Go Micro v3 系列（二）- HelloWorld\n微服务实战 Go-Micro v3 系列（三）- 启动 HTTP 服务\n微服务实战 Go Micro v3 系列（四）- 事件驱动 (Pub/Sub)\n微服务实战 Go Micro v3 系列（五）- 注册和配置中心\n微服务实战 Go Micro v3 系列（六）- 综合篇（爱租房项目）\nhttpServer\n这里我们使用 gin 框架结合 go-micro 来进行编写\n首先 创建一个 http 目录，并在该目录下创建 main.go，写入下面代码\npackage main\n\nimport (\n    httpServer \"github.com/asim/go-micro/plugins/server/http/v3\"\n    \"github.com/asim/go-micro/v3\"\n    \"github.com/asim/go-micro/v3/logger\"\n    \"github.com/asim/go-micro/v3/registry\"\n    \"github.com/asim/go-micro/v3/server\"\n    \"github.com/gin-gonic/gin\"\n    \"go-micro-examples/http/handler\"\n)\n\nconst (\n    ServerName = \"go.micro.web.DemoHTTP\" // server name\n)\n\nfunc main() {\n    // Create service\n    srv := httpSer…",
+          "link": "https://gocn.vip/topics/12205",
+          "publishedOn": "2021-06-16T08:42:16.000Z",
+          "wordCount": 317,
+          "title": "微服务实战 Go Micro v3 系列（三）- 启动 HTTP 服务"
+        },
+        {
+          "id": "https://gocn.vip/topics/12204",
+          "author": "yang759126596",
+          "description": "首先从我们最最熟悉的 helloworld 例子在入手，对 go-micro 有一个初步的了解\n源码地址\n源码地址\n爱租房微服务综合项目\n系列文章\n微服务实战 Go Micro v3 系列（一）- 基础篇\n微服务实战 Go Micro v3 系列（二）- HelloWorld\n微服务实战 Go-Micro v3 系列（三）- 启动 HTTP 服务\n微服务实战 Go Micro v3 系列（四）- 事件驱动 (Pub/Sub)\n微服务实战 Go Micro v3 系列（五）- 注册和配置中心\n微服务实战 Go Micro v3 系列（六）- 综合篇（爱租房项目）\nProtoBuf\n简介\nprotocol buffers（ProtoBuf）是一种语言无关、平台无关、可扩展的序列化结构数据的方法，它可用于（数据）通信协议、数据存储等。\nProtocol Buffers 是一种灵活，高效，自动化机制的结构数据序列化方法－可类比 XML，但是比 XML 更小（3 ~ 10 倍）、更快（20 ~ 100 倍）、更为简单。\njson\\xml 都是基于文本格式，protobuf 是二进制格式。\n你可以通过 ProtoBuf 定义数据结构，然后通过 ProtoBuf 工具生成各种语言版本的数据结构类库，用于操作 ProtoBuf 协议数据\n本教程介绍的是最新的 protobuf proto3 版本的语法。\n使用 ProtoBuf 的例子\n创建 .proto 文件，定义数据结构\n使用 ProtoBuf ，首先需要通过 ProtoBuf 语法定义数据结构 (消息)，这些定义好的数据结构保存在.proto 为后缀的文件中。\n例子:\n文件名: response.proto\n// 指定protobuf的版本，proto3是最新的语法版本\nsyntax = \"proto3\";\n\n// 定义数据结构，me…",
+          "link": "https://gocn.vip/topics/12204",
+          "publishedOn": "2021-06-16T08:41:46.000Z",
+          "wordCount": 649,
+          "title": "微服务实战 Go Micro v3 系列（二）- HelloWorld"
+        },
+        {
+          "id": "https://gocn.vip/topics/12203",
+          "author": "yang759126596",
+          "description": "最近完成了公司租房微服务项目，由于使用 go-micro v3遇到了不少的问题，在这里利用一个实战项目帮助大家融会贯通的使用 go-micro v3\n另外，由于 Micro3.0 直接放弃维护 go-micro，所以网上很多文章都是已经过时的了。\n源码地址\n源码地址\n爱租房微服务综合项目\n系列文章\n微服务实战 Go Micro v3 系列（一）- 基础篇\n微服务实战 Go Micro v3 系列（二）- HelloWorld\n微服务实战 Go-Micro v3 系列（三）- 启动 HTTP 服务\n微服务实战 Go Micro v3 系列（四）- 事件驱动 (Pub/Sub)\n微服务实战 Go Micro v3 系列（五）- 注册和配置中心\n微服务实战 Go Micro v3 系列（六）- 综合篇（爱租房项目）\nGo Micro 简介与设计理念\nGo Micro 是一个基于 Go 语言编写的、用于构建微服务的基础框架，提供了分布式开发所需的核心组件，包括 RPC 和事件驱动通信等。\n它的设计哲学是「可插拔」的插件化架构，其核心专注于提供底层的接口定义和基础工具，这些底层接口可以兼容各种实现。例如 Go Micro 默认通过 consul 进行服务发现，通过 HTTP 协议进行通信，通过 protobuf 和 json 进行编解码，以便你可以基于这些开箱提供的组件快速启动，但是如果需要的话，你也可以通过符合底层接口定义的其他组件替换默认组件，比如通过 etcd 或 zookeeper 进行服务发现，这也是插件化架构的优势所在：不需要修改任何底层代码即可实现上层组件的替换。\nGo Micro 基础架构介绍\nGo Micro 框架的基础架构如下，由 8 个核心接口组成，每个接口都有默认实现：\n\n它的设计哲学是「可插拔」的插件化架构，其核心专注于提供底层的接口定义和基础工具，这些底层…",
+          "link": "https://gocn.vip/topics/12203",
+          "publishedOn": "2021-06-16T08:41:12.000Z",
+          "wordCount": 306,
+          "title": "微服务实战 Go Micro v3 系列（一）- 基础篇"
+        },
+        {
+          "id": "https://gocn.vip/topics/12202",
+          "author": "yang759126596",
+          "description": "完整项目地址： go-shop-b2c\n系列文章：\n手摸手，带你用 Beego 撸商城 系列一（基础篇）\n手摸手，带你用 Beego 撸商城 系列二（登录篇）\n手摸手，带你用 Beego 撸商城 系列三（系统配置篇）\n前言\n这篇就来讲解，一下要启动项目的一些基础配置，比如通过 bee 工具生成 model 层，CORS 配置，router 配置，日志配置等\nBee 工具生成 model 层\nbee 工具简介\nbee 工具是一个为了协助快速开发 beego 项目而创建的项目，通过 bee 您可以很容易的进行 beego 项目的创建、热编译、开发、测试、和部署。\nbee 工具的安装\ngo get -u github.com/beego/bee/v2\n\n输入\nbee version\n\n如下图所示:\n\n这里只能介绍 bee 根据 MySql 反向生成 api 应用\napi 命令\n```shell script\nbee api [appname] [-tables=\"\"] [-driver=mysql] [-conn=\"root:@tcp(127.0.0.1:3306)/test\"]\n\n可选命令介绍\n\n* appname，生成 api 应用的名称\n* -tables，顾名思义生成的表名，\"\"表示反射全部表，如果输入固定表名，只反射输入的表名\n* -driver，数据库驱动，支持Mysql、Oracle、Mongodb等\n* -conn，连接地址，root:<password>@tcp(127.0.0.1:3306)/test\n\n输入如下命令:\n```shell script\nbee api appname -tables=\"\" -driver=mysql -conn=\"root:123456@tcp(127.0.0.1:3306)/go-shop-b2c\"\n\n\n目录结构如下:\n\n项目…",
+          "link": "https://gocn.vip/topics/12202",
+          "publishedOn": "2021-06-16T08:39:39.000Z",
+          "wordCount": 261,
+          "title": "手摸手，带你用 Beego 撸商城系列三（系统配置篇）"
+        },
+        {
+          "id": "https://gocn.vip/topics/12201",
+          "author": "yang759126596",
+          "description": "完整项目地址： go-shop-b2c\n系列文章：\n手摸手，带你用 Beego 撸商城 系列一（基础篇）\n手摸手，带你用 Beego 撸商城 系列二（登录篇）\n手摸手，带你用 Beego 撸商城 系列三（系统配置篇）\n前言\n一个商城后端系统，登录尤其重要，首先用户下单，需要登录，后台管理系统，需要登录。我们需要做的是，除了登录以及注册，其余的接口需要进行登录校验。\nbase_controller 封装\n由于我们需要进行登录校验和不进行登录校验的 Controller，又由于 base_controller 需要进行登录检验，同时，不需要登录校验的 Controller 和 base_controller有共同的函数需要调用\n综上所述，我们应该额外增加一个 Controller  分别用于 base_controller 继承 和 不需要登录检验的 Controller 用于继承\n下面就简单地介绍一下 json_controller\njson_controller\ntype JsonController struct {\n    beego.Controller\n}\n\nJsonResult 返回给前端 JSON 数据，公共调用函数\n/**\n* Ajax接口返回Json\n*/\nfunc (c *JsonController) JsonResult(status int, errCode int, errMsg string, data ...interface{}) {\njsonData := make(map[string]interface{}, 3)\njsonData[\"err_code\"] = errCode\njsonData[\"message\"] = errMsg\n\nif len(data) > 0 && data[0] != nil {\n    jsonData[\"…",
+          "link": "https://gocn.vip/topics/12201",
+          "publishedOn": "2021-06-16T08:39:08.000Z",
+          "wordCount": 592,
+          "title": "手摸手，带你用 Beego 撸商城系列二（登录篇）"
+        },
+        {
+          "id": "https://gocn.vip/topics/12200",
+          "author": "yang759126596",
+          "description": "完整项目地址： go-shop-b2c\n系列文章：\n手摸手，带你用 Beego 撸商城 系列一（基础篇）\n手摸手，带你用 Beego 撸商城 系列二（登录篇）\n手摸手，带你用 Beego 撸商城 系列三（系统配置篇）\n前言\n这里不会讲解太多的基础知识，主要介绍关于从零开始使用 Beego 框架撸一个商城思路\n目录结构\n├── common                     // 公共函数\n├── conf                       // 配置相关\n├── controllers                // API请求\n│   ├── admin                  // 后台管理 API\n│   ├── web                    // 移动web商城 API\n├── helpers                    // 工具函数\n├── model_views                // 前端展示 Struct\n├── models                     // Model层\n├── routers                    // RESTful 路由\n├── setting                    // 系统配置\n├── sysinit                    // 应用启动前初始化\n├── .gitignore                 // git 忽略项\n├── go.mod                     // Go Module依赖\n├── go-shop-b2c                // SQL文件\n├── go-shop-b2c.xml            // 系统配置XML\n├── main.go                    // 入口 main.go\n├── xxx.p12                    // API证书(微信支付)\n\n下面简单介绍目录代码\ncontrollers\n简单截取一下 controller/admin 的 controller\n\n这里着重介绍一下 json_controller.go、base_controller.go\njson_controller.go 继承 beego.Controller，增加返回前端 JOSN 数据处理函数、服务报错误处理等公共函数等\nbase_controller.go 继承 json_controller.go，重载 Prepare 函数，并做登录有效信息校验等\n关键代码示例：\n\n\nmodels\n使用 Beego 提供的 Bee 工具 api 命令生成的 Model 层，主要包含增、删、改、查数据库的函数\n截图某个片段示例：\n\nrouters\nbeego 的 RESTful Controller 路由\n关键代码示例：\n\n\nsetting\n商城后台管理系统的系统设置模快，存储于 xml 文件, setting/setting.go 是封装 对 go-shop-b2c.xml 的操作\n对应商城管理系统的系统设置模快，前端展示：\n\nsysint\nbeego 执行 RUN 之前，各种初始化操作，比如 日志打印、数据库连接、CORS 配置等\n关键代码示例：",
+          "link": "https://gocn.vip/topics/12200",
+          "publishedOn": "2021-06-16T08:38:10.000Z",
+          "wordCount": 222,
+          "title": "手摸手，带你用 Beego 撸商城系列一（基础篇）"
+        },
+        {
           "id": "https://gocn.vip/topics/12199",
           "author": "_Lin",
           "description": "GoCN 每日新闻 (2021-06-16)\n说说 Golang goroutine 并发那些事儿 https://blog.51cto.com/u_15162069/2907504\n\nfasthttp：比 net/http 快十倍的 Go 框架 (server 篇)  https://www.luozhiyun.com/archives/574\n\n详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？ https://segmentfault.com/a/1190000040181868\n\n一个 Gin 缓存中间件的设计与实现 https://www.cyhone.com/articles/gin-cache\n\n用于加载 csv 和 excel (xlsx) 文件并运行 sql 命令的命令行工具 https://github.com/dhamith93/csv-sql\n\n\n\nGopherChina 倒计时 11 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n编辑: 琳 \n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
