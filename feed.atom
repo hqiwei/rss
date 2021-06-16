@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T12:13:51.922Z</updated>
+    <updated>2021-06-16T13:22:53.566Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12647,46 +12647,6 @@ sync.Pool 是一个内存池。通常内存池是用来防止内存泄露的（�
 fun…]]></summary>
         <author>
             <name>haohongfan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magisk 创作者吴泓霖加入 Google，任职于 Android 安全团队]]></title>
-        <id>https://www.oschina.net/news/141970/magisk-developer-joins-google</id>
-        <link href="https://www.oschina.net/news/141970/magisk-developer-joins-google"/>
-        <updated>2021-05-18T00:38:26.000Z</updated>
-        <summary type="html"><![CDATA[熟悉 Android 系统的用户都知道，要想获取系统的最高权限就需要对系统进行 root。如果你在过去几年里对 Android 手机进行了 root 并用来实现一些原本系统所不具备的功能，那么你一定听说过 Magisk 这款工具。今天，Magisk 的开发者吴泓霖（John Wu）宣布，他将加入 Google 的 Android 安全团队。 Magisk 是吴泓霖在 2016...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 之父：明年在 Python 中实现至少 1 倍提速]]></title>
-        <id>https://www.oschina.net/news/141969/faster-cpython-dark</id>
-        <link href="https://www.oschina.net/news/141969/faster-cpython-dark"/>
-        <updated>2021-05-18T00:32:14.000Z</updated>
-        <summary type="html"><![CDATA[Python 之父 Guido van Rossum 在 2021 年 Python 语言峰会上透露了一些有关 Python 的发展计划表示，其短期计划是在 Python 3.11 版本中实现至少提速 1 倍。按照官方的发布周期，目前处于测试阶段的 Python 3.10 计划于今年 10 月发布，Python 3.11 则预计于 2022 年发布。 2020 年 11 月，Guido 在退休一年后宣布再度复...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vineyard 加入 CNCF Sandbox，将继续瞄准云原生大数据分析领域]]></title>
-        <id>https://www.oschina.net/news/141966/vineyard-cncf-sandbox</id>
-        <link href="https://www.oschina.net/news/141966/vineyard-cncf-sandbox"/>
-        <updated>2021-05-18T00:16:49.000Z</updated>
-        <summary type="html"><![CDATA[Vineyard 是一个专为云原生环境下大数据分析场景中端到端工作流提供内存数据共享的分布式引擎，我们很高兴宣布 Vineyard 在 2021 年 4 月 27 日被云原生基金会（CNCF）TOC 接受为沙箱（Sandbox）项目。 Vineyard 项目开源地址：https://github.com/alibaba/v6d 项目介绍 现有的大数据分析场景中，对于端到端任务，不同的...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Percona 调查：企业对开源软件的依赖不断提高]]></title>
-        <id>https://www.oschina.net/news/141965/survey-shows-enterprises-reliance-on-opensource-software</id>
-        <link href="https://www.oschina.net/news/141965/survey-shows-enterprises-reliance-on-opensource-software"/>
-        <updated>2021-05-18T00:14:23.000Z</updated>
-        <summary type="html"><![CDATA[近日，Percona 对 200 名 IT 决策者进行了调查，通过调查他们发现如今企业对开源软件的价值有着深刻的认识，其中所有的 IT 决策者（100%）均表示，使用开源软件为他们的企业/组织带来了好处。调查报告还显示，在过去的 12个月时间里，79% 的受访者在企业内部都增加了开源软件的使用。 200 名受访者中，25% 来自于 500-99...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>

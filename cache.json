@@ -8157,42 +8157,6 @@
           "publishedOn": "2021-05-18T02:59:41.000Z",
           "wordCount": 695,
           "title": "Arthas 3.5.1 发布：神级特性！内存搜索对象"
-        },
-        {
-          "id": "https://www.oschina.net/news/141970/magisk-developer-joins-google",
-          "author": null,
-          "description": "熟悉 Android 系统的用户都知道，要想获取系统的最高权限就需要对系统进行 root。如果你在过去几年里对 Android 手机进行了 root 并用来实现一些原本系统所不具备的功能，那么你一定听说过 Magisk 这款工具。今天，Magisk 的开发者吴泓霖（John Wu）宣布，他将加入 Google 的 Android 安全团队。 Magisk 是吴泓霖在 2016...",
-          "link": "https://www.oschina.net/news/141970/magisk-developer-joins-google",
-          "publishedOn": "2021-05-18T00:38:26.000Z",
-          "wordCount": 490,
-          "title": "Magisk 创作者吴泓霖加入 Google，任职于 Android 安全团队"
-        },
-        {
-          "id": "https://www.oschina.net/news/141969/faster-cpython-dark",
-          "author": null,
-          "description": "Python 之父 Guido van Rossum 在 2021 年 Python 语言峰会上透露了一些有关 Python 的发展计划表示，其短期计划是在 Python 3.11 版本中实现至少提速 1 倍。按照官方的发布周期，目前处于测试阶段的 Python 3.10 计划于今年 10 月发布，Python 3.11 则预计于 2022 年发布。 2020 年 11 月，Guido 在退休一年后宣布再度复...",
-          "link": "https://www.oschina.net/news/141969/faster-cpython-dark",
-          "publishedOn": "2021-05-18T00:32:14.000Z",
-          "wordCount": 556,
-          "title": "Python 之父：明年在 Python 中实现至少 1 倍提速"
-        },
-        {
-          "id": "https://www.oschina.net/news/141966/vineyard-cncf-sandbox",
-          "author": null,
-          "description": "Vineyard 是一个专为云原生环境下大数据分析场景中端到端工作流提供内存数据共享的分布式引擎，我们很高兴宣布 Vineyard 在 2021 年 4 月 27 日被云原生基金会（CNCF）TOC 接受为沙箱（Sandbox）项目。 Vineyard 项目开源地址：https://github.com/alibaba/v6d 项目介绍 现有的大数据分析场景中，对于端到端任务，不同的...",
-          "link": "https://www.oschina.net/news/141966/vineyard-cncf-sandbox",
-          "publishedOn": "2021-05-18T00:16:49.000Z",
-          "wordCount": 674,
-          "title": "Vineyard 加入 CNCF Sandbox，将继续瞄准云原生大数据分析领域"
-        },
-        {
-          "id": "https://www.oschina.net/news/141965/survey-shows-enterprises-reliance-on-opensource-software",
-          "author": null,
-          "description": "近日，Percona 对 200 名 IT 决策者进行了调查，通过调查他们发现如今企业对开源软件的价值有着深刻的认识，其中所有的 IT 决策者（100%）均表示，使用开源软件为他们的企业/组织带来了好处。调查报告还显示，在过去的 12个月时间里，79% 的受访者在企业内部都增加了开源软件的使用。 200 名受访者中，25% 来自于 500-99...",
-          "link": "https://www.oschina.net/news/141965/survey-shows-enterprises-reliance-on-opensource-software",
-          "publishedOn": "2021-05-18T00:14:23.000Z",
-          "wordCount": 495,
-          "title": "Percona 调查：企业对开源软件的依赖不断提高"
         }
       ]
     },
