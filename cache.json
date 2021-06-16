@@ -1980,6 +1980,33 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=86536",
+          "author": "Editor, Kai",
+          "description": "WinterIsComing (31822)发表于 2021年06月15日 13时23分 星期二 新浪微博分享 豆瓣分享 人人分享 来自部门 Google 宣布在 Apache License 2.0 许可证下开源首个全同态加密（FHE）的 […]",
+          "link": "http://www.linuxeden.com/a/86536",
+          "publishedOn": "2021-06-16T13:46:15.000Z",
+          "wordCount": 100,
+          "title": "Google 开源全同态加密的通用转译器"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86534",
+          "author": "Editor, Kai",
+          "description": "ava 具有功能强大、多样化、可拓展、有趣的特点。这就是 Java 为什么被我们广泛使用，也是我们如何正确使用它的方式。 Java 是在 1995 年发布的，当我写这篇文章的时候，它已经 26 岁了。起初它是专有的，但在 2007 年，Ja […]",
+          "link": "http://www.linuxeden.com/a/86534",
+          "publishedOn": "2021-06-16T13:44:58.000Z",
+          "wordCount": 224,
+          "title": "2021 年学习 Java 的三个理由"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86527",
+          "author": "Editor, Kai",
+          "description": "它看起来像复古计算，但它是一个现代的操作系统，你可以用它来完成任务。 在整个 1980 年代和 1990 年代，我主要是一个 DOS 用户。我喜欢 DOS 提供的命令行环境，它随着每一个连续的版本变得更加强大。我甚至学会了如何用 C 语言编 […]",
+          "link": "http://www.linuxeden.com/a/86527",
+          "publishedOn": "2021-06-16T13:42:55.000Z",
+          "wordCount": 374,
+          "title": "FreeDOS 入门"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86524",
           "author": "Editor, Kai",
           "description": "Linuxeden开源社区-开源美图 2021 06 16",

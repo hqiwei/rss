@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T13:22:53.566Z</updated>
+    <updated>2021-06-16T14:09:00.997Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google 开源全同态加密的通用转译器]]></title>
+        <id>http://www.linuxeden.com/?p=86536</id>
+        <link href="http://www.linuxeden.com/a/86536"/>
+        <updated>2021-06-16T13:46:15.000Z</updated>
+        <summary type="html"><![CDATA[WinterIsComing (31822)发表于 2021年06月15日 13时23分 星期二 新浪微博分享 豆瓣分享 人人分享 来自部门 Google 宣布在 Apache License 2.0 许可证下开源首个全同态加密（FHE）的 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 年学习 Java 的三个理由]]></title>
+        <id>http://www.linuxeden.com/?p=86534</id>
+        <link href="http://www.linuxeden.com/a/86534"/>
+        <updated>2021-06-16T13:44:58.000Z</updated>
+        <summary type="html"><![CDATA[ava 具有功能强大、多样化、可拓展、有趣的特点。这就是 Java 为什么被我们广泛使用，也是我们如何正确使用它的方式。 Java 是在 1995 年发布的，当我写这篇文章的时候，它已经 26 岁了。起初它是专有的，但在 2007 年，Ja […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeDOS 入门]]></title>
+        <id>http://www.linuxeden.com/?p=86527</id>
+        <link href="http://www.linuxeden.com/a/86527"/>
+        <updated>2021-06-16T13:42:55.000Z</updated>
+        <summary type="html"><![CDATA[它看起来像复古计算，但它是一个现代的操作系统，你可以用它来完成任务。 在整个 1980 年代和 1990 年代，我主要是一个 DOS 用户。我喜欢 DOS 提供的命令行环境，它随着每一个连续的版本变得更加强大。我甚至学会了如何用 C 语言编 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微服务实战 Go Micro v3 系列（六）- 综合篇（爱租房项目）]]></title>
         <id>https://gocn.vip/topics/12208</id>
