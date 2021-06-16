@@ -6,6 +6,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60b8cb0aacb62507dd1d82ea",
+          "author": null,
+          "description": "In this article, I'll explain two important concepts in statistics: skewness and kurtosis. And don't worry – you won't need to know very much math to understand these concepts and learn how to apply them. What are Density Curves?Let's first talk a bit about density curves, as skewness and kurtosis",
+          "link": "https://www.freecodecamp.org/news/skewness-and-kurtosis-in-statistics-explained/",
+          "publishedOn": "2021-06-16T20:56:49.000Z",
+          "wordCount": 2502,
+          "title": "Skewness and Kurtosis – Positively Skewed and Negatively Skewed Distributions in Statistics Explained"
+        },
+        {
+          "id": "60ca25704dc1a607ed7b408c",
+          "author": null,
+          "description": "Here's a list of amazing tricks that you can use to improve your React applications instantly. These tips will not only make your code cleaner and more reliable, but they also aim to make your development experience easier and overall more enjoyable.  Give these techniques a try in your React",
+          "link": "https://www.freecodecamp.org/news/build-better-react-apps-with-these-tricks/",
+          "publishedOn": "2021-06-16T20:55:03.000Z",
+          "wordCount": 1525,
+          "title": "Build Better React Apps with These Simple Tricks"
+        },
+        {
           "id": "60ca30af4dc1a607ed7b4197",
           "author": null,
           "description": "You can learn the basics of Data Analytics with 30 days of practice.  We just released a Data Analytics course on the freeCodeCamp.org YouTube channel. The course includes a 40-minute video, as well as a website and Jupyter notebooks. If you follow the plan laid out in these course",
@@ -1917,24 +1935,6 @@
           "publishedOn": "2021-05-18T23:16:38.000Z",
           "wordCount": 1587,
           "title": "使用 Delve 工具调试 Golang 程序"
-        },
-        {
-          "id": "https://gocn.vip/topics/12089",
-          "author": "HRMing",
-          "description": "关于我们  \n团队主要遍布在美国，香港，泰国，越南，菲律宾地区。项目有体育直播，电竞，游戏，视频站，CDN, IM, 支付，客服系统等产品较为多元，近几年不断在新增项目团队以及拓展市场版图。\n我们能提供什么 \n丰富项目提成\n每周优秀员工奖金\n正式员工满一年保证 13 薪\n灵活的工作地点，弹性上班\n有能力，提期望，我买单\n工作内容以及要求 \n高级全栈工程师\n招聘人数：1 人\n薪资：20-30k\n职位描述\n负责重构压测服务产品架构设计、技术实现及优化；负责核心模块及关键业务的代码开发、调试与维护；研发规范的制定，推动研发规范的执行；工作积极发现和推动解决产品出现的问题。\n职位要求\n精通 Javasript/HTML/CSS 等前端开发技术，基础扎实；熟悉当下主流的前端框架 (React/Vue/Angular 等)，有 Vue 开发经验优先；精通 Node.js 的开发和部署，熟悉 ES6, ES7 语法，有 Express 或 Koa 框架的使用经验；熟悉 Linux 开发环境, 至少熟悉一种脚本语言，具备优秀的代码习惯; 有良好的组件级建模能力，具备大型系统架构经验; 良好的沟通能力和团队合作精神，有责任心，…",
-          "link": "https://gocn.vip/topics/12089",
-          "publishedOn": "2021-05-18T08:24:57.000Z",
-          "wordCount": 249,
-          "title": "[全职远程] 诚聘全栈，前端，C++, 运维"
-        },
-        {
-          "id": "https://gocn.vip/topics/12088",
-          "author": "NebulaGraph",
-          "description": "本文首发于 Nebula Graph 公众号 NebulaGraphCommunity，Follow 看大厂图数据库技术实践。\n\n【作者介绍】\n戚名钰：快手安全 - 移动安全组，主要负责快手安全情报平台的建设\n倪雯：快手数据平台 - 分布式存储组，主要负责快手图数据库的建设\n姚靖怡：快手数据平台 - 分布式存储组，主要负责快手图数据库的建设\n【公司简介】\n快手是一家全球领先的内容社区和社交平台，旨在通过短视频的方式帮助人们发现所需、发挥所长，持续提升每个人独特的幸福感。\n一. 为什么需要图数据库\n传统的关系型数据库，在处理复杂数据关系运算上表现很差，随着数据量和深度的增加，关系型数据库无法在有效的时间内计算出结果。\n所以，为了更好的体现数据间的连接，企业需要一种将关系信息存储为实体、灵活拓展数据模型的数据库技术，这项技术就是图数据库（Graph Database）。\n相比于传统关系型数据库，图数据库具有以下两个优点：\n第一点，图数据库能很好地体现数据之间的关联关系\n\n从上面的图模型可以看出，图数据库的目标就是基于图模型以一种直观的方式来展示这些关系，其基于事物关系的模型表达，使图数据库天然具有可解释性。\n第二…",
-          "link": "https://gocn.vip/topics/12088",
-          "publishedOn": "2021-05-18T08:18:42.000Z",
-          "wordCount": 579,
-          "title": "百亿级图数据在快手安全情报的应用与挑战"
         }
       ]
     },
