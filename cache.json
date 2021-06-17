@@ -4991,6 +4991,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/146385",
+          "author": null,
+          "description": "报告编号：B6-2021-061501 报告来源：360CERT 报告作者：360CERT 更新日期：2021-06-15 1. 事件导览 本周收录安全热点16项，话题集中在数据安全、勒索软件方面，涉及的组织有：奥迪、大众汽车、麦当劳、EA等。多个龙头企业遭遇数据泄露，数据防护不可忽视。对此，360CERT建议使用360安全卫士进行病毒检测、使用360安全分...",
+          "link": "https://www.oschina.net/news/146385",
+          "publishedOn": "2021-06-17T06:39:10.000Z",
+          "wordCount": 1038,
+          "title": "安全事件周报，奥迪、大众、麦当劳和 EA 等多个龙头企业遭遇数据泄露"
+        },
+        {
           "id": "https://www.oschina.net/news/146327/google-open-sources-fully-homomorphic-encryption-transpiler",
           "author": null,
           "description": "谷歌宣布开源了用于全同态加密（FHE）的首个通用转译器。该公司称，FHE 将允许开发人员在无法访问个人身份信息的情况下处理加密数据。 根据介绍，FHE 允许通过 Internet 将加密数据传输到服务器并在不解密的情况下进行处理。谷歌的转译器则将允许开发人员为基本计算编写代码，如字符串处理或数学，并在加密数据上运行它。...",
