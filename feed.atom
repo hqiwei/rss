@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T12:13:49.267Z</updated>
+    <updated>2021-06-17T13:22:26.804Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12654,46 +12654,6 @@ if err != nil {
 expire：key 统一的过期…]]></summary>
         <author>
             <name>kevwan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[参与 Apache 顶级开源项目的 N 种方式，Apache Dubbo Samples SIG 成立！]]></title>
-        <id>https://www.oschina.net/news/142109/apache-dubbo-samples-sig</id>
-        <link href="https://www.oschina.net/news/142109/apache-dubbo-samples-sig"/>
-        <updated>2021-05-19T00:37:58.000Z</updated>
-        <summary type="html"><![CDATA[只有贡献代码才算是参与开源项目社区贡献吗？ 一说到参与开源项目贡献，一般大家的反应都是代码级别的贡献，总觉得我的代码被社区合并了，我才算一个贡献者，这是一个常见的错误认知。其实，在一个开源社区中有非常多的角色是 non-code contributor，一个开源社区中的很多关键职责被大家给忽略了。 组织活动也可以是贡献...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX 使用 Rust 为部分新项目构建原型]]></title>
-        <id>https://www.oschina.net/news/142107/spacex-software-team-use-rust</id>
-        <link href="https://www.oschina.net/news/142107/spacex-software-team-use-rust"/>
-        <updated>2021-05-19T00:34:50.000Z</updated>
-        <summary type="html"><![CDATA[SpaceX 软件开发团队的部分成员近日在 reddit 参加了 AMA(ask me anything) 活动，邀请任何人来向他们提问有关项目的问题。 其中有一名用户提问道，SpaceX 软件开发团队是否对 Rust 这门语言有更多的想法，以及是否或可能如何使用它？ SpaceX 团队成员"Asher"回复称，他们对 Rust 非常感兴趣，因为 Rust 在安全、性能和现...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果放弃开源项目 CUPS 的开发，OpenPrinting 将负责后续工作]]></title>
-        <id>https://www.oschina.net/news/142106/apple-stops-developing-cups</id>
-        <link href="https://www.oschina.net/news/142106/apple-stops-developing-cups"/>
-        <updated>2021-05-19T00:32:07.000Z</updated>
-        <summary type="html"><![CDATA[早在 2007 年，苹果公司就收购了 Linux 开源打印系统 CUPS，此后在 2017 年决定不再根据 GPL 开发 CUPS，而是转变成 Apache 2.0 许可协议继续开发 CUPS。除了 Linux，这个开源打印系统还广泛运用于 Unix 和 macOS。但随着 2019 年底 CUPS 的首席开发者离开了苹果后，CUPS 的开发似乎也处于停滞状态。幸运的是，如今 CUPS...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JumpServer 开源堡垒机的自白：改变世界，从一点点开始]]></title>
-        <id>https://www.oschina.net/news/142104/jumpserver-confessions</id>
-        <link href="https://www.oschina.net/news/142104/jumpserver-confessions"/>
-        <updated>2021-05-19T00:22:39.000Z</updated>
-        <summary type="html"><![CDATA[编者注：本文刊登在《新一代堡垒机建设指南》（2021 年 5 月第 I 版）序言部分，文章作者为 JumpServer 开源堡垒机项目创始人广宏伟。 改变世界，从一点点开始 2014年6月，JumpServer开源堡垒机项目诞生。在那个时间节点，这个项目要到哪里去？我的手中没有地图。 那时我是一名运维工程师，入职了一家新公司。上班第一天...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
