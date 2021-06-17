@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T18:13:15.513Z</updated>
+    <updated>2021-06-17T19:10:41.283Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12644,26 +12644,6 @@ GoCN 归档: https://gocn.vip/topics/…]]></summary>
 构建一个 style guide 来帮助该项目拥有一个更统一、…]]></summary>
         <author>
             <name>alicloudnative</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebRTC 的现状和未来：专访 W3C WebRTC Chair Bernard Aboba]]></title>
-        <id>https://www.oschina.net/news/142177/webrtc-today-tomorrow-bernard-aboba-qa</id>
-        <link href="https://www.oschina.net/news/142177/webrtc-today-tomorrow-bernard-aboba-qa"/>
-        <updated>2021-05-19T07:00:34.000Z</updated>
-        <summary type="html"><![CDATA[WebRTC 无疑推动和改变了互联网视频，而这仅仅是刚刚开始，除了大家熟悉的 WebRTC-PC、Simulcast 和 SVC，有太多的新技术和新架构出现在 WebRTC 新的标准中，比如 WebTransport、WebCodecs、AV1、E2EE、SFrame、ML 等等，这篇文章详细介绍了未来的 WebRTC-NV，不容错过。 说明： 本文为阿里云视频云翻译的技术文章 原文标...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dishes Launcher – 托盘里的快速启动工具[Windows]]]></title>
-        <id>https://www.appinn.com/?p=38850</id>
-        <link href="https://www.appinn.com/dishes-launcher/"/>
-        <updated>2021-05-19T06:43:15.000Z</updated>
-        <summary type="html"><![CDATA[Dishes Launcher 是一款托盘里的快速启动工具，属于@蓝蓝小雪专为 @oott123 开发定制的小工具，配置简单、使用简单，与著名的 Win+R 方式同源，但是一套适合鼠标的快速启动工具，]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
 </feed>
