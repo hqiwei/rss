@@ -1944,15 +1944,6 @@
           "publishedOn": "2021-05-19T07:43:56.000Z",
           "wordCount": 274,
           "title": "参与 Apache 顶级开源项目的 N 种方式，Apache Dubbo Samples SIG 成立！"
-        },
-        {
-          "id": "https://gocn.vip/topics/12092",
-          "author": "TiDB_Robot",
-          "description": "本篇文章整理自腾讯互娱高级工程师吴召军在 PingCAP Infra Meetup 上的演讲实录，欢迎点击【阅读原文】查看视频回放，后台回复 “135” 即可获取本期 PPT 链接。\n本文首先介绍了腾讯互娱面临的复杂的技术场景，然后介绍了腾讯互娱混沌工程团队基于 Chaos Mesh 打造的云原生混沌工程平台，最后分享腾讯互娱近半年混沌工程实践取得的收益。\n腾讯互娱运营活动每天的访问人次超过 100 亿次，高峰的 QPS 超过 100 万，每天活动代码发布更新超过 500 次，数据量也超过 200 TB。面对海量的用户请求和快捷的版本发布迭代速度，如何才能又快又稳地保障服务的运营？腾讯互娱活动运营团队给出的解决方案是 DevOps 和云原生。\n以前活动的发布都是运维人员来操作，随着活动量快速增长，出现了明显的瓶颈。为了解决这个问题，腾讯互娱设计了一条从代码到生产环境的流水线。现在，活动开发只要把代码提交到仓库，触发代码提交，运营平台就会自动编译构建生成镜像，并且自动把镜像部署到腾讯云 TKE。从代码完成到生产环境发布完成只需 5 分钟，并且全程都是开发自助完成。\n如今，腾讯互娱运营活动基本上所有的服务都是跑在…",
-          "link": "https://gocn.vip/topics/12092",
-          "publishedOn": "2021-05-19T03:27:30.000Z",
-          "wordCount": 216,
-          "title": "Chaos Mesh® 在腾讯——腾讯互娱混沌工程实践"
         }
       ]
     },
@@ -8229,15 +8220,6 @@
           "publishedOn": "2021-05-19T05:49:46.000Z",
           "wordCount": 689,
           "title": "Spring Boot & Cloud 轻量替代框架 Solon 1.4.1 发布"
-        },
-        {
-          "id": "https://www.oschina.net/news/142143/android-studio-arctic-fox-beta",
-          "author": null,
-          "description": "谷歌发布了 Android Studio Arctic Fox (2020.3.1) 首个 Beta 版本，如果按照旧的版本号方案来命名，此版本即为 Android Studio 4.3 Beta。 新的版本号命名方案早于去年就已公布，谷歌解释这是为了与 IntelliJ 的版本对齐。下面简单介绍新的版本号方案，新的版本号格式如下： <Year of IntelliJ Version>.<IntelliJ maj...",
-          "link": "https://www.oschina.net/news/142143/android-studio-arctic-fox-beta",
-          "publishedOn": "2021-05-19T03:37:46.000Z",
-          "wordCount": 543,
-          "title": "Android Studio Arctic Fox (2020.3.1) Beta 发布，启用新的版本号命名方案"
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T15:10:24.316Z</updated>
+    <updated>2021-06-17T16:18:21.917Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12674,30 +12674,6 @@ GoCN 归档: https://gocn.vip/topics/…]]></summary>
         <summary type="html"><![CDATA[Solon 是一个微型的Java开发框架。强调，克制 + 简洁 + 开放的原则；力求，更小、更快、更自由的体验。支持：RPC、REST API、MVC、Micro service、WebSocket、Socket 等多种开发模式。 Solon Cloud 是一系列的接口标准和配置规范，算是 Solon 的分布式开发套件方案。 快速了解Solon的材料： 《Solon 特性简集，相较于 Sp...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Arctic Fox (2020.3.1) Beta 发布，启用新的版本号命名方案]]></title>
-        <id>https://www.oschina.net/news/142143/android-studio-arctic-fox-beta</id>
-        <link href="https://www.oschina.net/news/142143/android-studio-arctic-fox-beta"/>
-        <updated>2021-05-19T03:37:46.000Z</updated>
-        <summary type="html"><![CDATA[谷歌发布了 Android Studio Arctic Fox (2020.3.1) 首个 Beta 版本，如果按照旧的版本号方案来命名，此版本即为 Android Studio 4.3 Beta。 新的版本号命名方案早于去年就已公布，谷歌解释这是为了与 IntelliJ 的版本对齐。下面简单介绍新的版本号方案，新的版本号格式如下： <Year of IntelliJ Version>.<IntelliJ maj...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chaos Mesh® 在腾讯——腾讯互娱混沌工程实践]]></title>
-        <id>https://gocn.vip/topics/12092</id>
-        <link href="https://gocn.vip/topics/12092"/>
-        <updated>2021-05-19T03:27:30.000Z</updated>
-        <summary type="html"><![CDATA[本篇文章整理自腾讯互娱高级工程师吴召军在 PingCAP Infra Meetup 上的演讲实录，欢迎点击【阅读原文】查看视频回放，后台回复 “135” 即可获取本期 PPT 链接。
-本文首先介绍了腾讯互娱面临的复杂的技术场景，然后介绍了腾讯互娱混沌工程团队基于 Chaos Mesh 打造的云原生混沌工程平台，最后分享腾讯互娱近半年混沌工程实践取得的收益。
-腾讯互娱运营活动每天的访问人次超过 100 亿次，高峰的 QPS 超过 100 万，每天活动代码发布更新超过 500 次，数据量也超过 200 TB。面对海量的用户请求和快捷的版本发布迭代速度，如何才能又快又稳地保障服务的运营？腾讯互娱活动运营团队给出的解决方案是 DevOps 和云原生。
-以前活动的发布都是运维人员来操作，随着活动量快速增长，出现了明显的瓶颈。为了解决这个问题，腾讯互娱设计了一条从代码到生产环境的流水线。现在，活动开发只要把代码提交到仓库，触发代码提交，运营平台就会自动编译构建生成镜像，并且自动把镜像部署到腾讯云 TKE。从代码完成到生产环境发布完成只需 5 分钟，并且全程都是开发自助完成。
-如今，腾讯互娱运营活动基本上所有的服务都是跑在…]]></summary>
-        <author>
-            <name>TiDB_Robot</name>
         </author>
     </entry>
 </feed>
