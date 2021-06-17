@@ -1926,24 +1926,6 @@
           "publishedOn": "2021-05-20T02:57:01.000Z",
           "wordCount": 141,
           "title": "[上海][部门直招] UCloud 招聘 Golang 后端工程师 15 薪"
-        },
-        {
-          "id": "https://gocn.vip/topics/12094",
-          "author": "kevin",
-          "description": "进程内缓存助你提高并发能力 https://gocn.vip/topics/12091\n\nChaos Mesh® 在腾讯——腾讯互娱混沌工程实践 https://gocn.vip/topics/12092\n\npprof++: 一个带有硬件监控的 Go Profiler https://mp.weixin.qq.com/s/-BSzD_wIEjHnHbs0xnsHXA\n\ngraphjin: 基于数据库快速生成 GraphQL 服务器 https://github.com/dosco/graphjin\n\nGmocker: 使用 JSON 文件生成 mock 服务器 https://github.com/Ananto30/mocker\n\n\n\n\n\nGopherChina 全部议程和讲师出炉 https://mp.weixin.qq.com/s/G_M4yw6VCTfF03b2L21ZGQ\n\n\n编辑: 李俱顺 Kevin\n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs\n\n\nGoCN 归档: https://gocn.vip/topics/…",
-          "link": "https://gocn.vip/topics/12094",
-          "publishedOn": "2021-05-19T08:09:00.000Z",
-          "wordCount": 111,
-          "title": "GoCN 每日新闻 (2021-05-19)"
-        },
-        {
-          "id": "https://gocn.vip/topics/12093",
-          "author": "alicloudnative",
-          "description": "头图来源：https://opensource.guide/\n来源 | 阿里巴巴云原生公众号\n​\n只有贡献代码才算是参与开源项目社区贡献吗？\n一说到参与开源项目贡献，一般大家的反应都是代码级别的贡献，总觉得我的代码被社区合并了，我才算一个贡献者，这是一个常见的错误认知。其实，在一个开源社区中有非常多的角色是 non-code contributor，一个开源社区中的很多关键职责被大家给忽略了。\n​\n组织活动也可以是贡献社区：\n你可以像远在巴西库亚巴的 @fzamperin学习，为你喜欢的开源项目组织 workshop 或线下 meetup\n你还可以帮助社区成员找到合适的线下峰会来提交技术议题\n……\n技术写作或者技术布道也是贡献社区：\n为你喜欢的开源项目编写或者改进文档\n建立一个如何使用这个开源项目的 samples\n将文档翻译成其他语言，帮助全球开发者认识、使用该项目\n在自己的公众号或者博客分享使用该项目的指南和心得\n……\n设计和官网开发也是贡献社区：\n重构开源项目官网来帮助开发者更好的认识、使用该开源项目\n进行用户调研来更好地改善官网导航和目录\n构建一个 style guide 来帮助该项目拥有一个更统一、…",
-          "link": "https://gocn.vip/topics/12093",
-          "publishedOn": "2021-05-19T07:43:56.000Z",
-          "wordCount": 274,
-          "title": "参与 Apache 顶级开源项目的 N 种方式，Apache Dubbo Samples SIG 成立！"
         }
       ]
     },
@@ -8184,15 +8166,6 @@
           "publishedOn": "2021-05-19T09:32:12.000Z",
           "wordCount": 797,
           "title": "一起看 I/O | Android 12 Beta 版发布，诸多亮点不容错过"
-        },
-        {
-          "id": "https://www.oschina.net/news/142190/chrome-automated-password-changes",
-          "author": null,
-          "description": "Google 计划在 Android 版 Chrome 浏览器中启动一项新功能，以帮助用户一键轻松修改因数据泄露而外泄的密码。 根据官方所述，有了这项新功能之后，只需轻轻一点，Chrome 浏览器就可以帮助用户进行密码修改。在受支持的网站上，如果 Chrome 浏览器检测到一个可能被泄露的密码，\"Change password\"按钮将从 Assistant 中弹出...",
-          "link": "https://www.oschina.net/news/142190/chrome-automated-password-changes",
-          "publishedOn": "2021-05-19T07:50:58.000Z",
-          "wordCount": 486,
-          "title": "Android 版 Chrome 将可以一键修改外泄密码"
         }
       ]
     },
