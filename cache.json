@@ -857,6 +857,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12213",
+          "author": "qloog",
+          "description": "乐我无限 致力于为全球用户提供有趣、有爱、体验最好的互联网产品和服务，跨越文化壁垒，连接全球用户，建立内容生态体系。\n2016 年 4 月，公司核心直播社交产品 LⅳeMe 正式推出，目前已经有超过 1 亿的下载量，成为美国时尚年轻人最喜爱的社交产品之一，覆盖 226 个国家和地区、10 余种语言。\n2020 年 11 月，全球累计注册用户超过 1.1 亿，年度累计开播用户 300 万 +，数据仍在持续增长。\n职位描述\n负责公司产品服务端业务系统的开发及维护；\n负责服务端架构的优化，以及服务中台的搭建。\n职位要求\n本科以上学历，扎实的算法功底，有 3 年以上后端开发经验；\n熟练掌握 Go 语言，以及常用的 web 框架及其原理 (如 Beego、Gin、 Echo 等)；\n熟练掌握关系数据库 (MySQL 等)、非关系数据库 (Redis、MongoDB 等) 的使用、原理和优化方法；\n熟练掌握消息中间件 (如 Kafka、MQ 等) 的使用和原理，并能综合应用相关组件/技术来构建高性能服务，有实际的项目经验；\n理解微服务架构模式，具备深入理解业务、进行微服务改造的能力，以及实际的成功项目经验；\n具备良好的服务端问题定位及解决能力，熟练掌握相关的排查技巧，善于归纳总结，对数据敏感；\n思维活跃、富有责任心、乐于学习、对新技术敏感、有很强的团队协作精神。\n加分项\n在开源社区有作品，或向社区提交过 Patch\n有 k8s 相关经验\n简历投递\n工作地点：北京朝阳（黄渠地铁站附近）\n待遇：面谈\n联系方式： wangquanlong@joyme.sg\n标题请参照：\"gocn+ 姓名 + 职位\" 的格式编辑",
+          "link": "https://gocn.vip/topics/12213",
+          "publishedOn": "2021-06-17T14:46:49.000Z",
+          "wordCount": 142,
+          "title": "[北京][20-35k] 乐我无限招 Go 研发工程师（其他岗位也有）"
+        },
+        {
           "id": "https://gocn.vip/topics/12212",
           "author": "cuteLittleDevil",
           "description": "GoCN 每日新闻 (2021-06-17)\n译文 Go 性能工具小抄 https://gocn.vip/topics/12198\n\n徒手用 Go 写个 Redis 服务器（Godis）https://www.cnblogs.com/xueweihan/p/14891859.html\n\nGo 所有设计模式的流程图与代码实现 https://dev.to/gopher/go-all-design-patterns-code-with-workflow-ea1\n\n详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？ https://eddycjy.com/posts/go/go-bootstrap0/\n\n一篇文章带你搞懂 etcd 3.5 的核心特性 https://mp.weixin.qq.com/s/AYdDdFfJMRvaye0Esh7ImQ\n\n\n\n\n\nGopherChina 倒计时 10 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n编辑: CDS \n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs\n\n\nGoCN 归档: https://gocn.vip/topics/12212",
@@ -1944,15 +1953,6 @@
           "publishedOn": "2021-05-19T03:27:30.000Z",
           "wordCount": 216,
           "title": "Chaos Mesh® 在腾讯——腾讯互娱混沌工程实践"
-        },
-        {
-          "id": "https://gocn.vip/topics/12091",
-          "author": "kevwan",
-          "description": "前言\n缓存，设计的初衷是为了减少繁重的 IO 操作，增加系统并发能力。不管是 CPU多级缓存，page cache，还是我们业务中熟悉的 redis 缓存，本质都是将有限的热点数据存储在一个存取更快的存储介质中。\n计算机本身的缓存设计就是 CPU 采取多级缓存。那对我们服务来说，我们是不是也可以采用这种多级缓存的方式来组织我们的缓存数据。同时 redis 的存取都会经过网络 IO，那我们能不能把热点数据直接存在本进程内，由进程自己缓存一份最近最热的这批数据呢？\n这就引出了我们今天探讨的：local cache，本地缓存，也叫进程缓存。\n本文带你一起探讨下 go-zero 中进程缓存的设计。Let’s go!\n快速入门\n作为一个进程存储设计，当然是 crud 都有的：\n我们先初始化 local cache\n\n\n// 先初始化 local cache\ncache, err = collection.NewCache(time.Minute, collection.WithLimit(10))\nif err != nil {\n  log.Fatal(err)\n}\n\n其中参数的含义：\nexpire：key 统一的过期…",
-          "link": "https://gocn.vip/topics/12091",
-          "publishedOn": "2021-05-19T02:40:45.000Z",
-          "wordCount": 464,
-          "title": "进程内缓存助你提高并发能力！"
         }
       ]
     },
@@ -1961,6 +1961,42 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=86573",
+          "author": "Editor, Kai",
+          "description": "Google与主要开发者签订合同 Linux内核将迎来更多Rust代码 到家了！中国人首次进入自己的空间站：110立方米内景大曝光 Apache Dubbo 3.0.0发布 Linux.org公告：在linux.dev域名下提供邮件托管服务 […]",
+          "link": "http://www.linuxeden.com/a/86573",
+          "publishedOn": "2021-06-17T14:49:18.000Z",
+          "wordCount": 90,
+          "title": "每日文章精选 2021 06 17"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86567",
+          "author": "Editor, Kai",
+          "description": "Google希望在Linux内核中看到对Rust编程语言的运用，以至于他们已经与从事 “Rust for Linux”工作的主要开发者签订了合同，这项工作旨在让Rust代码在内核中成为主流。 Google今天公开了他 […]",
+          "link": "http://www.linuxeden.com/a/86567",
+          "publishedOn": "2021-06-17T14:45:14.000Z",
+          "wordCount": 85,
+          "title": "Google与主要开发者签订合同 Linux内核将迎来更多Rust代码"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86561",
+          "author": "Editor, Kai",
+          "description": "据中国载人航天工程办公室消息，在神舟十二号载人飞船与天和核心舱成功实现自主快速交会对接后，航天员乘组从返回舱进入轨道舱。 按程序完成各项准备后，先后开启节点舱舱门、核心舱舱门，北京时间2021年6月17日18时48分，航天员聂海胜、刘伯明、 […]",
+          "link": "http://www.linuxeden.com/a/86561",
+          "publishedOn": "2021-06-17T14:42:04.000Z",
+          "wordCount": 79,
+          "title": "到家了！中国人首次进入自己的空间站：110立方米内景大曝光"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86559",
+          "author": "Editor, Kai",
+          "description": "apache-dubbo-3.0.0-src.zip        2021-06-16 08:06  4.5M apache-dubbo-3.0.0-src.zip.asc    2021-06-16 08:06  833 apache- […]",
+          "link": "http://www.linuxeden.com/a/86559",
+          "publishedOn": "2021-06-17T14:37:06.000Z",
+          "wordCount": 87,
+          "title": "Apache Dubbo 3.0.0发布"
+        },
         {
           "id": "http://www.linuxeden.com/?p=86555",
           "author": "Editor, Kai",
