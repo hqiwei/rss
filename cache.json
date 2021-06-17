@@ -875,6 +875,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12211",
+          "author": "chcoball",
+          "description": "技术要求\n1、熟悉 WEB 前端技术，对符合 WEB 标准的网站重构有丰富经验，有成功作品； \n2、理解并掌握 Javascript 语言核心技术 DOM、BOM、Ajax、JSON 等，对 Javascript 框架应用（如 jQuery/bootstrap 等）有一定的经验； \n3、熟悉 nodejs 或其他后端语言优先； \n4、对 CSS/Javascript 性能优化、解决多浏览器兼容性问题有一定的经验； \n5、对用户体验、交互操作流程、及用户需求有一定了解； \n6、具备良好的服务意识、责任心、较强的学习能力、优秀的团队沟通与协作能力。 \n7、有 web 3D 开发经验大大加分\n有意者联系：hr@test.dibiantech.com",
+          "link": "https://gocn.vip/topics/12211",
+          "publishedOn": "2021-06-17T03:51:33.000Z",
+          "wordCount": 93,
+          "title": "【招聘】前端开发工程师"
+        },
+        {
           "id": "https://gocn.vip/topics/12210",
           "author": "zhuyaguang1368",
           "description": "写了 50 万行 Go 代码后，我明白这些道理\n原文地址：https://blog.khanacademy.org/half-a-million-lines-of-go/\n\n原文作者：Kevin Dangoor\n\n\n本文永久链接：https://github.com/gocn/translator/blob/master/2021/w22_half_a_million_lines_of_go.md\n\n\n译者：朱亚光\n\n\n\n早在 2019 年 12 月，我第一次写一个关于 Goliath 的可汗学院的项目，该项目的目的是将我们的后端从 python2 整体迁移到 Go 编写的服务上，以及在该过程中的一些其他必要的改变。另外，我也写了一篇关于我们是如何逐步实现这种改变的博客。\n当我们开始 Goliath 的时候，我们团队没有一个人知道 Go，直到我们进行实验才发现相比于其他语言，Go 对我们来说是最好的选择。今天，我们所有的后端和全栈工程师都在写 Go ，Goliath 的增量交付让我们跨越了一个重大的里程碑：目前，超过 50 万行 Go 代码运行在我们的生产环境中。这似乎是一个对 Go  本身进行反思的好时机。\n我们的工程师喜爱 Go 语言\n我向 Go 工程师询问了一些关于 Go 的开放式问题，我听到的反馈是 “读起来和写起来都很容易” 和 “我越用越喜欢!”。\n一位工程师在 .NET 领域工作多年，推崇 exception 风格的错误处理，这与 Go 的错误处理非常不同。如果你对这方面不熟悉，你可以理解为 Go 的错误都是存在错误条件的函数的返回值。我们的前.NET 工程师现在说，“能够调用一个没有返回错误的函数，并且确信它一定会成功，这真的很棒。\n\n另外一个工程师引用了 Go 的标准库文档。他喜欢 可以通过 go doc io.Writer等方式获得离线浏览文档体验。10…",

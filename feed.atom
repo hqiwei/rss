@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T03:11:58.337Z</updated>
+    <updated>2021-06-17T04:11:40.769Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【招聘】前端开发工程师]]></title>
+        <id>https://gocn.vip/topics/12211</id>
+        <link href="https://gocn.vip/topics/12211"/>
+        <updated>2021-06-17T03:51:33.000Z</updated>
+        <summary type="html"><![CDATA[技术要求
+1、熟悉 WEB 前端技术，对符合 WEB 标准的网站重构有丰富经验，有成功作品； 
+2、理解并掌握 Javascript 语言核心技术 DOM、BOM、Ajax、JSON 等，对 Javascript 框架应用（如 jQuery/bootstrap 等）有一定的经验； 
+3、熟悉 nodejs 或其他后端语言优先； 
+4、对 CSS/Javascript 性能优化、解决多浏览器兼容性问题有一定的经验； 
+5、对用户体验、交互操作流程、及用户需求有一定了解； 
+6、具备良好的服务意识、责任心、较强的学习能力、优秀的团队沟通与协作能力。 
+7、有 web 3D 开发经验大大加分
+有意者联系：hr@test.dibiantech.com]]></summary>
+        <author>
+            <name>chcoball</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What are Bookmarklets? How to Use JavaScript to Make a Bookmarklet in Chromium and Firefox]]></title>
         <id>60c88bbc4dc1a607ed7b2ffa</id>
