@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T02:31:06.188Z</updated>
+    <updated>2021-06-17T03:11:58.337Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -257,6 +257,26 @@
         <link href="http://www.dayanzai.me/display-driver-uninstaller.html"/>
         <updated>2021-06-16T16:36:33.000Z</updated>
         <summary type="html"><![CDATA[显卡驱动卸载工具 Display Driver Uninstaller 中文版由大眼仔旭（www.dayanz […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 密钥激活次数查询工具 PID Key Checker 4.0.0.0 中文免费版]]></title>
+        <id>http://www.dayanzai.me/?p=4418</id>
+        <link href="http://www.dayanzai.me/pid-key-checker.html"/>
+        <updated>2021-06-16T16:18:20.000Z</updated>
+        <summary type="html"><![CDATA[PID Key Checker 中文版是一款开源免费的 Windows 产品序列号激活查询工具。我们生活在一个 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源免费跨平台环境 .NET 5.0.7 正式版免费下载]]></title>
+        <id>http://www.dayanzai.me/?p=47960</id>
+        <link href="http://www.dayanzai.me/net-5-0.html"/>
+        <updated>2021-06-16T16:15:53.000Z</updated>
+        <summary type="html"><![CDATA[.NET 5.0 是一个免费的，跨平台的开源开发人员平台，用于构建许多不同类型的应用程序。大眼仔旭了解到 Mi […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
         </author>
