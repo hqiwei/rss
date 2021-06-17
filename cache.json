@@ -8211,15 +8211,6 @@
           "publishedOn": "2021-05-19T07:00:34.000Z",
           "wordCount": 2041,
           "title": "WebRTC 的现状和未来：专访 W3C WebRTC Chair Bernard Aboba"
-        },
-        {
-          "id": "https://www.oschina.net/news/142159/solon-1-4-1-released",
-          "author": null,
-          "description": "Solon 是一个微型的Java开发框架。强调，克制 + 简洁 + 开放的原则；力求，更小、更快、更自由的体验。支持：RPC、REST API、MVC、Micro service、WebSocket、Socket 等多种开发模式。 Solon Cloud 是一系列的接口标准和配置规范，算是 Solon 的分布式开发套件方案。 快速了解Solon的材料： 《Solon 特性简集，相较于 Sp...",
-          "link": "https://www.oschina.net/news/142159/solon-1-4-1-released",
-          "publishedOn": "2021-05-19T05:49:46.000Z",
-          "wordCount": 689,
-          "title": "Spring Boot & Cloud 轻量替代框架 Solon 1.4.1 发布"
         }
       ]
     },
