@@ -787,15 +787,6 @@
           "publishedOn": "2021-05-19T17:30:08.000Z",
           "wordCount": 1981,
           "title": "How to Optimize for Change in Software Development"
-        },
-        {
-          "id": "60a53182906c5207e3a7e588",
-          "author": "",
-          "description": "Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really",
-          "link": "https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/",
-          "publishedOn": "2021-05-18T21:04:00.000Z",
-          "wordCount": 2258,
-          "title": "How to Break into Ethereum, Crypto, and Web3 as a Developer"
         }
       ]
     },
@@ -4660,6 +4651,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=39086",
+          "author": "青小蛙",
+          "description": "来自问题求助频道 @lijlniyi 同学的一个问题：https://meta.appinn.net/t/topic/24080 我以前惯用火狐，随着火狐几次改版，功能越改越弱之后转移到 edge，收",
+          "link": "https://www.appinn.com/11-local-favorites-tool/",
+          "publishedOn": "2021-06-17T08:11:45.000Z",
+          "wordCount": 1175,
+          "title": "请问有独立于浏览器的本地收藏夹工具吗？11+ 款工具推荐"
+        },
+        {
           "id": "https://www.appinn.com/?p=39083",
           "author": "青小蛙",
           "description": "InfoFlow 是一款新鲜的稍后阅读应用，支持 iPad、iPhone，能够永久保存数据到手机中，也可备份至 iCloud 中，支持全文和页内搜索，支持文件夹分类管理。@Appinn InfoFlo",
@@ -8317,6 +8317,15 @@
           "publishedOn": "2021-06-16T16:18:20.000Z",
           "wordCount": 531,
           "title": "Windows 密钥激活次数查询工具 PID Key Checker 4.0.0.0 中文免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=37292",
+          "author": "大眼仔~旭",
+          "description": "如果您喜欢制作工艺品、制作珠宝或做其它手工制作，您可能希望与世界分享您的工作。跳蚤市场和精品店等经典销售渠道是 […]",
+          "link": "http://www.dayanzai.me/selling-crafts-online.html",
+          "publishedOn": "2021-06-16T16:18:12.000Z",
+          "wordCount": 522,
+          "title": "在线销售商品：用你的爱好赚钱"
         },
         {
           "id": "http://www.dayanzai.me/?p=47960",
