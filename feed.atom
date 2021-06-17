@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T04:11:40.769Z</updated>
+    <updated>2021-06-17T05:13:19.940Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12706,26 +12706,6 @@ $ go install github.co…]]></summary>
         <link href="https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/"/>
         <updated>2021-05-18T21:04:00.000Z</updated>
         <summary type="html"><![CDATA[Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?]]></title>
-        <id>60a3780f906c5207e3a7db5f</id>
-        <link href="https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/"/>
-        <updated>2021-05-18T17:12:59.000Z</updated>
-        <summary type="html"><![CDATA[If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? "Well, I just bill by the hour and send an invoice every week or month." ...I hear you say.]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding Programs – 101 Ways to Learn to Code for Free]]></title>
-        <id>6068f146d5756f080ba9402d</id>
-        <link href="https://www.freecodecamp.org/news/coding-programs-101-ways-to-learn-to-code-for-free/"/>
-        <updated>2021-05-18T16:50:36.000Z</updated>
-        <summary type="html"><![CDATA[Yes, you can learn to code for free, from the convenience of your own home, and at your own pace. I'm going to show you 101 courses where you can learn computer science and programming for free.  The freeCodeCamp courses are completely free and some of them include a free]]></summary>
         <author>
             <name/>
         </author>
