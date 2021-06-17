@@ -857,6 +857,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12212",
+          "author": "cuteLittleDevil",
+          "description": "GoCN 每日新闻 (2021-06-17)\n译文 Go 性能工具小抄 https://gocn.vip/topics/12198\n\n徒手用 Go 写个 Redis 服务器（Godis）https://www.cnblogs.com/xueweihan/p/14891859.html\n\nGo 所有设计模式的流程图与代码实现 https://dev.to/gopher/go-all-design-patterns-code-with-workflow-ea1\n\n详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？ https://eddycjy.com/posts/go/go-bootstrap0/\n\n一篇文章带你搞懂 etcd 3.5 的核心特性 https://mp.weixin.qq.com/s/AYdDdFfJMRvaye0Esh7ImQ\n\n\n\n\n\nGopherChina 倒计时 10 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n编辑: CDS \n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs\n\n\nGoCN 归档: https://gocn.vip/topics/12212",
+          "link": "https://gocn.vip/topics/12212",
+          "publishedOn": "2021-06-17T07:48:09.000Z",
+          "wordCount": 116,
+          "title": "GoCN 每日新闻 (2021-06-17)"
+        },
+        {
           "id": "https://gocn.vip/topics/12211",
           "author": "chcoball",
           "description": "技术要求\n1、熟悉 WEB 前端技术，对符合 WEB 标准的网站重构有丰富经验，有成功作品； \n2、理解并掌握 Javascript 语言核心技术 DOM、BOM、Ajax、JSON 等，对 Javascript 框架应用（如 jQuery/bootstrap 等）有一定的经验； \n3、熟悉 nodejs 或其他后端语言优先； \n4、对 CSS/Javascript 性能优化、解决多浏览器兼容性问题有一定的经验； \n5、对用户体验、交互操作流程、及用户需求有一定了解； \n6、具备良好的服务意识、责任心、较强的学习能力、优秀的团队沟通与协作能力。 \n7、有 web 3D 开发经验大大加分\n有意者联系：hr@test.dibiantech.com",
