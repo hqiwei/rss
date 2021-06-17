@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T11:08:14.388Z</updated>
+    <updated>2021-06-17T12:13:49.267Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Azure AI Fundamentals Certification (AI-900) – Pass the Exam With This Free 4 Hour Course]]></title>
+        <id>60c2aa56d3126007592d6226</id>
+        <link href="https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/"/>
+        <updated>2021-06-17T12:02:47.000Z</updated>
+        <summary type="html"><![CDATA[What is the Azure AI Fundamentals Certification?The Azure AI Fundamentals Certification is for those seeking a Machine Learning role such as AI Engineer or Data Scientist. In the last decade companies have been collecting vast amount of data surrounding their service and product offerings. The successful companies of the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[请问有独立于浏览器的本地收藏夹工具吗？11+ 款工具推荐]]></title>
         <id>https://www.appinn.com/?p=39086</id>
@@ -12684,97 +12694,6 @@ expire：key 统一的过期…]]></summary>
         <summary type="html"><![CDATA[编者注：本文刊登在《新一代堡垒机建设指南》（2021 年 5 月第 I 版）序言部分，文章作者为 JumpServer 开源堡垒机项目创始人广宏伟。 改变世界，从一点点开始 2014年6月，JumpServer开源堡垒机项目诞生。在那个时间节点，这个项目要到哪里去？我的手中没有地图。 那时我是一名运维工程师，入职了一家新公司。上班第一天...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 全球网络安全支出预计将达 1500 亿美元]]></title>
-        <id>https://www.oschina.net/news/142103/2021-worldwide-security-and-risk-managem</id>
-        <link href="https://www.oschina.net/news/142103/2021-worldwide-security-and-risk-managem"/>
-        <updated>2021-05-19T00:10:20.000Z</updated>
-        <summary type="html"><![CDATA[在全球网络犯罪蓬勃发展的背景下，企业和组织也将继续加大在安全工具和技术方面的投入。市场研究公司 Gartner 最新发布的一份报告预测表明，全球在信息安全和风险管理服务方面的支出预计将增长 12.4%，在 2021 年达到 1504 亿美元。 在 2020 年，安全和风险管理方面的支出增长则为 6.4%。Gartner 分析师认为，强劲的增长...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umami —— 基于 JS 的网站分析工具]]></title>
-        <id>https://www.oschina.net/p/umami</id>
-        <link href="https://www.oschina.net/p/umami"/>
-        <updated>2021-05-19T00:04:39.000Z</updated>
-        <summary type="html"><![CDATA[Umami 是 Google Analytics 的一种简单、快速的网站分析替代工具。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitee 推荐 | 鸿蒙系统中轻量化地图组件 TinyMap For HarmonyOS]]></title>
-        <id>https://gitee.com/dongyu1009/tiny-map-for-harmony-os</id>
-        <link href="https://gitee.com/dongyu1009/tiny-map-for-harmony-os"/>
-        <updated>2021-05-19T00:03:19.000Z</updated>
-        <summary type="html"><![CDATA[鸿蒙操作系统中，简单易用的轻量化地图组件。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日一博 | 使用 ML 和 DNN 建模的技巧总结]]></title>
-        <id>https://my.oschina.net/u/4611803/blog/4524830</id>
-        <link href="https://my.oschina.net/u/4611803/blog/4524830"/>
-        <updated>2021-05-19T00:01:29.000Z</updated>
-        <summary type="html"><![CDATA[每个人都可以轻松地将数据放入任何模型机器学习或深度学习框架中。但是遵循最佳实践技巧可能有助于提升工作效率。以下是常见的一些方法。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deno 1.10 发布：改进内置 test runner、新增 Web Storage API]]></title>
-        <id>https://www.oschina.net/news/142099/deno-1-10-released</id>
-        <link href="https://www.oschina.net/news/142099/deno-1-10-released"/>
-        <updated>2021-05-18T23:59:01.000Z</updated>
-        <summary type="html"><![CDATA[Deno 1.10 已正式发布，此版本包含许多新功能、性能优化以及错误修复。 改进内置的 test runner 在 Web Workers 中支持结构化克隆 (structured clone) 新增 Web Storage API 支持远程导入映射 (maps) 如果已经安装了 Deno，运行deno upgrade命令即可升级到 1.10 版本。如果是首次安装，可以参考下面的方法： 
-# Using ...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android 12 Beta 1 发布，改善 UI 和隐私，引入设备高性能标准]]></title>
-        <id>https://www.oschina.net/news/142098/android-12-beta-1-released</id>
-        <link href="https://www.oschina.net/news/142098/android-12-beta-1-released"/>
-        <updated>2021-05-18T23:50:50.000Z</updated>
-        <summary type="html"><![CDATA[在今天的 Google I/O 大会上，Google 发布了 Android 12 的第一个测试版。Android 12 Beta 对 Android 系统进行的非常大的改动，以下是一些值得关注的变化。 适用于 Android 的新用户界面 正如 Android Developer 在消费者博客中强调的那样，Android 12 带来了 Android 历史上最大的设计变化。Google 重新思考了整个体验...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 Delve 工具调试 Golang 程序]]></title>
-        <id>https://gocn.vip/topics/12090</id>
-        <link href="https://gocn.vip/topics/12090"/>
-        <updated>2021-05-18T23:16:38.000Z</updated>
-        <summary type="html"><![CDATA[Delve 是一个 go 语言的第三方调试器，github 地址是： https://github.com/go-delve/delve  。
-Delve 是 GDB 调试器的有效替代品。与 GDB 相比，它能更高的理解 Go 的运行时，数据结构以及表达式。Delve 目前支持 Linux，OSX 以及 Windows 的 amd64 平台。
-本文主要介绍使用 delve 调试器如何调试 Go 程序。内容包含如下：
-下载安装 Delve
-查看源码命令组，
- 添加及管理断点命令组（添加断点、查看断点、清除断点等）
- 控制程序的执行流程命令组
- 查看当前状态的变量及表达式的值命令组。
-阅读完本文后，你将能够使用 Delve 工具很容易的调试你的 go 程序。
-下载并安装 Go Delve
- 安装方式一：
-
-$ git clone https://github.com/go-delve/delve
-$ cd delve
-$ go install github.com/go-delve/delve/cmd/dlv
-
-
-
-安装方式二：（适用于 Go 1.16 及以后版本）
-
-$ go install github.co…]]></summary>
-        <author>
-            <name>yudotyang</name>
         </author>
     </entry>
 </feed>
