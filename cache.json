@@ -1944,15 +1944,6 @@
           "publishedOn": "2021-05-20T16:23:58.000Z",
           "wordCount": 109,
           "title": "GoCN 每日新闻（2021-05-20）"
-        },
-        {
-          "id": "https://gocn.vip/topics/12095",
-          "author": "mingming",
-          "description": "职位描述：\n负责 账户与权限系统、公有云资源系统、计费系统 需求开发与系统维护；\n与产品、交互设计 合作把用户需求转化为技术方案；\n参与相关系统架构设计与开发；\n岗位要求：\n本科及以上学历，两年及以上的后端研发经验，有 Go 研发经验或愿意转 Go，有能力的可以降低年限要求；\n具备良好的基本功、编码习惯，熟练使用基本的数据结构和算法；\n熟悉 MYSQL/TiDB 、redis 等相关技术；\n具有良好的学习能力、团队合作意识、较强的沟通能力；\n熟悉 Unix/Linux 操作系统基本操作；\n有以下经验者优先：\n\n\n有账户权限、计费相关系统项目经验；\n有微服务、分布式、gRPC 相关经验；\n有 kafka 、rabbitmq 、elasticsearch 、jaeger/opentracing 、canal 相关经验；\n熟悉 docker 、k8s 、jenkins;\n工作福利：\n健康保险：五险一金、补充商业保险、年度体检、免费健身房、弹性工作制\n带薪假期：法定年假、公司年假、带薪病假\n节假日福利：春节特别假、生日假、节假日礼物\n员工活动：年度旅游、社团活动、免费水果下午茶\n调薪晋升：每年两次晋升窗口、每年一次普…",
-          "link": "https://gocn.vip/topics/12095",
-          "publishedOn": "2021-05-20T02:57:01.000Z",
-          "wordCount": 141,
-          "title": "[上海][部门直招] UCloud 招聘 Golang 后端工程师 15 薪"
         }
       ]
     },
@@ -1961,6 +1952,15 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=86594",
+          "author": "Editor, Kai",
+          "description": "自 OS X 10.0.0 版本开始，PHP 就内置在系统中。在默认的 web 服务器中启用 PHP， 只需将 Apache 配置文件 httpd.conf 中的几行配置指令最前面的注释符号去掉，而 CGI 或 CLI 默认都 […]",
+          "link": "http://www.linuxeden.com/a/86594",
+          "publishedOn": "2021-06-18T15:04:30.000Z",
+          "wordCount": 140,
+          "title": "[图]macOS Monterey不再内置PHP 需开发人员自行安装"
+        },
         {
           "id": "http://www.linuxeden.com/?p=86590",
           "author": "Editor, Kai",
@@ -8301,15 +8301,6 @@
           "publishedOn": "2021-05-20T03:51:18.000Z",
           "wordCount": 521,
           "title": "PHP 开源工作流引擎 Tpflow V5.0.7 正式版发布"
-        },
-        {
-          "id": "https://www.oschina.net/news/142315/kubeoperator-3-7-0-released",
-          "author": null,
-          "description": "5月17日，开源容器平台KubeOperator正式发布v3.7.0版本。在这一版本中，KubeOperator使用“Vue.js+FIT2CLOUD UI”重构了前端界面，同时完成若干功能优化和Bug修复。 重构Web前端界面 相比上一次发布的KubeOperator v3.6.0版本，KubeOperator项目主要是在前端产生了重要变化，用户可以通过KubeOperator v3.x版本平滑升级至...",
-          "link": "https://www.oschina.net/news/142315/kubeoperator-3-7-0-released",
-          "publishedOn": "2021-05-20T03:06:40.000Z",
-          "wordCount": 500,
-          "title": "重要更新丨完成前端重构，KubeOperator 开源容器平台 v3.7.0 发布"
         }
       ]
     },
