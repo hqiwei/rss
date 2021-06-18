@@ -8292,24 +8292,6 @@
           "publishedOn": "2021-05-20T09:18:11.000Z",
           "wordCount": 636,
           "title": "Google I/O 2021: 在重要时刻提供帮助"
-        },
-        {
-          "id": "https://www.oschina.net/news/142381/security-news-daily-0519",
-          "author": null,
-          "description": "报告编号：B6-2021-051999 报告来源：360CERT 报告作者：360CERT 更新日期：2021-05-19 1. Vulnerability|漏洞 CVE-2021-1497：Cisco HyperFlex HX Data Platform命令注入漏洞POC公开 https://attackerkb.com/topics/mDqlWhQovO/cve-2021-1497 CVE-2021-1499：Cisco HyperFlex HX Data Platform任意文件上传漏洞POC公开 ...",
-          "link": "https://www.oschina.net/news/142381/security-news-daily-0519",
-          "publishedOn": "2021-05-20T09:07:17.000Z",
-          "wordCount": 460,
-          "title": "安全日报：针对企业的新型勒索病毒；勒索软件服务器被查封"
-        },
-        {
-          "id": "https://www.oschina.net/news/142378/amysql-1-6-released",
-          "author": null,
-          "description": "AMYSQL是一个安全高效、简易的MySQL数据库管理Web客户端，使用AMYSQL可简单高效完成日常MySQL数据管理维护，包含数据库、数据表、用户权限各方面的管理。 AMYSQL支持运行于PHP5~PHP8环境，AMYSQL核心控制程序仅30余KB，主要数据交互控制器文件只有2个、10余函数，其余均为静态JS插件扩展形式载入管理，系统在最大程度简化...",
-          "link": "https://www.oschina.net/news/142378/amysql-1-6-released",
-          "publishedOn": "2021-05-20T08:47:07.000Z",
-          "wordCount": 490,
-          "title": "AMYSQL-1.6 发布 - 在线 MySQL 管理工具"
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T20:09:55.215Z</updated>
+    <updated>2021-06-18T21:08:43.917Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12892,26 +12892,6 @@ GopherChina 全部议程和讲师出炉 https://mp.weixin.qq.com/s/G_M4yw6VCTfF0
         <link href="https://www.oschina.net/news/142385/google-io-2021-sundar-pichai"/>
         <updated>2021-05-20T09:18:11.000Z</updated>
         <summary type="html"><![CDATA[作者 / Sundar Pichai，Google 和 Alphabet CEO 很高兴今年能重新举办我们的 I/O 开发者大会。今天早上驾车进入山景城园区时，我有了一种久违的回归正常的感觉。当然，如果没有我们的开发者社群来到现场，一切都将有所不同。在过去的一年里，新冠肺炎疫情给全球的社区都带来了深刻的影响，并仍在继续造成损失。像巴西和我...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安全日报：针对企业的新型勒索病毒；勒索软件服务器被查封]]></title>
-        <id>https://www.oschina.net/news/142381/security-news-daily-0519</id>
-        <link href="https://www.oschina.net/news/142381/security-news-daily-0519"/>
-        <updated>2021-05-20T09:07:17.000Z</updated>
-        <summary type="html"><![CDATA[报告编号：B6-2021-051999 报告来源：360CERT 报告作者：360CERT 更新日期：2021-05-19 1. Vulnerability|漏洞 CVE-2021-1497：Cisco HyperFlex HX Data Platform命令注入漏洞POC公开 https://attackerkb.com/topics/mDqlWhQovO/cve-2021-1497 CVE-2021-1499：Cisco HyperFlex HX Data Platform任意文件上传漏洞POC公开 ...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMYSQL-1.6 发布 - 在线 MySQL 管理工具]]></title>
-        <id>https://www.oschina.net/news/142378/amysql-1-6-released</id>
-        <link href="https://www.oschina.net/news/142378/amysql-1-6-released"/>
-        <updated>2021-05-20T08:47:07.000Z</updated>
-        <summary type="html"><![CDATA[AMYSQL是一个安全高效、简易的MySQL数据库管理Web客户端，使用AMYSQL可简单高效完成日常MySQL数据管理维护，包含数据库、数据表、用户权限各方面的管理。 AMYSQL支持运行于PHP5~PHP8环境，AMYSQL核心控制程序仅30余KB，主要数据交互控制器文件只有2个、10余函数，其余均为静态JS插件扩展形式载入管理，系统在最大程度简化...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>
