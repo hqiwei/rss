@@ -778,15 +778,6 @@
           "publishedOn": "2021-05-19T23:17:21.000Z",
           "wordCount": 2742,
           "title": "How to Use CSS Selectors to Style Your Web Page"
-        },
-        {
-          "id": "60a42386906c5207e3a7dfe2",
-          "author": "",
-          "description": "The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.",
-          "link": "https://www.freecodecamp.org/news/what-is-web3/",
-          "publishedOn": "2021-05-19T21:09:01.000Z",
-          "wordCount": 2087,
-          "title": "What is Web3? The Decentralized Internet of the Future Explained"
         }
       ]
     },
@@ -5107,6 +5098,24 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/146570/apiseven-a-plus-funding",
+          "author": null,
+          "description": "6月18日，API 处理和分析公司支流科技宣布完成数百万美元的 A+ 轮融资，本轮融资由经纬中国独家领投，将用于加速支流科技在产品研发、开源社区、生态构建和国际化方向的推进。 支流科技成立于 2019 年，是一家提供 API 处理和分析的开源基础软件公司，提供 API 网关、k8s ingress controller、服务网格等微服务和实时流量...",
+          "link": "https://www.oschina.net/news/146570/apiseven-a-plus-funding",
+          "publishedOn": "2021-06-18T08:52:03.000Z",
+          "wordCount": 531,
+          "title": "APISIX 开发商支流科技完成数百万美元 A+ 轮融资"
+        },
+        {
+          "id": "https://www.oschina.net/news/146569",
+          "author": null,
+          "description": "LF AI & Data 基金会是一家致力于构建生态系统，以支持人工智能（AI）和数据开源项目的开源创新的组织，今天宣布 DELTA 为其最新的孵化项目。 DELTA 是一个基于深度学习的端到端自然语言和语音处理平台。它旨在为学术界和行业用例提供使用、部署和开发自然语言处理（NLP）和语音模型的简单和快速体验。DELTA 主要使用 Te...",
+          "link": "https://www.oschina.net/news/146569",
+          "publishedOn": "2021-06-18T08:45:49.000Z",
+          "wordCount": 597,
+          "title": "DELTA 作为新的孵化项目加入 LF AI & Data"
+        },
         {
           "id": "https://www.oschina.net/news/146544/neo4j-raises-325-million",
           "author": null,
