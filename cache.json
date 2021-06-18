@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60cca3294dc1a607ed7b4c76",
+          "author": null,
+          "description": "Every programming language uses sorting algorithms. While programming languages have easy-to-use sorting methods, it can be helpful to understand how they work. We just released a course on the freeCodeCamp.org YouTube channel that will teach you some of the most popular sorting algorithms! Haris Iftikhar developed this course. Haris",
+          "link": "https://www.freecodecamp.org/news/understanding-sorting-algorithms/",
+          "publishedOn": "2021-06-18T13:56:04.000Z",
+          "wordCount": 13842,
+          "title": "Understanding Sorting Algorithms"
+        },
+        {
           "id": "60c2aa56d3126007592d6226",
           "author": null,
           "description": "What is the Azure AI Fundamentals Certification?The Azure AI Fundamentals Certification is for those seeking a Machine Learning role such as AI Engineer or Data Scientist. In the last decade companies have been collecting vast amount of data surrounding their service and product offerings. The successful companies of the",
@@ -8301,51 +8310,6 @@
           "publishedOn": "2021-05-20T03:06:40.000Z",
           "wordCount": 500,
           "title": "重要更新丨完成前端重构，KubeOperator 开源容器平台 v3.7.0 发布"
-        },
-        {
-          "id": "https://www.oschina.net/news/142286/chrome-follow-rss-feed",
-          "author": null,
-          "description": "Google Reader（Google 阅读器）曾是 Google 旗下的一个基于网络的聚合器，能在线或者离线阅读 RSS。Google Reader 于 2005 年发布，由于 Google Reader 用户数量逐年下降，Google 于 2013 年 7 月 1 日终止服务。 如今，Google 开始在 Chrome 浏览器上测试新的「关注」功能，将 RSS 阅读器的功能重新带回用户视野。 当用...",
-          "link": "https://www.oschina.net/news/142286/chrome-follow-rss-feed",
-          "publishedOn": "2021-05-20T00:39:22.000Z",
-          "wordCount": 513,
-          "title": "Google 将 RSS 阅读器集成进 Chrome 浏览器，Google Reader 后继有人"
-        },
-        {
-          "id": "https://www.oschina.net/news/142285/flutter-2-2",
-          "author": null,
-          "description": "谷歌在昨日举办的 Google I/O 2021 大会上宣布了 Flutter 2.2，其开发团队称此版本是迄今为止 Flutter 最好的版本。 Flutter 2.2 的更新亮点包括：针对开发者优化通过应用内购买、付款和广告的变现流程；更新工具包和语言特性以帮助开发者消除大部分错误；提升应用程序性能并减小程序包体积。 下面简要介绍 Flutter 2.2 ...",
-          "link": "https://www.oschina.net/news/142285/flutter-2-2",
-          "publishedOn": "2021-05-20T00:29:33.000Z",
-          "wordCount": 554,
-          "title": "Flutter 2.2 发布：针对各平台的性能优化、完善生态支持"
-        },
-        {
-          "id": "https://www.oschina.net/news/142284/2022-internet-explorer-windows-10-microsoft-edge",
-          "author": null,
-          "description": "微软方面宣布，Internet Explorer 11 桌面应用程序将于 2022 年 6 月 15 日退役，同时将从某些 Windows 10 版本中淘汰 Internet Explorer 11，将其替换为基于 Chromium 的 Microsoft Edge。 不过值得注意的是，这次退役并不影响市场上的 Windows 10 LTSC 或 Server Internet Explorer 11桌面应用程序，也不影响 MSHTML（...",
-          "link": "https://www.oschina.net/news/142284/2022-internet-explorer-windows-10-microsoft-edge",
-          "publishedOn": "2021-05-20T00:26:40.000Z",
-          "wordCount": 569,
-          "title": "微软计划在 2022 年删除 Win10 中的 IE 11 浏览器"
-        },
-        {
-          "id": "https://www.oschina.net/news/142283/mozilla-rolling-out-site-isolation-to-all-firefox",
-          "author": null,
-          "description": "Mozilla 日前开始向所有版本的 Firefox 推送站点隔离这一保护用户安全的功能，让用户免受恶意网站发起的攻击。 此前，站点隔离功能只能在 Firefox Nightly 版本中启用，NIghtly 是 Mozilla 用来测试新功能的发布渠道，其中的功能通常都处于尚未准备好更广泛推广的阶段。自 2018 年 4 月以来，站点隔离功能一直处于开发状...",
-          "link": "https://www.oschina.net/news/142283/mozilla-rolling-out-site-isolation-to-all-firefox",
-          "publishedOn": "2021-05-20T00:15:44.000Z",
-          "wordCount": 517,
-          "title": "Mozilla 开始向所有版本的 Firefox 推送站点隔离功能"
-        },
-        {
-          "id": "https://www.oschina.net/news/142282/khanacademy-half-a-million-lines-of-go",
-          "author": null,
-          "description": "美国教育非营利组织可汗学院（Khan Academy）方面透露，其已经用谷歌的 Go 编程语言完成了 50 万行代码，以取代此前用 Python 2 编写的后台服务器。根据介绍，可汗学院在其 Goliath 项目下实现了从 Python 2 到 Go 的大转变。Goliath 最初是使用 Python 2 实现的；从 2019 年开始，可汗学院逐步将其迁移到了 Go。 当我们...",
-          "link": "https://www.oschina.net/news/142282/khanacademy-half-a-million-lines-of-go",
-          "publishedOn": "2021-05-20T00:14:07.000Z",
-          "wordCount": 539,
-          "title": "50 万行 Go 代码，美国一组织从 Python 2 迁移到 Go"
         }
       ]
     },
@@ -8354,6 +8318,15 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=52688",
+          "author": "大眼仔~旭",
+          "description": "DOS 是第一个广泛使用的操作系统的基础。 磁盘操作系统使个人计算机能够使用软盘上的数据读取和数据存储。 计算 […]",
+          "link": "http://www.dayanzai.me/dos-operating-system.html",
+          "publishedOn": "2021-06-18T04:00:32.000Z",
+          "wordCount": 551,
+          "title": "DOS – 什么是磁盘操作系统？"
+        },
         {
           "id": "http://www.dayanzai.me/?p=52681",
           "author": "大眼仔~旭",
