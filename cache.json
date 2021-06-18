@@ -5270,6 +5270,15 @@
           "title": "即日起，Linux 内核开发者可申请 @linux.dev 专用邮箱"
         },
         {
+          "id": "https://www.oschina.net/news/146149/spring-native-0-10-0-released",
+          "author": null,
+          "description": "Spring Native 0.10.0 已发布，此版本基于 Spring Boot 2.5 和 GraalVM 21.1，主要带来了以下新功能： 引入原生测试 (native testing) 新增来自 GraalVM 团队的新官方 Gradle 插件 引入可用于类的 AOT(ahead-of-time) 代理 此外还包括 43 个错误修复、文档改进和依赖项升级这些变化。 原生测试和 Gradle 插件 Spring Nat...",
+          "link": "https://www.oschina.net/news/146149/spring-native-0-10-0-released",
+          "publishedOn": "2021-06-16T00:28:33.000Z",
+          "wordCount": 705,
+          "title": "Spring Native 0.10.0 发布"
+        },
+        {
           "id": "https://www.oschina.net/news/146148",
           "author": null,
           "description": "如今，国内的开源生态蓬勃发展。 或是出于提升自己的编程水平，或是出于助人为乐的兴趣爱好，又或是出于享受解决问题时带来的快感，已经有越来越多的国人开发者参与到开源社区的贡献中。 但现实中，大部分开发者只能利用业余的时间参与开源贡献。那么问题来了，为什么企业中的基础软件大部分基于开源而来，而支持员工参与...",
@@ -8309,6 +8318,15 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=1533",
+          "author": "大眼仔~旭",
+          "description": "图形用户界面，也称为 GUI，已经改变了人们与计算机交互的方式，使其对私人用户具有吸引力。 如今，计算机上的大 […]",
+          "link": "http://www.dayanzai.me/dos-commands-overview.html",
+          "publishedOn": "2021-06-17T16:36:32.000Z",
+          "wordCount": 835,
+          "title": "DOS 命令：概述以及常用命令解释"
+        },
         {
           "id": "http://www.dayanzai.me/?p=41447",
           "author": "大眼仔~旭",
