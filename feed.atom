@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T03:13:20.250Z</updated>
+    <updated>2021-06-18T04:11:55.126Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Casnode: 一款新的基于 React + Beego 的开源轻论坛程序]]></title>
+        <id>https://gocn.vip/topics/12215</id>
+        <link href="https://gocn.vip/topics/12215"/>
+        <updated>2021-06-18T04:07:43.000Z</updated>
+        <summary type="html"><![CDATA[Casnode 是一款开源轻论坛程序。前端采用 javascript 和 React,后端主要为 beego 和 xorm。所以 xorm 支持的数据库，我们都支持哦。
+
+论坛目前支持中文和英文，未来将会增加更多语言。
+论坛目前已经升级使用 beego 2
+论坛支持手机，邮箱，QQ，微信，github，Google 注册登录 ，支持图形验证码进行人机验证，防止盗刷短信
+论坛采用 casbin 社区 casdoor 进行身份验证登录
+论坛支持 pc 和移动端
+支持 xorm 所支持的所有数据库，如 MySQL，Oracle，MsSql，SQLite，Postgres
+支持多种置顶模式，全局置顶，类别置顶，节点置顶
+具有 swagger api 文档
+编辑器支持 markdown，富文本等。
+支持管理员后台
+支持与 Google Groups 双向同步
+贴子支持自定义标签或自动生成标签
+支持广告设置
+支持站内搜索
+支持服务端渲染，对搜索引擎 SEO 友好
+支持拖拽上传图片和附件，支持阿里云，腾讯云等多种 oss 存储
+更多详情各位可以亲自体验，后续我们还会不断添加新的功能，欢迎大家使用
+https://forum.casbin.com
+https://github.com/casbin/casnode]]></summary>
+        <author>
+            <name>killerwing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cilium 首次集成国内云服务，阿里云 ENI 被纳入新版本特性]]></title>
+        <id>https://gocn.vip/topics/12214</id>
+        <link href="https://gocn.vip/topics/12214"/>
+        <updated>2021-06-18T03:27:07.000Z</updated>
+        <summary type="html"><![CDATA[作者：清弦
+阿里云技术专家，主要负责 ACK 容器网络设计与研发，阿里云开源 CNI 项目 Terway  主要维护者，Cilium Alibaba IPAM 负责人
+​
+背景
+​
+近期 Cilium 社区发布了 Cilium 1.10 正式版本，在这个版本中正式支持阿里云 ENI 模式，阿里云也是国内首家支持 Cilium 的云厂商。
+
+Cilium 是一个基于 eBPF 的高性能容器网络项目，提供网络、可观测性、安全三方面的解决方案。
+
+Cilium 本身支持 Overlay 网络模式部署在各种云平台或者自建的集群上，但是这种非云原生的网络模式会带来不小的性能损耗。阿里巴巴云原生容器服务团队向 Cilium 社区贡献了阿里云 ENI 模式，使得在阿里云上可以以云原生方式运行 Cilium 。
+​
+云原生容器服务团队贡献 PR
+https://github.com/cilium/cilium/pull/15160
+https://github.com/cilium/cilium/pull/15512
+​
+架构
+​
+AlibabaCloud Operator 是集群内的网络资源控制器，承担对网络资源（ENI、ENIIP）统一管理、分配工作。
+​
+
+Cilium agent 通过 list-watch 机制、CNI 请求对 Operator 分配的地址资源进行配置、管理。
+​
+这种架构将所有阿里云 OpenAPI  调用集中到 Operator 中，可以有效的进行 API 请求管理，避免大规模集群下 API 流控问题。
+​
+
+基于 Cilium 1.10 + 阿里云 ENI 的高性能云原生网络
+​
+Cilium 使用了 EBPF 内核技术对传统数据链路进行了优化，绕过了 Conntrack 模块，对容器场景下网络性能有了非常大的提高。在阿里云上使用 Cilium 1.10 +…]]></summary>
+        <author>
+            <name>alicloudnative</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在 CSS 中创建堆叠表单]]></title>
+        <id>http://www.dayanzai.me/?p=52681</id>
+        <link href="http://www.dayanzai.me/create-stacked-form-css.html"/>
+        <updated>2021-06-18T03:22:52.000Z</updated>
+        <summary type="html"><![CDATA[CSS 属于一类独特的语言，称为样式表语言。 它主要用于定义您的网页的演示文稿。 虽然 HTML 允许您指定页 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一篇文章带你搞懂 etcd 3.5 的核心特性]]></title>
         <id>https://www.oschina.net/news/146497</id>

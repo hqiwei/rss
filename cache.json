@@ -857,6 +857,24 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12215",
+          "author": "killerwing",
+          "description": "Casnode 是一款开源轻论坛程序。前端采用 javascript 和 React,后端主要为 beego 和 xorm。所以 xorm 支持的数据库，我们都支持哦。\n\n论坛目前支持中文和英文，未来将会增加更多语言。\n论坛目前已经升级使用 beego 2\n论坛支持手机，邮箱，QQ，微信，github，Google 注册登录 ，支持图形验证码进行人机验证，防止盗刷短信\n论坛采用 casbin 社区 casdoor 进行身份验证登录\n论坛支持 pc 和移动端\n支持 xorm 所支持的所有数据库，如 MySQL，Oracle，MsSql，SQLite，Postgres\n支持多种置顶模式，全局置顶，类别置顶，节点置顶\n具有 swagger api 文档\n编辑器支持 markdown，富文本等。\n支持管理员后台\n支持与 Google Groups 双向同步\n贴子支持自定义标签或自动生成标签\n支持广告设置\n支持站内搜索\n支持服务端渲染，对搜索引擎 SEO 友好\n支持拖拽上传图片和附件，支持阿里云，腾讯云等多种 oss 存储\n更多详情各位可以亲自体验，后续我们还会不断添加新的功能，欢迎大家使用\nhttps://forum.casbin.com\nhttps://github.com/casbin/casnode",
+          "link": "https://gocn.vip/topics/12215",
+          "publishedOn": "2021-06-18T04:07:43.000Z",
+          "wordCount": 140,
+          "title": "Casnode: 一款新的基于 React + Beego 的开源轻论坛程序"
+        },
+        {
+          "id": "https://gocn.vip/topics/12214",
+          "author": "alicloudnative",
+          "description": "作者：清弦\n阿里云技术专家，主要负责 ACK 容器网络设计与研发，阿里云开源 CNI 项目 Terway  主要维护者，Cilium Alibaba IPAM 负责人\n​\n背景\n​\n近期 Cilium 社区发布了 Cilium 1.10 正式版本，在这个版本中正式支持阿里云 ENI 模式，阿里云也是国内首家支持 Cilium 的云厂商。\n\nCilium 是一个基于 eBPF 的高性能容器网络项目，提供网络、可观测性、安全三方面的解决方案。\n\nCilium 本身支持 Overlay 网络模式部署在各种云平台或者自建的集群上，但是这种非云原生的网络模式会带来不小的性能损耗。阿里巴巴云原生容器服务团队向 Cilium 社区贡献了阿里云 ENI 模式，使得在阿里云上可以以云原生方式运行 Cilium 。\n​\n云原生容器服务团队贡献 PR\nhttps://github.com/cilium/cilium/pull/15160\nhttps://github.com/cilium/cilium/pull/15512\n​\n架构\n​\nAlibabaCloud Operator 是集群内的网络资源控制器，承担对网络资源（ENI、ENIIP）统一管理、分配工作。\n​\n\nCilium agent 通过 list-watch 机制、CNI 请求对 Operator 分配的地址资源进行配置、管理。\n​\n这种架构将所有阿里云 OpenAPI  调用集中到 Operator 中，可以有效的进行 API 请求管理，避免大规模集群下 API 流控问题。\n​\n\n基于 Cilium 1.10 + 阿里云 ENI 的高性能云原生网络\n​\nCilium 使用了 EBPF 内核技术对传统数据链路进行了优化，绕过了 Conntrack 模块，对容器场景下网络性能有了非常大的提高。在阿里云上使用 Cilium 1.10 +…",
+          "link": "https://gocn.vip/topics/12214",
+          "publishedOn": "2021-06-18T03:27:07.000Z",
+          "wordCount": 309,
+          "title": "Cilium 首次集成国内云服务，阿里云 ENI 被纳入新版本特性"
+        },
+        {
           "id": "https://gocn.vip/topics/12213",
           "author": "qloog",
           "description": "乐我无限 致力于为全球用户提供有趣、有爱、体验最好的互联网产品和服务，跨越文化壁垒，连接全球用户，建立内容生态体系。\n2016 年 4 月，公司核心直播社交产品 LⅳeMe 正式推出，目前已经有超过 1 亿的下载量，成为美国时尚年轻人最喜爱的社交产品之一，覆盖 226 个国家和地区、10 余种语言。\n2020 年 11 月，全球累计注册用户超过 1.1 亿，年度累计开播用户 300 万 +，数据仍在持续增长。\n职位描述\n负责公司产品服务端业务系统的开发及维护；\n负责服务端架构的优化，以及服务中台的搭建。\n职位要求\n本科以上学历，扎实的算法功底，有 3 年以上后端开发经验；\n熟练掌握 Go 语言，以及常用的 web 框架及其原理 (如 Beego、Gin、 Echo 等)；\n熟练掌握关系数据库 (MySQL 等)、非关系数据库 (Redis、MongoDB 等) 的使用、原理和优化方法；\n熟练掌握消息中间件 (如 Kafka、MQ 等) 的使用和原理，并能综合应用相关组件/技术来构建高性能服务，有实际的项目经验；\n理解微服务架构模式，具备深入理解业务、进行微服务改造的能力，以及实际的成功项目经验；\n具备良好的服务端问题定位及解决能力，熟练掌握相关的排查技巧，善于归纳总结，对数据敏感；\n思维活跃、富有责任心、乐于学习、对新技术敏感、有很强的团队协作精神。\n加分项\n在开源社区有作品，或向社区提交过 Patch\n有 k8s 相关经验\n简历投递\n工作地点：北京朝阳（黄渠地铁站附近）\n待遇：面谈\n联系方式： wangquanlong@joyme.sg\n标题请参照：\"gocn+ 姓名 + 职位\" 的格式编辑",
@@ -8318,6 +8336,15 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=52681",
+          "author": "大眼仔~旭",
+          "description": "CSS 属于一类独特的语言，称为样式表语言。 它主要用于定义您的网页的演示文稿。 虽然 HTML 允许您指定页 […]",
+          "link": "http://www.dayanzai.me/create-stacked-form-css.html",
+          "publishedOn": "2021-06-18T03:22:52.000Z",
+          "wordCount": 567,
+          "title": "如何在 CSS 中创建堆叠表单"
+        },
         {
           "id": "http://www.dayanzai.me/?p=1533",
           "author": "大眼仔~旭",
