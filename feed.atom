@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T17:26:18.143Z</updated>
+    <updated>2021-06-18T18:11:19.438Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12922,16 +12922,6 @@ GopherChina 全部议程和讲师出炉 https://mp.weixin.qq.com/s/G_M4yw6VCTfF0
         <link href="https://www.oschina.net/news/142339/apache-flink-1-13-0-released"/>
         <updated>2021-05-20T06:33:13.000Z</updated>
         <summary type="html"><![CDATA[翻译 | 高赟 Review | 朱翥、马国维 Flink 1.13 发布了！Flink 1.13 包括了超过 200 名贡献者所提交的 1000 多项修复和优化。 这一版本中，Flink 的一个主要目标取得了重要进展，即让流处理应用的使用像普通应用一样简单和自然。Flink 1.13 新引入的被动扩缩容使得流作业的扩缩容和其它应用一样简单，用户仅需要修改并发...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSSF 安全指标倡议介绍]]></title>
-        <id>https://www.oschina.net/news/142335</id>
-        <link href="https://www.oschina.net/news/142335"/>
-        <updated>2021-05-20T06:06:45.000Z</updated>
-        <summary type="html"><![CDATA[作者：Michael Scovetta，识别安全威胁工作组，OpenSSF OpenSSF[1]宣布安全指标倡议[2]的初始版本。该计划的主要目标是提供有关与开源项目相关的威胁和风险的有价值的决定性信息。安全指标（Security Metrics）附带了一个认知的仪表板，供涉众做出关于在他们的软件供应链中使用/容纳此类项目的可靠的知情决策。 它是如何...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>
