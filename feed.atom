@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T18:11:19.438Z</updated>
+    <updated>2021-06-18T19:08:55.742Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12912,16 +12912,6 @@ GopherChina 全部议程和讲师出炉 https://mp.weixin.qq.com/s/G_M4yw6VCTfF0
         <link href="https://www.oschina.net/news/142378/amysql-1-6-released"/>
         <updated>2021-05-20T08:47:07.000Z</updated>
         <summary type="html"><![CDATA[AMYSQL是一个安全高效、简易的MySQL数据库管理Web客户端，使用AMYSQL可简单高效完成日常MySQL数据管理维护，包含数据库、数据表、用户权限各方面的管理。 AMYSQL支持运行于PHP5~PHP8环境，AMYSQL核心控制程序仅30余KB，主要数据交互控制器文件只有2个、10余函数，其余均为静态JS插件扩展形式载入管理，系统在最大程度简化...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[官宣｜Apache Flink 1.13.0 正式发布，流处理应用更加简单高效！]]></title>
-        <id>https://www.oschina.net/news/142339/apache-flink-1-13-0-released</id>
-        <link href="https://www.oschina.net/news/142339/apache-flink-1-13-0-released"/>
-        <updated>2021-05-20T06:33:13.000Z</updated>
-        <summary type="html"><![CDATA[翻译 | 高赟 Review | 朱翥、马国维 Flink 1.13 发布了！Flink 1.13 包括了超过 200 名贡献者所提交的 1000 多项修复和优化。 这一版本中，Flink 的一个主要目标取得了重要进展，即让流处理应用的使用像普通应用一样简单和自然。Flink 1.13 新引入的被动扩缩容使得流作业的扩缩容和其它应用一样简单，用户仅需要修改并发...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>
