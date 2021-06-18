@@ -20,6 +20,23 @@
     <ul class="sources card">
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.appinn.com">小众软件</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">极客词典：这 116 个单词怎么读？超爱读错的 App、Ctrl、Chrome、Linux、Wi-Fi、Python…</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.appinn.com/jike-cidian-wechat-miniapp/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(4 min)</span>
+                    <span>极客词典是一款微信小程序，它为大约 116 个容易读错的单词，提供了正确的发音，主要包含开发、设计、产品、媒体几大类，比如 App、Ctrl、Alt、Chrome、Python、YouTube、Ama</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="http://www.dayanzai.me">大眼仔旭</a></h3>
           <section class="articles-per-source">
             <article>
@@ -139,6 +156,56 @@
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://gocn.vip/">GoCN社区</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">YoyoGo v1.7.2 发布, 支持 Nacos &amp; Apollo 配置中心</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12216">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>中文  / English
+🦄🌈 YoyoGo（Go 语言框架）一个简单、轻量、快速、基于依赖注入的微服务框架 ( web 、grpc ),支持 Nacos/Consoul/Etcd/Eureka/k8s /Apollo 等 .
+https://github.com/yoyofx/yoyogo
+YoyoGo 特色
+漂亮又快速的路由器 &amp; MVC 模式 .
+丰富的中间件支持 (handler func &amp; custom middleware) .
+微服务框架抽象了分层，在一个框架体系兼容各种 server 实现，如 rest,grpc 等 .
+充分运用依赖注入 DI，管理运行时生命周期，为框架提供了强大的扩展性 .
+功能强大的微服务集成能力 (Nacos, Eureka, Consul, ETCD) .
+受到许多出色的 Go Web 框架的启发，并实现了多种 server : fasthttp 和 net.http 和 grpc .
+framework desgin
+
+package main
+import ...
+
+func main() {
+    app.CreateDefaultBuilder(func(rb router.IRouterBuilder) {
+        rb.GET(&quot;/info&quot;,func (ctx *context.HttpContext) {    // 支持Group方式
+            ctx.JSON(200, context.H{&quot;info&quot;: &quot;ok&quot;})
+        })
+    }).Build().Run()       //默认端口号 :8080
+}
+
+v1.7.2 更新内容
+Apollo 配置中心支持
+修改配置中心快速设置包的位置：github.com/yoyofx/yoyogo/pkg/configuration/{ nacos or apollo }
+实例：
+config :&#x3D; nacosConfig.RemoteConfig(&quot;config&quot;)
+
+config :&#x3D; apolloConfig.RemoteConfig(&quot;config&quot;)
+
+v1.7.0/1 更新内容
+集成 xxl-job-go sdk ，支持远程日志查询
+添加 consul 服务发现与身份认证 
+Nacos 配置中心支持
+v1.6.9 更新
+web binding
+v1.6.8 更新
+grpc 宿主支持 &amp; grpc client 与 负载均衡 , 实例   https://github.com/yoyofx/yoyogo/tree/master/examples
+控制台宿主支持 , 实例    https://github.com/yoyofx/yoyogo/tree/master/examples</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">Casnode: 一款新的基于 React + Beego 的开源轻论坛程序</summary>
@@ -15051,7 +15118,7 @@ GopherChina 全部议程和讲师出炉 https://mp.weixin.qq.com/s/G_M4yw6VCTfF0
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-06-18T04:11:55.072Z">2021-06-18T04:11:55.072Z</time>
+    <time id="build-timestamp" datetime="2021-06-18T05:13:05.010Z">2021-06-18T05:13:05.010Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.10.2</a></span>
   </footer>
   <script src="index.js"></script>

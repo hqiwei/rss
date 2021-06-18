@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T04:11:55.126Z</updated>
+    <updated>2021-06-18T05:13:05.072Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YoyoGo v1.7.2 发布, 支持 Nacos & Apollo 配置中心]]></title>
+        <id>https://gocn.vip/topics/12216</id>
+        <link href="https://gocn.vip/topics/12216"/>
+        <updated>2021-06-18T04:32:34.000Z</updated>
+        <summary type="html"><![CDATA[中文  / English
+🦄🌈 YoyoGo（Go 语言框架）一个简单、轻量、快速、基于依赖注入的微服务框架 ( web 、grpc ),支持 Nacos/Consoul/Etcd/Eureka/k8s /Apollo 等 .
+https://github.com/yoyofx/yoyogo
+YoyoGo 特色
+漂亮又快速的路由器 & MVC 模式 .
+丰富的中间件支持 (handler func & custom middleware) .
+微服务框架抽象了分层，在一个框架体系兼容各种 server 实现，如 rest,grpc 等 .
+充分运用依赖注入 DI，管理运行时生命周期，为框架提供了强大的扩展性 .
+功能强大的微服务集成能力 (Nacos, Eureka, Consul, ETCD) .
+受到许多出色的 Go Web 框架的启发，并实现了多种 server : fasthttp 和 net.http 和 grpc .
+framework desgin
+
+package main
+import ...
+
+func main() {
+    app.CreateDefaultBuilder(func(rb router.IRouterBuilder) {
+        rb.GET("/info",func (ctx *context.HttpContext) {    // 支持Group方式
+            ctx.JSON(200, context.H{"info": "ok"})
+        })
+    }).Build().Run()       //默认端口号 :8080
+}
+
+v1.7.2 更新内容
+Apollo 配置中心支持
+修改配置中心快速设置包的位置：github.com/yoyofx/yoyogo/pkg/configuration/{ nacos or apollo }
+实例：
+config := nacosConfig.RemoteConfig("config")
+
+config := apolloConfig.RemoteConfig("config")
+
+v1.7.0/1 更新内容
+集成 xxl-job-go sdk ，支持远程日志查询
+添加 consul 服务发现与身份认证 
+Nacos 配置中心支持
+v1.6.9 更新
+web binding
+v1.6.8 更新
+grpc 宿主支持 & grpc client 与 负载均衡 , 实例   https://github.com/yoyofx/yoyogo/tree/master/examples
+控制台宿主支持 , 实例    https://github.com/yoyofx/yoyogo/tree/master/examples]]></summary>
+        <author>
+            <name>yoyofx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[极客词典：这 116 个单词怎么读？超爱读错的 App、Ctrl、Chrome、Linux、Wi-Fi、Python…]]></title>
+        <id>https://www.appinn.com/?p=39094</id>
+        <link href="https://www.appinn.com/jike-cidian-wechat-miniapp/"/>
+        <updated>2021-06-18T04:15:56.000Z</updated>
+        <summary type="html"><![CDATA[极客词典是一款微信小程序，它为大约 116 个容易读错的单词，提供了正确的发音，主要包含开发、设计、产品、媒体几大类，比如 App、Ctrl、Alt、Chrome、Python、YouTube、Ama]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Casnode: 一款新的基于 React + Beego 的开源轻论坛程序]]></title>
         <id>https://gocn.vip/topics/12215</id>

@@ -857,6 +857,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12216",
+          "author": "yoyofx",
+          "description": "中文  / English\n🦄🌈 YoyoGo（Go 语言框架）一个简单、轻量、快速、基于依赖注入的微服务框架 ( web 、grpc ),支持 Nacos/Consoul/Etcd/Eureka/k8s /Apollo 等 .\nhttps://github.com/yoyofx/yoyogo\nYoyoGo 特色\n漂亮又快速的路由器 & MVC 模式 .\n丰富的中间件支持 (handler func & custom middleware) .\n微服务框架抽象了分层，在一个框架体系兼容各种 server 实现，如 rest,grpc 等 .\n充分运用依赖注入 DI，管理运行时生命周期，为框架提供了强大的扩展性 .\n功能强大的微服务集成能力 (Nacos, Eureka, Consul, ETCD) .\n受到许多出色的 Go Web 框架的启发，并实现了多种 server : fasthttp 和 net.http 和 grpc .\nframework desgin\n\npackage main\nimport ...\n\nfunc main() {\n    app.CreateDefaultBuilder(func(rb router.IRouterBuilder) {\n        rb.GET(\"/info\",func (ctx *context.HttpContext) {    // 支持Group方式\n            ctx.JSON(200, context.H{\"info\": \"ok\"})\n        })\n    }).Build().Run()       //默认端口号 :8080\n}\n\nv1.7.2 更新内容\nApollo 配置中心支持\n修改配置中心快速设置包的位置：github.com/yoyofx/yoyogo/pkg/configuration/{ nacos or apollo }\n实例：\nconfig := nacosConfig.RemoteConfig(\"config\")\n\nconfig := apolloConfig.RemoteConfig(\"config\")\n\nv1.7.0/1 更新内容\n集成 xxl-job-go sdk ，支持远程日志查询\n添加 consul 服务发现与身份认证 \nNacos 配置中心支持\nv1.6.9 更新\nweb binding\nv1.6.8 更新\ngrpc 宿主支持 & grpc client 与 负载均衡 , 实例   https://github.com/yoyofx/yoyogo/tree/master/examples\n控制台宿主支持 , 实例    https://github.com/yoyofx/yoyogo/tree/master/examples",
+          "link": "https://gocn.vip/topics/12216",
+          "publishedOn": "2021-06-18T04:32:34.000Z",
+          "wordCount": 216,
+          "title": "YoyoGo v1.7.2 发布, 支持 Nacos & Apollo 配置中心"
+        },
+        {
           "id": "https://gocn.vip/topics/12215",
           "author": "killerwing",
           "description": "Casnode 是一款开源轻论坛程序。前端采用 javascript 和 React,后端主要为 beego 和 xorm。所以 xorm 支持的数据库，我们都支持哦。\n\n论坛目前支持中文和英文，未来将会增加更多语言。\n论坛目前已经升级使用 beego 2\n论坛支持手机，邮箱，QQ，微信，github，Google 注册登录 ，支持图形验证码进行人机验证，防止盗刷短信\n论坛采用 casbin 社区 casdoor 进行身份验证登录\n论坛支持 pc 和移动端\n支持 xorm 所支持的所有数据库，如 MySQL，Oracle，MsSql，SQLite，Postgres\n支持多种置顶模式，全局置顶，类别置顶，节点置顶\n具有 swagger api 文档\n编辑器支持 markdown，富文本等。\n支持管理员后台\n支持与 Google Groups 双向同步\n贴子支持自定义标签或自动生成标签\n支持广告设置\n支持站内搜索\n支持服务端渲染，对搜索引擎 SEO 友好\n支持拖拽上传图片和附件，支持阿里云，腾讯云等多种 oss 存储\n更多详情各位可以亲自体验，后续我们还会不断添加新的功能，欢迎大家使用\nhttps://forum.casbin.com\nhttps://github.com/casbin/casnode",
@@ -4740,6 +4749,15 @@
       "feedUrl": "http://feed.appinn.com",
       "siteUrl": "https://www.appinn.com",
       "articles": [
+        {
+          "id": "https://www.appinn.com/?p=39094",
+          "author": "青小蛙",
+          "description": "极客词典是一款微信小程序，它为大约 116 个容易读错的单词，提供了正确的发音，主要包含开发、设计、产品、媒体几大类，比如 App、Ctrl、Alt、Chrome、Python、YouTube、Ama",
+          "link": "https://www.appinn.com/jike-cidian-wechat-miniapp/",
+          "publishedOn": "2021-06-18T04:15:56.000Z",
+          "wordCount": 1177,
+          "title": "极客词典：这 116 个单词怎么读？超爱读错的 App、Ctrl、Chrome、Linux、Wi-Fi、Python…"
+        },
         {
           "id": "https://www.appinn.com/?p=39086",
           "author": "青小蛙",
