@@ -6,6 +6,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60b46dbd11ffb70827ef9dea",
+          "author": null,
+          "description": "What is TCP?TCP is an acronym for Transmission Control Protocol. It is a transport layer protocol that allows packets to be sent from one location to another.  TCP is a connection-oriented protocol, which means it establishes the connection before any communication between the network’s computer units. Because we",
+          "link": "https://www.freecodecamp.org/news/tcp-vs-udp-which-is-faster/",
+          "publishedOn": "2021-06-18T15:45:00.000Z",
+          "wordCount": 1613,
+          "title": "TCP vs UDP – Which Protocol is Faster?"
+        },
+        {
+          "id": "60cc5a904dc1a607ed7b4c54",
+          "author": null,
+          "description": "Today, you don’t need to go to a university or a college to pursue a career in machine learning or any data-driven domain. But you do need a plan and a roadmap to guide your studies. Once you have charted your own learning roadmap with a goal in mind,",
+          "link": "https://www.freecodecamp.org/news/machine-learning-specialisation-courses-for-advanced-ml-practitioners/",
+          "publishedOn": "2021-06-18T15:43:56.000Z",
+          "wordCount": 906,
+          "title": "Machine Learning Specialisation Courses for Advanced ML Practitioners"
+        },
+        {
           "id": "60cca3294dc1a607ed7b4c76",
           "author": null,
           "description": "Every programming language uses sorting algorithms. While programming languages have easy-to-use sorting methods, it can be helpful to understand how they work. We just released a course on the freeCodeCamp.org YouTube channel that will teach you some of the most popular sorting algorithms! Haris Iftikhar developed this course. Haris",
@@ -1952,6 +1970,33 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=86602",
+          "author": "Editor, Kai",
+          "description": "云原生软件的 6 个要求 C++ 类成员函数指针语法的友好指南 [图]macOS Monterey不再内置PHP 需开发人员自行安装 Helix：高级 Linux 用户的终端文本编辑器 Google与主要开发者签订合同 Linux内核将迎来 […]",
+          "link": "http://www.linuxeden.com/a/86602",
+          "publishedOn": "2021-06-18T15:15:14.000Z",
+          "wordCount": 92,
+          "title": "每日文章精选 2021 06 18"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86600",
+          "author": "Editor, Kai",
+          "description": "开发和实施云原生（容器优先）软件的检查清单。 许多年来，单体应用是实现业务需求的标准企业架构。但是，当云基础设施开始以规模和速度为业务加速，这种情况就发生了重大变化。应用架构也发生了转变，以适应云原生应用和 微服务、无服务器 以及事件驱动的 […]",
+          "link": "http://www.linuxeden.com/a/86600",
+          "publishedOn": "2021-06-18T15:11:43.000Z",
+          "wordCount": 144,
+          "title": "云原生软件的 6 个要求"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86598",
+          "author": "Editor, Kai",
+          "description": "一旦你理解了一般原则，C++ 类成员函数指针不再那么令人生畏。 如果你正在寻找性能、复杂性或许多可能的解决方法来解决问题，那么在涉及到极端的情况下，C++ 总是一个很好的选择。当然，功能通常伴随着复杂性，但是一些 C++ 的特性几乎难以分辨 […]",
+          "link": "http://www.linuxeden.com/a/86598",
+          "publishedOn": "2021-06-18T15:10:36.000Z",
+          "wordCount": 392,
+          "title": "C++ 类成员函数指针语法的友好指南"
+        },
         {
           "id": "http://www.linuxeden.com/?p=86594",
           "author": "Editor, Kai",
@@ -8292,15 +8337,6 @@
           "publishedOn": "2021-05-20T06:06:45.000Z",
           "wordCount": 481,
           "title": "OpenSSF 安全指标倡议介绍"
-        },
-        {
-          "id": "https://www.oschina.net/news/142326/tpflow-5-0-7-released",
-          "author": null,
-          "description": "欢迎使用 Tpflow V5.0.7 工作流引擎 TpFlow工作流引擎是一套规范化的流程管理系统，基于业务而驱动系统生命力的一套引擎。彻底释放整个信息管理系统的的活力，让系统更具可用性，智能应用型，便捷设计性。Tpflow团队致力于打造中国最优秀的PHP工作流引擎。 主要未部分功能优化，新增流程过滤功能，新增消息接口 坚持这么...",
-          "link": "https://www.oschina.net/news/142326/tpflow-5-0-7-released",
-          "publishedOn": "2021-05-20T03:51:18.000Z",
-          "wordCount": 521,
-          "title": "PHP 开源工作流引擎 Tpflow V5.0.7 正式版发布"
         }
       ]
     },

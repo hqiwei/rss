@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T15:10:39.277Z</updated>
+    <updated>2021-06-18T16:16:57.718Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TCP vs UDP – Which Protocol is Faster?]]></title>
+        <id>60b46dbd11ffb70827ef9dea</id>
+        <link href="https://www.freecodecamp.org/news/tcp-vs-udp-which-is-faster/"/>
+        <updated>2021-06-18T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[What is TCP?TCP is an acronym for Transmission Control Protocol. It is a transport layer protocol that allows packets to be sent from one location to another.  TCP is a connection-oriented protocol, which means it establishes the connection before any communication between the network’s computer units. Because we]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning Specialisation Courses for Advanced ML Practitioners]]></title>
+        <id>60cc5a904dc1a607ed7b4c54</id>
+        <link href="https://www.freecodecamp.org/news/machine-learning-specialisation-courses-for-advanced-ml-practitioners/"/>
+        <updated>2021-06-18T15:43:56.000Z</updated>
+        <summary type="html"><![CDATA[Today, you don’t need to go to a university or a college to pursue a career in machine learning or any data-driven domain. But you do need a plan and a roadmap to guide your studies. Once you have charted your own learning roadmap with a goal in mind,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 06 18]]></title>
+        <id>http://www.linuxeden.com/?p=86602</id>
+        <link href="http://www.linuxeden.com/a/86602"/>
+        <updated>2021-06-18T15:15:14.000Z</updated>
+        <summary type="html"><![CDATA[云原生软件的 6 个要求 C++ 类成员函数指针语法的友好指南 [图]macOS Monterey不再内置PHP 需开发人员自行安装 Helix：高级 Linux 用户的终端文本编辑器 Google与主要开发者签订合同 Linux内核将迎来 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[云原生软件的 6 个要求]]></title>
+        <id>http://www.linuxeden.com/?p=86600</id>
+        <link href="http://www.linuxeden.com/a/86600"/>
+        <updated>2021-06-18T15:11:43.000Z</updated>
+        <summary type="html"><![CDATA[开发和实施云原生（容器优先）软件的检查清单。 许多年来，单体应用是实现业务需求的标准企业架构。但是，当云基础设施开始以规模和速度为业务加速，这种情况就发生了重大变化。应用架构也发生了转变，以适应云原生应用和 微服务、无服务器 以及事件驱动的 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C++ 类成员函数指针语法的友好指南]]></title>
+        <id>http://www.linuxeden.com/?p=86598</id>
+        <link href="http://www.linuxeden.com/a/86598"/>
+        <updated>2021-06-18T15:10:36.000Z</updated>
+        <summary type="html"><![CDATA[一旦你理解了一般原则，C++ 类成员函数指针不再那么令人生畏。 如果你正在寻找性能、复杂性或许多可能的解决方法来解决问题，那么在涉及到极端的情况下，C++ 总是一个很好的选择。当然，功能通常伴随着复杂性，但是一些 C++ 的特性几乎难以分辨 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[图]macOS Monterey不再内置PHP 需开发人员自行安装]]></title>
         <id>http://www.linuxeden.com/?p=86594</id>
@@ -12894,16 +12944,6 @@ GopherChina 全部议程和讲师出炉 https://mp.weixin.qq.com/s/G_M4yw6VCTfF0
         <summary type="html"><![CDATA[👀 微信/QQ/TIM防撤回补丁 是一款适用于 PC 版微信、QQ、TIM 客户端的消息防撤回工具，附赠微信多开功能，使用简单。项目开源，开发者提供了详细的防撤回原理，任何人都可以自己动手制作补丁。@]]></summary>
         <author>
             <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP 开源工作流引擎 Tpflow V5.0.7 正式版发布]]></title>
-        <id>https://www.oschina.net/news/142326/tpflow-5-0-7-released</id>
-        <link href="https://www.oschina.net/news/142326/tpflow-5-0-7-released"/>
-        <updated>2021-05-20T03:51:18.000Z</updated>
-        <summary type="html"><![CDATA[欢迎使用 Tpflow V5.0.7 工作流引擎 TpFlow工作流引擎是一套规范化的流程管理系统，基于业务而驱动系统生命力的一套引擎。彻底释放整个信息管理系统的的活力，让系统更具可用性，智能应用型，便捷设计性。Tpflow团队致力于打造中国最优秀的PHP工作流引擎。 主要未部分功能优化，新增流程过滤功能，新增消息接口 坚持这么...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
