@@ -4750,6 +4750,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=39097",
+          "author": "青小蛙",
+          "description": "近来要生成一张词云图片，随手就找到了一堆提供服务的产品，但很多款居然在下载的时候需要扫描微信登录，于是找来 3 款免费的词云生成器，无需登录，即泡即用。@Appinn 这类服务非常多，大多数也是免费的",
+          "link": "https://www.appinn.com/word-cloud-online/",
+          "publishedOn": "2021-06-18T09:10:08.000Z",
+          "wordCount": 1134,
+          "title": "3 款简单易用的免费词云生成器，无需扫码登录，即用即抛"
+        },
+        {
           "id": "https://www.appinn.com/?p=39094",
           "author": "青小蛙",
           "description": "极客词典是一款微信小程序，它为大约 116 个容易读错的单词，提供了正确的发音，主要包含开发、设计、产品、媒体几大类，比如 App、Ctrl、Alt、Chrome、Python、YouTube、Ama",

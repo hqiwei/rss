@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T09:09:24.652Z</updated>
+    <updated>2021-06-18T10:10:21.037Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3 款简单易用的免费词云生成器，无需扫码登录，即用即抛]]></title>
+        <id>https://www.appinn.com/?p=39097</id>
+        <link href="https://www.appinn.com/word-cloud-online/"/>
+        <updated>2021-06-18T09:10:08.000Z</updated>
+        <summary type="html"><![CDATA[近来要生成一张词云图片，随手就找到了一堆提供服务的产品，但很多款居然在下载的时候需要扫描微信登录，于是找来 3 款免费的词云生成器，无需登录，即泡即用。@Appinn 这类服务非常多，大多数也是免费的]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[APISIX 开发商支流科技完成数百万美元 A+ 轮融资]]></title>
         <id>https://www.oschina.net/news/146570/apiseven-a-plus-funding</id>
