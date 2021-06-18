@@ -848,15 +848,6 @@
           "publishedOn": "2021-05-21T00:17:00.000Z",
           "wordCount": 484,
           "title": "科技爱好者周刊（第 159 期）：游戏开发者的年薪"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html",
-          "author": null,
-          "description": "重庆市前市长黄奇帆退休以后，受聘担任复旦大学特聘教授，定期给师生做讲座，介绍他对中国经济的看法。\n\n他的12次讲座，去年汇集成书出版了，书名叫做《分析与思考：黄奇帆的复旦经济课》。\n\n我最近读了以后，发现他在讲座中经常引用各种数字，而且会解释了背后的经济逻辑。怎么理解各种经济指标，怎么用它们指导经济政策，讲得深入浅出，我觉得很有价值。\n下面就是我从书中摘录的一些片段，相信可以帮大家更好地看懂中国经济。\n一、金融业产值\n中国经济的一个严重问题是，金融企业的产值过高。金融业增加值占 GDP 的比重是百分之八点几，全世界最高。世界金融业产值占全球 GDP 是5%左右。这个比重过高，意味着金融业吃掉了其它产业的利润。\n但是，如果仅仅统计中国的银行、证券、保险的金融增加值，其实也就是4%--5%。多出来的3%是非银行的金融企业形成的，包括信托、小贷、保理、担保公司、财务公司、互联网金融公司、私募基金等。\n现在银行的贷款利率一般在7%，到了信托公司，贷款成本一般都在12%以上，到了小贷公司就会上升到18%--20%。层层上升的资金成本，导致实体经济融资难、融资贵，利润就这样转移到了金融业。\n目前，中国企业的总负债是 GD…",
-          "link": "http://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html",
-          "publishedOn": "2021-05-19T12:54:48.000Z",
-          "wordCount": 333,
-          "title": "中国经济的数字逻辑"
         }
       ]
     },
@@ -5072,6 +5063,24 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/146497",
+          "author": null,
+          "description": "作者 唐聪，腾讯云资深工程师，极客时间专栏《etcd实战课》作者，etcd活跃贡献者，主要负责腾讯云大规模k8s/etcd平台、有状态服务容器化、在离线混部等产品研发设计工作。 etcd 3.5发布 美东时间2021年6月15号18点，继 etcd 3.4 版本发布近两年之后，etcd 社区官宣发布了3.5 稳定版本，其主要贡献者来自 Google、AWS、T...",
+          "link": "https://www.oschina.net/news/146497",
+          "publishedOn": "2021-06-18T00:49:50.000Z",
+          "wordCount": 1484,
+          "title": "一篇文章带你搞懂 etcd 3.5 的核心特性"
+        },
+        {
+          "id": "https://www.oschina.net/news/146494/supporting-miguel-ojeda-rust-in-linux",
+          "author": null,
+          "description": "这家搜索引擎巨头正努力尝试在 Linux 内核中使用 Rust 代码，这是在几十年来只使用 C 语言后的一次重大技术转变。 Google 在周四表示，他们正在资助一个项目，通过用 Rust 编程语言编写操作系统的内核部分来提高 Linux 的安全性。如果该项目成功，这种变化将标志着一个开源软件项目的重大技术转变，这一举措可以加强互联...",
+          "link": "https://www.oschina.net/news/146494/supporting-miguel-ojeda-rust-in-linux",
+          "publishedOn": "2021-06-18T00:30:56.000Z",
+          "wordCount": 560,
+          "title": "Google 资助 Linux 项目，Linux 内核将首次出现 Rust 代码"
+        },
+        {
           "id": "https://www.oschina.net/news/146493/php-has-been-removed-in-macos-monterey",
           "author": null,
           "description": "近日，有用户在 Apple 开发者社区提问 macOS 12 似乎缺少了 PHP，负责开发者工具的工程师在回复称：“macOS Monterey 已移除 PHP。” 有人表示理解苹果的决定，因为系统自带的 PHP 版本几乎都是过时的版本，缺少有用的扩展。对于任何使用 PHP 的人来说，现在有更简单的方法可以同时安装和管理多个版本（brew、Docker 等）...",
@@ -8300,6 +8309,42 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=41447",
+          "author": "大眼仔~旭",
+          "description": "统计和数据分析软件包 Minitab 20 中文版由大眼仔旭（www.dayanzai.me）发布。Minit […]",
+          "link": "http://www.dayanzai.me/minitab.html",
+          "publishedOn": "2021-06-17T16:36:02.000Z",
+          "wordCount": 718,
+          "title": "统计和数据分析软件包 Minitab 20.3.0.0 x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=40407",
+          "author": "大眼仔~旭",
+          "description": "又到了一年一度 Autodesk 产品发布的时间了，Autodesk 3ds Max 2022 也正式发布推出 […]",
+          "link": "http://www.dayanzai.me/3ds-max-2022.html",
+          "publishedOn": "2021-06-17T16:34:04.000Z",
+          "wordCount": 571,
+          "title": "3D 设计建模渲染工具 Autodesk 3ds Max 2022.1 x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=2096",
+          "author": "大眼仔~旭",
+          "description": "WinRAR 6.00 中文版由大眼仔旭（www.dayanzai.me）整理发布。 WinRAR 6.0 中 […]",
+          "link": "http://www.dayanzai.me/winrar.html",
+          "publishedOn": "2021-06-17T16:23:49.000Z",
+          "wordCount": 781,
+          "title": "老牌优秀文档解压缩工具 WinRAR 6.02 + x64 官方中文免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=43411",
+          "author": "大眼仔~旭",
+          "description": "磁盘数据恢复工具专业版 Disk Drill Professional 中文版由大眼仔旭（www.dayanz […]",
+          "link": "http://www.dayanzai.me/disk-drill.html",
+          "publishedOn": "2021-06-17T16:23:21.000Z",
+          "wordCount": 580,
+          "title": "磁盘数据恢复工具专业版 Disk Drill 4.3.584.0 x64 中文多语免费版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=4193",
           "author": "大眼仔~旭",
