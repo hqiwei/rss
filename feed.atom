@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T11:08:10.539Z</updated>
+    <updated>2021-06-18T12:13:28.988Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12966,46 +12966,6 @@ GopherChina 全部议程和讲师出炉 https://mp.weixin.qq.com/s/G_M4yw6VCTfF0
         <summary type="html"><![CDATA[美国教育非营利组织可汗学院（Khan Academy）方面透露，其已经用谷歌的 Go 编程语言完成了 50 万行代码，以取代此前用 Python 2 编写的后台服务器。根据介绍，可汗学院在其 Goliath 项目下实现了从 Python 2 到 Go 的大转变。Goliath 最初是使用 Python 2 实现的；从 2019 年开始，可汗学院逐步将其迁移到了 Go。 当我们...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xarray —— 在 NumPy 多维数组中加入变量名和坐标索引]]></title>
-        <id>https://www.oschina.net/p/xarray</id>
-        <link href="https://www.oschina.net/p/xarray"/>
-        <updated>2021-05-20T00:10:44.000Z</updated>
-        <summary type="html"><![CDATA[xarray 是一个开源 Python 包，它可以使处理多维数组更加简单、高效并有趣。xarray 在原始类 NumPy 多维数组中引入了标签化的变量名称和坐标索引，实现了更直观、更简洁和更加不容易出错的能力。该软件包包括一个庞大且不断增长的域无关功能库，用于使用这些数据结构进行高级分析和可视化。xarray 灵感来自同为解决数据分...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitee 推荐 | 基于 Vue 2.0 的桌面端组件库 Element]]></title>
-        <id>https://gitee.com/ElemeFE/element</id>
-        <link href="https://gitee.com/ElemeFE/element"/>
-        <updated>2021-05-20T00:03:46.000Z</updated>
-        <summary type="html"><![CDATA[Element 是一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库，提供了配套设计资源，帮助你的网站快速成型。由饿了么公司前端团队开源。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日一博 | 看完这篇你还能不懂 C 语言/C++ 内存管理？]]></title>
-        <id>https://my.oschina.net/u/4586915/blog/4703161</id>
-        <link href="https://my.oschina.net/u/4586915/blog/4703161"/>
-        <updated>2021-05-20T00:00:16.000Z</updated>
-        <summary type="html"><![CDATA[C 语言内存管理指对系统内存的分配、创建、使用这一系列操作。在内存管理中，由于是操作系统内存，使用不当会造成毕竟麻烦的结果。本文将从系统内存的分配、创建出发，并且使用例子来举例说明内存管理不当会出现的情况及解决办法。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use CSS Selectors to Style Your Web Page]]></title>
-        <id>60a341f5906c5207e3a7da61</id>
-        <link href="https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/"/>
-        <updated>2021-05-19T23:17:21.000Z</updated>
-        <summary type="html"><![CDATA[CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been]]></summary>
-        <author>
-            <name/>
         </author>
     </entry>
 </feed>
