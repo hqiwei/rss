@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T17:22:56.668Z</updated>
+    <updated>2021-06-19T18:10:10.845Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12700,16 +12700,6 @@ Dubbo 、RocketMQ两大云原生中间件开源项目处于 Apache 软件基金�
         <link href="https://www.oschina.net/news/142559/envoy-on windows-ga"/>
         <updated>2021-05-21T06:12:08.000Z</updated>
         <summary type="html"><![CDATA[作者：Sotiris Nanopoulos Envoy 项目一直努力使网络对所有运行的应用程序“透明”，而不管编程语言、平台架构和操作系统。今天，我们很兴奋地宣布 Envoy 现在可以在 Windows 平台上使用了！从版本 1.18.3 开始，你可以在 Windows 上使用 Envoy 用于生产工作负载。 自 2016 年以来，在 Windows 上移植 Envoy 一直是社区的...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一起看 I/O | Android 更新一览]]></title>
-        <id>https://www.oschina.net/news/142556/whats-new-for-android-developers-at-io</id>
-        <link href="https://www.oschina.net/news/142556/whats-new-for-android-developers-at-io"/>
-        <updated>2021-05-21T06:08:39.000Z</updated>
-        <summary type="html"><![CDATA[作者 / Karen Ng, Director, Product Management & Jacob Lehrbaum, Director of Developer Relations, Android & Play 作为 Android 开发者，我们致力于打造让世界各地的用户们满意的体验。如今，用户比以往任何时候都更依赖您的应用，对您的期望也越来越高，您作为开发者的工作也越来越不易。今天在 Google I/O 大会上...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>
