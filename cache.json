@@ -1917,6 +1917,42 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=86638",
+          "author": "Editor, Kai",
+          "description": "Apache Rocketmq 4.9.0发布 使用 cpulimit 来释放你的 CPU Linux Mint 20.2测试版ISO现在可以下载 硬核观察 #306 国产的全功能 Linux 平板电脑 JingPad A1 众筹成功 云原 […]",
+          "link": "http://www.linuxeden.com/a/86638",
+          "publishedOn": "2021-06-19T15:02:29.000Z",
+          "wordCount": 114,
+          "title": "每日文章精选 2021 06 19"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86634",
+          "author": "Editor, Kai",
+          "description": "rocketmq-all-4.9.0-bin-release.zip           2021-06-15 06:54   17M rocketmq-all-4.9.0-bin-release.zip.asc       2021-06 […]",
+          "link": "http://www.linuxeden.com/a/86634",
+          "publishedOn": "2021-06-19T14:59:33.000Z",
+          "wordCount": 105,
+          "title": "Apache Rocketmq 4.9.0发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86631",
+          "author": "Editor, Kai",
+          "description": "在 Linux 系统上管理系统资源的推荐工具是 cgroups。虽然在可以调整的限制方面（CPU、内存、磁盘 I/O、网络等）非常强大，但配置 cgroups 并不简单。nice 命令从 1973 年起就可以使用了。但它只是调整在一个处理器 […]",
+          "link": "http://www.linuxeden.com/a/86631",
+          "publishedOn": "2021-06-19T14:34:58.000Z",
+          "wordCount": 370,
+          "title": "使用 cpulimit 来释放你的 CPU"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86628",
+          "author": "Editor, Kai",
+          "description": "您现在可以从Cinnamon、MATE或Xfce三个版本中选择并下载Linux Mint 20.2测试版。Linux Mint 20.2的主要更新之一是更新管理器以及它处理和提醒用户更新的方式。在Linux Mint系统中，所有安装的软件， […]",
+          "link": "http://www.linuxeden.com/a/86628",
+          "publishedOn": "2021-06-19T14:31:21.000Z",
+          "wordCount": 108,
+          "title": "Linux Mint 20.2测试版ISO现在可以下载"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86624",
           "author": "Editor, Kai",
           "description": "Linuxeden开源社区-开源美图 2021 06 19",
@@ -8193,24 +8229,6 @@
           "publishedOn": "2021-05-21T03:21:25.000Z",
           "wordCount": 721,
           "title": "WebRTC M90 更新：功能增强、改进稳定性与性能"
-        },
-        {
-          "id": "https://www.oschina.net/news/142514",
-          "author": null,
-          "description": "5月20日，2021 OPPO广告联盟峰会在北京圆满举办。本次峰会以“在一起，焕启增长”为主题，与现场各位开发者分享OPPO对广告联盟业务的再思考，并带来首次品牌焕新、产品及服务能力的升级 ，现场还发布了「开发者守望计划」，携手行业共同展望联盟未来，焕启增长的无限可能。 同时，峰会还特邀动能无线VP侯思宇、芒果TV程序...",
-          "link": "https://www.oschina.net/news/142514",
-          "publishedOn": "2021-05-21T02:51:50.000Z",
-          "wordCount": 471,
-          "title": "2021 OPPO 广告联盟峰会圆满举办丨拥抱联盟新生态，打造融合增长平台"
-        },
-        {
-          "id": "https://www.oschina.net/news/142507/wave-summit-2021-news",
-          "author": null,
-          "description": "5月20日，由深度学习技术及应用国家工程实验室与百度联合主办的 WAVE SUMMIT 2021深度学习开发者峰会在北京召开。 百度首席技术官、深度学习技术及应用国家工程实验室主任王海峰在峰会上致辞。王海峰透露，飞桨已凝聚320万开发者，相比1年前增长近70%；服务的企事业单位达到12万家。 王海峰也分享了在现阶段关于人工智能...",
-          "link": "https://www.oschina.net/news/142507/wave-summit-2021-news",
-          "publishedOn": "2021-05-21T02:37:18.000Z",
-          "wordCount": 473,
-          "title": "融合创新，降低门槛，飞桨推动人工智能走通工业大生产之路"
         }
       ]
     },

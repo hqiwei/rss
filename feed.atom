@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T14:08:44.028Z</updated>
+    <updated>2021-06-19T15:09:29.108Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 06 19]]></title>
+        <id>http://www.linuxeden.com/?p=86638</id>
+        <link href="http://www.linuxeden.com/a/86638"/>
+        <updated>2021-06-19T15:02:29.000Z</updated>
+        <summary type="html"><![CDATA[Apache Rocketmq 4.9.0发布 使用 cpulimit 来释放你的 CPU Linux Mint 20.2测试版ISO现在可以下载 硬核观察 #306 国产的全功能 Linux 平板电脑 JingPad A1 众筹成功 云原 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Rocketmq 4.9.0发布]]></title>
+        <id>http://www.linuxeden.com/?p=86634</id>
+        <link href="http://www.linuxeden.com/a/86634"/>
+        <updated>2021-06-19T14:59:33.000Z</updated>
+        <summary type="html"><![CDATA[rocketmq-all-4.9.0-bin-release.zip           2021-06-15 06:54   17M rocketmq-all-4.9.0-bin-release.zip.asc       2021-06 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 cpulimit 来释放你的 CPU]]></title>
+        <id>http://www.linuxeden.com/?p=86631</id>
+        <link href="http://www.linuxeden.com/a/86631"/>
+        <updated>2021-06-19T14:34:58.000Z</updated>
+        <summary type="html"><![CDATA[在 Linux 系统上管理系统资源的推荐工具是 cgroups。虽然在可以调整的限制方面（CPU、内存、磁盘 I/O、网络等）非常强大，但配置 cgroups 并不简单。nice 命令从 1973 年起就可以使用了。但它只是调整在一个处理器 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Mint 20.2测试版ISO现在可以下载]]></title>
+        <id>http://www.linuxeden.com/?p=86628</id>
+        <link href="http://www.linuxeden.com/a/86628"/>
+        <updated>2021-06-19T14:31:21.000Z</updated>
+        <summary type="html"><![CDATA[您现在可以从Cinnamon、MATE或Xfce三个版本中选择并下载Linux Mint 20.2测试版。Linux Mint 20.2的主要更新之一是更新管理器以及它处理和提醒用户更新的方式。在Linux Mint系统中，所有安装的软件， […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-19)]]></title>
         <id>https://gocn.vip/topics/12219</id>
@@ -12761,26 +12801,6 @@ Percolator
         <link href="https://www.oschina.net/news/142525/webrtc-m90-released"/>
         <updated>2021-05-21T03:21:25.000Z</updated>
         <summary type="html"><![CDATA[WebRTC M90 目前已在 Chrome 测试版中发布，包含 2 个新特性和超过 29 个 bug 修复，以及功能增强、稳定性与性能等方面的改进。 欢迎关注本账号，我们将定期翻译 WebRTC 相关内容，帮助开发者获得最新资讯，走在行业前沿。 01. 公共服务公告 Plan B SDP 弃用 提醒：Plan B SDP 已被弃用，将来会被彻底删除。 时间线见：h...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 OPPO 广告联盟峰会圆满举办丨拥抱联盟新生态，打造融合增长平台]]></title>
-        <id>https://www.oschina.net/news/142514</id>
-        <link href="https://www.oschina.net/news/142514"/>
-        <updated>2021-05-21T02:51:50.000Z</updated>
-        <summary type="html"><![CDATA[5月20日，2021 OPPO广告联盟峰会在北京圆满举办。本次峰会以“在一起，焕启增长”为主题，与现场各位开发者分享OPPO对广告联盟业务的再思考，并带来首次品牌焕新、产品及服务能力的升级 ，现场还发布了「开发者守望计划」，携手行业共同展望联盟未来，焕启增长的无限可能。 同时，峰会还特邀动能无线VP侯思宇、芒果TV程序...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[融合创新，降低门槛，飞桨推动人工智能走通工业大生产之路]]></title>
-        <id>https://www.oschina.net/news/142507/wave-summit-2021-news</id>
-        <link href="https://www.oschina.net/news/142507/wave-summit-2021-news"/>
-        <updated>2021-05-21T02:37:18.000Z</updated>
-        <summary type="html"><![CDATA[5月20日，由深度学习技术及应用国家工程实验室与百度联合主办的 WAVE SUMMIT 2021深度学习开发者峰会在北京召开。 百度首席技术官、深度学习技术及应用国家工程实验室主任王海峰在峰会上致辞。王海峰透露，飞桨已凝聚320万开发者，相比1年前增长近70%；服务的企事业单位达到12万家。 王海峰也分享了在现阶段关于人工智能...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>
