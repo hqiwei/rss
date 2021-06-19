@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T15:09:29.108Z</updated>
+    <updated>2021-06-19T16:15:22.465Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12710,97 +12710,6 @@ Dubbo 、RocketMQ两大云原生中间件开源项目处于 Apache 软件基金�
         <link href="https://www.oschina.net/news/142556/whats-new-for-android-developers-at-io"/>
         <updated>2021-05-21T06:08:39.000Z</updated>
         <summary type="html"><![CDATA[作者 / Karen Ng, Director, Product Management & Jacob Lehrbaum, Director of Developer Relations, Android & Play 作为 Android 开发者，我们致力于打造让世界各地的用户们满意的体验。如今，用户比以往任何时候都更依赖您的应用，对您的期望也越来越高，您作为开发者的工作也越来越不易。今天在 Google I/O 大会上...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gocron 定时任务管理器]]></title>
-        <id>https://gocn.vip/topics/12099</id>
-        <link href="https://gocn.vip/topics/12099"/>
-        <updated>2021-05-21T03:54:46.000Z</updated>
-        <summary type="html"><![CDATA[Golang | gocron 介绍
-推荐编辑：laocheng
-一、简介
-很多时候，项目中需要用到定时任务，或者周期任务。首先我们想到了 crontab，但是 crontab 使用会和项目分离，不那么方便。那怎么办呢？
-这里，推荐使用gocron 这个库，可以非常方便的设置定时任务，无论年、月、日、时、分、秒的定时设置。同时，它还提供 crontab 字符串格式的设置功能。
-二、快速使用
-步骤如下：
-安装包"github.com/go-co-op/gocron"
-引入包，参照例子直接使用
-1. 简单使用
-首先，初始化 s 对象；
-然后，直接配置定时任务，任务添加函数名 + 参数；
-最后，block 当前进程，观察任务执行。
-package main
-
-import (
-    "fmt"
-    "time"
-
-    "github.com/go-co-op/gocron"
-)
-
-func task(s string){
-    fmt.Printf("I'm running, about %s. \n", s)
-}
-
-func main() {
-    s := gocron.NewScheduler(…]]></summary>
-        <author>
-            <name>laocheng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重磅 || Spring Boot 2.5.0 正式发布]]></title>
-        <id>https://www.oschina.net/news/142532/spring-boot-2-5-0-released</id>
-        <link href="https://www.oschina.net/news/142532/spring-boot-2-5-0-released"/>
-        <updated>2021-05-21T03:40:42.000Z</updated>
-        <summary type="html"><![CDATA[spring boot 2.5.0、2.4.6、2.3.11 正式发布。 
-<parent>
-  <groupId>org.springframework.boot</groupId>
-  <artifactId>spring-boot-starter-parent</artifactId>
-  <version>2.5.0</version>
-</parent>
- 新特性 支持 Java16 支持 Gradle7 增强 Docker 镜像构建工具 全新的数据源加载机制 spring boot 2....]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[事务前沿研究丨事务测试体系解析]]></title>
-        <id>https://gocn.vip/topics/12098</id>
-        <link href="https://gocn.vip/topics/12098"/>
-        <updated>2021-05-21T03:21:51.000Z</updated>
-        <summary type="html"><![CDATA[作者介绍：童牧。
-绪论
-在程序员的生涯中，bug 一直伴随着我们，虽然我们期望写出完美的程序，但是再优秀的程序员也无法保证自己能够不写出 bug。因此，我们为程序编写测试，通过提前发现 bug 来提高最终交付程序的质量。我从在 PingCAP 的工作中感受到，做好数据库和做好数据库测试是密不可分的，本次分享，我们将在第一讲的事务隔离级别的基础上，对数据库事务的测试进行研究，主要讲述，在 PingCAP 我们是如何保证事务的正确性的。
-因为我们保证事务正确性的方法比较多，所以本次我们会着重讲解 Jepsen 和 Elle，而其他方法则是作为补充，我也会简单说明他们的做法和优缺点。我将事务测试的方法划分为以下几个类别：
-理论正确性的验证
-
-
-基于不变量的正确性验证
-
-
-对执行历史进行检查的验证
-
-
-辅助测试手段
-
-
-回顾 Percolator 提交协议
-Percolator
-在开始讲述测试方法前，我们先对 Percolator 提交协议进行回顾，感受一下这一协议下的复杂性。Percolator 提交协议使用 2PC 的提交方式来保证事务的原子性，但是在 shared-nothing 架构下，没有一个节点有全局的事…]]></summary>
-        <author>
-            <name>TiDB_Robot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebRTC M90 更新：功能增强、改进稳定性与性能]]></title>
-        <id>https://www.oschina.net/news/142525/webrtc-m90-released</id>
-        <link href="https://www.oschina.net/news/142525/webrtc-m90-released"/>
-        <updated>2021-05-21T03:21:25.000Z</updated>
-        <summary type="html"><![CDATA[WebRTC M90 目前已在 Chrome 测试版中发布，包含 2 个新特性和超过 29 个 bug 修复，以及功能增强、稳定性与性能等方面的改进。 欢迎关注本账号，我们将定期翻译 WebRTC 相关内容，帮助开发者获得最新资讯，走在行业前沿。 01. 公共服务公告 Plan B SDP 弃用 提醒：Plan B SDP 已被弃用，将来会被彻底删除。 时间线见：h...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>
