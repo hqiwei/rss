@@ -4813,24 +4813,6 @@
           "publishedOn": "2021-05-20T14:21:24.000Z",
           "wordCount": 441,
           "title": "如何在 Ubuntu 服务器上安装桌面环境（GUI）"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85551",
-          "author": "Editor, Kai",
-          "description": "继Intel、AMD和NVIDIA三家后，ARM也公布了此次出席台北电脑展2021的安排。其中CEO Simon Segars将亲自主持讲演活动，主题是未来计算以及后疫情时代的产业恢复等，时间是5月31日下午14点。此外，ARM IP事业部 […]",
-          "link": "http://www.linuxeden.com/a/85551",
-          "publishedOn": "2021-05-20T13:42:24.000Z",
-          "wordCount": 82,
-          "title": "ARM将举办新品发布会：Cortex X2/A79大核有望登场"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85548",
-          "author": "Editor, Kai",
-          "description": "Google今天在I/O大会上宣布，随着Chrome OS 91的发布，Chromebook上的Linux终于将走出测试阶段。该公司曾在Chrome OS上同时支持Linux应用程序和Android应用程序，希望通过IDE等来吸引开发者的注 […]",
-          "link": "http://www.linuxeden.com/a/85548",
-          "publishedOn": "2021-05-20T13:39:30.000Z",
-          "wordCount": 103,
-          "title": "Chromebook上的Linux将随着Chrome OS 91的发布而走出测试阶段"
         }
       ]
     },
@@ -5188,6 +5170,24 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/146646",
+          "author": null,
+          "description": "作为全球首个被CNCF纳入托管的开源CNI网络项目，Kube-OVN已经成为K8s生态中功能最完备、对传统基础设施兼容性最佳的开源网络组件。 开源至今两年的时间里，Kube-OVN已完成29次发版，在Github上收获近900 star，有来自灵雀云、中国电信、Intel、华为、浪潮等诸多公司的数十位贡献者参与代码编写，同时积累了70+企业用户，...",
+          "link": "https://www.oschina.net/news/146646",
+          "publishedOn": "2021-06-19T00:34:55.000Z",
+          "wordCount": 575,
+          "title": "Kube-OVN 社区规划 Roadmap 2021-2022 | What’s the next?"
+        },
+        {
+          "id": "https://www.oschina.net/news/146645/end-of-life-date-for-ubuntu-2010-groovy-gorilla",
+          "author": null,
+          "description": "Canonical 近日宣布，Ubuntu 20.10 Groovy Gorilla 将于 2021 年 7 月 22 日失去支持。由于该版本是介于长期支持（LTS）版本之间的一个版本，因此它只有九个月的支持期。 为了协助用户升级系统，Canonical 还发布了一份指南，其中包含了升级至新版本系统时需要知道和操作的所有事项。如果你目前不确定正在使用哪个版本的...",
+          "link": "https://www.oschina.net/news/146645/end-of-life-date-for-ubuntu-2010-groovy-gorilla",
+          "publishedOn": "2021-06-19T00:30:40.000Z",
+          "wordCount": 546,
+          "title": "Ubuntu 20.10 Groovy Gorilla 将于 7 月结束支持"
+        },
         {
           "id": "https://www.oschina.net/news/146644/eclipse-ide-working-group",
           "author": null,

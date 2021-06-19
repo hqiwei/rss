@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T00:30:16.503Z</updated>
+    <updated>2021-06-19T02:00:50.250Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kube-OVN 社区规划 Roadmap 2021-2022 | What’s the next?]]></title>
+        <id>https://www.oschina.net/news/146646</id>
+        <link href="https://www.oschina.net/news/146646"/>
+        <updated>2021-06-19T00:34:55.000Z</updated>
+        <summary type="html"><![CDATA[作为全球首个被CNCF纳入托管的开源CNI网络项目，Kube-OVN已经成为K8s生态中功能最完备、对传统基础设施兼容性最佳的开源网络组件。 开源至今两年的时间里，Kube-OVN已完成29次发版，在Github上收获近900 star，有来自灵雀云、中国电信、Intel、华为、浪潮等诸多公司的数十位贡献者参与代码编写，同时积累了70+企业用户，...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 20.10 Groovy Gorilla 将于 7 月结束支持]]></title>
+        <id>https://www.oschina.net/news/146645/end-of-life-date-for-ubuntu-2010-groovy-gorilla</id>
+        <link href="https://www.oschina.net/news/146645/end-of-life-date-for-ubuntu-2010-groovy-gorilla"/>
+        <updated>2021-06-19T00:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Canonical 近日宣布，Ubuntu 20.10 Groovy Gorilla 将于 2021 年 7 月 22 日失去支持。由于该版本是介于长期支持（LTS）版本之间的一个版本，因此它只有九个月的支持期。 为了协助用户升级系统，Canonical 还发布了一份指南，其中包含了升级至新版本系统时需要知道和操作的所有事项。如果你目前不确定正在使用哪个版本的...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源美图 2021 06 19]]></title>
         <id>http://www.linuxeden.com/?p=86624</id>
@@ -12992,26 +13012,6 @@ GopherChina 全部议程和讲师出炉 https://mp.weixin.qq.com/s/G_M4yw6VCTfF0
         <link href="http://www.linuxeden.com/a/85556"/>
         <updated>2021-05-20T14:21:24.000Z</updated>
         <summary type="html"><![CDATA[你想在你的 Ubuntu 服务器上安装 GUI 吗？大部分情况下你是可以安装的，在本教程中我会详细介绍安装的步骤。 在正式开始之前，我来告诉你为什么服务器版的 Ubuntu 不带 GUI，以及在什么情况下你可以在服务器上安装 GUI。 为什 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARM将举办新品发布会：Cortex X2/A79大核有望登场]]></title>
-        <id>http://www.linuxeden.com/?p=85551</id>
-        <link href="http://www.linuxeden.com/a/85551"/>
-        <updated>2021-05-20T13:42:24.000Z</updated>
-        <summary type="html"><![CDATA[继Intel、AMD和NVIDIA三家后，ARM也公布了此次出席台北电脑展2021的安排。其中CEO Simon Segars将亲自主持讲演活动，主题是未来计算以及后疫情时代的产业恢复等，时间是5月31日下午14点。此外，ARM IP事业部 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chromebook上的Linux将随着Chrome OS 91的发布而走出测试阶段]]></title>
-        <id>http://www.linuxeden.com/?p=85548</id>
-        <link href="http://www.linuxeden.com/a/85548"/>
-        <updated>2021-05-20T13:39:30.000Z</updated>
-        <summary type="html"><![CDATA[Google今天在I/O大会上宣布，随着Chrome OS 91的发布，Chromebook上的Linux终于将走出测试阶段。该公司曾在Chrome OS上同时支持Linux应用程序和Android应用程序，希望通过IDE等来吸引开发者的注 […]]]></summary>
         <author>
             <name>Editor, Kai</name>
         </author>
