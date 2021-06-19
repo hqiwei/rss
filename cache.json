@@ -8355,6 +8355,15 @@
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
         {
+          "id": "http://www.dayanzai.me/?p=40528",
+          "author": "大眼仔~旭",
+          "description": "正版特价！仅需 348 元！洗白白这次错过下次就不知道什么时间了！数量和时间都有限！现在绝大部分网友应该使用的 […]",
+          "link": "http://www.dayanzai.me/windows-10-buy.html",
+          "publishedOn": "2021-06-18T17:20:37.000Z",
+          "wordCount": 665,
+          "title": "微软官方特价！Windows 10 Pro 专业版 仅需 348 元！绑定数字权利、支持迁移授权！"
+        },
+        {
           "id": "http://www.dayanzai.me/?p=36715",
           "author": "大眼仔~旭",
           "description": "由本站和APSGO软购商城推荐的官方正版特价！终身版！Office 家庭和学生版 2016/2019 正版办公 […]",
@@ -9259,15 +9268,6 @@
           "publishedOn": "2021-05-21T16:27:39.000Z",
           "wordCount": 667,
           "title": "Wii U 模拟器中文版 Cemu Wii U Emulator 1.22.13 中文免费版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=31988",
-          "author": "大眼仔~旭",
-          "description": "推荐语：“刘遄老师的新书《Linux就该这么学》双十一当天预售出版上市，必读的Linux系统和红帽认证自学书籍 […]",
-          "link": "http://www.dayanzai.me/linux-book.html",
-          "publishedOn": "2021-05-20T18:28:33.000Z",
-          "wordCount": 501,
-          "title": "《Linux就该这么学》— 非常适合linux技术学习的入门好书"
         }
       ]
     }

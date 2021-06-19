@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T06:12:39.107Z</updated>
+    <updated>2021-06-19T07:12:55.717Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -164,6 +164,16 @@
         <summary type="html"><![CDATA[Wasmer 是支持 WASI 和 Emscripten 的 WebAssembly 运行时，提供基于 WebAssembly 的超轻量级容器，其可以在任何地方运行：从桌面端到云端、以及 IoT 设备，并且能嵌入在任何编程语言中。 Wasmer 2.0 的新内容： SIMD SIMD 是指单指令、多数据（single instruction, multiple data）。简而言之，SIMD 使一条指令可以同时...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软官方特价！Windows 10 Pro 专业版 仅需 348 元！绑定数字权利、支持迁移授权！]]></title>
+        <id>http://www.dayanzai.me/?p=40528</id>
+        <link href="http://www.dayanzai.me/windows-10-buy.html"/>
+        <updated>2021-06-18T17:20:37.000Z</updated>
+        <summary type="html"><![CDATA[正版特价！仅需 348 元！洗白白这次错过下次就不知道什么时间了！数量和时间都有限！现在绝大部分网友应该使用的 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
@@ -12903,16 +12913,6 @@ Percolator
         <summary type="html"><![CDATA[Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation]]></summary>
         <author>
             <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《Linux就该这么学》— 非常适合linux技术学习的入门好书]]></title>
-        <id>http://www.dayanzai.me/?p=31988</id>
-        <link href="http://www.dayanzai.me/linux-book.html"/>
-        <updated>2021-05-20T18:28:33.000Z</updated>
-        <summary type="html"><![CDATA[推荐语：“刘遄老师的新书《Linux就该这么学》双十一当天预售出版上市，必读的Linux系统和红帽认证自学书籍 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
         </author>
     </entry>
 </feed>
