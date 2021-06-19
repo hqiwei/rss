@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T07:12:55.717Z</updated>
+    <updated>2021-06-19T08:10:19.815Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -167,6 +167,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《Linux就该这么学》— 非常适合linux技术学习的入门好书]]></title>
+        <id>http://www.dayanzai.me/?p=31988</id>
+        <link href="http://www.dayanzai.me/linux-book.html"/>
+        <updated>2021-06-18T18:28:33.000Z</updated>
+        <summary type="html"><![CDATA[推荐语：“刘遄老师的新书《Linux就该这么学》双十一当天预售出版上市，必读的Linux系统和红帽认证自学书籍 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[微软官方特价！Windows 10 Pro 专业版 仅需 348 元！绑定数字权利、支持迁移授权！]]></title>
         <id>http://www.dayanzai.me/?p=40528</id>
         <link href="http://www.dayanzai.me/windows-10-buy.html"/>
@@ -232,6 +242,16 @@
         <link href="http://www.dayanzai.me/koodo-reader.html"/>
         <updated>2021-06-18T16:35:59.000Z</updated>
         <summary type="html"><![CDATA[开源跨平台电子书阅读器 Koodo Reader 中文版由大眼仔旭（www.dayanzai.me）发布。Ko […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[专业教学文档和课件编排软件 EduEditer 1.99 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=32993</id>
+        <link href="http://www.dayanzai.me/eduediter.html"/>
+        <updated>2021-06-18T16:32:07.000Z</updated>
+        <summary type="html"><![CDATA[专业教学文档和课件编排软件 EduEditer 中文版由大眼仔旭（www.dayanzai.me）发布。Edu […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
         </author>
@@ -12903,16 +12923,6 @@ Percolator
         <summary type="html"><![CDATA[说来也是巧最近在看 Dubbo 源码，然后发现了一处很奇怪的代码，于是就有了这篇文章，让我们来看一下这段代码，它属于 ChannelEventRunnable，这个 runnable 是 Dubbo IO 线程创建，将此任务扔到业务线程池中处理。]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angular 11 Tutorial: Code a Project from Scratch]]></title>
-        <id>60a6b3ab906c5207e3a7f5fa</id>
-        <link href="https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/"/>
-        <updated>2021-05-20T19:14:48.000Z</updated>
-        <summary type="html"><![CDATA[Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation]]></summary>
-        <author>
-            <name/>
         </author>
     </entry>
 </feed>
