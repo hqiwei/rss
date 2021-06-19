@@ -803,15 +803,6 @@
           "publishedOn": "2021-05-28T00:20:22.000Z",
           "wordCount": 434,
           "title": "科技爱好者周刊（第 160 期）：中年码农的困境"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n重庆市很多山地，地形复杂，产生了特有的奇观：被高架道路团团围住的楼盘。（via）\n本周话题：游戏开发者的年薪\n最近，推特上面有很多欧美的游戏开发者，晒自己的薪水，使用 #GameDevPaidMe 这个标签就能看到，从中可以了解国外程序员的收入。\n下面是一个美国开发者的发言。\n\n他有超过十年的开发经验，年薪是20多万美元。这还是在西雅图，如果在湾区，工资可能还会再高一些。这跟我听说的差不多，美国高级程序员的年薪，一般都会超过20万美元（约130万人民币）。\n我没想到的是，欧洲程序员的年薪，比美国少非常多。\n\n上面这个英国开发者，作为高级程序员，年薪居然才4万英镑（约36万人民币）。他入行时，更是少到1.5万英镑（约14万人民币）。欧洲其他国家的情况也差不多，年薪也就几万欧元，如果是东欧国家（比如波兰），薪水就更低了。\n这就是令我吃惊的地方， 西欧国家的人均 GDP 远高…",
-          "link": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html",
-          "publishedOn": "2021-05-21T00:17:00.000Z",
-          "wordCount": 484,
-          "title": "科技爱好者周刊（第 159 期）：游戏开发者的年薪"
         }
       ]
     },
@@ -820,6 +811,15 @@
       "feedUrl": "https://gocn.vip/topics/feed",
       "siteUrl": "https://gocn.vip/",
       "articles": [
+        {
+          "id": "https://gocn.vip/topics/12219",
+          "author": "azhang",
+          "description": "Golang 的自然语言处理包   https://pkg.go.dev/github.com/james-bowman/nlp\n\n把 vue.js 应用打包进 golang   https://hackandsla.sh/posts/2021-06-18-embed-vuejs-in-go/\n\n一个高性能 http benchemark 工具拥有实时的 web ui 和命令行展示 https://github.com/six-ddc/plow\n\n 类似于 curl 但是是用于 grpc 的，跟 grpc server 交互的命令行工具 https://github.com/fullstorydev/grpcurl\n\n 一个商业级别的构建部署监控平台  https://github.com/erda-project/erda\n\n\n\n\n\nGopherChina 倒计时 8 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n编辑: 阿章 \n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12219",
+          "publishedOn": "2021-06-19T13:06:30.000Z",
+          "wordCount": 112,
+          "title": "GoCN 每日新闻 (2021-06-19)"
+        },
         {
           "id": "https://gocn.vip/topics/12218",
           "author": "Orichalcum",
@@ -4696,33 +4696,6 @@
           "publishedOn": "2021-05-21T14:24:25.000Z",
           "wordCount": 341,
           "title": "Spring Boot 2.5发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85577",
-          "author": "Editor, Kai",
-          "description": "Linuxeden开源社区-开源美图 2021 05 21",
-          "link": "http://www.linuxeden.com/a/85577",
-          "publishedOn": "2021-05-21T00:26:19.000Z",
-          "wordCount": 84,
-          "title": "开源美图 2021 05 21"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85574",
-          "author": "Editor, Kai",
-          "description": "最大的自由开源软件 IRC 网络 Freenode 疑似发生了剧变，多位志愿者辞职并呼吁用户尽快迁移到新的 IRC 网络 libera.chat，称运行在 freenode.org/net/com 中的 IRC 网络应该被假设控制在一位恶意 […]",
-          "link": "http://www.linuxeden.com/a/85574",
-          "publishedOn": "2021-05-21T00:23:48.000Z",
-          "wordCount": 114,
-          "title": "Freenode 疑似发生巨变"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85572",
-          "author": "Editor, Kai",
-          "description": "This is release 1.38.0 (guadalupe_river_park_conservancy) of gRPC Core. For gRPC documentation, see grpc.io. For previou […]",
-          "link": "http://www.linuxeden.com/a/85572",
-          "publishedOn": "2021-05-21T00:22:04.000Z",
-          "wordCount": 285,
-          "title": "gRPC  1.38.0 发布"
         }
       ]
     },
@@ -8256,33 +8229,6 @@
           "publishedOn": "2021-05-21T02:05:36.000Z",
           "wordCount": 482,
           "title": "CVE-2021-29505：XStream 远程代码执行漏洞通告"
-        },
-        {
-          "id": "https://www.oschina.net/news/142464/android-exposed-the-data-of-over-100-million-users",
-          "author": null,
-          "description": "网络安全公司 Check Point Research 在周四发表了一份报告，在这份报告中 Check Point Research 表示，至少有 23 个热门的 Android 应用程序包含各种「第三方云服务的错误配置」。而这些严重的云服务错误配置，导致超过 1 亿用户的个人数据被泄漏。 云服务如今已被各种在线服务和应用程序广泛使用，而且在疫情的影响下，...",
-          "link": "https://www.oschina.net/news/142464/android-exposed-the-data-of-over-100-million-users",
-          "publishedOn": "2021-05-21T00:55:36.000Z",
-          "wordCount": 481,
-          "title": "Android 应用因云端配置错误，致使上亿用户数据泄漏"
-        },
-        {
-          "id": "https://www.oschina.net/news/142462/google-removes-fake-microsoft-authenticator-extension",
-          "author": null,
-          "description": "完全依靠自动化审查的扩展商店更容易受到虚假和恶意扩展的影响，Chrome Web Store 就属于这类，如今这个商店的扩展程序越来越多，但与此同时受到虚假与恶意扩展的影响也越来越大，最新增加的一个虚假扩展叫做 Microsoft Authenticator。 单从这个扩展的名称来看，似乎表明它是微软的一个官方产品，但实际上它并不是。从下...",
-          "link": "https://www.oschina.net/news/142462/google-removes-fake-microsoft-authenticator-extension",
-          "publishedOn": "2021-05-21T00:29:40.000Z",
-          "wordCount": 486,
-          "title": "Google 从 Chrome 扩展商店下架虚假的微软验证器"
-        },
-        {
-          "id": "https://www.oschina.net/news/142461/angular-devtools",
-          "author": null,
-          "description": "Angular 团队宣布推出 Angular DevTools，一个 Chrome DevTools 扩展，可以用来帮助检查应用程序的结构并分析其性能。 日前，Angular 曾针对 Angular 开发者进行了一项调查发现，大多数人都需要更好的工具来调试其应用程序。其确定了最需要关注的领域包括有：错误信息的改进、理解变化检测的执行、理解注入器层次结构和 ...",
-          "link": "https://www.oschina.net/news/142461/angular-devtools",
-          "publishedOn": "2021-05-21T00:16:00.000Z",
-          "wordCount": 508,
-          "title": "Angular DevTools 扩展发布，帮助改善调试体验"
         }
       ]
     },

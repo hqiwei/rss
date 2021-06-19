@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T12:12:54.023Z</updated>
+    <updated>2021-06-19T13:20:16.415Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-19)]]></title>
+        <id>https://gocn.vip/topics/12219</id>
+        <link href="https://gocn.vip/topics/12219"/>
+        <updated>2021-06-19T13:06:30.000Z</updated>
+        <summary type="html"><![CDATA[Golang 的自然语言处理包   https://pkg.go.dev/github.com/james-bowman/nlp
+
+把 vue.js 应用打包进 golang   https://hackandsla.sh/posts/2021-06-18-embed-vuejs-in-go/
+
+一个高性能 http benchemark 工具拥有实时的 web ui 和命令行展示 https://github.com/six-ddc/plow
+
+ 类似于 curl 但是是用于 grpc 的，跟 grpc server 交互的命令行工具 https://github.com/fullstorydev/grpcurl
+
+ 一个商业级别的构建部署监控平台  https://github.com/erda-project/erda
+
+
+
+
+
+GopherChina 倒计时 8 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ
+
+
+编辑: 阿章 
+
+
+订阅新闻: http://tinyletter.com/gocn
+
+
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>azhang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国空间站操作界面曝光，“天地交互”亮了]]></title>
         <id>https://www.oschina.net/news/146648/chinese-space-station-ui</id>
@@ -12779,90 +12812,6 @@ Percolator
 2、精通 JavaScript，熟悉 HTML、CSS，深入理解各种前…]]></summary>
         <author>
             <name>Bellabellabella</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android 应用因云端配置错误，致使上亿用户数据泄漏]]></title>
-        <id>https://www.oschina.net/news/142464/android-exposed-the-data-of-over-100-million-users</id>
-        <link href="https://www.oschina.net/news/142464/android-exposed-the-data-of-over-100-million-users"/>
-        <updated>2021-05-21T00:55:36.000Z</updated>
-        <summary type="html"><![CDATA[网络安全公司 Check Point Research 在周四发表了一份报告，在这份报告中 Check Point Research 表示，至少有 23 个热门的 Android 应用程序包含各种「第三方云服务的错误配置」。而这些严重的云服务错误配置，导致超过 1 亿用户的个人数据被泄漏。 云服务如今已被各种在线服务和应用程序广泛使用，而且在疫情的影响下，...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 从 Chrome 扩展商店下架虚假的微软验证器]]></title>
-        <id>https://www.oschina.net/news/142462/google-removes-fake-microsoft-authenticator-extension</id>
-        <link href="https://www.oschina.net/news/142462/google-removes-fake-microsoft-authenticator-extension"/>
-        <updated>2021-05-21T00:29:40.000Z</updated>
-        <summary type="html"><![CDATA[完全依靠自动化审查的扩展商店更容易受到虚假和恶意扩展的影响，Chrome Web Store 就属于这类，如今这个商店的扩展程序越来越多，但与此同时受到虚假与恶意扩展的影响也越来越大，最新增加的一个虚假扩展叫做 Microsoft Authenticator。 单从这个扩展的名称来看，似乎表明它是微软的一个官方产品，但实际上它并不是。从下...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源美图 2021 05 21]]></title>
-        <id>http://www.linuxeden.com/?p=85577</id>
-        <link href="http://www.linuxeden.com/a/85577"/>
-        <updated>2021-05-21T00:26:19.000Z</updated>
-        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 05 21]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freenode 疑似发生巨变]]></title>
-        <id>http://www.linuxeden.com/?p=85574</id>
-        <link href="http://www.linuxeden.com/a/85574"/>
-        <updated>2021-05-21T00:23:48.000Z</updated>
-        <summary type="html"><![CDATA[最大的自由开源软件 IRC 网络 Freenode 疑似发生了剧变，多位志愿者辞职并呼吁用户尽快迁移到新的 IRC 网络 libera.chat，称运行在 freenode.org/net/com 中的 IRC 网络应该被假设控制在一位恶意 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gRPC  1.38.0 发布]]></title>
-        <id>http://www.linuxeden.com/?p=85572</id>
-        <link href="http://www.linuxeden.com/a/85572"/>
-        <updated>2021-05-21T00:22:04.000Z</updated>
-        <summary type="html"><![CDATA[This is release 1.38.0 (guadalupe_river_park_conservancy) of gRPC Core. For gRPC documentation, see grpc.io. For previou […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 159 期）：游戏开发者的年薪]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html"/>
-        <updated>2021-05-21T00:17:00.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
-本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
-周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
-封面图
-
-重庆市很多山地，地形复杂，产生了特有的奇观：被高架道路团团围住的楼盘。（via）
-本周话题：游戏开发者的年薪
-最近，推特上面有很多欧美的游戏开发者，晒自己的薪水，使用 #GameDevPaidMe 这个标签就能看到，从中可以了解国外程序员的收入。
-下面是一个美国开发者的发言。
-
-他有超过十年的开发经验，年薪是20多万美元。这还是在西雅图，如果在湾区，工资可能还会再高一些。这跟我听说的差不多，美国高级程序员的年薪，一般都会超过20万美元（约130万人民币）。
-我没想到的是，欧洲程序员的年薪，比美国少非常多。
-
-上面这个英国开发者，作为高级程序员，年薪居然才4万英镑（约36万人民币）。他入行时，更是少到1.5万英镑（约14万人民币）。欧洲其他国家的情况也差不多，年薪也就几万欧元，如果是东欧国家（比如波兰），薪水就更低了。
-这就是令我吃惊的地方， 西欧国家的人均 GDP 远高…]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angular DevTools 扩展发布，帮助改善调试体验]]></title>
-        <id>https://www.oschina.net/news/142461/angular-devtools</id>
-        <link href="https://www.oschina.net/news/142461/angular-devtools"/>
-        <updated>2021-05-21T00:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Angular 团队宣布推出 Angular DevTools，一个 Chrome DevTools 扩展，可以用来帮助检查应用程序的结构并分析其性能。 日前，Angular 曾针对 Angular 开发者进行了一项调查发现，大多数人都需要更好的工具来调试其应用程序。其确定了最需要关注的领域包括有：错误信息的改进、理解变化检测的执行、理解注入器层次结构和 ...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
