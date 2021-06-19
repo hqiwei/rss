@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T02:00:50.250Z</updated>
+    <updated>2021-06-19T03:11:46.912Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国空间站操作界面曝光，“天地交互”亮了]]></title>
+        <id>https://www.oschina.net/news/146648/chinese-space-station-ui</id>
+        <link href="https://www.oschina.net/news/146648/chinese-space-station-ui"/>
+        <updated>2021-06-19T02:02:26.000Z</updated>
+        <summary type="html"><![CDATA[6月17日，航天员聂海胜、刘伯明、汤洪波先后进入天和核心舱，标志着中国人首次进入自己的空间站。 我们也从央视新闻的报道中首次看见了空间站系统的操作界面。据介绍，需要航天员操作的界面均使用中文，例如机械臂状态的控制，以及报警消息查看等操作。考虑到这套系统的使用者是中国航天员，因此全部使用中文也不足为奇。...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kube-OVN 社区规划 Roadmap 2021-2022 | What’s the next?]]></title>
         <id>https://www.oschina.net/news/146646</id>
@@ -154,6 +164,36 @@
         <summary type="html"><![CDATA[Wasmer 是支持 WASI 和 Emscripten 的 WebAssembly 运行时，提供基于 WebAssembly 的超轻量级容器，其可以在任何地方运行：从桌面端到云端、以及 IoT 设备，并且能嵌入在任何编程语言中。 Wasmer 2.0 的新内容： SIMD SIMD 是指单指令、多数据（single instruction, multiple data）。简而言之，SIMD 使一条指令可以同时...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软开源免费代码编辑器 Visual Studio Code 1.57.1 + x64 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=39529</id>
+        <link href="http://www.dayanzai.me/visual-studio-code.html"/>
+        <updated>2021-06-18T16:39:26.000Z</updated>
+        <summary type="html"><![CDATA[微软开源免费代码编辑器 Visual Studio Code 中文版由大眼仔旭（www.dayanzai.me […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[老牌电驴分享工具 eMule 0.60c 中文免费版]]></title>
+        <id>http://www.dayanzai.me/?p=6833</id>
+        <link href="http://www.dayanzai.me/emule.html"/>
+        <updated>2021-06-18T16:15:38.000Z</updated>
+        <summary type="html"><![CDATA[老牌电驴分享工具eMule 中文版由大眼仔旭（www.dayanzai.me）整理发布。什么是 eMule？在 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源免费BT/批量下载工具 DownZemAll! 2.4.2 + x64 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=6394</id>
+        <link href="http://www.dayanzai.me/downzemall.html"/>
+        <updated>2021-06-18T16:10:14.000Z</updated>
+        <summary type="html"><![CDATA[开源免费BT/批量下载工具 DownZemAll! 中文版 工具由大眼仔旭（www.dayanzai.me）发 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
@@ -12984,36 +13024,6 @@ GopherChina 全部议程和讲师出炉 https://mp.weixin.qq.com/s/G_M4yw6VCTfF0
         <summary type="html"><![CDATA[In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets]]></summary>
         <author>
             <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn JavaScript - A Free 7-hour Interactive Tutorial]]></title>
-        <id>60a36742906c5207e3a7da6e</id>
-        <link href="https://www.freecodecamp.org/news/learn-javascript-interactive-course/"/>
-        <updated>2021-05-20T14:53:38.000Z</updated>
-        <summary type="html"><![CDATA[Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日文章精选 2021 05 20]]></title>
-        <id>http://www.linuxeden.com/?p=85564</id>
-        <link href="http://www.linuxeden.com/a/85564"/>
-        <updated>2021-05-20T14:29:27.000Z</updated>
-        <summary type="html"><![CDATA[如何在 Ubuntu 服务器上安装桌面环境（GUI） ARM将举办新品发布会：Cortex X2/A79大核有望登场 SonoBus：支持跨平台的开源点对点音频流应用 Chromebook上的Linux将随着Chrome OS 91的发布而 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在 Ubuntu 服务器上安装桌面环境（GUI）]]></title>
-        <id>http://www.linuxeden.com/?p=85556</id>
-        <link href="http://www.linuxeden.com/a/85556"/>
-        <updated>2021-05-20T14:21:24.000Z</updated>
-        <summary type="html"><![CDATA[你想在你的 Ubuntu 服务器上安装 GUI 吗？大部分情况下你是可以安装的，在本教程中我会详细介绍安装的步骤。 在正式开始之前，我来告诉你为什么服务器版的 Ubuntu 不带 GUI，以及在什么情况下你可以在服务器上安装 GUI。 为什 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>

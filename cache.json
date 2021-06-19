@@ -787,15 +787,6 @@
           "publishedOn": "2021-05-20T15:20:53.000Z",
           "wordCount": 1493,
           "title": "How to Get Started with Version Control Using Git"
-        },
-        {
-          "id": "60a36742906c5207e3a7da6e",
-          "author": "",
-          "description": "Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most",
-          "link": "https://www.freecodecamp.org/news/learn-javascript-interactive-course/",
-          "publishedOn": "2021-05-20T14:53:38.000Z",
-          "wordCount": 1202,
-          "title": "Learn JavaScript - A Free 7-hour Interactive Tutorial"
         }
       ]
     },
@@ -4795,24 +4786,6 @@
           "publishedOn": "2021-05-21T00:07:10.000Z",
           "wordCount": 912,
           "title": "CKEditor 4.16.1 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85564",
-          "author": "Editor, Kai",
-          "description": "如何在 Ubuntu 服务器上安装桌面环境（GUI） ARM将举办新品发布会：Cortex X2/A79大核有望登场 SonoBus：支持跨平台的开源点对点音频流应用 Chromebook上的Linux将随着Chrome OS 91的发布而 […]",
-          "link": "http://www.linuxeden.com/a/85564",
-          "publishedOn": "2021-05-20T14:29:27.000Z",
-          "wordCount": 101,
-          "title": "每日文章精选 2021 05 20"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85556",
-          "author": "Editor, Kai",
-          "description": "你想在你的 Ubuntu 服务器上安装 GUI 吗？大部分情况下你是可以安装的，在本教程中我会详细介绍安装的步骤。 在正式开始之前，我来告诉你为什么服务器版的 Ubuntu 不带 GUI，以及在什么情况下你可以在服务器上安装 GUI。 为什 […]",
-          "link": "http://www.linuxeden.com/a/85556",
-          "publishedOn": "2021-05-20T14:21:24.000Z",
-          "wordCount": 441,
-          "title": "如何在 Ubuntu 服务器上安装桌面环境（GUI）"
         }
       ]
     },
@@ -5170,6 +5143,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/146648/chinese-space-station-ui",
+          "author": null,
+          "description": "6月17日，航天员聂海胜、刘伯明、汤洪波先后进入天和核心舱，标志着中国人首次进入自己的空间站。 我们也从央视新闻的报道中首次看见了空间站系统的操作界面。据介绍，需要航天员操作的界面均使用中文，例如机械臂状态的控制，以及报警消息查看等操作。考虑到这套系统的使用者是中国航天员，因此全部使用中文也不足为奇。...",
+          "link": "https://www.oschina.net/news/146648/chinese-space-station-ui",
+          "publishedOn": "2021-06-19T02:02:26.000Z",
+          "wordCount": 548,
+          "title": "中国空间站操作界面曝光，“天地交互”亮了"
+        },
         {
           "id": "https://www.oschina.net/news/146646",
           "author": null,
@@ -8408,6 +8390,33 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=39529",
+          "author": "大眼仔~旭",
+          "description": "微软开源免费代码编辑器 Visual Studio Code 中文版由大眼仔旭（www.dayanzai.me […]",
+          "link": "http://www.dayanzai.me/visual-studio-code.html",
+          "publishedOn": "2021-06-18T16:39:26.000Z",
+          "wordCount": 576,
+          "title": "微软开源免费代码编辑器 Visual Studio Code 1.57.1 + x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=6833",
+          "author": "大眼仔~旭",
+          "description": "老牌电驴分享工具eMule 中文版由大眼仔旭（www.dayanzai.me）整理发布。什么是 eMule？在 […]",
+          "link": "http://www.dayanzai.me/emule.html",
+          "publishedOn": "2021-06-18T16:15:38.000Z",
+          "wordCount": 557,
+          "title": "老牌电驴分享工具 eMule 0.60c 中文免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=6394",
+          "author": "大眼仔~旭",
+          "description": "开源免费BT/批量下载工具 DownZemAll! 中文版 工具由大眼仔旭（www.dayanzai.me）发 […]",
+          "link": "http://www.dayanzai.me/downzemall.html",
+          "publishedOn": "2021-06-18T16:10:14.000Z",
+          "wordCount": 565,
+          "title": "开源免费BT/批量下载工具 DownZemAll! 2.4.2 + x64 中文多语免费版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=52688",
           "author": "大眼仔~旭",
