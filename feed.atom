@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T03:11:46.912Z</updated>
+    <updated>2021-06-19T04:11:40.545Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -172,6 +172,16 @@
         <link href="http://www.dayanzai.me/visual-studio-code.html"/>
         <updated>2021-06-18T16:39:26.000Z</updated>
         <summary type="html"><![CDATA[微软开源免费代码编辑器 Visual Studio Code 中文版由大眼仔旭（www.dayanzai.me […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源跨平台电子书阅读器 Koodo Reader 1.2.6 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=41150</id>
+        <link href="http://www.dayanzai.me/koodo-reader.html"/>
+        <updated>2021-06-18T16:35:59.000Z</updated>
+        <summary type="html"><![CDATA[开源跨平台电子书阅读器 Koodo Reader 中文版由大眼仔旭（www.dayanzai.me）发布。Ko […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
         </author>
@@ -13014,16 +13024,6 @@ GopherChina 全部议程和讲师出炉 https://mp.weixin.qq.com/s/G_M4yw6VCTfF0
         <summary type="html"><![CDATA[Icaros Shell Extensions 中文版 Windows 资源管理器视频扩展插件由大眼仔旭（ww […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Started with Version Control Using Git]]></title>
-        <id>60a4b5c7906c5207e3a7e2bb</id>
-        <link href="https://www.freecodecamp.org/news/get-started-with-version-control-and-git/"/>
-        <updated>2021-05-20T15:20:53.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets]]></summary>
-        <author>
-            <name/>
         </author>
     </entry>
 </feed>

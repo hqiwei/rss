@@ -778,15 +778,6 @@
           "publishedOn": "2021-05-20T17:12:29.000Z",
           "wordCount": 436,
           "title": "Learn Modern C++ by Building an Audio Plugin"
-        },
-        {
-          "id": "60a4b5c7906c5207e3a7e2bb",
-          "author": "",
-          "description": "In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets",
-          "link": "https://www.freecodecamp.org/news/get-started-with-version-control-and-git/",
-          "publishedOn": "2021-05-20T15:20:53.000Z",
-          "wordCount": 1493,
-          "title": "How to Get Started with Version Control Using Git"
         }
       ]
     },
@@ -8398,6 +8389,15 @@
           "publishedOn": "2021-06-18T16:39:26.000Z",
           "wordCount": 576,
           "title": "微软开源免费代码编辑器 Visual Studio Code 1.57.1 + x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=41150",
+          "author": "大眼仔~旭",
+          "description": "开源跨平台电子书阅读器 Koodo Reader 中文版由大眼仔旭（www.dayanzai.me）发布。Ko […]",
+          "link": "http://www.dayanzai.me/koodo-reader.html",
+          "publishedOn": "2021-06-18T16:35:59.000Z",
+          "wordCount": 626,
+          "title": "开源跨平台电子书阅读器 Koodo Reader 1.2.6 中文多语免费版"
         },
         {
           "id": "http://www.dayanzai.me/?p=6833",
