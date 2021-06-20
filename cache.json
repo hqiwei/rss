@@ -4687,6 +4687,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=39107",
+          "author": "青小蛙",
+          "description": "图忆是一款可以为图片批量添加水印的 Android 应用，支持多层水印（添加多个水印）、添加文本、EXIF 数据或者贴图为水印内容。最重要的是批量处理，简单易用又高效。@Appinn 来自发现频道，@",
+          "link": "https://www.appinn.com/wp2app-photomarker-android/",
+          "publishedOn": "2021-06-20T07:34:01.000Z",
+          "wordCount": 1127,
+          "title": "图忆水印  – 为图片批量添加水印，支持多层水印（文本、Exif 数据或贴图）[Android]"
+        },
+        {
           "id": "https://www.appinn.com/?p=39097",
           "author": "青小蛙",
           "description": "近来要生成一张词云图片，随手就找到了一堆提供服务的产品，但很多款居然在下载的时候需要扫描微信登录，于是找来 3 款免费的词云生成器，无需登录，即泡即用。@Appinn 这类服务非常多，大多数也是免费的",
