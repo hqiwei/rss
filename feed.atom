@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-20T00:31:56.369Z</updated>
+    <updated>2021-06-20T02:03:40.206Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Debian 10.10发布 包含最新安全更新]]></title>
+        <id>http://www.linuxeden.com/?p=86642</id>
+        <link href="http://www.linuxeden.com/a/86642"/>
+        <updated>2021-06-20T02:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Debian项目已经宣布推出最新版本Debian 10.10。如同其他的位于小数点后的新版本一样，Debian 10.10并不是Debian的一个主要版本，相反，它是将所有最新的软件打包成一个新的ISO，方便一次性安装Debian，而不需要 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seaweedfs 2.54 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86640</id>
+        <link href="http://www.linuxeden.com/a/86640"/>
+        <updated>2021-06-20T01:09:43.000Z</updated>
+        <summary type="html"><![CDATA[FUSE mount Fix a deletion bug #2138 introduced in 2.53. This would cause the file chunks are not actually deleted, which […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试：Windows 11 提升了 big.LITTLE x86 CPU 的性能]]></title>
+        <id>https://www.oschina.net/news/146746/windows-11-biglittle-x86-cpus</id>
+        <link href="https://www.oschina.net/news/146746/windows-11-biglittle-x86-cpus"/>
+        <updated>2021-06-20T01:04:34.000Z</updated>
+        <summary type="html"><![CDATA[日前，在 build 21996.1 的 Windows 11 ISO 泄露后，Hot Hardware 进行了一项新的测试，以寻找对 Windows 11调度程序所做的改变，以及它能如何应对英特尔即将推出的 Big-Bigger Alder Lake CPU。值得一提的是，AMD 的下一代 Ryzen 处理器或许也有望采用 big.LITTLE 的混合架构设计。 由于测试时 Alder Lake 尚未发布，所...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯 TencentOS 十年云原生的迭代演进之路]]></title>
+        <id>https://www.oschina.net/news/146742</id>
+        <link href="https://www.oschina.net/news/146742"/>
+        <updated>2021-06-20T00:52:52.000Z</updated>
+        <summary type="html"><![CDATA[导语 TencentOS Server (又名 Tencent Linux 简称 Tlinux) 是腾讯针对云的场景研发的 Linux 操作系统，提供了专门的功能特性和性能优化，为云服务器实例中的应用程序提供高性能，且更加安全可靠的运行环境。Tencent Linux 使用免费，在 CentOS（及兼容发行版）上开发的应用程序可直接在 Tencent Linux 上运行，用户还可持...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[glibc 和 gnulib 希望切断与自由软件基金会的版权联系]]></title>
+        <id>https://www.oschina.net/news/146740/glibc-gnulib-fsf-copyright</id>
+        <link href="https://www.oschina.net/news/146740/glibc-gnulib-fsf-copyright"/>
+        <updated>2021-06-20T00:32:17.000Z</updated>
+        <summary type="html"><![CDATA[GNU C 标准函数库（glibc）和 GNU 可移植性库（gnulib）正探讨是否要紧随 GNU Compiler Collection (GCC) 的步伐取消版权转让的要求，使自己与陷入风波的自由软件基金会（FSF）脱离关系。 早在本月月初 GCC 就已经做出决定，不再要求将版权转让给自由软件基金会。我们也曾针对这一事件做出了报道（点击查看文章）。 与 ...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Confluent 拟在 IPO 时获得 83 亿美元估值]]></title>
         <id>https://www.oschina.net/news/146739/confluent-ipo-8-bln-valuation</id>
