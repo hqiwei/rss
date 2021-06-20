@@ -5018,6 +5018,42 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/146739/confluent-ipo-8-bln-valuation",
+          "author": null,
+          "description": "基于 Apache Kafka 的商业公司 Confluent 于近日确定了其首次公开募股的条款，目标是在美国首次公开募股中获得约 83 亿美元的估值。路透社消息称，该公司日前提交的一份监管文件表明，其计划发行 2300 万股股票，定价范围为每股 29 至 33 美元，希望筹集至多 7.59 亿美元。 Confluent 曾于今年 4 月秘密申请 IPO。该公司...",
+          "link": "https://www.oschina.net/news/146739/confluent-ipo-8-bln-valuation",
+          "publishedOn": "2021-06-20T00:17:16.000Z",
+          "wordCount": 550,
+          "title": "Confluent 拟在 IPO 时获得 83 亿美元估值"
+        },
+        {
+          "id": "https://www.oschina.net/p/red-panda-dev-cpp",
+          "author": null,
+          "description": "Red Panda Dev C++ 是一个小巧的开源C/C++ 集成开发环境，基于 Dev-C++ 开发，非常适合于C/C++ 语言的初学者使用。",
+          "link": "https://www.oschina.net/p/red-panda-dev-cpp",
+          "publishedOn": "2021-06-20T00:03:48.000Z",
+          "wordCount": 784,
+          "title": "Red Panda Dev C++ —— C/C++ 集成开发环境"
+        },
+        {
+          "id": "https://gitee.com/fibjs/fibjs",
+          "author": null,
+          "description": "FibJS 是一个建立在 Google v8 Javascript 引擎基础上的应用服务器开发框架，不同于 node.js，FibJS 采用 fiber 解决 v8 引擎的多路复用，并通过大量 c++ 组件，将重负荷运算委托给后台线程，释放 v8 线程，争取更大的并发时间",
+          "link": "https://gitee.com/fibjs/fibjs",
+          "publishedOn": "2021-06-20T00:01:28.000Z",
+          "wordCount": 608,
+          "title": "Gitee 推荐 | V8 引擎基础上的应用服务器开发框架 FibJS"
+        },
+        {
+          "id": "https://my.oschina.net/Shenfq/blog/4681857",
+          "author": null,
+          "description": "之前在学习 React Hooks 的过程中，看到一篇外网文章，通过 Hooks 来请求数据，并将这段逻辑抽象成一个新的 Hooks 给其他组件复用，我也在我的博客里翻译了一下：《在 React Hooks 中如何请求数据？》，感兴趣可以看看。虽然是去年的文章，在阅读之后一下子就掌握了 Hooks 的使用方式，而且数据请求是在业务代码中很常用...",
+          "link": "https://my.oschina.net/Shenfq/blog/4681857",
+          "publishedOn": "2021-06-20T00:00:09.000Z",
+          "wordCount": 1390,
+          "title": "每日一博 | Vue 3 的组合 API 如何请求数据？"
+        },
+        {
           "id": "https://www.oschina.net/news/146648/chinese-space-station-ui",
           "author": null,
           "description": "6月17日，航天员聂海胜、刘伯明、汤洪波先后进入天和核心舱，标志着中国人首次进入自己的空间站。 我们也从央视新闻的报道中首次看见了空间站系统的操作界面。据介绍，需要航天员操作的界面均使用中文，例如机械臂状态的控制，以及报警消息查看等操作。考虑到这套系统的使用者是中国航天员，因此全部使用中文也不足为奇。...",
