@@ -803,6 +803,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12220",
+          "author": "ningxiaofang1o",
+          "description": "Casnode: React + Beego 的开源论坛 https://github.com/casbin/casnode\n\nYoyoGo v1.7.2 发布,支持 Nacos&Apollo 配置中心   https://gocn.vip/topics/12216\n\nGo 结构体的另类玩法：命名空间   https://mp.weixin.qq.com/s/8QRLiFMM8c5MX04f4ScUtA\n\nGo1.17 新特性之切片变数组 https://polarisxu.studygolang.com/posts/go/dynamic/go1.17-slice-to-array/\n\n深入理解 Golang Map https://mp.weixin.qq.com/s/gdzeDxD8zQopcIUYiLgjbw\n\n\n\n\n\nGopherChina 倒计时 7 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n编辑: 熊大\n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12220",
+          "publishedOn": "2021-06-20T04:53:33.000Z",
+          "wordCount": 107,
+          "title": "GoCN 每日新闻 (2021-06-20)"
+        },
+        {
           "id": "https://gocn.vip/topics/12219",
           "author": "azhang",
           "description": "Golang 的自然语言处理包   https://pkg.go.dev/github.com/james-bowman/nlp\n\n把 vue.js 应用打包进 golang   https://hackandsla.sh/posts/2021-06-18-embed-vuejs-in-go/\n\n一个高性能 http benchemark 工具拥有实时的 web ui 和命令行展示 https://github.com/six-ddc/plow\n\n 类似于 curl 但是是用于 grpc 的，跟 grpc server 交互的命令行工具 https://github.com/fullstorydev/grpcurl\n\n 一个商业级别的构建部署监控平台  https://github.com/erda-project/erda\n\n\n\n\n\nGopherChina 倒计时 8 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n编辑: 阿章 \n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs",
@@ -9079,33 +9088,6 @@
           "publishedOn": "2021-05-22T16:25:32.000Z",
           "wordCount": 604,
           "title": "蚂蚁下载管理器 Ant Download Manager Pro 2.2.5 中文多语免费版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=33672",
-          "author": "大眼仔~旭",
-          "description": "开源电子书管理软件 Calibre 中文版由大眼仔旭（www.dayanzai.me）发布。Calibre 是 […]",
-          "link": "http://www.dayanzai.me/calibre.html",
-          "publishedOn": "2021-05-21T16:36:41.000Z",
-          "wordCount": 773,
-          "title": "开源电子书管理软件 Calibre 5.18.0 + x64 中文多语免费版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=3032",
-          "author": "大眼仔~旭",
-          "description": "Mp3tag 中文版 MP3 信息修改工具由大眼仔旭（www.dayanzai.me）发布。MP3文件ID3- […]",
-          "link": "http://www.dayanzai.me/mp3tag.html",
-          "publishedOn": "2021-05-21T16:34:10.000Z",
-          "wordCount": 836,
-          "title": "MP3 信息修改工具 Mp3tag 3.07 中文多语免费版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=35322",
-          "author": "大眼仔~旭",
-          "description": "Wii U 模拟器中文版 Cemu Wii U Emulator 中文汉化版由大眼仔旭（www.dayanza […]",
-          "link": "http://www.dayanzai.me/cemu.html",
-          "publishedOn": "2021-05-21T16:27:39.000Z",
-          "wordCount": 667,
-          "title": "Wii U 模拟器中文版 Cemu Wii U Emulator 1.22.13 中文免费版"
         }
       ]
     }
