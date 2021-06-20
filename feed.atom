@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-20T12:12:47.615Z</updated>
+    <updated>2021-06-20T13:20:27.855Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 06 20]]></title>
+        <id>http://www.linuxeden.com/?p=86676</id>
+        <link href="http://www.linuxeden.com/a/86676"/>
+        <updated>2021-06-20T12:19:34.000Z</updated>
+        <summary type="html"><![CDATA[我如何用 CircuitPython 和开源工具监控温室 FreeDOS 如何启动 Linux用户吐槽微软packages网站故障后迟迟未能恢复 Intel 12代酷睿最大担心解除：Win11优化大小核架构、单核性能大涨 使用 cpulim […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我如何用 CircuitPython 和开源工具监控温室]]></title>
         <id>http://www.linuxeden.com/?p=86673</id>
@@ -12536,36 +12546,6 @@ Golang 中的适配器设计模式 https://www.smartscribs.com/adapter-design-pa
         <link href="https://www.oschina.net/news/142684/mozilla-macos-improvements-firefox"/>
         <updated>2021-05-22T02:16:09.000Z</updated>
         <summary type="html"><![CDATA[Mozilla 方面表示，其正在对 macOS 版 Firefox 中的一些项目进行改进，以提高在该操作系统下的原生运行感觉。具体包括有： 滚动条的运作动画。 正在努力在 macOS 上支持原生全屏。通过启用 pref full-screen-api.macos-native-full-screen 来打开它。这将（在其他方面）为视频创建新的全屏空间。例如，你可以把一个全屏的...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulsar 社区周报｜2021-05-10～2021-05-16]]></title>
-        <id>https://www.oschina.net/news/142671/apache-pulsar-weekly-news</id>
-        <link href="https://www.oschina.net/news/142671/apache-pulsar-weekly-news"/>
-        <updated>2021-05-22T00:22:32.000Z</updated>
-        <summary type="html"><![CDATA[关于 Apache Pulsar Apache Pulsar 是 Apache 软件基金会顶级项目，是下一代云原生分布式消息流平台，集消息、存储、轻量化函数式计算为一体，采用计算与存储分离架构设计，支持多租户、持久化存储、多机房跨区域数据复制，具有强一致性、高吞吐、低延时及高可扩展性等流数据存储特性。 GitHub 地址：http://github.com...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audacity 取消用户数据收集计划]]></title>
-        <id>https://www.oschina.net/news/142670/audacity-drops-plans-to-introduce-telemetry</id>
-        <link href="https://www.oschina.net/news/142670/audacity-drops-plans-to-introduce-telemetry"/>
-        <updated>2021-05-22T00:20:47.000Z</updated>
-        <summary type="html"><![CDATA[近日，开源音频编辑器 Audacity 在官方 GitHub 仓库发布了一篇新的帖子，在帖子中 Audacity 表示原本添加 Telemetry（遥测） 的计划目前已经被放弃。 2021 年 5 月初，Audacity 曾透露要在软件中添加 Telemetry。当时开发人员表示，他们希望通过此举收集用户使用该软件的情况，以便更好地集中开发资源。我们针对此事也进...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软开源 SimuLand，用于模拟网络攻击的测试实验室]]></title>
-        <id>https://www.oschina.net/news/142669/microsoft-simuland-simulated-cyberattacks</id>
-        <link href="https://www.oschina.net/news/142669/microsoft-simuland-simulated-cyberattacks"/>
-        <updated>2021-05-22T00:13:09.000Z</updated>
-        <summary type="html"><![CDATA[微软宣布推出一项 SimuLand 开源计划，旨在帮助世界各地的安全研究人员部署实验室环境，再现真实攻击场景中使用的知名技术；以及积极测试和验证相关的 Microsoft 365 Defender、Azure Defender 和 Azure Sentinel 检测的有效性，并利用遥测及每次模拟演练所产生的监识产物扩展威胁研究。 MSTIC 威胁研究人员 Roberto Ro...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>

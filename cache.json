@@ -1854,6 +1854,15 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=86676",
+          "author": "Editor, Kai",
+          "description": "我如何用 CircuitPython 和开源工具监控温室 FreeDOS 如何启动 Linux用户吐槽微软packages网站故障后迟迟未能恢复 Intel 12代酷睿最大担心解除：Win11优化大小核架构、单核性能大涨 使用 cpulim […]",
+          "link": "http://www.linuxeden.com/a/86676",
+          "publishedOn": "2021-06-20T12:19:34.000Z",
+          "wordCount": 102,
+          "title": "每日文章精选 2021 06 20"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86673",
           "author": "Editor, Kai",
           "description": "使用微控制器、传感器、Python 以及 MQTT 持续追踪温室的温度、湿度以及环境光。 CircuitPython 提供了一种和微控制器板进行交互的革命性方式。这篇文章介绍了如何使用 CircuitPython 来监测温室的温度、湿度以及 […]",
@@ -8121,33 +8130,6 @@
           "publishedOn": "2021-05-22T02:16:09.000Z",
           "wordCount": 561,
           "title": "Mozilla 正在为 Firefox 进行多项 macOS 改进"
-        },
-        {
-          "id": "https://www.oschina.net/news/142671/apache-pulsar-weekly-news",
-          "author": null,
-          "description": "关于 Apache Pulsar Apache Pulsar 是 Apache 软件基金会顶级项目，是下一代云原生分布式消息流平台，集消息、存储、轻量化函数式计算为一体，采用计算与存储分离架构设计，支持多租户、持久化存储、多机房跨区域数据复制，具有强一致性、高吞吐、低延时及高可扩展性等流数据存储特性。 GitHub 地址：http://github.com...",
-          "link": "https://www.oschina.net/news/142671/apache-pulsar-weekly-news",
-          "publishedOn": "2021-05-22T00:22:32.000Z",
-          "wordCount": 837,
-          "title": "Pulsar 社区周报｜2021-05-10～2021-05-16"
-        },
-        {
-          "id": "https://www.oschina.net/news/142670/audacity-drops-plans-to-introduce-telemetry",
-          "author": null,
-          "description": "近日，开源音频编辑器 Audacity 在官方 GitHub 仓库发布了一篇新的帖子，在帖子中 Audacity 表示原本添加 Telemetry（遥测） 的计划目前已经被放弃。 2021 年 5 月初，Audacity 曾透露要在软件中添加 Telemetry。当时开发人员表示，他们希望通过此举收集用户使用该软件的情况，以便更好地集中开发资源。我们针对此事也进...",
-          "link": "https://www.oschina.net/news/142670/audacity-drops-plans-to-introduce-telemetry",
-          "publishedOn": "2021-05-22T00:20:47.000Z",
-          "wordCount": 493,
-          "title": "Audacity 取消用户数据收集计划"
-        },
-        {
-          "id": "https://www.oschina.net/news/142669/microsoft-simuland-simulated-cyberattacks",
-          "author": null,
-          "description": "微软宣布推出一项 SimuLand 开源计划，旨在帮助世界各地的安全研究人员部署实验室环境，再现真实攻击场景中使用的知名技术；以及积极测试和验证相关的 Microsoft 365 Defender、Azure Defender 和 Azure Sentinel 检测的有效性，并利用遥测及每次模拟演练所产生的监识产物扩展威胁研究。 MSTIC 威胁研究人员 Roberto Ro...",
-          "link": "https://www.oschina.net/news/142669/microsoft-simuland-simulated-cyberattacks",
-          "publishedOn": "2021-05-22T00:13:09.000Z",
-          "wordCount": 517,
-          "title": "微软开源 SimuLand，用于模拟网络攻击的测试实验室"
         }
       ]
     },
