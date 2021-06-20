@@ -8121,15 +8121,6 @@
           "publishedOn": "2021-05-22T23:16:01.000Z",
           "wordCount": 551,
           "title": "Elide 5.0.0 发布"
-        },
-        {
-          "id": "https://www.oschina.net/news/142684/mozilla-macos-improvements-firefox",
-          "author": null,
-          "description": "Mozilla 方面表示，其正在对 macOS 版 Firefox 中的一些项目进行改进，以提高在该操作系统下的原生运行感觉。具体包括有： 滚动条的运作动画。 正在努力在 macOS 上支持原生全屏。通过启用 pref full-screen-api.macos-native-full-screen 来打开它。这将（在其他方面）为视频创建新的全屏空间。例如，你可以把一个全屏的...",
-          "link": "https://www.oschina.net/news/142684/mozilla-macos-improvements-firefox",
-          "publishedOn": "2021-05-22T02:16:09.000Z",
-          "wordCount": 561,
-          "title": "Mozilla 正在为 Firefox 进行多项 macOS 改进"
         }
       ]
     },

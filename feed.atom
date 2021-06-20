@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-20T14:08:10.669Z</updated>
+    <updated>2021-06-20T15:09:56.147Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12538,16 +12538,6 @@ Golang 中的适配器设计模式 https://www.smartscribs.com/adapter-design-pa
         <summary type="html"><![CDATA[袁隆平院士将毕生精力用在了水稻育种事业上。“大家吃不饱饭，我亲眼见过。” 当记者问袁老，会不会害怕那样的场景再次出现，他坚定回答，“不可能了”！网友：谢谢您让这句“不可能”成为现实，致敬！ “共和国勋章”获得者、中国工程院院士、国家杂交水稻 […]]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla 正在为 Firefox 进行多项 macOS 改进]]></title>
-        <id>https://www.oschina.net/news/142684/mozilla-macos-improvements-firefox</id>
-        <link href="https://www.oschina.net/news/142684/mozilla-macos-improvements-firefox"/>
-        <updated>2021-05-22T02:16:09.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla 方面表示，其正在对 macOS 版 Firefox 中的一些项目进行改进，以提高在该操作系统下的原生运行感觉。具体包括有： 滚动条的运作动画。 正在努力在 macOS 上支持原生全屏。通过启用 pref full-screen-api.macos-native-full-screen 来打开它。这将（在其他方面）为视频创建新的全屏空间。例如，你可以把一个全屏的...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
