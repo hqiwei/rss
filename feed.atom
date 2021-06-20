@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-20T03:12:27.903Z</updated>
+    <updated>2021-06-20T04:11:32.295Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 06 20]]></title>
+        <id>http://www.linuxeden.com/?p=86660</id>
+        <link href="http://www.linuxeden.com/a/86660"/>
+        <updated>2021-06-20T04:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 06 20]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel 12代酷睿最大担心解除：Win11优化大小核架构、单核性能大涨]]></title>
+        <id>http://www.linuxeden.com/?p=86652</id>
+        <link href="http://www.linuxeden.com/a/86652"/>
+        <updated>2021-06-20T03:47:28.000Z</updated>
+        <summary type="html"><![CDATA[再过几天，微软就会在6月24日的发布会上推出Windows 11（简称Win11）系统了，界面比Win10改变不少，此前的性能测试也是有喜有忧，多核比Win10还差了。不过对Intel来说，Win11这次解决了一个大问题。 Intel今年底 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLite 3.36.0 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86650</id>
+        <link href="http://www.linuxeden.com/a/86650"/>
+        <updated>2021-06-20T03:34:28.000Z</updated>
+        <summary type="html"><![CDATA[2021-06-18 (3.36.0) Improvement to the EXPLAIN QUERY PLAN output to make it easier to understand. Byte-order marks at th […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[工程师们设计出用于下一代通信的激光驱动半导体开关]]></title>
         <id>http://www.linuxeden.com/?p=86646</id>
@@ -12566,26 +12596,6 @@ Golang 中的适配器设计模式 https://www.smartscribs.com/adapter-design-pa
         <summary type="html"><![CDATA[Wii U 模拟器中文版 Cemu Wii U Emulator 中文汉化版由大眼仔旭（www.dayanza […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The JavaScript Array Handbook – JS Array Methods Explained with Examples]]></title>
-        <id>6098ce302cd0545b5e944d0b</id>
-        <link href="https://www.freecodecamp.org/news/the-javascript-array-handbook/"/>
-        <updated>2021-05-21T15:33:45.000Z</updated>
-        <summary type="html"><![CDATA[In programming, an array is a collection of elements or items. Arrays store data as elements and retrieve them back when you need them.  The array data structure is widely used in all programming languages that support it. In this handbook, I'll teach you all about arrays in JavaScript. You'll]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日文章精选 2021 05 21]]></title>
-        <id>http://www.linuxeden.com/?p=85591</id>
-        <link href="http://www.linuxeden.com/a/85591"/>
-        <updated>2021-05-21T15:28:39.000Z</updated>
-        <summary type="html"><![CDATA[用 Pulp 托管你的容器注册中心的 5 个理由 Linux 5.13还原及修复明尼苏达大学的问题补丁 Spring Boot 2.5发布 Freenode 疑似发生巨变 如何在 Ubuntu 服务器上安装桌面环境（GUI） Chromeb […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>
