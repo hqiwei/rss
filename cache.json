@@ -1845,15 +1845,6 @@
           "publishedOn": "2021-05-22T09:27:33.000Z",
           "wordCount": 104,
           "title": "GoCN 每日新闻 (2021-05-22)"
-        },
-        {
-          "id": "https://gocn.vip/topics/12104",
-          "author": "caibirdme",
-          "description": "团队介绍：\n腾讯互娱（IEG）天美 L1 工作室，王者荣耀项目组\n职位一：开悟平台-go 后台开发工程师\n职位描述：\n与产品经理一起深刻分析产品形态和用户诉求\n设计具有前瞻性的系统架构和实现方案，高质量完成产品落地\n岗位要求：\n计算机相关专业本科及以上学历\n3 年以上服务器端开发经验\n理解计算机原理，有良好的的算法数据结构基础，精通 Go 语言及其开发生态\n熟悉高可用、高并发、高性能分布式系统的设计与实现，对常见消息、存储系统有较好的理解\n良好的沟通能力、学习能力、团队协作能力\n加分项：\n有一定团队管理经验，能够主动推进业务迭代\n职位二：王者营地 go 后台开发工程师\n职位描述：\n负责王者营地 App 服务器端开发\n负责服务器端的架构设计和性能优化\n岗位要求：\n计算机相关专业本科及以上学历\n3 年以上后端开发经验，至少 1 年以上 Go 开发经验\n熟练掌握 Go 常用框架特性原理和实现细节\n熟悉 grpc，熟练掌握 mysql redis 等数据库\n熟悉 tcp/ip http 等网络通信协议\n拥有良好的代码习惯，熟悉单元测试编写\n加分项：\n有社区类 App 开发经验\n参与过社区大型开源项目\n简历投递：\n邮箱…",
-          "link": "https://gocn.vip/topics/12104",
-          "publishedOn": "2021-05-21T15:02:45.000Z",
-          "wordCount": 135,
-          "title": "[成都][腾讯 | 王者荣耀] Go 开发工程师"
         }
       ]
     },
@@ -1862,6 +1853,15 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=86646",
+          "author": "Editor, Kai",
+          "description": "劳伦斯·利弗莫尔国家实验室（LLNL）的工程师们设计了一种新型的激光驱动半导体开关，理论上可以在更高的电压下实现比现有光导器件更高的速度。据研究小组称，这种装置的开发可以使下一代卫星通信系统能够以更快的速度和更远的距离传输更多数据。 LLN […]",
+          "link": "http://www.linuxeden.com/a/86646",
+          "publishedOn": "2021-06-20T02:29:22.000Z",
+          "wordCount": 83,
+          "title": "工程师们设计出用于下一代通信的激光驱动半导体开关"
+        },
         {
           "id": "http://www.linuxeden.com/?p=86642",
           "author": "Editor, Kai",
@@ -4660,33 +4660,6 @@
           "publishedOn": "2021-05-21T15:28:39.000Z",
           "wordCount": 101,
           "title": "每日文章精选 2021 05 21"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85588",
-          "author": "Editor, Kai",
-          "description": "有很多令人信服的理由来用 Pulp 来托管你自己的容器注册中心。下面是其中的一些。 Linux 容器极大地简化了软件发布。将一个应用程序与它运行所需的一切打包的能力有助于提高环境的稳定性和可重复性。 虽然有许多公共注册中心可以上传、管理和分 […]",
-          "link": "http://www.linuxeden.com/a/85588",
-          "publishedOn": "2021-05-21T15:05:30.000Z",
-          "wordCount": 183,
-          "title": "用 Pulp 托管你的容器注册中心的 5 个理由"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85583",
-          "author": "Editor, Kai",
-          "description": "一个月前，明尼苏达大学被禁止为Linux内核做贡献，因为该大学的研究人员被发现试图通过新的补丁故意向内核提交错误，而使这个过程作为一篇有问题的研究论文的一部分这种不诚实甚至恶意行为而引发轩然大波。近期Linux内核开发者终于完成了对所有来自 […]",
-          "link": "http://www.linuxeden.com/a/85583",
-          "publishedOn": "2021-05-21T14:40:20.000Z",
-          "wordCount": 97,
-          "title": "Linux 5.13还原及修复明尼苏达大学的问题补丁"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85581",
-          "author": "Editor, Kai",
-          "description": "On behalf of the Spring Boot team and everyone that has contributed, I am pleased to announce that Spring Boot 2.5.0 has […]",
-          "link": "http://www.linuxeden.com/a/85581",
-          "publishedOn": "2021-05-21T14:24:25.000Z",
-          "wordCount": 341,
-          "title": "Spring Boot 2.5发布"
         }
       ]
     },
