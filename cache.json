@@ -803,6 +803,24 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12222",
+          "author": "liusha",
+          "description": "高级\n职责描述\n承担互联网保险相关产品系统的设计和开发，参与重大产品需求和架构设计评审，保证产品设计与架构的合理性\n负责支持互联网保险相关产品的日常运营，保证系统稳定高效运行 岗位要求：\n本科及以上学历\n具备 3 年以上 Go 开发经验\n精通面向对象软件设计，能在实践中熟练的运用设计模式改善软件设计\n精通微服务开发，熟练掌握微服务相关中间件原理及使用（ RPC 、消息队列、缓存等）\n熟悉 MySQL 数据库管理、开发、SQL 调优\n具备良好的分析问题、解决问题的能力，能独立承担任务，有系统进度把控能力\n有 DDD 相关经验，电商、金融领域相关研发经验者优先\n中级\n职责描述\n参与互联网保险相关系统研发工作\n参与系统逻辑设计、架构设计、系统开发、日常运营、文档编写等工作 岗位要求：\n本科及以上学历\n熟悉 Go 语言编程，精通网络编程、多线程编程、安全等相关技术知识\n熟悉 MySQL 数据库\n熟练掌握面向对象软件设计，能在实践中熟练运用设计模式者优先\n具有一定架构能力，有大容量、高性能、分布式系统设计开发经验者优先\n有金融领域研发经验优先\n有兴趣的同学可以联系我\npython2\n'UmVhbExpdVNoYQ=='.decode('base64')\n\nshell\necho 'UmVhbExpdVNoYQ=='|base64 -d",
+          "link": "https://gocn.vip/topics/12222",
+          "publishedOn": "2021-06-21T01:58:49.000Z",
+          "wordCount": 128,
+          "title": "[腾讯 - 微保内推] 急需 Go 开发工程师~ 欢迎来鹅厂~"
+        },
+        {
+          "id": "https://gocn.vip/topics/12221",
+          "author": "anyanfei",
+          "description": "kafka 客户端 Shopify/sarama 库\n1. sarama 是什么？\nsarama 的出现意味着，golang 有完整的 apache kafka 客户端文档的全部用例了\n2. 为什么那么受欢迎？\n他完整，兼容性好\n不需要 CGO 的支持\n支持的 golang 版本从 1.15 到目前最新的 1.16\n支持的 kafka 版本横跨 2.6 到 2.8，并且之前发布的老版本依然支持\n3. 怎么使用\n下载扩展库 go get github.com/Shopify/sarama 即可。\n安装完首先在 test 中写一个队列任务发布者：\nkafka 的集群，自己用 docker 在 wsl 下搭建就行了，网上例子非常多，这里就不详细解答了\n请看我代码逐行解释：\npackage tester\n\nimport (\n    \"fmt\"\n    \"github.com/Shopify/sarama\"\n    \"log\"\n    \"os\"\n    \"testing\"\n    \"time\"\n)\n\n//集群地址\nvar address = []string{\"192.168.83.89:19092\",\"192.168.83.89:29092\",\"192.168.83.89:39092\"}\n\n//创建kafka任务发布者\nfunc TestKafkaProducter(t *testing.T) {\n    //配置发布者\n    config := sarama.NewConfig()\n    //确认返回，记得一定要写，因为本次例子我用的是同步发布者\n    config.Producer.Return.Successes = true\n    //设置超时时间 这个超时时间一旦过期，新的订阅者在这个超时时间后才创建的，就不能订阅到消息了\n    config.Producer.…",
+          "link": "https://gocn.vip/topics/12221",
+          "publishedOn": "2021-06-21T01:06:26.000Z",
+          "wordCount": 1085,
+          "title": "Shopify 出品的完整度最完善的 Kafka 客户端_sarama"
+        },
+        {
           "id": "https://gocn.vip/topics/12220",
           "author": "ningxiaofang1o",
           "description": "Casnode: React + Beego 的开源论坛 https://github.com/casbin/casnode\n\nYoyoGo v1.7.2 发布,支持 Nacos&Apollo 配置中心   https://gocn.vip/topics/12216\n\nGo 结构体的另类玩法：命名空间   https://mp.weixin.qq.com/s/8QRLiFMM8c5MX04f4ScUtA\n\nGo1.17 新特性之切片变数组 https://polarisxu.studygolang.com/posts/go/dynamic/go1.17-slice-to-array/\n\n深入理解 Golang Map https://mp.weixin.qq.com/s/gdzeDxD8zQopcIUYiLgjbw\n\n\n\n\n\nGopherChina 倒计时 7 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n编辑: 熊大\n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs",
@@ -5044,6 +5062,33 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/question/4252687_2322931",
+          "author": null,
+          "description": "OSCHINA 本期高手问答( 6 月 21 日 - 6月 27 日) 我们请来了 @孟凡杰 和大家一起探讨关于Kubernetes相关的问题。",
+          "link": "https://www.oschina.net/question/4252687_2322931",
+          "publishedOn": "2021-06-21T00:41:56.000Z",
+          "wordCount": 306,
+          "title": "高手问答第 261 期 —— Kubernetes 生产化实践之路"
+        },
+        {
+          "id": "https://www.oschina.net/news/146845",
+          "author": null,
+          "description": "腾讯大数据 JVM 团队基于 OpenJDK11 自研的 Tencent Kona JDK11，目前已将 ZGC 特性孵化成熟，性能优于 OpenJDK 所提供的版本，使 Java 能够轻松构建响应时间在 ms 级别的强实时性在线服务，极大提高研发和运维效率，目前在腾讯内部多业务场景生产落地，实现业务延迟 SLA 提升 2-3 个数量级。 随着 2021 年 4 月 30 日 ...",
+          "link": "https://www.oschina.net/news/146845",
+          "publishedOn": "2021-06-21T00:36:50.000Z",
+          "wordCount": 1793,
+          "title": "Tencent Kona JDK11 无暂停内存管理 ZGC 生产实践"
+        },
+        {
+          "id": "https://www.oschina.net/news/146843/google-chrome-aurora",
+          "author": null,
+          "description": "Google Chrome 团队近日发表博客文章，将成立 Aurora 项目与开源网络框架和工具展开合作。Chrome 团队表示：“我们关心用户体验和繁荣的网络生态系统。我们希望用户在网络上拥有尽可能好的体验，不仅是静态文档，而且在使用丰富、高度互动的应用程序时也是如此。“ 开源工具和框架在使开发者为网络建立现代应用方面发挥了...",
+          "link": "https://www.oschina.net/news/146843/google-chrome-aurora",
+          "publishedOn": "2021-06-21T00:35:14.000Z",
+          "wordCount": 572,
+          "title": "Chrome 成立 Aurora 项目组，将与开源网络框架和工具展开合作"
+        },
         {
           "id": "https://www.oschina.net/news/146841/streamnative-platform",
           "author": null,

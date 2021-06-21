@@ -92,8 +92,129 @@
       </li>
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://gocn.vip/">GoCN社区</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">[腾讯 - 微保内推] 急需 Go 开发工程师~ 欢迎来鹅厂~</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12222">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>高级
+职责描述
+承担互联网保险相关产品系统的设计和开发，参与重大产品需求和架构设计评审，保证产品设计与架构的合理性
+负责支持互联网保险相关产品的日常运营，保证系统稳定高效运行 岗位要求：
+本科及以上学历
+具备 3 年以上 Go 开发经验
+精通面向对象软件设计，能在实践中熟练的运用设计模式改善软件设计
+精通微服务开发，熟练掌握微服务相关中间件原理及使用（ RPC 、消息队列、缓存等）
+熟悉 MySQL 数据库管理、开发、SQL 调优
+具备良好的分析问题、解决问题的能力，能独立承担任务，有系统进度把控能力
+有 DDD 相关经验，电商、金融领域相关研发经验者优先
+中级
+职责描述
+参与互联网保险相关系统研发工作
+参与系统逻辑设计、架构设计、系统开发、日常运营、文档编写等工作 岗位要求：
+本科及以上学历
+熟悉 Go 语言编程，精通网络编程、多线程编程、安全等相关技术知识
+熟悉 MySQL 数据库
+熟练掌握面向对象软件设计，能在实践中熟练运用设计模式者优先
+具有一定架构能力，有大容量、高性能、分布式系统设计开发经验者优先
+有金融领域研发经验优先
+有兴趣的同学可以联系我
+python2
+&#x27;UmVhbExpdVNoYQ&#x3D;&#x3D;&#x27;.decode(&#x27;base64&#x27;)
+
+shell
+echo &#x27;UmVhbExpdVNoYQ&#x3D;&#x3D;&#x27;|base64 -d</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Shopify 出品的完整度最完善的 Kafka 客户端_sarama</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12221">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(4 min)</span>
+                    <span>kafka 客户端 Shopify/sarama 库
+1. sarama 是什么？
+sarama 的出现意味着，golang 有完整的 apache kafka 客户端文档的全部用例了
+2. 为什么那么受欢迎？
+他完整，兼容性好
+不需要 CGO 的支持
+支持的 golang 版本从 1.15 到目前最新的 1.16
+支持的 kafka 版本横跨 2.6 到 2.8，并且之前发布的老版本依然支持
+3. 怎么使用
+下载扩展库 go get github.com/Shopify/sarama 即可。
+安装完首先在 test 中写一个队列任务发布者：
+kafka 的集群，自己用 docker 在 wsl 下搭建就行了，网上例子非常多，这里就不详细解答了
+请看我代码逐行解释：
+package tester
+
+import (
+    &quot;fmt&quot;
+    &quot;github.com/Shopify/sarama&quot;
+    &quot;log&quot;
+    &quot;os&quot;
+    &quot;testing&quot;
+    &quot;time&quot;
+)
+
+//集群地址
+var address &#x3D; []string{&quot;192.168.83.89:19092&quot;,&quot;192.168.83.89:29092&quot;,&quot;192.168.83.89:39092&quot;}
+
+//创建kafka任务发布者
+func TestKafkaProducter(t *testing.T) {
+    //配置发布者
+    config :&#x3D; sarama.NewConfig()
+    //确认返回，记得一定要写，因为本次例子我用的是同步发布者
+    config.Producer.Return.Successes &#x3D; true
+    //设置超时时间 这个超时时间一旦过期，新的订阅者在这个超时时间后才创建的，就不能订阅到消息了
+    config.Producer.…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://www.oschina.net/news/rss">OSCHINA 社区最新新闻</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">高手问答第 261 期 —— Kubernetes 生产化实践之路</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.oschina.net/question/4252687_2322931">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>OSCHINA 本期高手问答( 6 月 21 日 - 6月 27 日) 我们请来了 @孟凡杰 和大家一起探讨关于Kubernetes相关的问题。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Tencent Kona JDK11 无暂停内存管理 ZGC 生产实践</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.oschina.net/news/146845">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(6 min)</span>
+                    <span>腾讯大数据 JVM 团队基于 OpenJDK11 自研的 Tencent Kona JDK11，目前已将 ZGC 特性孵化成熟，性能优于 OpenJDK 所提供的版本，使 Java 能够轻松构建响应时间在 ms 级别的强实时性在线服务，极大提高研发和运维效率，目前在腾讯内部多业务场景生产落地，实现业务延迟 SLA 提升 2-3 个数量级。 随着 2021 年 4 月 30 日 ...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Chrome 成立 Aurora 项目组，将与开源网络框架和工具展开合作</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.oschina.net/news/146843/google-chrome-aurora">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Google Chrome 团队近日发表博客文章，将成立 Aurora 项目与开源网络框架和工具展开合作。Chrome 团队表示：“我们关心用户体验和繁荣的网络生态系统。我们希望用户在网络上拥有尽可能好的体验，不仅是静态文档，而且在使用丰富、高度互动的应用程序时也是如此。“ 开源工具和框架在使开发者为网络建立现代应用方面发挥了...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">StreamNative Platform 推出，基于 Apache Pulsar 构建</summary>
@@ -14706,7 +14827,7 @@ func homeHandler(w http.ResponseWriter, r *http.Request…</span>
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-06-21T00:31:55.779Z">2021-06-21T00:31:55.779Z</time>
+    <time id="build-timestamp" datetime="2021-06-21T02:03:27.359Z">2021-06-21T02:03:27.359Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.10.2</a></span>
   </footer>
   <script src="index.js"></script>
