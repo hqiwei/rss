@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T10:10:40.203Z</updated>
+    <updated>2021-06-21T11:08:12.510Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-21)]]></title>
+        <id>https://gocn.vip/topics/12226</id>
+        <link href="https://gocn.vip/topics/12226"/>
+        <updated>2021-06-21T10:32:53.000Z</updated>
+        <summary type="html"><![CDATA[一切皆有可能——Golang 中的” ThreadLocal“库 https://mp.weixin.qq.com/s/CPthQSqUIO-u-VkTQSMVXA
+
+Golang 整洁接口最佳实践 https://mp.weixin.qq.com/s/eNoZTfh3L7mT-501g04YWQ
+
+使用 Github Action 自动发布 Go 程序 https://web3.coach/golang-github-actions-release-binaries-tutorial
+
+column: 位图索引高性能列式内存数据库 https://github.com/kelindar/column
+
+有赞 TCP 网络编程最佳实践 https://tech.youzan.com/you-zan-tcpwang-luo-bian-cheng-zui-jia-shi-jian/
+
+
+
+
+编辑: 李俱顺 Kevin
+订阅新闻: http://tinyletter.com/gocn
+
+招聘专区: https://gocn.vip/jobs
+
+GOCN 归档: https://gocn.vip/topics/12226]]></summary>
+        <author>
+            <name>kevin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微服务拆分之道]]></title>
         <id>https://gocn.vip/topics/12225</id>
