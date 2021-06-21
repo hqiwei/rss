@@ -8175,33 +8175,6 @@
           "publishedOn": "2021-05-23T02:05:41.000Z",
           "wordCount": 500,
           "title": "大量用户报告 Chrome 意外崩溃，Windows 和 Linux 版本均未能幸免"
-        },
-        {
-          "id": "https://www.oschina.net/news/142775/android-security-updates-patch-4-zero-days",
-          "author": null,
-          "description": "根据 Google Project Zero 团队提供的信息，四个在野外被利用的 Android 零日安全漏洞在本月早些时候被修复。试图利用这些漏洞的攻击是有针对性的，并已影响了数量有限的用户。 Android 安全公告显示，\"有迹象表明，CVE-2021-1905、CVE-2021-1906、CVE-2021-28663 和 CVE-2021-28664 可能受到有限的、有针对性的利用\"。这...",
-          "link": "https://www.oschina.net/news/142775/android-security-updates-patch-4-zero-days",
-          "publishedOn": "2021-05-23T00:35:14.000Z",
-          "wordCount": 557,
-          "title": "Project Zero 公布 4 个 Android 零日漏洞，目前已被修复"
-        },
-        {
-          "id": "https://www.oschina.net/news/142774/gaussdb-sacc2021",
-          "author": null,
-          "description": "摘要：华为云NoSQL数据库架构师余汶龙受邀参加第十三届中国系统架构师大会（SACC2021）并发表了重要演讲，分享了GaussDB(for Redis)的存算分离架构设计理念以及构筑的产品核心竞争力，以创新技术构建业务敏捷性，驱动企业数字化转型。 5月20-22日，以“数字转型、架构重塑”为主题的第十三届中国系统架构师大会（SACC202...",
-          "link": "https://www.oschina.net/news/142774/gaussdb-sacc2021",
-          "publishedOn": "2021-05-23T00:28:23.000Z",
-          "wordCount": 497,
-          "title": "拥有5大核心竞争力的华为云 GaussDB，成 SACC2021 最靓那一个"
-        },
-        {
-          "id": "https://www.oschina.net/news/142773/microsoft-math-solver-to-edge",
-          "author": null,
-          "description": "早在今年 3 月份，微软就开始在 Edge Canary 浏览器中测试旗下的 Math Solver（数学解算器） 功能。微软近日宣布， Math Solver 将从微软 Edge 91 稳定版开始作为预览功能提供。 微软 Math Solver 是一个教育软件，使用户能够解决的数学和科学问题。由微软开发和维护，它主要作为学生的学习工具。该软件此前可在 Window...",
-          "link": "https://www.oschina.net/news/142773/microsoft-math-solver-to-edge",
-          "publishedOn": "2021-05-23T00:21:40.000Z",
-          "wordCount": 498,
-          "title": "微软 Math Solver 将以预览形式登陆微软 Edge 浏览器"
         }
       ]
     },

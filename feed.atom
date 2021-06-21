@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T12:14:11.810Z</updated>
+    <updated>2021-06-21T13:21:48.910Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12696,36 +12696,6 @@ func homeHandler(w http.ResponseWriter, r *http.Request…]]></summary>
         <summary type="html"><![CDATA[在 Linux 上重新映射你的大写锁定键 用 C 语言理解 Linux 软件库 实拍！“祝融号”火星车驶离着陆平台影像 红旗 Linux 桌面操作系统 v11 社区预览版 (0521) 更新 用 Pulp 托管你的容器注册中心的 5 个理由 […]]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Project Zero 公布 4 个 Android 零日漏洞，目前已被修复]]></title>
-        <id>https://www.oschina.net/news/142775/android-security-updates-patch-4-zero-days</id>
-        <link href="https://www.oschina.net/news/142775/android-security-updates-patch-4-zero-days"/>
-        <updated>2021-05-23T00:35:14.000Z</updated>
-        <summary type="html"><![CDATA[根据 Google Project Zero 团队提供的信息，四个在野外被利用的 Android 零日安全漏洞在本月早些时候被修复。试图利用这些漏洞的攻击是有针对性的，并已影响了数量有限的用户。 Android 安全公告显示，"有迹象表明，CVE-2021-1905、CVE-2021-1906、CVE-2021-28663 和 CVE-2021-28664 可能受到有限的、有针对性的利用"。这...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拥有5大核心竞争力的华为云 GaussDB，成 SACC2021 最靓那一个]]></title>
-        <id>https://www.oschina.net/news/142774/gaussdb-sacc2021</id>
-        <link href="https://www.oschina.net/news/142774/gaussdb-sacc2021"/>
-        <updated>2021-05-23T00:28:23.000Z</updated>
-        <summary type="html"><![CDATA[摘要：华为云NoSQL数据库架构师余汶龙受邀参加第十三届中国系统架构师大会（SACC2021）并发表了重要演讲，分享了GaussDB(for Redis)的存算分离架构设计理念以及构筑的产品核心竞争力，以创新技术构建业务敏捷性，驱动企业数字化转型。 5月20-22日，以“数字转型、架构重塑”为主题的第十三届中国系统架构师大会（SACC202...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软 Math Solver 将以预览形式登陆微软 Edge 浏览器]]></title>
-        <id>https://www.oschina.net/news/142773/microsoft-math-solver-to-edge</id>
-        <link href="https://www.oschina.net/news/142773/microsoft-math-solver-to-edge"/>
-        <updated>2021-05-23T00:21:40.000Z</updated>
-        <summary type="html"><![CDATA[早在今年 3 月份，微软就开始在 Edge Canary 浏览器中测试旗下的 Math Solver（数学解算器） 功能。微软近日宣布， Math Solver 将从微软 Edge 91 稳定版开始作为预览功能提供。 微软 Math Solver 是一个教育软件，使用户能够解决的数学和科学问题。由微软开发和维护，它主要作为学生的学习工具。该软件此前可在 Window...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
