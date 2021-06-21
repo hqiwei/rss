@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T11:08:12.510Z</updated>
+    <updated>2021-06-21T12:14:11.810Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12724,56 +12724,6 @@ func homeHandler(w http.ResponseWriter, r *http.Request…]]></summary>
         <link href="https://www.oschina.net/news/142773/microsoft-math-solver-to-edge"/>
         <updated>2021-05-23T00:21:40.000Z</updated>
         <summary type="html"><![CDATA[早在今年 3 月份，微软就开始在 Edge Canary 浏览器中测试旗下的 Math Solver（数学解算器） 功能。微软近日宣布， Math Solver 将从微软 Edge 91 稳定版开始作为预览功能提供。 微软 Math Solver 是一个教育软件，使用户能够解决的数学和科学问题。由微软开发和维护，它主要作为学生的学习工具。该软件此前可在 Window...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.13 还原及修复明尼苏达大学的问题补丁]]></title>
-        <id>https://www.oschina.net/news/142772/linux-5-13-umn-fixes</id>
-        <link href="https://www.oschina.net/news/142772/linux-5-13-umn-fixes"/>
-        <updated>2021-05-23T00:11:36.000Z</updated>
-        <summary type="html"><![CDATA[此前，因研究人员故意试图向 Linux 内核引入带有漏洞的补丁，明尼苏达整所大学（UMN）被禁止继续参与 Linux 内核开发。近期，phoronix 消息称，Linux 内核开发者则终于完成了对所有来自该大学的补丁的审查，以解决合并到内核中的问题，同时也清理/修复了他们有问题的补丁。 Greg Kroah-Hartman 于周四提交了 5.13-rc3 的...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HStreamDB —— EMQ 流数据库]]></title>
-        <id>https://www.oschina.net/p/hstreamdb</id>
-        <link href="https://www.oschina.net/p/hstreamdb"/>
-        <updated>2021-05-23T00:02:11.000Z</updated>
-        <summary type="html"><![CDATA[HStreamDB 是一款专为流式数据设计的， 针对大规模实时数据流的接入、存储、处理、分发等环节进行全生命周期管理的流数据库。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitee 推荐 | Python 中文函数库 pyefun]]></title>
-        <id>https://gitee.com/duolabmeng666/pyefun</id>
-        <link href="https://gitee.com/duolabmeng666/pyefun"/>
-        <updated>2021-05-23T00:01:44.000Z</updated>
-        <summary type="html"><![CDATA[pyefun 为 python 提供强大且易用的中文函数库，完整的封装了易语言核心支持库所有功能，以及易语言中简单易用的函数。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日一博 | 为什么我会选择 Vert.x 与 Kotlin]]></title>
-        <id>https://my.oschina.net/lingenliu/blog/4947685</id>
-        <link href="https://my.oschina.net/lingenliu/blog/4947685"/>
-        <updated>2021-05-23T00:00:27.000Z</updated>
-        <summary type="html"><![CDATA[过去的一年2020对笔者来说是非常有价值的一年，笔者在公司工作上大部分精力都花费在基于TypeScript + React的Electron桌面开发及前端开发以及WorkPlus Lite移动端开发等工作上。 而在后端方面，2020年笔者在自己的一个业余项目上使用了Spring Boot技术，并整理抽象出了一个基于DDD领域驱动风格的开源框架mydddd-java。 ...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elide 5.0.0 发布]]></title>
-        <id>https://www.oschina.net/news/142763/elide-5-0-0-released</id>
-        <link href="https://www.oschina.net/news/142763/elide-5-0-0-released"/>
-        <updated>2021-05-22T23:16:01.000Z</updated>
-        <summary type="html"><![CDATA[Elide 是一个 Java 库，可以让你以最小的努力建立模型驱动的 GraphQL 或 JSON API 网络服务。Elide 支持两种变体的 API。 用于读取和操作模型的 CRUD（创建，读取，更新，删除）API； 用于汇总零个或多个模型属性的度量分析 API； Elide 5.0.0 正式发布，该版本的主要变化包括： 为 Aggregation Store 模型参数化表格、指...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>
