@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T02:03:27.414Z</updated>
+    <updated>2021-06-21T04:11:33.988Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[could not attach to pid 8131: could not open debug info]]></title>
+        <id>https://gocn.vip/topics/12223</id>
+        <link href="https://gocn.vip/topics/12223"/>
+        <updated>2021-06-21T03:45:40.000Z</updated>
+        <summary type="html"><![CDATA[请问一下 dlv debug golang 提示这个是什么原因呢
+could not attach to pid 8131: could not open debug info]]></summary>
+        <author>
+            <name>chenli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在哪 – 向好友分享未来 30 分钟的实时位置[微信小程序]]]></title>
+        <id>https://www.appinn.com/?p=39110</id>
+        <link href="https://www.appinn.com/where-am-i-wechat-miniapps/"/>
+        <updated>2021-06-21T03:34:51.000Z</updated>
+        <summary type="html"><![CDATA[我在哪是一款简单易用的微信小程序，它可以让你向好友分享未来 30 分钟的实时位置，简单易用。@Appinn 来自微博的 @BlackBoXo 同学推荐： #网约车司机改路线女孩跳车摔骨折# 最近做的一]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为 Linux 内核贡献者被批评刷 KPI]]></title>
+        <id>https://www.oschina.net/news/146878/huawei-linux-kernel-kpi-jerk</id>
+        <link href="https://www.oschina.net/news/146878/huawei-linux-kernel-kpi-jerk"/>
+        <updated>2021-06-21T03:06:34.000Z</updated>
+        <summary type="html"><![CDATA[《Please don't waste maintainers' time on your KPI grabbing patches (AKA, don't be a KPI jerk)》，这是近日在 Linux 内核邮件列表中一封颇为热门的邮件，热度仅次于 Linus 对反疫苗言论的回复。 在这封邮件中，Linux 内核维护者 Qu Wenruo 声称邮件地址后缀为"@huawei.com"的一个帐号所提交的许多补丁只是在清理一...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[腾讯 - 微保内推] 急需 Go 开发工程师~ 欢迎来鹅厂~]]></title>
         <id>https://gocn.vip/topics/12222</id>
@@ -234,6 +265,26 @@ func TestKafkaProducter(t *testing.T) {
         <summary type="html"><![CDATA[Debian 10.10 是 Debian 10 的第十次更新，此版本主要添加了对安全问题的修复，以及对严重问题的一些调整。该版本更新内容如下： apt：默认接受存储库的套件名称变化； awstats：修复远程文件访问问题； base-files：更新 /etc/debian_version； berusky2：修复启动时的 segfault 问题； clamav：新的上游稳定版本，修复...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源视频转码器 HandBrake 1.3.3 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=4889</id>
+        <link href="http://www.dayanzai.me/handbrake.html"/>
+        <updated>2021-06-20T16:24:08.000Z</updated>
+        <summary type="html"><![CDATA[开源视频转码器 HandBrake 中文版由大眼仔旭（www.dayanzai.me）发布。HandBrake […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 主题破解限制工具 UltraUXThemePatcher 4.1.3 下载]]></title>
+        <id>http://www.dayanzai.me/?p=1900</id>
+        <link href="http://www.dayanzai.me/ultrauxthemepatcher.html"/>
+        <updated>2021-06-20T16:13:46.000Z</updated>
+        <summary type="html"><![CDATA[Windows 主题破解限制工具 UltraUXThemePatcher 下载由大眼仔旭（www.dayanz […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
@@ -12633,36 +12684,6 @@ func homeHandler(w http.ResponseWriter, r *http.Request…]]></summary>
         <summary type="html"><![CDATA[蚂蚁下载管理器 Ant Download Manager Pro 中文版由大眼仔旭（www.dayanzai. […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 Linux 上重新映射你的大写锁定键]]></title>
-        <id>http://www.linuxeden.com/?p=85626</id>
-        <link href="http://www.linuxeden.com/a/85626"/>
-        <updated>2021-05-22T15:02:54.000Z</updated>
-        <summary type="html"><![CDATA[通过在 GNOME 3 和 Wayland 上重新映射你的键盘，提高你的打字和导航速度，避免重复性压力伤害。 对我来说，有许多改变生活的 Linux 时刻，但大多数都在成为现状后淡忘了。有一个 Linux 教给我的键盘小技巧，每次我使用它的 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用 C 语言理解 Linux 软件库]]></title>
-        <id>http://www.linuxeden.com/?p=85624</id>
-        <link href="http://www.linuxeden.com/a/85624"/>
-        <updated>2021-05-22T15:01:57.000Z</updated>
-        <summary type="html"><![CDATA[软件库是重复使用代码的一种简单而合理的方式。 软件库是一种是一直以来长期存在的、简单合理的复用代码的方式。这篇文章解释了如何从头开始构建库并使得其可用。尽管这两个示例库都以 Linux 为例，但创建、发布和使用这些库的步骤也可以应用于其它类 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实拍！“祝融号”火星车驶离着陆平台影像]]></title>
-        <id>http://www.linuxeden.com/?p=85617</id>
-        <link href="http://www.linuxeden.com/a/85617"/>
-        <updated>2021-05-22T14:46:38.000Z</updated>
-        <summary type="html"><![CDATA[据“中国探月工程”公众号消息，今天（22日）10时40分，祝融号安全驶离着陆平台，成功打卡火星表面。 5月22日10时40分，“祝融号”火星车驶离着陆平台踏上火星表面，开启巡视探测之旅。火星车携带的前避障相机a/b、后避障相机a/b，拍摄了 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>

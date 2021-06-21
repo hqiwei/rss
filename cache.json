@@ -803,6 +803,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12223",
+          "author": "chenli",
+          "description": "请问一下 dlv debug golang 提示这个是什么原因呢\ncould not attach to pid 8131: could not open debug info",
+          "link": "https://gocn.vip/topics/12223",
+          "publishedOn": "2021-06-21T03:45:40.000Z",
+          "wordCount": 114,
+          "title": "could not attach to pid 8131: could not open debug info"
+        },
+        {
           "id": "https://gocn.vip/topics/12222",
           "author": "liusha",
           "description": "高级\n职责描述\n承担互联网保险相关产品系统的设计和开发，参与重大产品需求和架构设计评审，保证产品设计与架构的合理性\n负责支持互联网保险相关产品的日常运营，保证系统稳定高效运行 岗位要求：\n本科及以上学历\n具备 3 年以上 Go 开发经验\n精通面向对象软件设计，能在实践中熟练的运用设计模式改善软件设计\n精通微服务开发，熟练掌握微服务相关中间件原理及使用（ RPC 、消息队列、缓存等）\n熟悉 MySQL 数据库管理、开发、SQL 调优\n具备良好的分析问题、解决问题的能力，能独立承担任务，有系统进度把控能力\n有 DDD 相关经验，电商、金融领域相关研发经验者优先\n中级\n职责描述\n参与互联网保险相关系统研发工作\n参与系统逻辑设计、架构设计、系统开发、日常运营、文档编写等工作 岗位要求：\n本科及以上学历\n熟悉 Go 语言编程，精通网络编程、多线程编程、安全等相关技术知识\n熟悉 MySQL 数据库\n熟练掌握面向对象软件设计，能在实践中熟练运用设计模式者优先\n具有一定架构能力，有大容量、高性能、分布式系统设计开发经验者优先\n有金融领域研发经验优先\n有兴趣的同学可以联系我\npython2\n'UmVhbExpdVNoYQ=='.decode('base64')\n\nshell\necho 'UmVhbExpdVNoYQ=='|base64 -d",
@@ -4687,33 +4696,6 @@
           "publishedOn": "2021-05-23T01:37:55.000Z",
           "wordCount": 112,
           "title": "每日文章精选 2021 05 22"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85626",
-          "author": "Editor, Kai",
-          "description": "通过在 GNOME 3 和 Wayland 上重新映射你的键盘，提高你的打字和导航速度，避免重复性压力伤害。 对我来说，有许多改变生活的 Linux 时刻，但大多数都在成为现状后淡忘了。有一个 Linux 教给我的键盘小技巧，每次我使用它的 […]",
-          "link": "http://www.linuxeden.com/a/85626",
-          "publishedOn": "2021-05-22T15:02:54.000Z",
-          "wordCount": 285,
-          "title": "在 Linux 上重新映射你的大写锁定键"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85624",
-          "author": "Editor, Kai",
-          "description": "软件库是重复使用代码的一种简单而合理的方式。 软件库是一种是一直以来长期存在的、简单合理的复用代码的方式。这篇文章解释了如何从头开始构建库并使得其可用。尽管这两个示例库都以 Linux 为例，但创建、发布和使用这些库的步骤也可以应用于其它类 […]",
-          "link": "http://www.linuxeden.com/a/85624",
-          "publishedOn": "2021-05-22T15:01:57.000Z",
-          "wordCount": 1413,
-          "title": "用 C 语言理解 Linux 软件库"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85617",
-          "author": "Editor, Kai",
-          "description": "据“中国探月工程”公众号消息，今天（22日）10时40分，祝融号安全驶离着陆平台，成功打卡火星表面。 5月22日10时40分，“祝融号”火星车驶离着陆平台踏上火星表面，开启巡视探测之旅。火星车携带的前避障相机a/b、后避障相机a/b，拍摄了 […]",
-          "link": "http://www.linuxeden.com/a/85617",
-          "publishedOn": "2021-05-22T14:46:38.000Z",
-          "wordCount": 82,
-          "title": "实拍！“祝融号”火星车驶离着陆平台影像"
         }
       ]
     },
@@ -4722,6 +4704,15 @@
       "feedUrl": "http://feed.appinn.com",
       "siteUrl": "https://www.appinn.com",
       "articles": [
+        {
+          "id": "https://www.appinn.com/?p=39110",
+          "author": "青小蛙",
+          "description": "我在哪是一款简单易用的微信小程序，它可以让你向好友分享未来 30 分钟的实时位置，简单易用。@Appinn 来自微博的 @BlackBoXo 同学推荐： #网约车司机改路线女孩跳车摔骨折# 最近做的一",
+          "link": "https://www.appinn.com/where-am-i-wechat-miniapps/",
+          "publishedOn": "2021-06-21T03:34:51.000Z",
+          "wordCount": 1122,
+          "title": "我在哪 – 向好友分享未来 30 分钟的实时位置[微信小程序]"
+        },
         {
           "id": "https://www.appinn.com/?p=39107",
           "author": "青小蛙",
@@ -5062,6 +5053,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/146878/huawei-linux-kernel-kpi-jerk",
+          "author": null,
+          "description": "《Please don't waste maintainers' time on your KPI grabbing patches (AKA, don't be a KPI jerk)》，这是近日在 Linux 内核邮件列表中一封颇为热门的邮件，热度仅次于 Linus 对反疫苗言论的回复。 在这封邮件中，Linux 内核维护者 Qu Wenruo 声称邮件地址后缀为\"@huawei.com\"的一个帐号所提交的许多补丁只是在清理一...",
+          "link": "https://www.oschina.net/news/146878/huawei-linux-kernel-kpi-jerk",
+          "publishedOn": "2021-06-21T03:06:34.000Z",
+          "wordCount": 593,
+          "title": "华为 Linux 内核贡献者被批评刷 KPI"
+        },
         {
           "id": "https://www.oschina.net/question/4252687_2322931",
           "author": null,
@@ -8201,6 +8201,24 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=4889",
+          "author": "大眼仔~旭",
+          "description": "开源视频转码器 HandBrake 中文版由大眼仔旭（www.dayanzai.me）发布。HandBrake […]",
+          "link": "http://www.dayanzai.me/handbrake.html",
+          "publishedOn": "2021-06-20T16:24:08.000Z",
+          "wordCount": 824,
+          "title": "开源视频转码器 HandBrake 1.3.3 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=1900",
+          "author": "大眼仔~旭",
+          "description": "Windows 主题破解限制工具 UltraUXThemePatcher 下载由大眼仔旭（www.dayanz […]",
+          "link": "http://www.dayanzai.me/ultrauxthemepatcher.html",
+          "publishedOn": "2021-06-20T16:13:46.000Z",
+          "wordCount": 486,
+          "title": "Windows 主题破解限制工具 UltraUXThemePatcher 4.1.3 下载"
+        },
         {
           "id": "http://www.dayanzai.me/?p=31988",
           "author": "大眼仔~旭",
