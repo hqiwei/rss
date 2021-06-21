@@ -6,6 +6,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60a55b37906c5207e3a7ea78",
+          "author": null,
+          "description": "But where do you store your application's content? Storing the content on the blockchain would be expensive and inefficient. Your blockchain application needs decentralized storage!",
+          "link": "https://www.freecodecamp.org/news/technical-guide-to-ipfs-decentralized-storage-of-web3/",
+          "publishedOn": "2021-06-21T16:38:36.000Z",
+          "wordCount": 3575,
+          "title": "A Technical Guide to IPFS – the Decentralized Storage of Web3"
+        },
+        {
+          "id": "6063b9e19618b008528a9d9a",
+          "author": null,
+          "description": "Today we're gonna learn everything you need to know about the CSS position property along with examples. let's get started 🎖️ Table of contents What is CSS Position Property?What is the Static Position in CSS?What are the Relative and Absolute Positions in CSS?What is the Fixed Position in",
+          "link": "https://www.freecodecamp.org/news/css-position-property-explained/",
+          "publishedOn": "2021-06-21T16:36:14.000Z",
+          "wordCount": 1153,
+          "title": "How the CSS Position Property Works – Explained with Code Examples"
+        },
+        {
           "id": "60b46dbd11ffb70827ef9dea",
           "author": null,
           "description": "What is TCP?TCP is an acronym for Transmission Control Protocol. It is a transport layer protocol that allows packets to be sent from one location to another.  TCP is a connection-oriented protocol, which means it establishes the connection before any communication between the network’s computer units. Because we",
