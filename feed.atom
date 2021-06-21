@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T22:09:46.111Z</updated>
+    <updated>2021-06-21T23:09:52.945Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12726,16 +12726,6 @@ func homeHandler(w http.ResponseWriter, r *http.Request…]]></summary>
 招聘专区: https://gocn.vip/jobs]]></summary>
         <author>
             <name>DennisMao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XP Shutdown / Logoff Menu – Windows XP 风格的关机菜单]]></title>
-        <id>https://www.appinn.com/?p=38868</id>
-        <link href="https://www.appinn.com/xp-shutdown-and-logoff-menu-windows-xp-style/"/>
-        <updated>2021-05-23T10:20:05.000Z</updated>
-        <summary type="html"><![CDATA[XP Shutdown / Logoff Menu 是一款用 AutoHotkey 编写的，可以让 Windows XP 以上系统也拥有经典的 XP 风格的关机菜单、用户注销菜单。@Appinn 来自]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
 </feed>
