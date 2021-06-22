@@ -866,6 +866,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12232",
+          "author": "fuxiaohei",
+          "description": "GoCN 每日新闻（2021-06-22）\n向 Go 编译器开发代码 https://medium.com/trendyol-tech/contributing-the-go-compiler-adding-new-tilde-operator-f66d0c6cff7\n\nGo 减少内存分配 https://chris124567.github.io/2021-06-21-go-performance/\n\nGo 1.17 因安全问题修改的 URL query parsing https://mp.weixin.qq.com/s/LM2zzbk1lr7KC0bV801qTw\n\nGo 自然语言检测库 https://github.com/pemistahl/lingua-go\n\n在 Golang 中是锁或 Channel 还是 Atomic https://mp.weixin.qq.com/s/DNFAcTLtXO5UEkSZ-zCOKg\n\n\n\n\n编辑: 傅小黑\n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12232",
+          "publishedOn": "2021-06-22T14:51:07.000Z",
+          "wordCount": 102,
+          "title": "GoCN 每日新闻（2021-06-22）"
+        },
+        {
           "id": "https://gocn.vip/topics/12231",
           "author": "happy_brother",
           "description": "这篇文章将描述代码中经常使用的抢占式接口模式，以及为什么我认为在 Go 中遵循这种模式通常是不正确的。\n什么是抢占式接口\n接口是一种描述行为的方式，存在于大多数类型语言中。抢占式接口是指开发人员在实际需要出现之前对接口进行编码。一个示例可能如下所示。\ntype Auth interface {\n  GetUser() (User, error)\n}\n\ntype authImpl struct {\n  // ...\n}\nfunc NewAuth() Auth {\n  return &authImpl\n}\n\n抢占式接口何时有用\n抢占接口通常用于在 Java 中,并且大获成功，这是大部分程序员的想法。相信，很多 Go 开发者也是这么认为的。这种用法主要区别在于 Java 具有显式接口，而 Go 是隐式接口。让我们看一些示例 Java 代码，这些代码显示了如果不使用 Java 中的抢占式接口可能会出现的困难。\n// auth.java\npublic class Auth {\n  public boolean canAction() {\n    // ...\n  }\n}\n// logic.java\npublic class Logic {\n  public void takeAction(Auth a) {\n    // ...\n  }\n}\n\n现在假设您要更改 Logic 的 takeAction 方法中的参数 Auth 类型的对象，只要它具有 canAction() 方法即可。不幸的是，你不能。Auth 没有在其中实现带有 canAction() 的接口。你现在必须修改 Auth 为其提供一个接口，然后您可以在 takeAction 中接受该接口，或者将 Auth 包装在一个除了实现的方法之外什么都不做的类中。即使 logic.java 定义了一个 Auth 接口以在 takeAction() 中接受，也可能很难让 Auth 实现该接口。您可能无权修改 Auth，或者 Auth 可能位于第三方库中。也许 Auth 的作者不同意你的修改。也许在代码库中与同事共享 Auth，现在需要在修改之前达成共识。这是希望的 Java 代码。\n// auth.java\npublic interface Auth {\n  public boolean canAction()\n}\n// authimpl.java\nclass AuthImpl implements Auth {\n}\n// logic.java\npublic class Logic {\n  public void takeAction(Auth a) {\n    // ...\n  }\n}\n\n如果 Auth 的作者最初编码并返回一个接口，那么你在尝试扩展 takeAction 时，永远不会遇到问题。它自然适用于任何 Auth 接口。在具有显式接口的语言中，以后你会感谢过去的自己使用了抢占式接口。\n为什么这在 Go 中不是问题\n让我们在 Go 中设置相同的情况。\n// auth.go \ntype Auth struct { \n// ... \n}\n// logic.go \nfunc TakeAction(a *Auth) { \n  // ... \n}\n\n如果 logic 想要使 TakeAction 通用，则 logic 所有者可以单方面执行此操作，而不会打扰其他人。\n// logic.go \ntype LogicAuth interface { \n  CanAction() bool \n}\nfunc TakeAction(a LogicAuth) { \n  // ... \n}\n\n请注意 auth.go 不需要更改。这是使抢占式接口不再需要的关键所在。\nGo 中抢占式接口的意外副作用\nGo 的接口定义都是很小，但很强大。在标准库中，大多数接口定义都是单一方法。这允许最大的重用，因为实现接口很容易。当程序员对像上面的 Auth 这样的抢占式接口进行编码时，接口的方法数量往往会激增，这使得接口（可交换实现）的全部意义更难以实现。\nGo 中接口的最佳用法\nGo 的一个很好的经验法则是 - 接受接口，返回结构体。接受接口为您的 API 提供了最大的灵活性，返回结构体允许调用者快速导航到正确的函数。\n即使你的 Go 代码接受结构体并返回结构体以启动，隐式接口也允许您稍后扩展你的 API，而不会破坏向后兼容性。接口是一种抽象，抽象有时很有用。然而，不必要的抽象会造成不必要的复杂化。在需要之前不要使代码过于复杂。",
@@ -1997,6 +2006,33 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=86743",
+          "author": "Editor, Kai",
+          "description": "本月初，英伟达宣布了要将 GeForce RTX 系列显卡的“深度学习超级采样”（简称 DLSS）技术引入 Linux / Steam Play 平台，而现在正是时候。即使当前尚无任何原生支持 DLSS 的 Linux 游戏，但该项目主要是 […]",
+          "link": "http://www.linuxeden.com/a/86743",
+          "publishedOn": "2021-06-22T15:09:57.000Z",
+          "wordCount": 149,
+          "title": "Vulkan API加持：英伟达明日推送面向Linux游戏的DLSS支持"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86739",
+          "author": "Editor, Kai",
+          "description": "W3C最新发布的JavaScript API是Web神经网络API（Web Neural Network API）的公开工作草案。W3C和关联方一直在开发网络神经网络API，作为一种允许神经网络推理从浏览器硬件加速的手段。 此 […]",
+          "link": "http://www.linuxeden.com/a/86739",
+          "publishedOn": "2021-06-22T15:04:21.000Z",
+          "wordCount": 83,
+          "title": "W3C发布Web神经网络API工作草案"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86735",
+          "author": "Editor, Kai",
+          "description": "许多组织现在都依赖语音助理系统来处理查询，但就像其他形式的信息一样，保护消费者和通过语音流动的专有数据非常重要。Linux基金会正在推出一个开放语音网络（Open Voice Network），这是一个开源协会，致力于推进开放标准，支持采用 […]",
+          "link": "http://www.linuxeden.com/a/86735",
+          "publishedOn": "2021-06-22T15:01:45.000Z",
+          "wordCount": 87,
+          "title": "Linux基金会推出开放语音网络（Open Voice Network）"
+        },
         {
           "id": "http://www.linuxeden.com/?p=86732",
           "author": "Editor, Kai",
@@ -8265,15 +8301,6 @@
           "publishedOn": "2021-05-24T03:28:58.000Z",
           "wordCount": 480,
           "title": "开源项目运营新利器：为你的 Gitee 仓库嵌入百度统计"
-        },
-        {
-          "id": "https://www.oschina.net/news/142864/taosdata-raises-47-million-in-series-b-round",
-          "author": null,
-          "description": "2021年5月24日，全球领先的物联网大数据平台涛思数据宣布完成4700万美元B轮融资。本轮融资由经纬中国领投，红杉资本中国基金、GGV纪源资本、指数资本跟投，指数资本担任独家财务顾问。融资资金将主要用于技术研发与市场拓展。 涛思数据成立于2017年，专注时序空间大数据的存储、查询、分析和计算。不依赖任何开源或第三方...",
-          "link": "https://www.oschina.net/news/142864/taosdata-raises-47-million-in-series-b-round",
-          "publishedOn": "2021-05-24T02:14:51.000Z",
-          "wordCount": 493,
-          "title": "TDengine 开发商涛思数据完成 4700 万美元 B 轮融资"
         }
       ]
     },
