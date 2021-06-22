@@ -1962,6 +1962,78 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=86732",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 06 22",
+          "link": "http://www.linuxeden.com/a/86732",
+          "publishedOn": "2021-06-22T00:24:40.000Z",
+          "wordCount": 81,
+          "title": "开源美图 2021 06 22"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86730",
+          "author": "Editor, Kai",
+          "description": "Download Linux Binary Release • Mac OS X Binary Release • iOS Binary Release • Windows Binary Release You can install Im […]",
+          "link": "http://www.linuxeden.com/a/86730",
+          "publishedOn": "2021-06-22T00:21:57.000Z",
+          "wordCount": 279,
+          "title": "ImageMagick-7.1.0-1发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86728",
+          "author": "Editor, Kai",
+          "description": "Dear Spring Community, I am happy to announce the 4.11.0 release of the Spring Tools 4 for Eclipse, Visual Studio Code,  […]",
+          "link": "http://www.linuxeden.com/a/86728",
+          "publishedOn": "2021-06-22T00:21:02.000Z",
+          "wordCount": 178,
+          "title": "Spring Tools 4.11.0 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86726",
+          "author": "Editor, Kai",
+          "description": "Please use the latest release from our download page: https://cmake.org/download/ Thanks for your support! 1 2 3 4 5 6 7 […]",
+          "link": "http://www.linuxeden.com/a/86726",
+          "publishedOn": "2021-06-22T00:19:20.000Z",
+          "wordCount": 189,
+          "title": "CMake 3.20.5 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86724",
+          "author": "Editor, Kai",
+          "description": "Navigator: Quick search now supports multiple object names Entity editor preferences for active tab configuration were i […]",
+          "link": "http://www.linuxeden.com/a/86724",
+          "publishedOn": "2021-06-22T00:17:31.000Z",
+          "wordCount": 368,
+          "title": "DBeaver 21.1.1 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86722",
+          "author": "Editor, Kai",
+          "description": "This is release 1.38.1 (guadalupe_river_park_conservancy) of gRPC Core. For gRPC documentation, see grpc.io. For previou […]",
+          "link": "http://www.linuxeden.com/a/86722",
+          "publishedOn": "2021-06-22T00:16:47.000Z",
+          "wordCount": 131,
+          "title": "Grpc  1.38.1 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86720",
+          "author": "Editor, Kai",
+          "description": "1.11.2 / 2021.06.21 feat(unstable, lsp): quick fix actions to ignore lint errors (#10627) fix: add support for module es […]",
+          "link": "http://www.linuxeden.com/a/86720",
+          "publishedOn": "2021-06-22T00:12:46.000Z",
+          "wordCount": 196,
+          "title": "Deno 1.11.2 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86718",
+          "author": "Editor, Kai",
+          "description": "这份可下载的指南充满了有用的教程，让 SRE 和系统管理员使用 Kubernetes 获得便利。 Kubernetes 是容器编排的事实标准，在基础设施管理和应用开发方面已经迅速发展成为容器环境的主导。作为一个拥有庞大的爱好者和专业人士社区 […]",
+          "link": "http://www.linuxeden.com/a/86718",
+          "publishedOn": "2021-06-22T00:08:23.000Z",
+          "wordCount": 227,
+          "title": "探索 Kubernetes 生态系统（2021 版）"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86715",
           "author": "Editor, Kai",
           "description": "Linux 5.14将为仅售10美元的开源操纵杆添加驱动程序 Rocky Linux 8.4发布 适用于RHEL 8.4/CentOS替代 用 Deskreen 将你的 Linux 屏幕镜像或串流到任何设备上 优麒麟20.04 LTS Pr […]",
@@ -5125,6 +5197,105 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/147069",
+          "author": null,
+          "description": "Community over Code. 如果你了解开源，那么对这句话一定不陌生。“Community over Code——社区大于代码”最初由 Apache 软件基金会提出。ASF 对此的阐述是：那些历时最久、最成功的开源项目往往更看重协作社区而非代码本身。 代码无疑是非常重要的。但是最好的代码最多可能成为当下每个人都在使用的工具，而最好的社区...",
+          "link": "https://www.oschina.net/news/147069",
+          "publishedOn": "2021-06-22T00:18:34.000Z",
+          "wordCount": 503,
+          "title": "如何构建繁荣的开源社区生态？"
+        },
+        {
+          "id": "https://www.oschina.net/news/147068/facebook-mit-ai-researchers",
+          "author": null,
+          "description": "Facebook、普林斯顿大学和麻省理工学院的 AI 研究人员近日宣布联合出版了一本名为《The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks（深度学习理论原理：理解神经网络的一种有效理论方法）》的书籍。目前，该书的手稿已经公开提供。 根据介绍，在基本层面上，该...",
+          "link": "https://www.oschina.net/news/147068/facebook-mit-ai-researchers",
+          "publishedOn": "2021-06-22T00:17:31.000Z",
+          "wordCount": 530,
+          "title": "Facebook 联同 MIT 等发布研究手稿：解释深度学习实际工作原理的理论"
+        },
+        {
+          "id": "https://www.oschina.net/news/147067/google-slsa-framework-enforce-supply-chain-integrity",
+          "author": null,
+          "description": "近日，Google 推出了 SLSA（Supply chain Levels for Software Artifacts），这是一个新的端到端框架，Google 希望通过 SLSA 能推动标准和准则的实施，以确保整个软件供应链中软件工件的完整性。 供应链完整性攻击这两年大幅增加，而且成为影响所有用户的共通攻击途径。Google 开源安全团队指出，虽然市面上已有局部性的...",
+          "link": "https://www.oschina.net/news/147067/google-slsa-framework-enforce-supply-chain-integrity",
+          "publishedOn": "2021-06-22T00:15:45.000Z",
+          "wordCount": 541,
+          "title": "Google 推出 SLSA 框架以加强供应链完整性"
+        },
+        {
+          "id": "https://my.oschina.net/u/5148943/blog/5081645",
+          "author": null,
+          "description": "本文将介绍分布式数据库 ZNBase 的 SQL 引擎架构特点，以及其中各大服务组件的技术原理与工作流程。",
+          "link": "https://my.oschina.net/u/5148943/blog/5081645",
+          "publishedOn": "2021-06-22T00:15:45.000Z",
+          "wordCount": 620,
+          "title": "深入解析 ZNBase 分布式 SQL 引擎架构的五大服务组件"
+        },
+        {
+          "id": "https://www.oschina.net/news/147065/amd-work-to-mainline-ptdma",
+          "author": null,
+          "description": "目前，AMD 推出的适用于 Linux 的驱动程序 PTDMA 已经更新到 v10 版本，以期最终能够合并入 Linux 主线。 PTDMA 是 AMD 于 2019 年 9 月发布的一个 Linux 驱动程序，用于支持 EPYC 处理器的 Pass-Through DMA 控制器，并允许高带宽内存到内存和 I/O 的复制操作。同时，该驱动增加了对多个 PTDMA 实例的支持，每个设备将得...",
+          "link": "https://www.oschina.net/news/147065/amd-work-to-mainline-ptdma",
+          "publishedOn": "2021-06-22T00:14:33.000Z",
+          "wordCount": 530,
+          "title": "AMD 继续推动其 PTDMA 驱动进入 Linux 主线"
+        },
+        {
+          "id": "https://www.oschina.net/p/dalfox",
+          "author": null,
+          "description": "功能强大的 XSS 参数分析和扫描工具，可以帮助广大研究人员通过分析参数来寻找 XSS 漏洞，并基于 DOM 解析器来对找到的 XSS 漏洞进行验证。",
+          "link": "https://www.oschina.net/p/dalfox",
+          "publishedOn": "2021-06-22T00:13:05.000Z",
+          "wordCount": 316,
+          "title": "DalFox —— Go 开发的 XSS 参数分析和扫描工具"
+        },
+        {
+          "id": "https://www.paddlepaddle.org.cn/modelbasedetail/lac",
+          "author": null,
+          "description": "LAC是一个联合的词法分析模型，能够整体性地完成中文分词、词性标注、专名识别等NLP任务。LAC基于一个堆叠的双向 GRU 结构，在长文本上准确复刻了百度AI开放平台上的词法分析算法。",
+          "link": "https://www.paddlepaddle.org.cn/modelbasedetail/lac",
+          "publishedOn": "2021-06-22T00:11:57.000Z",
+          "wordCount": 953,
+          "title": "深度学习模型库入门：中文词法分析-LAC"
+        },
+        {
+          "id": "https://www.oschina.net/question/4584830_2322876",
+          "author": null,
+          "description": "生产环境是 MySQL 5.6.36，如何将 MySQL 数据整体迁移到 PostgreSQL11 中呢？",
+          "link": "https://www.oschina.net/question/4584830_2322876",
+          "publishedOn": "2021-06-22T00:07:38.000Z",
+          "wordCount": 192,
+          "title": "如何将 MySQL 数据整体迁移到 PostgreSQL 11？"
+        },
+        {
+          "id": "https://gitee.com/robin_shaun/XTDrone/issues/I3NWJ5",
+          "author": null,
+          "description": "使用深度相机/双目相机，在某一室外场景下实现 3D 目标检测。",
+          "link": "https://gitee.com/robin_shaun/XTDrone/issues/I3NWJ5",
+          "publishedOn": "2021-06-22T00:01:58.000Z",
+          "wordCount": 269,
+          "title": "Gitee 悬赏 | 无人机 3D 目标检测"
+        },
+        {
+          "id": "https://my.oschina.net/gitosc/blog/5084040",
+          "author": null,
+          "description": "一个月前，Gitee 上线了开源项目 Issue 悬赏功能 Gitee Reward，在小范围公测后，得到了诸多好评与反馈，现在 Gitee Reward 已向所有开源项目开放使用",
+          "link": "https://my.oschina.net/gitosc/blog/5084040",
+          "publishedOn": "2021-06-21T23:58:30.000Z",
+          "wordCount": 286,
+          "title": "Gitee Reward 正式启航，海量悬赏即将到来"
+        },
+        {
+          "id": "https://www.oschina.net/news/147057/net-maui-preview-5-released",
+          "author": null,
+          "description": ".NET MAUI Preview 5 已发布。在此版本中，开发团队启用了动画和视图转换 (view transformation) 功能、完成了多个 UI 组件的移植，并对单个项目模板进行了改进。此外还发布了第一批涵盖 .NET MAUI 介绍和基础方面的预览文档：https://docs.microsoft.com/dotnet/maui/。 动画 目前 .NET MAU 提供了多种方法执行动画，其...",
+          "link": "https://www.oschina.net/news/147057/net-maui-preview-5-released",
+          "publishedOn": "2021-06-21T23:55:29.000Z",
+          "wordCount": 601,
+          "title": ".NET MAUI Preview 5 发布"
+        },
         {
           "id": "https://www.oschina.net/news/146943",
           "author": null,
