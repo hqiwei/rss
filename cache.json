@@ -866,6 +866,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12227",
+          "author": "alicloudnative",
+          "description": "作者：李伟\n说起消息队列，ActiveMQ、RabbitMQ、RocketMQ、Kafka、Pulsar 等纷纷涌入我们的脑海中， 在如此众多的开源消息队列产品中，作为一名合格的架构师如何给出高性价比的方案呢？商业化的产品暂不纳入选项中。\n接下来我将从选型要素、RocketMQ 的优势两个方面解释为什么选择 RocketMQ 。\n​\n选型要素\n​\n首先从公司、消息队列服务提供者（一般是中间件团队）、最终用户三个角度来简单总结分析。\n​\n一、从公司层面看， 关注如下几点：\n​\n1. 技术成本\n​\n技术成本，一般包含服务器成本、二次开发成本、后期维护成本等，言而总之：都是钱。 \n服务器目前基本都使用云服务器，不同的云厂商的相同配置的服务器性能也有一定差异， 服务器成本一般需要了解：云厂商机器性能、云厂商优惠、所需服务器配置、服务器台数、单台服务器目前的价格、单台服务器优惠后的价格等。\n​\n2. 人力成本\n​\n人力成本，一般包含现有技术人员成本、新人招聘成本。\n​\n新的技术选型对于目前的技术人员接受程度怎么样，学习的难易程度怎样等，都是需要考虑的。如果太难的话，上线周期会变长、业务需求实现速度慢，甚至有人直接离职。\n新人招聘成本，一般招聘一个新人有如下几个过程：简历筛选、预约面试、数轮面试、发 offer 、接受 offer 、正式入职、试用期、转正。这中间涉及到猎头成本、人力资源沟通成本、面试成本、新人入职后环境适应成本等等。\n​\n3. 其他\n​\n目前处于不同阶段的互联网公司对于技术成本、人力成本有着不一样的要求，但是很多有一定规模的公司实际上还是用 “买买买” 的心态来对待的：只要业务发展快速，买服务器、招人都不是问题，如果成本高了就做技术降成本、裁员。这不仅是员工之痛，也是业务之痛，更是公司之痛。\n​\n二、从中间件组层面看， 关注如下几点：\n​\n1. 稳定\n​\n公司级的服务…",
+          "link": "https://gocn.vip/topics/12227",
+          "publishedOn": "2021-06-22T03:16:16.000Z",
+          "wordCount": 505,
+          "title": "消息中间件：为什么我们选择 RocketMQ"
+        },
+        {
           "id": "https://gocn.vip/topics/12226",
           "author": "kevin",
           "description": "一切皆有可能——Golang 中的” ThreadLocal“库 https://mp.weixin.qq.com/s/CPthQSqUIO-u-VkTQSMVXA\n\nGolang 整洁接口最佳实践 https://mp.weixin.qq.com/s/eNoZTfh3L7mT-501g04YWQ\n\n使用 Github Action 自动发布 Go 程序 https://web3.coach/golang-github-actions-release-binaries-tutorial\n\ncolumn: 位图索引高性能列式内存数据库 https://github.com/kelindar/column\n\n有赞 TCP 网络编程最佳实践 https://tech.youzan.com/you-zan-tcpwang-luo-bian-cheng-zui-jia-shi-jian/\n\n\n\n\n编辑: 李俱顺 Kevin\n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs\n\nGOCN 归档: https://gocn.vip/topics/12226",
@@ -4795,42 +4804,6 @@
           "publishedOn": "2021-05-24T00:18:06.000Z",
           "wordCount": 214,
           "title": "Seaweedfs 2.49发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85665",
-          "author": "Editor, Kai",
-          "description": "使用 sed 命令进行复制、剪切和粘贴 CentOS SIG正确保社区贡献的新技术可顺利导入未来的红帽企业版 D-Wave CEO专访：畅想实用型量子计算机的现在与将来 大批开源项目逃离 Freenode IRC 网络 全新 1Passwo […]",
-          "link": "http://www.linuxeden.com/a/85665",
-          "publishedOn": "2021-05-23T15:35:38.000Z",
-          "wordCount": 107,
-          "title": "每日文章精选 2021 05 23"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85662",
-          "author": "Editor, Kai",
-          "description": "了解 sed 的基本用法，然后下载我们的备忘单，方便快速地参考 Linux 流编辑器。 很少有 Unix 命令像 sed、grep 和 awk 一样出名，它们经常组合在一起，可能是因为它们具有奇怪的名称和强大的文本解析能力。它们还在一些语法 […]",
-          "link": "http://www.linuxeden.com/a/85662",
-          "publishedOn": "2021-05-23T15:18:55.000Z",
-          "wordCount": 422,
-          "title": "使用 sed 命令进行复制、剪切和粘贴"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85657",
-          "author": "Editor, Kai",
-          "description": "随着 CentOS Stream 与红帽企业版（RHEL）构成更紧密的上下游关系，社区里也有不少利益相关者在积极推动一项进展，以确保 CentOS Stream 引入的有趣技术变动，能够被纳入将来的 RHEL 。本周公开提出的 CentOS […]",
-          "link": "http://www.linuxeden.com/a/85657",
-          "publishedOn": "2021-05-23T14:59:08.000Z",
-          "wordCount": 149,
-          "title": "CentOS SIG正确保社区贡献的新技术可顺利导入未来的红帽企业版"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85649",
-          "author": "Editor, Kai",
-          "description": "在神秘的量子力学的加持下，量子计算机也被人寄予了厚望。虽然技术仍处于起步阶段，但世界各地的诸多研究团推，都在试图利用量子计算机来找到搞定传统计算机上难以解决的问题的潜在方法。与此同时，总部位于加拿大的 D-Wave 公司，也致力于将量子计算 […]",
-          "link": "http://www.linuxeden.com/a/85649",
-          "publishedOn": "2021-05-23T14:55:26.000Z",
-          "wordCount": 248,
-          "title": "D-Wave CEO专访：畅想实用型量子计算机的现在与将来"
         }
       ]
     },
@@ -8390,6 +8363,24 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=204",
+          "author": "大眼仔~旭",
+          "description": "开源跨平台专业计算器 Qalculate! 中文版由大眼仔旭（www.dayanzai.me）发布。Qalcu […]",
+          "link": "http://www.dayanzai.me/qalculate.html",
+          "publishedOn": "2021-06-21T16:37:19.000Z",
+          "wordCount": 766,
+          "title": "开源跨平台专业计算器 Qalculate! 3.19.1 + x64 中文免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=31917",
+          "author": "大眼仔~旭",
+          "description": "适用于 Win10 的开源免费记事本 Notepads 中文版由大眼仔旭（www.dayanzai.me）发布 […]",
+          "link": "http://www.dayanzai.me/notepads.html",
+          "publishedOn": "2021-06-21T16:33:48.000Z",
+          "wordCount": 506,
+          "title": "适用于 Win10 的开源免费记事本 Notepads 1.4.5.0 中文多语免费版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=2210",
           "author": "大眼仔~旭",
