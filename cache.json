@@ -1944,15 +1944,6 @@
           "publishedOn": "2021-05-24T06:42:06.000Z",
           "wordCount": 390,
           "title": "Go Web 路由处理利器 gorilla/mux 库"
-        },
-        {
-          "id": "https://gocn.vip/topics/12106",
-          "author": "DennisMao",
-          "description": "GoCN 每日新闻 (2021-05-23)\n1. API 网关架构 https://eng.uber.com/architecture-api-gateway/\n2. 使用 Go 语言对网页进行截屏 https://www.youtube.com/watch?v=4hrFtF6OuiM\n3. Go 并发同步包 https://ketansingh.me/posts/golang-x-sync/\n4. 深入 Go 中各个高性能 JSON 解析库 https://www.luozhiyun.com/archives/535\n5. lima: 一款 Go 语言实现的 Linux 虚拟机 https://github.com/AkihiroSuda/lima\n编辑: Razil\n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
-          "link": "https://gocn.vip/topics/12106",
-          "publishedOn": "2021-05-23T12:45:17.000Z",
-          "wordCount": 111,
-          "title": "GoCN 每日新闻 (2021-05-23)"
         }
       ]
     },
@@ -5198,6 +5189,24 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/147074/qt-announce-apple-silicon-support-finished",
+          "author": null,
+          "description": "Qt 官方发文表示，Qt on Apple Silicon 支持计划已经完成，并将在即将发布的 Qt 6.2 版本中提供。 文中表示，当 Apple 去年宣布使用其新的 Apple Silicon M1 芯片将 macOS 过渡到 arm64 时，Qt 开发人员立即开始进行原生支持的原型设计，最初是在开发人员过渡工具包 (DTK) 上，后来在生产硬件可用后。Rosetta 翻译层已经...",
+          "link": "https://www.oschina.net/news/147074/qt-announce-apple-silicon-support-finished",
+          "publishedOn": "2021-06-22T00:48:24.000Z",
+          "wordCount": 577,
+          "title": "Qt 宣布 Apple Silicon 支持计划已经完成"
+        },
+        {
+          "id": "https://www.oschina.net/news/147073/vinix-os-written-in-v",
+          "author": null,
+          "description": "V 语言开发团队发布了首个使用 V 编写的操作系统 —— Vinix，并表示此操作系统现在可以运行 mlibc 和 bash。 下载 nightly 版本进行体验 >>> ISO 镜像地址 Vinix 的源代码已遵循 GPLv2 开源许可协议托管在 GitHub，其 repo 显示它采用 V 编写，致力于成为一款现代、快速且有用的操作系统。 Vinix 暂定的目标如下： 保证...",
+          "link": "https://www.oschina.net/news/147073/vinix-os-written-in-v",
+          "publishedOn": "2021-06-22T00:46:11.000Z",
+          "wordCount": 596,
+          "title": "V 语言编写的操作系统：Vinix"
+        },
+        {
           "id": "https://www.oschina.net/news/147069",
           "author": null,
           "description": "Community over Code. 如果你了解开源，那么对这句话一定不陌生。“Community over Code——社区大于代码”最初由 Apache 软件基金会提出。ASF 对此的阐述是：那些历时最久、最成功的开源项目往往更看重协作社区而非代码本身。 代码无疑是非常重要的。但是最好的代码最多可能成为当下每个人都在使用的工具，而最好的社区...",
@@ -8381,6 +8390,24 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=2210",
+          "author": "大眼仔~旭",
+          "description": "Glary Utilities Pro 中文版  全能系统维护军刀由大眼仔旭（www.dayanzai.me） […]",
+          "link": "http://www.dayanzai.me/glary-utilities.html",
+          "publishedOn": "2021-06-21T16:31:26.000Z",
+          "wordCount": 541,
+          "title": "全能系统维护军刀 Glary Utilities Pro 5.168.0.194 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=596",
+          "author": "大眼仔~旭",
+          "description": "免费数据库管理工具 DBeaver 中文版由大眼仔旭（www.dayanzai.me）发布。DBeaver 适 […]",
+          "link": "http://www.dayanzai.me/dbeaver.html",
+          "publishedOn": "2021-06-21T16:23:36.000Z",
+          "wordCount": 795,
+          "title": "开源免费数据库管理工具 DBeaver Community Edition 21.1.1 中文多语免费版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=4889",
           "author": "大眼仔~旭",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T00:29:03.821Z</updated>
+    <updated>2021-06-22T01:53:02.004Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Qt 宣布 Apple Silicon 支持计划已经完成]]></title>
+        <id>https://www.oschina.net/news/147074/qt-announce-apple-silicon-support-finished</id>
+        <link href="https://www.oschina.net/news/147074/qt-announce-apple-silicon-support-finished"/>
+        <updated>2021-06-22T00:48:24.000Z</updated>
+        <summary type="html"><![CDATA[Qt 官方发文表示，Qt on Apple Silicon 支持计划已经完成，并将在即将发布的 Qt 6.2 版本中提供。 文中表示，当 Apple 去年宣布使用其新的 Apple Silicon M1 芯片将 macOS 过渡到 arm64 时，Qt 开发人员立即开始进行原生支持的原型设计，最初是在开发人员过渡工具包 (DTK) 上，后来在生产硬件可用后。Rosetta 翻译层已经...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[V 语言编写的操作系统：Vinix]]></title>
+        <id>https://www.oschina.net/news/147073/vinix-os-written-in-v</id>
+        <link href="https://www.oschina.net/news/147073/vinix-os-written-in-v"/>
+        <updated>2021-06-22T00:46:11.000Z</updated>
+        <summary type="html"><![CDATA[V 语言开发团队发布了首个使用 V 编写的操作系统 —— Vinix，并表示此操作系统现在可以运行 mlibc 和 bash。 下载 nightly 版本进行体验 >>> ISO 镜像地址 Vinix 的源代码已遵循 GPLv2 开源许可协议托管在 GitHub，其 repo 显示它采用 V 编写，致力于成为一款现代、快速且有用的操作系统。 Vinix 暂定的目标如下： 保证...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源美图 2021 06 22]]></title>
         <id>http://www.linuxeden.com/?p=86732</id>
@@ -264,6 +284,26 @@
         <summary type="html"><![CDATA[Today we're gonna learn everything you need to know about the CSS position property along with examples. let's get started 🎖️ Table of contents What is CSS Position Property?What is the Static Position in CSS?What are the Relative and Absolute Positions in CSS?What is the Fixed Position in]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全能系统维护军刀 Glary Utilities Pro 5.168.0.194 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=2210</id>
+        <link href="http://www.dayanzai.me/glary-utilities.html"/>
+        <updated>2021-06-21T16:31:26.000Z</updated>
+        <summary type="html"><![CDATA[Glary Utilities Pro 中文版  全能系统维护军刀由大眼仔旭（www.dayanzai.me） […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源免费数据库管理工具 DBeaver Community Edition 21.1.1 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=596</id>
+        <link href="http://www.dayanzai.me/dbeaver.html"/>
+        <updated>2021-06-21T16:23:36.000Z</updated>
+        <summary type="html"><![CDATA[免费数据库管理工具 DBeaver 中文版由大眼仔旭（www.dayanzai.me）发布。DBeaver 适 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
@@ -12897,25 +12937,6 @@ func homeHandler(w http.ResponseWriter, r *http.Request…]]></summary>
         <summary type="html"><![CDATA[在神秘的量子力学的加持下，量子计算机也被人寄予了厚望。虽然技术仍处于起步阶段，但世界各地的诸多研究团推，都在试图利用量子计算机来找到搞定传统计算机上难以解决的问题的潜在方法。与此同时，总部位于加拿大的 D-Wave 公司，也致力于将量子计算 […]]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoCN 每日新闻 (2021-05-23)]]></title>
-        <id>https://gocn.vip/topics/12106</id>
-        <link href="https://gocn.vip/topics/12106"/>
-        <updated>2021-05-23T12:45:17.000Z</updated>
-        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-05-23)
-1. API 网关架构 https://eng.uber.com/architecture-api-gateway/
-2. 使用 Go 语言对网页进行截屏 https://www.youtube.com/watch?v=4hrFtF6OuiM
-3. Go 并发同步包 https://ketansingh.me/posts/golang-x-sync/
-4. 深入 Go 中各个高性能 JSON 解析库 https://www.luozhiyun.com/archives/535
-5. lima: 一款 Go 语言实现的 Linux 虚拟机 https://github.com/AkihiroSuda/lima
-编辑: Razil
-订阅新闻: http://tinyletter.com/gocn
-
-招聘专区: https://gocn.vip/jobs]]></summary>
-        <author>
-            <name>DennisMao</name>
         </author>
     </entry>
 </feed>
