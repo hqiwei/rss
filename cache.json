@@ -2007,6 +2007,15 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=86750",
+          "author": "Editor, Kai",
+          "description": "Vulkan API加持：英伟达明日推送面向Linux游戏的DLSS支持 W3C发布Web神经网络API工作草案 Linux基金会推出开放语音网络（Open Voice Network） ImageMagick-7.1.0-1发布 探索 K […]",
+          "link": "http://www.linuxeden.com/a/86750",
+          "publishedOn": "2021-06-22T15:25:14.000Z",
+          "wordCount": 95,
+          "title": "每日文章精选 2021 06 22"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86743",
           "author": "Editor, Kai",
           "description": "本月初，英伟达宣布了要将 GeForce RTX 系列显卡的“深度学习超级采样”（简称 DLSS）技术引入 Linux / Steam Play 平台，而现在正是时候。即使当前尚无任何原生支持 DLSS 的 Linux 游戏，但该项目主要是 […]",
@@ -4804,15 +4813,6 @@
           "publishedOn": "2021-05-24T14:10:03.000Z",
           "wordCount": 90,
           "title": "AMD Zen4接口AM5曝光：改用LGA触点式、告别脆弱的针脚"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85686",
-          "author": "Editor, Kai",
-          "description": "华为正倾力打造鸿蒙OS操作系统，预计6月2日v2.0版本转正，面向普通消费者开放升级体验。 与此同时，华为芯片业务的进展也备受关注。 经查，华为提供给鸿蒙开发者的一款开发板Hi3861引起了关注。虽然并没有看到官方信息披露，但老外称这是华为 […]",
-          "link": "http://www.linuxeden.com/a/85686",
-          "publishedOn": "2021-05-24T04:13:34.000Z",
-          "wordCount": 95,
-          "title": "华为转投第三大CPU架构RISC-V？首款鸿蒙开发板曝光"
         }
       ]
     },
@@ -8292,15 +8292,6 @@
           "publishedOn": "2021-05-24T08:27:08.000Z",
           "wordCount": 610,
           "title": "学 Java 必学 Spring，学 C# 离不开 Furion，v2.7.0 发布"
-        },
-        {
-          "id": "https://www.oschina.net/news/142878/gitee-baidu-tongji",
-          "author": null,
-          "description": "访问数据对开源项目的运营来说是一个非常关键的指标，它能够直观地反映出一个开源项目受欢迎的程度及趋势，以方便作者更全面地了解自己项目的流行度。但目前 Gitee 的访问统计功能仍十分基础，仅对访问仓库的 IP 进行了分日的统计与汇总，无法了解到更详细的访问信息，如分时段访问情况、PV/UV、访问来源等等。 为了满足...",
-          "link": "https://www.oschina.net/news/142878/gitee-baidu-tongji",
-          "publishedOn": "2021-05-24T03:28:58.000Z",
-          "wordCount": 480,
-          "title": "开源项目运营新利器：为你的 Gitee 仓库嵌入百度统计"
         }
       ]
     },
