@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T20:09:42.577Z</updated>
+    <updated>2021-06-22T21:08:21.158Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12927,47 +12927,6 @@ Dart Flutter 数据库 ObjectBox 1.0 版本 https://objectbox.io/dart-flutter-da
 我翻了几篇阿里技术公众号里阅读量较高的文章，各种话题…]]></summary>
         <author>
             <name>alicloudnative</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[飞猪基于 Serverless 的云 + 端实践与思考]]></title>
-        <id>https://gocn.vip/topics/12108</id>
-        <link href="https://gocn.vip/topics/12108"/>
-        <updated>2021-05-24T09:04:37.000Z</updated>
-        <summary type="html"><![CDATA[作者 | 王恒飞（承荫）
-来源 | 阿里巴巴云原生公众号
-本文整理自飞猪旅行前端技术专家 -- 王恒飞（承荫）在【阿里云 Serverless Developer Meetup 上海站】上的分享。点击查看直播回放：https://developer.aliyun.com/live/246653。
-​
-过去两年，飞猪前端一直在积极地进行 Serverless 建设和实践，2019 年 - 2020 年我们和集团 Node 架构组、研发平台一起完成了基础能力的建设和业务试点，成为集团率先落地 Serverless 实践的 BU，2020 年 - 2021 年我们开始大规模地在飞猪推广使用 Serverless 的能力，从导购全链路到核心中后台，都能够看到 Serverless 的身影，这一年我们完成了 Serverless 从业务试点到生产力工具的转变，本文将主要分享飞猪基于 Serverless 的实践成果以及未来想要做的事情。
-​
-Serverless 的使用规模
-​
-2020 年 - 2021 年飞猪 Serverless 的规模和重要度都有很大的变化，主要表现在三方面：
-​
-一是函数组规模增长一倍以上，Qps 峰值增长 650%。
-二是使用 FaaS 开发的人员规模增长 560%，其中前端人员 80% 以上参与到 FaaS 的开发中。
-三是影响力的表现，目前不仅飞猪前端都对 Serverless 很熟悉，客户端也有很多人参与到 FaaS 的开发，更重要的是后端和产品同学也知道我们有 Serverless 进行服务开发的能力。
-具体的数据如下：
-​
-
-为什么要引入 Serverless
-​
-飞猪为什么这么迫切地要引入 Serverless？这主要是出于前后端研发模式升级以及前端职能扩展的考虑，下面回顾一下飞猪前端架构的发展和研发模式的演进。
-​
-1. 飞猪前端架构的发展
-…]]></summary>
-        <author>
-            <name>alicloudnative</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学 Java 必学 Spring，学 C# 离不开 Furion，v2.7.0 发布]]></title>
-        <id>https://www.oschina.net/news/142913/furion-2-7-0-released</id>
-        <link href="https://www.oschina.net/news/142913/furion-2-7-0-released"/>
-        <updated>2021-05-24T08:27:08.000Z</updated>
-        <summary type="html"><![CDATA[让 .NET 开发更简单，更通用，更流行。 版本序言 经过上百次版本的迭代改进，Furion 日渐稳定完善，使用者也是指数增长，目前总增速保持在每天 15K 的下载量，QQ 交流群也超过 6400+ 人，每天的增速保持在 30/天。 以后再有人问：“你们 C# 有什么拿得出手的框架不？“，可以自豪的回答：”Furion“。 本期亮点 1、框架启...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
