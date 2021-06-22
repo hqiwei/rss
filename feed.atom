@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T06:11:35.713Z</updated>
+    <updated>2021-06-22T07:12:47.472Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[远程] 秘猿科技 招聘 Senior Performance Engineer/Senior Software Engineer/Senior Blockchain Engineer...]]></title>
+        <id>https://gocn.vip/topics/12229</id>
+        <link href="https://gocn.vip/topics/12229"/>
+        <updated>2021-06-22T06:23:46.000Z</updated>
+        <summary type="html"><![CDATA[公司及团队介绍
+秘猿科技的使命是用技术创造信任，为未来数字世界构建新的基础设施和服务。秘猿科技成立于 2016 年 ，是以研究、工程和设计为主的区块链先锋，在区块链领域具有深厚的积累与良好的行业口碑。
+谢晗剑
+秘猿科技创始人兼 CEO，Nervos Network 架构师，曾是以太坊 ( Ethereum ) 研究团队中唯一的中国成员，参与设计包括 Casper 及分片在内 Eth 2.0 核心组件。曾设计并领导开发了中国第一个开源高性能许可链 CITA。
+张韧
+秘猿首席科学家，毕业于鲁汶大学 COSIC 研究组，在国际顶级密码学及区块链会议上发表过多篇论文，曾在 Blockstream 与 Pieter Wuillie、Gregory Maxwell 共同工作。目前，张韧博士受邀担任信息安全四大顶会之一 NDSS 2021 和 2022 年审稿人，区块链领域顶级会议 FC 2021 和 2022 年审稿人。
+肖雪洁
+秘猿首席技术官，Ex-Googler，曾就读于美国雪城大学，2018 年加入秘猿后专注于 Nervos CKB VM 的研究和技术团队管理。
+2021 年秘猿成立五周年，秘猿一直奉行开放和开源的精神，坚信透明是信任的基础，开源是区块链的基石，所有项目代码均在 Github 上开源。同时我们与国内外多家研究机构及团队建立了长期的合作关系和良好的交流渠道，无条件地与所有的合作伙伴分享秘猿的最新研究成果。以行业先锋之姿，不断为区块链行业的发展做出贡献。
+我们的网站：https://www.cryptape.com (https://www.cryptape.com/)
+我们的代码：https://www.cryptape.com/code
+
+我们的邮箱：join@cryptape.com
+团队福利
+远程办公:无论你在哪里,我们都可以并肩奋斗!
+弹性工作:无论你是早睡…]]></summary>
+        <author>
+            <name>cryptape0226</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亚马逊海外购：西部数据 10TB/14TB 硬盘价格回落]]></title>
         <id>https://www.appinn.com/?p=39121</id>
