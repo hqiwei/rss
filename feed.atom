@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T18:10:04.612Z</updated>
+    <updated>2021-06-22T19:08:17.511Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12988,35 +12988,6 @@ Serverless 的使用规模
         <summary type="html"><![CDATA[项目的进度管理、风险控制，是很多项目负责人购买项目管理工具的核心原因之一，但面对市场上几十上百个的项目管理工具软件，到底哪个更好更适合自己，我们很难去一一调研体验。参考一些权威机构发布的产品测评排行榜]]></summary>
         <author>
             <name>开发者推荐账号</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go Web 路由处理利器 gorilla/mux 库]]></title>
-        <id>https://gocn.vip/topics/12107</id>
-        <link href="https://gocn.vip/topics/12107"/>
-        <updated>2021-05-24T06:42:06.000Z</updated>
-        <summary type="html"><![CDATA[1. gorilla/mux 是什么？
-gorilla/mux 是用来处理路由请求和请求对应的方法的映射关系的包，简单地说，gorilla/mux 就是把收到的请求与一组预先定义的 URL 路径列表做对比，然后在匹配到路径的时候调用关联的处理器（Handler）。
-2. 为什么那么受欢迎？
-gorilla/mux  在标准库 net/http 之上开发的，因此 gorilla/mux 比较能干，标准能干的也能干，不能干的也能干；标准库在运行效率上占优，gorilla/mux 在开发效率上占优；，gorilla/mux 是目前功能最为强大的路由包之一，它提供功能全面而强大,这也是它连续多年成为使用率最高的 Go 第三方包的原因。
-3. 什么时候用到它？
-gorilla/mux 的路由解析所采用的是精准匹配规则，标准库 net/http 采用的是长度优先匹配规则，精准匹配是只会匹配准确指定的路由，而长度优先匹配不支持动态元素，也就是不支持正则以及 URL 路径参数，只能匹配字符数较多的路由；开发 Web，API 时路由一般时动态的，路由参数会跟着访问对象不同而不同，这是 gorilla/mux 恰好满足了这种精准路由匹配需求。
-在知名的路由包中 gorilla/mux 的功能比较强大，使用相对简单且很实，历史也非常悠久，可以放心去使用。
-4. 怎么使用它？
-使用前要安装它，安装要在当前项目所在目录中执行 go get -u github.com/gorilla/mux 即可。
-安装完写一个 Web 应用示例：
-package main
-
-import (
-    "fmt"
-    "net/http"
-
-    "github.com/gorilla/mux"
-)
-
-func homeHandler(w http.ResponseWriter, r *http.Request…]]></summary>
-        <author>
-            <name>Aklman</name>
         </author>
     </entry>
 </feed>
