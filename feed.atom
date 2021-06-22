@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T04:11:38.108Z</updated>
+    <updated>2021-06-22T05:12:21.175Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TiDB 在网易游戏的应用实践]]></title>
+        <id>https://gocn.vip/topics/12228</id>
+        <link href="https://gocn.vip/topics/12228"/>
+        <updated>2021-06-22T04:11:53.000Z</updated>
+        <summary type="html"><![CDATA[作者介绍： 李文杰，网易互娱高级数据库工程师，TUG 2019 年度和 2020 年度 MVA。主要负责大数据研发和数据分析工作，为产品提供精细化运营指导；同时在部门内推广使用 TiDB，为业务上云及数据库分布式化积累经验和探索最优方案，目前是 TiDB 管理小组负责人。
+本文整理自 TUG 网易线上企业行活动，由网易游戏高级数据库工程师李文杰老师分享，主要介绍分布式数据库 TiDB 在网易游戏的应用实践经验。
+网易游戏最开始引入 TiDB 是从 AP 的角度来进行使用的。在第一次使用 TiDB 时，我们把跑批业务这种计算量比较大的任务迁移到 TiDB 上面。在迁移过程中，如果跑的任务量比较大，相信很多人会遇到 “transaction too large” 报错这个问题。
+TiDB 事务限制
+
+经过一番排查发现，由于分布式事务要做两阶段提交，并且底层还需要做 Raft 复制，如果一个事务非常大，会使得提交过程非常慢，并且会卡住下面的 Raft 复制流程。为了避免系统出现被卡住的情况，TiDB 对事务的大小做了限制，具体限制的内容有单事务的 SQL 语句数、KV 键值对数目和大小、单 KV 键值对大小等。
+知道这个限制后，我们就可以找到了解决办法，即把大的事务按业务的需求切分为多个小事务分批执行，这样之前跑失败的 SQL 就能成功运行了，而且在 MySQL/Oracle 中的跑批程序，也都成功迁移到了 TiDB。
+
+同时，我们不得不思考，在没有问题的时候，程序可以跑得非常顺畅，但是当机房中出现网络问题，或是出现其他的故障时，就会出现一部分数据写入到了 TiDB 中，而另外一部分数据是没有写入的。在场景中的表现是一个事务的执行没有能够保证其原子性，只执行了其中一部分，有一部分成功，有一部分失败了。
+经排查发现，这是因为我们手动开启了事务切分，这种情况下大事务的原子性就无法保证…]]></summary>
+        <author>
+            <name>TiDB_Robot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[消息中间件：为什么我们选择 RocketMQ]]></title>
         <id>https://gocn.vip/topics/12227</id>
@@ -12937,36 +12956,6 @@ func homeHandler(w http.ResponseWriter, r *http.Request…]]></summary>
         <summary type="html"><![CDATA[作为 Android 开发者，我们致力于打造让世界各地的用户们满意的体验。如今，用户比以往任何时候都更依赖您的应用，对您的期望也越来越高，您作为开发者的工作也越来越不易。今天在 Google I/O 大会上，我们介绍了一些能帮到大家的新举措，其中就包括 Android 12 - 这是 Android 有史以来最大的设计变更之一；以及 Jetpac...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跨平台开源 SSH 桌面终端 Electerm 1.13.1 x64 中文免费版]]></title>
-        <id>http://www.dayanzai.me/?p=765</id>
-        <link href="http://www.dayanzai.me/electerm.html"/>
-        <updated>2021-05-23T16:25:50.000Z</updated>
-        <summary type="html"><![CDATA[跨平台开源 SSH 桌面终端 Electerm 中文版由大眼仔旭（www.dayanzai.me）整理发布。通 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VSDC 视频编辑器 VSDC Video Editor 6.7.1.292 x64 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=41641</id>
-        <link href="http://www.dayanzai.me/vsdc-video-editor.html"/>
-        <updated>2021-05-23T16:25:21.000Z</updated>
-        <summary type="html"><![CDATA[VSDC Video Editor Pro 是由大眼仔旭（www.dayanzai.me）发布的一款功能丰富的 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯音乐播放软件 AIMP 4.70 Build 2251 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=7311</id>
-        <link href="http://www.dayanzai.me/aimp.html"/>
-        <updated>2021-05-23T16:25:18.000Z</updated>
-        <summary type="html"><![CDATA[AIMP 中文版由大眼仔旭（www.dayanzai.me）发布，AIMP 绿色版是一款来自俄罗斯的音乐播放软 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
         </author>
     </entry>
 </feed>
