@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T09:09:26.924Z</updated>
+    <updated>2021-06-22T10:10:38.930Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rocky Linux 8.4 发布]]></title>
+        <id>https://www.oschina.net/news/147179/rocky-linux-8-4-ga-released</id>
+        <link href="https://www.oschina.net/news/147179/rocky-linux-8-4-ga-released"/>
+        <updated>2021-06-22T09:24:55.000Z</updated>
+        <summary type="html"><![CDATA[Rocky Linux 8.4 现已正式发布。Rocky Linux 是一个社区版的企业操作系统，旨在与 Red Hat Enterprise Linux 8.4 实现 100% 的 bug-for-bug 兼容。官方表示，由于这是 Rocky Linux 的第一个版本，所以发布说明只反映了各版本之间上游功能的变化。且不支持从 Rocky Linux 8.3 RC1、Rocky Linux 8.4 RC1 或任何其他候选版本...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[360 集团亮相 openEuler 开发者大会，以 360 安全大脑护航开源生态发展]]></title>
+        <id>https://www.oschina.net/news/147177</id>
+        <link href="https://www.oschina.net/news/147177"/>
+        <updated>2021-06-22T09:14:19.000Z</updated>
+        <summary type="html"><![CDATA[6月10日，由openEuler社区、华为、飞腾、麒麟信安等单位联合主办，三六零安全科技股份有限公司（以下简称：360集团，股票代码：601360）参与协办的openEuler Developer Day2021在北京正式召开。本次大会以“发现最好的我们，创造最好的OS”为主题，旨在推动openEuler社区在多样性算力、云原生全栈、全场景协同等技术发展...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[青藤携手 CNCF：面向未来，加快云原生安全发展进程]]></title>
         <id>https://www.oschina.net/news/147174</id>

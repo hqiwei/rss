@@ -5216,6 +5216,24 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/147179/rocky-linux-8-4-ga-released",
+          "author": null,
+          "description": "Rocky Linux 8.4 现已正式发布。Rocky Linux 是一个社区版的企业操作系统，旨在与 Red Hat Enterprise Linux 8.4 实现 100% 的 bug-for-bug 兼容。官方表示，由于这是 Rocky Linux 的第一个版本，所以发布说明只反映了各版本之间上游功能的变化。且不支持从 Rocky Linux 8.3 RC1、Rocky Linux 8.4 RC1 或任何其他候选版本...",
+          "link": "https://www.oschina.net/news/147179/rocky-linux-8-4-ga-released",
+          "publishedOn": "2021-06-22T09:24:55.000Z",
+          "wordCount": 654,
+          "title": "Rocky Linux 8.4 发布"
+        },
+        {
+          "id": "https://www.oschina.net/news/147177",
+          "author": null,
+          "description": "6月10日，由openEuler社区、华为、飞腾、麒麟信安等单位联合主办，三六零安全科技股份有限公司（以下简称：360集团，股票代码：601360）参与协办的openEuler Developer Day2021在北京正式召开。本次大会以“发现最好的我们，创造最好的OS”为主题，旨在推动openEuler社区在多样性算力、云原生全栈、全场景协同等技术发展...",
+          "link": "https://www.oschina.net/news/147177",
+          "publishedOn": "2021-06-22T09:14:19.000Z",
+          "wordCount": 515,
+          "title": "360 集团亮相 openEuler 开发者大会，以 360 安全大脑护航开源生态发展"
+        },
+        {
           "id": "https://www.oschina.net/news/147174",
           "author": null,
           "description": "近期，国内领先的云原生安全厂商青藤加入云原生计算基金会CNCF(Cloud Native Computing Foundation)。未来，青藤将与CNCF紧密合作，积极推动云原生安全行业的发展，向各行业输出面向未来的创新性技术。 据悉，CNCF是目前在云原生应用领域最具影响力的非营利性组织，隶属于Linux基金会。自2015年成立以来，始终致力于帮助...",
