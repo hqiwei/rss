@@ -4777,69 +4777,6 @@
           "publishedOn": "2021-05-24T04:13:34.000Z",
           "wordCount": 95,
           "title": "华为转投第三大CPU架构RISC-V？首款鸿蒙开发板曝光"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85683",
-          "author": "Editor, Kai",
-          "description": "Linuxeden开源社区-开源美图 2021 05 24",
-          "link": "http://www.linuxeden.com/a/85683",
-          "publishedOn": "2021-05-24T00:29:38.000Z",
-          "wordCount": 83,
-          "title": "开源美图 2021 05 24"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85681",
-          "author": "Editor, Kai",
-          "description": "benchpress Commit Description 28ee9864a4 fix(benchpress): update the check for start and end events (#42085) compiler Co […]",
-          "link": "http://www.linuxeden.com/a/85681",
-          "publishedOn": "2021-05-24T00:28:46.000Z",
-          "wordCount": 169,
-          "title": "Angular 12.0.1发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85679",
-          "author": "Editor, Kai",
-          "description": "Feature ActionBarIcon: 新增 icon-prefix 属性 #8748 Calendar: 新增 over-range 事件 #8739 Calendar: 新增 show-range-prompt 属性 #8739  […]",
-          "link": "http://www.linuxeden.com/a/85679",
-          "publishedOn": "2021-05-24T00:26:57.000Z",
-          "wordCount": 155,
-          "title": "Vant 3.0.17发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85676",
-          "author": "Editor, Kai",
-          "description": "Feature Uploader: max-size 属性支持函数格式 #8745 Bug Fixes Button: 修复 loading 状态下点击按钮会提交表单的问题 #8735 修复函数式组件未继承 key 的问题 #8718 转自 […]",
-          "link": "http://www.linuxeden.com/a/85676",
-          "publishedOn": "2021-05-24T00:26:00.000Z",
-          "wordCount": 92,
-          "title": "Vant 2.12.20 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85672",
-          "author": "Editor, Kai",
-          "description": "PyPI 充斥着以流行电影命名的垃圾软件包，其通常与提供盗版下载的盗版网站有关。这些软件包都是由一个独特的假名维护者账户发布的，这使得 PyPI 要一次性删除这些软件包和垃圾账户变得非常困难。除了包含垃圾关键词和视频流网站的链接外，这些软件 […]",
-          "link": "http://www.linuxeden.com/a/85672",
-          "publishedOn": "2021-05-24T00:22:46.000Z",
-          "wordCount": 97,
-          "title": "Python 官方软件包库 PyPI 正被垃圾软件包淹没"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85669",
-          "author": "Editor, Kai",
-          "description": "Perl 语言宣布发布 Perl 5.34.0。5.34 与 5.32 相距 11 个月，包含了来自 78 名作者的大约 28 万行代码变更。主要变化包括：实验性的 try/catch 语法，正则表达式量词允许空下界，新八进制语法 0odd […]",
-          "link": "http://www.linuxeden.com/a/85669",
-          "publishedOn": "2021-05-24T00:22:05.000Z",
-          "wordCount": 92,
-          "title": "Perl 5.34.0 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85667",
-          "author": "Editor, Kai",
-          "description": "FUSE Mount Support multiple filers! #2015 #1531 Filer Receate grpc connections if having transport error #2070 Waits in  […]",
-          "link": "http://www.linuxeden.com/a/85667",
-          "publishedOn": "2021-05-24T00:18:06.000Z",
-          "wordCount": 214,
-          "title": "Seaweedfs 2.49发布"
         }
       ]
     },
@@ -8355,51 +8292,6 @@
           "publishedOn": "2021-05-24T01:52:09.000Z",
           "wordCount": 554,
           "title": "StreamX v1.0.0 发布，Flink 开发脚手架、流批一体平台"
-        },
-        {
-          "id": "https://www.oschina.net/news/142853/centos-sig-centos-stream-rhel",
-          "author": null,
-          "description": "随着 CentOS Stream 成为红帽企业 Linux（RHEL）的上游，一个由红帽利益相关者推动的 CentOS 特别兴趣小组也正在形成。日前，CentOS Stream 功能请求小组已被公开提出，并且经由 CentOS 董事会投票通过。 这个特殊的兴趣小组是为了确保由社区/非红帽成员提出的有趣的功能能够得到评估，并可以进入下一个 RHEL 版本。同时...",
-          "link": "https://www.oschina.net/news/142853/centos-sig-centos-stream-rhel",
-          "publishedOn": "2021-05-24T00:46:33.000Z",
-          "wordCount": 522,
-          "title": "CentOS SIG 可帮助社区将 CentOS Stream 功能纳入 RHEL 中"
-        },
-        {
-          "id": "https://www.oschina.net/news/142852/steve-wozniak-faces-copyright-infringe",
-          "author": null,
-          "description": "近日根据多家外媒报道，苹果公司的联合创始人史蒂夫·沃兹尼亚克（Steve Wozniak）因涉嫌窃取「建立以他的名字命名学校的想法」而面临一百万美元的诉讼。 康涅狄格州的商业教授 Ralph Reilly 声称，他和沃兹尼亚克早前达成了建立一所 \"科技大学\" 的共识，并在 2011 年通过在镜头前的握手的形式达成了协议。这个教育平台旨...",
-          "link": "https://www.oschina.net/news/142852/steve-wozniak-faces-copyright-infringe",
-          "publishedOn": "2021-05-24T00:36:10.000Z",
-          "wordCount": 489,
-          "title": "苹果联合创始人史蒂夫·沃兹尼亚克，因窃取他人创意面临侵权诉讼"
-        },
-        {
-          "id": "https://www.oschina.net/news/142851/facebook-ai-wav2vec-u",
-          "author": null,
-          "description": "Facebook 宣布推出 wav2vec Unsupervised (wav2vec-U)，一种建立根本不需要转录数据的语音识别系统的方法。并表示，它可以与几年前的最佳监督模型的性能相媲美，这些模型是在近 1000 小时的转录语音上训练出来的。他们已经用斯瓦希里语和鞑靼语等语言对 wav2vec-U 进行了测试；因为缺乏广泛的标记训练数据集，这些语言目...",
-          "link": "https://www.oschina.net/news/142851/facebook-ai-wav2vec-u",
-          "publishedOn": "2021-05-24T00:31:07.000Z",
-          "wordCount": 494,
-          "title": "Facebook AI 新成果，无需人类转录即可学习语音"
-        },
-        {
-          "id": "https://www.oschina.net/news/142850/pypi-with-spam-packages",
-          "author": null,
-          "description": "Python 官方软件库 PyPI 正被垃圾软件包所淹没。这些软件包以不同的电影或电视剧的名称命名，通常与托管盗版内容的山寨和 torrent 网站有关。 这些软件包中每一个都由唯一的维护者帐户发布，这使得 PyPI 一次删除所有软件包和垃圾帐户具有挑战性。 当 Sonatype 的高级软件工程师 Adam Boesch 在审核一个数据集时，注意到...",
-          "link": "https://www.oschina.net/news/142850/pypi-with-spam-packages",
-          "publishedOn": "2021-05-24T00:22:39.000Z",
-          "wordCount": 494,
-          "title": "PyPI 正被大量的垃圾软件包所淹没"
-        },
-        {
-          "id": "https://www.oschina.net/news/142849/summer-2021",
-          "author": null,
-          "description": "社区就位 109 /877 COMMUNITY/PROJECT 开源软件供应链点亮计划-暑期2021（简称暑期2021）是一项专门面向高校学生的开源项目开发活动，旨在鼓励在校学生积极参与开源软件的开发维护，促进优秀开源社区的蓬勃发展。暑期2021由中国科学院软件研究所与openEuler社区主办，中科院软件研究所南京软件技术研究院承办，开源社、s...",
-          "link": "https://www.oschina.net/news/142849/summer-2021",
-          "publishedOn": "2021-05-24T00:18:15.000Z",
-          "wordCount": 499,
-          "title": "109 家社区 877 个项目就绪，学生申请通道开通"
         }
       ]
     },
