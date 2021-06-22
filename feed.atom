@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T19:08:17.511Z</updated>
+    <updated>2021-06-22T20:09:42.577Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12968,26 +12968,6 @@ Serverless 的使用规模
         <summary type="html"><![CDATA[让 .NET 开发更简单，更通用，更流行。 版本序言 经过上百次版本的迭代改进，Furion 日渐稳定完善，使用者也是指数增长，目前总增速保持在每天 15K 的下载量，QQ 交流群也超过 6400+ 人，每天的增速保持在 30/天。 以后再有人问：“你们 C# 有什么拿得出手的框架不？“，可以自豪的回答：”Furion“。 本期亮点 1、框架启...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LANDrop – 类 AirDrop 跨平台局域网文件传输工具]]></title>
-        <id>https://www.appinn.com/?p=38878</id>
-        <link href="https://www.appinn.com/landrop-files-transfer-tools/"/>
-        <updated>2021-05-24T07:55:51.000Z</updated>
-        <summary type="html"><![CDATA[LANDrop 是一款类 AirDrop 的跨平台，局域网文件传输工具，只要在一个局域网下，就能自动发现设备和传输文件，支持 Windows、macOS、Linux 系统和 iOS、Android 平]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[团队项目进度跟踪难？延期风险高？国内企服排行榜第一的通用项目管理工具在这里了]]></title>
-        <id>https://www.appinn.com/?p=38872</id>
-        <link href="https://www.appinn.com/worktile-project-manage/"/>
-        <updated>2021-05-24T07:43:09.000Z</updated>
-        <summary type="html"><![CDATA[项目的进度管理、风险控制，是很多项目负责人购买项目管理工具的核心原因之一，但面对市场上几十上百个的项目管理工具软件，到底哪个更好更适合自己，我们很难去一一调研体验。参考一些权威机构发布的产品测评排行榜]]></summary>
-        <author>
-            <name>开发者推荐账号</name>
         </author>
     </entry>
 </feed>
