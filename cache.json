@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60d2323d6e1a1407b6b0ac4f",
+          "author": null,
+          "description": "Web scraping lets you collect data from web pages across the internet. It's also called web crawling or web data extraction.  PHP is a widely used back-end scripting language for creating dynamic websites and web applications. And you can implement a web scraper using plain PHP code.  But since we",
+          "link": "https://www.freecodecamp.org/news/web-scraping-with-php-crawl-web-pages/",
+          "publishedOn": "2021-06-22T21:11:53.000Z",
+          "wordCount": 2770,
+          "title": "Web Scraping with PHP – How to Crawl Web Pages Using Open Source Tools"
+        },
+        {
           "id": "60cac8ff4dc1a607ed7b4592",
           "author": null,
           "description": "There’s a special syntax you can use in JavaScript that makes working with promises easier. It's called “async/await\", and it’s surprisingly straightforward to understand and use.  In this article, we'll discuss:  What are asynchronus functions? How promises work in JavaScript Async/Await basics How to use",
@@ -1998,15 +2007,6 @@
           "publishedOn": "2021-05-24T13:20:15.000Z",
           "wordCount": 106,
           "title": "GoCN 每日新闻 (2021-05-24)"
-        },
-        {
-          "id": "https://gocn.vip/topics/12109",
-          "author": "alicloudnative",
-          "description": "作者 | 门柳\n来源 | 阿里巴巴云原生公众号\n​\n去年成为了内网技术分享平台的年度作者，受邀写一篇关于 “如何写好文章” 的文章。我本身并不喜欢写字，去年写的几篇文章，涉及的话题自带流量，所以阅读量多了一些，谈不上有多擅长。不过还是决定分享一下自己在写文章时用到的一些小技巧，希望对大家有帮助。\n​\n最重要的是内容\n​\n和所有人强调的一样，好文章最重要的是要有好的内容，好的技术文章要让读者有益。如果你想写一篇爆款文章，但是又觉得没有内容可写，那就不要勉强了，放下笔，合上电脑，有这个时间不如去看书打游戏。\n​\n如何让自己有源源不断的内容可写？这与平时的积累有关，多阅读，多思考，多写作，真正的技巧无外乎这些。方法论层面的东西不再赘述，我重点讲几个具体的小技巧，直接 “授之以鱼”。\n​\n优秀文章的特点\n​\n1.  阅读量 ≠ 文章质量\n​\n有些文章标题比较吸引眼球，有些话题自带流量，有些内容的受众比较广，所以有很高的阅读量，但这并不代表文章本身的质量。\n​\n前几天无意翻到一篇《超长用户行为建模在躺平家居内容推荐中的应用实践》，我觉得写得不错，但是内容我完全看不懂，是专业领域的文章，受众不多，有上千的阅读量就已经很不错了。但是另一篇《如何画好一张架构图？》就有超过 3W 的阅读量。当然反例也有很多，就不再列举了。我自己写的几篇讲技术细节的文章，就没有讲技术对比、讨论技术发展的文章阅读量高。内容越专越细，能读下来的人就越少，但并不代表文章质量不高，反之亦然。\n​\n技术文章盲目追求阅读量和点赞数不是件好事，所以第一个小建议就是不要太关注阅读量和点赞数，写的文章对别人有用，才是最有成就感的。至于除了阅读量和点赞数以外，还有什么指标可以衡量一篇文章的好坏，欢迎大家留言讨论。\n​\n2. 文章要长长长长长长长长长长长长长长长（也别太长）\n​\n我翻了几篇阿里技术公众号里阅读量较高的文章，各种话题…",
-          "link": "https://gocn.vip/topics/12109",
-          "publishedOn": "2021-05-24T09:15:06.000Z",
-          "wordCount": 254,
-          "title": "程序员写好技术文章的几点小技巧"
         }
       ]
     },
