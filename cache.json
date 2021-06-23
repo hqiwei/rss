@@ -1944,6 +1944,24 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=86816",
+          "author": "Editor, Kai",
+          "description": "用 Eleventy 建立一个静态网站 自由/开源软件如何保护在线隐私 OpenDocument Format 1.3被批准为OASIS标准格式 Subtitld: 一个跨平台的开源字幕编辑器 华为程序员频繁提交不重要Linux内核补丁遭质 […]",
+          "link": "http://www.linuxeden.com/a/86816",
+          "publishedOn": "2021-06-23T15:13:29.000Z",
+          "wordCount": 87,
+          "title": "每日文章精选 2021 06 23"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86814",
+          "author": "Editor, Kai",
+          "description": "Eleventy 是一个基于 JavaScript 的 Jekyll 和 Hugo 的替代品，用于构建静态网站。 静态网站生成器是一种基于原始数据和一组模板生成完整的静态 HTML 网站的工具。它可以自动完成单个 HTML 页面的编码任务， […]",
+          "link": "http://www.linuxeden.com/a/86814",
+          "publishedOn": "2021-06-23T15:12:15.000Z",
+          "wordCount": 268,
+          "title": "用 Eleventy 建立一个静态网站"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86806",
           "author": "Editor, Kai",
           "description": "多年来，我一直使用科技巨头提供的服务。大部分都是免费的，但是是以牺牲我的隐私为代价的。但那些日子已经过去了，现在我浏览、聊天、工作，没有任何人能跟踪、变现和审查我的数据。多亏了自由/开源软件。 我开始担心大型科技公司了 我一直觉得机器应该按 […]",
@@ -8211,24 +8229,6 @@
           "publishedOn": "2021-05-25T23:43:34.000Z",
           "wordCount": 494,
           "title": "Microsoft Edge 浏览器将支持快速启动和标签睡眠"
-        },
-        {
-          "id": "https://www.oschina.net/news/143016/streamnative-opensource-function-mesh",
-          "author": null,
-          "description": "Apache Pulsar 商业化公司 StreamNative 郑重宣布开源 Function Mesh。Function Mesh 是为事件流应用程序构建的无服务框架，为在 Kubernetes 上运行的复杂事件流任务管理 Pulsar Functions 和 Pulsar I/O connector，增强应用程序的事件流功能。 Function Mesh 简介 Function Mesh 是一种 Kubernetes operator，助力用户...",
-          "link": "https://www.oschina.net/news/143016/streamnative-opensource-function-mesh",
-          "publishedOn": "2021-05-25T03:50:58.000Z",
-          "wordCount": 1507,
-          "title": "StreamNative 开源 Function Mesh：简化云上的复杂流任务"
-        },
-        {
-          "id": "https://www.oschina.net/news/143014/fydeos-12-1-released",
-          "author": null,
-          "description": "FydeOS v12.1 是 FydeOS v12 的一次维护和更新版本。在此次发布中，值得注意的变化有： 修复了由于 tpm 芯片造成的在某些设备在 OOBE 时登录账号之后系统提示错误信息并且无法继续的问题。 修复了某些设备通过 OTA 方式升级到 v12 之后安卓子系统可能变得彻底不可用的问题。 修复了某些设备 wifi 无法使用的问题。 修复了...",
-          "link": "https://www.oschina.net/news/143014/fydeos-12-1-released",
-          "publishedOn": "2021-05-25T03:42:16.000Z",
-          "wordCount": 528,
-          "title": "FydeOS for PC v12.1 发布，增加对 Surface Pro 7 的支持"
         }
       ]
     },

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T15:09:28.909Z</updated>
+    <updated>2021-06-23T16:12:54.684Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 06 23]]></title>
+        <id>http://www.linuxeden.com/?p=86816</id>
+        <link href="http://www.linuxeden.com/a/86816"/>
+        <updated>2021-06-23T15:13:29.000Z</updated>
+        <summary type="html"><![CDATA[用 Eleventy 建立一个静态网站 自由/开源软件如何保护在线隐私 OpenDocument Format 1.3被批准为OASIS标准格式 Subtitld: 一个跨平台的开源字幕编辑器 华为程序员频繁提交不重要Linux内核补丁遭质 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 Eleventy 建立一个静态网站]]></title>
+        <id>http://www.linuxeden.com/?p=86814</id>
+        <link href="http://www.linuxeden.com/a/86814"/>
+        <updated>2021-06-23T15:12:15.000Z</updated>
+        <summary type="html"><![CDATA[Eleventy 是一个基于 JavaScript 的 Jekyll 和 Hugo 的替代品，用于构建静态网站。 静态网站生成器是一种基于原始数据和一组模板生成完整的静态 HTML 网站的工具。它可以自动完成单个 HTML 页面的编码任务， […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自由/开源软件如何保护在线隐私]]></title>
         <id>http://www.linuxeden.com/?p=86806</id>
@@ -12812,26 +12832,6 @@ Kubernetes 稳定性保障手册 -- 洞察 + 预案（本文）
         <summary type="html"><![CDATA[CopyTranslator 是一个开源项目，支持 Windows、macOS、Linux 系统，通过多个翻译公共接口实现复制文本后自动翻译，非常适合用来辅助阅读翻译。@Appinn 上一个这么方便的]]></summary>
         <author>
             <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StreamNative 开源 Function Mesh：简化云上的复杂流任务]]></title>
-        <id>https://www.oschina.net/news/143016/streamnative-opensource-function-mesh</id>
-        <link href="https://www.oschina.net/news/143016/streamnative-opensource-function-mesh"/>
-        <updated>2021-05-25T03:50:58.000Z</updated>
-        <summary type="html"><![CDATA[Apache Pulsar 商业化公司 StreamNative 郑重宣布开源 Function Mesh。Function Mesh 是为事件流应用程序构建的无服务框架，为在 Kubernetes 上运行的复杂事件流任务管理 Pulsar Functions 和 Pulsar I/O connector，增强应用程序的事件流功能。 Function Mesh 简介 Function Mesh 是一种 Kubernetes operator，助力用户...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FydeOS for PC v12.1 发布，增加对 Surface Pro 7 的支持]]></title>
-        <id>https://www.oschina.net/news/143014/fydeos-12-1-released</id>
-        <link href="https://www.oschina.net/news/143014/fydeos-12-1-released"/>
-        <updated>2021-05-25T03:42:16.000Z</updated>
-        <summary type="html"><![CDATA[FydeOS v12.1 是 FydeOS v12 的一次维护和更新版本。在此次发布中，值得注意的变化有： 修复了由于 tpm 芯片造成的在某些设备在 OOBE 时登录账号之后系统提示错误信息并且无法继续的问题。 修复了某些设备通过 OTA 方式升级到 v12 之后安卓子系统可能变得彻底不可用的问题。 修复了某些设备 wifi 无法使用的问题。 修复了...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
