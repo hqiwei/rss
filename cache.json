@@ -787,33 +787,6 @@
           "publishedOn": "2021-05-25T16:51:37.000Z",
           "wordCount": 1940,
           "title": "Web Design Best Practices for New Developers – How to Create Portfolio-Worthy Work"
-        },
-        {
-          "id": "60abc6d011ffb70827ef630f",
-          "author": null,
-          "description": "Environment variables are variables that are set outside of a program, often through a cloud provider or operating system.  In Node, environment variables are a great way to securely and conveniently configure things that don't change often, like URLs, authentication keys, and passwords. How to Create Environment VariablesEnvironment variables are",
-          "link": "https://www.freecodecamp.org/news/how-to-use-node-environment-variables-with-a-dotenv-file-for-node-js-and-npm/",
-          "publishedOn": "2021-05-25T00:48:45.000Z",
-          "wordCount": 710,
-          "title": "How to Use Node Environment Variables with a DotEnv File for Node.js and npm"
-        },
-        {
-          "id": "60626dc29618b008528a9589",
-          "author": null,
-          "description": "Walkthrough for Hack The Box Nibbles machine",
-          "link": "https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles/",
-          "publishedOn": "2021-05-25T00:20:22.000Z",
-          "wordCount": 1905,
-          "title": "Keep Calm and Hack The Box – Nibbles"
-        },
-        {
-          "id": "60626dc29618b008528a9589",
-          "author": null,
-          "description": "Walkthrough for Hack The Box Nibbles machine",
-          "link": "https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles-2/",
-          "publishedOn": "2021-05-25T00:20:22.000Z",
-          "wordCount": 1905,
-          "title": "Keep Calm and Hack The Box – Nibbles"
         }
       ]
     },
@@ -4786,42 +4759,6 @@
           "publishedOn": "2021-05-25T13:53:45.000Z",
           "wordCount": 98,
           "title": "Inkscape 1.1 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85725",
-          "author": "Editor, Kai",
-          "description": "Linuxeden开源社区-开源美图 2021 05 25",
-          "link": "http://www.linuxeden.com/a/85725",
-          "publishedOn": "2021-05-25T00:21:33.000Z",
-          "wordCount": 90,
-          "title": "开源美图 2021 05 25"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85721",
-          "author": "Editor, Kai",
-          "description": "Python 之父 Guido 在最近一次新采访中分享了他对其它编程语言的看法，其中有些很有趣： Rust 在一个特定的领域真正改进了 C++，它使绕过编译器的检查变得更加困难。当然，它以一种近乎完美的方式解决了内存分配问题。 在所有的新语 […]",
-          "link": "http://www.linuxeden.com/a/85721",
-          "publishedOn": "2021-05-25T00:17:49.000Z",
-          "wordCount": 128,
-          "title": "Python 之父对 Rust、Go、Julia 和 TypeScript 的看法"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85718",
-          "author": "Editor, Kai",
-          "description": "CMake 是一个跨平台的编译、测试和打包软件，即使你以前从来没有使用过构建系统，也可以轻松上手。 在我以前的文章 Autotools 入门 一文中，我说明了如何使用 Autotools 来管理和打包代码。这是一个强大且通用的平台，可轻松集 […]",
-          "link": "http://www.linuxeden.com/a/85718",
-          "publishedOn": "2021-05-25T00:16:59.000Z",
-          "wordCount": 744,
-          "title": "抛弃 Autotools 向 CMake 迈进吧"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85716",
-          "author": "Editor, Kai",
-          "description": "Features dx: add devtools integration (#1949)   Assets 2 Source code (zip) Source code (tar.gz) 转自 https://github.c […]",
-          "link": "http://www.linuxeden.com/a/85716",
-          "publishedOn": "2021-05-25T00:11:50.000Z",
-          "wordCount": 93,
-          "title": "vuex 4.0.1 发布"
         }
       ]
     },
@@ -8283,33 +8220,6 @@
           "publishedOn": "2021-05-25T03:42:16.000Z",
           "wordCount": 528,
           "title": "FydeOS for PC v12.1 发布，增加对 Surface Pro 7 的支持"
-        },
-        {
-          "id": "https://www.oschina.net/news/142981/mozilla-working-to-make-firefox-feel-like-home-on-macos",
-          "author": null,
-          "description": "根据外媒 Softpedia 的报道，Mozilla 正在致力于改进 Firefox 在所有平台上的使用体验，并且在最近发布的 Nightly 版本提供了一系列专门针对 Apple 用户的改进。也就是说，Mozilla 希望 Firefox 能提供原生般的体验。 Mozilla 最近证实了 macOS 版本的 Firefox 现在支持挤压动画效果，这实际上是用户在滚动页面时到达网站...",
-          "link": "https://www.oschina.net/news/142981/mozilla-working-to-make-firefox-feel-like-home-on-macos",
-          "publishedOn": "2021-05-25T00:50:18.000Z",
-          "wordCount": 480,
-          "title": "Mozilla 正在优化 Firefox 在 macOS 上的使用体验"
-        },
-        {
-          "id": "https://www.oschina.net/news/142979/apple-fix-3-macos-tvos-0-days",
-          "author": null,
-          "description": "Apple 近日发布了相关安全更新，以修复当前易被攻击者利用的三个 macOS 和 tvOS 零日漏洞。 前两个漏洞为 CVE-2021-30663 和 CVE-2021-30665，影响了Apple TV 4K 和 Apple TV HD 设备上的 WebKit 引擎。Webkit 是苹果公司的浏览器渲染引擎，由其网络浏览器和应用程序在其桌面和移动平台上渲染 HTML 内容，包括 iOS、mac...",
-          "link": "https://www.oschina.net/news/142979/apple-fix-3-macos-tvos-0-days",
-          "publishedOn": "2021-05-25T00:20:41.000Z",
-          "wordCount": 494,
-          "title": "Apple 修复了三个 macOS 和 tvOS 零日漏洞"
-        },
-        {
-          "id": "https://my.oschina.net/oscpyaqxylk/blog/5057228",
-          "author": null,
-          "description": "在好买工作的这八年里，我见过不少人每天为了解决焦虑而疲于奔命，虽然忙碌却没有带来财富和积极心态，反而越来越痛苦，越来越疲惫。",
-          "link": "https://my.oschina.net/oscpyaqxylk/blog/5057228",
-          "publishedOn": "2021-05-25T00:11:26.000Z",
-          "wordCount": 526,
-          "title": "干了 8 年技术总监，裸辞加入开源创业公司的头哥"
         }
       ]
     },

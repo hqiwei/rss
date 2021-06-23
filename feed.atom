@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T12:11:07.944Z</updated>
+    <updated>2021-06-23T13:12:39.343Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12851,106 +12851,6 @@ COO 揭发参与了多家世界 500 强和国内互联网巨头系统架构解�
 工作地点：北京海淀区量子芯座；上海黄浦区日月光中心]]></summary>
         <author>
             <name>pipi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla 正在优化 Firefox 在 macOS 上的使用体验]]></title>
-        <id>https://www.oschina.net/news/142981/mozilla-working-to-make-firefox-feel-like-home-on-macos</id>
-        <link href="https://www.oschina.net/news/142981/mozilla-working-to-make-firefox-feel-like-home-on-macos"/>
-        <updated>2021-05-25T00:50:18.000Z</updated>
-        <summary type="html"><![CDATA[根据外媒 Softpedia 的报道，Mozilla 正在致力于改进 Firefox 在所有平台上的使用体验，并且在最近发布的 Nightly 版本提供了一系列专门针对 Apple 用户的改进。也就是说，Mozilla 希望 Firefox 能提供原生般的体验。 Mozilla 最近证实了 macOS 版本的 Firefox 现在支持挤压动画效果，这实际上是用户在滚动页面时到达网站...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Node Environment Variables with a DotEnv File for Node.js and npm]]></title>
-        <id>60abc6d011ffb70827ef630f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-node-environment-variables-with-a-dotenv-file-for-node-js-and-npm/"/>
-        <updated>2021-05-25T00:48:45.000Z</updated>
-        <summary type="html"><![CDATA[Environment variables are variables that are set outside of a program, often through a cloud provider or operating system.  In Node, environment variables are a great way to securely and conveniently configure things that don't change often, like URLs, authentication keys, and passwords. How to Create Environment VariablesEnvironment variables are]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源美图 2021 05 25]]></title>
-        <id>http://www.linuxeden.com/?p=85725</id>
-        <link href="http://www.linuxeden.com/a/85725"/>
-        <updated>2021-05-25T00:21:33.000Z</updated>
-        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 05 25]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple 修复了三个 macOS 和 tvOS 零日漏洞]]></title>
-        <id>https://www.oschina.net/news/142979/apple-fix-3-macos-tvos-0-days</id>
-        <link href="https://www.oschina.net/news/142979/apple-fix-3-macos-tvos-0-days"/>
-        <updated>2021-05-25T00:20:41.000Z</updated>
-        <summary type="html"><![CDATA[Apple 近日发布了相关安全更新，以修复当前易被攻击者利用的三个 macOS 和 tvOS 零日漏洞。 前两个漏洞为 CVE-2021-30663 和 CVE-2021-30665，影响了Apple TV 4K 和 Apple TV HD 设备上的 WebKit 引擎。Webkit 是苹果公司的浏览器渲染引擎，由其网络浏览器和应用程序在其桌面和移动平台上渲染 HTML 内容，包括 iOS、mac...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keep Calm and Hack The Box – Nibbles]]></title>
-        <id>60626dc29618b008528a9589</id>
-        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles/"/>
-        <updated>2021-05-25T00:20:22.000Z</updated>
-        <summary type="html"><![CDATA[Walkthrough for Hack The Box Nibbles machine]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keep Calm and Hack The Box – Nibbles]]></title>
-        <id>60626dc29618b008528a9589</id>
-        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles-2/"/>
-        <updated>2021-05-25T00:20:22.000Z</updated>
-        <summary type="html"><![CDATA[Walkthrough for Hack The Box Nibbles machine]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 之父对 Rust、Go、Julia 和 TypeScript 的看法]]></title>
-        <id>http://www.linuxeden.com/?p=85721</id>
-        <link href="http://www.linuxeden.com/a/85721"/>
-        <updated>2021-05-25T00:17:49.000Z</updated>
-        <summary type="html"><![CDATA[Python 之父 Guido 在最近一次新采访中分享了他对其它编程语言的看法，其中有些很有趣： Rust 在一个特定的领域真正改进了 C++，它使绕过编译器的检查变得更加困难。当然，它以一种近乎完美的方式解决了内存分配问题。 在所有的新语 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抛弃 Autotools 向 CMake 迈进吧]]></title>
-        <id>http://www.linuxeden.com/?p=85718</id>
-        <link href="http://www.linuxeden.com/a/85718"/>
-        <updated>2021-05-25T00:16:59.000Z</updated>
-        <summary type="html"><![CDATA[CMake 是一个跨平台的编译、测试和打包软件，即使你以前从来没有使用过构建系统，也可以轻松上手。 在我以前的文章 Autotools 入门 一文中，我说明了如何使用 Autotools 来管理和打包代码。这是一个强大且通用的平台，可轻松集 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vuex 4.0.1 发布]]></title>
-        <id>http://www.linuxeden.com/?p=85716</id>
-        <link href="http://www.linuxeden.com/a/85716"/>
-        <updated>2021-05-25T00:11:50.000Z</updated>
-        <summary type="html"><![CDATA[Features dx: add devtools integration (#1949)   Assets 2 Source code (zip) Source code (tar.gz) 转自 https://github.c […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[干了 8 年技术总监，裸辞加入开源创业公司的头哥]]></title>
-        <id>https://my.oschina.net/oscpyaqxylk/blog/5057228</id>
-        <link href="https://my.oschina.net/oscpyaqxylk/blog/5057228"/>
-        <updated>2021-05-25T00:11:26.000Z</updated>
-        <summary type="html"><![CDATA[在好买工作的这八年里，我见过不少人每天为了解决焦虑而疲于奔命，虽然忙碌却没有带来财富和积极心态，反而越来越痛苦，越来越疲惫。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
