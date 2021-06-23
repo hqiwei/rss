@@ -8391,33 +8391,6 @@
           "publishedOn": "2021-05-24T23:09:08.000Z",
           "wordCount": 525,
           "title": "Gitee 推荐 | MQTT 消息代理 Broker-SMQTT"
-        },
-        {
-          "id": "https://www.oschina.net/news/142968/rhel-8-4-released",
-          "author": null,
-          "description": "RHEL 8.4 已于 5 月 19 日向客户全面推出。8.4 版本为混合云、边缘部署带来了重要功能，并为运营商、开发商和 RHEL 标准化组织带来了增强功能。 边缘计算 在 RHEL 8.3 中，红帽宣布了一个 RHEL 的部署选项，以帮助解决边缘计算环境中常见的挑战。在 8.4 版本中，在原基础上改进了 RHEL 的边缘计算功能的用户体验。 RHEL...",
-          "link": "https://www.oschina.net/news/142968/rhel-8-4-released",
-          "publishedOn": "2021-05-24T23:00:44.000Z",
-          "wordCount": 554,
-          "title": "RHEL 8.4 发布"
-        },
-        {
-          "id": "https://www.oschina.net/news/142967/parceljs2-beta3-released",
-          "author": null,
-          "description": "Parcel 2 beta 3 已于上周发布，这是一款 Web 应用打包工具，它通过利用多核处理提供了极快的速度，并且不需要任何配置。 新版本的亮点包括： 使用 Rust 彻底重写 JavaScript 编译器，整体构建性能提升 10 倍 动态导入 Tree shaking 支持 tree shaking CSS 模块 支持按需构建 (lazy development builds) 减少依赖项 ……...",
-          "link": "https://www.oschina.net/news/142967/parceljs2-beta3-released",
-          "publishedOn": "2021-05-24T22:59:07.000Z",
-          "wordCount": 593,
-          "title": "Parcel 2 beta 3 发布，极速零配置 Web 应用打包工具"
-        },
-        {
-          "id": "https://www.oschina.net/news/142966/netbsd-9-2-released",
-          "author": null,
-          "description": "NetBSD 9.2“Nakatomi Socrates”已发布，这是 NetBSD 9 发布分支的第二次更新。它代表了自 2020 年 10 月 NetBSD 9.1 发布以来，由于安全或稳定性原因而被认为是重要的修正的子集，以及一些从开发分支回传的改进。它与 NetBSD 9.0 完全兼容。 NetBSD 是一个免费的、安全的及高度可移植的类 UNIX 操作系统，它适合于很多...",
-          "link": "https://www.oschina.net/news/142966/netbsd-9-2-released",
-          "publishedOn": "2021-05-24T22:58:16.000Z",
-          "wordCount": 832,
-          "title": "NetBSD 9.2 发布"
         }
       ]
     },
@@ -8426,6 +8399,24 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=34242",
+          "author": "大眼仔~旭",
+          "description": "AMD 驱动下载新功能的发布可能比通常的假期时间晚了一点，但是 AMD Radeon Software 的大规 […]",
+          "link": "http://www.dayanzai.me/amd-adrenalin.html",
+          "publishedOn": "2021-06-22T17:31:58.000Z",
+          "wordCount": 677,
+          "title": "AMD 显卡驱动 AMD Adrenalin 2020 Edition 21.6.1 正式版发布！"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=16020",
+          "author": "大眼仔~旭",
+          "description": "nVIDIA GeForce Game Ready Driver 中文版由大眼仔旭（www.dayanzai. […]",
+          "link": "http://www.dayanzai.me/nvidia-driver.html",
+          "publishedOn": "2021-06-22T16:27:18.000Z",
+          "wordCount": 837,
+          "title": "英伟达游戏显卡驱动 nVIDIA GeForce Game Ready Driver 471.11 + x64 位"
+        },
         {
           "id": "http://www.dayanzai.me/?p=14455",
           "author": "大眼仔~旭",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T10:10:35.253Z</updated>
+    <updated>2021-06-23T11:08:26.034Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -332,6 +332,26 @@ Go 缺失的一个关键特性是泛型。缺少这个特性，Go 的函数库�
         <summary type="html"><![CDATA[Web scraping lets you collect data from web pages across the internet. It's also called web crawling or web data extraction.  PHP is a widely used back-end scripting language for creating dynamic websites and web applications. And you can implement a web scraper using plain PHP code.  But since we]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD 显卡驱动 AMD Adrenalin 2020 Edition 21.6.1 正式版发布！]]></title>
+        <id>http://www.dayanzai.me/?p=34242</id>
+        <link href="http://www.dayanzai.me/amd-adrenalin.html"/>
+        <updated>2021-06-22T17:31:58.000Z</updated>
+        <summary type="html"><![CDATA[AMD 驱动下载新功能的发布可能比通常的假期时间晚了一点，但是 AMD Radeon Software 的大规 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达游戏显卡驱动 nVIDIA GeForce Game Ready Driver 471.11 + x64 位]]></title>
+        <id>http://www.dayanzai.me/?p=16020</id>
+        <link href="http://www.dayanzai.me/nvidia-driver.html"/>
+        <updated>2021-06-22T16:27:18.000Z</updated>
+        <summary type="html"><![CDATA[nVIDIA GeForce Game Ready Driver 中文版由大眼仔旭（www.dayanzai. […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
@@ -13019,36 +13039,6 @@ COO 揭发参与了多家世界 500 强和国内互联网巨头系统架构解�
         <link href="https://gitee.com/quickmsg/mqtt-cluster"/>
         <updated>2021-05-24T23:09:08.000Z</updated>
         <summary type="html"><![CDATA[一款高性能、高吞吐量、高扩展性的 mqtt 集群 broker。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RHEL 8.4 发布]]></title>
-        <id>https://www.oschina.net/news/142968/rhel-8-4-released</id>
-        <link href="https://www.oschina.net/news/142968/rhel-8-4-released"/>
-        <updated>2021-05-24T23:00:44.000Z</updated>
-        <summary type="html"><![CDATA[RHEL 8.4 已于 5 月 19 日向客户全面推出。8.4 版本为混合云、边缘部署带来了重要功能，并为运营商、开发商和 RHEL 标准化组织带来了增强功能。 边缘计算 在 RHEL 8.3 中，红帽宣布了一个 RHEL 的部署选项，以帮助解决边缘计算环境中常见的挑战。在 8.4 版本中，在原基础上改进了 RHEL 的边缘计算功能的用户体验。 RHEL...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parcel 2 beta 3 发布，极速零配置 Web 应用打包工具]]></title>
-        <id>https://www.oschina.net/news/142967/parceljs2-beta3-released</id>
-        <link href="https://www.oschina.net/news/142967/parceljs2-beta3-released"/>
-        <updated>2021-05-24T22:59:07.000Z</updated>
-        <summary type="html"><![CDATA[Parcel 2 beta 3 已于上周发布，这是一款 Web 应用打包工具，它通过利用多核处理提供了极快的速度，并且不需要任何配置。 新版本的亮点包括： 使用 Rust 彻底重写 JavaScript 编译器，整体构建性能提升 10 倍 动态导入 Tree shaking 支持 tree shaking CSS 模块 支持按需构建 (lazy development builds) 减少依赖项 ……...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NetBSD 9.2 发布]]></title>
-        <id>https://www.oschina.net/news/142966/netbsd-9-2-released</id>
-        <link href="https://www.oschina.net/news/142966/netbsd-9-2-released"/>
-        <updated>2021-05-24T22:58:16.000Z</updated>
-        <summary type="html"><![CDATA[NetBSD 9.2“Nakatomi Socrates”已发布，这是 NetBSD 9 发布分支的第二次更新。它代表了自 2020 年 10 月 NetBSD 9.1 发布以来，由于安全或稳定性原因而被认为是重要的修正的子集，以及一些从开发分支回传的改进。它与 NetBSD 9.0 完全兼容。 NetBSD 是一个免费的、安全的及高度可移植的类 UNIX 操作系统，它适合于很多...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>
