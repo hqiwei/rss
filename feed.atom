@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T05:07:49.227Z</updated>
-    <generator>osmosfeed 1.10.2</generator>
+    <updated>2021-06-23T06:10:36.844Z</updated>
+    <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OPPO 加入 LF AI & Data 基金会，持续推动可持续生态建设]]></title>
+        <id>https://www.oschina.net/news/147359/oppo-join-lfai-data-foundation</id>
+        <link href="https://www.oschina.net/news/147359/oppo-join-lfai-data-foundation"/>
+        <updated>2021-06-23T05:43:30.000Z</updated>
+        <summary type="html"><![CDATA[OPPO将支持人工智能与数据领域的技术发展，与合作伙伴共建一个公平、强大、健康的AI开源生态体系。 2021年6月22日，OPPO正式以理事会白金会员身份加入LF AI & Data基金会。未来，OPPO将与其他高级成员一道，致力于构建领先的全球人工智能与数据开源开放社区，加速人工智能与数据技术的创新发展与实际应用。 LF AI & Data...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-23)]]></title>
         <id>https://gocn.vip/topics/12234</id>

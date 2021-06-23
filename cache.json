@@ -5234,6 +5234,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/147359/oppo-join-lfai-data-foundation",
+          "author": null,
+          "description": "OPPO将支持人工智能与数据领域的技术发展，与合作伙伴共建一个公平、强大、健康的AI开源生态体系。 2021年6月22日，OPPO正式以理事会白金会员身份加入LF AI & Data基金会。未来，OPPO将与其他高级成员一道，致力于构建领先的全球人工智能与数据开源开放社区，加速人工智能与数据技术的创新发展与实际应用。 LF AI & Data...",
+          "link": "https://www.oschina.net/news/147359/oppo-join-lfai-data-foundation",
+          "publishedOn": "2021-06-23T05:43:30.000Z",
+          "wordCount": 526,
+          "title": "OPPO 加入 LF AI & Data 基金会，持续推动可持续生态建设"
+        },
+        {
           "id": "https://www.oschina.net/news/147332/risc-v-processor-xiangshan",
           "author": null,
           "description": "昨日在上海举办的首届 RISC-V 中国峰会上，中科院计算所宣布了一款开源的高性能 RISC-V 处理器 —— 香山。 香山是一款开源的高性能 RISC-V 处理器，基于 Chisel 硬件设计语言实现，支持 RV64GC 指令集。在香山处理器的开发过程中，团队使用了包括 Chisel、Verilator 等在内的大量开源工具，实现了差分验证、仿真快照、R...",
@@ -9326,5 +9335,5 @@
       ]
     }
   ],
-  "cliVersion": "1.10.2"
+  "cliVersion": "1.11.0"
 }
