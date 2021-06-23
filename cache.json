@@ -4894,24 +4894,6 @@
           "publishedOn": "2021-05-24T14:30:30.000Z",
           "wordCount": 97,
           "title": "每日文章精选 2021 05 24"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85697",
-          "author": "Editor, Kai",
-          "description": "比较 tmux、GNU Screen、Konsole 和 Terminator，看看哪个最适合你。 Linux 用户通常需要大量的虚拟视觉空间。一个终端窗口是永远不够的，所以终端有了标签。一个桌面太受限制了，所以有了虚拟桌面。当然，应用程序 […]",
-          "link": "http://www.linuxeden.com/a/85697",
-          "publishedOn": "2021-05-24T14:15:29.000Z",
-          "wordCount": 344,
-          "title": "4 款值得一试的 Linux 终端多路复用器"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85691",
-          "author": "Editor, Kai",
-          "description": "Zen锐龙时代(包括更早的七代APU)，AMD处理器一直坚持使用AM4封装接口不变，兼容性友好，备受好评。 不过这么多年，AMD处理器一直都是PGA针脚式接口，很多人觉得这种太脆弱，经常出现针脚弯折，甚至拔掉散热器带出处理器的尴尬。 Int […]",
-          "link": "http://www.linuxeden.com/a/85691",
-          "publishedOn": "2021-05-24T14:10:03.000Z",
-          "wordCount": 90,
-          "title": "AMD Zen4接口AM5曝光：改用LGA触点式、告别脆弱的针脚"
         }
       ]
     },

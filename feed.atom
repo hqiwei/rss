@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T01:44:31.937Z</updated>
+    <updated>2021-06-23T02:21:09.016Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -13085,26 +13085,6 @@ COO 揭发参与了多家世界 500 强和国内互联网巨头系统架构解�
         <link href="http://www.linuxeden.com/a/85703"/>
         <updated>2021-05-24T14:30:30.000Z</updated>
         <summary type="html"><![CDATA[4 款值得一试的 Linux 终端多路复用器 AMD Zen4接口AM5曝光：改用LGA触点式、告别脆弱的针脚 华为转投第三大CPU架构RISC-V？首款鸿蒙开发板曝光 Angular 12.0.1发布 Python 官方软件包库 PyPI […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 款值得一试的 Linux 终端多路复用器]]></title>
-        <id>http://www.linuxeden.com/?p=85697</id>
-        <link href="http://www.linuxeden.com/a/85697"/>
-        <updated>2021-05-24T14:15:29.000Z</updated>
-        <summary type="html"><![CDATA[比较 tmux、GNU Screen、Konsole 和 Terminator，看看哪个最适合你。 Linux 用户通常需要大量的虚拟视觉空间。一个终端窗口是永远不够的，所以终端有了标签。一个桌面太受限制了，所以有了虚拟桌面。当然，应用程序 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Zen4接口AM5曝光：改用LGA触点式、告别脆弱的针脚]]></title>
-        <id>http://www.linuxeden.com/?p=85691</id>
-        <link href="http://www.linuxeden.com/a/85691"/>
-        <updated>2021-05-24T14:10:03.000Z</updated>
-        <summary type="html"><![CDATA[Zen锐龙时代(包括更早的七代APU)，AMD处理器一直坚持使用AM4封装接口不变，兼容性友好，备受好评。 不过这么多年，AMD处理器一直都是PGA针脚式接口，很多人觉得这种太脆弱，经常出现针脚弯折，甚至拔掉散热器带出处理器的尴尬。 Int […]]]></summary>
         <author>
             <name>Editor, Kai</name>
         </author>
