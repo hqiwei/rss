@@ -2016,6 +2016,87 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=86790",
+          "author": "Editor, Kai",
+          "description": "字幕可以使观看视频的体验更加完美。你不需要一定理解视频的语言，字幕可以帮助你用你喜欢的文字来弄清楚正在发生什么。 你在流媒体平台上找到的大部分内容都有字幕，你可能需要为一些你在本地收藏的视频添加字幕。 虽然你可以通过简单地下载 SRT 文件 […]",
+          "link": "http://www.linuxeden.com/a/86790",
+          "publishedOn": "2021-06-23T00:27:53.000Z",
+          "wordCount": 155,
+          "title": "Subtitld: 一个跨平台的开源字幕编辑器"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86788",
+          "author": "Editor, Kai",
+          "description": "On behalf of the team, I’m pleased to announce the availability of the Spring Data service 2021.0.2 and 2020.0.10 releas […]",
+          "link": "http://www.linuxeden.com/a/86788",
+          "publishedOn": "2021-06-23T00:24:16.000Z",
+          "wordCount": 341,
+          "title": "Spring Data 2021.0.2 和2020.0.10 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86786",
+          "author": "Editor, Kai",
+          "description": "On behalf of the community, I’m pleased to announce the release of Spring Security 5.5.1 (release notes), 5.4.7 (release […]",
+          "link": "http://www.linuxeden.com/a/86786",
+          "publishedOn": "2021-06-23T00:23:37.000Z",
+          "wordCount": 140,
+          "title": "Spring Security 5.5.1, 5.4.7, 5.3.10 和5.2.11发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86780",
+          "author": "Editor, Kai",
+          "description": "近日业界盛传，Intel计划以20亿美元收购RISC-V IP供应商SiFive——后者的产品已被80多家公司采纳，设计了200多种产品，出货量极大，广泛用于各种加速器。 虽然双方对于收购都拒绝置评，但深入合作已经展开。 Intel官方宣布 […]",
+          "link": "http://www.linuxeden.com/a/86780",
+          "publishedOn": "2021-06-23T00:22:41.000Z",
+          "wordCount": 84,
+          "title": "Intel官宣开发RISC-V处理器：明年首发7nm工艺"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86762",
+          "author": "Editor, Kai",
+          "description": "这两天，一封名为《不要提交刷KPI的patches来浪费管理员时间》的邮件“火”了！发出之后，直接冲上了Linux内核邮件列表的“热榜”第一。邮件中矛头直指华为。一名内核管理员在邮件中称，最近收到不少邮件后缀名为@huawei.com的pa […]",
+          "link": "http://www.linuxeden.com/a/86762",
+          "publishedOn": "2021-06-23T00:19:13.000Z",
+          "wordCount": 113,
+          "title": "华为程序员频繁提交不重要Linux内核补丁遭质疑刷KPI 当事人回应"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86760",
+          "author": "Editor, Kai",
+          "description": "Please refer to CHANGELOG.md for details. 1 person reacted 👍 1   Assets 2 Source code (zip) Source code (ta […]",
+          "link": "http://www.linuxeden.com/a/86760",
+          "publishedOn": "2021-06-23T00:17:24.000Z",
+          "wordCount": 101,
+          "title": "Vue  3.1.2 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86758",
+          "author": "Editor, Kai",
+          "description": "Bug Fixes button: buttons using fill and color properties now account for hover and focused opacity variables (#23442) ( […]",
+          "link": "http://www.linuxeden.com/a/86758",
+          "publishedOn": "2021-06-23T00:16:43.000Z",
+          "wordCount": 148,
+          "title": "Ionic 5.6.10 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86756",
+          "author": "Editor, Kai",
+          "description": "Fixes Fixed an issue with PDF loading on Windows, where metadata was not loading correctly and causing the PDF to load a […]",
+          "link": "http://www.linuxeden.com/a/86756",
+          "publishedOn": "2021-06-23T00:15:36.000Z",
+          "wordCount": 356,
+          "title": "Electron v13.1.4 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86754",
+          "author": "Editor, Kai",
+          "description": "Tuesday, 22 June 2021. Today KDE releases a bugfix update to KDE Plasma 5, versioned 5.22.2. Plasma 5.22 was released in […]",
+          "link": "http://www.linuxeden.com/a/86754",
+          "publishedOn": "2021-06-23T00:12:16.000Z",
+          "wordCount": 176,
+          "title": "KDE Plasma 5.22.2发布"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86750",
           "author": "Editor, Kai",
           "description": "Vulkan API加持：英伟达明日推送面向Linux游戏的DLSS支持 W3C发布Web神经网络API工作草案 Linux基金会推出开放语音网络（Open Voice Network） ImageMagick-7.1.0-1发布 探索 K […]",
@@ -5179,6 +5260,51 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://gitee.com/fastdfs100/FastCFS",
+          "author": null,
+          "description": "基于块存储的高性能通用分布式文件系统，可以作为数据库（MySQL、PostgresSQL、Oracle 等）以及 k8s 和虚拟机（KVM 等）的后端存储。",
+          "link": "https://gitee.com/fastdfs100/FastCFS",
+          "publishedOn": "2021-06-22T23:13:03.000Z",
+          "wordCount": 471,
+          "title": "Gitee 新晋 GVP：高性能分布式文件系统 FastCFS"
+        },
+        {
+          "id": "https://my.oschina.net/vivotech/blog/5084122",
+          "author": null,
+          "description": "SPI 全称为 Service Provider Interface，对应中文为服务发现机制。SPI 类似一种可插拔机制，首先需要定义一个接口或一个约定，然后不同的场景可以对其进行实现，调用方在使用的时候无需过多关注具体的实现细节。",
+          "link": "https://my.oschina.net/vivotech/blog/5084122",
+          "publishedOn": "2021-06-22T23:10:30.000Z",
+          "wordCount": 1019,
+          "title": "每日一博 | 详解 Apache Dubbo 的 SPI 实现机制"
+        },
+        {
+          "id": "https://gitee.com/gitee-community/gitee-8th-collections-producer/blob/master/%E6%98%9F%E9%80%89%E9%9B%86%E4%BD%9C%E5%93%81%E5%B1%95%E7%A4%BA.md",
+          "author": null,
+          "description": "87份优秀开源项目集合任你挑选～",
+          "link": "https://gitee.com/gitee-community/gitee-8th-collections-producer/blob/master/%E6%98%9F%E9%80%89%E9%9B%86%E4%BD%9C%E5%93%81%E5%B1%95%E7%A4%BA.md",
+          "publishedOn": "2021-06-22T23:08:22.000Z",
+          "wordCount": 1713,
+          "title": "优秀开源项目集合！快来 pick 你心仪的星选集"
+        },
+        {
+          "id": "https://www.oschina.net/question/2483929_2322861",
+          "author": null,
+          "description": "对于多租户系统，目前业界有哪些成熟的方案？",
+          "link": "https://www.oschina.net/question/2483929_2322861",
+          "publishedOn": "2021-06-22T23:07:27.000Z",
+          "wordCount": 193,
+          "title": "多租户系统如何设计？"
+        },
+        {
+          "id": "https://www.oschina.net/p/baget",
+          "author": null,
+          "description": "一个轻量级的 NuGet 和 Symbol 服务器，需要安装 Node.js 环境，支持 Docker 部署",
+          "link": "https://www.oschina.net/p/baget",
+          "publishedOn": "2021-06-22T23:04:29.000Z",
+          "wordCount": 665,
+          "title": "BaGet —— 轻量级 NuGet 和 Symbol 服务器"
+        },
         {
           "id": "https://www.oschina.net/p/slsa",
           "author": null,

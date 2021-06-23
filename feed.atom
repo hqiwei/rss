@@ -2,10 +2,150 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T23:09:03.078Z</updated>
+    <updated>2021-06-23T00:29:43.366Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Subtitld: 一个跨平台的开源字幕编辑器]]></title>
+        <id>http://www.linuxeden.com/?p=86790</id>
+        <link href="http://www.linuxeden.com/a/86790"/>
+        <updated>2021-06-23T00:27:53.000Z</updated>
+        <summary type="html"><![CDATA[字幕可以使观看视频的体验更加完美。你不需要一定理解视频的语言，字幕可以帮助你用你喜欢的文字来弄清楚正在发生什么。 你在流媒体平台上找到的大部分内容都有字幕，你可能需要为一些你在本地收藏的视频添加字幕。 虽然你可以通过简单地下载 SRT 文件 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Data 2021.0.2 和2020.0.10 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86788</id>
+        <link href="http://www.linuxeden.com/a/86788"/>
+        <updated>2021-06-23T00:24:16.000Z</updated>
+        <summary type="html"><![CDATA[On behalf of the team, I’m pleased to announce the availability of the Spring Data service 2021.0.2 and 2020.0.10 releas […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Security 5.5.1, 5.4.7, 5.3.10 和5.2.11发布]]></title>
+        <id>http://www.linuxeden.com/?p=86786</id>
+        <link href="http://www.linuxeden.com/a/86786"/>
+        <updated>2021-06-23T00:23:37.000Z</updated>
+        <summary type="html"><![CDATA[On behalf of the community, I’m pleased to announce the release of Spring Security 5.5.1 (release notes), 5.4.7 (release […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel官宣开发RISC-V处理器：明年首发7nm工艺]]></title>
+        <id>http://www.linuxeden.com/?p=86780</id>
+        <link href="http://www.linuxeden.com/a/86780"/>
+        <updated>2021-06-23T00:22:41.000Z</updated>
+        <summary type="html"><![CDATA[近日业界盛传，Intel计划以20亿美元收购RISC-V IP供应商SiFive——后者的产品已被80多家公司采纳，设计了200多种产品，出货量极大，广泛用于各种加速器。 虽然双方对于收购都拒绝置评，但深入合作已经展开。 Intel官方宣布 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为程序员频繁提交不重要Linux内核补丁遭质疑刷KPI 当事人回应]]></title>
+        <id>http://www.linuxeden.com/?p=86762</id>
+        <link href="http://www.linuxeden.com/a/86762"/>
+        <updated>2021-06-23T00:19:13.000Z</updated>
+        <summary type="html"><![CDATA[这两天，一封名为《不要提交刷KPI的patches来浪费管理员时间》的邮件“火”了！发出之后，直接冲上了Linux内核邮件列表的“热榜”第一。邮件中矛头直指华为。一名内核管理员在邮件中称，最近收到不少邮件后缀名为@huawei.com的pa […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue  3.1.2 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86760</id>
+        <link href="http://www.linuxeden.com/a/86760"/>
+        <updated>2021-06-23T00:17:24.000Z</updated>
+        <summary type="html"><![CDATA[Please refer to CHANGELOG.md for details. 1 person reacted 👍 1   Assets 2 Source code (zip) Source code (ta […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ionic 5.6.10 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86758</id>
+        <link href="http://www.linuxeden.com/a/86758"/>
+        <updated>2021-06-23T00:16:43.000Z</updated>
+        <summary type="html"><![CDATA[Bug Fixes button: buttons using fill and color properties now account for hover and focused opacity variables (#23442) ( […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electron v13.1.4 发布]]></title>
+        <id>http://www.linuxeden.com/?p=86756</id>
+        <link href="http://www.linuxeden.com/a/86756"/>
+        <updated>2021-06-23T00:15:36.000Z</updated>
+        <summary type="html"><![CDATA[Fixes Fixed an issue with PDF loading on Windows, where metadata was not loading correctly and causing the PDF to load a […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 5.22.2发布]]></title>
+        <id>http://www.linuxeden.com/?p=86754</id>
+        <link href="http://www.linuxeden.com/a/86754"/>
+        <updated>2021-06-23T00:12:16.000Z</updated>
+        <summary type="html"><![CDATA[Tuesday, 22 June 2021. Today KDE releases a bugfix update to KDE Plasma 5, versioned 5.22.2. Plasma 5.22 was released in […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitee 新晋 GVP：高性能分布式文件系统 FastCFS]]></title>
+        <id>https://gitee.com/fastdfs100/FastCFS</id>
+        <link href="https://gitee.com/fastdfs100/FastCFS"/>
+        <updated>2021-06-22T23:13:03.000Z</updated>
+        <summary type="html"><![CDATA[基于块存储的高性能通用分布式文件系统，可以作为数据库（MySQL、PostgresSQL、Oracle 等）以及 k8s 和虚拟机（KVM 等）的后端存储。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 详解 Apache Dubbo 的 SPI 实现机制]]></title>
+        <id>https://my.oschina.net/vivotech/blog/5084122</id>
+        <link href="https://my.oschina.net/vivotech/blog/5084122"/>
+        <updated>2021-06-22T23:10:30.000Z</updated>
+        <summary type="html"><![CDATA[SPI 全称为 Service Provider Interface，对应中文为服务发现机制。SPI 类似一种可插拔机制，首先需要定义一个接口或一个约定，然后不同的场景可以对其进行实现，调用方在使用的时候无需过多关注具体的实现细节。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[优秀开源项目集合！快来 pick 你心仪的星选集]]></title>
+        <id>https://gitee.com/gitee-community/gitee-8th-collections-producer/blob/master/%E6%98%9F%E9%80%89%E9%9B%86%E4%BD%9C%E5%93%81%E5%B1%95%E7%A4%BA.md</id>
+        <link href="https://gitee.com/gitee-community/gitee-8th-collections-producer/blob/master/%E6%98%9F%E9%80%89%E9%9B%86%E4%BD%9C%E5%93%81%E5%B1%95%E7%A4%BA.md"/>
+        <updated>2021-06-22T23:08:22.000Z</updated>
+        <summary type="html"><![CDATA[87份优秀开源项目集合任你挑选～]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多租户系统如何设计？]]></title>
+        <id>https://www.oschina.net/question/2483929_2322861</id>
+        <link href="https://www.oschina.net/question/2483929_2322861"/>
+        <updated>2021-06-22T23:07:27.000Z</updated>
+        <summary type="html"><![CDATA[对于多租户系统，目前业界有哪些成熟的方案？]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BaGet —— 轻量级 NuGet 和 Symbol 服务器]]></title>
+        <id>https://www.oschina.net/p/baget</id>
+        <link href="https://www.oschina.net/p/baget"/>
+        <updated>2021-06-22T23:04:29.000Z</updated>
+        <summary type="html"><![CDATA[一个轻量级的 NuGet 和 Symbol 服务器，需要安装 Node.js 环境，支持 Docker 部署]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SLSA —— 软件供应链完整性框架]]></title>
         <id>https://www.oschina.net/p/slsa</id>
