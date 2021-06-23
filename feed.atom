@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T04:10:57.473Z</updated>
+    <updated>2021-06-23T05:07:49.227Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -13051,36 +13051,6 @@ COO 揭发参与了多家世界 500 强和国内互联网巨头系统架构解�
         <summary type="html"><![CDATA[Software testing is an important part of the software development process. You run tests at different stages of the software development life cycle, and you'll want to make sure that you have good test coverage.  Here are some key reasons for writing software tests:  Testing prevents you from introducing breaking]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻量化渲染系统 SimLab Composer 10.20 x64 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=35827</id>
-        <link href="http://www.dayanzai.me/simlab-composer.html"/>
-        <updated>2021-05-24T16:39:04.000Z</updated>
-        <summary type="html"><![CDATA[轻量化渲染系统 SimLab Composer x64 中文版由大眼仔旭（www.dayanzai.me）发布 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文档内容搜索工具 AnyTXT Searcher 1.2.509 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=12105</id>
-        <link href="http://www.dayanzai.me/anytxt-searcher.html"/>
-        <updated>2021-05-24T16:27:43.000Z</updated>
-        <summary type="html"><![CDATA[文档内容搜索工具 AnyTXT Searcher 中文版由大眼仔旭（www.dayanzai.me）发布。An […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免费开源截图共享工具 ShareX 13.5.0 官方中文免费版]]></title>
-        <id>http://www.dayanzai.me/?p=30042</id>
-        <link href="http://www.dayanzai.me/sharex.html"/>
-        <updated>2021-05-24T16:22:53.000Z</updated>
-        <summary type="html"><![CDATA[免费开源截图共享工具 ShareX 13 官方中文版由大眼仔旭（www.dayanzai.me）发布。Shar […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
         </author>
     </entry>
 </feed>
