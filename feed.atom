@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T11:08:26.034Z</updated>
+    <updated>2021-06-23T12:11:07.944Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12949,96 +12949,6 @@ COO 揭发参与了多家世界 500 强和国内互联网巨头系统架构解�
         <link href="https://my.oschina.net/oscpyaqxylk/blog/5057228"/>
         <updated>2021-05-25T00:11:26.000Z</updated>
         <summary type="html"><![CDATA[在好买工作的这八年里，我见过不少人每天为了解决焦虑而疲于奔命，虽然忙碌却没有带来财富和积极心态，反而越来越痛苦，越来越疲惫。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electron  10.4.7 发布]]></title>
-        <id>http://www.linuxeden.com/?p=85714</id>
-        <link href="http://www.linuxeden.com/a/85714"/>
-        <updated>2021-05-25T00:09:50.000Z</updated>
-        <summary type="html"><![CDATA[Other Changes Security: backported fixes for CVE-2021-30518, CVE-2021-30516, CVE-2021-30515, CVE-2021-30513, CVE-2021-30 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Pi发布新一代以太网供电（PoE）HAT模块 售价20美元]]></title>
-        <id>http://www.linuxeden.com/?p=85709</id>
-        <link href="http://www.linuxeden.com/a/85709"/>
-        <updated>2021-05-25T00:07:36.000Z</updated>
-        <summary type="html"><![CDATA[加入Raspberry Pi家族的最新产品是一个新的Raspberry Pi PoE+ HAT，这个版本功能更强，运行时温度更低，并首次兼容802.11at PoE+标准，这意味着它可以向联网设备提供高达25W的功率。 以前的树莓派HAT型 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深度学习模型库入门：情感分析—EmotionDetection]]></title>
-        <id>https://www.paddlepaddle.org.cn/modelbasedetail/EmotionDetection</id>
-        <link href="https://www.paddlepaddle.org.cn/modelbasedetail/EmotionDetection"/>
-        <updated>2021-05-25T00:07:31.000Z</updated>
-        <summary type="html"><![CDATA[对话情绪识别（Emotion Detection，简称EmoTect），专注于识别智能对话场景中用户的情绪，针对智能对话场景中的用户文本，自动判断该文本的情绪类别并给出相应的置信度，情绪类型分为积极、消极、中性。 对话情绪识别适用于聊天、客服等多个场景，能够帮助企业更好地把握对话质量、改善产品的用户交互体验，也能分析客服...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为启动鸿蒙OS高校人才培育计划 将推动超15款鸿蒙课程走入高校]]></title>
-        <id>http://www.linuxeden.com/?p=85705</id>
-        <link href="http://www.linuxeden.com/a/85705"/>
-        <updated>2021-05-25T00:05:46.000Z</updated>
-        <summary type="html"><![CDATA[在今日举行首届HarmonyOS开发者创新大赛颁奖典礼，华为正式宣布启动HarmonyOS高校人才培育计划，将推动超过15款HarmonyOS课程走入高校。“从主机时代、PC时代一直到移动互联网时代，开发者引领信息化革命的每一步。即将到来的 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 发布首个没有 Internet Explorer 的 Windows 10 版本]]></title>
-        <id>https://www.oschina.net/news/142975/microsoft-release-win10-without-ie</id>
-        <link href="https://www.oschina.net/news/142975/microsoft-release-win10-without-ie"/>
-        <updated>2021-05-24T23:37:35.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 在开发渠道的 Windows Insiders 中发布了第一个没有 Internet Explorer 网络浏览器的 Windows 10 版本。 在过去的一年里，Microsoft 已经做出了数个放弃 IE 支持的举动，比如宣布 Microsoft 365 在线服务结束对 IE 的支持。上周三，Microsoft 正式宣布 Internet Explorer 11 将从 Windows 10 版本中永久退役，...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软改进 Edge 浏览器密码健康功能]]></title>
-        <id>https://www.oschina.net/news/142974/edge-gets-an-improved-password-monitor</id>
-        <link href="https://www.oschina.net/news/142974/edge-gets-an-improved-password-monitor"/>
-        <updated>2021-05-24T23:31:04.000Z</updated>
-        <summary type="html"><![CDATA[微软近日表示将更新 Edge 浏览器上的密码监视器，为密码监视器增加了一些有用的功能，以帮助用户跟踪强度较弱、重复使用和泄露的密码。 微软表示，从 Microsoft Edge 91 开始，浏览器将向用户反馈使用的哪些密码是强度较弱的或将同一密码跨多个网站重复使用，甚至是在密码发生泄漏后，第一时间提醒你。这将使用户能够及时...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KubeOperator —— 开源轻量级 Kubernetes 发行版]]></title>
-        <id>https://www.oschina.net/p/kubeoperator</id>
-        <link href="https://www.oschina.net/p/kubeoperator"/>
-        <updated>2021-05-24T23:28:18.000Z</updated>
-        <summary type="html"><![CDATA[KubeOperator 提供可视化的 Web UI，支持离线环境，支持物理机、VMware 和 OpenStack 等 IaaS 平台，支持 x86_64 和 arm64 架构，支持 GPU，内置应用商店。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日一博 | React 事件系统是如何工作的？]]></title>
-        <id>https://my.oschina.net/jill1231/blog/5057885</id>
-        <link href="https://my.oschina.net/jill1231/blog/5057885"/>
-        <updated>2021-05-24T23:11:45.000Z</updated>
-        <summary type="html"><![CDATA[在浏览器中，我们通过事件监听来实现 JS 和 HTML 之间的交互。一个页面往往会被绑定许许多多的事件，而页面接收事件的顺序，就是事件流。若按 W3C 标准，一个事件的传播过程要经过三个阶段……]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitee 推荐 | MQTT 消息代理 Broker-SMQTT]]></title>
-        <id>https://gitee.com/quickmsg/mqtt-cluster</id>
-        <link href="https://gitee.com/quickmsg/mqtt-cluster"/>
-        <updated>2021-05-24T23:09:08.000Z</updated>
-        <summary type="html"><![CDATA[一款高性能、高吞吐量、高扩展性的 mqtt 集群 broker。]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>
