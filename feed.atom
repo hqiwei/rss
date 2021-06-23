@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T09:08:03.339Z</updated>
+    <updated>2021-06-23T10:10:35.253Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -13051,16 +13051,6 @@ COO 揭发参与了多家世界 500 强和国内互联网巨头系统架构解�
         <summary type="html"><![CDATA[NetBSD 9.2“Nakatomi Socrates”已发布，这是 NetBSD 9 发布分支的第二次更新。它代表了自 2020 年 10 月 NetBSD 9.1 发布以来，由于安全或稳定性原因而被认为是重要的修正的子集，以及一些从开发分支回传的改进。它与 NetBSD 9.0 完全兼容。 NetBSD 是一个免费的、安全的及高度可移植的类 UNIX 操作系统，它适合于很多...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Small and Sustainable Habits to Get Your First Dev Job]]></title>
-        <id>60aaba5911ffb70827ef5ffc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-small-sustainable-habits-to-get-your-first-dev-job/"/>
-        <updated>2021-05-24T21:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Achieving a big goal like transitioning into a new career can be extremely challenging and overwhelming. The amount of information isn't the problem. We have access to more information than we ever have. The problem is knowing how to effectively execute on the information available to us. The more I]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
