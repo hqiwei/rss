@@ -2,10 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T00:29:43.366Z</updated>
+    <updated>2021-06-23T01:44:31.937Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[使用 Go 泛型的函数式编程]]></title>
+        <id>https://gocn.vip/topics/12233</id>
+        <link href="https://gocn.vip/topics/12233"/>
+        <updated>2021-06-23T01:16:37.000Z</updated>
+        <summary type="html"><![CDATA[使用 Go 泛型的函数式编程
+原文地址：https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/
+
+原文作者：Ani Channarasappa
+
+
+本文永久链接：https://github.com/gocn/translator/blob/master/2021/w24_functional_programming_in_go_with_generics.md
+
+
+译者：cvley
+
+
+
+时间：2021年5月25日
+函数式编程是很多语言正在支持或已经支持的日渐流行的编程范式。Go 已经支持了其中一部分的特性，比如头等函数和更高阶功能的支持，使函数式编程成为可能。
+Go 缺失的一个关键特性是泛型。缺少这个特性，Go 的函数库和应用不得不从下面的两种方法中选择一种：类型安全 + 特定使用场景或类型不安全 + 未知使用场景。在 2022 年初即将发布的 Go 1.18 版本，泛型将被加进来，从而使 Go 支持新型的函数式编程形式。
+在本篇文章中，我将介绍一些函数式编程的背景，Go 函数式编程的现状调查，并讨论 Go 1.18 计划的特性以及如何将它们用于函数式编程。
+背景
+什么是函数式编程？
+维基百科中定义的函数式编程是：
+通过应用组合函数的编程范式。
+更具体的说，函数式编程有以下几个关键特征：
+  纯函数 - 使用相同的输入总是返回无共享状态、可变数据或副作用的相同输出的函数
+  不可变数据 - 数据创建后不会再被分配或修改
+  函数组合 - 组合多个函数对数据进行处理逻辑
+  声明式而非指令式 - 表示的是函数的处理方式而无需定义 如何完成
+对于函数式编程更详细的信息，可以参考这两篇有详细描述例子的文章：函数式编程是什么？和函数式的 Go
+函数式编程的优势是什么？
+函数式编程是让开发者提升…]]></summary>
+        <author>
+            <name>jokerbugs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[W3C 发布 Web Neural Network API 工作草案]]></title>
+        <id>https://www.oschina.net/news/147307/w3c-neural-network-api-draft</id>
+        <link href="https://www.oschina.net/news/147307/w3c-neural-network-api-draft"/>
+        <updated>2021-06-23T01:09:09.000Z</updated>
+        <summary type="html"><![CDATA[W3C 发布了 Web Neural Network API（简称为 "WebNN"）的公开工作草案。该 JavaScript API 由 W3C 和部分利益相关者开发，作为一种允许通过浏览器进行神经网络推理硬件加速的手段。 W3C 在今年早些时候成立了一个 Web 机器学习工作组 (web machine learning working group)。谷歌和微软是参与该工作组的公司之一，他们希...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为 Linux 内核贡献者被批评刷 KPI 后续]]></title>
+        <id>https://www.oschina.net/news/147304/huawei-linux-kernel-kpi-jerk-ending</id>
+        <link href="https://www.oschina.net/news/147304/huawei-linux-kernel-kpi-jerk-ending"/>
+        <updated>2021-06-23T00:36:57.000Z</updated>
+        <summary type="html"><![CDATA[华为 Linux 内核贡献者 Leizhen 近日在邮件列表回复了此前被批评刷 API 一事。 他在邮件中提到自己过去对内核的主要贡献是优化 ARM64 SMMU 驱动的性能，包括 iova 优化、严格模式优化以及懒模式优化。此外还参与 ARM SoC 驱动的开发。而在时间和精力允许的情况下，他也为 Linux 内核的其他模块进行贡献，尝试找到可以改进...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qt 发布 Android 自动驾驶技术预览]]></title>
+        <id>https://www.oschina.net/news/147303/qt-publish-qaa-preview</id>
+        <link href="https://www.oschina.net/news/147303/qt-publish-qaa-preview"/>
+        <updated>2021-06-23T00:35:58.000Z</updated>
+        <summary type="html"><![CDATA[Qt 官方发文宣布，其 Qt Android Automotive OS 技术预览 (QAA) 现已发布，并可供所有商业 Qt Device Creation 被许可人使用。 QAA 将 Qt 框架和 UI 工具包与 Android 汽车和 Android 绑定，并提供 Qt IVI 框架集成，以帮助汽车制造商开发基于 Android 的人机界面（HMI）和车载信息娱乐系统（IVI）。根据该文，QAA 的主要...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 06 23]]></title>
+        <id>http://www.linuxeden.com/?p=86799</id>
+        <link href="http://www.linuxeden.com/a/86799"/>
+        <updated>2021-06-23T00:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 06 23]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Subtitld: 一个跨平台的开源字幕编辑器]]></title>
         <id>http://www.linuxeden.com/?p=86790</id>
@@ -13029,31 +13107,6 @@ COO 揭发参与了多家世界 500 强和国内互联网巨头系统架构解�
         <summary type="html"><![CDATA[Zen锐龙时代(包括更早的七代APU)，AMD处理器一直坚持使用AM4封装接口不变，兼容性友好，备受好评。 不过这么多年，AMD处理器一直都是PGA针脚式接口，很多人觉得这种太脆弱，经常出现针脚弯折，甚至拔掉散热器带出处理器的尴尬。 Int […]]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoCN 每日新闻 (2021-05-24)]]></title>
-        <id>https://gocn.vip/topics/12110</id>
-        <link href="https://gocn.vip/topics/12110"/>
-        <updated>2021-05-24T13:20:15.000Z</updated>
-        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-05-24)
-懂得取舍才是缓存设计的真谛 https://my.oschina.net/kevwan/blog/5056791
-
-immudb v1.0 released https://www.codenotary.com/blog/immudb-release-1-0/
-
-你知道 Goroutine 是怎么来的吗？ https://mp.weixin.qq.com/s/DZavvanPnRwZMPU-5_wOeg
-
-分布式链路跟踪中的 traceid 和 spanid 代表什么？ https://mp.weixin.qq.com/s/eKbFYwnH4vwgWm6_5sWs3w
-
-Dart Flutter 数据库 ObjectBox 1.0 版本 https://objectbox.io/dart-flutter-database-1_0-release/
-
-
-
-编辑: Max
-订阅新闻: http://tinyletter.com/gocn
-招聘专区: https://gocn.vip/jobs]]></summary>
-        <author>
-            <name>mahuaibo</name>
         </author>
     </entry>
 </feed>
