@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T16:12:54.684Z</updated>
+    <updated>2021-06-23T17:14:12.130Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12822,16 +12822,6 @@ Kubernetes 稳定性保障手册 -- 洞察 + 预案（本文）
 集群架构通…]]></summary>
         <author>
             <name>alicloudnative</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CopyTranslator – 复制文本后自动翻译，支持多种翻译接口]]></title>
-        <id>https://www.appinn.com/?p=38892</id>
-        <link href="https://www.appinn.com/copytranslator/"/>
-        <updated>2021-05-25T04:27:25.000Z</updated>
-        <summary type="html"><![CDATA[CopyTranslator 是一个开源项目，支持 Windows、macOS、Linux 系统，通过多个翻译公共接口实现复制文本后自动翻译，非常适合用来辅助阅读翻译。@Appinn 上一个这么方便的]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
 </feed>
