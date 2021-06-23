@@ -8445,6 +8445,15 @@
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
         {
+          "id": "http://www.dayanzai.me/?p=14455",
+          "author": "大眼仔~旭",
+          "description": "开源免费本地音乐播放器 Dopamine 中文版由大眼仔旭（www.dayanzai.me）发布。Dopami […]",
+          "link": "http://www.dayanzai.me/xmanager.html",
+          "publishedOn": "2021-06-22T16:20:42.000Z",
+          "wordCount": 501,
+          "title": "开源免费本地音乐播放器 Dopamine 2.0.8 中文多语免费版"
+        },
+        {
           "id": "http://www.dayanzai.me/?p=204",
           "author": "大眼仔~旭",
           "description": "开源跨平台专业计算器 Qalculate! 中文版由大眼仔旭（www.dayanzai.me）发布。Qalcu […]",

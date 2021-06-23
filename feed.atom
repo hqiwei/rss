@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T06:10:36.844Z</updated>
+    <updated>2021-06-23T07:08:48.665Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -332,6 +332,16 @@ Go 缺失的一个关键特性是泛型。缺少这个特性，Go 的函数库�
         <summary type="html"><![CDATA[There’s a special syntax you can use in JavaScript that makes working with promises easier. It's called “async/await", and it’s surprisingly straightforward to understand and use.  In this article, we'll discuss:  What are asynchronus functions? How promises work in JavaScript Async/Await basics How to use]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源免费本地音乐播放器 Dopamine 2.0.8 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=14455</id>
+        <link href="http://www.dayanzai.me/xmanager.html"/>
+        <updated>2021-06-22T16:20:42.000Z</updated>
+        <summary type="html"><![CDATA[开源免费本地音乐播放器 Dopamine 中文版由大眼仔旭（www.dayanzai.me）发布。Dopami […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
