@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T02:19:50.913Z</updated>
+    <updated>2021-06-24T03:11:06.622Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开源项目的 5 年长跑，runc v1.0 终于正式发布！]]></title>
+        <id>https://my.oschina.net/jiayou9020/blog/5087515</id>
+        <link href="https://my.oschina.net/jiayou9020/blog/5087515"/>
+        <updated>2021-06-24T02:37:17.000Z</updated>
+        <summary type="html"><![CDATA[本文我来分享下与我们（搞容器化/K8S 从业者）息息相关的一个基础项目 runc 是如何自 2016 年发布了 v1.0.0-rc1 到现在历经 5 年长跑，从 rc1 一直到 rc95 ，如今终于正式发布 v1.0 版本的过程，及这中间的故事。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[杀毒软件 McAfee 创始人 John McAfee 自杀]]></title>
         <id>https://www.oschina.net/news/147467/john-mcafee-dead</id>
@@ -12926,52 +12936,6 @@ https://github.com/tal-tech/go-zero
         <summary type="html"><![CDATA[自动关机辅助工具 Shutdown Timer Classic 中文版 由大眼仔旭（www.dayanzai. […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoCN 每日新闻 (2021-05-25)]]></title>
-        <id>https://gocn.vip/topics/12115</id>
-        <link href="https://gocn.vip/topics/12115"/>
-        <updated>2021-05-25T14:41:33.000Z</updated>
-        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-05-25)
-Go 编码安全指南 https://github.com/Tencent/secguide/blob/main/Go%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97.md
-
-私钥安全分发工具 cocert https://github.com/Dentrax/cocert
-
-两年 Go 经验学到的东西 https://sayedalesawy.hashnode.dev/top-5-lessons-i-learned-while-working-with-go-for-two-years
-
-Go 如何进行栈追踪 https://github.com/DataDog/go-profiler-notes/blob/main/stack-traces.md
-
-Linux 中的 macOS 子系统 lima https://github.com/AkihiroSuda/lima
-
-
-
-编辑: lwhile
-订阅新闻: http://tinyletter.com/gocn
-招聘专区: https://gocn.vip/jobs
-GoCN 归档: https://gocn.vip/topics/12115]]></summary>
-        <author>
-            <name>lwhile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日文章精选 2021 05 25]]></title>
-        <id>http://www.linuxeden.com/?p=85738</id>
-        <link href="http://www.linuxeden.com/a/85738"/>
-        <updated>2021-05-25T14:33:30.000Z</updated>
-        <summary type="html"><![CDATA[对 JavaScript 构建工具的 6 个预测 Git 中上下文切换的 4 种方式 Apache Apisix 2.6 发布 Inkscape 1.1 发布 Python 之父对 Rust、Go、Julia 和 TypeScript 的看 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对 JavaScript 构建工具的 6 个预测]]></title>
-        <id>http://www.linuxeden.com/?p=85736</id>
-        <link href="http://www.linuxeden.com/a/85736"/>
-        <updated>2021-05-25T14:29:55.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript 前端工具的生态系统充满着变数和竞争，且只有最好的工具才会存活下来。 生产中使用的代码与开发中的有所不同. 在生产中，我们需要构建一些能运行得够快、能管理各种依赖关系、能自动执行任务、能加载外部模块等功能的包。而那些将开 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>
