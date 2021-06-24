@@ -848,6 +848,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12236",
+          "author": "yulibaozi",
+          "description": "GoCN 每日新闻 (2021-06-24)\n使用 Go 泛型的函数式编程 https://gocn.vip/topics/12233\n\n一文读懂 eBPF 对 Kubernetes 可观测的重要性 https://mp.weixin.qq.com/s/xsCvDbCuVyn6kT2BFtHAjg\n\nGolang 语言中的 channel 实现原理 https://mp.weixin.qq.com/s/6Q4lqlIBWl2g-EqU-M-rHw\n\nGo 性能工具小抄 https://gocn.vip/topics/12198\n\n23 种设计模式的 Go 语言实现（二）https://bbs.huaweicloud.com/blogs/280291\n\n\n\n\nGopherChina  https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n\n编辑: yuliz\n订阅新闻: http://tinyletter.com/gocn\n招聘专区: https://gocn.vip/jobs\nGoCN 归档：https://gocn.vip/topics/###",
+          "link": "https://gocn.vip/topics/12236",
+          "publishedOn": "2021-06-24T13:25:22.000Z",
+          "wordCount": 109,
+          "title": "GoCN 每日新闻 (2021-06-24)"
+        },
+        {
           "id": "https://gocn.vip/topics/12235",
           "author": "alicloudnative",
           "description": "作者｜梁勇\n​\n背景\n​\n哈啰已进化为包括两轮出行（哈啰单车、哈啰助力车、哈啰电动车、小哈换电）、四轮出行（哈啰顺风车、全网叫车、哈啰打车）等的综合化移动出行平台，并向酒店、到店团购等众多本地生活化生态探索。\n​\n随着公司业务的不断发展，流量也在不断增长。我们发现生产中的一些重大事故，往往是被突发的流量冲跨的，对流量的治理和防护，保障系统高可用就尤为重要。\n​\n本文就哈啰在消息流量和微服务调用的治理中踩过的坑、积累的经验进行分享。\n​\n作者介绍\n​\n梁勇 ( 老梁 ) ，《 RocketMQ 实战与进阶》专栏联合作者、参与了《 RocketMQ 技术内幕》审稿工作。ArchSummit 全球架构师大会讲师、QCon 案例研习社讲师。\n当前主要在后端中间件方向，在公众号【瓜农老梁】已陆续发表百余篇源码实战类文章，涵盖 RocketMQ 系列、Kafka 系列、GRPC 系列、Nacosl 系列、Sentinel 系列、Java NIO 系列。目前就职于哈啰出行，任职高级技术专家。\n​\n聊聊治理这件事\n​\n开始之前先聊聊治理这件事情，下面是老梁个人理解：\n​\n治理在干一件什么事？\n​\n让我们的环境变得美好一些\n### ​\n需要知道哪些地方还不够好？\n​\n\n\n以往经验\n用户反馈\n业内对比\n### ​\n还需要知道是不是一直都是好的？\n​\n\n\n监控跟踪\n告警通知\n### ​\n不好的时候如何再让其变好？\n​\n\n\n治理措施\n应急方案\n### ​\n目录\n​\n\n\n打造分布式消息治理平台\nRocketMQ 实战踩坑和解决\n打造微服务高可用治理平台\n背景\n​\n裸奔的 RabbitMQ\n​\n公司之前使用 RabbitMQ ，下面在使用 RabbitMQ 时的痛点，其中很多事故由于 RabbitMQ 集群限流引起的。\n​\n积压过多是清理还是不清理？这是个问题，我再想想。\n积压过多触发集群流控？那是真…",
@@ -8193,15 +8202,6 @@
           "publishedOn": "2021-05-26T03:12:08.000Z",
           "wordCount": 595,
           "title": "红帽和 IBM 研究院推出 Konveyor 项目"
-        },
-        {
-          "id": "https://www.oschina.net/news/143152/ms-build-2021-update-news",
-          "author": null,
-          "description": "微软专门面向开发者举办的 Build 2021 已于今天开始，口号十分直白地在向开发者示好：「Microsoft ❤️ developers」。 为了表达这份爱意，微软首日便为许多开发者关注的项目带来了更新。 Windows Terminal Preview 1.9 Visual Studio 2019 v16.10 和 v16.11 Preview 1 .NET MAUI Preview 4 .NET 6 Preview 4 微软构建的...",
-          "link": "https://www.oschina.net/news/143152/ms-build-2021-update-news",
-          "publishedOn": "2021-05-26T01:38:31.000Z",
-          "wordCount": 624,
-          "title": "微软 Build 2021 正式开始，重要项目更新汇总"
         }
       ]
     },
