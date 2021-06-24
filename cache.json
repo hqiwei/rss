@@ -1908,24 +1908,6 @@
           "publishedOn": "2021-05-26T07:24:16.000Z",
           "wordCount": 111,
           "title": "[深圳 - 南山] [腾讯] Golang 高级开发工程师"
-        },
-        {
-          "id": "https://gocn.vip/topics/12118",
-          "author": "TiDB_Robot",
-          "description": "本篇文章整理自知乎在线基础架构负责人白瑜庆在 PingCAP Infra Meetup 上的演讲实录。本文讲述了知乎与 TiDB 的渊源，介绍了一款基于 TiDB 生态研发的开源产品 Zetta，能够在规避 HBase 性能问题同时，减小 TiDB 部署后分布式架构下的系统延迟。\n背景概况\nBigTable 数据模型\n在开始介绍 Zetta 之前，我们先来看看 BigTable。BigTable 是一个稀疏的多维度的有序的表（Sparse multidimensional sorted map），它是谷歌开发的用来解决数据量庞大的场景下的数据索引问题的数据模型。谷歌爬虫的数据量非常大，BigTable 不仅能提供满足其业务场景的低延时存储服务，同时，在开发效率上，还提供了宽列能力，即数据结构化，对于开发十分友好。目前，BigTable 被应用于 Google Earth、Google Analytics、Personalized Search 等需要进行数据分析的场景。\n知乎面临的挑战\n当知乎发展到 2016、2017 年的时候，随着业务增长，遇到了很多和 Google 类似的问题。在数据规模持续增长的环境下，很多的场景其实呈现的是 NoSQL 的场景，它并不是一个非常严格的关系型的场景。\n举个例子，知乎的 Redis 现在已经有了三万到四万左右个实例。如果对它们做微服务化改造，服务之间的调用会非常频繁。而对于某些在线服务，它要求低延迟，高吞吐，高并发。\n比如首页已读的服务，需要在首页展示时过滤掉用户已读的数据。每次知乎展示的首页的数据是用户维度加上内容维度的一个非常大的数据集。这其中还包括 AI 用户画像服务，用户画像是一个非常稀疏的数据，它储存了用户对哪些内容感兴趣的一个非常稀疏的表。这些场景不断对我们的基础设施产生冲击。\n引入 HBase\n在那个时期知乎最终选择了 H…",
-          "link": "https://gocn.vip/topics/12118",
-          "publishedOn": "2021-05-26T03:10:27.000Z",
-          "wordCount": 457,
-          "title": "Zetta：HBase 用户的新选择 —— 当知乎遇上 TiDB 生态"
-        },
-        {
-          "id": "https://gocn.vip/topics/12117",
-          "author": "Huangfu",
-          "description": "职位简介\n1、负责医疗健康事业部的服务端系统及平台的工程架构设计和研发\n\n职位要求\n1、熟悉 linux，掌握常用数据结构、算法、设计模式\n\n联系方式\n电话/微信：13634179957",
-          "link": "https://gocn.vip/topics/12117",
-          "publishedOn": "2021-05-26T03:00:53.000Z",
-          "wordCount": 92,
-          "title": "【急招】【杭州/北京】字节跳动 - 小荷健康 - 后端研发"
         }
       ]
     },
@@ -1934,6 +1916,42 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=86854",
+          "author": "Editor, Kai",
+          "description": "Cube.js：试试这个新的数据分析开源工具 官方Python存储库被发现六款加密货币挖矿恶意软件 麻省理工学院在全面实现量子计算方面取得重大进展 国产 RISC-V 处理器“香山”，已成功运行 Linux 用 Eleventy 建立一个静 […]",
+          "link": "http://www.linuxeden.com/a/86854",
+          "publishedOn": "2021-06-24T15:07:37.000Z",
+          "wordCount": 84,
+          "title": "每日文章精选 2021 06 24"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86851",
+          "author": "Editor, Kai",
+          "description": "Cube.js 是一个开源的分析平台，可以作为数据源和应用之间的中间层。 数据分析是一个时髦的领域，有许多解决方案可供选择。其中之一是 Cube.js，这是一个开源的分析平台。你可以把 Cube.js 看作是你的数据源和应用之间的一个中间层 […]",
+          "link": "http://www.linuxeden.com/a/86851",
+          "publishedOn": "2021-06-24T15:05:11.000Z",
+          "wordCount": 173,
+          "title": "Cube.js：试试这个新的数据分析开源工具"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86842",
+          "author": "Editor, Kai",
+          "description": "专注于软件供应链安全管理的研究公司 Sonatype，刚刚在官方的 Python 软件存储库（PyPI）上发现了六个包含不同恶意软件的 Python 包。这些恶意内容被藏于 setup.py 的安装说明文件中，继而导致加密货币挖矿类恶意软件 […]",
+          "link": "http://www.linuxeden.com/a/86842",
+          "publishedOn": "2021-06-24T15:00:10.000Z",
+          "wordCount": 135,
+          "title": "官方Python存储库被发现六款加密货币挖矿恶意软件"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86838",
+          "author": "Editor, Kai",
+          "description": "在量子计算机中，信息的处理是一个极其微妙的过程，计算实际上由脆弱的量子比特执行，它们极易受到退相干的影响，即失去其量子力学行为。麻省理工学院的研究人员在全面实现量子计算的道路上取得了重大进展，他们展示了一种技术，消除了量子算法中最基本的操作 […]",
+          "link": "http://www.linuxeden.com/a/86838",
+          "publishedOn": "2021-06-24T14:49:17.000Z",
+          "wordCount": 70,
+          "title": "麻省理工学院在全面实现量子计算方面取得重大进展"
+        },
         {
           "id": "http://www.linuxeden.com/?p=86835",
           "author": "Editor, Kai",

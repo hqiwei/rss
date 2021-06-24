@@ -41,6 +41,50 @@
           <section class="articles-per-source">
             <article>
               <details class="article-expander">
+                <summary class="article-expander__title">每日文章精选 2021 06 24</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://www.linuxeden.com/a/86854">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>Cube.js：试试这个新的数据分析开源工具 官方Python存储库被发现六款加密货币挖矿恶意软件 麻省理工学院在全面实现量子计算方面取得重大进展 国产 RISC-V 处理器“香山”，已成功运行 Linux 用 Eleventy 建立一个静 […]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Cube.js：试试这个新的数据分析开源工具</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://www.linuxeden.com/a/86851">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>Cube.js 是一个开源的分析平台，可以作为数据源和应用之间的中间层。 数据分析是一个时髦的领域，有许多解决方案可供选择。其中之一是 Cube.js，这是一个开源的分析平台。你可以把 Cube.js 看作是你的数据源和应用之间的一个中间层 […]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">官方Python存储库被发现六款加密货币挖矿恶意软件</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://www.linuxeden.com/a/86842">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>专注于软件供应链安全管理的研究公司 Sonatype，刚刚在官方的 Python 软件存储库（PyPI）上发现了六个包含不同恶意软件的 Python 包。这些恶意内容被藏于 setup.py 的安装说明文件中，继而导致加密货币挖矿类恶意软件 […]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">麻省理工学院在全面实现量子计算方面取得重大进展</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://www.linuxeden.com/a/86838">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>在量子计算机中，信息的处理是一个极其微妙的过程，计算实际上由脆弱的量子比特执行，它们极易受到退相干的影响，即失去其量子力学行为。麻省理工学院的研究人员在全面实现量子计算的道路上取得了重大进展，他们展示了一种技术，消除了量子算法中最基本的操作 […]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
                 <summary class="article-expander__title">开源美图 2021 06 24</summary>
                 <a class="article-summary-link article-summary-box-outer" href="http://www.linuxeden.com/a/86835">
                   <div class="article-summary-box-inner">
@@ -14672,44 +14716,6 @@ Docker 解决了单个容器的镜像化问题，而 sealer 通过把整个集�
                 </a>
               </details>
             </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Zetta：HBase 用户的新选择 —— 当知乎遇上 TiDB 生态</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12118">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>本篇文章整理自知乎在线基础架构负责人白瑜庆在 PingCAP Infra Meetup 上的演讲实录。本文讲述了知乎与 TiDB 的渊源，介绍了一款基于 TiDB 生态研发的开源产品 Zetta，能够在规避 HBase 性能问题同时，减小 TiDB 部署后分布式架构下的系统延迟。
-背景概况
-BigTable 数据模型
-在开始介绍 Zetta 之前，我们先来看看 BigTable。BigTable 是一个稀疏的多维度的有序的表（Sparse multidimensional sorted map），它是谷歌开发的用来解决数据量庞大的场景下的数据索引问题的数据模型。谷歌爬虫的数据量非常大，BigTable 不仅能提供满足其业务场景的低延时存储服务，同时，在开发效率上，还提供了宽列能力，即数据结构化，对于开发十分友好。目前，BigTable 被应用于 Google Earth、Google Analytics、Personalized Search 等需要进行数据分析的场景。
-知乎面临的挑战
-当知乎发展到 2016、2017 年的时候，随着业务增长，遇到了很多和 Google 类似的问题。在数据规模持续增长的环境下，很多的场景其实呈现的是 NoSQL 的场景，它并不是一个非常严格的关系型的场景。
-举个例子，知乎的 Redis 现在已经有了三万到四万左右个实例。如果对它们做微服务化改造，服务之间的调用会非常频繁。而对于某些在线服务，它要求低延迟，高吞吐，高并发。
-比如首页已读的服务，需要在首页展示时过滤掉用户已读的数据。每次知乎展示的首页的数据是用户维度加上内容维度的一个非常大的数据集。这其中还包括 AI 用户画像服务，用户画像是一个非常稀疏的数据，它储存了用户对哪些内容感兴趣的一个非常稀疏的表。这些场景不断对我们的基础设施产生冲击。
-引入 HBase
-在那个时期知乎最终选择了 H…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">【急招】【杭州/北京】字节跳动 - 小荷健康 - 后端研发</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12117">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>职位简介
-1、负责医疗健康事业部的服务端系统及平台的工程架构设计和研发
-
-职位要求
-1、熟悉 linux，掌握常用数据结构、算法、设计模式
-
-联系方式
-电话/微信：13634179957</span>
-                  </div>
-                </a>
-              </details>
-            </article>
         </section>
       </li>
       <li class="source">
@@ -14849,7 +14855,7 @@ BigTable 数据模型
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-06-24T14:08:39.044Z">2021-06-24T14:08:39.044Z</time>
+    <time id="build-timestamp" datetime="2021-06-24T15:10:58.225Z">2021-06-24T15:10:58.225Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.0</a></span>
   </footer>
   <script src="index.js"></script>
