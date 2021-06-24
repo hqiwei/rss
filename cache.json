@@ -5090,15 +5090,6 @@
           "publishedOn": "2021-05-26T07:42:35.000Z",
           "wordCount": 1183,
           "title": "猫咪锁屏提醒 – 拥有 20 只猫，在 iPhone 锁屏界面显示待办事项"
-        },
-        {
-          "id": "https://www.appinn.com/?p=38896",
-          "author": "青小蛙",
-          "description": "1Password 是知名的跨平台密码管理器工具，近日 Mac 端测试版更新，实现了 1Password 客户端与 1Password 浏览器扩展联动解锁功能。@Appinn 不记得从哪天开始，浏览器",
-          "link": "https://www.appinn.com/1password-for-mac-shares-lock-state/",
-          "publishedOn": "2021-05-26T04:10:34.000Z",
-          "wordCount": 1121,
-          "title": "密码管理器 1Password for Mac 测试版的浏览器扩展终于支持自动解锁了"
         }
       ]
     },
@@ -8211,15 +8202,6 @@
           "publishedOn": "2021-05-26T05:28:47.000Z",
           "wordCount": 511,
           "title": "为什么众筹对开源有效"
-        },
-        {
-          "id": "https://www.oschina.net/news/143168/red-hat-ibm-konveyor",
-          "author": null,
-          "description": "在一个充满活力的开源社区的支持下，Kubernetes 可以推动杰出的创新。为了帮助 Kubernetes 的采用，红帽和 IBM 研究院创建了一个开源项目 Konveyor，该项目旨在通过构建工具、识别模式和提供关于如何跨 IT 进行云原生转型的建议，帮助对开放混合云应用程序进行现代化和迁移。Konveyor 还支持越来越多的工具，如 Crane、F...",
-          "link": "https://www.oschina.net/news/143168/red-hat-ibm-konveyor",
-          "publishedOn": "2021-05-26T03:12:08.000Z",
-          "wordCount": 595,
-          "title": "红帽和 IBM 研究院推出 Konveyor 项目"
         }
       ]
     },

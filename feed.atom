@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T15:10:58.260Z</updated>
+    <updated>2021-06-24T16:15:20.641Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12668,26 +12668,6 @@ Docker 解决了单个容器的镜像化问题，而 sealer 通过把整个集�
         <link href="https://www.oschina.net/news/143182/why-crowfunding-works-for-open-source"/>
         <updated>2021-05-26T05:28:47.000Z</updated>
         <summary type="html"><![CDATA[众筹（Crowdfunding）是一个很好的筹集资金的方式，你需要维持和发展你的项目，支持社区活动，或支付导师项目的成本。但众筹到底是什么？你如何为你的开源倡议利用这个工具呢？ 继续往下读，看看 Jono Bacon（社区领域的主要演讲者，也是《People Powered: How communities can supercharge your business, brand, and t...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[密码管理器 1Password for Mac 测试版的浏览器扩展终于支持自动解锁了]]></title>
-        <id>https://www.appinn.com/?p=38896</id>
-        <link href="https://www.appinn.com/1password-for-mac-shares-lock-state/"/>
-        <updated>2021-05-26T04:10:34.000Z</updated>
-        <summary type="html"><![CDATA[1Password 是知名的跨平台密码管理器工具，近日 Mac 端测试版更新，实现了 1Password 客户端与 1Password 浏览器扩展联动解锁功能。@Appinn 不记得从哪天开始，浏览器]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[红帽和 IBM 研究院推出 Konveyor 项目]]></title>
-        <id>https://www.oschina.net/news/143168/red-hat-ibm-konveyor</id>
-        <link href="https://www.oschina.net/news/143168/red-hat-ibm-konveyor"/>
-        <updated>2021-05-26T03:12:08.000Z</updated>
-        <summary type="html"><![CDATA[在一个充满活力的开源社区的支持下，Kubernetes 可以推动杰出的创新。为了帮助 Kubernetes 的采用，红帽和 IBM 研究院创建了一个开源项目 Konveyor，该项目旨在通过构建工具、识别模式和提供关于如何跨 IT 进行云原生转型的建议，帮助对开放混合云应用程序进行现代化和迁移。Konveyor 还支持越来越多的工具，如 Crane、F...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>
