@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T22:09:21.180Z</updated>
+    <updated>2021-06-24T23:09:43.160Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12524,64 +12524,6 @@ Promtheus rules lint 工具 https://github.com/cloudflare/pint
 招聘专区: https://gocn.vip/jobs]]></summary>
         <author>
             <name>songjiayang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[golang 限流器，控制并发，线程池]]></title>
-        <id>https://gocn.vip/topics/12122</id>
-        <link href="https://gocn.vip/topics/12122"/>
-        <updated>2021-05-26T10:50:02.000Z</updated>
-        <summary type="html"><![CDATA[gowp
-golang worker pool ,线程池 , 工作池
-并发限制 goroutine 池。
-限制任务执行的并发性，而不是排队的任务数。
-无论排队多少任务，都不会阻止提交任务。
-通过队列支持
-限流器
-golang 工作池公共库
-支持最大任务数, 放到工作池里面 并等待全部完成
-package main
-
-import (
-    "fmt"
-    "time"
-
-    "github.com/xxjwxc/gowp/workerpool"
-)
-
-func main() {
-    wp := workerpool.New(10)             //设置最大线程数
-    for i := 0; i < 20; i++ { //开启20个请求
-        ii := i
-        wp.Do(func() error {
-            for j := 0; j < 10; j++ { //每次打印0-10的值
-                fmt.Println(fmt.Sprintf("%v->\t%v", ii, j))
-                time.Sleep(1 * time.Second)
-            }
-            //time.Sleep(1 * time.Second)
-            return nil
-        })
-    }
-
-    wp.Wait()
-    fmt.Println("down")
-}
-
-限流器 (cache)
-package main
-
-import (
-    "fmt"
-    "sync"
-    "time"
-
-    "github.com/xxjwxc/gowp/limiter"
-)
-
-func main() {
-  …]]></summary>
-        <author>
-            <name>xie1xiao1jun</name>
         </author>
     </entry>
 </feed>

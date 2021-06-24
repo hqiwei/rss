@@ -1890,15 +1890,6 @@
           "publishedOn": "2021-05-26T12:12:55.000Z",
           "wordCount": 102,
           "title": "GoCN 每日新闻 (2021-05-26)"
-        },
-        {
-          "id": "https://gocn.vip/topics/12122",
-          "author": "xie1xiao1jun",
-          "description": "gowp\ngolang worker pool ,线程池 , 工作池\n并发限制 goroutine 池。\n限制任务执行的并发性，而不是排队的任务数。\n无论排队多少任务，都不会阻止提交任务。\n通过队列支持\n限流器\ngolang 工作池公共库\n支持最大任务数, 放到工作池里面 并等待全部完成\npackage main\n\nimport (\n    \"fmt\"\n    \"time\"\n\n    \"github.com/xxjwxc/gowp/workerpool\"\n)\n\nfunc main() {\n    wp := workerpool.New(10)             //设置最大线程数\n    for i := 0; i < 20; i++ { //开启20个请求\n        ii := i\n        wp.Do(func() error {\n            for j := 0; j < 10; j++ { //每次打印0-10的值\n                fmt.Println(fmt.Sprintf(\"%v->\\t%v\", ii, j))\n                time.Sleep(1 * time.Second)\n            }\n            //time.Sleep(1 * time.Second)\n            return nil\n        })\n    }\n\n    wp.Wait()\n    fmt.Println(\"down\")\n}\n\n限流器 (cache)\npackage main\n\nimport (\n    \"fmt\"\n    \"sync\"\n    \"time\"\n\n    \"github.com/xxjwxc/gowp/limiter\"\n)\n\nfunc main() {\n  …",
-          "link": "https://gocn.vip/topics/12122",
-          "publishedOn": "2021-05-26T10:50:02.000Z",
-          "wordCount": 279,
-          "title": "golang 限流器，控制并发，线程池"
         }
       ]
     },
