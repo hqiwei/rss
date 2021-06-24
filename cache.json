@@ -5243,6 +5243,33 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/147467/john-mcafee-dead",
+          "author": null,
+          "description": "路透社和美联社证实，杀毒软件 McAfee 创始人 John McAfee 周三被发现死于西班牙巴塞罗那的监狱。此前不久，西班牙国家法院批准将他引渡到美国，接受逃税刑事指控。 西班牙《世界报》援引加泰罗尼亚自治区司法厅的声明证实了这一死亡事件，监狱工作人员试图抢救 John McAfee 但没有成功。路透社证实了该部门的声明，该声...",
+          "link": "https://www.oschina.net/news/147467/john-mcafee-dead",
+          "publishedOn": "2021-06-24T01:30:43.000Z",
+          "wordCount": 533,
+          "title": "杀毒软件 McAfee 创始人 John McAfee 自杀"
+        },
+        {
+          "id": "https://www.oschina.net/p/hellosystem",
+          "author": null,
+          "description": "helloSystem 是基于 FreeBSD 的桌面发行版，其特点是简单、美观和易用，其设计遵循“少而精”的理念，其目的是成为 BSD 中的 macOS，以提供优美的桌面体验。",
+          "link": "https://www.oschina.net/p/hellosystem",
+          "publishedOn": "2021-06-24T00:55:59.000Z",
+          "wordCount": 413,
+          "title": "helloSystem —— 外观酷似 macOS 的 BSD 桌面发行版"
+        },
+        {
+          "id": "https://www.oschina.net/news/147463/blender-support-from-canonical",
+          "author": null,
+          "description": "Ubuntu 开发商 Canonical 宣布与 Blender 基金会达成合作，双方将共同为 Blender 的长期支持版本 (LTS) 提供付费的企业级支持。 据介绍，此项服务支持的版本不仅仅是 Ubuntu 上的 Blender，还包括其他 Linux 发行版以及 macOS 和 Windows 平台上运行的 Blender LTS。 当客户向 Canonical 寻求付费服务后，Canonical 的工...",
+          "link": "https://www.oschina.net/news/147463/blender-support-from-canonical",
+          "publishedOn": "2021-06-24T00:52:40.000Z",
+          "wordCount": 562,
+          "title": "Canonical 为 Blender LTS 提供付费支持"
+        },
+        {
           "id": "https://www.oschina.net/news/147461/veracode-state-of-software-security-v11-open-source",
           "author": null,
           "description": "Veracode 最新发布的一项《State of Software Security v11: Open Source Edition》研究报告指出，现代软件的表面下存在着安全问题的雷区，有 80% 的第三方库在被纳入代码库后从未被开发者更新过。 该报告基于对 86000 多个软件库的 1300 万次扫描分析，其中包含 301000 多个独特的库；同时还调查了近 2000 名开发人员，...",
@@ -8408,6 +8435,15 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=4026",
+          "author": "大眼仔~旭",
+          "description": "DVDStyler 3.1 Final + x64 中文正式版 DVD 光盘菜单制作工具由大眼仔旭（www.d […]",
+          "link": "http://www.dayanzai.me/dvdstyler.html",
+          "publishedOn": "2021-06-23T16:37:17.000Z",
+          "wordCount": 614,
+          "title": "DVD 光盘菜单制作工具 DVDStyler 3.2 + x64 Final 中文正式版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=34242",
           "author": "大眼仔~旭",

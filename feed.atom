@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T00:40:58.784Z</updated>
+    <updated>2021-06-24T01:47:29.595Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[杀毒软件 McAfee 创始人 John McAfee 自杀]]></title>
+        <id>https://www.oschina.net/news/147467/john-mcafee-dead</id>
+        <link href="https://www.oschina.net/news/147467/john-mcafee-dead"/>
+        <updated>2021-06-24T01:30:43.000Z</updated>
+        <summary type="html"><![CDATA[路透社和美联社证实，杀毒软件 McAfee 创始人 John McAfee 周三被发现死于西班牙巴塞罗那的监狱。此前不久，西班牙国家法院批准将他引渡到美国，接受逃税刑事指控。 西班牙《世界报》援引加泰罗尼亚自治区司法厅的声明证实了这一死亡事件，监狱工作人员试图抢救 John McAfee 但没有成功。路透社证实了该部门的声明，该声...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[helloSystem —— 外观酷似 macOS 的 BSD 桌面发行版]]></title>
+        <id>https://www.oschina.net/p/hellosystem</id>
+        <link href="https://www.oschina.net/p/hellosystem"/>
+        <updated>2021-06-24T00:55:59.000Z</updated>
+        <summary type="html"><![CDATA[helloSystem 是基于 FreeBSD 的桌面发行版，其特点是简单、美观和易用，其设计遵循“少而精”的理念，其目的是成为 BSD 中的 macOS，以提供优美的桌面体验。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canonical 为 Blender LTS 提供付费支持]]></title>
+        <id>https://www.oschina.net/news/147463/blender-support-from-canonical</id>
+        <link href="https://www.oschina.net/news/147463/blender-support-from-canonical"/>
+        <updated>2021-06-24T00:52:40.000Z</updated>
+        <summary type="html"><![CDATA[Ubuntu 开发商 Canonical 宣布与 Blender 基金会达成合作，双方将共同为 Blender 的长期支持版本 (LTS) 提供付费的企业级支持。 据介绍，此项服务支持的版本不仅仅是 Ubuntu 上的 Blender，还包括其他 Linux 发行版以及 macOS 和 Windows 平台上运行的 Blender LTS。 当客户向 Canonical 寻求付费服务后，Canonical 的工...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源美图 2021 06 24]]></title>
         <id>http://www.linuxeden.com/?p=86835</id>
@@ -224,6 +254,16 @@
         <summary type="html"><![CDATA[In this article you will learn how to create a great technical video course. I run the freeCodeCamp.org YouTube channel where we post technical courses from a variety of contributors. Video courses that follow the guidelines in this article are often a good fit for freeCodeCamp's channel. How to]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DVD 光盘菜单制作工具 DVDStyler 3.2 + x64 Final 中文正式版]]></title>
+        <id>http://www.dayanzai.me/?p=4026</id>
+        <link href="http://www.dayanzai.me/dvdstyler.html"/>
+        <updated>2021-06-23T16:37:17.000Z</updated>
+        <summary type="html"><![CDATA[DVDStyler 3.1 Final + x64 中文正式版 DVD 光盘菜单制作工具由大眼仔旭（www.d […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
