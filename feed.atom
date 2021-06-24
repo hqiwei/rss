@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T16:15:20.641Z</updated>
+    <updated>2021-06-24T17:17:12.734Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[4 Common React Mistakes You Might Be Making – And How to Fix Them]]></title>
+        <id>60d3ee396e1a1407b6b0b6ef</id>
+        <link href="https://www.freecodecamp.org/news/common-react-mistakes-and-how-to-fix-them/"/>
+        <updated>2021-06-24T17:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Let's go over the most common mistakes you might be making in your React code right now, plus how to fix them. If you want to create amazing React applications, it's essential to avoid many common errors along the way. In this article, we'll not only cover how to fix]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use OpenTelemetry to Understand Software Performance]]></title>
+        <id>60d4b5e96e1a1407b6b0bac4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-opentelemetry/"/>
+        <updated>2021-06-24T16:50:36.000Z</updated>
+        <summary type="html"><![CDATA[If you want good performance in your application, you need to collect data to figure out where to make improvements. That's where OpenTelemetry comes in. OpenTelemetry offers a single set of APIs and libraries that standardize how you collect and transfer telemetry data. OpenTelemetry provides a specification for instrumentation so]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日文章精选 2021 06 24]]></title>
         <id>http://www.linuxeden.com/?p=86854</id>
