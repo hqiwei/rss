@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T17:17:12.734Z</updated>
+    <updated>2021-06-24T18:11:42.585Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12680,16 +12680,6 @@ Docker 解决了单个容器的镜像化问题，而 sealer 通过把整个集�
 薪资：绝对有竞争力]]></summary>
         <author>
             <name>chris98276</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么众筹对开源有效]]></title>
-        <id>https://www.oschina.net/news/143182/why-crowfunding-works-for-open-source</id>
-        <link href="https://www.oschina.net/news/143182/why-crowfunding-works-for-open-source"/>
-        <updated>2021-05-26T05:28:47.000Z</updated>
-        <summary type="html"><![CDATA[众筹（Crowdfunding）是一个很好的筹集资金的方式，你需要维持和发展你的项目，支持社区活动，或支付导师项目的成本。但众筹到底是什么？你如何为你的开源倡议利用这个工具呢？ 继续往下读，看看 Jono Bacon（社区领域的主要演讲者，也是《People Powered: How communities can supercharge your business, brand, and t...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
