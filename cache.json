@@ -4831,6 +4831,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=39130",
+          "author": "青小蛙",
+          "description": "wallabag 是一款开源的网络书签、稍后阅读工具，需要付费使用官方提供的服务，或自托管。它允许你抓取网络上的内容并全文本地离线保存（超过 1400 个抓取规则），再通过舒适的方式稍后阅读。支持 R",
+          "link": "https://www.appinn.com/wallabag/",
+          "publishedOn": "2021-06-24T07:40:20.000Z",
+          "wordCount": 1231,
+          "title": "wallabag – 开源网络书签、稍后阅读工具：自托管、RSS、标注、本地保存、中文界面、多客户端、自动标签规则等"
+        },
+        {
           "id": "https://www.appinn.com/?p=39126",
           "author": "青小蛙",
           "description": "One Commander 3 是一款 Windows 下的文件管理器工具，支持多栏、多主题、多套图标、文件预览、色彩标签、彩色新旧文件识别等功能，高自定义，可免费使用。@Appinn 比起文件管理器",
@@ -5179,6 +5188,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/147520",
+          "author": null,
+          "description": "关于 Apache Pulsar Apache Pulsar 是 Apache 软件基金会顶级项目，是下一代云原生分布式消息流平台，集消息、存储、轻量化函数式计算为一体，采用计算与存储分离架构设计，支持多租户、持久化存储、多机房跨区域数据复制，具有强一致性、高吞吐、低延时及高可扩展性等流数据存储特性。 GitHub 地址：http://github.com...",
+          "link": "https://www.oschina.net/news/147520",
+          "publishedOn": "2021-06-24T07:13:38.000Z",
+          "wordCount": 829,
+          "title": "Pulsar 社区周报｜2021-06-07～2021-06-13"
+        },
         {
           "id": "https://my.oschina.net/jiayou9020/blog/5087515",
           "author": null,
