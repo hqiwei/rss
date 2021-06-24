@@ -2,10 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T09:09:49.495Z</updated>
+    <updated>2021-06-24T10:10:51.770Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RocketMQ 千锤百炼 -- 哈啰在分布式消息治理和微服务治理中的实践]]></title>
+        <id>https://gocn.vip/topics/12235</id>
+        <link href="https://gocn.vip/topics/12235"/>
+        <updated>2021-06-24T09:41:24.000Z</updated>
+        <summary type="html"><![CDATA[作者｜梁勇
+​
+背景
+​
+哈啰已进化为包括两轮出行（哈啰单车、哈啰助力车、哈啰电动车、小哈换电）、四轮出行（哈啰顺风车、全网叫车、哈啰打车）等的综合化移动出行平台，并向酒店、到店团购等众多本地生活化生态探索。
+​
+随着公司业务的不断发展，流量也在不断增长。我们发现生产中的一些重大事故，往往是被突发的流量冲跨的，对流量的治理和防护，保障系统高可用就尤为重要。
+​
+本文就哈啰在消息流量和微服务调用的治理中踩过的坑、积累的经验进行分享。
+​
+作者介绍
+​
+梁勇 ( 老梁 ) ，《 RocketMQ 实战与进阶》专栏联合作者、参与了《 RocketMQ 技术内幕》审稿工作。ArchSummit 全球架构师大会讲师、QCon 案例研习社讲师。
+当前主要在后端中间件方向，在公众号【瓜农老梁】已陆续发表百余篇源码实战类文章，涵盖 RocketMQ 系列、Kafka 系列、GRPC 系列、Nacosl 系列、Sentinel 系列、Java NIO 系列。目前就职于哈啰出行，任职高级技术专家。
+​
+聊聊治理这件事
+​
+开始之前先聊聊治理这件事情，下面是老梁个人理解：
+​
+治理在干一件什么事？
+​
+让我们的环境变得美好一些
+### ​
+需要知道哪些地方还不够好？
+​
+
+
+以往经验
+用户反馈
+业内对比
+### ​
+还需要知道是不是一直都是好的？
+​
+
+
+监控跟踪
+告警通知
+### ​
+不好的时候如何再让其变好？
+​
+
+
+治理措施
+应急方案
+### ​
+目录
+​
+
+
+打造分布式消息治理平台
+RocketMQ 实战踩坑和解决
+打造微服务高可用治理平台
+背景
+​
+裸奔的 RabbitMQ
+​
+公司之前使用 RabbitMQ ，下面在使用 RabbitMQ 时的痛点，其中很多事故由于 RabbitMQ 集群限流引起的。
+​
+积压过多是清理还是不清理？这是个问题，我再想想。
+积压过多触发集群流控？那是真…]]></summary>
+        <author>
+            <name>alicloudnative</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Relic 开源 Pixie，其 Kubernetes 原生集群内观察平台]]></title>
+        <id>https://www.oschina.net/news/147552</id>
+        <link href="https://www.oschina.net/news/147552"/>
+        <updated>2021-06-24T09:40:11.000Z</updated>
+        <summary type="html"><![CDATA[本文译自 ZDNet 的文章 New Relic open sources Pixie, its Kubernetes-native in-cluster observability platform[1]，作者 Steven J. Vaughan-Nichols，译者宋净超[2]。 好消息是，云计算、Kubernetes[3] 和云原生计算结合在一起，使软件开发比以前更快、更强大。坏消息是，保持对所有这些的关注比以往任何时候都更难。...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[wallabag – 开源网络书签、稍后阅读工具：自托管、RSS、标注、本地保存、中文界面、多客户端、自动标签规则等]]></title>
         <id>https://www.appinn.com/?p=39130</id>

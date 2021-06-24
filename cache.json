@@ -857,6 +857,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12235",
+          "author": "alicloudnative",
+          "description": "作者｜梁勇\n​\n背景\n​\n哈啰已进化为包括两轮出行（哈啰单车、哈啰助力车、哈啰电动车、小哈换电）、四轮出行（哈啰顺风车、全网叫车、哈啰打车）等的综合化移动出行平台，并向酒店、到店团购等众多本地生活化生态探索。\n​\n随着公司业务的不断发展，流量也在不断增长。我们发现生产中的一些重大事故，往往是被突发的流量冲跨的，对流量的治理和防护，保障系统高可用就尤为重要。\n​\n本文就哈啰在消息流量和微服务调用的治理中踩过的坑、积累的经验进行分享。\n​\n作者介绍\n​\n梁勇 ( 老梁 ) ，《 RocketMQ 实战与进阶》专栏联合作者、参与了《 RocketMQ 技术内幕》审稿工作。ArchSummit 全球架构师大会讲师、QCon 案例研习社讲师。\n当前主要在后端中间件方向，在公众号【瓜农老梁】已陆续发表百余篇源码实战类文章，涵盖 RocketMQ 系列、Kafka 系列、GRPC 系列、Nacosl 系列、Sentinel 系列、Java NIO 系列。目前就职于哈啰出行，任职高级技术专家。\n​\n聊聊治理这件事\n​\n开始之前先聊聊治理这件事情，下面是老梁个人理解：\n​\n治理在干一件什么事？\n​\n让我们的环境变得美好一些\n### ​\n需要知道哪些地方还不够好？\n​\n\n\n以往经验\n用户反馈\n业内对比\n### ​\n还需要知道是不是一直都是好的？\n​\n\n\n监控跟踪\n告警通知\n### ​\n不好的时候如何再让其变好？\n​\n\n\n治理措施\n应急方案\n### ​\n目录\n​\n\n\n打造分布式消息治理平台\nRocketMQ 实战踩坑和解决\n打造微服务高可用治理平台\n背景\n​\n裸奔的 RabbitMQ\n​\n公司之前使用 RabbitMQ ，下面在使用 RabbitMQ 时的痛点，其中很多事故由于 RabbitMQ 集群限流引起的。\n​\n积压过多是清理还是不清理？这是个问题，我再想想。\n积压过多触发集群流控？那是真…",
+          "link": "https://gocn.vip/topics/12235",
+          "publishedOn": "2021-06-24T09:41:24.000Z",
+          "wordCount": 575,
+          "title": "RocketMQ 千锤百炼 -- 哈啰在分布式消息治理和微服务治理中的实践"
+        },
+        {
           "id": "https://gocn.vip/topics/12234",
           "author": "keke001",
           "description": "GoCN 每日新闻 (2021-06-23)\n如何在 Go 中正确使用基本身份验证 https://www.alexedwards.net/blog/basic-authentication-in-go\n\nGo 处理错误的方式 https://www.bacancytechnology.com/blog/golang-error-handling\n\nGo 实现的用于与源代码一起版本控制数据的工具 https://github.com/kevin-hanselman/dud/\n\nGO 抓取网页信息 https://javarustacean.wordpress.com/2021/06/21/web-scrapping-in-go/\n\nGo 实时 Web UI 和终端显示的高性能 HTTP 基准测试工具 https://github.com/six-ddc/plow\n\n\n\n\nGopherChina  https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n\n编辑: 李森森\n订阅新闻: http://tinyletter.com/gocn\n招聘专区: https://gocn.vip/jobs",
@@ -5179,6 +5188,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/147552",
+          "author": null,
+          "description": "本文译自 ZDNet 的文章 New Relic open sources Pixie, its Kubernetes-native in-cluster observability platform[1]，作者 Steven J. Vaughan-Nichols，译者宋净超[2]。 好消息是，云计算、Kubernetes[3] 和云原生计算结合在一起，使软件开发比以前更快、更强大。坏消息是，保持对所有这些的关注比以往任何时候都更难。...",
+          "link": "https://www.oschina.net/news/147552",
+          "publishedOn": "2021-06-24T09:40:11.000Z",
+          "wordCount": 671,
+          "title": "New Relic 开源 Pixie，其 Kubernetes 原生集群内观察平台"
+        },
         {
           "id": "https://www.oschina.net/news/147520",
           "author": null,
