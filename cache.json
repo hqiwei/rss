@@ -1917,15 +1917,6 @@
           "publishedOn": "2021-05-26T08:24:24.000Z",
           "wordCount": 663,
           "title": "集群镜像：实现高效的分布式应用交付"
-        },
-        {
-          "id": "https://gocn.vip/topics/12119",
-          "author": "chris98276",
-          "description": "岗位要求：\n计算机、通信及相关专业，本科及以上学历，3 年以上开发经验\n熟练掌握 Go 语言，熟悉 Goroutine、channel 和锁等，有丰富的开发、调试经验\n熟练掌握 MySQL，掌握常用性能优化技巧\n熟练使用常用中间件 redis、kafka、Elasticsearch\n熟练掌握微服务框架 gRPC 及序列化协议 protobuf\n对分布式系统、微服务架构和原理有比较深入了解者优先\n熟悉 docker、Kubernetes、云原生者优先\n有良好的编码规范和接口设计规范，重视数据、代码及系统安全\n岗位职责：\n负责腾讯乐享后台架构设计与应用开发\n负责腾讯乐享后台性能优化\n负责腾讯乐享后台可靠性改进\n简历投递：todaychen at tencent.com\n标题格式：[简历][gocn] 姓名\n入职级别：T9-T11\n薪资：绝对有竞争力",
-          "link": "https://gocn.vip/topics/12119",
-          "publishedOn": "2021-05-26T07:24:16.000Z",
-          "wordCount": 111,
-          "title": "[深圳 - 南山] [腾讯] Golang 高级开发工程师"
         }
       ]
     },
@@ -5099,15 +5090,6 @@
           "publishedOn": "2021-05-27T07:11:17.000Z",
           "wordCount": 1136,
           "title": "DeepL 发布 iPhone 客户端，可能是最好的在线翻译工具"
-        },
-        {
-          "id": "https://www.appinn.com/?p=38916",
-          "author": "青小蛙",
-          "description": "猫咪锁屏提醒是一款利用快捷指令实现在 iPhone 锁屏界面显示待办事项、倒数日、提醒的应用，拥有 20 只可爱的猫咪，也会同时出现在锁屏界面。@Appinn 来自发现频道，开发者 @Carefree",
-          "link": "https://www.appinn.com/maomi-suoping-for-iphone/",
-          "publishedOn": "2021-05-26T07:42:35.000Z",
-          "wordCount": 1183,
-          "title": "猫咪锁屏提醒 – 拥有 20 只猫，在 iPhone 锁屏界面显示待办事项"
         }
       ]
     },
@@ -8202,15 +8184,6 @@
           "publishedOn": "2021-05-26T23:16:31.000Z",
           "wordCount": 492,
           "title": "Google Chrome 现在可以通过地址栏运行更多命令"
-        },
-        {
-          "id": "https://www.oschina.net/news/143212/greensoftware-foundation",
-          "author": null,
-          "description": "当我们思考软件行业的未来时，我们相信我们有责任帮助建立一个更美好的未来——一个更可持续的未来——在我们的组织内部和与全球的行业领袖合作。鉴于全球数据中心占全球电力需求的 1%，而且预计未来 10 年将消耗 3-8%的电力，我们必须把这作为一个行业来解决。 为了帮助实现这一目标，我们激动地宣布成立绿色软件基金会...",
-          "link": "https://www.oschina.net/news/143212/greensoftware-foundation",
-          "publishedOn": "2021-05-26T07:57:09.000Z",
-          "wordCount": 464,
-          "title": "Linux 基金会与微软等共同成立绿色软件基金会，将可持续性作为软件工程的核心"
         }
       ]
     },
