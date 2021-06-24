@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T04:12:51.076Z</updated>
+    <updated>2021-06-24T05:08:30.659Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12866,76 +12866,6 @@ https://github.com/tal-tech/go-zero
         <summary type="html"><![CDATA[In HTML, it’s the default behavior for forms to redirect to a new page whenever they're submitted. So in order to provide dynamic functionality, React uses a strategy called controlled components. If you have recently gone through a React course, you probably didn't like this part, because there are]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Design Best Practices for New Developers – How to Create Portfolio-Worthy Work]]></title>
-        <id>608706aedd38b9088c2c012c</id>
-        <link href="https://www.freecodecamp.org/news/web-design-best-practices-for-new-developers/"/>
-        <updated>2021-05-25T16:51:37.000Z</updated>
-        <summary type="html"><![CDATA[If you're a beginner developer, it can be difficult to find ways to use your limited knowledge to support yourself. And at the same time, you won't be able to hone your skills if you aren't using them full time.  It's a precarious spot that I remember being in when]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌市场评分最高之一播放器 XPlayer 2.2.0 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=2738</id>
-        <link href="http://www.dayanzai.me/xplayer.html"/>
-        <updated>2021-05-25T16:42:29.000Z</updated>
-        <summary type="html"><![CDATA[谷歌市场评分最高之一播放器 XPlayer 中文版由大眼仔旭（www.dayanzai.me）发布。XPlay […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[矢量图形编辑软件 Inkscape 1.1 + x64 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=8491</id>
-        <link href="http://www.dayanzai.me/inkscape.html"/>
-        <updated>2021-05-25T16:35:37.000Z</updated>
-        <summary type="html"><![CDATA[Inkscape 中文多语特别版由大眼仔旭（www.dayanzai.me）发布。Inkscape 中文版是一 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安卓硬件检测工具 DevCheck Pro 3.35 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=2804</id>
-        <link href="http://www.dayanzai.me/devcheck.html"/>
-        <updated>2021-05-25T16:34:19.000Z</updated>
-        <summary type="html"><![CDATA[安卓硬件检测工具 DevCheck Pro 中文版由大眼仔旭（www.dayanzai.me）发布。DevCh […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安卓 ADM 下载器 Advanced Download Manager 12.4.1 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=8323</id>
-        <link href="http://www.dayanzai.me/advanced-download-manager.html"/>
-        <updated>2021-05-25T16:25:24.000Z</updated>
-        <summary type="html"><![CDATA[安卓 ADM 下载器 Advanced Download Manager 中文版由大眼仔旭（www.dayan […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源免费的翻译工具 Crow Translate 2.8.3 x64 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=6346</id>
-        <link href="http://www.dayanzai.me/crow-translate.html"/>
-        <updated>2021-05-25T16:20:46.000Z</updated>
-        <summary type="html"><![CDATA[开源免费的翻译工具 Crow Translate 中文版 由大眼仔旭（www.dayanzai.me）发布。C […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自动关机辅助工具 Shutdown Timer Classic 1.2.3 中文免费版]]></title>
-        <id>http://www.dayanzai.me/?p=1227</id>
-        <link href="http://www.dayanzai.me/shutdown-timer-classic.html"/>
-        <updated>2021-05-25T16:18:42.000Z</updated>
-        <summary type="html"><![CDATA[自动关机辅助工具 Shutdown Timer Classic 中文版 由大眼仔旭（www.dayanzai. […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
         </author>
     </entry>
 </feed>
