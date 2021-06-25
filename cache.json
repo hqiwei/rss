@@ -866,6 +866,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12238",
+          "author": "TiDB_Robot",
+          "description": "AskTUG.com 技术问答网站相信大家都不陌生，但除了日常熟知的前端页面外，背后支撑其运行的数据库还有一个不为人知的故事。本文由 AskTUG.com 的作者之一王兴宗老师分享，揭秘诞生于 Discourse 的 AskTUG.com ，从 PostgreSQL 迁移到 MySQL 最后稳定运行在 TiDB 的奇妙故事。\n一个广告：\nAskTUG.com 是 TiDB User、Contributor、合作伙伴的聚集地，在这里你可以找到所有 TiDB 相关问题的答案。欢迎大家注册体验～\n链接：https://asktug.com/\n背景\n“通过一个平台，一定能找到 TiDB 所有问题的满意答案。”\n因为这样的愿望，TiDB 生态中的用户、Contributor、合作伙伴一起建立了 AskTUG.com 技术问答网站，并于 2019 年 8 月正式公开上线。作为 TUG 成员学习、分享的 “聚集地”，TiDB 用户可以在这里提出、解答问题，相互交流探讨，这里汇集 TiDB 用户的集体智慧。自上线以来，AskTUG.com 逐渐吸引了越来越多用户的关注，截止 2021 年 6 月底，AskTUG.com 已有 7000+ 注册用户，沉淀了 1.6w+ 问题和 300+ 技术文章。\n很多小伙伴都已经发现，AskTUG.com 的后端程序是一个 Discourse 程序。关于 Discourse 是 Stack Overflow 的联合创始人 Jeff Atwood 推出的一个新的开源论坛项目，其目的是为了改变十年未变的论坛软件。在 AskTUG.com 建立之初，从以下几个角度确定使用 Discourse：\n  功能强大：Discourse 特性丰富，可定制性强，是论坛界的 WordPress。与其他传统的论坛相比， Discourse 简化了传统论坛的分类，取而代之是热贴，…",
+          "link": "https://gocn.vip/topics/12238",
+          "publishedOn": "2021-06-25T02:39:45.000Z",
+          "wordCount": 2014,
+          "title": "迁移实战：Discourse 从 PostgreSQL 到 MySQL 到 TiDB 丨 AskTUG 论坛背后的故事"
+        },
+        {
           "id": "https://gocn.vip/topics/12236",
           "author": "yulibaozi",
           "description": "GoCN 每日新闻 (2021-06-24)\n使用 Go 泛型的函数式编程 https://gocn.vip/topics/12233\n\n一文读懂 eBPF 对 Kubernetes 可观测的重要性 https://mp.weixin.qq.com/s/xsCvDbCuVyn6kT2BFtHAjg\n\nGolang 语言中的 channel 实现原理 https://mp.weixin.qq.com/s/6Q4lqlIBWl2g-EqU-M-rHw\n\nGo 性能工具小抄 https://gocn.vip/topics/12198\n\n23 种设计模式的 Go 语言实现（二）https://bbs.huaweicloud.com/blogs/280291\n\n\n\n\nGopherChina  https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n\n编辑: yuliz\n订阅新闻: http://tinyletter.com/gocn\n招聘专区: https://gocn.vip/jobs\nGoCN 归档：https://gocn.vip/topics/###",
@@ -4714,24 +4723,6 @@
           "publishedOn": "2021-05-26T15:11:35.000Z",
           "wordCount": 97,
           "title": "每日文章精选 2021 05 26"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85791",
-          "author": "Editor, Kai",
-          "description": "在企业互联网场景中，一般情况下最广泛使用的基于 Linux 的操作系统是 Red Hat Enterprise Linux（RHEL），它主要用于服务器，但也可以用作工作站。Fedora linux 其实也是工作站系统的一个很好的选择，它提 […]",
-          "link": "http://www.linuxeden.com/a/85791",
-          "publishedOn": "2021-05-26T15:09:37.000Z",
-          "wordCount": 203,
-          "title": "将 Fedora Linux 系统添加到企业域中"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85787",
-          "author": "Editor, Kai",
-          "description": "自 Fedora 33 以来，Fedora Workstation 一直默认为 Btrfs 文件系统，而 Fedora 的其他版本则默认采用 EXT4 文件系统。不过在即将到来的 Fedora Cloud 35 中，这个云端的分支发行版本也 […]",
-          "link": "http://www.linuxeden.com/a/85787",
-          "publishedOn": "2021-05-26T14:44:31.000Z",
-          "wordCount": 127,
-          "title": "Fedora Cloud 35发行版本将默认使用Btrfs文件系统"
         }
       ]
     },

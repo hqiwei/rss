@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T02:28:49.950Z</updated>
+    <updated>2021-06-25T03:10:23.034Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[迁移实战：Discourse 从 PostgreSQL 到 MySQL 到 TiDB 丨 AskTUG 论坛背后的故事]]></title>
+        <id>https://gocn.vip/topics/12238</id>
+        <link href="https://gocn.vip/topics/12238"/>
+        <updated>2021-06-25T02:39:45.000Z</updated>
+        <summary type="html"><![CDATA[AskTUG.com 技术问答网站相信大家都不陌生，但除了日常熟知的前端页面外，背后支撑其运行的数据库还有一个不为人知的故事。本文由 AskTUG.com 的作者之一王兴宗老师分享，揭秘诞生于 Discourse 的 AskTUG.com ，从 PostgreSQL 迁移到 MySQL 最后稳定运行在 TiDB 的奇妙故事。
+一个广告：
+AskTUG.com 是 TiDB User、Contributor、合作伙伴的聚集地，在这里你可以找到所有 TiDB 相关问题的答案。欢迎大家注册体验～
+链接：https://asktug.com/
+背景
+“通过一个平台，一定能找到 TiDB 所有问题的满意答案。”
+因为这样的愿望，TiDB 生态中的用户、Contributor、合作伙伴一起建立了 AskTUG.com 技术问答网站，并于 2019 年 8 月正式公开上线。作为 TUG 成员学习、分享的 “聚集地”，TiDB 用户可以在这里提出、解答问题，相互交流探讨，这里汇集 TiDB 用户的集体智慧。自上线以来，AskTUG.com 逐渐吸引了越来越多用户的关注，截止 2021 年 6 月底，AskTUG.com 已有 7000+ 注册用户，沉淀了 1.6w+ 问题和 300+ 技术文章。
+很多小伙伴都已经发现，AskTUG.com 的后端程序是一个 Discourse 程序。关于 Discourse 是 Stack Overflow 的联合创始人 Jeff Atwood 推出的一个新的开源论坛项目，其目的是为了改变十年未变的论坛软件。在 AskTUG.com 建立之初，从以下几个角度确定使用 Discourse：
+  功能强大：Discourse 特性丰富，可定制性强，是论坛界的 WordPress。与其他传统的论坛相比， Discourse 简化了传统论坛的分类，取而代之是热贴，…]]></summary>
+        <author>
+            <name>TiDB_Robot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux 5.14 将支持 KVM 上 Hyper-V 的 XMM 快速超级调用]]></title>
         <id>https://www.oschina.net/news/147614/linux-5-14-to-support-xxm-fast-hypercall</id>
@@ -12551,26 +12569,6 @@ https://mp.weixin.qq.com/s/Mh5RL0BuYru9FuC1KmyAjQ]]></summary>
         <link href="http://www.linuxeden.com/a/85796"/>
         <updated>2021-05-26T15:11:35.000Z</updated>
         <summary type="html"><![CDATA[将 Fedora Linux 系统添加到企业域中 Fedora Cloud 35发行版本将默认使用Btrfs文件系统 每秒900多颗！ARM处理器季度出货73亿颗、历史1900亿颗 现在可以在Windows 10中运行Linux GUI应用 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将 Fedora Linux 系统添加到企业域中]]></title>
-        <id>http://www.linuxeden.com/?p=85791</id>
-        <link href="http://www.linuxeden.com/a/85791"/>
-        <updated>2021-05-26T15:09:37.000Z</updated>
-        <summary type="html"><![CDATA[在企业互联网场景中，一般情况下最广泛使用的基于 Linux 的操作系统是 Red Hat Enterprise Linux（RHEL），它主要用于服务器，但也可以用作工作站。Fedora linux 其实也是工作站系统的一个很好的选择，它提 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora Cloud 35发行版本将默认使用Btrfs文件系统]]></title>
-        <id>http://www.linuxeden.com/?p=85787</id>
-        <link href="http://www.linuxeden.com/a/85787"/>
-        <updated>2021-05-26T14:44:31.000Z</updated>
-        <summary type="html"><![CDATA[自 Fedora 33 以来，Fedora Workstation 一直默认为 Btrfs 文件系统，而 Fedora 的其他版本则默认采用 EXT4 文件系统。不过在即将到来的 Fedora Cloud 35 中，这个云端的分支发行版本也 […]]]></summary>
         <author>
             <name>Editor, Kai</name>
         </author>
