@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T05:08:01.681Z</updated>
+    <updated>2021-06-25T06:11:49.626Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-25)]]></title>
+        <id>https://gocn.vip/topics/12240</id>
+        <link href="https://gocn.vip/topics/12240"/>
+        <updated>2021-06-25T06:03:23.000Z</updated>
+        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-06-25)
+项目中如何内嵌 Submodule https://medium.com/@RashadAnsari/working-with-go-sub-module-as-a-library-93e5db59a0f2
+
+Go 语言微服务开发快速上手指南 https://kaushalprajapati-25586.medium.com/golang-project-starter-60bfbbe63845
+
+为你的 Go 应用创建轻量级 Docker 镜像 http://www.cnblogs.com/you-men/p/14929232.html
+
+TDD 是如何帮助我们更好地开发 Go 代码,原理与实践 https://changelog.com/gotime/185
+
+Google 提出开源软件漏洞处理框架 https://security.googleblog.com/2021/06/announcing-unified-vulnerability-schema.html
+
+
+
+
+
+GopherChina  https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ
+
+
+编辑: Razil
+
+
+订阅新闻: http://tinyletter.com/gocn
+
+
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>DennisMao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M3U8下载器 – 在线下载流媒体视频，支持自动合并[Windows]]]></title>
         <id>https://www.appinn.com/?p=39134</id>
@@ -12537,26 +12571,6 @@ https://mp.weixin.qq.com/s/Mh5RL0BuYru9FuC1KmyAjQ]]></summary>
         <link href="https://www.freecodecamp.org/news/giphy-api-tutorial/"/>
         <updated>2021-05-26T21:44:01.000Z</updated>
         <summary type="html"><![CDATA[In this tutorial you will create an app that generates dynamic animated text using Giphy's API with ReactJS. After that I'll go over some of the other API features Giphy provides that you can use to make other interesting projects. You can find the code for the tutorial here. Video]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Contribute to Open Source  Projects – A Beginner&#x27;s Guide]]></title>
-        <id>60abe7fb11ffb70827ef63a6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/"/>
-        <updated>2021-05-26T18:01:00.000Z</updated>
-        <summary type="html"><![CDATA[If you're a developer, you've probably come across the term "open source." If you've ever wondered what it's all about and how to contribute, you are in exactly the right place.  I put aside all my fears about how and what to contribute during Hacktoberfest 2020, and made]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Basic Terraform Syntax in 20 minutes]]></title>
-        <id>606f4f5fd5756f080ba96b65</id>
-        <link href="https://www.freecodecamp.org/news/terraform-syntax-for-beginners/"/>
-        <updated>2021-05-26T18:00:52.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll give you a brief overview of the configuration syntax of Terraform.  Terraform's docs provide the most comprehensive look at its syntax. But this article should serve as a condensed quick start introduction that'll give new users a simplified overview. We'll focus on the basic structures without]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
