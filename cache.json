@@ -4678,24 +4678,6 @@
           "publishedOn": "2021-05-27T00:15:01.000Z",
           "wordCount": 1766,
           "title": "Elasticsearch 7.13.0 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85800",
-          "author": "Editor, Kai",
-          "description": "本次发布派对由优麒麟社区主办，湖南大学承办，以优麒麟用户的体验、分享和反馈为主，全程在北京、长沙、济南、南昌等城市举办。本次活动旨在与湖南大学的学生分享优麒麟 20.04 LTS Pro 版本的新特性，带领学生们更深入地了解 Linux 开 […]",
-          "link": "http://www.linuxeden.com/a/85800",
-          "publishedOn": "2021-05-27T00:12:50.000Z",
-          "wordCount": 113,
-          "title": "【湖南大学站】优麒麟 20.04 LTS Pro 发布派对"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85798",
-          "author": "Editor, Kai",
-          "description": "*) Security: 1-byte memory overwrite might occur during DNS server response processing if the “resolver” dir […]",
-          "link": "http://www.linuxeden.com/a/85798",
-          "publishedOn": "2021-05-27T00:09:08.000Z",
-          "wordCount": 122,
-          "title": "nginx 1.20.1  发布"
         }
       ]
     },
@@ -8247,33 +8229,6 @@
           "publishedOn": "2021-05-27T00:14:05.000Z",
           "wordCount": 518,
           "title": "nginx 1.20.1 稳定版和 1.21.0 主线版发布，修复高危安全漏洞"
-        },
-        {
-          "id": "https://www.oschina.net/news/143290/apache-apisix-2-6-0-released",
-          "author": null,
-          "description": "Apache APISIX 2.6.0 已发布，这是一个动态、实时、高性能的 API 网关，提供负载均衡、动态上游、灰度发布、服务熔断、身份认证、可观测性等丰富的流量管理功能。从其主要功能和特点角度来看，Apache APISIX 可以替代 Nginx 来处理南北流量，也可以扮演 Istio 控制平面和 Envoy 数据平面的角色来处理东西向流量。 下面继...",
-          "link": "https://www.oschina.net/news/143290/apache-apisix-2-6-0-released",
-          "publishedOn": "2021-05-26T23:52:51.000Z",
-          "wordCount": 676,
-          "title": "Apache APISIX 2.6.0 发布，云原生的微服务 API 网关"
-        },
-        {
-          "id": "https://www.oschina.net/news/143289/fedora-cloud-35-will-use-btrfs",
-          "author": null,
-          "description": "根据最新的变更提案显示，Fedora Cloud 35 将默认使用 Btrfs 文件系统。 自 F33 以来，Fedora Workstation 一直默认为 Btrfs 文件系统，而 Fedora Linux 的其他版本则默认使用 EXT4 操作系统。现在，计划在今年晚些时候发布的 Fedora Cloud 35 也将默认使用 Btrfs 文件系统，以便更好地使用高级文件系统功能，来提高云端...",
-          "link": "https://www.oschina.net/news/143289/fedora-cloud-35-will-use-btrfs",
-          "publishedOn": "2021-05-26T23:46:04.000Z",
-          "wordCount": 515,
-          "title": "Fedora Cloud 35 将默认使用 Btrfs 文件系统"
-        },
-        {
-          "id": "https://www.oschina.net/news/143284/chrome-publish-more-actions",
-          "author": null,
-          "description": "Google 在最新发布的 Chrome 浏览器中增加了一批新的 Chrome Actions，以便对该功能进行早期测试。 Chrome Actions 是其最近推出的一项实验性功能，它允许用户输入一个命令，使浏览器地址栏搜索结果中显示一个 Action。当点击时，该 Action 将在浏览器中自动执行，帮助用户更快、更容易地完成更多事情。 例如，当用户在 ...",
-          "link": "https://www.oschina.net/news/143284/chrome-publish-more-actions",
-          "publishedOn": "2021-05-26T23:16:31.000Z",
-          "wordCount": 492,
-          "title": "Google Chrome 现在可以通过地址栏运行更多命令"
         }
       ]
     },
@@ -8282,6 +8237,15 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=1256",
+          "author": "大眼仔~旭",
+          "description": "微软在 2021 年 6 月 24 日正式发布了其新操作系统 Windows 11，微软旗舰操作系统的下一个版 […]",
+          "link": "http://www.dayanzai.me/microsoft-windows-11.html",
+          "publishedOn": "2021-06-24T16:15:18.000Z",
+          "wordCount": 787,
+          "title": "微软正式发布可免费升级的 Windows 11 操作系统！"
+        },
         {
           "id": "http://www.dayanzai.me/?p=4026",
           "author": "大眼仔~旭",
