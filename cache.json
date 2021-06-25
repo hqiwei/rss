@@ -4624,60 +4624,6 @@
           "publishedOn": "2021-05-27T14:06:29.000Z",
           "wordCount": 116,
           "title": "Apache Fineract 1.5.0 发布 ，用于金融服务的开源软件"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85817",
-          "author": "Editor, Kai",
-          "description": "Linuxeden开源社区-开源美图 2021 05 27",
-          "link": "http://www.linuxeden.com/a/85817",
-          "publishedOn": "2021-05-27T00:25:10.000Z",
-          "wordCount": 81,
-          "title": "开源美图 2021 05 27"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85811",
-          "author": "Editor, Kai",
-          "description": "控制你自己的数据，使未经授权的用户无法访问它。 用户完全有权利关心他们数据的安全和保障。当你在计算机上创建数据时，希望对其进行独家控制是合理的。 有许多方法保护你的文件。在文件系统层面，你可以 加密你的硬盘 或 只是加密一个文件。不过，一个 […]",
-          "link": "http://www.linuxeden.com/a/85811",
-          "publishedOn": "2021-05-27T00:22:09.000Z",
-          "wordCount": 241,
-          "title": "用开源软件保护你的文件的 5 种方法"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85809",
-          "author": "Editor, Kai",
-          "description": "HHVM 4.111 is released! This release marks the end of support for 4.105; HHVM 4.106–4.110 remain supported, as do the 4. […]",
-          "link": "http://www.linuxeden.com/a/85809",
-          "publishedOn": "2021-05-27T00:21:36.000Z",
-          "wordCount": 234,
-          "title": "HHVM 4.111 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85807",
-          "author": "Editor, Kai",
-          "description": "Qt 5.12.11 provides fixes to over 40 bugs compared to Qt 5.12.10 release. Please check details about the release from Qt […]",
-          "link": "http://www.linuxeden.com/a/85807",
-          "publishedOn": "2021-05-27T00:20:20.000Z",
-          "wordCount": 187,
-          "title": "Qt 5.12.11 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85805",
-          "author": "Editor, Kai",
-          "description": "New features and enhancementsedit Progress toward Elastic Common Schema (ECS)edit In this release, we’ve made more Logst […]",
-          "link": "http://www.linuxeden.com/a/85805",
-          "publishedOn": "2021-05-27T00:15:42.000Z",
-          "wordCount": 520,
-          "title": "Logstash 7.13.0 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85803",
-          "author": "Editor, Kai",
-          "description": "Known issuesedit If autoscaling is enabled for machine learning, the administrator of the cluster should increase the cl […]",
-          "link": "http://www.linuxeden.com/a/85803",
-          "publishedOn": "2021-05-27T00:15:01.000Z",
-          "wordCount": 1766,
-          "title": "Elasticsearch 7.13.0 发布"
         }
       ]
     },
@@ -8157,78 +8103,6 @@
           "publishedOn": "2021-05-27T16:12:53.000Z",
           "wordCount": 543,
           "title": "支持自定义权限及项目级别权限配置，MeterSphere 开源持续测试平台 v1.10.0 发布"
-        },
-        {
-          "id": "https://www.oschina.net/question/2720166_2322652",
-          "author": null,
-          "description": "GOTC 「开源长廊」公开征集开源厂商、开源/技术社区 ！",
-          "link": "https://www.oschina.net/question/2720166_2322652",
-          "publishedOn": "2021-05-27T01:07:44.000Z",
-          "wordCount": 221,
-          "title": "你参与开源吗？一起为「开源长廊」添砖加瓦吧！"
-        },
-        {
-          "id": "https://my.oschina.net/u/4489239/blog/5060017",
-          "author": null,
-          "description": "1997 年出生的 Swoole 核心贡献者和 PHP 内核贡献者是代码狂人，影迷、科幻迷、FPS 游戏爱好者；初恋也超拽——PHP 语言是我的初恋，没有她就没有今天的我",
-          "link": "https://my.oschina.net/u/4489239/blog/5060017",
-          "publishedOn": "2021-05-27T00:30:16.000Z",
-          "wordCount": 442,
-          "title": "视 PHP 为初恋、为疫情而蓄发，97 年 PHP 内核贡献者能有多酷？"
-        },
-        {
-          "id": "https://www.oschina.net/news/143298/microsoft-gpt-3-power-fx-build-2021",
-          "author": null,
-          "description": "微软在 Build 2021 大会上公布了由 GPT-3 驱动的客户产品的首批功能。GPT-3 是由微软投资的 OpenAI 开发的强大自然语言模型，使用户能够构建应用程序而无需知道如何编写代码或公式。 根据介绍，微软已将 GPT-3 应用于该公司的开源低代码编程语言 Power Fx 中，以将文本转换为代码。Power Fx 是微软推出的一种基于 Micros...",
-          "link": "https://www.oschina.net/news/143298/microsoft-gpt-3-power-fx-build-2021",
-          "publishedOn": "2021-05-27T00:28:29.000Z",
-          "wordCount": 536,
-          "title": "微软将 GPT-3 应用于 PowerFx 语言以简化编码"
-        },
-        {
-          "id": "https://www.oschina.net/news/143297/thunderbird-stores-keys-in-plaintext",
-          "author": null,
-          "description": "Thunderbird 是 Mozilla 旗下的开源电子邮件客户端，在过去几个月里，经过代码重构之后的版本一直以纯文本形式保存一些用户的 OpenPGP 密钥。 该漏洞的追踪代码为 CVE-2021-29956，存在于 78.8.1 到 78.10.1 版本中。值得庆幸的是，Mozilla 目前已在 78.10.2 版本中修复了该漏洞。 这个错误是在几周前才发现的，当时该公...",
-          "link": "https://www.oschina.net/news/143297/thunderbird-stores-keys-in-plaintext",
-          "publishedOn": "2021-05-27T00:26:45.000Z",
-          "wordCount": 511,
-          "title": "Mozilla Thunderbird 以明文存储密钥，目前问题已被修复"
-        },
-        {
-          "id": "https://www.oschina.net/p/sonobus",
-          "author": null,
-          "description": "一个免费的、优雅的、多平台的、开源的点对点传输解决方案， 用于在互联网或本地网络上的设备之间流媒体高质量、低延迟的对等音频。",
-          "link": "https://www.oschina.net/p/sonobus",
-          "publishedOn": "2021-05-27T00:24:50.000Z",
-          "wordCount": 278,
-          "title": "SonoBus —— 实时音频推流"
-        },
-        {
-          "id": "https://gitee.com/gitee-8th/#/?utm_source=osc-526",
-          "author": null,
-          "description": "一场有趣好玩又福利满满的开源之旅即将发车，要不要上车？",
-          "link": "https://gitee.com/gitee-8th/#/?utm_source=osc-526",
-          "publishedOn": "2021-05-27T00:21:03.000Z",
-          "wordCount": 17,
-          "title": "Gitee 八周年庆 | 探索你的开源之旅，好礼拿不停！"
-        },
-        {
-          "id": "https://my.oschina.net/u/2550800/blog/5054701",
-          "author": null,
-          "description": "本文主要从一个 Android 开发的视角，谈谈 Android 平台下， Flutter 的混合开发与构建。",
-          "link": "https://my.oschina.net/u/2550800/blog/5054701",
-          "publishedOn": "2021-05-27T00:19:01.000Z",
-          "wordCount": 697,
-          "title": "每日一博 | Flutter 混合开发基础"
-        },
-        {
-          "id": "https://www.oschina.net/news/143292/nginx-1-20-1-n-1-21-0-released",
-          "author": null,
-          "description": "nginx 1.20.1 稳定版和 1.21.0 主线版已发布。这两个版本均修复了一个高危的安全漏洞——1-byte memory overwrite。此漏洞存在于 nginx 的 DNS 解析模块，并且仅在配置文件中使用\"resolver\"指令时才会影响 nginx。攻击者可以利用该漏洞进行远程 DDoS 攻击，甚至远程执行。 漏洞简介 1-byte memory overwrite in resolve...",
-          "link": "https://www.oschina.net/news/143292/nginx-1-20-1-n-1-21-0-released",
-          "publishedOn": "2021-05-27T00:14:05.000Z",
-          "wordCount": 518,
-          "title": "nginx 1.20.1 稳定版和 1.21.0 主线版发布，修复高危安全漏洞"
         }
       ]
     },
