@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T07:07:35.776Z</updated>
+    <updated>2021-06-25T08:10:34.483Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[用微软官方工具「电脑健康状况检查」来检测你的电脑是否符合 Windows 11 最低配置]]></title>
+        <id>https://www.appinn.com/?p=39140</id>
+        <link href="https://www.appinn.com/getpchealthcheckapp-for-windows-11/"/>
+        <updated>2021-06-25T07:05:58.000Z</updated>
+        <summary type="html"><![CDATA[随着 Windows 11 的发布，新皮肤、以及可以让 Android 应用直接在 Windows 11 中运行等新特性，让不少用户心动，那么问题来了，你现在的电脑可以安装 Windows 11 么？]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[性能利器 Takin 来了！首个生产环境全链路压测平台正式开源]]></title>
         <id>https://www.oschina.net/news/147659/takin-open-source</id>
