@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T06:11:49.626Z</updated>
+    <updated>2021-06-25T07:07:35.776Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[性能利器 Takin 来了！首个生产环境全链路压测平台正式开源]]></title>
+        <id>https://www.oschina.net/news/147659/takin-open-source</id>
+        <link href="https://www.oschina.net/news/147659/takin-open-source"/>
+        <updated>2021-06-25T06:46:29.000Z</updated>
+        <summary type="html"><![CDATA[6 月 25 日，国内知名的系统高可用专家数列科技宣布开源旗下核心产品能力，对外开放生产全链路压测平台产品的源代码，并正式命名为 Takin。 目前中国人寿、顺丰科技、希音、中通快递、中国移动、永辉超市、爱库存、浙江大学等 50+行业头部公司都采用了该技术，10 万+探针同时线上运行，每天实时处理数百亿条用户请求，生...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Light 壁纸 – 由代码生成的无限数量壁纸应用[iPhone/iPad]]]></title>
+        <id>https://www.appinn.com/?p=39137</id>
+        <link href="https://www.appinn.com/light-wallpaper-for-ios/"/>
+        <updated>2021-06-25T06:16:04.000Z</updated>
+        <summary type="html"><![CDATA[Light 壁纸 是一款纯碎由代码生成的壁纸应用，拥有 21 套免费壁纸风格和 37 套 VIP 壁纸风格，通过左滑屏幕切换壁纸样式，右滑屏幕更改壁纸颜色，还可以搭配小组件使用。@Appinn 来自发]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-25)]]></title>
         <id>https://gocn.vip/topics/12240</id>

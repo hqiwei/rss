@@ -4714,6 +4714,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=39137",
+          "author": "青小蛙",
+          "description": "Light 壁纸 是一款纯碎由代码生成的壁纸应用，拥有 21 套免费壁纸风格和 37 套 VIP 壁纸风格，通过左滑屏幕切换壁纸样式，右滑屏幕更改壁纸颜色，还可以搭配小组件使用。@Appinn 来自发",
+          "link": "https://www.appinn.com/light-wallpaper-for-ios/",
+          "publishedOn": "2021-06-25T06:16:04.000Z",
+          "wordCount": 1188,
+          "title": "Light 壁纸 – 由代码生成的无限数量壁纸应用[iPhone/iPad]"
+        },
+        {
           "id": "https://www.appinn.com/?p=39134",
           "author": "青小蛙",
           "description": "M3U8下载器是一款 Windows XP 界面风格的在线流媒体视频下载器，只需要输入 M3U8 地址，这款 M3U8下载器 就会帮你下载全部视频文件，并自动合并为一个视频文件。@Appinn 来自发",
@@ -5062,6 +5071,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/147659/takin-open-source",
+          "author": null,
+          "description": "6 月 25 日，国内知名的系统高可用专家数列科技宣布开源旗下核心产品能力，对外开放生产全链路压测平台产品的源代码，并正式命名为 Takin。 目前中国人寿、顺丰科技、希音、中通快递、中国移动、永辉超市、爱库存、浙江大学等 50+行业头部公司都采用了该技术，10 万+探针同时线上运行，每天实时处理数百亿条用户请求，生...",
+          "link": "https://www.oschina.net/news/147659/takin-open-source",
+          "publishedOn": "2021-06-25T06:46:29.000Z",
+          "wordCount": 557,
+          "title": "性能利器 Takin 来了！首个生产环境全链路压测平台正式开源"
+        },
         {
           "id": "https://www.oschina.net/news/147614/linux-5-14-to-support-xxm-fast-hypercall",
           "author": null,
