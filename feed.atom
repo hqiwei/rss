@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T09:09:54.873Z</updated>
+    <updated>2021-06-25T10:10:17.704Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12613,16 +12613,6 @@ https://mp.weixin.qq.com/s/Mh5RL0BuYru9FuC1KmyAjQ]]></summary>
         <summary type="html"><![CDATA[Google 在最新发布的 Chrome 浏览器中增加了一批新的 Chrome Actions，以便对该功能进行早期测试。 Chrome Actions 是其最近推出的一项实验性功能，它允许用户输入一个命令，使浏览器地址栏搜索结果中显示一个 Action。当点击时，该 Action 将在浏览器中自动执行，帮助用户更快、更容易地完成更多事情。 例如，当用户在 ...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS]]></title>
-        <id>60a44b9f906c5207e3a7e098</id>
-        <link href="https://www.freecodecamp.org/news/giphy-api-tutorial/"/>
-        <updated>2021-05-26T21:44:01.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial you will create an app that generates dynamic animated text using Giphy's API with ReactJS. After that I'll go over some of the other API features Giphy provides that you can use to make other interesting projects. You can find the code for the tutorial here. Video]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
