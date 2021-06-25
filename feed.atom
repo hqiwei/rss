@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T15:10:38.383Z</updated>
+    <updated>2021-06-25T16:13:41.895Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 06 25]]></title>
+        <id>http://www.linuxeden.com/?p=86885</id>
+        <link href="http://www.linuxeden.com/a/86885"/>
+        <updated>2021-06-25T15:52:55.000Z</updated>
+        <summary type="html"><![CDATA[用于调度任务的 systemd 定时器 英特尔桥接技术也适用于AMD/ARM处理器 愉快运行Android应用程序 Apache trafficserver 9.0.2发布 GNU TeXmacs 2.1 发布了 在 Linux 上用 fd […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用于调度任务的 systemd 定时器]]></title>
+        <id>http://www.linuxeden.com/?p=86883</id>
+        <link href="http://www.linuxeden.com/a/86883"/>
+        <updated>2021-06-25T15:51:20.000Z</updated>
+        <summary type="html"><![CDATA[systemd 提供定时器有一段时间了，定时器替代了 cron 功能，这一特性值得看看。本文将向你介绍在系统启动后如何使用 systemd 中的定时器来运行任务，并在此后重复运行。这不是对 systemd 的全面讨论，只是对此特性的一个介绍 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特尔桥接技术也适用于AMD/ARM处理器 愉快运行Android应用程序]]></title>
+        <id>http://www.linuxeden.com/?p=86877</id>
+        <link href="http://www.linuxeden.com/a/86877"/>
+        <updated>2021-06-25T15:42:52.000Z</updated>
+        <summary type="html"><![CDATA[在昨晚的“下一代 Windows”发布会上，微软给我们带来了诸多惊喜，尤其是能够在 Windows 11 操作系统中运行 Android 应用程序这件事。有趣的是，尽管微软在演示期间强调了该功能由基于“英特尔桥接技术”的编译器提供支持，但它 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache trafficserver 9.0.2发布]]></title>
+        <id>http://www.linuxeden.com/?p=86874</id>
+        <link href="http://www.linuxeden.com/a/86874"/>
+        <updated>2021-06-25T15:30:37.000Z</updated>
+        <summary type="html"><![CDATA[trafficserver-9.0.2.tar.bz2         2021-06-24 18:16  9.0M trafficserver-9.0.2.tar.bz2.asc     2021-06-24 18:16  963 tra […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apache Dubbo 多个高危漏洞通告]]></title>
         <id>https://www.oschina.net/news/147690</id>
