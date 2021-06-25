@@ -866,6 +866,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12239",
+          "author": "jacobxy",
+          "description": "单机限流器 time/rate 库\n推荐编辑：不落凡尘\n1、限流是什么\n顾名思义，限流就是只在一段时间内对流通量的管控限制。限流器是后台服务中的非常要的组件，用于限制请求速率，保护服务，避免服务过载。\ngolang 标准库中自带了令牌桶限流算法的实现golang.org/x/time/rate。\n2、如何安装\n使用前要安装它，安装要在当前项目所在目录中执行 go get -u golang.org/x/time/rate 即可。\n3、什么是限流器\n漏桶限流器\n漏桶算法是比较常见的限流算法，其原理就如漏斗一样，进水口是请求流，出水口是服务流，如果请求流量过大，则会导致溢出从而拒绝请求。\n\n在 Go 语言中有一种数据结构可以十分贴切的模拟漏桶，那就是 chan。\n//桶的容量为Max\nch := make(chan *Request， Max)\n\n//流量进入\nif(len(ch)<Max){\n    ch <- req //桶未满\n}else {\n    cancel(req) //桶满，拒绝请求\n}\n\n//流量处理 预设处理间隔 m\nfor {\n    time.Sleep(m * time.Second)\n    r := <- ch\n    Handle(r)\n}\n\n这是最简单的漏桶实现的代码。\n当桶没有积水时，即入桶速率更小，此时以入桶速率处理请求。当桶中有积水时，即入桶速率更大，此时以预设出桶速率处理请求。当桶满时，丢弃入桶请求。\n令牌桶限流器\n令牌桶的工作流程则分为三个阶段：生产令牌，判定是否处理，消耗令牌。\n\n生产令牌：系统会以一定的频率向桶中放入令牌，桶满时丢弃令牌。\n判定是否处理：当请求到来时，判断桶中的令牌是否足够，不足够时是否等待，是否丢弃。\n消耗令牌：令牌足够时，减少桶中的令牌并处理请求。\n4、使用令牌桶限流器\n我们依旧可以通过 channel 模拟的…",
+          "link": "https://gocn.vip/topics/12239",
+          "publishedOn": "2021-06-25T03:13:22.000Z",
+          "wordCount": 357,
+          "title": "单机限流器 time/rate 库"
+        },
+        {
           "id": "https://gocn.vip/topics/12238",
           "author": "TiDB_Robot",
           "description": "AskTUG.com 技术问答网站相信大家都不陌生，但除了日常熟知的前端页面外，背后支撑其运行的数据库还有一个不为人知的故事。本文由 AskTUG.com 的作者之一王兴宗老师分享，揭秘诞生于 Discourse 的 AskTUG.com ，从 PostgreSQL 迁移到 MySQL 最后稳定运行在 TiDB 的奇妙故事。\n一个广告：\nAskTUG.com 是 TiDB User、Contributor、合作伙伴的聚集地，在这里你可以找到所有 TiDB 相关问题的答案。欢迎大家注册体验～\n链接：https://asktug.com/\n背景\n“通过一个平台，一定能找到 TiDB 所有问题的满意答案。”\n因为这样的愿望，TiDB 生态中的用户、Contributor、合作伙伴一起建立了 AskTUG.com 技术问答网站，并于 2019 年 8 月正式公开上线。作为 TUG 成员学习、分享的 “聚集地”，TiDB 用户可以在这里提出、解答问题，相互交流探讨，这里汇集 TiDB 用户的集体智慧。自上线以来，AskTUG.com 逐渐吸引了越来越多用户的关注，截止 2021 年 6 月底，AskTUG.com 已有 7000+ 注册用户，沉淀了 1.6w+ 问题和 300+ 技术文章。\n很多小伙伴都已经发现，AskTUG.com 的后端程序是一个 Discourse 程序。关于 Discourse 是 Stack Overflow 的联合创始人 Jeff Atwood 推出的一个新的开源论坛项目，其目的是为了改变十年未变的论坛软件。在 AskTUG.com 建立之初，从以下几个角度确定使用 Discourse：\n  功能强大：Discourse 特性丰富，可定制性强，是论坛界的 WordPress。与其他传统的论坛相比， Discourse 简化了传统论坛的分类，取而代之是热贴，…",
@@ -4714,15 +4723,6 @@
           "publishedOn": "2021-05-27T00:09:08.000Z",
           "wordCount": 122,
           "title": "nginx 1.20.1  发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85796",
-          "author": "Editor, Kai",
-          "description": "将 Fedora Linux 系统添加到企业域中 Fedora Cloud 35发行版本将默认使用Btrfs文件系统 每秒900多颗！ARM处理器季度出货73亿颗、历史1900亿颗 现在可以在Windows 10中运行Linux GUI应用 […]",
-          "link": "http://www.linuxeden.com/a/85796",
-          "publishedOn": "2021-05-26T15:11:35.000Z",
-          "wordCount": 97,
-          "title": "每日文章精选 2021 05 26"
         }
       ]
     },
@@ -4731,6 +4731,15 @@
       "feedUrl": "http://feed.appinn.com",
       "siteUrl": "https://www.appinn.com",
       "articles": [
+        {
+          "id": "https://www.appinn.com/?p=39134",
+          "author": "青小蛙",
+          "description": "M3U8下载器是一款 Windows XP 界面风格的在线流媒体视频下载器，只需要输入 M3U8 地址，这款 M3U8下载器 就会帮你下载全部视频文件，并自动合并为一个视频文件。@Appinn 来自发",
+          "link": "https://www.appinn.com/m3u8-downloader-for-windows/",
+          "publishedOn": "2021-06-25T03:25:46.000Z",
+          "wordCount": 1142,
+          "title": "M3U8下载器 – 在线下载流媒体视频，支持自动合并[Windows]"
+        },
         {
           "id": "https://www.appinn.com/?p=39130",
           "author": "青小蛙",
@@ -9115,24 +9124,6 @@
           "publishedOn": "2021-05-26T16:17:11.000Z",
           "wordCount": 998,
           "title": "开源免费 Windows 终端 Windows Terminal 1.8.1444.0 中文免费版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=338",
-          "author": "大眼仔~旭",
-          "description": "开源免费 Win7 优化工具 7+ Taskbar Tweaker 中文版由大眼仔旭（www.dayanzai […]",
-          "link": "http://www.dayanzai.me/7-taskbar-tweaker.html",
-          "publishedOn": "2021-05-26T16:09:51.000Z",
-          "wordCount": 575,
-          "title": "开源免费 Win7 优化工具 7+ Taskbar Tweaker 5.11.1 中文多语免费版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=842",
-          "author": "大眼仔~旭",
-          "description": "Mozilla 声称最大的“改进”之一是 Firefox 的内存使用情况，尤其是解决了内存泄漏问题。 尽管 F […]",
-          "link": "http://www.dayanzai.me/firemin.html",
-          "publishedOn": "2021-05-26T16:02:41.000Z",
-          "wordCount": 544,
-          "title": "火狐浏览器内存加速工具 Firemin 8.1.3.5230 中文多语免费版"
         }
       ]
     }
