@@ -5081,6 +5081,24 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/147690",
+          "author": null,
+          "description": "报告编号：B6-2021-062402 报告来源：360CERT 报告作者：360CERT 更新日期：2021-06-24 1 漏洞简述 2021年06月24日，360CERT监测发现Github SecurityLab发布了Dubbo组件多个高危漏洞的风险通告，漏洞编号为CVE-2021-25641等，漏洞等级：高危，漏洞评分：8.5。 Apache Dubbo是一款高性能、轻量级的开源Java RPC框架，它提...",
+          "link": "https://www.oschina.net/news/147690",
+          "publishedOn": "2021-06-25T08:41:49.000Z",
+          "wordCount": 638,
+          "title": "Apache Dubbo 多个高危漏洞通告"
+        },
+        {
+          "id": "https://www.oschina.net/news/147686",
+          "author": null,
+          "description": "报告编号：B6-2021-062499 报告来源：360CERT 报告作者：360CERT 更新日期：2021-06-24 1 Vulnerability|漏洞 CVE-2021-3044: Cortex XSOAR未认证REST API使用漏洞 https://cert.360.cn/warning/detail?id=ad502701b807125563b6eb6d5f721f1a CVE-2021-21998: VMware Carbon Black App Control身份验证绕过漏洞 https://...",
+          "link": "https://www.oschina.net/news/147686",
+          "publishedOn": "2021-06-25T08:37:37.000Z",
+          "wordCount": 495,
+          "title": "安全日报：恶意 PyPI 包劫持开发设备以挖掘加密货币"
+        },
+        {
           "id": "https://www.oschina.net/news/147659/takin-open-source",
           "author": null,
           "description": "6 月 25 日，国内知名的系统高可用专家数列科技宣布开源旗下核心产品能力，对外开放生产全链路压测平台产品的源代码，并正式命名为 Takin。 目前中国人寿、顺丰科技、希音、中通快递、中国移动、永辉超市、爱库存、浙江大学等 50+行业头部公司都采用了该技术，10 万+探针同时线上运行，每天实时处理数百亿条用户请求，生...",
