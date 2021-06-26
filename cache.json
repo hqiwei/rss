@@ -4687,15 +4687,6 @@
           "publishedOn": "2021-05-27T14:44:32.000Z",
           "wordCount": 111,
           "title": "Sailfish OS 4.1终于拥抱64位 Android10应用支持API等级"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85820",
-          "author": "Editor, Kai",
-          "description": "apache-fineract-1.5.0-binary.tar.gz        2021-05-25 01:05  188M apache-fineract-1.5.0-binary.tar.gz.asc    2021-05-25  […]",
-          "link": "http://www.linuxeden.com/a/85820",
-          "publishedOn": "2021-05-27T14:06:29.000Z",
-          "wordCount": 116,
-          "title": "Apache Fineract 1.5.0 发布 ，用于金融服务的开源软件"
         }
       ]
     },
@@ -8281,6 +8272,15 @@
           "publishedOn": "2021-06-25T16:31:03.000Z",
           "wordCount": 618,
           "title": "EVGA 推出超频工具 EVGA Precision X1 1.2.2.0 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=5961",
+          "author": "大眼仔~旭",
+          "description": "计算机科学不断扩大，该领域的竞争比以往任何时候都更加激烈。 随着我们生活的方方面面都变得数字化，对计算机专家的 […]",
+          "link": "http://www.dayanzai.me/programming-languages-to-lear.html",
+          "publishedOn": "2021-06-25T16:29:13.000Z",
+          "wordCount": 648,
+          "title": "程序员从删库到跑路之 2021 年最值得学习的七种编程语言"
         },
         {
           "id": "http://www.dayanzai.me/?p=35102",

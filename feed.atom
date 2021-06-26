@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T01:48:01.728Z</updated>
+    <updated>2021-06-26T02:21:14.156Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -218,6 +218,16 @@ e) 为开源项目做过贡献；
         <link href="http://www.dayanzai.me/evga-precision-x1.html"/>
         <updated>2021-06-25T16:31:03.000Z</updated>
         <summary type="html"><![CDATA[EVGA 推出超频工具 EVGA Precision X1 中文版由大眼仔旭（www.dayanzai.me） […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[程序员从删库到跑路之 2021 年最值得学习的七种编程语言]]></title>
+        <id>http://www.dayanzai.me/?p=5961</id>
+        <link href="http://www.dayanzai.me/programming-languages-to-lear.html"/>
+        <updated>2021-06-25T16:29:13.000Z</updated>
+        <summary type="html"><![CDATA[计算机科学不断扩大，该领域的竞争比以往任何时候都更加激烈。 随着我们生活的方方面面都变得数字化，对计算机专家的 […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
         </author>
@@ -12630,16 +12640,6 @@ https://github.com/dghubble/sling]]></summary>
         <link href="http://www.linuxeden.com/a/85826"/>
         <updated>2021-05-27T14:44:32.000Z</updated>
         <summary type="html"><![CDATA[当其他移动操作系统多年来一直采用64位软件堆栈，并在逐步淘汰32位应用支持的过程中，Jolla正在庆祝Sailfish 4.1终于标志着他们第一个完全64位的Sailfish OS软件堆栈的到来，但它目前只可用于索尼Xperia 10 II […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Fineract 1.5.0 发布 ，用于金融服务的开源软件]]></title>
-        <id>http://www.linuxeden.com/?p=85820</id>
-        <link href="http://www.linuxeden.com/a/85820"/>
-        <updated>2021-05-27T14:06:29.000Z</updated>
-        <summary type="html"><![CDATA[apache-fineract-1.5.0-binary.tar.gz        2021-05-25 01:05  188M apache-fineract-1.5.0-binary.tar.gz.asc    2021-05-25  […]]]></summary>
         <author>
             <name>Editor, Kai</name>
         </author>
