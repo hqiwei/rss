@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T03:10:29.713Z</updated>
+    <updated>2021-06-26T04:11:41.368Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -208,6 +208,16 @@ e) 为开源项目做过贡献；
         <link href="http://www.dayanzai.me/everyone-piano.html"/>
         <updated>2021-06-25T16:35:15.000Z</updated>
         <summary type="html"><![CDATA[Everyone Piano 中文特别版 键盘钢琴软件由大眼仔旭（www.dayanzai.me）发布。你是否 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么是 Windows 11 中的可信平台模块 (TPM)？]]></title>
+        <id>http://www.dayanzai.me/?p=934</id>
+        <link href="http://www.dayanzai.me/trusted-platform-module.html"/>
+        <updated>2021-06-25T16:34:47.000Z</updated>
+        <summary type="html"><![CDATA[这两天随着 Windows 11 的发布 TPM 这个词火了起来，硬件攻击很少成为头条新闻，但需要与其他威胁相 […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
         </author>
@@ -12602,26 +12612,6 @@ https://github.com/dghubble/sling]]></summary>
         <summary type="html"><![CDATA[Cyberduck 中文版 免费开源的 FTP/SFTP 软件由大眼仔旭（www.dayanzai.me）发布 […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日文章精选 2021 05 27]]></title>
-        <id>http://www.linuxeden.com/?p=85838</id>
-        <link href="http://www.linuxeden.com/a/85838"/>
-        <updated>2021-05-27T15:22:56.000Z</updated>
-        <summary type="html"><![CDATA[什么是 Java 的无服务器化？ Sailfish OS 4.1终于拥抱64位 Android10应用支持API等级 Apache Fineract 1.5.0 发布 ，用于金融服务的开源软件 用开源软件保护你的文件的 5 种方法 【湖南大 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀]]></title>
-        <id>60a325c6906c5207e3a7da25</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-a-basketball-in-unity-with-materials-and-textures/"/>
-        <updated>2021-05-27T15:16:34.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll teach you how to make a basketball using materials and textures in Unity. You can extend this micro-concept to create any kind of ball like a football, tennis ball, or snooker balls.  That said, these techniques aren't just limited to creating round 3D objects like balls.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
