@@ -830,6 +830,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12241",
+          "author": "renzheng.wang",
+          "description": "职位描述：\n负责 API 网关系统的研发和维护；\n把客户和产品侧的需求转化为技术方案；\n负责相关运营系统的开发和维护；\n持续改进 API 网关系统，优化性能，提高稳定性，改进 DevOps 相关流程。\n岗位要求：\n本科及以上学历，经验不限，熟练掌握 Golang / Java / C++ 等编程语言（一种即可）；\n具备良好的基本功、开发习惯，熟练掌握计算机网络相关知识，数据结构和算法；\n熟悉 MySQL/TiDB 、Redis 等相关技术；\n具有良好的学习能力、团队合作意识、较强的沟通能力；\n熟悉 UNIX/Linux 操作系统基本操作；\n有以下经验者优先：\na) 有 Nginx / OpenResty 开发经验；\nb) 有大流量、分布式、高并发系统的开发经验；\nc) 有 Kafka 、Rabbit MQ 、Elastic Search 、Skywalking 、Jaeger 等组件的使用经验；\nd) 熟悉 Docker 、Kubernetes 等容器相关技术；\ne) 为开源项目做过贡献；\n工作福利：\n健康保险：五险一金、补充商业保险、年度体检、免费健身房、弹性工作制\n带薪假期：法定年假、公司年假、带薪病假\n节假日福利：春节特别假、生日假、节假日礼物\n员工活动：年度旅游、社团活动、免费水果下午茶\n调薪晋升：每年两次晋升窗口、每年一次普调\n薪资: 15 -35K 看面试表现决定薪资\n简历接收：\n邮箱：cmVuemhlbmcud2FuZ0B1Y2xvdWQuY24=\n微信：d2FuZ3J6bmV1MTk5MQ==",
+          "link": "https://gocn.vip/topics/12241",
+          "publishedOn": "2021-06-26T01:36:15.000Z",
+          "wordCount": 144,
+          "title": "[上海][部门直招] UCloud 招聘 API 网关研发工程师"
+        },
+        {
           "id": "https://gocn.vip/topics/12240",
           "author": "DennisMao",
           "description": "GoCN 每日新闻 (2021-06-25)\n项目中如何内嵌 Submodule https://medium.com/@RashadAnsari/working-with-go-sub-module-as-a-library-93e5db59a0f2\n\nGo 语言微服务开发快速上手指南 https://kaushalprajapati-25586.medium.com/golang-project-starter-60bfbbe63845\n\n为你的 Go 应用创建轻量级 Docker 镜像 http://www.cnblogs.com/you-men/p/14929232.html\n\nTDD 是如何帮助我们更好地开发 Go 代码,原理与实践 https://changelog.com/gotime/185\n\nGoogle 提出开源软件漏洞处理框架 https://security.googleblog.com/2021/06/announcing-unified-vulnerability-schema.html\n\n\n\n\n\nGopherChina  https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n编辑: Razil\n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs",
@@ -1826,6 +1835,60 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=86904",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 06 26",
+          "link": "http://www.linuxeden.com/a/86904",
+          "publishedOn": "2021-06-26T01:17:21.000Z",
+          "wordCount": 84,
+          "title": "开源美图 2021 06 26"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86898",
+          "author": "Editor, Kai",
+          "description": "在某些领域，Linux 确实要比 Windows 和 macOS 更加优秀。人们正在意识到这一点，而且 Linux 也在桌面操作系统市场上变得愈发流行。 当然，目前大多数桌面操作系统用户仍然对 Windows 或者 macOS 推崇备至，但 […]",
+          "link": "http://www.linuxeden.com/a/86898",
+          "publishedOn": "2021-06-26T01:13:59.000Z",
+          "wordCount": 242,
+          "title": "为什么在 2021 年我仍然推荐你使用 Linux"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86896",
+          "author": "Editor, Kai",
+          "description": "Dear Spring community, On behalf of the team and everyone who contributed, it is my pleasure to announce 2.0.0 version f […]",
+          "link": "http://www.linuxeden.com/a/86896",
+          "publishedOn": "2021-06-26T01:11:57.000Z",
+          "wordCount": 169,
+          "title": "Spring Integration Zip 2.0.0发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86894",
+          "author": "Editor, Kai",
+          "description": "On behalf of the team and everyone who has contributed, I’m happy to announce that Spring Boot 2.5.2 has been released a […]",
+          "link": "http://www.linuxeden.com/a/86894",
+          "publishedOn": "2021-06-26T01:11:22.000Z",
+          "wordCount": 191,
+          "title": "Spring Boot 2.5.2 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86891",
+          "author": "Editor, Kai",
+          "description": "New features E-book viewer: Allow clicking links in popup footnotes Closes tickets: 1931646 Main book list: Scroll per p […]",
+          "link": "http://www.linuxeden.com/a/86891",
+          "publishedOn": "2021-06-26T01:08:34.000Z",
+          "wordCount": 308,
+          "title": "Calibre 5.22.1 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86888",
+          "author": "Editor, Kai",
+          "description": "apache-apisix-2.7-src.tgz        2021-06-25 01:07  194K apache-apisix-2.7-src.tgz.asc    2021-06-25 01:07  833 apache-ap […]",
+          "link": "http://www.linuxeden.com/a/86888",
+          "publishedOn": "2021-06-26T00:51:19.000Z",
+          "wordCount": 96,
+          "title": "Apache Apisix 2.7发布"
+        },
         {
           "id": "http://www.linuxeden.com/?p=86885",
           "author": "Editor, Kai",
@@ -4999,6 +5062,33 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/147769/windows-11s-strict-system-requirements-might-benefit-linux",
+          "author": null,
+          "description": "OMGUbuntu 发表了一篇题为“Why Windows 11's Arrival is Good News for Ubuntu”的文章。文章指出，Windows 11 的硬件环境要求对于 Linux 发行版而言是一个好消息。其观点是相对于运行 Linux 的低门槛硬件环境，Windows 11 过高的要求会导致许多使用旧设备的用户无法升级，进而促使他们考虑使用可替代的 Linux 方案。 ...",
+          "link": "https://www.oschina.net/news/147769/windows-11s-strict-system-requirements-might-benefit-linux",
+          "publishedOn": "2021-06-26T01:34:30.000Z",
+          "wordCount": 522,
+          "title": "Windows 11 “利好” Linux 发行版？"
+        },
+        {
+          "id": "https://www.oschina.net/news/147768/webmis-2-0-0-released",
+          "author": null,
+          "description": "WebMIS全栈开发基础框架。前后端分离，前端采用 Vue3 + TypeScript 在Node环境下开发并封装基础UI组件和JS组件，后端采用PHP、Python、Java、Go封装数据库多连接池、Redis连接池的高性能轻量级基础框架，技术包括 PHP / Python / SpringBoot / Gin / Phalcon / Flutter / NodeJS / Vue / Socket / Redis / ResultFul AP...",
+          "link": "https://www.oschina.net/news/147768/webmis-2-0-0-released",
+          "publishedOn": "2021-06-26T01:28:43.000Z",
+          "wordCount": 518,
+          "title": "WebMIS v2.0.0 正式版，高性能轻量级全栈开发基础框架"
+        },
+        {
+          "id": "https://www.oschina.net/news/147767/dell-supportassist-bugs-influence-30-million-pc",
+          "author": null,
+          "description": "近日，安全研究人员在 Dell SupportAssist 的 BIOSConnect 功能中发现了四个安全漏洞，这些漏洞允许攻击者在受影响设备的 BIOS 中远程执行代码。 根据戴尔官方网站，SupportAssist 软件预装在大多数运行 Windows 操作系统的戴尔设备上，而 BIOSConnect 则用于提供远程固件更新和操作系统恢复功能。此次发现的一系列漏洞的...",
+          "link": "https://www.oschina.net/news/147767/dell-supportassist-bugs-influence-30-million-pc",
+          "publishedOn": "2021-06-26T01:05:11.000Z",
+          "wordCount": 515,
+          "title": "戴尔 SupportAssist 漏洞危及 3000 万台 PC"
+        },
         {
           "id": "https://www.oschina.net/news/147765/google-plan-to-phase-out-third-party-cookies",
           "author": null,
@@ -8174,6 +8264,42 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=5744",
+          "author": "大眼仔~旭",
+          "description": "Everyone Piano 中文特别版 键盘钢琴软件由大眼仔旭（www.dayanzai.me）发布。你是否 […]",
+          "link": "http://www.dayanzai.me/everyone-piano.html",
+          "publishedOn": "2021-06-25T16:35:15.000Z",
+          "wordCount": 508,
+          "title": "键盘钢琴软件 Everyone Piano 2.3.4.14 中文免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=1196",
+          "author": "大眼仔~旭",
+          "description": "EVGA 推出超频工具 EVGA Precision X1 中文版由大眼仔旭（www.dayanzai.me） […]",
+          "link": "http://www.dayanzai.me/evga-precision-x1.html",
+          "publishedOn": "2021-06-25T16:31:03.000Z",
+          "wordCount": 618,
+          "title": "EVGA 推出超频工具 EVGA Precision X1 1.2.2.0 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=35102",
+          "author": "大眼仔~旭",
+          "description": "Windows 程序卸载工具 HiBit Uninstaller 中文版由大眼仔旭（www.dayanzai. […]",
+          "link": "http://www.dayanzai.me/hibit-uninstaller.html",
+          "publishedOn": "2021-06-24T16:34:49.000Z",
+          "wordCount": 589,
+          "title": "Windows 程序卸载工具 HiBit Uninstaller 2.6.10 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=3032",
+          "author": "大眼仔~旭",
+          "description": "Mp3tag 中文版 MP3 信息修改工具由大眼仔旭（www.dayanzai.me）发布。MP3文件ID3- […]",
+          "link": "http://www.dayanzai.me/mp3tag.html",
+          "publishedOn": "2021-06-24T16:34:10.000Z",
+          "wordCount": 590,
+          "title": "MP3 信息修改工具 Mp3tag 3.07a 中文多语免费版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=1256",
           "author": "大眼仔~旭",
