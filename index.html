@@ -14157,23 +14157,6 @@ Sum% 值是当前行及上面行的累加和占比。如图所示中，第一行
     <ul class="sources card">
       <li class="source">
         <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.appinn.com">小众软件</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">When The Last Time – 我上次做这事情是什么时候？我有多久没有处理这件事情呢？</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.appinn.com/when-the-last-time-for-iphone/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(4 min)</span>
-                    <span>When The Last Time 是一款帮你追踪并记录重复发生事情的 iPhone 应用，并提示下一次处理的时间。解决这样的问题：我上次做这事情是什么时候？我有多久没有处理这件事情呢？@Appin</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
           <h3 class="source-name"><a class="source-name__link" href="http://www.dayanzai.me">大眼仔旭</a></h3>
           <section class="articles-per-source">
             <article>
@@ -14372,70 +14355,6 @@ Serverless Devs 与 Docusaurus
                 </a>
               </details>
             </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">灵活的 Go http client 库-Sling</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12130">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>推荐理由
-项目开发中，发送 http 请求的场景，推荐使用 Sling 库。Sling 本身是基于 net/http 来处理发送请求，同时做了较好的封装，既可以利用 net/http 的一些特性（如：httptrace)，同时又不必关心 net/http 库的一些琐碎细节。
-功能介绍
-Sling 支持以下主要的功能：
-支持 GET/POST/PUT/PATCH/DELETE/HEAD
-基于 Base/Path 可以扩展和复用 Sling
-query 参数可以用结构体来 Encode
-Request Body 支持 form 和 json
-可将 Json 格式的 Response 直接 Decode 到定义好的结构体
-可扩展 Response 的 Decoder，以及 Doer。
-使用指南
-Sling 对 http 请求的要素 method、baseUrl、Path、query、body、request、response 等做了封装，基本使用可以参考https://github.com/dghubble/sling 上的示例代码。
-
-
-可以通过实现 ResponseDecoder 和 Doer 的接口，来定制响应的 decoder 和发送请求的具体实现。
-
-
-利用 Sling 灵活扩展的特性提高业务代码复用，可以参考下面的示例：
-
-
-const baseURL &#x3D; &quot;https://api.github.com/&quot;
-
-// Github Issue (abbreviated)
-type Issue struct {
-    Title  string &#x60;json:&quot;title&quot;&#x60;
-    Body   string &#x60;json:&quot;body&quot;&#x60;
-}
-
-type IssueService struct {
-    sling *sling.Sling
-}
-
-func NewIssueService(httpClient *http.Client) *IssueService {
-    return &amp;IssueService{
-        sling: sling.New().Client(httpClient).Base(baseURL),
-    }
-}
-
-func (s *IssueService) ListByRepo(owner, repo string, params *IssueListParams) ([]Issue, *http.Response, error) {
-    issues :&#x3D; new([]Issue)
-    githubError :&#x3D; new(GithubError)
-    path :&#x3D; fmt.Sprintf(&quot;repos/%s/%s/issues&quot;, owner, repo)
-    // 注意此处一定要调用New方法来clone一个sling实例
-    resp, err :&#x3D; s.sling.New().Get(path).QueryStruct(params).Receive(issues, githubError)
-    if err &#x3D;&#x3D; nil {
-        err &#x3D; githubError
-    }
-    return *issues, resp, err
-}
-
-总结
-Sling 的默认实现可以覆盖大部分对于 http 发送请求场景，同时可以通过实现 Doer 和 ResponseDecoder 接口来扩展个性化的场景。
-参考资料
-https://github.com/dghubble/sling</span>
-                  </div>
-                </a>
-              </details>
-            </article>
         </section>
       </li>
       <li class="source">
@@ -14542,7 +14461,7 @@ https://github.com/dghubble/sling</span>
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-06-26T15:09:53.448Z">2021-06-26T15:09:53.448Z</time>
+    <time id="build-timestamp" datetime="2021-06-26T17:15:24.830Z">2021-06-26T17:15:24.830Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.0</a></span>
   </footer>
   <script src="index.js"></script>
