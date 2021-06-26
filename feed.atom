@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T11:07:38.643Z</updated>
+    <updated>2021-06-26T12:13:09.525Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12432,116 +12432,6 @@ https://github.com/dghubble/sling]]></summary>
         <summary type="html"><![CDATA[forms Commit Description 19d7bf4162 fix(forms): Add float number support for min and max validator (#42223) migrations C […]]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深度解读静态代码扫描，如何更低成本提升代码质量]]></title>
-        <id>https://my.oschina.net/gitosc/blog/5059747</id>
-        <link href="https://my.oschina.net/gitosc/blog/5059747"/>
-        <updated>2021-05-28T00:10:55.000Z</updated>
-        <summary type="html"><![CDATA[所谓质量左移是指代码在测试之前，在编码阶段就已经介入了代码的质量检测，提前发现并修复代码问题，有效减少测试时间，提高研发效率，发现BUG越晚，修复的成本越大。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quarkus 1.13.6.Final 发布]]></title>
-        <id>http://www.linuxeden.com/?p=85840</id>
-        <link href="http://www.linuxeden.com/a/85840"/>
-        <updated>2021-05-28T00:10:34.000Z</updated>
-        <summary type="html"><![CDATA[Complete changelog #17493 – Hibernate Validator – Work around Jandex issue in enclosingTarget() #17472 ̵ […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[报告：Serverless 已成为许多软件堆栈的关键部分]]></title>
-        <id>https://www.oschina.net/news/143469/state-of-serverless-2021</id>
-        <link href="https://www.oschina.net/news/143469/state-of-serverless-2021"/>
-        <updated>2021-05-28T00:09:30.000Z</updated>
-        <summary type="html"><![CDATA[Datadog 发布了一份 2021 年 Serverless 状态报告指出，从云原生初创公司到大型企业，Serverless 已经在各种规模的组织中流行。该报告研究了数千家公司运行的数百万个功能，以了解 Serverless 在现实世界中的应用情况。 报告指出，AWS Lambda 是最成熟、使用最广泛的 FaaS 产品；Azure Functions 和 Google Cloud Funct...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软和 IBM 在 Open Liberty 和 WebSphere 项目上展开合作]]></title>
-        <id>https://www.oschina.net/news/143468/microsoft-and-ibm-collaborate-on-openliberty-and-websphere</id>
-        <link href="https://www.oschina.net/news/143468/microsoft-and-ibm-collaborate-on-openliberty-and-websphere"/>
-        <updated>2021-05-28T00:08:26.000Z</updated>
-        <summary type="html"><![CDATA[IBM 和微软近日宣布推出联合开发的解决方案，用于在基于 Azure Linux 的虚拟机（VM）上运行 IBM 的 WebSphere Application Server（WAS）网络部署。 该解决方案针对传统的 WAS Java EE 应用服务器而设计（而不是低开销的 WebSphere Liberty），使企业能够在 Azure 上运行企业 Java 工作负载，同时让他们能够访问各种 Az...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyKeyBoardFairy —— Python 编写的简单版键盘精灵]]></title>
-        <id>https://www.oschina.net/p/py-key-board-fairy</id>
-        <link href="https://www.oschina.net/p/py-key-board-fairy"/>
-        <updated>2021-05-28T00:06:34.000Z</updated>
-        <summary type="html"><![CDATA[Python编写的简单版键盘精灵，可以替代你游戏中的卡键盘和鼠标宏。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日一博 | 从源码出发看 ZGC 的技术内幕]]></title>
-        <id>https://my.oschina.net/u/3645114/blog/5060830</id>
-        <link href="https://my.oschina.net/u/3645114/blog/5060830"/>
-        <updated>2021-05-28T00:02:36.000Z</updated>
-        <summary type="html"><![CDATA[笔者经过上次对 zgc 在不同环境下进行的测试后，发现 zgc 所带来的提升非常之大。但是在全面使用之前，难免对其几大新特性有一些好奇，比如：染色指针、读屏障、动态 region 以及支持 NUMA 等等。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitee 推荐 | 从 Sketch 导出静态 HTML 文件-Sketch MeaXure]]></title>
-        <id>https://gitee.com/hubzyy/sketch-meaxure</id>
-        <link href="https://gitee.com/hubzyy/sketch-meaxure"/>
-        <updated>2021-05-28T00:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Sketch MeaXure 是使用 TypeScript 对Sketch Measure的重新实现，它使用 Sketch JavaScript API。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虚幻引擎 (Unreal Engine) 5 发布抢先体验版]]></title>
-        <id>https://www.oschina.net/news/143464/unreal-engine-5-early-access</id>
-        <link href="https://www.oschina.net/news/143464/unreal-engine-5-early-access"/>
-        <updated>2021-05-27T23:54:50.000Z</updated>
-        <summary type="html"><![CDATA[虚幻引擎 5 的抢先体验版现已推出！ 发布公告称：“此版本尚未达到生产标准，但你可以通过它首次接触到一些在去年的公布演示中令你兴奋万分的技术——更不用说它还将包含一些你从未见过的技术。” 下面总结了如今已经可以公开测试的重要新功能。 Nanite Nanite是一个虚拟化微多边形几何体系统，你可以通过它创作具有海量...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 表示 Chrome 91 性能提高了 23%]]></title>
-        <id>https://www.oschina.net/news/143463/chrome-performance-up-23-percent</id>
-        <link href="https://www.oschina.net/news/143463/chrome-performance-up-23-percent"/>
-        <updated>2021-05-27T23:49:30.000Z</updated>
-        <summary type="html"><![CDATA[Google 发文表示，通过新的 V8 JavaScript 编译器 Sparkplug 和 short builtins 机制，近日更新的 Chrome 91 获得了 23% 的性能提升。 首先，在 Chrome 浏览器中，V8 引擎负责 JavaScript 执行。其具有多个编译器，可以在执行 JavaScript 的各个阶段做出不同的取舍。三年前，Google 推出了一个两层编译器系统，由 Igniti...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oracle Linux 8.4 发布]]></title>
-        <id>https://www.oschina.net/news/143462/oracle-linux-8-4-released</id>
-        <link href="https://www.oschina.net/news/143462/oracle-linux-8-4-released"/>
-        <updated>2021-05-27T23:44:58.000Z</updated>
-        <summary type="html"><![CDATA[Oracle 已面向 64 位英特尔和 AMD(x86_64) 以及 64 位 Arm(aarch64) 平台发布了 Oracle Linux 8.4。 Oracle Linux 8.4 在安装镜像中使用的内核版本是 UEK R6 Update 2 和 RHCK。对于全新的安装，默认使用 UEK R6，并且是首次启动时的默认内核。UEK R6 是由 Oracle 开发、构建和测试的内核，它基于 Linux Kernel 5.4 mai...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cURL 7.77.0 发布，200 OK]]></title>
-        <id>https://www.oschina.net/news/143461/curl-7-77-0-released</id>
-        <link href="https://www.oschina.net/news/143461/curl-7-77-0-released"/>
-        <updated>2021-05-27T23:16:56.000Z</updated>
-        <summary type="html"><![CDATA[cURL 7.77.0 现已发布。这是该软件的第 200 次版本发布，因此官方也将 7.77.0 版本命名为 200 OK。 “它恰好与我们超过 900 个提交者和超过 2400 个项目的贡献者相吻合。这也是有史以来第一个我们在 RELEASE-NOTES 中感谢 80 多人帮助我们发布的版本，并且我们 在bug-bounty 计划中创造了两个新的记录：对一个 bug 的最大...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
