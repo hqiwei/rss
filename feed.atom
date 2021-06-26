@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T05:07:44.063Z</updated>
+    <updated>2021-06-26T06:11:26.175Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12542,16 +12542,6 @@ https://github.com/dghubble/sling]]></summary>
         <summary type="html"><![CDATA[cURL 7.77.0 现已发布。这是该软件的第 200 次版本发布，因此官方也将 7.77.0 版本命名为 200 OK。 “它恰好与我们超过 900 个提交者和超过 2400 个项目的贡献者相吻合。这也是有史以来第一个我们在 RELEASE-NOTES 中感谢 80 多人帮助我们发布的版本，并且我们 在bug-bounty 计划中创造了两个新的记录：对一个 bug 的最大...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve Machine Learning Model Performance by Combining Categorical Features]]></title>
-        <id>60af931811ffb70827ef85d3</id>
-        <link href="https://www.freecodecamp.org/news/improve-machine-learning-model-performance-by-combining-categorical-features/"/>
-        <updated>2021-05-27T17:55:23.000Z</updated>
-        <summary type="html"><![CDATA[When you training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
