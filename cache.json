@@ -803,6 +803,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12243",
+          "author": "biancheng",
+          "description": "download:Go 开发工程师：迎接上升风口，踏入蓝海行业！\n\n适合零基础小白学习吗\n小同学，当你问出这句话的时候，就说明你已经不是小白了，你是个很有主见的 “大人” 了，要是你问零基础适合学习么？我肯定的告诉你：非常适合，而且要相信自己不是小白，而是小牛~祝你更进一步，加油~\n课程中的项目是真的企业级/商业级项目么？\n同学这个问题是我见过问得最有水平的问题了~ 确实网络上充斥了很多美其名曰 “企业级/商业项目”，然而当你咨询想要体验一下项目效果，这么最低的标准都达不到，也就是网络充斥很多打着 “企业级” 名号的耍流氓项目，他们连最低的企业级标准 -- 可部署可上线标准都达不到！ 那么，同学想一下这个问题：什么样的标准才能称之为 “企业级/商业级”?那么我认为有如下几点标准必须符合： 1、【最低标准】可部署可上线（课程两个分别打开微信，搜索 “租辆酷车”、“波哥电商” 体验项目）2、 真正的三端分离项目（两项目都符合，以微商城举例）3、 满足企业真实的开发场景（以共享出行项目为例）（1）先进的 google 设计理念 + 架构实践（2）符合当前最前卫的开发流程（3）“敏捷开发”、“领域驱动 DDD” 等的最佳实践 4、 符合企业标准架构演进：从三端分离到微服务化项目迭代（1）微电商项目（前端 + 后端 + 后台管理-->搜索微服务化）（2）共享出行项目（Typescript 前端 + 后端 +Vue3.0 后台管理-->云原生微服务）\n章节目录：\n第 1 周   Go 语言极速上手\nGo 发展历程、语言特性快速预览、企业应用，go 安装与环境配置，go 语常用开发工具 Goland,VisualStudio，LiteIde 集成。go 语言常用数据类型讲解。\n课程安排：\n1、Go 发展历程、企业应用、语言特性\n2、Go 语言安装、Go 语言环境配置\n3、常量概述、常量的…",
+          "link": "https://gocn.vip/topics/12243",
+          "publishedOn": "2021-06-26T18:27:14.000Z",
+          "wordCount": 1201,
+          "title": "Go 开发工程师：迎接上升风口，踏入蓝海行业！"
+        },
+        {
           "id": "https://gocn.vip/topics/12242",
           "author": "mahuaibo",
           "description": "GoCN 每日新闻 (2021-06-26)\nGo 1.17 弃用了 'go get'的传统用法 https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet\n\n用 Go 复制 MySQL 所有功能的替代品 https://www.dolthub.com/blog/2021-06-21-copying-mysqls-dumb-decisions/\n\n在你的 Android 手机上运行 Golang 程序 https://mp.weixin.qq.com/s/EFHmjoTh0ji9Zc_YS6aPoQ\n\n分布式锁实现原理与最佳实践 https://mp.weixin.qq.com/s/M92bQQ4ESeE-RkiPiu-oRw\n\nGo 语言的 IO 库那么多，我该怎么选？https://mp.weixin.qq.com/s/TtN6NZ8hQ2AIf0C8wVzkjA\n\n\n\n\nGopherChina  https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n\n编辑: Max\n订阅新闻: http://tinyletter.com/gocn\n招聘专区: https://gocn.vip/jobs",
@@ -1782,24 +1791,6 @@
           "publishedOn": "2021-05-28T09:40:56.000Z",
           "wordCount": 993,
           "title": "Go 高性能系列教程之二：性能评估和分析"
-        },
-        {
-          "id": "https://gocn.vip/topics/12132",
-          "author": "alicloudnative",
-          "description": "Serverless 是近年来云计算领域热门话题，凭借极致弹性、按量付费、降本提效等众多优势受到很多人的追捧，各云厂商也在不断地布局 Serverless 领域。但是随着时间的发展，Serverless 领域也暴露出一些比较严重的问题，例如厂商锁定严重、没有合适的开发者工具、程序难以调试等。为此，Serverless Devs 应运而生。\n​\nServerless Devs 是一个由阿里巴巴发起的 Serverless 领域的开源项目，其目的是要和开发者们一起贡献一款开源开放无厂商锁定的 Serverless 开发者工具，希望这个工具可以在开发者开发 Serverless 应用的全生命周期发挥作用，让开发者们可以像使用手机一样玩转 Serverless。\n​\n今年，Serverless Devs 加入中国科学院软件研究所 “开源软件供应链点亮计划” 支持下的系列高校开源活动——暑期 2021。这是一项由中国科学院软件研究所与 openEuler 社区主办，专门面向高校学生的开源项目开发活动，旨在鼓励在校学生积极参与开源软件的开发维护，促进优秀开源社区的蓬勃发展。\n​\n在本次活动中，你不仅可以得到和顶级 Serverless 导师学习交流的机会，通过审核的同学，还可获得一笔丰厚的奖金。欢迎同学们积极报名申请：\n传送门：https://summer.iscas.ac.cn/#/org/orgdetail/serverlessdevs?lang=chi\n\n\n一、活动运作方式\n活动参与方主要角色为学生、社区和导师。\n社区提供项目列表和描述，并安排项目对应的导师。\n学生自由选择项目，与社区导师沟通实现方案并撰写项目计划书。被选中的学生将在社区导师指导下，按计划完成开发工作，并将成果贡献给社区。根据项目的难易程度和完成情况，参与者将获得由主办方发放的项目奖金。\n二、项目一览\n​\n在开源…",
-          "link": "https://gocn.vip/topics/12132",
-          "publishedOn": "2021-05-28T06:44:36.000Z",
-          "wordCount": 434,
-          "title": "暑期 2021 | Serverless Devs 最全项目申请攻略来啦！"
-        },
-        {
-          "id": "https://gocn.vip/topics/12131",
-          "author": "alicloudnative",
-          "description": "作者 | 江昱\n来源 | 阿里巴巴云原生公众号\n​\n只有自己吃自己的狗粮，自己做的东西才不 “🐶”。Serverless Devs 自发展之处到现在，已经经历了几个月的时间，在这几个月，Serverless Devs 的成长是迅速的，这很大一部分的原因是 “我们在吃自己的狗粮”，我们相信，如果自己都用不爽的东西，大家一定很难用的起来。\n​\n今天这篇文章，是一个关于 Serverless Devs 官网建设的文章，文章很简单，也很有趣。\n什么是 Serverless Devs?\n​\n「Serverless Devs」是由阿里云开源的 Serverless 开发者平台，致力于为开发者提供强大的工具链体系。通过该平台，开发者可以一键体验多云 Serverless 产品，极速部署 Serverless 项目。Serverless Devs 让开发者以更短的路径体验到多个主流云厂商 Serverless 产品，以更快的速度创建和部署 Serverless 应用，以更简单、更自动化的方法进行项目管理和运维，Serverless 项目通过该平台完成全自动化后，可节省 99.9% 的管理成本。\n​\nGithub 地址：https://github.com/serverless-devs\n\n\nGitee 地址：https://gitee.com/organizations/serverless-devs/projects\n\n\nServerless Devs 官网：https://www.serverless-devs.com\n\n\nServerless Devs 与 Docusaurus\n​\n众所周知，开源项目的官网不宜太复杂，其实简简单单的就好，所以我们经过了很长时间的对比，最终选择了 Docusaurus 作为官网的框架选型。那么问题来了，我们选型结束之后，我们要如何来建设官网？\n​\n经…",
-          "link": "https://gocn.vip/topics/12131",
-          "publishedOn": "2021-05-28T06:33:09.000Z",
-          "wordCount": 396,
-          "title": "Serverless Devs 的官网是如何通过 Serverless Devs 部署的"
         }
       ]
     },
@@ -8022,24 +8013,6 @@
           "publishedOn": "2021-05-28T23:13:00.000Z",
           "wordCount": 494,
           "title": "Firefox 将支持 Manifest V3 扩展规范"
-        },
-        {
-          "id": "https://www.oschina.net/news/143514/tecent-csig",
-          "author": null,
-          "description": "为持续推进腾讯产业互联网战略深入发展，5月28日，腾讯云与智慧产业事业群（CSIG）宣布正式成立技术委员会，通过自上而下方式，构建更加适应产业互联网发展的技术文化，为人才提供良好的成长平台，为客户创造持久价值，为未来布局前沿技术。腾讯公司高级执行副总裁，云与智慧产业事业群CEO汤道生担任会长。 汤道生表示：...",
-          "link": "https://www.oschina.net/news/143514/tecent-csig",
-          "publishedOn": "2021-05-28T06:21:08.000Z",
-          "wordCount": 473,
-          "title": "腾讯成立 CSIG 技术委员会，构建面向产业互联网的技术文化"
-        },
-        {
-          "id": "https://www.oschina.net/news/143513/argoproj-first-version-notifications-engine",
-          "author": null,
-          "description": "作者：Alexander Matyushentsev Argoproj 社区已经研究通知功能有一段时间了。我们尝试了几种不同的方法，并从早期用户那里学到了很多东西。根据我们的学习，我们提出了通知引擎的想法[1]，它解决了所有 Argo 项目甚至其他项目的各种通知相关用例。 第一个通知引擎使用者是argocd-notifications[2]项目，它为 Argo CD Ap...",
-          "link": "https://www.oschina.net/news/143513/argoproj-first-version-notifications-engine",
-          "publishedOn": "2021-05-28T06:15:53.000Z",
-          "wordCount": 797,
-          "title": "Argoproj 社区发布第一个版本的通知引擎！"
         }
       ]
     },
