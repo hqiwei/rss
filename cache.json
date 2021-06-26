@@ -803,6 +803,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12242",
+          "author": "mahuaibo",
+          "description": "GoCN 每日新闻 (2021-06-26)\nGo 1.17 弃用了 'go get'的传统用法 https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet\n\n用 Go 复制 MySQL 所有功能的替代品 https://www.dolthub.com/blog/2021-06-21-copying-mysqls-dumb-decisions/\n\n在你的 Android 手机上运行 Golang 程序 https://mp.weixin.qq.com/s/EFHmjoTh0ji9Zc_YS6aPoQ\n\n分布式锁实现原理与最佳实践 https://mp.weixin.qq.com/s/M92bQQ4ESeE-RkiPiu-oRw\n\nGo 语言的 IO 库那么多，我该怎么选？https://mp.weixin.qq.com/s/TtN6NZ8hQ2AIf0C8wVzkjA\n\n\n\n\nGopherChina  https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n\n编辑: Max\n订阅新闻: http://tinyletter.com/gocn\n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12242",
+          "publishedOn": "2021-06-26T13:56:26.000Z",
+          "wordCount": 109,
+          "title": "GoCN 每日新闻 (2021-06-26)"
+        },
+        {
           "id": "https://gocn.vip/topics/12241",
           "author": "renzheng.wang",
           "description": "职位描述：\n负责 API 网关系统的研发和维护；\n把客户和产品侧的需求转化为技术方案；\n负责相关运营系统的开发和维护；\n持续改进 API 网关系统，优化性能，提高稳定性，改进 DevOps 相关流程。\n岗位要求：\n本科及以上学历，经验不限，熟练掌握 Golang / Java / C++ 等编程语言（一种即可）；\n具备良好的基本功、开发习惯，熟练掌握计算机网络相关知识，数据结构和算法；\n熟悉 MySQL/TiDB 、Redis 等相关技术；\n具有良好的学习能力、团队合作意识、较强的沟通能力；\n熟悉 UNIX/Linux 操作系统基本操作；\n有以下经验者优先：\na) 有 Nginx / OpenResty 开发经验；\nb) 有大流量、分布式、高并发系统的开发经验；\nc) 有 Kafka 、Rabbit MQ 、Elastic Search 、Skywalking 、Jaeger 等组件的使用经验；\nd) 熟悉 Docker 、Kubernetes 等容器相关技术；\ne) 为开源项目做过贡献；\n工作福利：\n健康保险：五险一金、补充商业保险、年度体检、免费健身房、弹性工作制\n带薪假期：法定年假、公司年假、带薪病假\n节假日福利：春节特别假、生日假、节假日礼物\n员工活动：年度旅游、社团活动、免费水果下午茶\n调薪晋升：每年两次晋升窗口、每年一次普调\n薪资: 15 -35K 看面试表现决定薪资\n简历接收：\n邮箱：cmVuemhlbmcud2FuZ0B1Y2xvdWQuY24=\n微信：d2FuZ3J6bmV1MTk5MQ==",
@@ -8013,15 +8022,6 @@
           "publishedOn": "2021-05-28T06:15:53.000Z",
           "wordCount": 797,
           "title": "Argoproj 社区发布第一个版本的通知引擎！"
-        },
-        {
-          "id": "https://www.oschina.net/news/143478/windows-package-manager-1-0-ga",
-          "author": null,
-          "description": "微软在近日举办的 Build 2021 上宣布 Windows 软件包管理器 —— Windows Package Manager 1.0 正式推出。Windows 软件包管理器于去年的 Build 2020 宣布开源并发布了预览版。 Windows Package Manager 是一个综合的程序包管理器解决方案，由一个命令行工具和一组用于在 Windows 10 上安装应用程序的服务组成。winget 是...",
-          "link": "https://www.oschina.net/news/143478/windows-package-manager-1-0-ga",
-          "publishedOn": "2021-05-28T01:29:35.000Z",
-          "wordCount": 531,
-          "title": "Windows 软件包管理器 1.0 正式发布"
         }
       ]
     },

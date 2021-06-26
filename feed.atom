@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T13:14:56.061Z</updated>
+    <updated>2021-06-26T14:08:01.583Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-26)]]></title>
+        <id>https://gocn.vip/topics/12242</id>
+        <link href="https://gocn.vip/topics/12242"/>
+        <updated>2021-06-26T13:56:26.000Z</updated>
+        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-06-26)
+Go 1.17 弃用了 'go get'的传统用法 https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet
+
+用 Go 复制 MySQL 所有功能的替代品 https://www.dolthub.com/blog/2021-06-21-copying-mysqls-dumb-decisions/
+
+在你的 Android 手机上运行 Golang 程序 https://mp.weixin.qq.com/s/EFHmjoTh0ji9Zc_YS6aPoQ
+
+分布式锁实现原理与最佳实践 https://mp.weixin.qq.com/s/M92bQQ4ESeE-RkiPiu-oRw
+
+Go 语言的 IO 库那么多，我该怎么选？https://mp.weixin.qq.com/s/TtN6NZ8hQ2AIf0C8wVzkjA
+
+
+
+
+GopherChina  https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ
+
+
+
+编辑: Max
+订阅新闻: http://tinyletter.com/gocn
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>mahuaibo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[上海][部门直招] UCloud 招聘 API 网关研发工程师]]></title>
         <id>https://gocn.vip/topics/12241</id>
@@ -12342,16 +12372,6 @@ Sling 的默认实现可以覆盖大部分对于 http 发送请求场景，同�
 https://github.com/dghubble/sling]]></summary>
         <author>
             <name>wentao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 软件包管理器 1.0 正式发布]]></title>
-        <id>https://www.oschina.net/news/143478/windows-package-manager-1-0-ga</id>
-        <link href="https://www.oschina.net/news/143478/windows-package-manager-1-0-ga"/>
-        <updated>2021-05-28T01:29:35.000Z</updated>
-        <summary type="html"><![CDATA[微软在近日举办的 Build 2021 上宣布 Windows 软件包管理器 —— Windows Package Manager 1.0 正式推出。Windows 软件包管理器于去年的 Build 2020 宣布开源并发布了预览版。 Windows Package Manager 是一个综合的程序包管理器解决方案，由一个命令行工具和一组用于在 Windows 10 上安装应用程序的服务组成。winget 是...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
