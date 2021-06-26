@@ -4669,24 +4669,6 @@
           "publishedOn": "2021-05-27T15:22:56.000Z",
           "wordCount": 115,
           "title": "每日文章精选 2021 05 27"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85833",
-          "author": "Editor, Kai",
-          "description": "Java 仍是开发企业应用程序最流行的语言之一。那么，为什么无服务器serverless开发人员对它望而却步？ 几十年来，企业已经在各类平台上开发了关键业务应用程序，包括物理服务器、虚拟机和云环境。这些应用程序在各行各业都有一个共同点，那就 […]",
-          "link": "http://www.linuxeden.com/a/85833",
-          "publishedOn": "2021-05-27T14:54:07.000Z",
-          "wordCount": 193,
-          "title": "什么是 Java 的无服务器化？"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85826",
-          "author": "Editor, Kai",
-          "description": "当其他移动操作系统多年来一直采用64位软件堆栈，并在逐步淘汰32位应用支持的过程中，Jolla正在庆祝Sailfish 4.1终于标志着他们第一个完全64位的Sailfish OS软件堆栈的到来，但它目前只可用于索尼Xperia 10 II […]",
-          "link": "http://www.linuxeden.com/a/85826",
-          "publishedOn": "2021-05-27T14:44:32.000Z",
-          "wordCount": 111,
-          "title": "Sailfish OS 4.1终于拥抱64位 Android10应用支持API等级"
         }
       ]
     },
