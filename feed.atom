@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T14:08:01.583Z</updated>
+    <updated>2021-06-26T15:09:53.492Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 06 26]]></title>
+        <id>http://www.linuxeden.com/?p=86918</id>
+        <link href="http://www.linuxeden.com/a/86918"/>
+        <updated>2021-06-26T14:56:40.000Z</updated>
+        <summary type="html"><![CDATA[英伟达升级Ampere A100加速器 配备80GB HBM2e内存 华为提议Linux内核为安全目的建立事务型数据库 Kotlin 1.5.20发布 为什么在 2021 年我仍然推荐你使用 Linux 用于调度任务的 systemd 定时 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达升级Ampere A100加速器 配备80GB HBM2e内存]]></title>
+        <id>http://www.linuxeden.com/?p=86913</id>
+        <link href="http://www.linuxeden.com/a/86913"/>
+        <updated>2021-06-26T14:52:12.000Z</updated>
+        <summary type="html"><![CDATA[英伟达可能正在升级Ampere A100 GPU。现有的NVIDIA A100 HPC加速器是在去年6月推出的，看起来英伟达正计划给它进行重大规格升级。该芯片基于英伟达最大的安培GPU – A100，其尺寸为826平方毫米，容纳 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为提议Linux内核为安全目的建立事务型数据库]]></title>
+        <id>http://www.linuxeden.com/?p=86909</id>
+        <link href="http://www.linuxeden.com/a/86909"/>
+        <updated>2021-06-26T14:44:38.000Z</updated>
+        <summary type="html"><![CDATA[尽管一些华为工程师目前正面临着提交无用内核补丁的批评，以努力提高他们自己或公司在内核社区的地位，但确实也有华为的其他工程师正致力于开发更实质作用的内核补丁。这里有一个相当奇特的新案例，上周五，一位华为工程师给出了建立Linux内核事务型数据 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kotlin 1.5.20发布]]></title>
+        <id>http://www.linuxeden.com/?p=86907</id>
+        <link href="http://www.linuxeden.com/a/86907"/>
+        <updated>2021-06-26T14:42:53.000Z</updated>
+        <summary type="html"><![CDATA[Kotlin continues to stay up to date with latest Java features such as dynamic invocations and to provide better interope […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-26)]]></title>
         <id>https://gocn.vip/topics/12242</id>
