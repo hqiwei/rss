@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T23:09:08.071Z</updated>
+    <updated>2021-06-26T00:29:14.627Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google 计划到 2023 年逐步淘汰 Chrome 中的第三方 cookie]]></title>
+        <id>https://www.oschina.net/news/147765/google-plan-to-phase-out-third-party-cookies</id>
+        <link href="https://www.oschina.net/news/147765/google-plan-to-phase-out-third-party-cookies"/>
+        <updated>2021-06-26T00:21:18.000Z</updated>
+        <summary type="html"><![CDATA[Google 发布了隐私沙盒计划的最新时间表，其中显示 Chrome 正在计划从 2023 年中期开始到 2023 年底结束的三个月内逐步淘汰第三方 cookie。 2020 年初，Google 宣布了隐私沙盒中的一项计划，即在 Chrome 中淘汰第三方 cookie。不过在后续的更新中，其表示整个生态系统需要更多时间来实现这一目标，比如出版商和广告行业需...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MOSN 子项目 Layotto：开启服务网格+应用运行时新篇章]]></title>
+        <id>https://www.oschina.net/news/147764</id>
+        <link href="https://www.oschina.net/news/147764"/>
+        <updated>2021-06-26T00:20:57.000Z</updated>
+        <summary type="html"><![CDATA[作者简介： 马振军，花名古今，在基础架构领域耕耘多年，对 Service Mesh 有深度实践经验，目前在蚂蚁集团中间件团队负责 MOSN、Layotto 等项目的开发工作。 Layotto 官方 GitHub 地址: https://github.com/mosn/layotto 点击链接即可观看现场视频：https://www.bilibili.com/video/BV1hq4y1L7FY/ Service Mesh 在微服务...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Confluent IPO 融资 8.28 亿美元，上市首日股价上涨 25%]]></title>
+        <id>https://www.oschina.net/news/147763/confluent-ipo-828m</id>
+        <link href="https://www.oschina.net/news/147763/confluent-ipo-828m"/>
+        <updated>2021-06-26T00:17:22.000Z</updated>
+        <summary type="html"><![CDATA[Apache Kafka 商业化公司 Confluent 现已在纳斯达克证券交易所上市；其股价在上市首日的交易中上涨了 25%，表现强劲。 该公司在首次公开募股中以每股 36 美元（高于 29 至 33 美元的预计范围）的价格出售了 2300 万股，共筹集了 8.28 亿美元。该股的交易代码为"CFLT"，当日收于 45.02 美元。由此，Confluent 的市值已达到...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typesense —— 快速、可容忍错字的搜索引擎]]></title>
+        <id>https://www.oschina.net/p/typesense</id>
+        <link href="https://www.oschina.net/p/typesense"/>
+        <updated>2021-06-26T00:15:06.000Z</updated>
+        <summary type="html"><![CDATA[Typesense 可作为开源 Algolia 的替代方案和更易于使用的 ElasticSearch 替代方案。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 一次“不负责任”的 K8s 网络故障排查经验分享]]></title>
+        <id>https://my.oschina.net/erdateam/blog/5087054</id>
+        <link href="https://my.oschina.net/erdateam/blog/5087054"/>
+        <updated>2021-06-26T00:12:38.000Z</updated>
+        <summary type="html"><![CDATA[某天晚上，客户碰到了这样的问题：K8s 集群一直扩容失败，所有节点都无法正常加入集群。在经过多番折腾无解后，客户将问题反馈到我们这里，希望得到技术支持。该问题的整个排查过程比较有意思，本文对其中的排查思路及所用的方法进行了归纳整理并分享给大家，希望能够对大家在排查此类问题时有些帮助和参考。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitee 推荐 | C# 开发的浏览器控制工具 pyWebBrowser3]]></title>
+        <id>https://gitee.com/Yogurt_cry/pyWebBrowser3</id>
+        <link href="https://gitee.com/Yogurt_cry/pyWebBrowser3"/>
+        <updated>2021-06-26T00:10:32.000Z</updated>
+        <summary type="html"><![CDATA[整合提供了浏览器控制、键鼠控制、屏幕截图、剪切板控制等常用 API]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Boot 2.5.2 发布]]></title>
+        <id>https://www.oschina.net/news/147754/spring-boot-2-5-2-released</id>
+        <link href="https://www.oschina.net/news/147754/spring-boot-2-5-2-released"/>
+        <updated>2021-06-25T22:55:32.000Z</updated>
+        <summary type="html"><![CDATA[Spring Boot 2.5.2 现已发布。此版本包括 53 个错误修复、文档改进和依赖项升级。 主要更新内容 实例化器在没有类加载器的情况下被调用 EnvironmentPostProcessors 未使用正确的 ClassLoader 进行实例化 将不存在的类的名称绑定到 Class<?> 属性时失败 无法排除对重新打包的依赖 当应用程序上下文关闭时死锁，然后在应用...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日文章精选 2021 06 25]]></title>
         <id>http://www.linuxeden.com/?p=86885</id>
