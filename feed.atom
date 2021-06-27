@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T03:10:11.220Z</updated>
+    <updated>2021-06-27T04:11:27.756Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 06 27]]></title>
+        <id>http://www.linuxeden.com/?p=86958</id>
+        <link href="http://www.linuxeden.com/a/86958"/>
+        <updated>2021-06-27T03:56:24.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 06 27]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 QEMU 尝鲜 Windows 11]]></title>
+        <id>http://www.linuxeden.com/?p=86931</id>
+        <link href="http://www.linuxeden.com/a/86931"/>
+        <updated>2021-06-27T03:46:17.000Z</updated>
+        <summary type="html"><![CDATA[2021 年 06 月 24 日微软正式发布了 Windows 11 操作系统，这是微软时隔 6 年来的再次发布操作系统。根据其官方介绍，Windows 11 新增了许多特性，考虑到安装 Windows 11 到 PC 会耽误现在的正常工作 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora 35将自动启用最佳加密扇区大小以提高I/O性能]]></title>
+        <id>http://www.linuxeden.com/?p=86926</id>
+        <link href="http://www.linuxeden.com/a/86926"/>
+        <updated>2021-06-27T03:33:50.000Z</updated>
+        <summary type="html"><![CDATA[在今年秋天发布的Fedora 35中，对于那些采用LUKS/dm-crypt加密并使用基于4K扇区大小的存储的用户来说可以带来更好的性能。目前，当在磁盘上安装Fedora Linux并使用LUKS加密时，无论基础磁盘的物理扇区大小如何，都会 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jim Keller 称他是 Zen 之叔而不是 Zen 之父]]></title>
+        <id>http://www.linuxeden.com/?p=86923</id>
+        <link href="http://www.linuxeden.com/a/86923"/>
+        <updated>2021-06-27T03:31:31.000Z</updated>
+        <summary type="html"><![CDATA[知名 CPU 架构师 Jim Keller 曾先后在 DEC、AMD、苹果、特斯拉和英特尔公司任职，目前在 AI 创业公司 Tenstorrent  担任 CTO，他接受采访谈论了过去的工作经历，尤其是在 AMD 的工作。AMD 基于 Ze […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华为首家晶圆厂曝光：选址武汉、预计2022投产]]></title>
         <id>http://www.linuxeden.com/?p=86920</id>
@@ -12258,16 +12298,6 @@ Sum% 值是当前行及上面行的累加和占比。如图所示中，第一行
         <summary type="html"><![CDATA[3D Youtube Downloader 1.19 中文版由大眼仔旭（www.dayanzai.me）发布。 […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Secure Your Android App – Four Security Best Practices Every Android Dev Should Know]]></title>
-        <id>60b08d8811ffb70827ef8c7b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-secure-your-android-app/"/>
-        <updated>2021-05-28T16:01:05.000Z</updated>
-        <summary type="html"><![CDATA[If you've been following the news lately, you may have noticed a worrisome tech trend. The frequency and severity of cybersecurity attacks are exploding.  We've seen news of a sprawling hack involving the SolarWinds management platform. That attack may have compromised the systems of over 18,000 SolarWinds customers.  Then,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
