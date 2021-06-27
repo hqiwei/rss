@@ -4588,6 +4588,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=39144",
+          "author": "青小蛙",
+          "description": "MicrosoftHostsPicker 是一个简单的 Python 脚本，可以帮你挑选最快的微软网络服务 IP地址，以解决 6 大微软网络服务连接缓慢，或者干脆无法连接的问题。@Appinn 来自",
+          "link": "https://www.appinn.com/microsofthostspicker-python/",
+          "publishedOn": "2021-06-27T04:40:25.000Z",
+          "wordCount": 1156,
+          "title": "MicrosoftHostsPicker – 优选 IP 地址，解决 6 大「微软服务」连接速度缓慢的问题"
+        },
+        {
           "id": "https://www.appinn.com/?p=39140",
           "author": "青小蛙",
           "description": "随着 Windows 11 的发布，新皮肤、以及可以让 Android 应用直接在 Windows 11 中运行等新特性，让不少用户心动，那么问题来了，你现在的电脑可以安装 Windows 11 么？",
@@ -8881,33 +8890,6 @@
           "publishedOn": "2021-05-29T03:58:47.000Z",
           "wordCount": 504,
           "title": "行为定位：在互联网上是如何为您量身定制广告的"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=9401",
-          "author": "大眼仔~旭",
-          "description": "GPU-Z 中文版由大眼仔旭（www.dayanzai.me）发布。说起处理器识别工具 CPU-Z，其知名度和 […]",
-          "link": "http://www.dayanzai.me/gpu-z.html",
-          "publishedOn": "2021-05-28T16:30:58.000Z",
-          "wordCount": 604,
-          "title": "GPU-Z 中文版显卡测试软件 TechPowerUp GPU-Z 2.40.0 中文绿色版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=727",
-          "author": "大眼仔~旭",
-          "description": "开源免费的远程协助工具 Veyon 中文版由大眼仔旭（www.dayanzai.me）发布。Veyon 是一款 […]",
-          "link": "http://www.dayanzai.me/veyon.html",
-          "publishedOn": "2021-05-28T16:30:47.000Z",
-          "wordCount": 662,
-          "title": "开源免费的远程协助工具 Veyon 4.5.6 + x64 中文多语免费版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=14960",
-          "author": "大眼仔~旭",
-          "description": "3D Youtube Downloader 1.19 中文版由大眼仔旭（www.dayanzai.me）发布。 […]",
-          "link": "http://www.dayanzai.me/3d-youtube-downloader.html",
-          "publishedOn": "2021-05-28T16:20:48.000Z",
-          "wordCount": 534,
-          "title": "Youtube 网络视频下载工具 3D Youtube Downloader 1.19.9 中文多语免费版"
         }
       ]
     }
