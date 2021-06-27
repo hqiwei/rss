@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T02:30:20.244Z</updated>
+    <updated>2021-06-27T03:10:11.220Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[华为首家晶圆厂曝光：选址武汉、预计2022投产]]></title>
+        <id>http://www.linuxeden.com/?p=86920</id>
+        <link href="http://www.linuxeden.com/a/86920"/>
+        <updated>2021-06-27T02:49:25.000Z</updated>
+        <summary type="html"><![CDATA[华为的库存芯片还有多少，恐怕外界并不知道确切数字，但不可否认的是，相关限制因素的影响确实存在。 最新消息称，华为首家晶圆工厂选址湖北武汉，计划2022年投产。 知情人士对媒体披露，工厂初期规划生产光通信芯片和模块产品，以实现自给自足。有文章 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[后端程序员如何在工作之余赚外快？]]></title>
         <id>https://www.oschina.net/question/1866807_2322868</id>
@@ -12258,56 +12268,6 @@ Sum% 值是当前行及上面行的累加和占比。如图所示中，第一行
         <summary type="html"><![CDATA[If you've been following the news lately, you may have noticed a worrisome tech trend. The frequency and severity of cybersecurity attacks are exploding.  We've seen news of a sprawling hack involving the SolarWinds management platform. That attack may have compromised the systems of over 18,000 SolarWinds customers.  Then,]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日文章精选 2021 05 28]]></title>
-        <id>http://www.linuxeden.com/?p=85870</id>
-        <link href="http://www.linuxeden.com/a/85870"/>
-        <updated>2021-05-28T15:07:06.000Z</updated>
-        <summary type="html"><![CDATA[优麒麟 20.04 LTS Pro 0528更新：多项细节优化，体验升级 Linux 5.14将为英特尔独立显卡带来重新设计的用户空间API 3 个到今天仍然有用的 Python 3.2 特性 Comcast 用户在下载 Ubuntu 之后 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[优麒麟 20.04 LTS Pro 0528更新：多项细节优化，体验升级]]></title>
-        <id>http://www.linuxeden.com/?p=85865</id>
-        <link href="http://www.linuxeden.com/a/85865"/>
-        <updated>2021-05-28T14:58:47.000Z</updated>
-        <summary type="html"><![CDATA[自优麒麟 20.04 LTS Pro 发布后，官方一直积极从各个渠道汇总大家的反馈建议，并针对存在的问题进行记录和处理。对于系统使用过程中遇到的任何问题或者建议，欢迎大家通过系统中用户反馈程序、微信交流群、QQ交流群、官方邮箱、优麒麟社区论 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.14将为英特尔独立显卡带来重新设计的用户空间API]]></title>
-        <id>http://www.linuxeden.com/?p=85861</id>
-        <link href="http://www.linuxeden.com/a/85861"/>
-        <updated>2021-05-28T14:57:58.000Z</updated>
-        <summary type="html"><![CDATA[今年夏天的Linux 5.14内核将为英特尔的DG1显卡和他们未来的独立显卡产品带来一个重新设计的用户空间API（User-Space API）。对英特尔内核图形驱动的的这一改变，目前被标记为 “broken”，直到 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 个到今天仍然有用的 Python 3.2 特性]]></title>
-        <id>http://www.linuxeden.com/?p=85859</id>
-        <link href="http://www.linuxeden.com/a/85859"/>
-        <updated>2021-05-28T14:54:46.000Z</updated>
-        <summary type="html"><![CDATA[探索一些未被充分利用但仍然有用的 Python 特性。 这是Python 3.x 首发特性系列文章中的第三篇。其中一些 Python 版本已经推出了一段时间。例如，Python 3.2 是在 2011 年首次发布的，但其中引入的一些很酷、很 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comcast 用户在下载 Ubuntu 之后收到 DMCA 侵权通知]]></title>
-        <id>http://www.linuxeden.com/?p=85856</id>
-        <link href="http://www.linuxeden.com/a/85856"/>
-        <updated>2021-05-28T14:52:22.000Z</updated>
-        <summary type="html"><![CDATA[美国电信公司 Comcast 的一位用户在 Reddit/linux 频道上透露，他通过 BT 下载了 Ubuntu 的 ISO 镜像之后收到 DMCA 侵权通知。在 DMCA 通知中，反盗版组织列举的侵权文件的哈希值为 4ba4fbf72 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>

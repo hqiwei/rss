@@ -1782,6 +1782,15 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=86920",
+          "author": "Editor, Kai",
+          "description": "华为的库存芯片还有多少，恐怕外界并不知道确切数字，但不可否认的是，相关限制因素的影响确实存在。 最新消息称，华为首家晶圆工厂选址湖北武汉，计划2022年投产。 知情人士对媒体披露，工厂初期规划生产光通信芯片和模块产品，以实现自给自足。有文章 […]",
+          "link": "http://www.linuxeden.com/a/86920",
+          "publishedOn": "2021-06-27T02:49:25.000Z",
+          "wordCount": 72,
+          "title": "华为首家晶圆厂曝光：选址武汉、预计2022投产"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86918",
           "author": "Editor, Kai",
           "description": "英伟达升级Ampere A100加速器 配备80GB HBM2e内存 华为提议Linux内核为安全目的建立事务型数据库 Kotlin 1.5.20发布 为什么在 2021 年我仍然推荐你使用 Linux 用于调度任务的 systemd 定时 […]",
@@ -4543,51 +4552,6 @@
           "publishedOn": "2021-05-29T01:28:15.000Z",
           "wordCount": 158,
           "title": "SQLAlchemy 1.4.16发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85870",
-          "author": "Editor, Kai",
-          "description": "优麒麟 20.04 LTS Pro 0528更新：多项细节优化，体验升级 Linux 5.14将为英特尔独立显卡带来重新设计的用户空间API 3 个到今天仍然有用的 Python 3.2 特性 Comcast 用户在下载 Ubuntu 之后 […]",
-          "link": "http://www.linuxeden.com/a/85870",
-          "publishedOn": "2021-05-28T15:07:06.000Z",
-          "wordCount": 123,
-          "title": "每日文章精选 2021 05 28"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85865",
-          "author": "Editor, Kai",
-          "description": "自优麒麟 20.04 LTS Pro 发布后，官方一直积极从各个渠道汇总大家的反馈建议，并针对存在的问题进行记录和处理。对于系统使用过程中遇到的任何问题或者建议，欢迎大家通过系统中用户反馈程序、微信交流群、QQ交流群、官方邮箱、优麒麟社区论 […]",
-          "link": "http://www.linuxeden.com/a/85865",
-          "publishedOn": "2021-05-28T14:58:47.000Z",
-          "wordCount": 150,
-          "title": "优麒麟 20.04 LTS Pro 0528更新：多项细节优化，体验升级"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85861",
-          "author": "Editor, Kai",
-          "description": "今年夏天的Linux 5.14内核将为英特尔的DG1显卡和他们未来的独立显卡产品带来一个重新设计的用户空间API（User-Space API）。对英特尔内核图形驱动的的这一改变，目前被标记为 “broken”，直到 […]",
-          "link": "http://www.linuxeden.com/a/85861",
-          "publishedOn": "2021-05-28T14:57:58.000Z",
-          "wordCount": 107,
-          "title": "Linux 5.14将为英特尔独立显卡带来重新设计的用户空间API"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85859",
-          "author": "Editor, Kai",
-          "description": "探索一些未被充分利用但仍然有用的 Python 特性。 这是Python 3.x 首发特性系列文章中的第三篇。其中一些 Python 版本已经推出了一段时间。例如，Python 3.2 是在 2011 年首次发布的，但其中引入的一些很酷、很 […]",
-          "link": "http://www.linuxeden.com/a/85859",
-          "publishedOn": "2021-05-28T14:54:46.000Z",
-          "wordCount": 346,
-          "title": "3 个到今天仍然有用的 Python 3.2 特性"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85856",
-          "author": "Editor, Kai",
-          "description": "美国电信公司 Comcast 的一位用户在 Reddit/linux 频道上透露，他通过 BT 下载了 Ubuntu 的 ISO 镜像之后收到 DMCA 侵权通知。在 DMCA 通知中，反盗版组织列举的侵权文件的哈希值为 4ba4fbf72 […]",
-          "link": "http://www.linuxeden.com/a/85856",
-          "publishedOn": "2021-05-28T14:52:22.000Z",
-          "wordCount": 129,
-          "title": "Comcast 用户在下载 Ubuntu 之后收到 DMCA 侵权通知"
         }
       ]
     },
