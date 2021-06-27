@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T13:15:10.047Z</updated>
+    <updated>2021-06-27T14:08:13.991Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -11963,91 +11963,6 @@ go web client 单元测试实践 chttps://dev.to/chen/practical-unit-testing-web
         <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 05 29]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[魅族宣布接入鸿蒙系统 魅友激动：格局大了]]></title>
-        <id>http://www.linuxeden.com/?p=85880</id>
-        <link href="http://www.linuxeden.com/a/85880"/>
-        <updated>2021-05-29T02:07:20.000Z</updated>
-        <summary type="html"><![CDATA[华为多次公开表示，鸿蒙系统完全开源开放。谁会第一个对鸿蒙放开怀抱？ 日前，魅族智享生活官微宣布：“你好，鸿蒙。一起拥抱全场景智能生活。Watch me!” 随后，魅族科技转发上述消息：“一起拥抱全场景智能生活。Watch me! #魅族的智 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将操作系统移植到新的芯片架构的经验]]></title>
-        <id>http://www.linuxeden.com/?p=85878</id>
-        <link href="http://www.linuxeden.com/a/85878"/>
-        <updated>2021-05-29T02:03:26.000Z</updated>
-        <summary type="html"><![CDATA[在将嵌入式系统操作系统移植到不同的芯片架构时，RT-Thread 的维护者们从中学到了什么。 曾经有人问我，为什么计算机被称为“计算机”，它们做的事情可远不止计算数字。一台现代的个人电脑可以浏览互联网、播放音频和视频、为视频游戏和电影生成漂 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IETF 将 QUIC 发布为 RFC 9000]]></title>
-        <id>https://www.oschina.net/news/143624/quic-is-now-rfc-9000</id>
-        <link href="https://www.oschina.net/news/143624/quic-is-now-rfc-9000"/>
-        <updated>2021-05-29T01:51:06.000Z</updated>
-        <summary type="html"><![CDATA[IETF（互联网工程任务组）已将 QUIC 发布为 RFC 9000，并由 RFC 9001, RFC 9002 和 RFC 8999 提供支持。这意味着 QUIC 第一版已正式确定，并且部署 QUIC 所使用的版本也已经从临时草稿版本转变为新的第一版（HTTP/3 作为运行于 QUIC 之上的 HTTP 也即将发布）。 RFC Editor 页面显示，目前 RFC 9000 处于“提案标准 (PRO...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TiDB 4.0.13 发布]]></title>
-        <id>http://www.linuxeden.com/?p=85876</id>
-        <link href="http://www.linuxeden.com/a/85876"/>
-        <updated>2021-05-29T01:50:36.000Z</updated>
-        <summary type="html"><![CDATA[发版日期：2021 年 5 月 28 日 TiDB 版本：4.0.13 新功能 TiDB 支持将列属性 AUTO_INCREMENT 变更为 AUTO_RANDOM #24608 引入 infoschema.client_errors_su […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Camel 2.25.4发布]]></title>
-        <id>http://www.linuxeden.com/?p=85874</id>
-        <link href="http://www.linuxeden.com/a/85874"/>
-        <updated>2021-05-29T01:37:15.000Z</updated>
-        <summary type="html"><![CDATA[apache-camel-2.25.4-src.zip        2021-05-28 07:26   65M apache-camel-2.25.4-src.zip.asc    2021-05-28 07:26  833 apach […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLAlchemy 1.4.16发布]]></title>
-        <id>http://www.linuxeden.com/?p=85872</id>
-        <link href="http://www.linuxeden.com/a/85872"/>
-        <updated>2021-05-29T01:28:15.000Z</updated>
-        <summary type="html"><![CDATA[SQLAlchemy 1.4.16 is now available. With the pace of regressions having slowed, it is hoped that the 1.4 series continue […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dubbo-go v3 版本 go module 踩坑记]]></title>
-        <id>https://gocn.vip/topics/12136</id>
-        <link href="https://gocn.vip/topics/12136"/>
-        <updated>2021-05-29T01:18:27.000Z</updated>
-        <summary type="html"><![CDATA[董剑辉 盛傲飞
-1. 问题背景
-该问题源于我们想对 dubbo-go 的 module path 做一次变更，使用dubbo.apache.org/dubbo-go/v3 替换之前的 github.com/apache/dubbo-go。
-首先，我们做了路径映射，在 dubbo.apache.org 下放置了一个 dubbogo/v3 文件，内容如下：
-<html>
-  <head>
-    <meta name="go-import" content="dubbo.apache.org/dubbo-go/v3 git <https://github.com/apache/dubbo-go>">
-    <meta name="go-source" content="dubbo.apache.org/dubbo-go/v3 git <https://github.com/apache/dubbo-go/tree/3.0{/dir}> <https://github.com/apache/dubbo-go/blob/3.0{/dir}/{file}#L{line}>">
-    <meta http-equiv="refresh" content="0; url=https://pkg.go.dev/dubbo.apache.org/dubbo-go/v3">
-  </head>
-  <body>
-    <p>Redirecting to <a href="<https://pkg.go.dev/dubbo.apache.org/dubbo-go/v3>">pkg.go.dev/dubbo.apache.org/dubbo-go/v3</a>...</p>
-  </body>
-</html>
-
-其次，我们修改了 go.mod 的 module 和对应的所有 import，并…]]></summary>
-        <author>
-            <name>alexstocks</name>
         </author>
     </entry>
 </feed>
