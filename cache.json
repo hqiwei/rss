@@ -4874,6 +4874,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/147941/fedora-support-automatically-use-optimal-encryption-sector",
+          "author": null,
+          "description": "根据 Fedora 的 Wiki 显示，Fedora 35 或将默认启用 cryptsetup 自动确定最优扇区大小的功能。 cryptsetup 是一个用于设置基于 DMCrypt 内核模块的磁盘加密的工具，支持普通 dm-crypt 卷、LUKS 卷、loop-AES、TrueCrypt（包括 VeraCrypt 扩展）和BitLocker 格式，并实现了 LUKS (Linux Unified Key Setup) 规范 。 此前，...",
+          "link": "https://www.oschina.net/news/147941/fedora-support-automatically-use-optimal-encryption-sector",
+          "publishedOn": "2021-06-27T22:06:23.000Z",
+          "wordCount": 515,
+          "title": "Fedora 35 或将支持自适应最优加密扇区大小"
+        },
+        {
           "id": "https://www.oschina.net/question/1866807_2322868",
           "author": null,
           "description": "工作之外，如何去赚钱呢 ，送外卖吗，如何在网上赚钱，毕竟经常用电脑，感觉体力活做不了",
