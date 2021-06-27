@@ -1737,24 +1737,6 @@
           "publishedOn": "2021-05-29T01:18:27.000Z",
           "wordCount": 609,
           "title": "dubbo-go v3 版本 go module 踩坑记"
-        },
-        {
-          "id": "https://gocn.vip/topics/12135",
-          "author": "cczsunnyman",
-          "description": "NSQ 如何实现文件队列  https://reposkeeper.net/2020/11/nsq-disk-queue-implement.html\n\nGo sync.Pool 浅析  https://blog.csdn.net/haohongfan/article/details/116978613\n\nGolang 指针和 C++ 指针的简单剖析  https://juejin.cn/post/6967315069310861319\n\n在 Go 中使用位掩码  https://www.ardanlabs.com/blog/2021/04/using-bitmasks-in-go.html\n\nGo 中的垃圾收集  https://www.ardanlabs.com/blog/2019/07/garbage-collection-in-go-part3-gcpacing.html\n\n\n\n\n编辑: czzsunnyman\n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
-          "link": "https://gocn.vip/topics/12135",
-          "publishedOn": "2021-05-29T01:00:11.000Z",
-          "wordCount": 96,
-          "title": "GoCN 每日新闻 (2021-05-28)"
-        },
-        {
-          "id": "https://gocn.vip/topics/12134",
-          "author": "yudotyang",
-          "description": "pprof 的目标是生成可视化的检测报告。报告是根据采集的样本数据从一个跟节点位置开始按调用关系生成层次化的结构。每个位置包含两个值：\nflat：当前位置自身消耗的值（不包含函数内的调用消耗）\ncum：当前位置及子位置累计的消耗值（即当前函数以及所有调用的函数总消耗）\npprof 生成报告的形式有两种：文字形式和可视化图形\n文字形式报告\npprof 的文字报告用文字的格式展示了位置的层次结构\n-text：打印每个位置条目，每行一个，包括单位值和累计值\n-tree：按树状打印每个位置条目，包括该职位的父节点和子节点\n-peek=regex：打印位置条目及其所有前置项和后续项，而不修剪任何条目\n-traces：打印每一行的样本\n文字报告中有 5 个指标：Flat、Flat%、Sum%、Cum、Cum%\nFlat：函数自身运行耗时\nFlat%：函数自身耗时比例\nSum%：指的就是每一行的flat%与上面所有行的flat%总和\nCum：当前函数加上它所有调用栈的运行总耗时\nCum%：当前函数加上它所有调用栈的运行总耗时比例\n举例说明：函数demo由三部分组成：调用函数foo、自己直接处理一些事情、调用函数bar，其中调用函数foo耗时 1 秒，自己直接处理事情耗时 3 秒，调用函数bar耗时 2 秒，那么函数demo的flat耗时就是 3 秒，cum耗时就是 6 秒。\nfunc demo() {\n    foo() // takes 1s\n    do something directly // takes 3s\n    bar() // takes 2s\n}\n\n如下图示例：\n\nSum% 值是当前行及上面行的累加和占比。如图所示中，第一行的 Flat% 是 98.41%，则第一行的 Sum% 是 98.41%。第二行的 Flat% 是 1.59%，则第二行的 Sum% 则是 1.59%+98.41%=100%。\n可视化图形\n在图形化的包中包含节点、节点之间的边、字体三个元素。而每个元素又具有颜色和大小两个属性。下面我们一一解析各个元素和属性所代表的含义。\n节点颜色：\n红色代表 cum 值为正，且越大\n绿色代表 cum 值为负，且越小。\n灰色代表 cum 值接近 0\n节点字体大小：\n字体越大代表较大的绝对单位值\n字体越小代表较小的绝对单位值\n边线及权重\n较粗的边线代表该路径下使用了更多的资源\n较细的边线代表该路径下使用了较少的资源\n边线颜色\n红色代表值为正，且越大\n绿色代表值为负，且越小\n灰色代表值接近 0\n边线样式\n虚线边：两个连接位置之间的某些节点已被删除，未显示全。为限制图形整体的大小，pprof 会自动裁剪一部分节点，而非都显示。\n实线边：一个位置直接调用另一个位置\n内联边标记：被调用函数已经被内联到调用函数中\n我们以下面的图形为例：:\n​    \n节点\n（*Rand).Read 节点的字体是小字体，颜色为灰色，代表自身值和累计值都比较小，接近于 0\n（*compressor).deflate 节点的字体较大，节点为红色，代表自身值和累计值都较大。\n（*Writer）.Flush 节点的字体较小，节点为红色，代表是自身值较小，但累计值较大。\n边\n\n\n在（*Writer).Write 和 (*compressor).write 之间的边：\n\n\n因为是虚线，在这两个节点之间有些节点被删除了\n因为是红色粗线，说明在这两个节点之间的调用栈上耗费了更多的资源\n在 (*Rand).Read 和 read 之间的边：\n\n\n因为是虚线，所以在这两个节点之间有些节点被删除了\n因为是灰色细线，说明在这两个节点之间的调用栈上耗费了较少的资源，接近于 0\n在 read 和 (*rngSource).Int63 之间的边：\n\n\n因为是实线，在这两个节点之间没有其他节点，是直接调用。\n因为是灰色细线，说明在这两个节点之间的调用栈上耗费了较少的资源，接近于 0\n总结\n在图形化中，颜色越深（红色）、字体越大代表消耗的资源越多（如果是 cpu 性能则耗时更长、如果是内存则占用更高）。在边线路径中，边线颜色越深、越粗，代表该路径下消耗的资源越多，反之代表消耗的资源越少。\n在图形化中，pprof 为了图形化的整体大小，会自动删减一些节点，所以，图形界面中显示的并不是所有的节点。这里通过边线是实线还是虚线来体现。虚线代表两个节点之间有其他的节点调用，但未显示。实线则代表两个节点之间是直接调用的。",
-          "link": "https://gocn.vip/topics/12134",
-          "publishedOn": "2021-05-29T00:18:43.000Z",
-          "wordCount": 207,
-          "title": "Go 高性能系列教程：读懂 pprof 生成的报告"
         }
       ]
     },
@@ -7950,78 +7932,6 @@
           "publishedOn": "2021-05-29T01:51:06.000Z",
           "wordCount": 496,
           "title": "IETF 将 QUIC 发布为 RFC 9000"
-        },
-        {
-          "id": "https://www.oschina.net/news/143619",
-          "author": null,
-          "description": "报告编号：B6-2021-052799 报告来源：360CERT 报告作者：360CERT 更新日期：2021-05-27 1 Vulnerability|漏洞 CVE-2021-21985: VMware vCenter Server远程代码执行漏洞 https://cert.360.cn/warning/detail?id=21bda4287b2b47416e93cc7817bf4a1a CVE-2021-21974：VMware ESXI OpenSLP堆溢出漏洞POC公开 https://straight...",
-          "link": "https://www.oschina.net/news/143619",
-          "publishedOn": "2021-05-29T00:51:18.000Z",
-          "wordCount": 470,
-          "title": "安全日报：Nginx DNS 解析器堆写入漏洞、VMware vCenter Server 远程代码执行漏洞"
-        },
-        {
-          "id": "https://www.oschina.net/news/143618/argo-rollouts-1-0-released",
-          "author": null,
-          "description": "文章来自 Henrik Blixt 和 Argo 维护者 这是非常自豪和兴奋，我们宣布[1]推出 Argo Rollouts 1.0 版本！该项目已经被迅速采用和生产使用，甚至是在它的 0.x 发布后，已经拥有了一批令人印象深刻的用户[2]。 Argo Rollouts 是什么？ Argo Rollouts[3]是一个部署（deployment）控制器，它填补了 Kubernetes deployment 的空...",
-          "link": "https://www.oschina.net/news/143618/argo-rollouts-1-0-released",
-          "publishedOn": "2021-05-29T00:43:27.000Z",
-          "wordCount": 522,
-          "title": "Argo Rollouts 发布 1.0 版本！"
-        },
-        {
-          "id": "https://www.oschina.net/news/143617/yor-open-source",
-          "author": null,
-          "description": "网络安全公司 Palo Alto Networks 宣布开源 Yor，一款可在基础设施即代码（IaC）框架 Terraform、AWS CloudFormation 和 Serverless Framework YAML 中自动标记云资源的工具。Yor 由 Bridgecrew 构建的，该公司于 3 月份被 Palo Alto Networks 收购。 官方公告指出，Yor 将手动标记云资源的繁琐工作自动化，帮助安全团队...",
-          "link": "https://www.oschina.net/news/143617/yor-open-source",
-          "publishedOn": "2021-05-29T00:34:28.000Z",
-          "wordCount": 497,
-          "title": "Palo Alto Networks 开源 Yor，在 IaC 框架中自动标记云资源"
-        },
-        {
-          "id": "https://my.oschina.net/justjavac/blog/5061081",
-          "author": null,
-          "description": "Node.js 成员 James M Snell 认为“nappy” 经常被用来形容黑人的头发，而且含贬义。而且 N-API 不能明确的表示这个 API 的含义，所以他建议改名",
-          "link": "https://my.oschina.net/justjavac/blog/5061081",
-          "publishedOn": "2021-05-29T00:32:43.000Z",
-          "wordCount": 292,
-          "title": "因 N-API 发音对黑人的头发不友好，Node.js 官方将其改名为 Node-API"
-        },
-        {
-          "id": "https://www.oschina.net/p/govern-eventbus",
-          "author": null,
-          "description": "一个历经四年生产环境验证的事件驱动架构框架，通过事件总线机制来治理微服务间的远程过程调用。",
-          "link": "https://www.oschina.net/p/govern-eventbus",
-          "publishedOn": "2021-05-29T00:30:36.000Z",
-          "wordCount": 1218,
-          "title": "Govern EventBus —— 事件驱动架构框架"
-        },
-        {
-          "id": "https://my.oschina.net/amaptech/blog/5061673",
-          "author": null,
-          "description": "本文将和大家分享高德为何要搞 Serverless/Faas，如何做，技术方案是什么？目前进展以及后续计划有哪些",
-          "link": "https://my.oschina.net/amaptech/blog/5061673",
-          "publishedOn": "2021-05-29T00:28:13.000Z",
-          "wordCount": 356,
-          "title": "每日一博 | 高德 Serverless 平台建设及实践"
-        },
-        {
-          "id": "https://gitee.com/baidu/mapv",
-          "author": null,
-          "description": "一款地理信息可视化开源库，可以用来展示大量地理信息数据，点、线、面的数据，每种数据也有不同的展示类型，如直接打点、热力图、网格、聚合等方式展示数据。",
-          "link": "https://gitee.com/baidu/mapv",
-          "publishedOn": "2021-05-29T00:26:27.000Z",
-          "wordCount": 647,
-          "title": "Gitee 推荐 | 地理信息可视化库 Mapv"
-        },
-        {
-          "id": "https://www.oschina.net/news/143612/nginx-unit-1-24-0-released",
-          "author": null,
-          "description": "NGINX Unit 1.24.0 已发布，值得关注的更新内容包括：在静态媒体资源服务方面的改进、Node.js 的 \"http\" 和 \"websocket\" 模块支持自动重载、兼容 Ruby 3.0，以及支持应用 OpenSSL 配置命令等。 改进静态媒体资源服务 :: MIME Type Filtering :: 现在可以通过 MIME 类型限制文件服务： \r\n  {\r\n      \"share\": \"/www/data...",
-          "link": "https://www.oschina.net/news/143612/nginx-unit-1-24-0-released",
-          "publishedOn": "2021-05-29T00:21:13.000Z",
-          "wordCount": 507,
-          "title": "NGINX Unit 1.24.0 发布，动态 Web 应用服务器"
         }
       ]
     },
