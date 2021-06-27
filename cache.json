@@ -8022,33 +8022,6 @@
           "publishedOn": "2021-05-29T00:21:13.000Z",
           "wordCount": 507,
           "title": "NGINX Unit 1.24.0 发布，动态 Web 应用服务器"
-        },
-        {
-          "id": "https://www.oschina.net/news/143611/almalinux-os-8-4-stable-released",
-          "author": null,
-          "description": "AlmaLinux OS 8.4 稳定版已发布。 AlmaLinux 是开放源码的、社区驱动的项目，它从红帽企业Linux (RHEL) 的源码编译而来。AlmaLinux 跟 RHEL 8 完全在二进制上兼容，它由 CloudLinux OS 的创建者打造。 AlmaLinux OS 8.4 是一个适用于生产环境的稳定版本，最大的变化是支持安全启动，其他变化包括支持 OpenSCAP、新增部分...",
-          "link": "https://www.oschina.net/news/143611/almalinux-os-8-4-stable-released",
-          "publishedOn": "2021-05-28T23:57:57.000Z",
-          "wordCount": 500,
-          "title": "AlmaLinux OS 8.4 稳定版发布，兼容 RHEL 的发行版"
-        },
-        {
-          "id": "https://www.oschina.net/news/143610/kotlin-2021-roadmap",
-          "author": null,
-          "description": "Kotlin 公布了 2021 年的路线图。该路线图揭示了 Kotlin 团队接下来的工作重点，涵盖了语言、工具和生态系统在未来一年的发展情况。以下是其主要内容： 新的 Kotlin 编译器 第一个重点是 Kotlin 在今年将实现一个新的编译器，包括重写 JVM 和 JS 的后端以及新架构的前端。这将显著提升性能，并支持编译器插件 API 支持，...",
-          "link": "https://www.oschina.net/news/143610/kotlin-2021-roadmap",
-          "publishedOn": "2021-05-28T23:55:04.000Z",
-          "wordCount": 543,
-          "title": "Kotlin 公布 2021 路线图"
-        },
-        {
-          "id": "https://www.oschina.net/news/143606/firefox-support-mv3",
-          "author": null,
-          "description": "Mozilla 发文表示，Firefox 将实现 Google Chrome 的 Manifest V3 扩展规范，以保持兼容性，支持跨浏览器开发。 Manifest V3 扩展规范 由 Google 提出，旨在增强 Chrome 浏览器的安全、隐私和性能，其内容包括不再允许远程托管的代码、使用新的 declarativeNetRequest API 处理网络请求修改、一个扩展只能执行包含在其包...",
-          "link": "https://www.oschina.net/news/143606/firefox-support-mv3",
-          "publishedOn": "2021-05-28T23:13:00.000Z",
-          "wordCount": 494,
-          "title": "Firefox 将支持 Manifest V3 扩展规范"
         }
       ]
     },
