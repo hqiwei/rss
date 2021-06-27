@@ -1737,6 +1737,33 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=86968",
+          "author": "Editor, Kai",
+          "description": "一窥开源 Python 项目保持平稳运行的社区幕后。 Jannis Leidel 是 Jazzband 社区的一部分。Jazzband 是一个协作社区，共同承担维护基于 Python 的项目。 Jazzband 的诞生源于长期独自维护一个开 […]",
+          "link": "http://www.linuxeden.com/a/86968",
+          "publishedOn": "2021-06-27T15:01:11.000Z",
+          "wordCount": 270,
+          "title": "如何维护关键的 Python 项目"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86966",
+          "author": "Editor, Kai",
+          "description": "如果一切顺利的话，周日 Linus Torvalds 将会发布 Linux 5.13 稳定版，而不是发布 5.13-rc8 测试版并把最终版本再推后一个版本。不管是哪种情况，Linux 5.13 很快就会发布，而且会有很多新功能。 在合并窗 […]",
+          "link": "http://www.linuxeden.com/a/86966",
+          "publishedOn": "2021-06-27T15:00:09.000Z",
+          "wordCount": 192,
+          "title": "13 个 Linux 5.13 中最值得关注的变化"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86962",
+          "author": "Editor, Kai",
+          "description": "微软和systemd开发者提议为Linux内核的块设备变化建立一个全局计数器，以便更好地跟踪存储系统的变化，为磁盘和其他块设备变化提供一个全系统唯一的数编码，而不是以每个磁盘为基础。这个单调增长的数字是面向全系统的。 这样systemd和其 […]",
+          "link": "http://www.linuxeden.com/a/86962",
+          "publishedOn": "2021-06-27T14:49:58.000Z",
+          "wordCount": 73,
+          "title": "Linux开发者讨论建立跟踪块/磁盘运作的全局计数器"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86958",
           "author": "Editor, Kai",
           "description": "Linuxeden开源社区-开源美图 2021 06 27",
@@ -4489,15 +4516,6 @@
           "publishedOn": "2021-05-29T14:26:05.000Z",
           "wordCount": 180,
           "title": "阿里云以 Apache 2.0 许可证开源 PolarDB 分布式数据库"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85883",
-          "author": "Editor, Kai",
-          "description": "Linuxeden开源社区-开源美图 2021 05 29",
-          "link": "http://www.linuxeden.com/a/85883",
-          "publishedOn": "2021-05-29T02:13:37.000Z",
-          "wordCount": 81,
-          "title": "开源美图 2021 05 29"
         }
       ]
     },
