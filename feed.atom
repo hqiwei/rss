@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T00:33:18.065Z</updated>
+    <updated>2021-06-27T01:58:14.957Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[后端程序员如何在工作之余赚外快？]]></title>
+        <id>https://www.oschina.net/question/1866807_2322868</id>
+        <link href="https://www.oschina.net/question/1866807_2322868"/>
+        <updated>2021-06-27T01:56:12.000Z</updated>
+        <summary type="html"><![CDATA[工作之外，如何去赚钱呢 ，送外卖吗，如何在网上赚钱，毕竟经常用电脑，感觉体力活做不了]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K8S 生态周报 | Docker v20.10.7 发布，修复死锁和容器启动失败的问题]]></title>
+        <id>https://my.oschina.net/jiayou9020/blog/5078630</id>
+        <link href="https://my.oschina.net/jiayou9020/blog/5078630"/>
+        <updated>2021-06-27T01:49:45.000Z</updated>
+        <summary type="html"><![CDATA[这次为大家带来了近一段时间内值得关注的 K8S 生态的信息。其中，Docker 和上游进展的部分是需要重点关注的。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhyNotWin11：开源的 Windows 11 升级检测工具]]></title>
+        <id>https://www.oschina.net/news/147841/whynotwin11-instead-of-pchealthcheck</id>
+        <link href="https://www.oschina.net/news/147841/whynotwin11-instead-of-pchealthcheck"/>
+        <updated>2021-06-27T01:26:45.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11 已于近日正式宣布。与此同时，微软提供了一款名为"PC Health Check"的检测工具，以帮助用户确认电脑是否满足升级要求。然而这款工具的使用体验并没另大多数用户感到满意，例如电脑不满足升级要求，但却不告知具体是哪里不符合条件，或者提供相关指导，有时候甚至会出现运行错误。 为此，开发者自己编写了一个...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华为推出新的内核事务数据库]]></title>
         <id>https://www.oschina.net/news/147839/huawei-publish-in-kernel-transactional-database</id>
