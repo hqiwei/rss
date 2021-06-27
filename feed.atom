@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T23:09:16.867Z</updated>
+    <updated>2021-06-27T00:33:18.065Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[华为推出新的内核事务数据库]]></title>
+        <id>https://www.oschina.net/news/147839/huawei-publish-in-kernel-transactional-database</id>
+        <link href="https://www.oschina.net/news/147839/huawei-publish-in-kernel-transactional-database"/>
+        <updated>2021-06-27T00:04:01.000Z</updated>
+        <summary type="html"><![CDATA[根据邮件列表显示，华为的工程师在周五提出了一个新的内核事务数据库。 该内核数据库名为 “华为摘要列表”，用于存储文件和元数据摘要，并向其用户（例如，完整性测量架构或 IMA）报告摘要是否在数据库中。用于摘要列表的数据包括 RPM 标头和 Debian 存储库元数据信息（例如，具有特定摘要的文件或元数据是否是不可改变...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 社群编码识别黑灰产攻击实践]]></title>
+        <id>https://my.oschina.net/u/4939618/blog/5089150</id>
+        <link href="https://my.oschina.net/u/4939618/blog/5089150"/>
+        <updated>2021-06-26T23:25:54.000Z</updated>
+        <summary type="html"><![CDATA[所谓黑灰产，包含网络黑产、灰产两条产业链，随着互联网的飞速发展，网络黑灰产也在不断演变，当前网络黑灰产已经趋于平台化、专业化、精细化运作。基于黑灰产攻击特点，我们提出了一种基于社群编码的黑灰产攻击识别方法，社群发现部分基于图关系，编码部分引入大规模的图嵌入表示学习。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitee 推荐 | 从零开始的斗地主 AI：DouZero]]></title>
+        <id>https://gitee.com/daochenzha/DouZero</id>
+        <link href="https://gitee.com/daochenzha/DouZero"/>
+        <updated>2021-06-26T23:20:52.000Z</updated>
+        <summary type="html"><![CDATA[DouZero是一个为斗地主设计的强化学习框架。斗地主十分具有挑战性。它包含合作、竞争、非完全信息、庞大的状态空间。斗地主也有非常大的状态空间，并且每一步合法的牌型会非常不一样。DouZero由快手 AI 平台部开发。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[koTime —— SpringBoot 方法调用链路分析工具]]></title>
+        <id>https://www.oschina.net/p/kotime</id>
+        <link href="https://www.oschina.net/p/kotime"/>
+        <updated>2021-06-26T23:16:37.000Z</updated>
+        <summary type="html"><![CDATA[koTime 是一个 SpringBoot 项目性能分析工具，通过追踪方法调用链路以及对应的运行时长快速定位性能瓶颈。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go 开发工程师：迎接上升风口，踏入蓝海行业！]]></title>
         <id>https://gocn.vip/topics/12243</id>
@@ -12238,16 +12278,6 @@ Sum% 值是当前行及上面行的累加和占比。如图所示中，第一行
         <summary type="html"><![CDATA[美国电信公司 Comcast 的一位用户在 Reddit/linux 频道上透露，他通过 BT 下载了 Ubuntu 的 ISO 镜像之后收到 DMCA 侵权通知。在 DMCA 通知中，反盗版组织列举的侵权文件的哈希值为 4ba4fbf72 […]]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Computer Vision with Python]]></title>
-        <id>60b0de2211ffb70827ef8d7c</id>
-        <link href="https://www.freecodecamp.org/news/advanced-computer-vision-with-python/"/>
-        <updated>2021-05-28T12:26:38.000Z</updated>
-        <summary type="html"><![CDATA[Computer vision is being used in more and more applications.  We just released a full course on the freeCodeCamp.org YouTube channel that will help you learn advanced computer vision using Python. You will learn state of the art computer vision techniques by building five projects with libraries such as]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
