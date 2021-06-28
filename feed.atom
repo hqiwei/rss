@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T09:10:19.522Z</updated>
+    <updated>2021-06-28T10:10:15.116Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FCES2021 分论坛预告：开源教育资源建设]]></title>
+        <id>https://www.oschina.net/news/148050</id>
+        <link href="https://www.oschina.net/news/148050"/>
+        <updated>2021-06-28T09:36:02.000Z</updated>
+        <summary type="html"><![CDATA[FCES2021将于2021年7月16日-17日在江苏常州举行，峰会主题是“开源文化与计算机教育”。为期两天的峰会包括特邀报告、观点报告和大会论坛，以及分论坛。与会专家将围绕计算机开源和教育的方方面面展开讨论。大会主席是CCF会士、中国科学院院士、国防科技大学教授王怀民。 峰会早鸟票报名进行中，即刻识别下方二维码或点击...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS 加入持续交付基金会成为主要成员]]></title>
         <id>https://www.oschina.net/news/148034</id>

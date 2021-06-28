@@ -4919,6 +4919,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/148050",
+          "author": null,
+          "description": "FCES2021将于2021年7月16日-17日在江苏常州举行，峰会主题是“开源文化与计算机教育”。为期两天的峰会包括特邀报告、观点报告和大会论坛，以及分论坛。与会专家将围绕计算机开源和教育的方方面面展开讨论。大会主席是CCF会士、中国科学院院士、国防科技大学教授王怀民。 峰会早鸟票报名进行中，即刻识别下方二维码或点击...",
+          "link": "https://www.oschina.net/news/148050",
+          "publishedOn": "2021-06-28T09:36:02.000Z",
+          "wordCount": 491,
+          "title": "FCES2021 分论坛预告：开源教育资源建设"
+        },
+        {
           "id": "https://www.oschina.net/news/148034",
           "author": null,
           "description": "AWS 已成为 CDF 的主要成员。欢迎！作为会员，AWS 解决方案市场总监 Peder Ulander 将加入 CDF 的董事会。 来自 AWS 的博客：AWS 正在加倍努力为我们的客户改善开源持续交付体验[1] 自 2018 年以来，AWS 一直为关键的持续交付技术部件 Spinnaker 做出贡献。Spinnaker 是一个基于云的持续交付平台，用于快速可靠地发布软件...",
