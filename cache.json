@@ -4919,6 +4919,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/148034",
+          "author": null,
+          "description": "AWS 已成为 CDF 的主要成员。欢迎！作为会员，AWS 解决方案市场总监 Peder Ulander 将加入 CDF 的董事会。 来自 AWS 的博客：AWS 正在加倍努力为我们的客户改善开源持续交付体验[1] 自 2018 年以来，AWS 一直为关键的持续交付技术部件 Spinnaker 做出贡献。Spinnaker 是一个基于云的持续交付平台，用于快速可靠地发布软件...",
+          "link": "https://www.oschina.net/news/148034",
+          "publishedOn": "2021-06-28T08:14:49.000Z",
+          "wordCount": 500,
+          "title": "AWS 加入持续交付基金会成为主要成员"
+        },
+        {
           "id": "https://www.oschina.net/news/148020",
           "author": null,
           "description": "关于 Apache Pulsar Apache Pulsar 是 Apache 软件基金会顶级项目，是下一代云原生分布式消息流平台，集消息、存储、轻量化函数式计算为一体，采用计算与存储分离架构设计，支持多租户、持久化存储、多机房跨区域数据复制，具有强一致性、高吞吐、低延时及高可扩展性等流数据存储特性。 GitHub 地址：http://github.com...",
