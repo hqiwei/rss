@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T03:10:27.329Z</updated>
+    <updated>2021-06-28T04:12:00.510Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WhyNotWin11 – 到底为什么不能安装 Windows 11？第三方检测工具告诉你还缺什么]]></title>
+        <id>https://www.appinn.com/?p=39157</id>
+        <link href="https://www.appinn.com/whynotwin11/"/>
+        <updated>2021-06-28T03:40:01.000Z</updated>
+        <summary type="html"><![CDATA[WhyNotWin11 是一款第三方的检测工具，它能告诉你在目前的已知条件下，你的电脑是否符合 Windows 11 的安装条件，如果不能，还缺什么条件。@Appinn 来自 自留地晚报【6.27】的]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[golang 打桩测试库 gostub]]></title>
         <id>https://gocn.vip/topics/12244</id>
@@ -41,6 +51,16 @@ funcVarToStub 是指向函数变量的指针。如果函数返回多个值，返
 go get github.com/prashantv…]]></summary>
         <author>
             <name>haolipeng12345</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文件指挥官 File Commander 7.5.41160 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=125</id>
+        <link href="http://www.dayanzai.me/file-commander.html"/>
+        <updated>2021-06-28T01:46:43.000Z</updated>
+        <summary type="html"><![CDATA[文件指挥官 File Commander 中文版由大眼仔旭（www.dayanzai.me）发布。File C […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
@@ -191,6 +211,36 @@ go get github.com/prashantv…]]></summary>
         <summary type="html"><![CDATA[根据 Fedora 的 Wiki 显示，Fedora 35 或将默认启用 cryptsetup 自动确定最优扇区大小的功能。 cryptsetup 是一个用于设置基于 DMCrypt 内核模块的磁盘加密的工具，支持普通 dm-crypt 卷、LUKS 卷、loop-AES、TrueCrypt（包括 VeraCrypt 扩展）和BitLocker 格式，并实现了 LUKS (Linux Unified Key Setup) 规范 。 此前，...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android PDF 编辑阅读器 Xodo PDF Reader & Editor 7.0.10 中文免费版]]></title>
+        <id>http://www.dayanzai.me/?p=34564</id>
+        <link href="http://www.dayanzai.me/xodo-pdf.html"/>
+        <updated>2021-06-27T16:56:19.000Z</updated>
+        <summary type="html"><![CDATA[Xodo 是一款全功能的 PDF 阅读器和 PDF 编辑器。使用 Xodo，您可以阅读，注释，签名和共享PDF […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Office文档查看器 Office Documents Viewer Pro 1.30.4 中文免费版]]></title>
+        <id>http://www.dayanzai.me/?p=32804</id>
+        <link href="http://www.dayanzai.me/office-documents-viewer.html"/>
+        <updated>2021-06-27T16:54:03.000Z</updated>
+        <summary type="html"><![CDATA[随着移动设备的流行，越来越多的办公一族喜欢在手机上办公，面对越来越多的文档，选择一款适合的文档查看工具尤其重要 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安卓多功能计算器 CalcKit: All in One Calculator 4.1.1 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=11373</id>
+        <link href="http://www.dayanzai.me/calckit.html"/>
+        <updated>2021-06-27T16:44:16.000Z</updated>
+        <summary type="html"><![CDATA[认识 CalcKit，这是功能最强大的 Android 多合一计算器包。CalcKit 拥有 150 多个独特 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
@@ -12107,16 +12157,6 @@ Kratos 学习笔记 - 通过 layout 简单分析应用是如何跑起来的 http
         <summary type="html"><![CDATA[Ventoy 中文版是一个开放源代码工具，用于为 ISO/WIM/IMG/EFI 文件创建可启动 USB 驱动 […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C++ 基础库 co v2.0.0 正式发布 (协程库,网络编程,日志库,JSON..)]]></title>
-        <id>https://www.oschina.net/news/143689/co-2-0-0-released</id>
-        <link href="https://www.oschina.net/news/143689/co-2-0-0-released"/>
-        <updated>2021-05-29T15:21:06.000Z</updated>
-        <summary type="html"><![CDATA[github.com/idealvin/co co 是一个优雅、高效的 C++ 基础库，支持 Linux, Windows 与 Mac 平台，它包含协程库、网络库、日志库、命令行与配置文件解析库、单元测试框架、JSON 库等基本组件。 co 遵循极简的设计理念，提供的接口都尽可能简单明了，用户可以轻松上手。co 尽量避免过度封装，引入过多的概念，以减轻用户的学...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
