@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T20:09:12.069Z</updated>
+    <updated>2021-06-28T21:08:44.507Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy an NLP Model with FastAPI]]></title>
+        <id>60d9766b6e1a1407b6b0cb4f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-an-nlp-model-with-fastapi/"/>
+        <updated>2021-06-28T20:35:12.000Z</updated>
+        <summary type="html"><![CDATA[If you're working with Natural Language Processing, knowing how to deploy a model is one of the most important skills you'll need to have. Model deployment is the process of integrating your model into an existing production environment. The model will receive input and predict an output for decision-making for]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is an IDE in Programming? An IDE Definition for Developers]]></title>
         <id>60d07b4578f45307fee80aef</id>
