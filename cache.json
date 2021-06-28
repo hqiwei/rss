@@ -4919,6 +4919,24 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/148020",
+          "author": null,
+          "description": "关于 Apache Pulsar Apache Pulsar 是 Apache 软件基金会顶级项目，是下一代云原生分布式消息流平台，集消息、存储、轻量化函数式计算为一体，采用计算与存储分离架构设计，支持多租户、持久化存储、多机房跨区域数据复制，具有强一致性、高吞吐、低延时及高可扩展性等流数据存储特性。 GitHub 地址：http://github.com...",
+          "link": "https://www.oschina.net/news/148020",
+          "publishedOn": "2021-06-28T07:26:51.000Z",
+          "wordCount": 907,
+          "title": "Pulsar 社区周报：Pulsar client、broker、transactions"
+        },
+        {
+          "id": "https://www.oschina.net/news/148016",
+          "author": null,
+          "description": "北京时间2021年6月21日，全球顶级开源组织 Apache 软件基金会宣布，网易数帆开源的大数据项目 Kyuubi 以全票通过的表现，正式进入 Apache 软件基金会孵化器。根据投票结果，Kyuubi 获得了 13 个约束性投票(binding votes)和 8 个无约束性投票(non-binding votes)，投票全部持赞同意见，无弃权票和反对票。 Kyuubi 是网易...",
+          "link": "https://www.oschina.net/news/148016",
+          "publishedOn": "2021-06-28T07:12:43.000Z",
+          "wordCount": 646,
+          "title": "全票通过，网易开源项目 Kyuubi 进入 Apache 孵化器"
+        },
+        {
           "id": "https://www.oschina.net/news/147960",
           "author": null,
           "description": "LF AI & Data 基金会是一家致力于构建生态系统，以支持人工智能（AI）和数据开源项目的开源创新的组织，今天宣布，托管项目Milvus[1]将从一个孵化级项目推进到毕业级。这次毕业是 Milvus 展示了蓬勃发展的采用、来自多个组织的持续贡献流，以及文档化和结构化的开放治理过程的结果。Milvus 还获得了核心基础设施倡议最佳...",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T07:08:17.129Z</updated>
+    <updated>2021-06-28T08:10:46.315Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pulsar 社区周报：Pulsar client、broker、transactions]]></title>
+        <id>https://www.oschina.net/news/148020</id>
+        <link href="https://www.oschina.net/news/148020"/>
+        <updated>2021-06-28T07:26:51.000Z</updated>
+        <summary type="html"><![CDATA[关于 Apache Pulsar Apache Pulsar 是 Apache 软件基金会顶级项目，是下一代云原生分布式消息流平台，集消息、存储、轻量化函数式计算为一体，采用计算与存储分离架构设计，支持多租户、持久化存储、多机房跨区域数据复制，具有强一致性、高吞吐、低延时及高可扩展性等流数据存储特性。 GitHub 地址：http://github.com...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全票通过，网易开源项目 Kyuubi 进入 Apache 孵化器]]></title>
+        <id>https://www.oschina.net/news/148016</id>
+        <link href="https://www.oschina.net/news/148016"/>
+        <updated>2021-06-28T07:12:43.000Z</updated>
+        <summary type="html"><![CDATA[北京时间2021年6月21日，全球顶级开源组织 Apache 软件基金会宣布，网易数帆开源的大数据项目 Kyuubi 以全票通过的表现，正式进入 Apache 软件基金会孵化器。根据投票结果，Kyuubi 获得了 13 个约束性投票(binding votes)和 8 个无约束性投票(non-binding votes)，投票全部持赞同意见，无弃权票和反对票。 Kyuubi 是网易...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WhyNotWin11 – 到底为什么不能安装 Windows 11？第三方检测工具告诉你还缺什么]]></title>
         <id>https://www.appinn.com/?p=39157</id>
