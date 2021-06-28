@@ -1764,6 +1764,33 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=87001",
+          "author": "Editor, Kai",
+          "description": "Linux 5.14的核心调度器更新 减少SMT/HT信息泄露风险 募资35亿 龙芯中科IPO上市已获受理：CPU达到AMD水平 龙芯3A5000采用自主指令集架构：单核性能提升50%、功耗降低30% 转文称14nm可叠加达到7nm性能：画 […]",
+          "link": "http://www.linuxeden.com/a/87001",
+          "publishedOn": "2021-06-28T14:36:30.000Z",
+          "wordCount": 93,
+          "title": "每日文章精选 2021 06 28"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86997",
+          "author": "Editor, Kai",
+          "description": "在刚刚开放的Linux 5.14合并窗口的早期拉动请求中包括一组调度器的更新，其中包括核心调度改进的引入。核心调度功能在过去的几年里一直由多个供应商在开发，以便在超线程的各种漏洞被曝光后更好地保护SMT系统。 核心调度最终将成为Linux  […]",
+          "link": "http://www.linuxeden.com/a/86997",
+          "publishedOn": "2021-06-28T14:30:17.000Z",
+          "wordCount": 91,
+          "title": "Linux 5.14的核心调度器更新 减少SMT/HT信息泄露风险"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86993",
+          "author": "Editor, Kai",
+          "description": "6月28日消息，据企查查信息，上交所正式受理龙芯中科技术股份有限公司（简称“龙芯中科”）的科创板IPO申请，该公司将募资35.12亿用于先进制程芯片、高性能图形芯片等项目。 据招股书，龙芯中科本次公开发行新股不超过4100万股，占发行后总股 […]",
+          "link": "http://www.linuxeden.com/a/86993",
+          "publishedOn": "2021-06-28T14:10:00.000Z",
+          "wordCount": 100,
+          "title": "募资35亿 龙芯中科IPO上市已获受理：CPU达到AMD水平"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86990",
           "author": "Editor, Kai",
           "description": "在龙芯中科官方微信介绍走进贵州的活动时，披露了3A5000处理器的最新资料。 官方称，2021年，龙芯中科推出完全自主指令集架构–LoongArch，标志着指令集系统架构承载的软件生态走向完全自主。 龙芯3A5000采用最新的L […]",
@@ -7950,15 +7977,6 @@
           "publishedOn": "2021-05-30T03:15:04.000Z",
           "wordCount": 475,
           "title": "独立开发者实现 Fuchsia OS 模拟器"
-        },
-        {
-          "id": "https://www.oschina.net/news/143714/fuchsia-os-partially-written-in-rust-has-shipped",
-          "author": null,
-          "description": "谷歌近日正式面向公众推出了 Fuchsia OS，获得 Fuchsia 1.0 推送的设备是第一代 Nest Hub。 与基于 Linux 内核的 Chrome OS 和 Android 等操作系统不同，Fuchsia 使用了全新的、自研的 Zircon 微内核，其采用 C++ 编写。内核的组件则使用到了 Go、Rust、Python，以及 C/C++ 等编程语言进行编写，如 USB 驱动程序使用 C+...",
-          "link": "https://www.oschina.net/news/143714/fuchsia-os-partially-written-in-rust-has-shipped",
-          "publishedOn": "2021-05-30T02:39:17.000Z",
-          "wordCount": 499,
-          "title": "Fuchsia 的 Rust 代码占比超 50%"
         }
       ]
     },
