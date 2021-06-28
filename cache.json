@@ -1746,6 +1746,15 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=86990",
+          "author": "Editor, Kai",
+          "description": "在龙芯中科官方微信介绍走进贵州的活动时，披露了3A5000处理器的最新资料。 官方称，2021年，龙芯中科推出完全自主指令集架构–LoongArch，标志着指令集系统架构承载的软件生态走向完全自主。 龙芯3A5000采用最新的L […]",
+          "link": "http://www.linuxeden.com/a/86990",
+          "publishedOn": "2021-06-28T11:40:38.000Z",
+          "wordCount": 90,
+          "title": "龙芯3A5000采用自主指令集架构：单核性能提升50%、功耗降低30%"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86987",
           "author": "Editor, Kai",
           "description": "Linuxeden开源社区-开源美图 2021 06 28",
@@ -4534,15 +4543,6 @@
           "publishedOn": "2021-05-30T00:32:58.000Z",
           "wordCount": 91,
           "title": "Apache Arrow 4.0.1发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85897",
-          "author": "Editor, Kai",
-          "description": "5月29日20时55分，搭载天舟二号货运飞船的长征七号遥三运载火箭成功发射，今天凌晨天舟二号与天和舱对接成功。 视频 据中国载人航天工程办公室消息，天舟二号货运飞船入轨后顺利完成入轨状态设置，于5月30日5时01分，采用自主快速交会对接模式 […]",
-          "link": "http://www.linuxeden.com/a/85897",
-          "publishedOn": "2021-05-30T00:07:05.000Z",
-          "wordCount": 70,
-          "title": "祝贺！天舟二号与天和核心舱完成交会对接：历时8小时"
         }
       ]
     },

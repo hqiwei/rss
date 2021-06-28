@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T11:07:48.152Z</updated>
+    <updated>2021-06-28T12:14:23.793Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[龙芯3A5000采用自主指令集架构：单核性能提升50%、功耗降低30%]]></title>
+        <id>http://www.linuxeden.com/?p=86990</id>
+        <link href="http://www.linuxeden.com/a/86990"/>
+        <updated>2021-06-28T11:40:38.000Z</updated>
+        <summary type="html"><![CDATA[在龙芯中科官方微信介绍走进贵州的活动时，披露了3A5000处理器的最新资料。 官方称，2021年，龙芯中科推出完全自主指令集架构–LoongArch，标志着指令集系统架构承载的软件生态走向完全自主。 龙芯3A5000采用最新的L […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FCES2021 分论坛预告：开源教育资源建设]]></title>
         <id>https://www.oschina.net/news/148050</id>
@@ -12165,16 +12175,6 @@ Kratos 学习笔记 - 通过 layout 简单分析应用是如何跑起来的 http
         <link href="http://www.linuxeden.com/a/85899"/>
         <updated>2021-05-30T00:32:58.000Z</updated>
         <summary type="html"><![CDATA[apache-arrow-4.0.1.tar.gz        2021-05-26 16:38  8.6M apache-arrow-4.0.1.tar.gz.asc    2021-05-26 16:38  833 apache-ar […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[祝贺！天舟二号与天和核心舱完成交会对接：历时8小时]]></title>
-        <id>http://www.linuxeden.com/?p=85897</id>
-        <link href="http://www.linuxeden.com/a/85897"/>
-        <updated>2021-05-30T00:07:05.000Z</updated>
-        <summary type="html"><![CDATA[5月29日20时55分，搭载天舟二号货运飞船的长征七号遥三运载火箭成功发射，今天凌晨天舟二号与天和舱对接成功。 视频 据中国载人航天工程办公室消息，天舟二号货运飞船入轨后顺利完成入轨状态设置，于5月30日5时01分，采用自主快速交会对接模式 […]]]></summary>
         <author>
             <name>Editor, Kai</name>
         </author>
