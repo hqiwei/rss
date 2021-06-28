@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T04:12:00.510Z</updated>
+    <updated>2021-06-28T05:08:14.284Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12137,26 +12137,6 @@ Kratos 学习笔记 - 通过 layout 简单分析应用是如何跑起来的 http
         <summary type="html"><![CDATA[5月29日20时55分，搭载天舟二号货运飞船的长征七号遥三运载火箭成功发射，今天凌晨天舟二号与天和舱对接成功。 视频 据中国载人航天工程办公室消息，天舟二号货运飞船入轨后顺利完成入轨状态设置，于5月30日5时01分，采用自主快速交会对接模式 […]]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专业 EPUB 格式电子书编辑器 Sigil 1.6.0 + x64 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=33151</id>
-        <link href="http://www.dayanzai.me/sigil.html"/>
-        <updated>2021-05-29T16:23:50.000Z</updated>
-        <summary type="html"><![CDATA[专业 EPUB 格式电子书编辑器 Sigil + x64 中文多语特别版由大眼仔旭（www.dayanzai. […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源免费启动盘制作工具 Ventoy 1.0.45 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=228</id>
-        <link href="http://www.dayanzai.me/ventoy.html"/>
-        <updated>2021-05-29T16:22:50.000Z</updated>
-        <summary type="html"><![CDATA[Ventoy 中文版是一个开放源代码工具，用于为 ISO/WIM/IMG/EFI 文件创建可启动 USB 驱动 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
         </author>
     </entry>
 </feed>
