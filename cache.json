@@ -1728,6 +1728,60 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=86987",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 06 28",
+          "link": "http://www.linuxeden.com/a/86987",
+          "publishedOn": "2021-06-28T00:24:12.000Z",
+          "wordCount": 87,
+          "title": "开源美图 2021 06 28"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86984",
+          "author": "Editor, Kai",
+          "description": "日前，有微博数码博主发文称，国内某芯片厂商已攻克28nm芯片技术，并且14nm芯片也有重大进展，能通过特定手段将14nm双芯叠加，性能可直接比肩7nm芯片。 随后，该博文被知名CG画家@乌合麒麟转发，因此受到更多网友的关注，但很快就遭受了许 […]",
+          "link": "http://www.linuxeden.com/a/86984",
+          "publishedOn": "2021-06-28T00:19:05.000Z",
+          "wordCount": 74,
+          "title": "转文称14nm可叠加达到7nm性能：画家乌合麒麟公开道歉"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86981",
+          "author": "Editor, Kai",
+          "description": "“内卷”成为最近一段时间的热议词，与之相反的，还有一个“躺平”，有望冲击2021年十大最热“词汇”之一。 华为创始人兼CEO任正非怎么看待内卷的呢？ 6月26日，华为心声社区公开《任总与2020年金牌员工代表座谈会上的讲话》，讲话时间为5月 […]",
+          "link": "http://www.linuxeden.com/a/86981",
+          "publishedOn": "2021-06-28T00:17:54.000Z",
+          "wordCount": 75,
+          "title": "任正非：华为要防止内卷 精益求精不叫内卷"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86979",
+          "author": "Editor, Kai",
+          "description": "RabbitMQ 3.8.18 is a maintenance release that includes a security patch. This release addresses an undisclosed vulnerabi […]",
+          "link": "http://www.linuxeden.com/a/86979",
+          "publishedOn": "2021-06-28T00:12:58.000Z",
+          "wordCount": 1095,
+          "title": "RabbitMQ 3.8.18 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86972",
+          "author": "Editor, Kai",
+          "description": "如果你是一名机床、汽车、飞机等制造业的设计人员，同时你又是一名 Linux 操作系统的爱好者，你是不是还在为没有一款合适的 CAD 软件而感到苦恼，不要悲伤、不要苦恼，现在小优宣布，一款方便好用的 CAD 软件（浩辰 CAD 2021 Li […]",
+          "link": "http://www.linuxeden.com/a/86972",
+          "publishedOn": "2021-06-28T00:08:10.000Z",
+          "wordCount": 172,
+          "title": "浩辰 CAD 2021 Linux 版上线啦！"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=86970",
+          "author": "Editor, Kai",
+          "description": "如何维护关键的 Python 项目 13 个 Linux 5.13 中最值得关注的变化 Linux开发者讨论建立跟踪块/磁盘运作的全局计数器 使用 QEMU 尝鲜 Windows 11 Fedora 35将自动启用最佳加密扇区大小以提高I/ […]",
+          "link": "http://www.linuxeden.com/a/86970",
+          "publishedOn": "2021-06-28T00:02:03.000Z",
+          "wordCount": 111,
+          "title": "每日文章精选 2021 06 27"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=86968",
           "author": "Editor, Kai",
           "description": "一窥开源 Python 项目保持平稳运行的社区幕后。 Jannis Leidel 是 Jazzband 社区的一部分。Jazzband 是一个协作社区，共同承担维护基于 Python 的项目。 Jazzband 的诞生源于长期独自维护一个开 […]",
@@ -4873,6 +4927,51 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/147949/nvidia-proposes-the-linux-hardware-timestamping-engine",
+          "author": null,
+          "description": "根据邮件列表显示，NVIDIA 工程师提出了一项在 Linux 内核中引入硬件时间戳引擎（HTE）子系统的提案。 某些设备具有内置的硬件时间戳引擎，可以实时监测系统信号、线路、总线等的状态变化；在检测到变化时，它可以自动存储发生时的时间戳。因此该功能可能有助于在获得时间戳方面得到比使用软件对应物（如 ktime 和 frie...",
+          "link": "https://www.oschina.net/news/147949/nvidia-proposes-the-linux-hardware-timestamping-engine",
+          "publishedOn": "2021-06-27T23:37:06.000Z",
+          "wordCount": 496,
+          "title": "NVIDIA 提议引入 Linux 硬件时间戳引擎"
+        },
+        {
+          "id": "https://my.oschina.net/gitosc/blog/5104007",
+          "author": null,
+          "description": "应用敏捷就会一帆风顺吗？显然答案是否定的。越来越多的组织、团队开始学习、实践、导入敏捷，然而效果确是相差甚远、判若云泥。为什么会这样？或者说敏捷转型有这么多痛点？",
+          "link": "https://my.oschina.net/gitosc/blog/5104007",
+          "publishedOn": "2021-06-27T23:29:38.000Z",
+          "wordCount": 297,
+          "title": "敏捷迭代实践：研发团队如何高效实现敏捷开发管理"
+        },
+        {
+          "id": "https://my.oschina.net/taogang/blog/5085570",
+          "author": null,
+          "description": "我有幸在大数据这个领域先后做了数据可视化，数据的准备和采集，机器学习，以及现在负责一个大数据软件端到端的架构，对于大数据软件领域有不少的了解，今天就来和大家分享一下我眼中，大数据软件开源领域的版图。",
+          "link": "https://my.oschina.net/taogang/blog/5085570",
+          "publishedOn": "2021-06-27T23:27:32.000Z",
+          "wordCount": 279,
+          "title": "每日一博 | 大数据软件开源版图"
+        },
+        {
+          "id": "https://www.oschina.net/p/XiangShan",
+          "author": null,
+          "description": "一款开源的高性能 RISC-V 处理器，采用 Chisel 硬件设计语言开发，支持 RV64GC 指令集。",
+          "link": "https://www.oschina.net/p/XiangShan",
+          "publishedOn": "2021-06-27T23:26:32.000Z",
+          "wordCount": 323,
+          "title": "香山 —— 高性能 RISC-V 处理器"
+        },
+        {
+          "id": "https://gitee.com/dgiiot/dgiot",
+          "author": null,
+          "description": "国内首款轻量级开源工业物联网持续集成平台，主打一键式快速部署、低成本开发的特点，并提供业界独有的物联网全业务模拟云测等特色服务",
+          "link": "https://gitee.com/dgiiot/dgiot",
+          "publishedOn": "2021-06-27T23:16:41.000Z",
+          "wordCount": 551,
+          "title": "Gitee 推荐 | 轻量级开源工业物联网持续集成平台 DGIOT"
+        },
         {
           "id": "https://www.oschina.net/news/147941/fedora-support-automatically-use-optimal-encryption-sector",
           "author": null,
