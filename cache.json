@@ -4543,33 +4543,6 @@
           "publishedOn": "2021-05-30T00:07:05.000Z",
           "wordCount": 70,
           "title": "祝贺！天舟二号与天和核心舱完成交会对接：历时8小时"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85895",
-          "author": "Editor, Kai",
-          "description": "天舟二号货运飞船成功发射！为空间站运送生活物资 Python 3.3 为改进代码中的异常处理所做的工作 阿里云以 Apache 2.0 许可证开源 PolarDB 分布式数据库 魅族宣布接入鸿蒙系统 魅友激动：格局大了 将操作系统移植到新的 […]",
-          "link": "http://www.linuxeden.com/a/85895",
-          "publishedOn": "2021-05-29T15:03:26.000Z",
-          "wordCount": 107,
-          "title": "每日文章精选 2021 05 29"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85892",
-          "author": "Editor, Kai",
-          "description": "5月29日消息，据中国载人航天工程办公室消息，5月29日20时55分，搭载天舟二号货运飞船的长征七号遥三运载火箭，在我国文昌航天发射场准时点火发射。 约604秒后，飞船与火箭成功分离，精确进入预定轨道，21时17分，太阳能帆板两翼顺利展开工 […]",
-          "link": "http://www.linuxeden.com/a/85892",
-          "publishedOn": "2021-05-29T14:32:07.000Z",
-          "wordCount": 79,
-          "title": "天舟二号货运飞船成功发射！为空间站运送生活物资"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85890",
-          "author": "Editor, Kai",
-          "description": "探索异常处理和其他未被充分利用但仍然有用的 Python 特性。 这是 Python 3.x 首发特性系列文章的第四篇。Python 3.3 于 2012 年首次发布，尽管它已经发布了很长时间，但它引入的许多特性都没有得到充分利用，而且相当 […]",
-          "link": "http://www.linuxeden.com/a/85890",
-          "publishedOn": "2021-05-29T14:29:27.000Z",
-          "wordCount": 398,
-          "title": "Python 3.3 为改进代码中的异常处理所做的工作"
         }
       ]
     },
@@ -8021,6 +7994,24 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=32988",
+          "author": "大眼仔~旭",
+          "description": "在国内可能大多数人习惯了迅雷，虽然迅雷作为国内老牌的下载工具，但是它慢慢的已经变的不再像下载工具了，最新的迅雷 […]",
+          "link": "http://www.dayanzai.me/qbittorrent.html",
+          "publishedOn": "2021-06-27T16:33:26.000Z",
+          "wordCount": 639,
+          "title": "轻量级 BT 下载工具 qBittorrent 4.3.6 + x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=12918",
+          "author": "大眼仔~旭",
+          "description": "GnuCash 中文版由大眼仔旭（www.dayanzai.me）发布。GnuCash 是一个可以用于个人或小 […]",
+          "link": "http://www.dayanzai.me/gnucash.html",
+          "publishedOn": "2021-06-27T16:26:42.000Z",
+          "wordCount": 508,
+          "title": "免费开源财务管理软件 GnuCash 4.6 中文多语免费版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=5744",
           "author": "大眼仔~旭",
