@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60d61acc6e1a1407b6b0bd46",
+          "author": null,
+          "description": "In this article, you will learn how to securely access secret API keys using Netlify functions in a React app.  Netlify provides rich features that help you easily deploy Single Page Applications built using frameworks like React, Vue and Angular among others. This takes away the burden of coding and",
+          "link": "https://www.freecodecamp.org/news/how-to-access-secret-api-keys-using-netlify-functions-in-a-react-app/",
+          "publishedOn": "2021-06-28T21:17:02.000Z",
+          "wordCount": 3681,
+          "title": "How to Securely Access Secret API keys using Netlify Functions in a React App"
+        },
+        {
           "id": "60d9766b6e1a1407b6b0cb4f",
           "author": null,
           "description": "If you're working with Natural Language Processing, knowing how to deploy a model is one of the most important skills you'll need to have. Model deployment is the process of integrating your model into an existing production environment. The model will receive input and predict an output for decision-making for",
@@ -1782,15 +1791,6 @@
           "publishedOn": "2021-05-30T10:25:47.000Z",
           "wordCount": 133,
           "title": "[上海] CloudFine 多云原生初创团队招聘 Go 语言研发工程师"
-        },
-        {
-          "id": "https://gocn.vip/topics/12138",
-          "author": "samurai",
-          "description": "Go 高性能系列教程之二：性能评估和分析 https://gocn.vip/topics/12133\n\n深度理解 golang map https://juejin.cn/post/6967274139065253902\n\nsync.Pool 原理解析 https://juejin.cn/post/6965421491588431909\n\nKratos 学习笔记 - 通过 layout 简单分析应用是如何跑起来的 https://juejin.cn/post/6967941646138736653\n\n来瞧一瞧 gRPC 的拦截器 https://segmentfault.com/a/1190000040087672\n\n\n\n编辑: samurai\n订阅新闻: http://tinyletter.com/gocn\n招聘专区: https://gocn.vip/jobs",
-          "link": "https://gocn.vip/topics/12138",
-          "publishedOn": "2021-05-30T09:55:38.000Z",
-          "wordCount": 100,
-          "title": "GoCN 每日新闻 (2021-05-30)"
         }
       ]
     },
