@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T19:09:17.653Z</updated>
+    <updated>2021-06-28T20:09:12.069Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is an IDE in Programming? An IDE Definition for Developers]]></title>
+        <id>60d07b4578f45307fee80aef</id>
+        <link href="https://www.freecodecamp.org/news/what-is-an-ide-in-programming-an-ide-definition-for-developers/"/>
+        <updated>2021-06-28T20:04:28.000Z</updated>
+        <summary type="html"><![CDATA[Every developer needs a good development enviroment, whether you're into mobile development or web apps or even if you're just learning your first programming language.  Just like any beginning developer, when I began to learn coding I needed some guidance on how to get started. And one of the most]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Closure Tutorial – How Closures and Lexical Scope Work in JS]]></title>
         <id>60d675ac6e1a1407b6b0bea1</id>
@@ -12132,16 +12142,6 @@ Kratos 学习笔记 - 通过 layout 简单分析应用是如何跑起来的 http
 招聘专区: https://gocn.vip/jobs]]></summary>
         <author>
             <name>samurai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoSky(Govern-Service) 1.0.0 发布，基于 Redis 的服务治理平台]]></title>
-        <id>https://www.oschina.net/news/143733/cosky-1-0-0-released</id>
-        <link href="https://www.oschina.net/news/143733/cosky-1-0-0-released"/>
-        <updated>2021-05-30T07:47:50.000Z</updated>
-        <summary type="html"><![CDATA[CoSky 基于 Redis 的服务治理平台（服务注册/发现 & 配置中心） Consul + Sky = CoSky CoSky 是一个轻量级、低成本的服务注册、服务发现、 配置服务 SDK，通过使用现有基础设施中的 Redis （相信你已经部署了Redis），不用给运维部署带来额外的成本与负担。 借助于 Redis 的高性能， CoSky 提供了超高TPS&QPS (10W+/s J...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
