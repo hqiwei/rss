@@ -803,6 +803,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12245",
+          "author": "lwhile",
+          "description": "GoCN 每日新闻 (2021-06-28)\n100 个 Go 经典错误 https://medium.com/solvingalgo/100-go-mistakes-2022-4debd9449a72\n\n减少你的 Go 程序内存占用 https://chris124567.github.io/2021-06-21-go-performance/\n\n深入浅出 Go 并发工作池 https://itnext.io/explain-to-me-go-concurrency-worker-pool-pattern-like-im-five-e5f1be71e2b0\n\n具有位图索引的内存列存储工具 column https://github.com/kelindar/column\n\n单机限流器 time/rate 库 https://gocn.vip/topics/12239\n\n\n\n编辑: lwhile\n订阅新闻: http://tinyletter.com/gocn\n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12245",
+          "publishedOn": "2021-06-28T16:06:15.000Z",
+          "wordCount": 102,
+          "title": "GoCN 每日新闻 (2021-06-28)"
+        },
+        {
           "id": "https://gocn.vip/topics/12244",
           "author": "haolipeng12345",
           "description": "一、gostub 简介\n1、gostub 是什么？\nGoStub是一款轻量级的单元测试框架，接口友好，可以对全局变量、函数或过程进行打桩。\n2、应用场景有哪些？\n场景 1：打桩全局变量\n场景 2：打桩普通函数\n场景 3：打桩系统函数\n3、常用方法有哪些？\nfunc New() *Stubs\nNew 返回用于打桩变量的 *Stubs 变量\nfunc (s *Stubs) Reset()\nReset 重置打桩的所有变量到其原始值\nfunc (s *Stubs) ResetSingle(varToStub interface{})\nResetSingle 重置打桩的单个变量到其原始值\nfunc (s *Stubs) SetEnv(k, v string) *Stubs\nSetEnv 设置指定的环境变量到指定值\nfunc (s *Stubs) UnsetEnv(k string) *Stubs\nUnsetEnv 还原指定环境变量的值\n最常用的两个函数如下\nfunc (s *Stubs) Stub(varToStub interface{}, stubVal interface{}) *Stubs\nStub 使用 stubVal 替代存储在 varToStub 变量的值\nvarToStub 必须是指向变量的指针。\nstubVal 是可赋值到变量的类型\nfunc (s *Stubs) StubFunc(funcVarToStub interface{}, stubVal ...interface{}) *Stubs\nStubFunc 用返回 stubval 值的函数替换函数变量，返回 *Stubs 类型变量\nfuncVarToStub 是指向函数变量的指针。如果函数返回多个值，返回的多个值被传递给 StubFunc。\n二、安装部署\ngo get github.com/prashantv…",
@@ -4910,15 +4919,6 @@
           "publishedOn": "2021-05-31T03:02:36.000Z",
           "wordCount": 1334,
           "title": "滴答清单6.0 – 专注时间管理和提醒事项的全能 Todo 应用"
-        },
-        {
-          "id": "https://www.appinn.com/?p=38930",
-          "author": "青小蛙",
-          "description": "PhotoPrism 是一款开源的，基于机器学习软件 Google TensorFlow 的开源照片管理工具，它能够实现自动图像分类，可检测颜色、色度、亮度、质量、全景照片、位置等图片属性，支持直接上",
-          "link": "https://www.appinn.com/photoprism/",
-          "publishedOn": "2021-05-30T04:05:45.000Z",
-          "wordCount": 1225,
-          "title": "PhotoPrism – 可私有部署，基于机器学习 TensorFlow 的图像自动分类、开源照片管理工具，类本地化 Google Photos 服务"
         }
       ]
     },
@@ -7968,15 +7968,6 @@
           "publishedOn": "2021-05-30T07:47:50.000Z",
           "wordCount": 951,
           "title": "CoSky(Govern-Service) 1.0.0 发布，基于 Redis 的服务治理平台"
-        },
-        {
-          "id": "https://www.oschina.net/news/143717/dahlia-os-publish-flmage",
-          "author": null,
-          "description": "Dahlia OS 的独立开发者实现了便携式 Fuchsia 模拟器 Flmage，以帮助体验 Fuchsia OS。 本周早些时候，Google 正式发布了的 Fuchsia OS，不过现在只有一些第一代 Nest Hub 的用户能够体验。尽管 Fuchsia OS 是开源的，用户可以在自己电脑上下载代码并编译，但依然只能在 Google Pixelbook 等兼容设备上运行。因此，Dahli...",
-          "link": "https://www.oschina.net/news/143717/dahlia-os-publish-flmage",
-          "publishedOn": "2021-05-30T03:15:04.000Z",
-          "wordCount": 475,
-          "title": "独立开发者实现 Fuchsia OS 模拟器"
         }
       ]
     },
