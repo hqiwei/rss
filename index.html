@@ -109,6 +109,50 @@
       </li>
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://gocn.vip/">GoCN社区</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">golang 打桩测试库 gostub</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12244">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>一、gostub 简介
+1、gostub 是什么？
+GoStub是一款轻量级的单元测试框架，接口友好，可以对全局变量、函数或过程进行打桩。
+2、应用场景有哪些？
+场景 1：打桩全局变量
+场景 2：打桩普通函数
+场景 3：打桩系统函数
+3、常用方法有哪些？
+func New() *Stubs
+New 返回用于打桩变量的 *Stubs 变量
+func (s *Stubs) Reset()
+Reset 重置打桩的所有变量到其原始值
+func (s *Stubs) ResetSingle(varToStub interface{})
+ResetSingle 重置打桩的单个变量到其原始值
+func (s *Stubs) SetEnv(k, v string) *Stubs
+SetEnv 设置指定的环境变量到指定值
+func (s *Stubs) UnsetEnv(k string) *Stubs
+UnsetEnv 还原指定环境变量的值
+最常用的两个函数如下
+func (s *Stubs) Stub(varToStub interface{}, stubVal interface{}) *Stubs
+Stub 使用 stubVal 替代存储在 varToStub 变量的值
+varToStub 必须是指向变量的指针。
+stubVal 是可赋值到变量的类型
+func (s *Stubs) StubFunc(funcVarToStub interface{}, stubVal ...interface{}) *Stubs
+StubFunc 用返回 stubval 值的函数替换函数变量，返回 *Stubs 类型变量
+funcVarToStub 是指向函数变量的指针。如果函数返回多个值，返回的多个值被传递给 StubFunc。
+二、安装部署
+go get github.com/prashantv…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://www.oschina.net/news/rss">OSCHINA 社区最新新闻</a></h3>
           <section class="articles-per-source">
             <article>
@@ -14187,17 +14231,6 @@ Kratos 学习笔记 - 通过 layout 简单分析应用是如何跑起来的 http
                 </a>
               </details>
             </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">阿里云以 Apache 2.0 许可证开源 PolarDB 分布式数据库</summary>
-                <a class="article-summary-link article-summary-box-outer" href="http://www.linuxeden.com/a/85886">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>5 月 29 日，阿里云开发者大会上，阿里云宣布开源云原生数据库能力，开源关系型数据库 PolarDB for PostgreSQL，将阿里内部沉淀多年的技术分享出来，服务于百万开发者。目前，该项目已在阿里云官网及 Github 上发布，后 […]</span>
-                  </div>
-                </a>
-              </details>
-            </article>
         </section>
       </li>
       <li class="source">
@@ -14221,7 +14254,7 @@ Kratos 学习笔记 - 通过 layout 简单分析应用是如何跑起来的 http
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-06-28T01:53:44.656Z">2021-06-28T01:53:44.656Z</time>
+    <time id="build-timestamp" datetime="2021-06-28T02:26:37.083Z">2021-06-28T02:26:37.083Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.0</a></span>
   </footer>
   <script src="index.js"></script>

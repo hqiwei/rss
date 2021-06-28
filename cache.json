@@ -785,6 +785,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12244",
+          "author": "haolipeng12345",
+          "description": "一、gostub 简介\n1、gostub 是什么？\nGoStub是一款轻量级的单元测试框架，接口友好，可以对全局变量、函数或过程进行打桩。\n2、应用场景有哪些？\n场景 1：打桩全局变量\n场景 2：打桩普通函数\n场景 3：打桩系统函数\n3、常用方法有哪些？\nfunc New() *Stubs\nNew 返回用于打桩变量的 *Stubs 变量\nfunc (s *Stubs) Reset()\nReset 重置打桩的所有变量到其原始值\nfunc (s *Stubs) ResetSingle(varToStub interface{})\nResetSingle 重置打桩的单个变量到其原始值\nfunc (s *Stubs) SetEnv(k, v string) *Stubs\nSetEnv 设置指定的环境变量到指定值\nfunc (s *Stubs) UnsetEnv(k string) *Stubs\nUnsetEnv 还原指定环境变量的值\n最常用的两个函数如下\nfunc (s *Stubs) Stub(varToStub interface{}, stubVal interface{}) *Stubs\nStub 使用 stubVal 替代存储在 varToStub 变量的值\nvarToStub 必须是指向变量的指针。\nstubVal 是可赋值到变量的类型\nfunc (s *Stubs) StubFunc(funcVarToStub interface{}, stubVal ...interface{}) *Stubs\nStubFunc 用返回 stubval 值的函数替换函数变量，返回 *Stubs 类型变量\nfuncVarToStub 是指向函数变量的指针。如果函数返回多个值，返回的多个值被传递给 StubFunc。\n二、安装部署\ngo get github.com/prashantv…",
+          "link": "https://gocn.vip/topics/12244",
+          "publishedOn": "2021-06-28T02:20:06.000Z",
+          "wordCount": 301,
+          "title": "golang 打桩测试库 gostub"
+        },
+        {
           "id": "https://gocn.vip/topics/12243",
           "author": "biancheng",
           "description": "download:Go 开发工程师：迎接上升风口，踏入蓝海行业！\n\n适合零基础小白学习吗\n小同学，当你问出这句话的时候，就说明你已经不是小白了，你是个很有主见的 “大人” 了，要是你问零基础适合学习么？我肯定的告诉你：非常适合，而且要相信自己不是小白，而是小牛~祝你更进一步，加油~\n课程中的项目是真的企业级/商业级项目么？\n同学这个问题是我见过问得最有水平的问题了~ 确实网络上充斥了很多美其名曰 “企业级/商业项目”，然而当你咨询想要体验一下项目效果，这么最低的标准都达不到，也就是网络充斥很多打着 “企业级” 名号的耍流氓项目，他们连最低的企业级标准 -- 可部署可上线标准都达不到！ 那么，同学想一下这个问题：什么样的标准才能称之为 “企业级/商业级”?那么我认为有如下几点标准必须符合： 1、【最低标准】可部署可上线（课程两个分别打开微信，搜索 “租辆酷车”、“波哥电商” 体验项目）2、 真正的三端分离项目（两项目都符合，以微商城举例）3、 满足企业真实的开发场景（以共享出行项目为例）（1）先进的 google 设计理念 + 架构实践（2）符合当前最前卫的开发流程（3）“敏捷开发”、“领域驱动 DDD” 等的最佳实践 4、 符合企业标准架构演进：从三端分离到微服务化项目迭代（1）微电商项目（前端 + 后端 + 后台管理-->搜索微服务化）（2）共享出行项目（Typescript 前端 + 后端 +Vue3.0 后台管理-->云原生微服务）\n章节目录：\n第 1 周   Go 语言极速上手\nGo 发展历程、语言特性快速预览、企业应用，go 安装与环境配置，go 语常用开发工具 Goland,VisualStudio，LiteIde 集成。go 语言常用数据类型讲解。\n课程安排：\n1、Go 发展历程、企业应用、语言特性\n2、Go 语言安装、Go 语言环境配置\n3、常量概述、常量的…",
@@ -4561,15 +4570,6 @@
           "publishedOn": "2021-05-29T14:29:27.000Z",
           "wordCount": 398,
           "title": "Python 3.3 为改进代码中的异常处理所做的工作"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85886",
-          "author": "Editor, Kai",
-          "description": "5 月 29 日，阿里云开发者大会上，阿里云宣布开源云原生数据库能力，开源关系型数据库 PolarDB for PostgreSQL，将阿里内部沉淀多年的技术分享出来，服务于百万开发者。目前，该项目已在阿里云官网及 Github 上发布，后 […]",
-          "link": "http://www.linuxeden.com/a/85886",
-          "publishedOn": "2021-05-29T14:26:05.000Z",
-          "wordCount": 180,
-          "title": "阿里云以 Apache 2.0 许可证开源 PolarDB 分布式数据库"
         }
       ]
     },
