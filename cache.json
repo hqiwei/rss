@@ -733,6 +733,15 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html",
+          "author": null,
+          "description": "美国最大的论坛 Reddit，最近有一个热帖。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html",
+          "publishedOn": "2021-06-28T01:10:50.000Z",
+          "wordCount": 226,
+          "title": "程序员的酒后真言"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-164.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -4927,6 +4936,24 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/147960",
+          "author": null,
+          "description": "LF AI & Data 基金会是一家致力于构建生态系统，以支持人工智能（AI）和数据开源项目的开源创新的组织，今天宣布，托管项目Milvus[1]将从一个孵化级项目推进到毕业级。这次毕业是 Milvus 展示了蓬勃发展的采用、来自多个组织的持续贡献流，以及文档化和结构化的开放治理过程的结果。Milvus 还获得了核心基础设施倡议最佳...",
+          "link": "https://www.oschina.net/news/147960",
+          "publishedOn": "2021-06-28T01:21:19.000Z",
+          "wordCount": 612,
+          "title": "LF AI & Data 基金会宣布 Milvus 项目毕业"
+        },
+        {
+          "id": "https://www.oschina.net/news/147956/jingpad-a1",
+          "author": null,
+          "description": "近日，\"JingOS\"（专为平板打造的 Linux 系统）背后的公司为他们的硬件产品开启了众筹（起售价为 549 美元）。据介绍，此硬件产品是一款平板电脑，名为\"JingPad A1\"，自称是全球首款 ARM 架构的消费级 Linux 平板电脑。 JingPad A1 主要参数： 屏幕：11 寸 AMOLED 2K 屏幕（4:3，266 PPI） 重量：490g 存储：内置 8GB LP...",
+          "link": "https://www.oschina.net/news/147956/jingpad-a1",
+          "publishedOn": "2021-06-28T00:54:47.000Z",
+          "wordCount": 575,
+          "title": "Linux 平板电脑 JingPad A1 开启众筹，可媲美 iPad？"
+        },
         {
           "id": "https://www.oschina.net/news/147949/nvidia-proposes-the-linux-hardware-timestamping-engine",
           "author": null,
