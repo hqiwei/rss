@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T13:17:19.885Z</updated>
+    <updated>2021-06-28T14:08:39.994Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Create a Design System in Figma]]></title>
+        <id>60d4d3d86e1a1407b6b0bb25</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma/"/>
+        <updated>2021-06-28T13:50:35.000Z</updated>
+        <summary type="html"><![CDATA[A design system is a set of standards, reusable components, and patterns used to create visual consistency throughout different projects and pages. Figma is a vector graphics editor and prototyping tool. We just released a course on the freeCodeCamp.org channel that will teach you how to build a design]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Learn Data Analytics]]></title>
+        <id>60d4ea756e1a1407b6b0bb71</id>
+        <link href="https://www.freecodecamp.org/news/why-you-should-learn-data-analytics/"/>
+        <updated>2021-06-28T13:44:39.000Z</updated>
+        <summary type="html"><![CDATA[Ok. I'm not suggesting that everyone needs to become a fully-credentialed data scientist. But these days, learning core data skills may provide as much value as basic financial literacy or knowledge of a simple coding language. This isn't just about your career: data has grown far beyond the world of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[龙芯3A5000采用自主指令集架构：单核性能提升50%、功耗降低30%]]></title>
         <id>http://www.linuxeden.com/?p=86990</id>
@@ -12087,36 +12107,6 @@ Kratos 学习笔记 - 通过 layout 简单分析应用是如何跑起来的 http
         <summary type="html"><![CDATA[谷歌近日正式面向公众推出了 Fuchsia OS，获得 Fuchsia 1.0 推送的设备是第一代 Nest Hub。 与基于 Linux 内核的 Chrome OS 和 Android 等操作系统不同，Fuchsia 使用了全新的、自研的 Zircon 微内核，其采用 C++ 编写。内核的组件则使用到了 Go、Rust、Python，以及 C/C++ 等编程语言进行编写，如 USB 驱动程序使用 C+...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源美图 2021 05 30]]></title>
-        <id>http://www.linuxeden.com/?p=85916</id>
-        <link href="http://www.linuxeden.com/a/85916"/>
-        <updated>2021-05-30T01:27:17.000Z</updated>
-        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 05 30]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SphereEx 加入 openGauss 社区]]></title>
-        <id>https://www.oschina.net/news/143704</id>
-        <link href="https://www.oschina.net/news/143704"/>
-        <updated>2021-05-30T01:23:31.000Z</updated>
-        <summary type="html"><![CDATA[SphereEx 签署 CLA ( Contribution License Agreement，贡献许可协议），正式加入 openGauss 社区。 SphereEx 和 openGauss 是天然契合的伙伴。openGauss 作为企业级开源数据库，具备高可用、高性能、高安全、易运维等特性，而 SphereEx 主导 ShardingSphere 作为数据库上层的生态产品，关注于连接应用与数据库，将连接层...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高通秀出“5G朋友圈”：互联互通的未来世界长这样]]></title>
-        <id>http://www.linuxeden.com/?p=85906</id>
-        <link href="http://www.linuxeden.com/a/85906"/>
-        <updated>2021-05-30T01:19:21.000Z</updated>
-        <summary type="html"><![CDATA[“5G时代，公司与公司，产业与产业之间相互连接的重要性更加凸显。只有这样，5G的潜力才会被充分释放，助力变革千行百业。”在2021高通技术与合作峰会上，高通中国区董事长孟樸如此剖析5G变革的形式，这意味着5G并非是单个企业的私有产物，而是需 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>

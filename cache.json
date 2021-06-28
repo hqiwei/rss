@@ -6,6 +6,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60d4d3d86e1a1407b6b0bb25",
+          "author": null,
+          "description": "A design system is a set of standards, reusable components, and patterns used to create visual consistency throughout different projects and pages. Figma is a vector graphics editor and prototyping tool. We just released a course on the freeCodeCamp.org channel that will teach you how to build a design",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma/",
+          "publishedOn": "2021-06-28T13:50:35.000Z",
+          "wordCount": 67249,
+          "title": "Learn How to Create a Design System in Figma"
+        },
+        {
+          "id": "60d4ea756e1a1407b6b0bb71",
+          "author": null,
+          "description": "Ok. I'm not suggesting that everyone needs to become a fully-credentialed data scientist. But these days, learning core data skills may provide as much value as basic financial literacy or knowledge of a simple coding language. This isn't just about your career: data has grown far beyond the world of",
+          "link": "https://www.freecodecamp.org/news/why-you-should-learn-data-analytics/",
+          "publishedOn": "2021-06-28T13:44:39.000Z",
+          "wordCount": 806,
+          "title": "Why You Should Learn Data Analytics"
+        },
+        {
           "id": "60d3ee396e1a1407b6b0b6ef",
           "author": null,
           "description": "Let's go over the most common mistakes you might be making in your React code right now, plus how to fix them. If you want to create amazing React applications, it's essential to avoid many common errors along the way. In this article, we'll not only cover how to fix",
@@ -4507,24 +4525,6 @@
           "publishedOn": "2021-05-30T14:52:30.000Z",
           "wordCount": 266,
           "title": "体验 /e/ OS：开源的去谷歌化的安卓"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85916",
-          "author": "Editor, Kai",
-          "description": "Linuxeden开源社区-开源美图 2021 05 30",
-          "link": "http://www.linuxeden.com/a/85916",
-          "publishedOn": "2021-05-30T01:27:17.000Z",
-          "wordCount": 75,
-          "title": "开源美图 2021 05 30"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85906",
-          "author": "Editor, Kai",
-          "description": "“5G时代，公司与公司，产业与产业之间相互连接的重要性更加凸显。只有这样，5G的潜力才会被充分释放，助力变革千行百业。”在2021高通技术与合作峰会上，高通中国区董事长孟樸如此剖析5G变革的形式，这意味着5G并非是单个企业的私有产物，而是需 […]",
-          "link": "http://www.linuxeden.com/a/85906",
-          "publishedOn": "2021-05-30T01:19:21.000Z",
-          "wordCount": 127,
-          "title": "高通秀出“5G朋友圈”：互联互通的未来世界长这样"
         }
       ]
     },
@@ -7959,15 +7959,6 @@
           "publishedOn": "2021-05-30T02:39:17.000Z",
           "wordCount": 499,
           "title": "Fuchsia 的 Rust 代码占比超 50%"
-        },
-        {
-          "id": "https://www.oschina.net/news/143704",
-          "author": null,
-          "description": "SphereEx 签署 CLA ( Contribution License Agreement，贡献许可协议），正式加入 openGauss 社区。 SphereEx 和 openGauss 是天然契合的伙伴。openGauss 作为企业级开源数据库，具备高可用、高性能、高安全、易运维等特性，而 SphereEx 主导 ShardingSphere 作为数据库上层的生态产品，关注于连接应用与数据库，将连接层...",
-          "link": "https://www.oschina.net/news/143704",
-          "publishedOn": "2021-05-30T01:23:31.000Z",
-          "wordCount": 473,
-          "title": "SphereEx 加入 openGauss 社区"
         }
       ]
     },
