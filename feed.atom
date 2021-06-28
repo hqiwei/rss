@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T12:14:23.793Z</updated>
+    <updated>2021-06-28T13:17:19.885Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12115,66 +12115,6 @@ Kratos 学习笔记 - 通过 layout 简单分析应用是如何跑起来的 http
         <link href="http://www.linuxeden.com/a/85906"/>
         <updated>2021-05-30T01:19:21.000Z</updated>
         <summary type="html"><![CDATA[“5G时代，公司与公司，产业与产业之间相互连接的重要性更加凸显。只有这样，5G的潜力才会被充分释放，助力变革千行百业。”在2021高通技术与合作峰会上，高通中国区董事长孟樸如此剖析5G变革的形式，这意味着5G并非是单个企业的私有产物，而是需 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里云开源 PolarDB for PostgreSQL 数据库]]></title>
-        <id>https://www.oschina.net/news/143703/aliyun-opensource-polardb-for-postgresql</id>
-        <link href="https://www.oschina.net/news/143703/aliyun-opensource-polardb-for-postgresql"/>
-        <updated>2021-05-30T01:08:22.000Z</updated>
-        <summary type="html"><![CDATA[在5月29日举办的2021阿里云开发者大会上，阿里云宣布了“阿里云数据库开源计划”，并率先开源了 PolarDB for PostgreSQL 分布式版，采用的开源许可证为 Apache 2.0 License。 PolarDB for PostgreSQL GitHub repo：https://github.com/alibaba/PolarDB-for-PostgreSQL 架构设计：https://github.com/alibaba/PolarDB-fo...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Btrfs 文件系统入门]]></title>
-        <id>http://www.linuxeden.com/?p=85903</id>
-        <link href="http://www.linuxeden.com/a/85903"/>
-        <updated>2021-05-30T01:08:15.000Z</updated>
-        <summary type="html"><![CDATA[B-tree 文件系统（Btrfs）融合了文件系统和卷管理器。它为 Linux 操作系统提供了高级文件系统应当拥有的诸多不错的功能特性。 好几年前 Btrfs 就已经可以在 Linux 中使用了，所以你可能已经熟悉它了。如果没有，你可能对它 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Pulsar 2.7.2 版本发布]]></title>
-        <id>https://www.oschina.net/news/143702/pulsar-2-7-2-released</id>
-        <link href="https://www.oschina.net/news/143702/pulsar-2-7-2-released"/>
-        <updated>2021-05-30T00:49:43.000Z</updated>
-        <summary type="html"><![CDATA[关于 Apache Pulsar Apache Pulsar 是 Apache 软件基金会顶级项目，是下一代云原生分布式消息流平台，集消息、存储、轻量化函数式计算为一体，采用计算与存储分离架构设计，支持多租户、持久化存储、多机房跨区域数据复制，具有强一致性、高吞吐、低延时及高可扩展性等流数据存储特性。 GitHub 地址：http://github.com...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ahoo Govern Service —— 基于 Redis 的服务治理平台]]></title>
-        <id>https://www.oschina.net/p/govern-service</id>
-        <link href="https://www.oschina.net/p/govern-service"/>
-        <updated>2021-05-30T00:43:18.000Z</updated>
-        <summary type="html"><![CDATA[轻量级、低成本的服务注册、服务发现、 配置服务 SDK，通过使用现有基础设施中的 Redis （相信你已经部署了Redis），不用给运维部署带来额外的成本与负担。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日一博 | 浅析扣减库存的方案设计]]></title>
-        <id>https://my.oschina.net/u/4499317/blog/5061875</id>
-        <link href="https://my.oschina.net/u/4499317/blog/5061875"/>
-        <updated>2021-05-30T00:41:11.000Z</updated>
-        <summary type="html"><![CDATA[生活中，我们总是用各种电商app抢购商品，但是库存数是很少的，特别是秒杀场景，商品可能就一件，那如何保证不会出现超卖的情况呢？]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Arrow 4.0.1发布]]></title>
-        <id>http://www.linuxeden.com/?p=85899</id>
-        <link href="http://www.linuxeden.com/a/85899"/>
-        <updated>2021-05-30T00:32:58.000Z</updated>
-        <summary type="html"><![CDATA[apache-arrow-4.0.1.tar.gz        2021-05-26 16:38  8.6M apache-arrow-4.0.1.tar.gz.asc    2021-05-26 16:38  833 apache-ar […]]]></summary>
         <author>
             <name>Editor, Kai</name>
         </author>
