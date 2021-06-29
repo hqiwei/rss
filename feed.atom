@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T21:09:00.314Z</updated>
+    <updated>2021-06-29T22:09:05.615Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12272,37 +12272,6 @@ https://github.com/mingrammer/commonregex
 https://darjun.github.io/2020/09/05/godailylib/commonregex/]]></summary>
         <author>
             <name>gocloudcoder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dubbo-go v3 版本 go module 踩坑记]]></title>
-        <id>https://gocn.vip/topics/12142</id>
-        <link href="https://gocn.vip/topics/12142"/>
-        <updated>2021-05-31T09:49:39.000Z</updated>
-        <summary type="html"><![CDATA[作者 | 董剑辉、盛傲飞
-来源 | 阿里巴巴云原生公众号
-​
-问题背景
-​
-该问题源于我们想对 dubbo-go 的 module path 做一次变更，使用 dubbo.apache.org/dubbo-go/v3 替换之前的 github.com/apache/dubbo-go。
-​
-首先，我们做了路径映射，在 dubbo.apache.org 下放置了一个 dubbogo/v3 文件，内容如下：
-​
-<html>
-  <head>
-    <meta name="go-import" content="dubbo.apache.org/dubbo-go/v3 git <https://github.com/apache/dubbo-go>">
-    <meta name="go-source" content="dubbo.apache.org/dubbo-go/v3 git <https://github.com/apache/dubbo-go/tree/3.0{/dir}> <https://github.com/apache/dubbo-go/blob/3.0{/dir}/{file}#L{line}>">
-    <meta http-equiv="refresh" content="0; url=https://pkg.go.dev/dubbo.apache.org/dubbo-go/v3">
-  </head>
-  <body>
-    <p>Redirecting to <a href="<https://pkg.go.dev/dubbo.apache.org/dubbo-go/v3>">pkg.go.dev/dubbo.apache.org/dubbo-go/v3</a>...</p>
-  </body>
-</html>
-
-​
-其次，我们修改了 go…]]></summary>
-        <author>
-            <name>alicloudnative</name>
         </author>
     </entry>
 </feed>
