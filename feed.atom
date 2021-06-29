@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T20:09:20.873Z</updated>
+    <updated>2021-06-29T21:09:00.314Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12303,55 +12303,6 @@ https://darjun.github.io/2020/09/05/godailylib/commonregex/]]></summary>
 其次，我们修改了 go…]]></summary>
         <author>
             <name>alicloudnative</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoCN 每日新闻 (2021-05-31)]]></title>
-        <id>https://gocn.vip/topics/12141</id>
-        <link href="https://gocn.vip/topics/12141"/>
-        <updated>2021-05-31T09:05:14.000Z</updated>
-        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-05-31)
-GM 到 GMP，Golang 经历了什么？ https://mp.weixin.qq.com/s/RR3ducI2gK7JuLAzeILRzg#at
-
-Go 语言如何实现可重入锁？ https://mp.weixin.qq.com/s/wBp4k7pJLNeSzyLVhGHLEA
-
-如何使用 Golang 进行测试驱动开发 https://medium.com/@jilsonfreddy/how-to-do-test-driven-development-using-golang-unit-testing-945256aa45cf
-
-Go 性能工具备忘录 https://steveazz.xyz/blog/go-performance-tools-cheat-sheet
-
-字节跳动的 JSON 处理库 https://github.com/bytedance/sonic
-
-
-
-
-编辑: CDS
-订阅新闻: http://tinyletter.com/gocn
-
-招聘专区: https://gocn.vip/jobs
-
-GoCN 归档: https://gocn.vip/topics/12141]]></summary>
-        <author>
-            <name>cuteLittleDevil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[云原生计算动态周报：Linkerd 和 Istio 基准测试、Antrea 进入 CNCF Sandbox]]></title>
-        <id>https://www.oschina.net/news/143909</id>
-        <link href="https://www.oschina.net/news/143909"/>
-        <updated>2021-05-31T09:04:18.000Z</updated>
-        <summary type="html"><![CDATA[业界要闻 1. Antrea 项目进入 CNCF Sandbox 摘要：Antrea 项目是一个基于 Open vSwitch（OVS）的开源 Kubernetes CNI 网络插件解决方案，旨在为 Kubernetes 集群提供更高效、更安全的跨平台网络和安全策略。 2. Argo Rollouts 发布1.0版本 摘要：Argo Rollouts是一个部署（deployment）控制器，它填补了 Kubernetes dep...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[图片视频压缩大师 – 批量压缩 iPhone 相册中的照片、视频尺寸，修改、删除 EXIF、GPS 信息]]></title>
-        <id>https://www.appinn.com/?p=38938</id>
-        <link href="https://www.appinn.com/shrink-video-exif-viewer-for-ios/"/>
-        <updated>2021-05-31T08:16:42.000Z</updated>
-        <summary type="html"><![CDATA[图片视频压缩大师 是一款用来批量压缩 iPhone 相册中的照片、视频尺寸的应用，并且还支持查看照片的 EXIF 信息，以及编辑和删除 EXIF 信息，包括 GPS 信息。@Appinn 来自发现频道]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
 </feed>
