@@ -5036,6 +5036,24 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/148240",
+          "author": null,
+          "description": "鉴于 Kubernetes 项目的增长和规模，现有的报告机制被证明是不够的和具有挑战性的。Kubernetes 是一个大型的开源项目。仅仅在主要的 k/kubernetes 仓库中就提交了超过 100000 次，项目中还有数百个其他代码仓库，以及数千名贡献者，因此有很多事情正在发生。事实上，在我写这篇文章的时候，有 37 个贡献者小组。我们也重...",
+          "link": "https://www.oschina.net/news/148240",
+          "publishedOn": "2021-06-29T10:34:42.000Z",
+          "wordCount": 553,
+          "title": "Kubernetes 发布 2020 年社区年度报告"
+        },
+        {
+          "id": "https://www.oschina.net/news/148239",
+          "author": null,
+          "description": "被 Forrester 评选为开发者和运营商的领先平台，Red Hat 是混合云基础设施、云原生应用程序开发、管理和自动化解决方案的开源开发的领导力量 旧金山，2021 年 6 月 23 日——持续交付基金会（CDF）是一个开源软件基金会，旨在提高全世界以安全和速度交付软件的能力，该基金会今天宣布红帽公司成为其主要成员。红帽公司的...",
+          "link": "https://www.oschina.net/news/148239",
+          "publishedOn": "2021-06-29T10:29:26.000Z",
+          "wordCount": 580,
+          "title": "红帽升级成为持续交付基金会主要成员"
+        },
+        {
           "id": "https://www.oschina.net/news/148147/apache-dubbo-3-0-0-released",
           "author": null,
           "description": "背景 自从 Apache Dubbo 在 2011 年开源以来，在一众大规模互联网、IT公司的实践中积累了大量经验后，Dubbo 凭借对 Java 用户友好、功能丰富、治理能力强等优点在过去取得了很大的成功，成为国内外热门主流的 RPC 框架之一。 但随着云原生时代的到来，以 Apache Dubbo、Spring Cloud 等为代表的 Java 微服务治理体系面临...",
