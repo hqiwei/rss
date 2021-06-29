@@ -5009,6 +5009,33 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/148119",
+          "author": null,
+          "description": "2021年6月28日，FIT2CLOUD飞致云正式发布DataEase开源数据可视化分析平台。作为一款开源的数据可视化分析工具，DataEase（ github.com/dataease ）可以帮助用户快速分析业务数据并洞察其趋势，为企业的业务改进与优化提供支持。 DataEase支持丰富的数据源连接，能够通过拖拉拽的方式快速制作图表，并且可以方便地与他人进...",
+          "link": "https://www.oschina.net/news/148119",
+          "publishedOn": "2021-06-29T00:46:50.000Z",
+          "wordCount": 512,
+          "title": "FIT2CLOUD 飞致云开源 DataEase 数据可视化分析平台"
+        },
+        {
+          "id": "https://www.oschina.net/news/148116/dell-announces-open-source-software-omnia",
+          "author": null,
+          "description": "戴尔公司近日宣布，其用于管理高性能计算（HPC）和人工智能工作负载的开源软件 Omnia 已经正式推出。虽然这一消息是近日才正式宣布的，但 Omnia 自今年年初以来就已经登陆 GitHub 了。 Omnia 由戴尔 HPC、英特尔和亚利桑那州立大学联合开发，能够让客户更容易管理高性能计算、人工智能和数据分析工作负载。 Omnia 的工作...",
+          "link": "https://www.oschina.net/news/148116/dell-announces-open-source-software-omnia",
+          "publishedOn": "2021-06-29T00:36:31.000Z",
+          "wordCount": 538,
+          "title": "戴尔开源 Omnia，用于管理 HPC 和人工智能工作负载"
+        },
+        {
+          "id": "https://www.oschina.net/news/148115/the-first-insider-preview-for-windows-11",
+          "author": null,
+          "description": "微软现已在 Dev Channel 向 Insider 测试人员提供了首个 Windows 11 预览版本更新 Build 22000.51。Build 22000.51 包含了一些微软在上周 Windows 11 发布会上展示的一些功能，但不是全部。 根据介绍，首个预览版本不包括对 Android app 的支持以及内置的 Teams Chat 功能；包含了新的开始和任务栏、居中的锁屏元素和文本...",
+          "link": "https://www.oschina.net/news/148115/the-first-insider-preview-for-windows-11",
+          "publishedOn": "2021-06-29T00:29:35.000Z",
+          "wordCount": 636,
+          "title": "微软推出 Windows 11 首个预览版本"
+        },
+        {
           "id": "https://www.oschina.net/news/148113/eclipse-foundation-announces-iceoryx",
           "author": null,
           "description": "Eclipse iceoryx 是快速、灵活且可靠的中间件解决方案为汽车、机器人、人工智能等应用提供实时数据传输。 Eclipse 基金会是全球最大的开源基金会之一，近日 Eclipse 基金会在 GitHub 上开源了一个项目 —— Eclipse iceoryx，这是一个进程间通信（IPC，inter-process-communication）的中间件，能够实时传输大量数据。这...",
