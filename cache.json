@@ -839,6 +839,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12250",
+          "author": "isware",
+          "description": "首先说明一下，Python 也是我最喜欢的一门编程语言，我用 Python 工作了接近 8 年，并且会一直使用下去。\n我们团队在开启 memfiredb.com 这个项目之初就做出了从 Python 往 golang 转换的预期，因此我们的转换过程没有任何障碍，非常顺利的就完成了。\n我们为什么会在项目开启之初就做出要更换编程语言的决定呢，为什么不一开始就选择 Golang 呢？\n第一个问题：为什么项目之处就做好了要切换编程语言的决定？\n云原生：memfiredb.com 是一个云服务，我们的运维部署都是基于 k8s 的，golang 在云原生方面有非常大的优势，随着项目变得越来越大，这个优势将会更加突出。\n性能：尽管 Python 在性能优化方面有诸多的方案，但是 Golang 几乎不需要做什么特殊的优化就很容易实现高性能、高并发的服务。\nPython 版本：我们团队在 Python2.7 版本积累了很多经验和代码，但是目前还没有完全迁移到 Python3。随着社区停止对 Python2 的支持，以及一些第三方依赖库也不再支持 Python2，导致我们目前处于一个相对尴尬的中间状态。\n第二个问题：为什么不一开始就选择 Golang\n我们在 Python 上有很多成熟的组件，可以直接上手使用。这可以让我们快速的实现原型系统，验证我们的想法，邀请朋友体验我们的系统。\n我们需要从头开始对 Golang 的框架组件进行选型以及验证，对于快速开启我们的项目不利。\n目前，memfiredb.com 的云服务后端已经从 Python 迁移到了 Golang，目前运行的很稳定。",
+          "link": "https://gocn.vip/topics/12250",
+          "publishedOn": "2021-06-29T09:07:30.000Z",
+          "wordCount": 122,
+          "title": "我们也从 Python 转向了 Golang"
+        },
+        {
           "id": "https://gocn.vip/topics/12249",
           "author": "zionwu",
           "description": "团队介绍\nvivo AI 计算平台的相关介绍可参见 InfoQ 专题  vivo AI 计算平台搭建实战\n职位描述：\n参与公司级容器云平台/深度学习平台的架构设计、开发和维护。\n持续优化系统功能和架构，提升系统的易用性和稳定性，攻克技术难题。\n支持平台在推荐、语音、视觉等算法业务的推广和落地。\n任职资格：\n掌握 Golang、Java、C++ 中的一门编程语言。\n掌握扎实的计算基础知识，深入理解数据结构、算法和操作系统知识。\n掌握服务端开发的相关技术、最佳实践和工程化能力。\n优秀的沟通能力、责任心强，做事踏实、结果导向。\n了解容器、kubernetes 和深度学习等相关技术优先。\n工作地点\n深圳：福田区上梅林新一代\n杭州：余杭区未来城奥克斯\n简历投递\n简历投至：ziyang.wu@vivo.com\n标题请参照：\"gocn+ 姓名 + 职位\" 的格式编辑",
@@ -4650,6 +4659,15 @@
       "feedUrl": "http://feed.appinn.com",
       "siteUrl": "https://www.appinn.com",
       "articles": [
+        {
+          "id": "https://www.appinn.com/?p=39162",
+          "author": "青小蛙",
+          "description": "Picture View 是一款新鲜的 macOS 看图软件，轻量级、快捷，拥有瀑布流式的看图模式，让你轻松浏览海量图片，也对长图友好。非常适合作为默认看图工，适配 M1 和 Intel 芯片。@Ap",
+          "link": "https://www.appinn.com/picture-view-for-macos/",
+          "publishedOn": "2021-06-29T08:16:03.000Z",
+          "wordCount": 1236,
+          "title": "Picture View – 7.9MB 轻量级 macOS 看图软件，非常有特色的瀑布流式看图模式"
+        },
         {
           "id": "https://www.appinn.com/?p=39163",
           "author": "青小蛙",
