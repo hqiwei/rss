@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T12:14:17.447Z</updated>
+    <updated>2021-06-29T13:16:44.503Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12339,96 +12339,6 @@ OpenYurt +EdgeX：共建生态，打造零侵入式的云边端一体化平台
         <summary type="html"><![CDATA[滴答清单是一款跨平台的，帮你记录与提醒每日大小事物，用于时间管理与待办事项的应用，好评度颇高，功能丰富，内置番茄钟、习惯打卡、日程、多人协作等功能。最近更新至滴答清单6.0 版本，带来了全新界面、任务]]></summary>
         <author>
             <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 30 周年，听 Linus 聊聊心路历程和开源洞见]]></title>
-        <id>https://my.oschina.net/oscpyaqxylk/blog/5063187</id>
-        <link href="https://my.oschina.net/oscpyaqxylk/blog/5063187"/>
-        <updated>2021-05-31T01:09:27.000Z</updated>
-        <summary type="html"><![CDATA[为了庆祝 Linux 30 周年，Linus 将出席由开源中国社区联合 Linux 基金会发起的 GOTC 全球开源技术峰会，分享自己的心路历程和开源洞见。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress 诞生 18 周年]]></title>
-        <id>https://www.oschina.net/news/143786/wordpress-18yr</id>
-        <link href="https://www.oschina.net/news/143786/wordpress-18yr"/>
-        <updated>2021-05-31T01:04:42.000Z</updated>
-        <summary type="html"><![CDATA[WordPress 联合创始人 Matt Mullenweg 发文庆祝 WordPress 诞生 18 周年。看着这个占据着博客平台半壁江山的产品，Matt 不禁感叹：“谁能想到，当年和 Mike Little 在晚上和周末基于博客软件 b2/cafelog 开发的分支，如今会被互联网中超过 40% 的站点所使用。” Matt 表示，如果 WordPress 是一个孩子，18 岁也到了离家去...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoFrame v1.16 发布，企业级 Golang 开发框架]]></title>
-        <id>https://www.oschina.net/news/143783/goframe-1-16-released</id>
-        <link href="https://www.oschina.net/news/143783/goframe-1-16-released"/>
-        <updated>2021-05-31T00:42:33.000Z</updated>
-        <summary type="html"><![CDATA[Hello，小伙伴久等啦！距离上一次发布，时隔刚好半年，这半年发生了很多很多的事情。薛老的猫以不同的观测方式决定了小猫不同的结果，同样看待世界的不同方式决定了世界在我们眼中的样子。这次给大家带来了最新GoFrame v1.16版本！GoFrame是一款模块化、高性能、企业级的Go基础开发框架：https://goframe.org ，一款低调...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCC Rust 继续推进其上游计划]]></title>
-        <id>https://www.oschina.net/news/143782/gcc-rust-keep-on-upstream</id>
-        <link href="https://www.oschina.net/news/143782/gcc-rust-keep-on-upstream"/>
-        <updated>2021-05-31T00:27:48.000Z</updated>
-        <summary type="html"><![CDATA[根据邮件列表显示，GCC Rust 的开发者正在建立一个单独的 GCC Git 分支和邮件列表，以继续推进 GCC Rust 的上游化。 官方的 Rust 编译器实现是基于 LLVM 的，而 GCC Rust 的目标是成为 Rust 官方编译器的完整替代。该项目于 Rust 0.9 版本时创立，不过当时 Rust 尚未稳定，因此社区开发进度不佳。与 LLVM 不同的是，由于...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源运营与治理，是时候重点聊聊了！]]></title>
-        <id>https://www.oschina.net/news/143781/gotc-opensource-governance</id>
-        <link href="https://www.oschina.net/news/143781/gotc-opensource-governance"/>
-        <updated>2021-05-31T00:27:40.000Z</updated>
-        <summary type="html"><![CDATA[开源近两年以更快的速度在发展，关于开源的运营与治理，也变得越来越受关注，公司如何制定开源策略、个人如何参与开源社区、开源的上下游关系如何处理、开源社区如何运作、开源协议如何选择……这些都是需要大力去传播的话题。 今年将会有一场“全球开源技术峰会（GOTC）”召开，我们在特别策划了“开源运营与治理”专题...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高性能分布式文件系统 FastCFS V2.1.0 发布]]></title>
-        <id>https://www.oschina.net/news/143780/fastcfs-2-1-0-released</id>
-        <link href="https://www.oschina.net/news/143780/fastcfs-2-1-0-released"/>
-        <updated>2021-05-31T00:25:30.000Z</updated>
-        <summary type="html"><![CDATA[FastCFS V2.1.0 发布，主要改进： 1. 程序启动时加载slice索引拆分为两个阶段，均改造成多线程方式，缩短服务就绪时间 2. 服务端程序和fuse客户端支持命令行参数： 1）fuse客户端配合对接K8s，支持 --user、--key、--mountpoint等5个选项； 2）server端程序和fuse客户端支持 -V（--version）和 -h（--help）选项； 3）f...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源美图 2021 05 31]]></title>
-        <id>http://www.linuxeden.com/?p=85950</id>
-        <link href="http://www.linuxeden.com/a/85950"/>
-        <updated>2021-05-31T00:25:23.000Z</updated>
-        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 05 31]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[图]想在电脑上体验谷歌最新发布的Fuchsia OS？试试FImage]]></title>
-        <id>http://www.linuxeden.com/?p=85942</id>
-        <link href="http://www.linuxeden.com/a/85942"/>
-        <updated>2021-05-31T00:23:43.000Z</updated>
-        <summary type="html"><![CDATA[本周早些时候，Google发布了 Fuchisia OS，不过初期仅面向部分初代 Nest Hub 用户开放。现在，一群独立开发者创造了一个更简单的方法，能够在你的电脑上尝试体验 Fuchsia OS。 访问： GitHub 首先，Fuch […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KStars —— KDE 开发的跨平台天文软件]]></title>
-        <id>https://www.oschina.net/p/KStars</id>
-        <link href="https://www.oschina.net/p/KStars"/>
-        <updated>2021-05-31T00:15:31.000Z</updated>
-        <summary type="html"><![CDATA[KStars 可以精确模拟地球上任意地点、时间的夜空图像。它的视图能够显示多达 1 亿颗恒星、1 万 3000 个深空天体、8 大行星、太阳和月球，以及数千个彗星、小行星、超新星和卫星。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
