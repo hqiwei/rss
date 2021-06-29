@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60daf29027f80207bcdbb3fe",
+          "author": null,
+          "description": "Why do we need the timedelta object?When you're working with dates and times in Python, you'll often use the datetime module.  In this post, we'll see how we can use the timedelta object in the datetime module. It denotes a span of time and can help when we need",
+          "link": "https://www.freecodecamp.org/news/how-to-use-timedelta-objects-in-python/",
+          "publishedOn": "2021-06-29T18:25:52.000Z",
+          "wordCount": 926,
+          "title": "How to Use timedelta Objects in Python to Work with Dates"
+        },
+        {
           "id": "60d76f6f6e1a1407b6b0c521",
           "author": null,
           "description": "What is the Microsoft Security, Compliance, and Identity Fundamentals?The Microsoft Security, Compliance and Identity Fundamentals Certification is an essential entry-level certification into Azure and Microsoft Security. In recent years we've seen a significant shift in the work environment where companies allow employees to work from home. The increase of",
@@ -1836,15 +1845,6 @@
           "publishedOn": "2021-05-31T09:05:14.000Z",
           "wordCount": 104,
           "title": "GoCN 每日新闻 (2021-05-31)"
-        },
-        {
-          "id": "https://gocn.vip/topics/12140",
-          "author": "alicloudnative",
-          "description": "来源 | 阿里巴巴云原生公众号\n​\n5 月 29 日，“2021 阿里云开发者大会” 于北京国际会议中心举办。在本次大会 “云原生技术与最佳实践” 论坛现场，阿里云容器服务负责人易立、VMware 中国研发中心研发总监路广联合宣布达成双方在 “云原生边缘计算” 领域的技术战略合作，希望未来依托开源社区力量，加速边缘云原生生态系统的构建，共同推动云边融合进程，帮助更多企业全面拥抱数智化转型升级。\n\n左 1： 路广，VMware 中国研发中心研发总监​\n右 1：易立，阿里云容器服务负责人\n​\n在 5G、IoT、AI 等技术的高速发展下，企业正在积极探索如何更好地利用新技术创新应用，拓展业务边界。智能终端设备数量急剧增加，使边缘计算技术在过去几年经历了极为快速的演进。与此同时，将云计算的能力下沉到边缘侧、设备侧，并通过中心进行统一交付、运维、管控成为新趋势。\n​\n\n易立，阿里云容器服务负责人\n边缘云原生正在越来越被广泛地应用于汽车、农业、能源、交通等各行各业。与云原生模式的结合，可以使边缘计算最大程度结合云的能力，保证业务在边端获得和云上一致的运维体验、更好的隔离性和安全性。进一步扩展边缘计算的应用范围。\n​\nOpenYurt +EdgeX：共建生态，打造零侵入式的云边端一体化平台\n​\n\n作为云原生技术的重要基石，Kubernetes 逐渐成为用户和云计算新的交互界面，其强大的容器编排调度能力被广泛应用于大规模应用管理、多云混合云支持等场景。然而，管理边缘往往应用需要解决更多问题，比如边缘资源分散在不同地域、云边网络连接不可靠、云边端运维协同难度大、对异构资源支持困难等等。这些都使得在边缘场景中直接使用 Kubernetes 极具挑战。\n阿里云开源项目 OpenYurt 和由 VMware 共同发起并维护其中国社区的开源项目 EdgeX Foundry 展开深度合作，将帮助企业和…",
-          "link": "https://gocn.vip/topics/12140",
-          "publishedOn": "2021-05-31T06:14:05.000Z",
-          "wordCount": 281,
-          "title": "阿里云携手 VMware 共建云原生 IoT 生态，聚开源社区合力打造领域标准"
         }
       ]
     },
