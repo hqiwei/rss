@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T19:07:28.347Z</updated>
+    <updated>2021-06-29T20:09:20.873Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Coding Interview Backtracking Problems Crash Course – The Only One You&#x27;ll Ever Need]]></title>
+        <id>60db519527f80207bcdbb6fa</id>
+        <link href="https://www.freecodecamp.org/news/coding-interview-backtracking-problems-crash-course/"/>
+        <updated>2021-06-29T20:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Whether you are new to coding interviews or are already familiar with the concept of backtracking, this is the crash course for you. We will learn about an all-purpose coding template and apply it to two LeetCode hard problems. Ready to crunch your next coding interview? Let's go!]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux List Processes – How to Check Running Processes]]></title>
+        <id>604b8c6ea7946308b7687683</id>
+        <link href="https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/"/>
+        <updated>2021-06-29T19:47:13.000Z</updated>
+        <summary type="html"><![CDATA[Every day, developers use various applications and run commands in the terminal. These applications can include a browser, code editor, terminal, video conferencing app, or music player.  For each of these software applications that you open or commands you run, it creates a process or task. One beautiful feature of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use timedelta Objects in Python to Work with Dates]]></title>
         <id>60daf29027f80207bcdbb3fe</id>
@@ -12332,16 +12352,6 @@ GoCN 归档: https://gocn.vip/topics/12141]]></summary>
         <summary type="html"><![CDATA[图片视频压缩大师 是一款用来批量压缩 iPhone 相册中的照片、视频尺寸的应用，并且还支持查看照片的 EXIF 信息，以及编辑和删除 EXIF 信息，包括 GPS 信息。@Appinn 来自发现频道]]></summary>
         <author>
             <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里云携手 VMware 共建云原生 IoT 生态，聚开源社区合力打造领域标准]]></title>
-        <id>https://www.oschina.net/news/143894</id>
-        <link href="https://www.oschina.net/news/143894"/>
-        <updated>2021-05-31T08:03:12.000Z</updated>
-        <summary type="html"><![CDATA[5 月 29 日，“2021 阿里云开发者大会”于北京国际会议中心举办。在本次大会“云原生技术与最佳实践”论坛现场，阿里云容器服务负责人易立、VMware 中国研发中心研发总监路广联合宣布达成双方在“云原生边缘计算”领域的技术战略合作，希望未来依托开源社区力量，加速边缘云原生生态系统的构建，共同推动云边融合进程，帮...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
