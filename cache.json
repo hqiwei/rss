@@ -839,6 +839,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12246",
+          "author": "alicloudnative",
+          "description": "在信通院 2021 年云原生产业大会上，畅捷通获得 2021 年度云原生优秀案例。\n畅捷通公司是用友集团旗下的成员企业，专注于服务国内小微企业的财务和管理服务。一方面，畅捷通将自己的产品、业务、技术架构互联网化；另一方面，畅捷通推出了畅捷通一站式云服务平台，面向小微企业提供以数智财税、数智商业为核心的平台服务、应用服务、业务服务及数据增值服务，致力于建立 “小微企业服务生态体系”。\n根据易观国际的报告，目前畅捷通在国内小微企业云服务市场的覆盖率保持第一。有超过 130 万家企业与机构通过使用畅捷通的软件及服务，实现降本提效、持续创新、数智化转型。\n早期，畅捷通的业务应用都是构建在公司自主研发的 CSP 平台之上，包括客户管家、易代账、好会计和好生意等，每个企业分配一个独立的虚机，资源完全隔离，初期该平台方案极大简化了开发的复杂度，提高了开发效率，满足公司向云服务发展的最初需求。\n​\n新的需求\n​\n\n随着用户规模的增多，现有为每个用户分配一个独立虚机的方案产生的问题很突出。首先体现在虚机的数量日益庞大，在客户转换率不高的情况下，容易造成资源的浪费，同时运维成本也偏高；其次，不同的用户软件迭代的版本不尽相同，还需要专门设计维护多套版本的补丁更新系统；第三，产品需要停服上线，业务会出现短暂不可用的情况；最后，如果若干用户的业务出现高峰期，不能快速弹性扩容，资源的利用率不高。\n在此背景下，畅捷通研发团队决定尝试当前业界比较通用的云原生架构设计方案，利用云上的基础设施，共享计算资源和存储资源，采用容器化方案，快速弹性扩容，利用微服务架构，按应用更新产品，彻底解决当前运维成本偏高、弹性不足、资源利用不均衡的问题。\n小微企业的特点是数量多、单个企业业务量相对较小、企业 IT 能力有限。以畅捷通好生意产品为例，采用现有的云原生架构，能够方便畅捷通快速开发出一款应对大规模小型用户，支持弹性可…",
+          "link": "https://gocn.vip/topics/12246",
+          "publishedOn": "2021-06-29T03:50:59.000Z",
+          "wordCount": 717,
+          "title": "深度解读畅捷通云原生架构转型实战历程"
+        },
+        {
           "id": "https://gocn.vip/topics/12245",
           "author": "lwhile",
           "description": "GoCN 每日新闻 (2021-06-28)\n100 个 Go 经典错误 https://medium.com/solvingalgo/100-go-mistakes-2022-4debd9449a72\n\n减少你的 Go 程序内存占用 https://chris124567.github.io/2021-06-21-go-performance/\n\n深入浅出 Go 并发工作池 https://itnext.io/explain-to-me-go-concurrency-worker-pool-pattern-like-im-five-e5f1be71e2b0\n\n具有位图索引的内存列存储工具 column https://github.com/kelindar/column\n\n单机限流器 time/rate 库 https://gocn.vip/topics/12239\n\n\n\n编辑: lwhile\n订阅新闻: http://tinyletter.com/gocn\n招聘专区: https://gocn.vip/jobs",
@@ -4606,24 +4615,6 @@
           "publishedOn": "2021-05-31T00:00:10.000Z",
           "wordCount": 295,
           "title": "CMake 3.20.3 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85931",
-          "author": "Editor, Kai",
-          "description": "回顾一下 Python 3.4 中的枚举 明尼苏达大学有害提交事件后 Linux考虑为补丁提供加密证明 体验 /e/ OS：开源的去谷歌化的安卓 高通秀出“5G朋友圈”：互联互通的未来世界长这样 Btrfs 文件系统入门 Python 3. […]",
-          "link": "http://www.linuxeden.com/a/85931",
-          "publishedOn": "2021-05-30T15:23:02.000Z",
-          "wordCount": 101,
-          "title": "每日文章精选2021 05 30"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85929",
-          "author": "Editor, Kai",
-          "description": "另外探索一些未被充分利用但仍然有用的 Python 特性。 这是 Python 3.x 首发特性系列文章的第五篇。Python 3.4 在 2014 年首次发布，尽管它已经发布了很长时间，但它引入的许多特性都没有被充分利用，而且相当酷。下面 […]",
-          "link": "http://www.linuxeden.com/a/85929",
-          "publishedOn": "2021-05-30T15:21:41.000Z",
-          "wordCount": 341,
-          "title": "回顾一下 Python 3.4 中的枚举"
         }
       ]
     },
@@ -4632,6 +4623,15 @@
       "feedUrl": "http://feed.appinn.com",
       "siteUrl": "https://www.appinn.com",
       "articles": [
+        {
+          "id": "https://www.appinn.com/?p=39163",
+          "author": "青小蛙",
+          "description": "Windows 11 的第一个开发者预览版 Windows 11 Insider Preview 今早已经推送给了 Windows 预览体验计划 中的 Dev 频道成员，恰巧青小蛙也收到了推送，一早上",
+          "link": "https://www.appinn.com/windows-11-insider-preview-10-0-22000-51/",
+          "publishedOn": "2021-06-29T03:53:42.000Z",
+          "wordCount": 1317,
+          "title": "Windows 11 第一个开发者预览版初体验"
+        },
         {
           "id": "https://www.appinn.com/?p=39157",
           "author": "青小蛙",
@@ -4990,6 +4990,33 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/148147/apache-dubbo-3-0-0-released",
+          "author": null,
+          "description": "背景 自从 Apache Dubbo 在 2011 年开源以来，在一众大规模互联网、IT公司的实践中积累了大量经验后，Dubbo 凭借对 Java 用户友好、功能丰富、治理能力强等优点在过去取得了很大的成功，成为国内外热门主流的 RPC 框架之一。 但随着云原生时代的到来，以 Apache Dubbo、Spring Cloud 等为代表的 Java 微服务治理体系面临...",
+          "link": "https://www.oschina.net/news/148147/apache-dubbo-3-0-0-released",
+          "publishedOn": "2021-06-29T03:20:34.000Z",
+          "wordCount": 796,
+          "title": "Apache Dubbo 3.0.0 正式发布 - 全面拥抱云原生"
+        },
+        {
+          "id": "https://www.oschina.net/news/148143",
+          "author": null,
+          "description": "FCES2021将于2021年7月16日-17日在江苏常州举行，峰会主题是“开源文化与计算机教育”。会议旨在进一步加深我国开源社区和计算机教育界的合作，提升开源软件在计算机教育中的应用，加强计算机教育对开源社区的促进作用。 峰会早鸟票报名进行中，即刻识别下方二维码抢票注册，报名参会！ 本次峰会的主题是“开源文化与计算...",
+          "link": "https://www.oschina.net/news/148143",
+          "publishedOn": "2021-06-29T03:12:59.000Z",
+          "wordCount": 523,
+          "title": "宣传片上线！FCES 主题报告嘉宾全阵容：杜文亮、陈海波、张平、武延军 7 月开讲！"
+        },
+        {
+          "id": "https://www.oschina.net/news/148119/fit2cloud-opensource-dataease",
+          "author": null,
+          "description": "2021年6月28日，FIT2CLOUD飞致云正式发布DataEase开源数据可视化分析平台。作为一款开源的数据可视化分析工具，DataEase（ github.com/dataease ）可以帮助用户快速分析业务数据并洞察其趋势，为企业的业务改进与优化提供支持。 DataEase支持丰富的数据源连接，能够通过拖拉拽的方式快速制作图表，并且可以方便地与他人进...",
+          "link": "https://www.oschina.net/news/148119/fit2cloud-opensource-dataease",
+          "publishedOn": "2021-06-29T00:46:50.000Z",
+          "wordCount": 520,
+          "title": "FIT2CLOUD 飞致云开源 DataEase 数据可视化分析平台"
+        },
         {
           "id": "https://www.oschina.net/news/148119",
           "author": null,
