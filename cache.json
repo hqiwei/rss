@@ -839,6 +839,24 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12248",
+          "author": "185218195",
+          "description": "6 月 25 日，DevEco Studio 发布新版本 2.2 Beta1，推出低代码开发和远程真机两大新特性。本文带你一睹为快。\n亮点一：面向 JS 框架的低代码开发\n低代码开发是 DevEco Studio 2.2 Beta1 新增的一种面向 JS 框架的可视化界面开发方式，遵循 HarmonyOS JS 开发规范，具有丰富的页面编辑功能。开发者可通过组件的拖拽和复制等方式，在低代码页面完成界面开发及 JS 逻辑关联，大大降低开发者上手成本，提高用户界面开发效率。\n官网开发规范：https://developer.harmonyos.com/ ... ew-0000000000500376\n开发者可在工程中” js>pages 目录下，单击鼠标右键，选择 New > JS Visual” 新建低代码页面。\n创建低代码页面时（如图 1 所示），系统会自动生成对应的 visual 文件和 js 文件，两种文件的目录结构一致。其中，visual 文件存储低代码页面的数据模型，双击该文件即可打开低代码页面，进行可视化开发。而 js 文件描述了低代码页面的行为逻辑，定义了页面里所用到的所有的逻辑关系，比如数据、事件等。\n注意：使用低代码页面开发时，其关联 js 文件的同级目录，即 js>default>pages>page 目录下不能包含 hml 或 css 文件，否则编译报错。\n\n图 1 创建低代码页面演示图\n低代码页面创建成功后的界面如图 2 所示，由组件栏、组件树、画布、功能面板以及属性样式栏五部分组成。开发者在低代码页面进行的相关操作，均会保存到 visual 文件中。\n\n图 2 低代码页面\n1.低代码页面组成：① 组件栏（UI Control）\n位于低代码页面的左上方，选中组件栏中的组件，将其拖至中间画布，即可实现一个组件的添加。\n② 组件树（Component Tr…",
+          "link": "https://gocn.vip/topics/12248",
+          "publishedOn": "2021-06-29T05:23:44.000Z",
+          "wordCount": 328,
+          "title": "支持低代码开发和远程真机，DevEco Studio 2.2 Beta1 来啦"
+        },
+        {
+          "id": "https://gocn.vip/topics/12247",
+          "author": "kritishah",
+          "description": "You are fortunate enough to have come across our website, IgmGuru, presenting one of the best\n DevOps Training online. The DevOps course online embraces the crack between operational professionals and software developers and also provides superior training on practicing DevOps tools and techniques. If you desire to be a successful DevOps engineer, there is no better stop than us. Learn DevOps and earn self-confidence to sprout your career. Register for the DevOps Online training now and prepare for the Devops Certification Exam.",
+          "link": "https://gocn.vip/topics/12247",
+          "publishedOn": "2021-06-29T05:08:12.000Z",
+          "wordCount": 151,
+          "title": "DevOps Training"
+        },
+        {
           "id": "https://gocn.vip/topics/12246",
           "author": "alicloudnative",
           "description": "在信通院 2021 年云原生产业大会上，畅捷通获得 2021 年度云原生优秀案例。\n畅捷通公司是用友集团旗下的成员企业，专注于服务国内小微企业的财务和管理服务。一方面，畅捷通将自己的产品、业务、技术架构互联网化；另一方面，畅捷通推出了畅捷通一站式云服务平台，面向小微企业提供以数智财税、数智商业为核心的平台服务、应用服务、业务服务及数据增值服务，致力于建立 “小微企业服务生态体系”。\n根据易观国际的报告，目前畅捷通在国内小微企业云服务市场的覆盖率保持第一。有超过 130 万家企业与机构通过使用畅捷通的软件及服务，实现降本提效、持续创新、数智化转型。\n早期，畅捷通的业务应用都是构建在公司自主研发的 CSP 平台之上，包括客户管家、易代账、好会计和好生意等，每个企业分配一个独立的虚机，资源完全隔离，初期该平台方案极大简化了开发的复杂度，提高了开发效率，满足公司向云服务发展的最初需求。\n​\n新的需求\n​\n\n随着用户规模的增多，现有为每个用户分配一个独立虚机的方案产生的问题很突出。首先体现在虚机的数量日益庞大，在客户转换率不高的情况下，容易造成资源的浪费，同时运维成本也偏高；其次，不同的用户软件迭代的版本不尽相同，还需要专门设计维护多套版本的补丁更新系统；第三，产品需要停服上线，业务会出现短暂不可用的情况；最后，如果若干用户的业务出现高峰期，不能快速弹性扩容，资源的利用率不高。\n在此背景下，畅捷通研发团队决定尝试当前业界比较通用的云原生架构设计方案，利用云上的基础设施，共享计算资源和存储资源，采用容器化方案，快速弹性扩容，利用微服务架构，按应用更新产品，彻底解决当前运维成本偏高、弹性不足、资源利用不均衡的问题。\n小微企业的特点是数量多、单个企业业务量相对较小、企业 IT 能力有限。以畅捷通好生意产品为例，采用现有的云原生架构，能够方便畅捷通快速开发出一款应对大规模小型用户，支持弹性可…",
