@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T09:10:00.177Z</updated>
+    <updated>2021-06-29T10:10:05.322Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -356,6 +356,16 @@ vivo AI 计算平台的相关介绍可参见 InfoQ 专题  vivo AI 计算平台�
         <summary type="html"><![CDATA[In JavaScript, people often confuse closures with lexical scope. Lexical scope is an important part of closures, but it is not a closure by itself. Closures are an advanced concept that is also a frequent topic of technical interviews. You should have a foundational understanding of functions before attempting to]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学习与教学用的动态数学软件 GeoGebra 6.0.649 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=16769</id>
+        <link href="http://www.dayanzai.me/geogebra.html"/>
+        <updated>2021-06-28T16:25:41.000Z</updated>
+        <summary type="html"><![CDATA[GeoGebra 6.0 中文版由大眼仔旭（www.dayanzai.me）发布。GeoGebra 中文版是一 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
