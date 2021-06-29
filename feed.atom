@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T15:09:20.175Z</updated>
+    <updated>2021-06-29T16:13:57.835Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12359,16 +12359,6 @@ OpenYurt +EdgeX：共建生态，打造零侵入式的云边端一体化平台
 阿里云开源项目 OpenYurt 和由 VMware 共同发起并维护其中国社区的开源项目 EdgeX Foundry 展开深度合作，将帮助企业和…]]></summary>
         <author>
             <name>alicloudnative</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网站优化之如何编写在 Google 上排名靠前的 SEO 内容]]></title>
-        <id>http://www.dayanzai.me/?p=52325</id>
-        <link href="http://www.dayanzai.me/optimize-google-seo-content.html"/>
-        <updated>2021-05-31T03:31:22.000Z</updated>
-        <summary type="html"><![CDATA[对于做网站的都明白 SEO 内容的重要性，可是如何在搜索引擎中排名靠前更重要。如果您要撰写的内容在 Googl […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
         </author>
     </entry>
 </feed>
