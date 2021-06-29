@@ -48,8 +48,36 @@
       </li>
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="http://www.dayanzai.me">大眼仔旭</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">MSDN Windows 11 官方镜像下载 Windows 11 Insider Preview 22000.1.210604 中文版下载</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://www.dayanzai.me/windows-11-insider-preview-iso.html">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>您好 Windows 预览体验成员，我们很高兴向开发频道发布第一个 Windows 11 Insider Pr […]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="http://www.linuxeden.com">Linuxeden开源社区</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">首发GAA晶体管技术 三星3nm工艺成功流片</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://www.linuxeden.com/a/87024">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>全球目前量产的 最先进工艺是5nm，台积电明年就要量产3nm工艺，不过3nm节点他们依然选择FinFET晶体管技术，三星则选择了GAA技术，日前三星也成功流片了3nm GAA芯片，迈出了关键一步。 在3nm节点，三星比较激进，直接选择了下一 […]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">开源美图 2021 06 29</summary>
@@ -133,6 +161,106 @@
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://gocn.vip/">GoCN社区</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">golang 垃圾回收器如何标记内存？</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12251">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>本文基于 Go 1.13。这里讨论的关于内存管理的概念在我的文章Go:内存管理和分配 中有解释
+Go 垃圾回收器负责回收不再使用的内存。实现的算法是一个并行的三色标记扫描采集器。在本文中，我们将详细了解标记阶段，以及不同颜色的用法。
+您可以在 kenfox 的可视化垃圾回收算法 中找到关于不同类型垃圾回收器的更多信息。
+标记阶段
+此阶段执行内存扫描，以了解代码仍在使用哪些块，以及应该回收哪些块。
+但是，由于垃圾回收器可以与我们的 Go 程序同时运行，因此它需要一种在扫描时检测内存中潜在变化的方法。为了解决这个潜在的问题，实现了一个写屏障算法，允许 Go 跟踪任何指针的变化。启用写屏障的唯一条件是短时间停止程序，也称为 “STW”：
+
+在进程开始时，Go 还会为每个处理器启动一个标记辅助进程，以帮助标记内存。
+然后，一旦根节点被排队等待处理，标记阶段就可以开始遍历内存并为其着色。
+现在让我们以一个简单的程序为例，该程序允许我们遵循标记阶段所做的步骤
+Type struct1 struct {
+    a, b int64
+    c, d float64
+    e *struct2
+}
+
+type struct2 struct {
+    f, g int64
+    h, i float64
+}
+
+func main() {
+    s1 :&#x3D; allocStruct1()
+    s2 :&#x3D; allocStruct2()
+
+    func () {
+        _ &#x3D; allocStruct2()
+    }()
+
+    runtime.GC()
+
+    fmt.Printf(&quot;s1 &#x3D; %X, s2 &#x3D; %X\n&quot;, &amp;s1, &amp;s2)
+}
+
+//go:noinline
+func allocStruct1() *struct1 {
+    return &amp;struct1{
+        e: allocStruct2(),
+    }
+}
+
+//go:noinline
+func allocStruct2() *struct2 {
+    return &amp;struct2{}
+}
+
+由于 struct subStruct 不包含任何指针，因此它存储在一个专用于对象的范围中，而不引用其他对象：
+
+这使得垃圾回收器的工作更容易，因为它在标记内存时不必扫描这个范围。
+一旦分配完成，我们的程序就会强制垃圾回收器运行一个周期。以下是工作流程：
+
+垃圾回收器从堆栈开始标记，然后跟着指针递归遍历内存。直到对象都被标记时停止扫描。然而，这个过程不是在同一个 goroutine 中完成的
+完成的；每个指针都在工作池中排队。然后 ，后台的标记线程发现之前的出列队列是来自该工作池，扫描对象，然后将在其中找到的指针加入队列：
+
+着色!
+后台线程现在需要一种方法来跟踪哪些内存有没有被扫描。垃圾回收器使用三色算法，其工作原理如下：
+所有对象一开始都被认为是白色的
+
+
+根对象（堆栈、堆、全局变量）将以灰色显示
+
+
+
+完成此主要步骤后，垃圾回收器将：
+选择一个灰色的对象，把它涂成黑色
+
+
+遵循此对象的所有指针并将所有引用的对象涂成灰色
+
+
+
+然后，它将重复这两个步骤，直到没有更多的对象要着色。从这一点来看，对象不是黑色就是白色。白色集合表示未被任何其他对象引用且准备好回收的对象。
+下面是使用上一个示例对其进行的表示：
+
+作为第一种状态，所有对象都被视为白色。然后，对象被遍历，可到达的对象将变为灰色。如果对象位于标记为 “无扫描” 的范围内，则可以将其绘制为黑色，因为不需要对其进行扫描：
+
+灰色对象现在入队等待扫描并变黑：
+
+在没有更多的对象要处理之前，入队的对象也会发生同样的情况：
+
+在进程结束时，黑色对象是内存中正在使用的对象，而白色对象是要回收的对象。如我们所见，由于 struct2 的实例是在匿名函数中创建的，并且无法从堆栈访问，因此它保持为白色，可以清除。
+由于每个跨度中有一个名为 gcmarkBits 的位图属性，颜色在内部实现，该属性跟踪扫描，并将相应的位设置为 1：
+
+正如我们所见，黑色和灰色的工作原理是一样的。这一过程的不同之处在于，当黑色对象结束扫描链时，灰色对象排队等待扫描。
+垃圾回收器最终会 stops the world，将每个写屏障上所做的更改刷新到工作池，并执行剩余的标记。
+您可以在我的文章Go:垃圾回收器如何监视您的应用程序 中找到有关并发进程和垃圾回收器中标记阶段的更多详细信息
+运行时分析器
+Go 提供的工具允许我们可视化所有这些步骤，并在程序中查看垃圾回收器的影响。在启用跟踪的情况下运行我们的代码提供了前面步骤的一个大图。以下是 traces：
+
+标记线程的生命周期也可以在 goroutine 级别的 tracer 中可视化。下面是 goroutine#33 的示例，它在开始标记内存之前先在后台等待。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">我们也从 Python 转向了 Golang</summary>
@@ -14174,50 +14302,6 @@ Go 规范的兼容实现版本可以存储堆上每次分配的内存。这会�
                 </a>
               </details>
             </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">SQLAlchemy 1.4.17 发布</summary>
-                <a class="article-summary-link article-summary-box-outer" href="http://www.linuxeden.com/a/85939">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>Release 1.4.17 fixes one mistake just released in version 1.4.16 regarding a performance enhancement involving expressio […]</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">CudaText 1.133.5 发布</summary>
-                <a class="article-summary-link article-summary-box-outer" href="http://www.linuxeden.com/a/85937">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>Assets 2 Source code (zip) Source code (tar.gz)   转自 https://github.com/Alexey-T/CudaText/releases</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">大神Jim Keller谈Zen架构内幕：AMD员工不信能超过Intel</summary>
-                <a class="article-summary-link article-summary-box-outer" href="http://www.linuxeden.com/a/85935">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>Jim Keller是蜚声国内外的CPU研发大神，在AMD时带队做出了Zen架构，是AMD这几年翻身的关键，甚至一步步超越了友商的酷睿处理器。 外人看得到AMD近年来的成绩，但是Zen问世之前几年的时候AMD的情况可以说很糟糕了，公司财务危 […]</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">CMake 3.20.3 发布</summary>
-                <a class="article-summary-link article-summary-box-outer" href="http://www.linuxeden.com/a/85933">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>We are pleased to announce that CMake 3.20.3 is now available for download. Please use the latest release from our downl […]</span>
-                  </div>
-                </a>
-              </details>
-            </article>
         </section>
       </li>
       <li class="source">
@@ -14486,57 +14570,13 @@ OpenYurt +EdgeX：共建生态，打造零侵入式的云边端一体化平台
                 </a>
               </details>
             </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">每日一博 | 拯救祭天的程序员——事件溯源模式</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://my.oschina.net/u/4250089/blog/5060509">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>曾经，我从产品那里接到过这么一个需求：对系统的用户进行分级，不同级别的用户有不同的福利。依然如常，无图无文档，只是这么一句话。我知道，需求一句话，分析五日功嘛。为了项目能持续发展，我只好自己分析自己搞了。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Gitee 推荐 | 高性能 JSON 解析器 jsoniter</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://gitee.com/taowen/jsoniter">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>一款快且灵活的 JSON 解析器，同时提供 Java 和 Go 两个版本</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-05-30">2021-05-30</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.oschina.net/news/rss">OSCHINA 社区最新新闻</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Linux 5.14 或将加强对 MikroTik 10G/25G 网卡的支持</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.oschina.net/news/143774/linux-kernel-support-mikrotik-nic">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>根据提交记录显示，支持 MikroTik 10G/25G 网卡相关功能的补丁已经合并到 net-next 树中，意味着 Linux 5.14 或将加强对 MikroTik 10G/25G 网卡的支持。 目前，已经有两个关于 MikroTik 网卡的补丁合并到 net-next 树中。第一个补丁于本月 13 号合并，其提供了对 MikroTik 10G/25G 网卡功能的基础支持，包括增加链接速度...</span>
-                  </div>
-                </a>
-              </details>
-            </article>
         </section>
       </li>
     </ul>
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-06-29T11:07:48.006Z">2021-06-29T11:07:48.006Z</time>
+    <time id="build-timestamp" datetime="2021-06-29T12:14:17.408Z">2021-06-29T12:14:17.408Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.0</a></span>
   </footer>
   <script src="index.js"></script>

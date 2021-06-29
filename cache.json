@@ -839,6 +839,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12251",
+          "author": "cuua",
+          "description": "本文基于 Go 1.13。这里讨论的关于内存管理的概念在我的文章Go:内存管理和分配 中有解释\nGo 垃圾回收器负责回收不再使用的内存。实现的算法是一个并行的三色标记扫描采集器。在本文中，我们将详细了解标记阶段，以及不同颜色的用法。\n您可以在 kenfox 的可视化垃圾回收算法 中找到关于不同类型垃圾回收器的更多信息。\n标记阶段\n此阶段执行内存扫描，以了解代码仍在使用哪些块，以及应该回收哪些块。\n但是，由于垃圾回收器可以与我们的 Go 程序同时运行，因此它需要一种在扫描时检测内存中潜在变化的方法。为了解决这个潜在的问题，实现了一个写屏障算法，允许 Go 跟踪任何指针的变化。启用写屏障的唯一条件是短时间停止程序，也称为 “STW”：\n\n在进程开始时，Go 还会为每个处理器启动一个标记辅助进程，以帮助标记内存。\n然后，一旦根节点被排队等待处理，标记阶段就可以开始遍历内存并为其着色。\n现在让我们以一个简单的程序为例，该程序允许我们遵循标记阶段所做的步骤\nType struct1 struct {\n    a, b int64\n    c, d float64\n    e *struct2\n}\n\ntype struct2 struct {\n    f, g int64\n    h, i float64\n}\n\nfunc main() {\n    s1 := allocStruct1()\n    s2 := allocStruct2()\n\n    func () {\n        _ = allocStruct2()\n    }()\n\n    runtime.GC()\n\n    fmt.Printf(\"s1 = %X, s2 = %X\\n\", &s1, &s2)\n}\n\n//go:noinline\nfunc allocStruct1() *struct1 {\n    return &struct1{\n        e: allocStruct2(),\n    }\n}\n\n//go:noinline\nfunc allocStruct2() *struct2 {\n    return &struct2{}\n}\n\n由于 struct subStruct 不包含任何指针，因此它存储在一个专用于对象的范围中，而不引用其他对象：\n\n这使得垃圾回收器的工作更容易，因为它在标记内存时不必扫描这个范围。\n一旦分配完成，我们的程序就会强制垃圾回收器运行一个周期。以下是工作流程：\n\n垃圾回收器从堆栈开始标记，然后跟着指针递归遍历内存。直到对象都被标记时停止扫描。然而，这个过程不是在同一个 goroutine 中完成的\n完成的；每个指针都在工作池中排队。然后 ，后台的标记线程发现之前的出列队列是来自该工作池，扫描对象，然后将在其中找到的指针加入队列：\n\n着色!\n后台线程现在需要一种方法来跟踪哪些内存有没有被扫描。垃圾回收器使用三色算法，其工作原理如下：\n所有对象一开始都被认为是白色的\n\n\n根对象（堆栈、堆、全局变量）将以灰色显示\n\n\n\n完成此主要步骤后，垃圾回收器将：\n选择一个灰色的对象，把它涂成黑色\n\n\n遵循此对象的所有指针并将所有引用的对象涂成灰色\n\n\n\n然后，它将重复这两个步骤，直到没有更多的对象要着色。从这一点来看，对象不是黑色就是白色。白色集合表示未被任何其他对象引用且准备好回收的对象。\n下面是使用上一个示例对其进行的表示：\n\n作为第一种状态，所有对象都被视为白色。然后，对象被遍历，可到达的对象将变为灰色。如果对象位于标记为 “无扫描” 的范围内，则可以将其绘制为黑色，因为不需要对其进行扫描：\n\n灰色对象现在入队等待扫描并变黑：\n\n在没有更多的对象要处理之前，入队的对象也会发生同样的情况：\n\n在进程结束时，黑色对象是内存中正在使用的对象，而白色对象是要回收的对象。如我们所见，由于 struct2 的实例是在匿名函数中创建的，并且无法从堆栈访问，因此它保持为白色，可以清除。\n由于每个跨度中有一个名为 gcmarkBits 的位图属性，颜色在内部实现，该属性跟踪扫描，并将相应的位设置为 1：\n\n正如我们所见，黑色和灰色的工作原理是一样的。这一过程的不同之处在于，当黑色对象结束扫描链时，灰色对象排队等待扫描。\n垃圾回收器最终会 stops the world，将每个写屏障上所做的更改刷新到工作池，并执行剩余的标记。\n您可以在我的文章Go:垃圾回收器如何监视您的应用程序 中找到有关并发进程和垃圾回收器中标记阶段的更多详细信息\n运行时分析器\nGo 提供的工具允许我们可视化所有这些步骤，并在程序中查看垃圾回收器的影响。在启用跟踪的情况下运行我们的代码提供了前面步骤的一个大图。以下是 traces：\n\n标记线程的生命周期也可以在 goroutine 级别的 tracer 中可视化。下面是 goroutine#33 的示例，它在开始标记内存之前先在后台等待。",
+          "link": "https://gocn.vip/topics/12251",
+          "publishedOn": "2021-06-29T12:02:28.000Z",
+          "wordCount": 215,
+          "title": "golang 垃圾回收器如何标记内存？"
+        },
+        {
           "id": "https://gocn.vip/topics/12250",
           "author": "isware",
           "description": "首先说明一下，Python 也是我最喜欢的一门编程语言，我用 Python 工作了接近 8 年，并且会一直使用下去。\n我们团队在开启 memfiredb.com 这个项目之初就做出了从 Python 往 golang 转换的预期，因此我们的转换过程没有任何障碍，非常顺利的就完成了。\n我们为什么会在项目开启之初就做出要更换编程语言的决定呢，为什么不一开始就选择 Golang 呢？\n第一个问题：为什么项目之处就做好了要切换编程语言的决定？\n云原生：memfiredb.com 是一个云服务，我们的运维部署都是基于 k8s 的，golang 在云原生方面有非常大的优势，随着项目变得越来越大，这个优势将会更加突出。\n性能：尽管 Python 在性能优化方面有诸多的方案，但是 Golang 几乎不需要做什么特殊的优化就很容易实现高性能、高并发的服务。\nPython 版本：我们团队在 Python2.7 版本积累了很多经验和代码，但是目前还没有完全迁移到 Python3。随着社区停止对 Python2 的支持，以及一些第三方依赖库也不再支持 Python2，导致我们目前处于一个相对尴尬的中间状态。\n第二个问题：为什么不一开始就选择 Golang\n我们在 Python 上有很多成熟的组件，可以直接上手使用。这可以让我们快速的实现原型系统，验证我们的想法，邀请朋友体验我们的系统。\n我们需要从头开始对 Golang 的框架组件进行选型以及验证，对于快速开启我们的项目不利。\n目前，memfiredb.com 的云服务后端已经从 Python 迁移到了 Golang，目前运行的很稳定。",
@@ -1835,6 +1844,15 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=87024",
+          "author": "Editor, Kai",
+          "description": "全球目前量产的 最先进工艺是5nm，台积电明年就要量产3nm工艺，不过3nm节点他们依然选择FinFET晶体管技术，三星则选择了GAA技术，日前三星也成功流片了3nm GAA芯片，迈出了关键一步。 在3nm节点，三星比较激进，直接选择了下一 […]",
+          "link": "http://www.linuxeden.com/a/87024",
+          "publishedOn": "2021-06-29T11:24:58.000Z",
+          "wordCount": 87,
+          "title": "首发GAA晶体管技术 三星3nm工艺成功流片"
+        },
         {
           "id": "http://www.linuxeden.com/?p=87020",
           "author": "Editor, Kai",
@@ -4615,42 +4633,6 @@
           "publishedOn": "2021-05-31T00:23:43.000Z",
           "wordCount": 102,
           "title": "[图]想在电脑上体验谷歌最新发布的Fuchsia OS？试试FImage"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85939",
-          "author": "Editor, Kai",
-          "description": "Release 1.4.17 fixes one mistake just released in version 1.4.16 regarding a performance enhancement involving expressio […]",
-          "link": "http://www.linuxeden.com/a/85939",
-          "publishedOn": "2021-05-31T00:08:31.000Z",
-          "wordCount": 138,
-          "title": "SQLAlchemy 1.4.17 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85937",
-          "author": "Editor, Kai",
-          "description": "Assets 2 Source code (zip) Source code (tar.gz)   转自 https://github.com/Alexey-T/CudaText/releases",
-          "link": "http://www.linuxeden.com/a/85937",
-          "publishedOn": "2021-05-31T00:07:36.000Z",
-          "wordCount": 84,
-          "title": "CudaText 1.133.5 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85935",
-          "author": "Editor, Kai",
-          "description": "Jim Keller是蜚声国内外的CPU研发大神，在AMD时带队做出了Zen架构，是AMD这几年翻身的关键，甚至一步步超越了友商的酷睿处理器。 外人看得到AMD近年来的成绩，但是Zen问世之前几年的时候AMD的情况可以说很糟糕了，公司财务危 […]",
-          "link": "http://www.linuxeden.com/a/85935",
-          "publishedOn": "2021-05-31T00:05:09.000Z",
-          "wordCount": 85,
-          "title": "大神Jim Keller谈Zen架构内幕：AMD员工不信能超过Intel"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85933",
-          "author": "Editor, Kai",
-          "description": "We are pleased to announce that CMake 3.20.3 is now available for download. Please use the latest release from our downl […]",
-          "link": "http://www.linuxeden.com/a/85933",
-          "publishedOn": "2021-05-31T00:00:10.000Z",
-          "wordCount": 295,
-          "title": "CMake 3.20.3 发布"
         }
       ]
     },
@@ -8166,33 +8148,6 @@
           "publishedOn": "2021-05-31T00:15:31.000Z",
           "wordCount": 322,
           "title": "KStars —— KDE 开发的跨平台天文软件"
-        },
-        {
-          "id": "https://my.oschina.net/u/4250089/blog/5060509",
-          "author": null,
-          "description": "曾经，我从产品那里接到过这么一个需求：对系统的用户进行分级，不同级别的用户有不同的福利。依然如常，无图无文档，只是这么一句话。我知道，需求一句话，分析五日功嘛。为了项目能持续发展，我只好自己分析自己搞了。",
-          "link": "https://my.oschina.net/u/4250089/blog/5060509",
-          "publishedOn": "2021-05-31T00:13:33.000Z",
-          "wordCount": 306,
-          "title": "每日一博 | 拯救祭天的程序员——事件溯源模式"
-        },
-        {
-          "id": "https://gitee.com/taowen/jsoniter",
-          "author": null,
-          "description": "一款快且灵活的 JSON 解析器，同时提供 Java 和 Go 两个版本",
-          "link": "https://gitee.com/taowen/jsoniter",
-          "publishedOn": "2021-05-31T00:11:24.000Z",
-          "wordCount": 690,
-          "title": "Gitee 推荐 | 高性能 JSON 解析器 jsoniter"
-        },
-        {
-          "id": "https://www.oschina.net/news/143774/linux-kernel-support-mikrotik-nic",
-          "author": null,
-          "description": "根据提交记录显示，支持 MikroTik 10G/25G 网卡相关功能的补丁已经合并到 net-next 树中，意味着 Linux 5.14 或将加强对 MikroTik 10G/25G 网卡的支持。 目前，已经有两个关于 MikroTik 网卡的补丁合并到 net-next 树中。第一个补丁于本月 13 号合并，其提供了对 MikroTik 10G/25G 网卡功能的基础支持，包括增加链接速度...",
-          "link": "https://www.oschina.net/news/143774/linux-kernel-support-mikrotik-nic",
-          "publishedOn": "2021-05-30T23:36:46.000Z",
-          "wordCount": 511,
-          "title": "Linux 5.14 或将加强对 MikroTik 10G/25G 网卡的支持"
         }
       ]
     },
@@ -8201,6 +8156,15 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=52066",
+          "author": "大眼仔~旭",
+          "description": "您好 Windows 预览体验成员，我们很高兴向开发频道发布第一个 Windows 11 Insider Pr […]",
+          "link": "http://www.dayanzai.me/windows-11-insider-preview-iso.html",
+          "publishedOn": "2021-06-29T11:10:52.000Z",
+          "wordCount": 893,
+          "title": "MSDN Windows 11 官方镜像下载 Windows 11 Insider Preview 22000.1.210604 中文版下载"
+        },
         {
           "id": "http://www.dayanzai.me/?p=16769",
           "author": "大眼仔~旭",
