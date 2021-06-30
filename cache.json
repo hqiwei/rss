@@ -6,6 +6,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "6055c55b687d62084bf68804",
+          "author": null,
+          "description": "This tutorial is an overview of basic concepts of the C programming language.  It goes over the history of the language, why and where it is used, the compilation process, and some very basic programming concepts that are common in most popular programming languages. It is not a complete guide",
+          "link": "https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/",
+          "publishedOn": "2021-06-30T14:25:53.000Z",
+          "wordCount": 12270,
+          "title": "What is The C Programming Language? A Tutorial for Beginners"
+        },
+        {
+          "id": "60d5ea736e1a1407b6b0bc8d",
+          "author": null,
+          "description": "React Router is commonly used to make different routes for pages in React Applications. We just released a crash course on the freeCodeCamp.org YouTube channel that will teach you how to create routes in your React applications. Piyush Agarwal developed this course. Piyush is a prolific course creator on",
+          "link": "https://www.freecodecamp.org/news/learn-react-router/",
+          "publishedOn": "2021-06-30T14:01:01.000Z",
+          "wordCount": 5542,
+          "title": "Learn React Router"
+        },
+        {
           "id": "60db519527f80207bcdbb6fa",
           "author": null,
           "description": "Whether you are new to coding interviews or are already familiar with the concept of backtracking, this is the crash course for you. We will learn about an all-purpose coding template and apply it to two LeetCode hard problems. Ready to crunch your next coding interview? Let's go!",
@@ -1871,6 +1889,33 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=87058",
+          "author": "Editor, Kai",
+          "description": "Python 3.9.6 final 发布 APK替代者Android App Bundles八月生效：改变应用打包和交付方式 Fedora Linux 中的 Python 3.10 测试版 深度操作系统20.2.2 发布 Redisson […]",
+          "link": "http://www.linuxeden.com/a/87058",
+          "publishedOn": "2021-06-30T12:37:19.000Z",
+          "wordCount": 110,
+          "title": "每日文章精选 2021 06 30"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87056",
+          "author": "Editor, Kai",
+          "description": "Security¶ bpo-44022: mod:http.client now avoids infinitely reading potential HTTP headers after a 100 Continue status re […]",
+          "link": "http://www.linuxeden.com/a/87056",
+          "publishedOn": "2021-06-30T12:25:43.000Z",
+          "wordCount": 1102,
+          "title": "Python 3.9.6 final 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87052",
+          "author": "Editor, Kai",
+          "description": "Google Play Store 一直在不断发展，以满足 Android 用户和开发者不断增长的需求。现阶段的很多改进都依赖于由人工智能和机器学习的自动化系统，特别在筛选 APP 中的恶意程序和禁用内容方面。不过有些改进需要开发者对 AP […]",
+          "link": "http://www.linuxeden.com/a/87052",
+          "publishedOn": "2021-06-30T12:15:04.000Z",
+          "wordCount": 207,
+          "title": "APK替代者Android App Bundles八月生效：改变应用打包和交付方式"
+        },
         {
           "id": "http://www.linuxeden.com/?p=87050",
           "author": "Editor, Kai",
@@ -4633,42 +4678,6 @@
           "publishedOn": "2021-06-01T13:34:10.000Z",
           "wordCount": 97,
           "title": "Raspberry Pi开售RP2040微控制器芯片 售价1美元"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85981",
-          "author": "Editor, Kai",
-          "description": "Linuxeden开源社区-开源美图 2021 06 01",
-          "link": "http://www.linuxeden.com/a/85981",
-          "publishedOn": "2021-06-01T00:24:12.000Z",
-          "wordCount": 89,
-          "title": "开源美图 2021 06 01"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85978",
-          "author": "Editor, Kai",
-          "description": "QUIC 协议全称为”quick udp internet connection“，快速 UDP 互联网连接，相比于标准的 HTTP2.0 ，他提供了更加安全、可靠和低延时等特性。 QUIC 协议是将过去需要 TCP 协议传递的数据通过由  […]",
-          "link": "http://www.linuxeden.com/a/85978",
-          "publishedOn": "2021-06-01T00:21:13.000Z",
-          "wordCount": 113,
-          "title": "QUIC 协议正式发布了 RFC 9000 ，成为 IETF 标准"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85975",
-          "author": "Editor, Kai",
-          "description": "We are happy to announce that Qt Online Installer 4.1.1 has been released today. In this release, we have improved espec […]",
-          "link": "http://www.linuxeden.com/a/85975",
-          "publishedOn": "2021-06-01T00:18:48.000Z",
-          "wordCount": 441,
-          "title": "Qt Online Installer 4.1.1发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85973",
-          "author": "Editor, Kai",
-          "description": "Connection recovery was improved. SSH tunnel infinite reopening cycle was fixed Data transfer: Insert/replace method con […]",
-          "link": "http://www.linuxeden.com/a/85973",
-          "publishedOn": "2021-06-01T00:15:22.000Z",
-          "wordCount": 268,
-          "title": "DBeaver 21.1 发布"
         }
       ]
     },
@@ -8139,51 +8148,6 @@
           "publishedOn": "2021-06-01T05:36:19.000Z",
           "wordCount": 934,
           "title": "LCUI 2.2.0 发布，C 的图形界面开发库"
-        },
-        {
-          "id": "https://www.paddlepaddle.org.cn/modelbasedetail/deepspeech2",
-          "author": null,
-          "description": "一个采用 PaddlePaddle 平台的端到端自动语音识别（ASR）引擎的开源项目，具体原理请参考论文 Deep Speech 2: End-to-End Speech Recognition in English and Mandarin。",
-          "link": "https://www.paddlepaddle.org.cn/modelbasedetail/deepspeech2",
-          "publishedOn": "2021-06-01T01:05:54.000Z",
-          "wordCount": 1031,
-          "title": "深度学习模型库入门：语音识别—DeepSpeech2"
-        },
-        {
-          "id": "https://www.oschina.net/news/143983/hbp-open-source",
-          "author": null,
-          "description": "密码泄露检查网站 Have I Been Pwned（简称为 HIBP）创始人 Troy Hunt 正式宣布开源 HIBP，并已将源代码托管到 GitHub，采用了 BSD-3-Clause 开源许可证。 早在去年8月，在 HIBP 求售失败后，Troy Hunt 就公布了计划开源 HIBP 的决定，他希望借助社区的力量来共同改进 HIBP，这也是为了让项目可以更长久地发展。宣布开源...",
-          "link": "https://www.oschina.net/news/143983/hbp-open-source",
-          "publishedOn": "2021-06-01T00:30:07.000Z",
-          "wordCount": 561,
-          "title": "Have I Been Pwned 正式开源，与 FBI 达成合作"
-        },
-        {
-          "id": "https://www.oschina.net/news/143982/mozilla-integrates-firefox-translations-into-firefox",
-          "author": null,
-          "description": "Mozilla 的 Firefox 浏览器是全球最知名的浏览器之一，此前该浏览器一直没有自带的翻译工具，用户需要通过安装 Google 翻译等扩展程序来实现网页翻译功能。 Project Bergamot 是 Mozilla 的翻译工具研发项目，自从 2019 年 10 月该项目被披露以来，Mozilla 一直在开发这个 Firefox 翻译功能。第一个可供用户使用的 Fire...",
-          "link": "https://www.oschina.net/news/143982/mozilla-integrates-firefox-translations-into-firefox",
-          "publishedOn": "2021-06-01T00:26:49.000Z",
-          "wordCount": 534,
-          "title": "Mozilla 自研翻译工具，Firefox 终于获得原生翻译功能"
-        },
-        {
-          "id": "https://gotc.oschina.net/",
-          "author": null,
-          "description": "全球开源技术峰会是由开源中国社区联合 Linux 基金会发起的，面向全球开发者的一场盛大开源技术盛宴。大会将携头部开源公司和顶级开源项目一起亮相，覆盖云原生、大数据、人工智能、物联网、区块链、DevOps、开源治理等多个技术领域，在为期 2 天的时间里，为开发者带来全球最新、最纯粹的开源技术，同时传播开源文化和理...",
-          "link": "https://gotc.oschina.net/",
-          "publishedOn": "2021-06-01T00:24:25.000Z",
-          "wordCount": 801,
-          "title": "OpenChain 解读｜企业如何规避使用开源软件的各种风险？"
-        },
-        {
-          "id": "https://www.oschina.net/news/143980/patch-attestation-patatt",
-          "author": null,
-          "description": "Linux 内核开发者 Konstantin Ryabitsev 一直在研究 Patatt（Patch Attestation），一个基于密码的补丁认证系统，允许选择性地在补丁中加入端到端的加密证明。事实上，其关于该项目的研究工作早已进行了一段时间，但前不久所发生的明尼苏达大学事件，则促使 Konstantin Ryabitsev 进一步审视自己所做的补丁认证工作。 最...",
-          "link": "https://www.oschina.net/news/143980/patch-attestation-patatt",
-          "publishedOn": "2021-06-01T00:15:19.000Z",
-          "wordCount": 525,
-          "title": "明尼苏达大学事件后，Linux 内核开发者考虑为补丁提供加密证明"
         }
       ]
     },
