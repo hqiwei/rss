@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T16:13:55.442Z</updated>
+    <updated>2021-06-30T17:19:26.182Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12324,43 +12324,6 @@ Pod 容器重启/重建
         <summary type="html"><![CDATA[LCUI 2.2.0 发布了。LCUI 是一个用 C 语言编写的图形界面开发库，可用于构建简单的桌面应用程序。 更新概要 问题修复 conditional jump or move depends on uninitialised value(s) (7174868) gui: 水平滚动条未起作用 (#219) (31dee24) gui: 当部件的定位为绝对定位时，尺寸计算错误 (35bfa3f) gui: 组件在隐藏后未更新...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-01)]]></title>
-        <id>https://gocn.vip/topics/12145</id>
-        <link href="https://gocn.vip/topics/12145"/>
-        <updated>2021-06-01T04:46:56.000Z</updated>
-        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-06-01)
-Go 高性能系列教程之三：编译器优化 https://gocn.vip/topics/12144
-
-理解 Golang 中函数调用的原理  https://blog.51cto.com/u_15127695/2829851
-
-Go 微服务全链路跟踪详解 https://mp.weixin.qq.com/s/C6OtNYtskdPpfw-HsP76vQ
-
-自适应微服务治理背后的算法 https://mp.weixin.qq.com/s/OpF4JVWHA9W1v0yefeo56w
-
-消息队列解耦是骗小孩儿的 https://mp.weixin.qq.com/s/O0KGm3nVUSWMSKwHlPiJpg
-
-
-
-免费门票来了！Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ
-编辑: 琳 
-订阅新闻: http://tinyletter.com/gocn
-
-招聘专区: https://gocn.vip/jobs]]></summary>
-        <author>
-            <name>_Lin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logical Fallacies – Definition and Fallacy Examples]]></title>
-        <id>607f5fafdd38b9088c2bd0c9</id>
-        <link href="https://www.freecodecamp.org/news/logical-fallacies-definition-fallacy-examples/"/>
-        <updated>2021-06-01T04:19:48.000Z</updated>
-        <summary type="html"><![CDATA[When you're debating someone, you want to use all the resources at your disposal to convince them you're right. But you should be careful that you don't end up using a logical fallacy to help you make your point. What is a Logical Fallacy?A logical fallacy is an error]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
