@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T02:28:52.007Z</updated>
+    <updated>2021-06-30T03:10:29.219Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【里程碑】Linkis 1.0.0 正式发布]]></title>
+        <id>https://www.oschina.net/news/148309/linkis-1-0-0-released</id>
+        <link href="https://www.oschina.net/news/148309/linkis-1-0-0-released"/>
+        <updated>2021-06-30T02:42:05.000Z</updated>
+        <summary type="html"><![CDATA[Linkis 1.0.0是 Linkis 践行“计算治理”的里程碑，提供了计算编排、一次性作业、Web前端和Linkis-Cli的全新shell命令提交代码方式，标志着 Linkis 正式进入1.0版本时代。 Linkis 1.0.0 作为正式版，主要提供了Linkis-Orchetrator计算编排、优化了大量“计算治理”的架构代码、增加了对OnceEngineConn一次性作业的支持，...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[群晖 NAS 操作系统 DiskStation Manager 7.0（DSM 7.0）正式发布]]></title>
         <id>https://www.appinn.com/?p=39170</id>
@@ -168,6 +178,16 @@ Go 初始化流程分析  https://juejin.cn/post/6969230952685895694
         <link href="http://www.dayanzai.me/advancedrun.html"/>
         <updated>2021-06-29T16:34:51.000Z</updated>
         <summary type="html"><![CDATA[解除时间限制小工具 AdvancedRun 中文版由大眼仔旭（www.dayanzai.me）汉化发布。Adv […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国产开源 Linux 深度操作系统 deepin 20.2.2 中文版发布]]></title>
+        <id>http://www.dayanzai.me/?p=49207</id>
+        <link href="http://www.dayanzai.me/deepin.html"/>
+        <updated>2021-06-29T16:33:20.000Z</updated>
+        <summary type="html"><![CDATA[大眼仔旭了解到国产 Linux 深度操作系统时隔三个月，也就是 2020 年终的最终更新版本 deepin 2 […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
         </author>
@@ -12341,36 +12361,6 @@ Go 规范的兼容实现版本可以存储堆上每次分配的内存。这会�
         <summary type="html"><![CDATA[CrystalDiskInfo 中文版 硬盘检测工具由大眼仔旭（www.dayanzai.me）发布。硬盘里的 […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日文章精选 2021 05 31]]></title>
-        <id>http://www.linuxeden.com/?p=85965</id>
-        <link href="http://www.linuxeden.com/a/85965"/>
-        <updated>2021-05-31T15:07:01.000Z</updated>
-        <summary type="html"><![CDATA[不是程序员？那就找到自己的定位 WordPress迎来18岁生日 已搭建全球超过40%网站 Linux 5.14 开始为Alder Lake M低功耗移动设备提供支持 [图]想在电脑上体验谷歌最新发布的Fuchsia OS？试试FImage […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不是程序员？那就找到自己的定位]]></title>
-        <id>http://www.linuxeden.com/?p=85963</id>
-        <link href="http://www.linuxeden.com/a/85963"/>
-        <updated>2021-05-31T15:03:37.000Z</updated>
-        <summary type="html"><![CDATA[无论你是已经工作了几十年的还是刚开始从业的非工程型技术人，此建议都可以帮助你确定你的位置归属。 在 本系列第一篇文章 中 ，我解释了将人员和角色分为“技术”或“非技术”类别的问题。在 第二篇文章 中，我为不写代码的人分享了一些技术岗位角色。 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress迎来18岁生日 已搭建全球超过40%网站]]></title>
-        <id>http://www.linuxeden.com/?p=85959</id>
-        <link href="http://www.linuxeden.com/a/85959"/>
-        <updated>2021-05-31T15:02:30.000Z</updated>
-        <summary type="html"><![CDATA[日前 WordPress 官方博客发布博文，庆祝该软件迎来 18 岁生日。18 年前的 5 月 27 日，一篇名为《WordPress Now Available》的博文开启了博客圈历史上一个激动人心的时代，WordPress 作为被抛弃的 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>
