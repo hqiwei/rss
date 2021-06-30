@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T04:11:43.167Z</updated>
+    <updated>2021-06-30T05:08:06.454Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12351,66 +12351,6 @@ Go 规范的兼容实现版本可以存储堆上每次分配的内存。这会�
         <summary type="html"><![CDATA[蚂蚁集团自研数据库 OceanBase 现已开源，采用 MulanPubL - 2.0 许可证。OceanBase 数据库是一个原生的分布式关系数据库，完全由阿里巴巴和蚂蚁集团自主研发。 OceanBase 社区版是一款开源分布式 HTAP（Hybrid Transactional/Analytical Processing）数据库管理系统，具有原生分布式架构，支持金融级高可用、透明水平扩展...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源免费在线直播工具 OBS Studio 27.0 + x64 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=34222</id>
-        <link href="http://www.dayanzai.me/obs-studio.html"/>
-        <updated>2021-05-31T16:36:30.000Z</updated>
-        <summary type="html"><![CDATA[开源免费在线直播工具 OBS Studio 中文版由大眼仔旭（www.dayanzai.me）发布。什么是 O […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻量级视频编码压制工具 ShanaEncoder 5.2.1.4 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=42460</id>
-        <link href="http://www.dayanzai.me/shanaencoder.html"/>
-        <updated>2021-05-31T16:36:05.000Z</updated>
-        <summary type="html"><![CDATA[ShanaEncoder 中文版是一种这样的程序，能够将整个库转换为多种格式，因此可以保证满足大多数编码需求。 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源免费字体设计工具 FontForge 2020.11.07 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=2824</id>
-        <link href="http://www.dayanzai.me/fontforge.html"/>
-        <updated>2021-05-31T16:34:58.000Z</updated>
-        <summary type="html"><![CDATA[如果您想自己去设计字体，那么就尝试下大眼仔推荐的这款开源免费字体设计工具吧。FontForge 是一个免费的开 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源免费 Windows 动态桌面壁纸 WinDynamicDesktop 4.5.0 中文免费版]]></title>
-        <id>http://www.dayanzai.me/?p=6816</id>
-        <link href="http://www.dayanzai.me/windynamicdesktop.html"/>
-        <updated>2021-05-31T16:34:37.000Z</updated>
-        <summary type="html"><![CDATA[开源免费 Windows 动态桌面壁纸 WinDynamicDesktop 中文版由大眼仔旭（www.daya […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[绿色免费的硬盘检测工具 CrystalDiskMark 8.0.2 + x64 绿色中文版]]></title>
-        <id>http://www.dayanzai.me/?p=9191</id>
-        <link href="http://www.dayanzai.me/crystaldiskmark.html"/>
-        <updated>2021-05-31T16:30:03.000Z</updated>
-        <summary type="html"><![CDATA[CrystalDiskMark 8.0 绿色中文版由大眼仔旭（www.dayanzai.me）发布。Cryst […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机械/固态硬盘检测工具 CrystalDiskInfo 8.12.1 + x64 中文绿色单文件版]]></title>
-        <id>http://www.dayanzai.me/?p=3687</id>
-        <link href="http://www.dayanzai.me/crystaldiskinfo.html"/>
-        <updated>2021-05-31T16:26:44.000Z</updated>
-        <summary type="html"><![CDATA[CrystalDiskInfo 中文版 硬盘检测工具由大眼仔旭（www.dayanzai.me）发布。硬盘里的 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
         </author>
     </entry>
 </feed>
