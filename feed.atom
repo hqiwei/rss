@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T20:09:26.650Z</updated>
+    <updated>2021-06-30T21:08:51.668Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12304,16 +12304,6 @@ Pod 容器重启/重建
         <summary type="html"><![CDATA[Markdown 粉最喜欢 VLOOK「表格自动化排版」特性，今天又上新了！ 在 V10.5 版本事，可以实现设置表格列头自动重复出现了～这个对于长表格、带行分组的表格绝对是友好的助攻。 ———————————— 完整的更新日志如下： VLOOK™ 的所有特性清单，详见快速入坑 → 一键进入 表格 （+新增）表格列头支持标记为重复显...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Screenshot Capture – 小巧、开源的网页截图扩展[Chrome/Edge]]]></title>
-        <id>https://www.appinn.com/?p=38943</id>
-        <link href="https://www.appinn.com/screenshot-capture-for-chrome/"/>
-        <updated>2021-06-01T08:13:21.000Z</updated>
-        <summary type="html"><![CDATA[Screenshot Capture 是一款小巧、开源的网页截图扩展，灵活易用，支持 Chrome、Edge 浏览器，支持快捷键、支持 Retina 屏幕、不需要特殊权限、可复制到剪贴板或保存为图片。]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
 </feed>
