@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T05:08:06.454Z</updated>
+    <updated>2021-06-30T06:11:29.047Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Golang 工程师（20～50K 15 薪）- 上海]]></title>
+        <id>https://gocn.vip/topics/12254</id>
+        <link href="https://gocn.vip/topics/12254"/>
+        <updated>2021-06-30T06:04:40.000Z</updated>
+        <summary type="html"><![CDATA[职位描述：
+参与公司隐私计算平台的架构设计、开发和维护。
+持续优化系统功能和架构，提升系统的易用性和稳定性，攻克技术难题。
+支持平台在密码学，区块链等技术在业务的推广和落地。
+任职资格：
+本科，工作 2 两年以上。
+
+
+掌握 Golang、C++ 中的一门编程语言。
+
+
+掌握扎实的计算基础知识，深入理解数据结构、算法和操作系统知识。
+
+
+掌握服务端开发的相关技术、最佳实践和工程化能力。
+
+
+优秀的沟通能力、责任心强，做事踏实、结果导向。
+
+
+了解容器、kubernetes 、密码学和区块链等相关技术优先。
+
+
+工作地点
+上海 
+简历投递
+简历投至：dumanxiang@qq.com
+标题请参照："gocn+ 姓名 + 职位" 的格式编辑
+公司
+万向区块链
+以上都不是硬性指标，如果你技术好，我们这边有很多职位，有区块链底层链的，有密码学研究和实现的，区块应用的等等各个方向，欢迎大家来聊聊。]]></summary>
+        <author>
+            <name>elvin5</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub 推出 AI 编程工具，Stack Overflow：那我走？]]></title>
+        <id>https://www.oschina.net/news/148335/github-copilot</id>
+        <link href="https://www.oschina.net/news/148335/github-copilot"/>
+        <updated>2021-06-30T05:11:12.000Z</updated>
+        <summary type="html"><![CDATA[GitHub 推出了名为"GitHub Copilot"的工具，官网对其的描述是 "Your AI pair programmer"。直译过来即为 AI 结对编程助手。 GitHub Copilot 官网：https://copilot.github.com/ 根据官网的介绍，GitHub Copilot 不仅只是一个代码自动补全工具，其底层技术采用了由 OpenAI 打造的新 AI 系统 —— Codex，目前经过了数十亿...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apache DolphinScheduler 社区呼唤志愿者]]></title>
         <id>https://www.oschina.net/news/148328</id>

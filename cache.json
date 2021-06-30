@@ -875,6 +875,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12254",
+          "author": "elvin5",
+          "description": "职位描述：\n参与公司隐私计算平台的架构设计、开发和维护。\n持续优化系统功能和架构，提升系统的易用性和稳定性，攻克技术难题。\n支持平台在密码学，区块链等技术在业务的推广和落地。\n任职资格：\n本科，工作 2 两年以上。\n\n\n掌握 Golang、C++ 中的一门编程语言。\n\n\n掌握扎实的计算基础知识，深入理解数据结构、算法和操作系统知识。\n\n\n掌握服务端开发的相关技术、最佳实践和工程化能力。\n\n\n优秀的沟通能力、责任心强，做事踏实、结果导向。\n\n\n了解容器、kubernetes 、密码学和区块链等相关技术优先。\n\n\n工作地点\n上海 \n简历投递\n简历投至：dumanxiang@qq.com\n标题请参照：\"gocn+ 姓名 + 职位\" 的格式编辑\n公司\n万向区块链\n以上都不是硬性指标，如果你技术好，我们这边有很多职位，有区块链底层链的，有密码学研究和实现的，区块应用的等等各个方向，欢迎大家来聊聊。",
+          "link": "https://gocn.vip/topics/12254",
+          "publishedOn": "2021-06-30T06:04:40.000Z",
+          "wordCount": 105,
+          "title": "Golang 工程师（20～50K 15 薪）- 上海"
+        },
+        {
           "id": "https://gocn.vip/topics/12253",
           "author": "TiDB_Robot",
           "description": "上篇文章中，我们介绍了 TiDB Operator 的组件生命周期管理的编排，以 TiDBCluster Controller 为例介绍 Controller Manager 的实现。TiDBCluster Controller 负责了 TiDB 主要组件的生命周期管理，TiDB 各个组件的 Member Manager 封装了对应具体的生命周期管理逻辑。在上篇文章中，我们描述了一个抽象的组件生命周期管理的实现，本文中，我们将以 PD 为例详细介绍组件生命周期管理的实现过程和相关代码，并且以 PD 的介绍为基础，介绍其他组件的部分差异。\nPD 的生命周期管理\nPD 生命周期管理的主要逻辑在 PD Member Manager 下维护，主要代码在 pkg/manager/member/pd_member_manager.go 文件中，扩缩容、升级、故障转移的逻辑分别封装在 PD Scaler、PD Upgrader、PD Failover 中，分别位于 pd_scaler.go、pd_upgrader.go、pd_failover.go 文件中。\n按照前文描述，组件的生命周期管理主要需要完成以下过程：\n同步 Service；\n\n\n进入 StatefulSet 同步过程；\n\n\n同步 Status；\n\n\n同步 ConfigMap；\n\n\n处理滚动更新；\n\n\n处理扩容与缩容；\n\n\n处理故障转移；\n\n\n最终完成 StatefulSet 同步过程。\n\n\n\n其中，同步 StatefulSet 过程为 PD 组件生命周期管理的主要逻辑，其他同步过程，诸如同步 Status、同步 ConfigMap、滚动更新、扩容与缩容、故障转移等任务，被分别定义为了一个个子函数，在同步 StatefulSet 的过程中被调用，这些子任务的实现会在介绍完 StatefulSet 的同步过程之后详细介绍。\n同步…",
@@ -4999,6 +5008,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/148335/github-copilot",
+          "author": null,
+          "description": "GitHub 推出了名为\"GitHub Copilot\"的工具，官网对其的描述是 \"Your AI pair programmer\"。直译过来即为 AI 结对编程助手。 GitHub Copilot 官网：https://copilot.github.com/ 根据官网的介绍，GitHub Copilot 不仅只是一个代码自动补全工具，其底层技术采用了由 OpenAI 打造的新 AI 系统 —— Codex，目前经过了数十亿...",
+          "link": "https://www.oschina.net/news/148335/github-copilot",
+          "publishedOn": "2021-06-30T05:11:12.000Z",
+          "wordCount": 499,
+          "title": "GitHub 推出 AI 编程工具，Stack Overflow：那我走？"
+        },
         {
           "id": "https://www.oschina.net/news/148328",
           "author": null,
