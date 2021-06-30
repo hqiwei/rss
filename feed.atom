@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T11:08:06.388Z</updated>
+    <updated>2021-06-30T12:14:15.801Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fedora Linux 中的 Python 3.10 测试版]]></title>
+        <id>http://www.linuxeden.com/?p=87050</id>
+        <link href="http://www.linuxeden.com/a/87050"/>
+        <updated>2021-06-30T12:09:15.000Z</updated>
+        <summary type="html"><![CDATA[Python 开发者已经发布了 Python 3.10.0 的三个测试版本。现在，你可以在 Fedora Linux 中试用最新的版本尽早用 3.10 测试你的 Python 代码，为 10 月份的 3.10.0 最终版本做好准备。 在 F […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 06 30]]></title>
+        <id>http://www.linuxeden.com/?p=87047</id>
+        <link href="http://www.linuxeden.com/a/87047"/>
+        <updated>2021-06-30T12:06:50.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 06 30]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深度操作系统20.2.2 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87045</id>
+        <link href="http://www.linuxeden.com/a/87045"/>
+        <updated>2021-06-30T11:31:07.000Z</updated>
+        <summary type="html"><![CDATA[深度操作系统（deepin）是一个致力于为全球用户提供美观易用、安全稳定服务的Linux发行版，同时也一直是排名最高的来自中国团队研发的Linux发行版。（了解deepin国际排名） 深度操作系统20.2.2，上线全新的应用商店，清新的视觉 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electron 12.0.13 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87043</id>
+        <link href="http://www.linuxeden.com/a/87043"/>
+        <updated>2021-06-30T11:18:26.000Z</updated>
+        <summary type="html"><![CDATA[Fixes Fixed a hang when denying a window.open using setWindowOpenHandler when nativeWindowOpen: false. #29881 (Also in 1 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deno 1.11.3 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87041</id>
+        <link href="http://www.linuxeden.com/a/87041"/>
+        <updated>2021-06-30T11:16:43.000Z</updated>
+        <summary type="html"><![CDATA[1.11.3 / 2021.06.29 fix(#10761): graph errors reported as diagnostics for Deno.emit() (#10767) fix(core): don’t pa […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redisson 3.16.0 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87039</id>
+        <link href="http://www.linuxeden.com/a/87039"/>
+        <updated>2021-06-30T11:12:26.000Z</updated>
+        <summary type="html"><![CDATA[Feature – GraalVM native-image support Feature – Spring Data Redis 2.5.x support Feature – Helidon CDI […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Aries Spifly 1.3.4发布]]></title>
+        <id>http://www.linuxeden.com/?p=87036</id>
+        <link href="http://www.linuxeden.com/a/87036"/>
+        <updated>2021-06-30T11:07:59.000Z</updated>
+        <summary type="html"><![CDATA[spifly-1.3.4-source-release.zip                                              2021-06-29 15:15  266K spifly-1.3.4-source- […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[同源华安加入 openEuler 社区，积极推进行业开源生态发展]]></title>
         <id>https://www.oschina.net/news/148374</id>
@@ -12349,76 +12419,6 @@ Go 规范的兼容实现版本可以存储堆上每次分配的内存。这会�
         <link href="https://www.oschina.net/news/143980/patch-attestation-patatt"/>
         <updated>2021-06-01T00:15:19.000Z</updated>
         <summary type="html"><![CDATA[Linux 内核开发者 Konstantin Ryabitsev 一直在研究 Patatt（Patch Attestation），一个基于密码的补丁认证系统，允许选择性地在补丁中加入端到端的加密证明。事实上，其关于该项目的研究工作早已进行了一段时间，但前不久所发生的明尼苏达大学事件，则促使 Konstantin Ryabitsev 进一步审视自己所做的补丁认证工作。 最...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seaweedfs 2.50 发布]]></title>
-        <id>http://www.linuxeden.com/?p=85971</id>
-        <link href="http://www.linuxeden.com/a/85971"/>
-        <updated>2021-06-01T00:13:48.000Z</updated>
-        <summary type="html"><![CDATA[Fuse Mount Add fuse subcommand to use weed with mount #2085 #2099 Filer Store Support sqlite as filer meta store Filer.b […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deno 1.10.3 发布]]></title>
-        <id>http://www.linuxeden.com/?p=85969</id>
-        <link href="http://www.linuxeden.com/a/85969"/>
-        <updated>2021-06-01T00:12:58.000Z</updated>
-        <summary type="html"><![CDATA[1.10.3 / 2021.05.31 feat(lsp): diagnostics for deno types and triple-slash refs (#10699) feat(lsp): provide X-Deno-Warni […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ant Design 4.16.1 发布]]></title>
-        <id>http://www.linuxeden.com/?p=85967</id>
-        <link href="http://www.linuxeden.com/a/85967"/>
-        <updated>2021-06-01T00:11:41.000Z</updated>
-        <summary type="html"><![CDATA[Menu Fix overflow not work as expect. #30672 Fix warning of Can't perform a React state update on an unmounted component […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ludwig —— TensorFlow 开源工具箱]]></title>
-        <id>https://www.oschina.net/p/ludwig</id>
-        <link href="https://www.oschina.net/p/ludwig"/>
-        <updated>2021-06-01T00:08:24.000Z</updated>
-        <summary type="html"><![CDATA[网约车服务商 Uber 开源并发布了它们开发的 Ludwig，这是一款基于 Google TensorFlow 框架上的开源工具箱。藉由 Ludwig，用户无需再编写任何代码即可进行深度学习的开发。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitee 推荐 | 开源分布式持续交付产品 Zadig]]></title>
-        <id>https://gitee.com/koderover/zadig</id>
-        <link href="https://gitee.com/koderover/zadig"/>
-        <updated>2021-06-01T00:03:03.000Z</updated>
-        <summary type="html"><![CDATA[Zadig 是一款面向开发者设计的云原生持续交付(Continuous Delivery)产品，具备高可用 CI/CD 能力，提供云原生运行环境，支持开发者本地联调、微服务并行构建和部署、集成测试等。Zadig 不改变现有流程，无缝集成 Github/Gitlab、Jenkins、多家云厂商等，运维成本极低。...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTAP 数据库如何实现？浅析 ZNBase 中的列存引擎]]></title>
-        <id>https://my.oschina.net/u/4487475/blog/5061781</id>
-        <link href="https://my.oschina.net/u/4487475/blog/5061781"/>
-        <updated>2021-06-01T00:01:14.000Z</updated>
-        <summary type="html"><![CDATA[TP 与 AP 融合的 HTAP 数据库正成为业内的发展趋势。但由于大规模数据场景下 TP 与 AP 系统本身的复杂性，要在一套数据库系统中融合两种使用场景的功能并不容易。浪潮推出的 HTAP 数据库 ZNBase 采用多模存储引擎的方案实现 HTAP 特性，在 OLTP 的基础上引入列存引擎支撑 OLAP 场景。本文将着重介绍列存引擎技术在 HTAP...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OceanBase 社区版发布，企业级开源分布式数据库]]></title>
-        <id>https://www.oschina.net/news/143976/oceanbase-open-source</id>
-        <link href="https://www.oschina.net/news/143976/oceanbase-open-source"/>
-        <updated>2021-06-01T00:00:45.000Z</updated>
-        <summary type="html"><![CDATA[蚂蚁集团自研数据库 OceanBase 现已开源，采用 MulanPubL - 2.0 许可证。OceanBase 数据库是一个原生的分布式关系数据库，完全由阿里巴巴和蚂蚁集团自主研发。 OceanBase 社区版是一款开源分布式 HTAP（Hybrid Transactional/Analytical Processing）数据库管理系统，具有原生分布式架构，支持金融级高可用、透明水平扩展...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>

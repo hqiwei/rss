@@ -1872,6 +1872,69 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=87050",
+          "author": "Editor, Kai",
+          "description": "Python 开发者已经发布了 Python 3.10.0 的三个测试版本。现在，你可以在 Fedora Linux 中试用最新的版本尽早用 3.10 测试你的 Python 代码，为 10 月份的 3.10.0 最终版本做好准备。 在 F […]",
+          "link": "http://www.linuxeden.com/a/87050",
+          "publishedOn": "2021-06-30T12:09:15.000Z",
+          "wordCount": 358,
+          "title": "Fedora Linux 中的 Python 3.10 测试版"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87047",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 06 30",
+          "link": "http://www.linuxeden.com/a/87047",
+          "publishedOn": "2021-06-30T12:06:50.000Z",
+          "wordCount": 86,
+          "title": "开源美图 2021 06 30"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87045",
+          "author": "Editor, Kai",
+          "description": "深度操作系统（deepin）是一个致力于为全球用户提供美观易用、安全稳定服务的Linux发行版，同时也一直是排名最高的来自中国团队研发的Linux发行版。（了解deepin国际排名） 深度操作系统20.2.2，上线全新的应用商店，清新的视觉 […]",
+          "link": "http://www.linuxeden.com/a/87045",
+          "publishedOn": "2021-06-30T11:31:07.000Z",
+          "wordCount": 235,
+          "title": "深度操作系统20.2.2 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87043",
+          "author": "Editor, Kai",
+          "description": "Fixes Fixed a hang when denying a window.open using setWindowOpenHandler when nativeWindowOpen: false. #29881 (Also in 1 […]",
+          "link": "http://www.linuxeden.com/a/87043",
+          "publishedOn": "2021-06-30T11:18:26.000Z",
+          "wordCount": 392,
+          "title": "Electron 12.0.13 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87041",
+          "author": "Editor, Kai",
+          "description": "1.11.3 / 2021.06.29 fix(#10761): graph errors reported as diagnostics for Deno.emit() (#10767) fix(core): don’t pa […]",
+          "link": "http://www.linuxeden.com/a/87041",
+          "publishedOn": "2021-06-30T11:16:43.000Z",
+          "wordCount": 257,
+          "title": "Deno 1.11.3 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87039",
+          "author": "Editor, Kai",
+          "description": "Feature – GraalVM native-image support Feature – Spring Data Redis 2.5.x support Feature – Helidon CDI […]",
+          "link": "http://www.linuxeden.com/a/87039",
+          "publishedOn": "2021-06-30T11:12:26.000Z",
+          "wordCount": 237,
+          "title": "Redisson 3.16.0 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87036",
+          "author": "Editor, Kai",
+          "description": "spifly-1.3.4-source-release.zip                                              2021-06-29 15:15  266K spifly-1.3.4-source- […]",
+          "link": "http://www.linuxeden.com/a/87036",
+          "publishedOn": "2021-06-30T11:07:59.000Z",
+          "wordCount": 108,
+          "title": "Apache Aries Spifly 1.3.4发布"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=87034",
           "author": "Editor, Kai",
           "description": "Linux 5.14删除了其遗留的IDE代码 Apache Camel 3.11.0 发布 首发GAA晶体管技术 三星3nm工艺成功流片 为什么我们要开源我们的 Python 平台 在 Linux 上用 dust 代替 du 深度中国社区大 […]",
@@ -4606,33 +4669,6 @@
           "publishedOn": "2021-06-01T00:15:22.000Z",
           "wordCount": 268,
           "title": "DBeaver 21.1 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85971",
-          "author": "Editor, Kai",
-          "description": "Fuse Mount Add fuse subcommand to use weed with mount #2085 #2099 Filer Store Support sqlite as filer meta store Filer.b […]",
-          "link": "http://www.linuxeden.com/a/85971",
-          "publishedOn": "2021-06-01T00:13:48.000Z",
-          "wordCount": 222,
-          "title": "Seaweedfs 2.50 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85969",
-          "author": "Editor, Kai",
-          "description": "1.10.3 / 2021.05.31 feat(lsp): diagnostics for deno types and triple-slash refs (#10699) feat(lsp): provide X-Deno-Warni […]",
-          "link": "http://www.linuxeden.com/a/85969",
-          "publishedOn": "2021-06-01T00:12:58.000Z",
-          "wordCount": 411,
-          "title": "Deno 1.10.3 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85967",
-          "author": "Editor, Kai",
-          "description": "Menu Fix overflow not work as expect. #30672 Fix warning of Can't perform a React state update on an unmounted component […]",
-          "link": "http://www.linuxeden.com/a/85967",
-          "publishedOn": "2021-06-01T00:11:41.000Z",
-          "wordCount": 246,
-          "title": "Ant Design 4.16.1 发布"
         }
       ]
     },
@@ -8148,42 +8184,6 @@
           "publishedOn": "2021-06-01T00:15:19.000Z",
           "wordCount": 525,
           "title": "明尼苏达大学事件后，Linux 内核开发者考虑为补丁提供加密证明"
-        },
-        {
-          "id": "https://www.oschina.net/p/ludwig",
-          "author": null,
-          "description": "网约车服务商 Uber 开源并发布了它们开发的 Ludwig，这是一款基于 Google TensorFlow 框架上的开源工具箱。藉由 Ludwig，用户无需再编写任何代码即可进行深度学习的开发。",
-          "link": "https://www.oschina.net/p/ludwig",
-          "publishedOn": "2021-06-01T00:08:24.000Z",
-          "wordCount": 704,
-          "title": "Ludwig —— TensorFlow 开源工具箱"
-        },
-        {
-          "id": "https://gitee.com/koderover/zadig",
-          "author": null,
-          "description": "Zadig 是一款面向开发者设计的云原生持续交付(Continuous Delivery)产品，具备高可用 CI/CD 能力，提供云原生运行环境，支持开发者本地联调、微服务并行构建和部署、集成测试等。Zadig 不改变现有流程，无缝集成 Github/Gitlab、Jenkins、多家云厂商等，运维成本极低。...",
-          "link": "https://gitee.com/koderover/zadig",
-          "publishedOn": "2021-06-01T00:03:03.000Z",
-          "wordCount": 440,
-          "title": "Gitee 推荐 | 开源分布式持续交付产品 Zadig"
-        },
-        {
-          "id": "https://my.oschina.net/u/4487475/blog/5061781",
-          "author": null,
-          "description": "TP 与 AP 融合的 HTAP 数据库正成为业内的发展趋势。但由于大规模数据场景下 TP 与 AP 系统本身的复杂性，要在一套数据库系统中融合两种使用场景的功能并不容易。浪潮推出的 HTAP 数据库 ZNBase 采用多模存储引擎的方案实现 HTAP 特性，在 OLTP 的基础上引入列存引擎支撑 OLAP 场景。本文将着重介绍列存引擎技术在 HTAP...",
-          "link": "https://my.oschina.net/u/4487475/blog/5061781",
-          "publishedOn": "2021-06-01T00:01:14.000Z",
-          "wordCount": 411,
-          "title": "HTAP 数据库如何实现？浅析 ZNBase 中的列存引擎"
-        },
-        {
-          "id": "https://www.oschina.net/news/143976/oceanbase-open-source",
-          "author": null,
-          "description": "蚂蚁集团自研数据库 OceanBase 现已开源，采用 MulanPubL - 2.0 许可证。OceanBase 数据库是一个原生的分布式关系数据库，完全由阿里巴巴和蚂蚁集团自主研发。 OceanBase 社区版是一款开源分布式 HTAP（Hybrid Transactional/Analytical Processing）数据库管理系统，具有原生分布式架构，支持金融级高可用、透明水平扩展...",
-          "link": "https://www.oschina.net/news/143976/oceanbase-open-source",
-          "publishedOn": "2021-06-01T00:00:45.000Z",
-          "wordCount": 509,
-          "title": "OceanBase 社区版发布，企业级开源分布式数据库"
         }
       ]
     },
