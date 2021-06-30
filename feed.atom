@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T15:10:45.325Z</updated>
+    <updated>2021-06-30T16:13:55.442Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12361,26 +12361,6 @@ Go 微服务全链路跟踪详解 https://mp.weixin.qq.com/s/C6OtNYtskdPpfw-HsP7
         <summary type="html"><![CDATA[When you're debating someone, you want to use all the resources at your disposal to convince them you're right. But you should be careful that you don't end up using a logical fallacy to help you make your point. What is a Logical Fallacy?A logical fallacy is an error]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go 高性能系列教程之三：编译器优化]]></title>
-        <id>https://gocn.vip/topics/12144</id>
-        <link href="https://gocn.vip/topics/12144"/>
-        <updated>2021-06-01T03:49:27.000Z</updated>
-        <summary type="html"><![CDATA[这部分主要集中在 Go 编译器优化方面。其中逃逸分析和内联优化是在编译器的前端处理的，这时代码仍然处于抽象语法树的形式。然后代码被传给 SSA（static single assignment form）编译器继续优化，会经过死代码消除、边界检查消除、Nil 检查消除。
-3.1 Go 编译器的历史
-大约在 2007 年，Go 编译器开始是作为 Plan9 编译器工具链的一个分支。当时的编译器和 Aho 和 UIIman 的 Dragon Book 极为相似。
-在 2015 年，Go 1.5 的编译器在技术上从 C 转换到了 Go 语言。
-一年以后，Go 1.7 介绍了基于 SSA 技术的新的编译器后端实现，替换了之前的 Plan9 风格的代码生成器。这个新的后端实现介绍了为通用以及特定架构的优化提供了可能。
-3.2 逃逸分析
-我们首先要介绍的优化技术是逃逸分析。
-为了演示逃逸分析所做的事情，我们回想下 Go 规范没有提到的堆或栈。在引言中只涉及到了 Go 语言是基于垃圾回收的，但并没有提及是怎么实现的。
-Go 规范的兼容实现版本可以存储堆上每次分配的内存。这会给垃圾收集器带来很大的压力，但这不是错误的实现方式。这几年来，gccgo对逃逸分析的支持非常有限，因此可以认为在这种模式下运行是有效的 (for several years, gccgo had very limited support for escape analysis so could effectively be considered to be operating in this mode)。
-然而，goroutine 的栈用来存储局部变量是一个非常简单有效的地方；因为在函数返回时会自动对栈的信息进行收集，所以无需在栈上进行垃圾回收。因此，在安全的情况下，更有效的内存分配方式是在栈上进行分配。
-在一些像 C…]]></summary>
-        <author>
-            <name>yudotyang</name>
         </author>
     </entry>
 </feed>
