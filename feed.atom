@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T03:10:29.219Z</updated>
+    <updated>2021-06-30T04:11:43.167Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apache DolphinScheduler 社区呼唤志愿者]]></title>
+        <id>https://www.oschina.net/news/148328</id>
+        <link href="https://www.oschina.net/news/148328"/>
+        <updated>2021-06-30T03:46:45.000Z</updated>
+        <summary type="html"><![CDATA[DolphinScheduler是什么？ Apache DolphinScheduler 是一个分布式、易扩展并带有强大的可视化界面的大数据工作流调度系统。 2021 年 03 月 18 日正式成为 Apache 顶级项目，是首个由国人主导并贡献到 Apache 基金会的大数据工作流领域的顶级项目。 DolphinScheduler 致力于在数据工作流编排中 “解决复杂的大数据任务依赖...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TiDB Operator 源码阅读 (四) 组件的控制循环]]></title>
+        <id>https://gocn.vip/topics/12253</id>
+        <link href="https://gocn.vip/topics/12253"/>
+        <updated>2021-06-30T03:23:25.000Z</updated>
+        <summary type="html"><![CDATA[上篇文章中，我们介绍了 TiDB Operator 的组件生命周期管理的编排，以 TiDBCluster Controller 为例介绍 Controller Manager 的实现。TiDBCluster Controller 负责了 TiDB 主要组件的生命周期管理，TiDB 各个组件的 Member Manager 封装了对应具体的生命周期管理逻辑。在上篇文章中，我们描述了一个抽象的组件生命周期管理的实现，本文中，我们将以 PD 为例详细介绍组件生命周期管理的实现过程和相关代码，并且以 PD 的介绍为基础，介绍其他组件的部分差异。
+PD 的生命周期管理
+PD 生命周期管理的主要逻辑在 PD Member Manager 下维护，主要代码在 pkg/manager/member/pd_member_manager.go 文件中，扩缩容、升级、故障转移的逻辑分别封装在 PD Scaler、PD Upgrader、PD Failover 中，分别位于 pd_scaler.go、pd_upgrader.go、pd_failover.go 文件中。
+按照前文描述，组件的生命周期管理主要需要完成以下过程：
+同步 Service；
+
+
+进入 StatefulSet 同步过程；
+
+
+同步 Status；
+
+
+同步 ConfigMap；
+
+
+处理滚动更新；
+
+
+处理扩容与缩容；
+
+
+处理故障转移；
+
+
+最终完成 StatefulSet 同步过程。
+
+
+
+其中，同步 StatefulSet 过程为 PD 组件生命周期管理的主要逻辑，其他同步过程，诸如同步 Status、同步 ConfigMap、滚动更新、扩容与缩容、故障转移等任务，被分别定义为了一个个子函数，在同步 StatefulSet 的过程中被调用，这些子任务的实现会在介绍完 StatefulSet 的同步过程之后详细介绍。
+同步…]]></summary>
+        <author>
+            <name>TiDB_Robot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【里程碑】Linkis 1.0.0 正式发布]]></title>
         <id>https://www.oschina.net/news/148309/linkis-1-0-0-released</id>
