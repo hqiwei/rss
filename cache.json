@@ -875,6 +875,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12252",
+          "author": "cczsunnyman",
+          "description": "内存屏障  https://github.com/cch123/golang-notes/blob/master/memory_barrier.md\n\n深入 Go Module 之讨厌的 v2  https://colobu.com/2021/06/28/dive-into-go-module-2/\n\nGo 每日一库之 resty  https://segmentfault.com/a/1190000040247099?utm_source=tag-newest\n\n哈啰在分布式消息治理和微服务治理中的实践  https://gocn.vip/topics/12235\n\nGo 初始化流程分析  https://juejin.cn/post/6969230952685895694\n\n\n\n\n编辑: czzsunnyman\n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12252",
+          "publishedOn": "2021-06-30T02:02:24.000Z",
+          "wordCount": 94,
+          "title": "GoCN 每日新闻 (2021-06-29)"
+        },
+        {
           "id": "https://gocn.vip/topics/12251",
           "author": "cuua",
           "description": "本文基于 Go 1.13。这里讨论的关于内存管理的概念在我的文章Go:内存管理和分配 中有解释\nGo 垃圾回收器负责回收不再使用的内存。实现的算法是一个并行的三色标记扫描采集器。在本文中，我们将详细了解标记阶段，以及不同颜色的用法。\n您可以在 kenfox 的可视化垃圾回收算法 中找到关于不同类型垃圾回收器的更多信息。\n标记阶段\n此阶段执行内存扫描，以了解代码仍在使用哪些块，以及应该回收哪些块。\n但是，由于垃圾回收器可以与我们的 Go 程序同时运行，因此它需要一种在扫描时检测内存中潜在变化的方法。为了解决这个潜在的问题，实现了一个写屏障算法，允许 Go 跟踪任何指针的变化。启用写屏障的唯一条件是短时间停止程序，也称为 “STW”：\n\n在进程开始时，Go 还会为每个处理器启动一个标记辅助进程，以帮助标记内存。\n然后，一旦根节点被排队等待处理，标记阶段就可以开始遍历内存并为其着色。\n现在让我们以一个简单的程序为例，该程序允许我们遵循标记阶段所做的步骤\nType struct1 struct {\n    a, b int64\n    c, d float64\n    e *struct2\n}\n\ntype struct2 struct {\n    f, g int64\n    h, i float64\n}\n\nfunc main() {\n    s1 := allocStruct1()\n    s2 := allocStruct2()\n\n    func () {\n        _ = allocStruct2()\n    }()\n\n    runtime.GC()\n\n    fmt.Printf(\"s1 = %X, s2 = %X\\n\", &s1, &s2)\n}\n\n//go:noinline\nfunc allocStruct1() *struct1 {\n    return &struct1{\n        e: allocStruct2(),\n    }\n}\n\n//go:noinline\nfunc allocStruct2() *struct2 {\n    return &struct2{}\n}\n\n由于 struct subStruct 不包含任何指针，因此它存储在一个专用于对象的范围中，而不引用其他对象：\n\n这使得垃圾回收器的工作更容易，因为它在标记内存时不必扫描这个范围。\n一旦分配完成，我们的程序就会强制垃圾回收器运行一个周期。以下是工作流程：\n\n垃圾回收器从堆栈开始标记，然后跟着指针递归遍历内存。直到对象都被标记时停止扫描。然而，这个过程不是在同一个 goroutine 中完成的\n完成的；每个指针都在工作池中排队。然后 ，后台的标记线程发现之前的出列队列是来自该工作池，扫描对象，然后将在其中找到的指针加入队列：\n\n着色!\n后台线程现在需要一种方法来跟踪哪些内存有没有被扫描。垃圾回收器使用三色算法，其工作原理如下：\n所有对象一开始都被认为是白色的\n\n\n根对象（堆栈、堆、全局变量）将以灰色显示\n\n\n\n完成此主要步骤后，垃圾回收器将：\n选择一个灰色的对象，把它涂成黑色\n\n\n遵循此对象的所有指针并将所有引用的对象涂成灰色\n\n\n\n然后，它将重复这两个步骤，直到没有更多的对象要着色。从这一点来看，对象不是黑色就是白色。白色集合表示未被任何其他对象引用且准备好回收的对象。\n下面是使用上一个示例对其进行的表示：\n\n作为第一种状态，所有对象都被视为白色。然后，对象被遍历，可到达的对象将变为灰色。如果对象位于标记为 “无扫描” 的范围内，则可以将其绘制为黑色，因为不需要对其进行扫描：\n\n灰色对象现在入队等待扫描并变黑：\n\n在没有更多的对象要处理之前，入队的对象也会发生同样的情况：\n\n在进程结束时，黑色对象是内存中正在使用的对象，而白色对象是要回收的对象。如我们所见，由于 struct2 的实例是在匿名函数中创建的，并且无法从堆栈访问，因此它保持为白色，可以清除。\n由于每个跨度中有一个名为 gcmarkBits 的位图属性，颜色在内部实现，该属性跟踪扫描，并将相应的位设置为 1：\n\n正如我们所见，黑色和灰色的工作原理是一样的。这一过程的不同之处在于，当黑色对象结束扫描链时，灰色对象排队等待扫描。\n垃圾回收器最终会 stops the world，将每个写屏障上所做的更改刷新到工作池，并执行剩余的标记。\n您可以在我的文章Go:垃圾回收器如何监视您的应用程序 中找到有关并发进程和垃圾回收器中标记阶段的更多详细信息\n运行时分析器\nGo 提供的工具允许我们可视化所有这些步骤，并在程序中查看垃圾回收器的影响。在启用跟踪的情况下运行我们的代码提供了前面步骤的一个大图。以下是 traces：\n\n标记线程的生命周期也可以在 goroutine 级别的 tracer 中可视化。下面是 goroutine#33 的示例，它在开始标记内存之前先在后台等待。",
@@ -1836,15 +1845,6 @@
           "publishedOn": "2021-06-01T03:49:27.000Z",
           "wordCount": 2407,
           "title": "Go 高性能系列教程之三：编译器优化"
-        },
-        {
-          "id": "https://gocn.vip/topics/12143",
-          "author": "gocloudcoder",
-          "description": "Go 正则表达式库之 commonregex\n为什么使用 commonregex?\n在开发的时候，我们会遇到一些需要使用字符串的匹配和查找的任务。我们可以使用正则表达式去提取感兴趣的数据，如手机号码，邮件，超链接等。但是正则表达式写起来费时费力，而且容易遗忘。commonregex 它提供了很多内置的正则表达式，开箱即用，能极大的提高开发体验和开发效率。\ncommonregex 简介\n提供经常使用的正则表达式的集合。\n它提供了这些作为获取与特定模式对应的匹配字符串的简单函数。\n日期\n时间\n电话号码\n超链接\n邮件地址\nIPv4/IPv6/IP 地址\n价格\n十六进制颜色值\n信用卡卡号\n10/13 位 ISBN\n邮政编码\nMD5\nSHA1\nSHA256\nGUID，全局唯一标识\nGit 仓库地址\n快速使用 commonregex\n安装 commonregex\ngo get -u github.com/mingrammer/commonregex\n\n简单使用 commonregex\npackage main\n\nimport (\n  \"fmt\"\n\n  cregex \"github.com/mingrammer/commonregex\"\n)\n\nfunc main() {\n  text := `John, please get that article on www.linkedin.com to me by 5:00PM on Jan 9th 2012. 4:00 would be ideal, actually. If you have any questions, You can reach me at (519)-236-2723x341 or get in touch with my associate at harold.smith@gmail.com`\n\n  dateList := cregex.Date(text)\n  timeList := cregex.Time(text)\n  linkList := cregex.Links(text)\n  phoneList := cregex.PhonesWithExts(text)\n  emailList := cregex.Emails(text)\n\n  fmt.Println(\"date list:\", dateList)\n  fmt.Println(\"time list:\", timeList)\n  fmt.Println(\"link list:\", linkList)\n  fmt.Println(\"phone list:\", phoneList)\n  fmt.Println(\"email list:\", emailList)\n}\n\ncommonregex提供的 API 非常易于使用，调用相应的类别方法返回一段文本中符合这些格式的字符串列表。\n上面依次从text获取日期列表，时间列表，超链接列表，电话号码列表和电子邮件列表。\n总结\ncommonregex 提供了常用的正则表达式的函数，足以应付我们日常开发场景，能较大的提高我们的开发效率。\n参考资料\nhttps://github.com/mingrammer/commonregex\nhttps://darjun.github.io/2020/09/05/godailylib/commonregex/",
-          "link": "https://gocn.vip/topics/12143",
-          "publishedOn": "2021-05-31T14:03:07.000Z",
-          "wordCount": 207,
-          "title": "Go 正则表达式库之 commonregex"
         }
       ]
     },
@@ -4642,15 +4642,6 @@
           "publishedOn": "2021-05-31T15:02:30.000Z",
           "wordCount": 99,
           "title": "WordPress迎来18岁生日 已搭建全球超过40%网站"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85954",
-          "author": "Editor, Kai",
-          "description": "最近几个月，已经有很多Linux内核补丁用于提升Alder Lake S和Alder Lake P的支持度和性能表现，而最近开始，英特尔的开发人员已经在为Alder Lake M低功耗移动设备提供支持补丁。对Alder Lake M的Lin […]",
-          "link": "http://www.linuxeden.com/a/85954",
-          "publishedOn": "2021-05-31T14:19:17.000Z",
-          "wordCount": 121,
-          "title": "Linux 5.14 开始为Alder Lake M低功耗移动设备提供支持"
         }
       ]
     },
@@ -4659,6 +4650,15 @@
       "feedUrl": "http://feed.appinn.com",
       "siteUrl": "https://www.appinn.com",
       "articles": [
+        {
+          "id": "https://www.appinn.com/?p=39170",
+          "author": "青小蛙",
+          "description": "DiskStation Manager 7.0（DSM 7.0） 是一款被用户期待了许久的 NAS 操作系统，昨日（2021-06-29）正式发布了 DSM 7.0 版本，版本号为 Version:",
+          "link": "https://www.appinn.com/diskstation-manager-7-0/",
+          "publishedOn": "2021-06-30T02:18:15.000Z",
+          "wordCount": 1341,
+          "title": "群晖 NAS 操作系统 DiskStation Manager 7.0（DSM 7.0）正式发布"
+        },
         {
           "id": "https://www.appinn.com/?p=39162",
           "author": "青小蛙",
@@ -8173,6 +8173,15 @@
           "publishedOn": "2021-06-29T16:25:28.000Z",
           "wordCount": 600,
           "title": "开源免费的 Windows 实用程序 PowerToys 0.41.3 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=1522",
+          "author": "大眼仔~旭",
+          "description": "在过去两年半的时间里，互联网已经发展并扩展到从其卑微的开始几乎无法辨认的东西。 试图了解互联网是什么以及它是如 […]",
+          "link": "http://www.dayanzai.me/who-owns-the-internet.html",
+          "publishedOn": "2021-06-29T16:18:47.000Z",
+          "wordCount": 558,
+          "title": "谁拥有互联网？"
         },
         {
           "id": "http://www.dayanzai.me/?p=2410",

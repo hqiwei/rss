@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T01:57:01.091Z</updated>
+    <updated>2021-06-30T02:28:52.007Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[群晖 NAS 操作系统 DiskStation Manager 7.0（DSM 7.0）正式发布]]></title>
+        <id>https://www.appinn.com/?p=39170</id>
+        <link href="https://www.appinn.com/diskstation-manager-7-0/"/>
+        <updated>2021-06-30T02:18:15.000Z</updated>
+        <summary type="html"><![CDATA[DiskStation Manager 7.0（DSM 7.0） 是一款被用户期待了许久的 NAS 操作系统，昨日（2021-06-29）正式发布了 DSM 7.0 版本，版本号为 Version:]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-29)]]></title>
+        <id>https://gocn.vip/topics/12252</id>
+        <link href="https://gocn.vip/topics/12252"/>
+        <updated>2021-06-30T02:02:24.000Z</updated>
+        <summary type="html"><![CDATA[内存屏障  https://github.com/cch123/golang-notes/blob/master/memory_barrier.md
+
+深入 Go Module 之讨厌的 v2  https://colobu.com/2021/06/28/dive-into-go-module-2/
+
+Go 每日一库之 resty  https://segmentfault.com/a/1190000040247099?utm_source=tag-newest
+
+哈啰在分布式消息治理和微服务治理中的实践  https://gocn.vip/topics/12235
+
+Go 初始化流程分析  https://juejin.cn/post/6969230952685895694
+
+
+
+
+编辑: czzsunnyman
+订阅新闻: http://tinyletter.com/gocn
+
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>cczsunnyman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub 漏洞悬赏：支付赏金已超过 150 万美元]]></title>
         <id>https://www.oschina.net/news/148291/github-bug-bounties-payouts-past-1-5-million</id>
@@ -142,6 +178,16 @@
         <link href="http://www.dayanzai.me/powertoys.html"/>
         <updated>2021-06-29T16:25:28.000Z</updated>
         <summary type="html"><![CDATA[开源免费的 Windows 实用程序 PowerToys 中文版由大眼仔旭（www.dayanzai.me）发 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁拥有互联网？]]></title>
+        <id>http://www.dayanzai.me/?p=1522</id>
+        <link href="http://www.dayanzai.me/who-owns-the-internet.html"/>
+        <updated>2021-06-29T16:18:47.000Z</updated>
+        <summary type="html"><![CDATA[在过去两年半的时间里，互联网已经发展并扩展到从其卑微的开始几乎无法辨认的东西。 试图了解互联网是什么以及它是如 […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
         </author>
@@ -12325,83 +12371,6 @@ Go 规范的兼容实现版本可以存储堆上每次分配的内存。这会�
         <summary type="html"><![CDATA[日前 WordPress 官方博客发布博文，庆祝该软件迎来 18 岁生日。18 年前的 5 月 27 日，一篇名为《WordPress Now Available》的博文开启了博客圈历史上一个激动人心的时代，WordPress 作为被抛弃的 […]]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.14 开始为Alder Lake M低功耗移动设备提供支持]]></title>
-        <id>http://www.linuxeden.com/?p=85954</id>
-        <link href="http://www.linuxeden.com/a/85954"/>
-        <updated>2021-05-31T14:19:17.000Z</updated>
-        <summary type="html"><![CDATA[最近几个月，已经有很多Linux内核补丁用于提升Alder Lake S和Alder Lake P的支持度和性能表现，而最近开始，英特尔的开发人员已经在为Alder Lake M低功耗移动设备提供支持补丁。对Alder Lake M的Lin […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go 正则表达式库之 commonregex]]></title>
-        <id>https://gocn.vip/topics/12143</id>
-        <link href="https://gocn.vip/topics/12143"/>
-        <updated>2021-05-31T14:03:07.000Z</updated>
-        <summary type="html"><![CDATA[Go 正则表达式库之 commonregex
-为什么使用 commonregex?
-在开发的时候，我们会遇到一些需要使用字符串的匹配和查找的任务。我们可以使用正则表达式去提取感兴趣的数据，如手机号码，邮件，超链接等。但是正则表达式写起来费时费力，而且容易遗忘。commonregex 它提供了很多内置的正则表达式，开箱即用，能极大的提高开发体验和开发效率。
-commonregex 简介
-提供经常使用的正则表达式的集合。
-它提供了这些作为获取与特定模式对应的匹配字符串的简单函数。
-日期
-时间
-电话号码
-超链接
-邮件地址
-IPv4/IPv6/IP 地址
-价格
-十六进制颜色值
-信用卡卡号
-10/13 位 ISBN
-邮政编码
-MD5
-SHA1
-SHA256
-GUID，全局唯一标识
-Git 仓库地址
-快速使用 commonregex
-安装 commonregex
-go get -u github.com/mingrammer/commonregex
-
-简单使用 commonregex
-package main
-
-import (
-  "fmt"
-
-  cregex "github.com/mingrammer/commonregex"
-)
-
-func main() {
-  text := `John, please get that article on www.linkedin.com to me by 5:00PM on Jan 9th 2012. 4:00 would be ideal, actually. If you have any questions, You can reach me at (519)-236-2723x341 or get in touch with my associate at harold.smith@gmail.com`
-
-  dateList := cregex.Date(text)
-  timeList := cregex.Time(text)
-  linkList := cregex.Links(text)
-  phoneList := cregex.PhonesWithExts(text)
-  emailList := cregex.Emails(text)
-
-  fmt.Println("date list:", dateList)
-  fmt.Println("time list:", timeList)
-  fmt.Println("link list:", linkList)
-  fmt.Println("phone list:", phoneList)
-  fmt.Println("email list:", emailList)
-}
-
-commonregex提供的 API 非常易于使用，调用相应的类别方法返回一段文本中符合这些格式的字符串列表。
-上面依次从text获取日期列表，时间列表，超链接列表，电话号码列表和电子邮件列表。
-总结
-commonregex 提供了常用的正则表达式的函数，足以应付我们日常开发场景，能较大的提高我们的开发效率。
-参考资料
-https://github.com/mingrammer/commonregex
-https://darjun.github.io/2020/09/05/godailylib/commonregex/]]></summary>
-        <author>
-            <name>gocloudcoder</name>
         </author>
     </entry>
 </feed>
