@@ -5018,6 +5018,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/148374",
+          "author": null,
+          "description": "近日，致力于行业市场深入服务的基础软件提供商，北京同源华安软件科技有限公司（以下简称“同源华安”）签署 CLA（Contributor License Agreement 贡献者许可协议），正式加入 openEuler 社区。 同源华安在加入社区后，将会和社区一起在虚拟化方向探索新的技术方向，目前同源华安的工程师已经加入 oVirt SIG，担任 Main...",
+          "link": "https://www.oschina.net/news/148374",
+          "publishedOn": "2021-06-30T10:00:15.000Z",
+          "wordCount": 478,
+          "title": "同源华安加入 openEuler 社区，积极推进行业开源生态发展"
+        },
+        {
           "id": "https://www.oschina.net/news/148335/github-copilot",
           "author": null,
           "description": "GitHub 推出了名为\"GitHub Copilot\"的工具，官网对其的描述是 \"Your AI pair programmer\"。直译过来即为 AI 结对编程助手。 GitHub Copilot 官网：https://copilot.github.com/ 根据官网的介绍，GitHub Copilot 不仅只是一个代码自动补全工具，其底层技术采用了由 OpenAI 打造的新 AI 系统 —— Codex，目前经过了数十亿...",

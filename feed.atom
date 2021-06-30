@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T09:10:41.954Z</updated>
+    <updated>2021-06-30T10:10:29.303Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[同源华安加入 openEuler 社区，积极推进行业开源生态发展]]></title>
+        <id>https://www.oschina.net/news/148374</id>
+        <link href="https://www.oschina.net/news/148374"/>
+        <updated>2021-06-30T10:00:15.000Z</updated>
+        <summary type="html"><![CDATA[近日，致力于行业市场深入服务的基础软件提供商，北京同源华安软件科技有限公司（以下简称“同源华安”）签署 CLA（Contributor License Agreement 贡献者许可协议），正式加入 openEuler 社区。 同源华安在加入社区后，将会和社区一起在虚拟化方向探索新的技术方向，目前同源华安的工程师已经加入 oVirt SIG，担任 Main...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[31 张 4K 分辨率 Windows 11 默认壁纸下载]]></title>
         <id>https://www.appinn.com/?p=39176</id>
