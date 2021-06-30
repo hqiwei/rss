@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T00:34:40.220Z</updated>
+    <updated>2021-06-30T01:57:01.091Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub 漏洞悬赏：支付赏金已超过 150 万美元]]></title>
+        <id>https://www.oschina.net/news/148291/github-bug-bounties-payouts-past-1-5-million</id>
+        <link href="https://www.oschina.net/news/148291/github-bug-bounties-payouts-past-1-5-million"/>
+        <updated>2021-06-30T00:37:31.000Z</updated>
+        <summary type="html"><![CDATA[在过去的一年里，GitHub 已经为参与 GitHub 漏洞悬赏计划（bug bounty program）的研究人员发放了超过 50 万美元的奖励，使得 GitHub 支付的总金额超过了 150 万美元。这家微软旗下的代码托管平台所推出的安全漏洞悬赏计划至今已经运作了七年时间。 以往，研究人员想要私下披露漏洞有时很困难，许多公司没有专门的联系人...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DigitalOcean 与 MongoDB 合作，推出全新的 DBaaS 产品]]></title>
+        <id>https://www.oschina.net/news/148290/digitalocean-aligns-with-mongodb-for-managed-database-service</id>
+        <link href="https://www.oschina.net/news/148290/digitalocean-aligns-with-mongodb-for-managed-database-service"/>
+        <updated>2021-06-30T00:30:32.000Z</updated>
+        <summary type="html"><![CDATA[DigitalOcean 今天宣布将与 MongoDB 展开合作，推出 DigitalOcean Managed MongoDB，这是一个全新的管理型数据库即服务（DBaaS）产品。它将主要提供给应用程序开发人员和中小型企业。 管理型 MongoDB 可以帮助开发人员在 DigitalOcean 上轻松创建 MongoDB 集群。它还通过无缝管理、扩展和保护集群来简化数据库管理，从而...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Docker stack 很好用，为什么 K8S 流行起来了？]]></title>
         <id>https://www.oschina.net/question/2652412_2322855</id>
@@ -104,6 +124,46 @@
         <summary type="html"><![CDATA[Why do we need the timedelta object?When you're working with dates and times in Python, you'll often use the datetime module.  In this post, we'll see how we can use the timedelta object in the datetime module. It denotes a span of time and can help when we need]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解除时间限制小工具 AdvancedRun 1.24 + x64 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=1507</id>
+        <link href="http://www.dayanzai.me/advancedrun.html"/>
+        <updated>2021-06-29T16:34:51.000Z</updated>
+        <summary type="html"><![CDATA[解除时间限制小工具 AdvancedRun 中文版由大眼仔旭（www.dayanzai.me）汉化发布。Adv […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源免费的 Windows 实用程序 PowerToys 0.41.3 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=4229</id>
+        <link href="http://www.dayanzai.me/powertoys.html"/>
+        <updated>2021-06-29T16:25:28.000Z</updated>
+        <summary type="html"><![CDATA[开源免费的 Windows 实用程序 PowerToys 中文版由大眼仔旭（www.dayanzai.me）发 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源检测 Win11 硬件需求工具 WhyNotWin11 2.3.0.1 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=2410</id>
+        <link href="http://www.dayanzai.me/whynotwin11.html"/>
+        <updated>2021-06-29T16:17:59.000Z</updated>
+        <summary type="html"><![CDATA[开源检测 Win11 硬件需求工具 WhyNotWin11 中文版由大眼仔旭（www.dayanzai.me） […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重复文件查找工具 AllDup 4.4.58 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=33161</id>
+        <link href="http://www.dayanzai.me/alldup.html"/>
+        <updated>2021-06-29T16:10:56.000Z</updated>
+        <summary type="html"><![CDATA[重复文件查找工具 AllDup 中文版由大眼仔旭（www.dayanzai.me）发布。AllDup 中文版是 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
