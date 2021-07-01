@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T08:10:23.803Z</updated>
+    <updated>2021-07-01T09:09:58.777Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-07-01)]]></title>
+        <id>https://gocn.vip/topics/12258</id>
+        <link href="https://gocn.vip/topics/12258"/>
+        <updated>2021-07-01T08:10:34.000Z</updated>
+        <summary type="html"><![CDATA[减少 Golang 程序的内存分配 https://chris124567.github.io/2021-06-21-go-performance/
+
+Redis 和 Golang 的可扩展事件流 https://ably.com/blog/event-streaming-with-redis-and-golang
+
+Go context 入门学习 https://dev.to/gopher/getting-started-with-go-context-l7g
+
+Golang 底层实现系列——map 的底层实现 https://segmentfault.com/a/1190000040269520
+
+通过浏览器运行 cmd 命令、启动 steam https://juejin.cn/post/6979391468309839879
+
+
+
+编辑: samurai
+订阅新闻: http://tinyletter.com/gocn
+招聘专区: https://gocn.vip/jobs
+GoCN 归档: https://gocn.vip/topics/]]></summary>
+        <author>
+            <name>samurai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【GOTC 预告】王思宇：从 OpenKruise 看云原生应用负载发展趋势]]></title>
         <id>https://gocn.vip/topics/12257</id>
@@ -12569,16 +12594,6 @@ Pod 容器重启/重建
         <summary type="html"><![CDATA[OpenHarmony 2.0 Canary 现已发布，当前版本在 OpenHarmony 1.1.0 的基础上，增加标准系统版本，具备的主要功能如下： 新增22个子系统，支持全面的OS能力，支持内存大于128M的带屏设备开发等。 提供系统三大应用：桌面、设置和SystemUI。 提供全新的OpenHarmony应用框架能力、Ability Cross-platform Engine能力。 提供J...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Analytics with Pandas – How to Drop a List of Rows from a Pandas Dataframe]]></title>
-        <id>60b1eed311ffb70827ef9504</id>
-        <link href="https://www.freecodecamp.org/news/drop-list-of-rows-from-pandas-dataframe/"/>
-        <updated>2021-06-01T20:47:43.000Z</updated>
-        <summary type="html"><![CDATA[A Pandas dataframe is a two dimensional data structure which allows you to store data in rows and columns. It's very useful when you're analyzing data.  When you have a list of data records in a dataframe, you may need to drop a specific list of rows depending on the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
