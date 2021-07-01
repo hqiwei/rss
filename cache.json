@@ -893,6 +893,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12255",
+          "author": "cloudy",
+          "description": "GoCN 每日新闻 (2021-06-30)\nTiDB Operator 源码阅读 (四) 组件的控制循环 https://gocn.vip/topics/12253\n\ngolang 垃圾回收器如何标记内存？ https://mp.weixin.qq.com/s/4mGWTzxvWMqGxgoHf4o2jA\n\n深入 Go 语言内部做技术优化，我学到了什么？https://mp.weixin.qq.com/s/HuGudn8ViKXAz0mIawquyQ\n\n通过实例理解 Go Execution Tracer https://mp.weixin.qq.com/s/L7HiqA02g-l-b2pD6aRtbw\n\nGo timer 是如何被调度的？https://mp.weixin.qq.com/s/eRWPdWWBDyc9TZHB3u197Q\n\n\n\n\n编辑: cloudy\n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12255",
+          "publishedOn": "2021-07-01T01:09:52.000Z",
+          "wordCount": 102,
+          "title": "GoCN 每日新闻 (2021-06-30)"
+        },
+        {
           "id": "https://gocn.vip/topics/12254",
           "author": "elvin5",
           "description": "职位描述：\n参与公司隐私计算平台的架构设计、开发和维护。\n持续优化系统功能和架构，提升系统的易用性和稳定性，攻克技术难题。\n支持平台在密码学，区块链等技术在业务的推广和落地。\n任职资格：\n本科，工作 2 两年以上。\n\n\n掌握 Golang、C++ 中的一门编程语言。\n\n\n掌握扎实的计算基础知识，深入理解数据结构、算法和操作系统知识。\n\n\n掌握服务端开发的相关技术、最佳实践和工程化能力。\n\n\n优秀的沟通能力、责任心强，做事踏实、结果导向。\n\n\n了解容器、kubernetes 、密码学和区块链等相关技术优先。\n\n\n工作地点\n上海 \n简历投递\n简历投至：dumanxiang@qq.com\n标题请参照：\"gocn+ 姓名 + 职位\" 的格式编辑\n公司\n万向区块链\n以上都不是硬性指标，如果你技术好，我们这边有很多职位，有区块链底层链的，有密码学研究和实现的，区块应用的等等各个方向，欢迎大家来聊聊。",
@@ -4669,42 +4678,6 @@
           "publishedOn": "2021-06-02T00:09:16.000Z",
           "wordCount": 151,
           "title": "AMD 演示开源图像缩放技术 FidelityFX Super Resolution"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85993",
-          "author": "Editor, Kai",
-          "description": "Python 3.5 带给我们的方便的矩阵以及其他改进 ARM CEO：联发科年底将首发v9 64位指令集芯片 Raspberry Pi开售RP2040微控制器芯片 售价1美元 QUIC 协议正式发布了 RFC 9000 ，成为 IETF  […]",
-          "link": "http://www.linuxeden.com/a/85993",
-          "publishedOn": "2021-06-01T13:45:32.000Z",
-          "wordCount": 107,
-          "title": "每日文章精选 2021 06 01"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85991",
-          "author": "Editor, Kai",
-          "description": "探索一些未被充分利用但仍然有用的 Python 特性。 这是 Python 3.x 首发特性系列文章的第六篇。Python 3.5 在 2015 年首次发布，尽管它已经发布了很长时间，但它引入的许多特性都没有被充分利用，而且相当酷。下面是其 […]",
-          "link": "http://www.linuxeden.com/a/85991",
-          "publishedOn": "2021-06-01T13:43:42.000Z",
-          "wordCount": 299,
-          "title": "Python 3.5 带给我们的方便的矩阵以及其他改进"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85988",
-          "author": "Editor, Kai",
-          "description": "在ARMv8.x沿用10年后，今年3月，ARM推出了v9 64位指令集，前不久，基于v9的新一代公版CPU架构超大核Cortex-X2、大核Cortex-A710、小核Cortex-A510发布。 在今天（6月1日）的台北电脑展活动中，AR […]",
-          "link": "http://www.linuxeden.com/a/85988",
-          "publishedOn": "2021-06-01T13:42:53.000Z",
-          "wordCount": 105,
-          "title": "ARM CEO：联发科年底将首发v9 64位指令集芯片"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85984",
-          "author": "Editor, Kai",
-          "description": "今年早些时候，Raspberry Pi基金会宣布推出4美元的Raspberry Pi Pico和RP2040微控制器用于嵌入式开发。现在，RP2040芯片正在通过他们的经销商以仅1美元的价格出售，供那些想用这种树莓派芯片构建自己的电子产品的 […]",
-          "link": "http://www.linuxeden.com/a/85984",
-          "publishedOn": "2021-06-01T13:34:10.000Z",
-          "wordCount": 97,
-          "title": "Raspberry Pi开售RP2040微控制器芯片 售价1美元"
         }
       ]
     },
@@ -5080,6 +5053,24 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/148443",
+          "author": null,
+          "description": "给openGauss社区所有人的一封信 Thanks 2020年6月30日，openGauss如期开源。今天，openGauss社区（高斯开源社区）一岁了，在这一年里，那些熠熠发光的瞬间都被记录在时光里，记录在openGauss社区，感谢所有与openGauss同行的人，openGauss的荣誉都属于你们。 请查收属于我们的荣誉！ （2020年10月，openGauss荣获“OSCAR...",
+          "link": "https://www.oschina.net/news/148443",
+          "publishedOn": "2021-07-01T00:48:38.000Z",
+          "wordCount": 516,
+          "title": "openGauss 社区开源一周年，感谢有你！"
+        },
+        {
+          "id": "https://www.oschina.net/news/148440/world-wide-web-source-code-nft-sells",
+          "author": null,
+          "description": "蒂姆-伯纳斯-李爵士（Tim Berners-Lee）此前就曾对外宣布将于 6 月 23 日至 6 月 30 日以 NFT 形式拍卖万维网源代码，我们也对此事进行了报道（点击链接查看）。NFT 是一种记录数字物品所有权的基于区块链的资产。 经过一周时间的拍卖，苏富比拍卖行在周三正式宣布，万维网的源代码最终以 543.45 万美元成交，而它的最初...",
+          "link": "https://www.oschina.net/news/148440/world-wide-web-source-code-nft-sells",
+          "publishedOn": "2021-07-01T00:37:23.000Z",
+          "wordCount": 475,
+          "title": "万维网源代码 NFT 在拍卖会上最终以 540 万美元成交"
+        },
         {
           "id": "https://www.oschina.net/news/148439/linux-5-14-legacy-ide-dropped",
           "author": null,
@@ -8201,6 +8192,42 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=40957",
+          "author": "大眼仔~旭",
+          "description": "Shotcut 中文版是一个免费的开源跨平台视频编辑器由大眼仔旭（www.dayanzai.me）整理发布。网 […]",
+          "link": "http://www.dayanzai.me/shotcut.html",
+          "publishedOn": "2021-06-30T16:27:54.000Z",
+          "wordCount": 1133,
+          "title": "开源跨平台视频编辑器 Shotcut 21.06.29 + x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=44157",
+          "author": "大眼仔~旭",
+          "description": "恶意广告程序清除工具 Malwarebytes AdwCleaner 中文版由大眼仔旭（www.dayanza […]",
+          "link": "http://www.dayanzai.me/adwcleaner.html",
+          "publishedOn": "2021-06-30T16:27:53.000Z",
+          "wordCount": 618,
+          "title": "恶意广告程序清除工具 Malwarebytes AdwCleaner 8.3.0 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=14960",
+          "author": "大眼仔~旭",
+          "description": "3D Youtube Downloader 1.19 中文版由大眼仔旭（www.dayanzai.me）发布。 […]",
+          "link": "http://www.dayanzai.me/3d-youtube-downloader.html",
+          "publishedOn": "2021-06-30T16:20:48.000Z",
+          "wordCount": 574,
+          "title": "Youtube 网络视频下载工具 3D Youtube Downloader 1.19.11 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=11779",
+          "author": "大眼仔~旭",
+          "description": "WinSCP 中文版由大眼仔旭（www.dayanzai.me）发布。什么是 WinSCP? WinSCP 是 […]",
+          "link": "http://www.dayanzai.me/winscp.html",
+          "publishedOn": "2021-06-30T16:20:01.000Z",
+          "wordCount": 680,
+          "title": "SSH 开源图形化 SFTP 客户端 WinSCP 5.19.1 绿色中文版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=1507",
           "author": "大眼仔~旭",
