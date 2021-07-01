@@ -787,15 +787,6 @@
           "publishedOn": "2021-06-02T14:45:18.000Z",
           "wordCount": 3302,
           "title": "JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦"
-        },
-        {
-          "id": "60b5025111ffb70827ef9ebe",
-          "author": null,
-          "description": "Let's build an AI model that speaks just like your favorite character and deploy that model as a Discord chatbot. All the coding and deployment happen in the cloud (for free!), so you don't even need a local IDE to follow along.",
-          "link": "https://www.freecodecamp.org/news/discord-ai-chatbot/",
-          "publishedOn": "2021-06-01T23:47:33.000Z",
-          "wordCount": 1861,
-          "title": "How to Build a Discord AI Chatbot that Talks Like Your Favorite Character"
         }
       ]
     },
@@ -4624,51 +4615,6 @@
           "publishedOn": "2021-06-02T00:21:44.000Z",
           "wordCount": 173,
           "title": "Spring Cloud 2020.0.3 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86005",
-          "author": "Editor, Kai",
-          "description": "Maven JavaDocs ⚠️ RxJava is now signed with a new private key. The new public key fingerprint is 1D9AA7F9E1E2824728B8CD1 […]",
-          "link": "http://www.linuxeden.com/a/86005",
-          "publishedOn": "2021-06-02T00:13:35.000Z",
-          "wordCount": 148,
-          "title": "RxJava 3.0.13 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86003",
-          "author": "Editor, Kai",
-          "description": "Plugin releasesedit Cef Codec – 6.2.1 Added field mapping to docs. Fixed ECS mapping of deviceMacAddress field. Ag […]",
-          "link": "http://www.linuxeden.com/a/86003",
-          "publishedOn": "2021-06-02T00:12:51.000Z",
-          "wordCount": 245,
-          "title": "Logstash 7.13.1 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86001",
-          "author": "Editor, Kai",
-          "description": "Also see Breaking changes in 7.13. Bug fixesedit Engine Fix illegal access on PIT creation for frozen index #73517 (issu […]",
-          "link": "http://www.linuxeden.com/a/86001",
-          "publishedOn": "2021-06-02T00:12:11.000Z",
-          "wordCount": 194,
-          "title": "Elasticsearch  7.13.1 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85999",
-          "author": "Editor, Kai",
-          "description": "Upgrade urgency: SECURITY, Contains fixes to security issues that affect authenticated client connections. MODERATE othe […]",
-          "link": "http://www.linuxeden.com/a/85999",
-          "publishedOn": "2021-06-02T00:11:19.000Z",
-          "wordCount": 242,
-          "title": "Redis 6.2.4 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=85995",
-          "author": "Editor, Kai",
-          "description": "相比英伟达私有的只支持自家显卡的 DLSS 图像缩放技术，AMD 在台北电脑展上演示了它开源的 FidelityFX Super Resolution（ FSR ）技术，这一技术甚至支持英伟达不支持 DLSS 的低端显卡。AMD 将在 6  […]",
-          "link": "http://www.linuxeden.com/a/85995",
-          "publishedOn": "2021-06-02T00:09:16.000Z",
-          "wordCount": 151,
-          "title": "AMD 演示开源图像缩放技术 FidelityFX Super Resolution"
         }
       ]
     },
@@ -8184,69 +8130,6 @@
           "publishedOn": "2021-06-02T00:18:08.000Z",
           "wordCount": 478,
           "title": "开源公告｜微信云端深度学习推理框架 WeChat TFCC 开源啦！"
-        },
-        {
-          "id": "https://www.oschina.net/news/144153/chrome-adds-floc-switch",
-          "author": null,
-          "description": "在最新版本的 Chrome Canary 浏览器中，Google 为近期闹得沸沸扬扬的 FLoC 广告追踪功能添加了禁用开关，通过开关用户可以自行选择是否加入 Google FLoC 计划，不再不明不白就被 Google 加入这一测试计划。 FLoC 是 Google 改变现如今网络广告计划的一部分。其核心思想是改变追踪用户的方式，在这个用户隐私数据被滥用的...",
-          "link": "https://www.oschina.net/news/144153/chrome-adds-floc-switch",
-          "publishedOn": "2021-06-02T00:14:12.000Z",
-          "wordCount": 517,
-          "title": "面对众多质疑，Google 为 Chrome 浏览器添加 FLoC 广告追踪开关"
-        },
-        {
-          "id": "https://www.oschina.net/question/4489239_2322718",
-          "author": null,
-          "description": "软件耦合一定是件糟糕的事吗？ 大多数人对这个问题的回答都是“是”。任何一个软件中都会涉及不同程度的耦合，混乱或是错误的耦合会给软件的理解、维护、修改带来许多麻烦，低耦合常常能降低一些错误对软件架构的伤害。因此“高内聚低耦合”是软件开发领域为数不多的“银弹”之一。",
-          "link": "https://www.oschina.net/question/4489239_2322718",
-          "publishedOn": "2021-06-02T00:11:51.000Z",
-          "wordCount": 324,
-          "title": "ThoughtWorks 刘尚奇：架构耦合是毒性，不谈计量是耍流氓"
-        },
-        {
-          "id": "https://www.oschina.net/p/rtfd",
-          "author": null,
-          "description": "rtfd是一个基于sphinx来构建文档的命令工具，用来生成并阅读文档。",
-          "link": "https://www.oschina.net/p/rtfd",
-          "publishedOn": "2021-06-02T00:05:10.000Z",
-          "wordCount": 421,
-          "title": "rtfd —— 构建文档的命令工具"
-        },
-        {
-          "id": "https://gitee.com/swow/swow",
-          "author": null,
-          "description": "Swow 是一个使用 PHP 和 C 编写的高性能纯协程网络通信引擎。",
-          "link": "https://gitee.com/swow/swow",
-          "publishedOn": "2021-06-02T00:03:17.000Z",
-          "wordCount": 491,
-          "title": "Gitee 推荐 | 高性能纯协程网络通信引擎 Swow"
-        },
-        {
-          "id": "https://my.oschina.net/u/4579195/blog/4664666",
-          "author": null,
-          "description": "今天我们来剖析一篇经典的论文：Practial Lessons from Predicting Clicks on Ads at Facebook。从这篇paper的名称当中我们可以看得出来，这篇paper的作者是Facebook的广告团队。这是一篇将GBDT与LR模型结合应用在广告点击率预测的方法，虽然距今已经有好几年了，但是文中的方法仍然没有完全过时，至今依然有一些小公司还...",
-          "link": "https://my.oschina.net/u/4579195/blog/4664666",
-          "publishedOn": "2021-06-02T00:01:16.000Z",
-          "wordCount": 287,
-          "title": "每日一博 | 剖析经典论文 GBDT+LR"
-        },
-        {
-          "id": "https://www.oschina.net/news/144145/firefox-89-released",
-          "author": null,
-          "description": "6 月 1 日，Firefox 89 稳定版本正式发布。该版本的重点是界面的重新设计，新设计影响到主要的界面元素，如主工具栏、地址栏、菜单、浏览器显示的提示和标签。该版本也是自 2017 年 Firefox Quantum 发布以来做出的最大改变。 所有的 Firefox 频道都在差不多的时间内被提升了一个版本。Firefox 88 稳定版被更新到 89 版，...",
-          "link": "https://www.oschina.net/news/144145/firefox-89-released",
-          "publishedOn": "2021-06-01T23:30:08.000Z",
-          "wordCount": 564,
-          "title": "采用全新设计语言，Firefox 89 发生重大变化"
-        },
-        {
-          "id": "https://www.oschina.net/news/144144/openharmony-2-0-canary-released",
-          "author": null,
-          "description": "OpenHarmony 2.0 Canary 现已发布，当前版本在 OpenHarmony 1.1.0 的基础上，增加标准系统版本，具备的主要功能如下： 新增22个子系统，支持全面的OS能力，支持内存大于128M的带屏设备开发等。 提供系统三大应用：桌面、设置和SystemUI。 提供全新的OpenHarmony应用框架能力、Ability Cross-platform Engine能力。 提供J...",
-          "link": "https://www.oschina.net/news/144144/openharmony-2-0-canary-released",
-          "publishedOn": "2021-06-01T23:21:38.000Z",
-          "wordCount": 597,
-          "title": "OpenHarmony 2.0 Canary 发布"
         }
       ]
     },

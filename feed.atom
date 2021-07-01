@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T11:08:04.105Z</updated>
+    <updated>2021-07-01T12:14:58.872Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12462,136 +12462,6 @@ Pod 容器重启/重建
         <link href="https://www.oschina.net/news/144154/wechat-tfcc-open-source"/>
         <updated>2021-06-02T00:18:08.000Z</updated>
         <summary type="html"><![CDATA[WeChat TFCC 是微信技术架构部后台团队研发的服务端深度学习通用推理框架，也是腾讯深度学习与加速Oteam云帆的开源协同成果，具有高性能、易用、通用的特点，已在微信视频号、微信开放平台推荐系统、微信画像、微信智聆语音识别、语音合成等业务广泛使用; 支持81个ONNX Operation和108个Tensorflow Operation，覆盖推荐、...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面对众多质疑，Google 为 Chrome 浏览器添加 FLoC 广告追踪开关]]></title>
-        <id>https://www.oschina.net/news/144153/chrome-adds-floc-switch</id>
-        <link href="https://www.oschina.net/news/144153/chrome-adds-floc-switch"/>
-        <updated>2021-06-02T00:14:12.000Z</updated>
-        <summary type="html"><![CDATA[在最新版本的 Chrome Canary 浏览器中，Google 为近期闹得沸沸扬扬的 FLoC 广告追踪功能添加了禁用开关，通过开关用户可以自行选择是否加入 Google FLoC 计划，不再不明不白就被 Google 加入这一测试计划。 FLoC 是 Google 改变现如今网络广告计划的一部分。其核心思想是改变追踪用户的方式，在这个用户隐私数据被滥用的...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RxJava 3.0.13 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86005</id>
-        <link href="http://www.linuxeden.com/a/86005"/>
-        <updated>2021-06-02T00:13:35.000Z</updated>
-        <summary type="html"><![CDATA[Maven JavaDocs ⚠️ RxJava is now signed with a new private key. The new public key fingerprint is 1D9AA7F9E1E2824728B8CD1 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logstash 7.13.1 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86003</id>
-        <link href="http://www.linuxeden.com/a/86003"/>
-        <updated>2021-06-02T00:12:51.000Z</updated>
-        <summary type="html"><![CDATA[Plugin releasesedit Cef Codec – 6.2.1 Added field mapping to docs. Fixed ECS mapping of deviceMacAddress field. Ag […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elasticsearch  7.13.1 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86001</id>
-        <link href="http://www.linuxeden.com/a/86001"/>
-        <updated>2021-06-02T00:12:11.000Z</updated>
-        <summary type="html"><![CDATA[Also see Breaking changes in 7.13. Bug fixesedit Engine Fix illegal access on PIT creation for frozen index #73517 (issu […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ThoughtWorks 刘尚奇：架构耦合是毒性，不谈计量是耍流氓]]></title>
-        <id>https://www.oschina.net/question/4489239_2322718</id>
-        <link href="https://www.oschina.net/question/4489239_2322718"/>
-        <updated>2021-06-02T00:11:51.000Z</updated>
-        <summary type="html"><![CDATA[软件耦合一定是件糟糕的事吗？ 大多数人对这个问题的回答都是“是”。任何一个软件中都会涉及不同程度的耦合，混乱或是错误的耦合会给软件的理解、维护、修改带来许多麻烦，低耦合常常能降低一些错误对软件架构的伤害。因此“高内聚低耦合”是软件开发领域为数不多的“银弹”之一。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redis 6.2.4 发布]]></title>
-        <id>http://www.linuxeden.com/?p=85999</id>
-        <link href="http://www.linuxeden.com/a/85999"/>
-        <updated>2021-06-02T00:11:19.000Z</updated>
-        <summary type="html"><![CDATA[Upgrade urgency: SECURITY, Contains fixes to security issues that affect authenticated client connections. MODERATE othe […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD 演示开源图像缩放技术 FidelityFX Super Resolution]]></title>
-        <id>http://www.linuxeden.com/?p=85995</id>
-        <link href="http://www.linuxeden.com/a/85995"/>
-        <updated>2021-06-02T00:09:16.000Z</updated>
-        <summary type="html"><![CDATA[相比英伟达私有的只支持自家显卡的 DLSS 图像缩放技术，AMD 在台北电脑展上演示了它开源的 FidelityFX Super Resolution（ FSR ）技术，这一技术甚至支持英伟达不支持 DLSS 的低端显卡。AMD 将在 6  […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rtfd —— 构建文档的命令工具]]></title>
-        <id>https://www.oschina.net/p/rtfd</id>
-        <link href="https://www.oschina.net/p/rtfd"/>
-        <updated>2021-06-02T00:05:10.000Z</updated>
-        <summary type="html"><![CDATA[rtfd是一个基于sphinx来构建文档的命令工具，用来生成并阅读文档。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitee 推荐 | 高性能纯协程网络通信引擎 Swow]]></title>
-        <id>https://gitee.com/swow/swow</id>
-        <link href="https://gitee.com/swow/swow"/>
-        <updated>2021-06-02T00:03:17.000Z</updated>
-        <summary type="html"><![CDATA[Swow 是一个使用 PHP 和 C 编写的高性能纯协程网络通信引擎。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日一博 | 剖析经典论文 GBDT+LR]]></title>
-        <id>https://my.oschina.net/u/4579195/blog/4664666</id>
-        <link href="https://my.oschina.net/u/4579195/blog/4664666"/>
-        <updated>2021-06-02T00:01:16.000Z</updated>
-        <summary type="html"><![CDATA[今天我们来剖析一篇经典的论文：Practial Lessons from Predicting Clicks on Ads at Facebook。从这篇paper的名称当中我们可以看得出来，这篇paper的作者是Facebook的广告团队。这是一篇将GBDT与LR模型结合应用在广告点击率预测的方法，虽然距今已经有好几年了，但是文中的方法仍然没有完全过时，至今依然有一些小公司还...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Discord AI Chatbot that Talks Like Your Favorite Character]]></title>
-        <id>60b5025111ffb70827ef9ebe</id>
-        <link href="https://www.freecodecamp.org/news/discord-ai-chatbot/"/>
-        <updated>2021-06-01T23:47:33.000Z</updated>
-        <summary type="html"><![CDATA[Let's build an AI model that speaks just like your favorite character and deploy that model as a Discord chatbot. All the coding and deployment happen in the cloud (for free!), so you don't even need a local IDE to follow along.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[采用全新设计语言，Firefox 89 发生重大变化]]></title>
-        <id>https://www.oschina.net/news/144145/firefox-89-released</id>
-        <link href="https://www.oschina.net/news/144145/firefox-89-released"/>
-        <updated>2021-06-01T23:30:08.000Z</updated>
-        <summary type="html"><![CDATA[6 月 1 日，Firefox 89 稳定版本正式发布。该版本的重点是界面的重新设计，新设计影响到主要的界面元素，如主工具栏、地址栏、菜单、浏览器显示的提示和标签。该版本也是自 2017 年 Firefox Quantum 发布以来做出的最大改变。 所有的 Firefox 频道都在差不多的时间内被提升了一个版本。Firefox 88 稳定版被更新到 89 版，...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenHarmony 2.0 Canary 发布]]></title>
-        <id>https://www.oschina.net/news/144144/openharmony-2-0-canary-released</id>
-        <link href="https://www.oschina.net/news/144144/openharmony-2-0-canary-released"/>
-        <updated>2021-06-01T23:21:38.000Z</updated>
-        <summary type="html"><![CDATA[OpenHarmony 2.0 Canary 现已发布，当前版本在 OpenHarmony 1.1.0 的基础上，增加标准系统版本，具备的主要功能如下： 新增22个子系统，支持全面的OS能力，支持内存大于128M的带屏设备开发等。 提供系统三大应用：桌面、设置和SystemUI。 提供全新的OpenHarmony应用框架能力、Ability Cross-platform Engine能力。 提供J...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>
