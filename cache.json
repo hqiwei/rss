@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60dc78e927f80207bcdbbddc",
+          "author": null,
+          "description": "Hello freeCodeCamp community! I'm Dilan, a PhD candidate in sociology at Boston University. I'm an absolute coding newbie, but I do know a bit about surveys. 😃 I have been working with freeCodeCamp founder Quincy Larson over the past few months to design the 2021 New Coder Survey. And I'm thrilled",
+          "link": "https://www.freecodecamp.org/news/2021-new-coder-survey/",
+          "publishedOn": "2021-07-01T04:36:31.000Z",
+          "wordCount": 942,
+          "title": "The 2021 New Coder Survey is Now Live – and Here&#x27;s How We Designed It"
+        },
+        {
           "id": "6063b8d69618b008528a9d79",
           "author": null,
           "description": "Today we're gonna learn how to use CSS's box-shadow property to make beautiful website components. Along the way, we'll create a button and get hands-on experience using this property. Let's get started. 🎖️ Table of Contents Why you should use the CSS box-shadow propertyThe syntax of the box-shadow propertyHow to make",
@@ -1862,6 +1871,24 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=87082",
+          "author": "Editor, Kai",
+          "description": "使用 OpenWRT 和 Wireguard 在路由器上创建自己的虚拟专用网络。 通过计算机网络从一个地方到另一个地方可能是一件棘手的事情。除了知道正确的地址和打开正确的端口之外，还有安全问题。 对于 Linux，SSH 是一种流行的默认方 […]",
+          "link": "http://www.linuxeden.com/a/87082",
+          "publishedOn": "2021-07-01T13:56:47.000Z",
+          "wordCount": 462,
+          "title": "使用开源工具创建私有的虚拟专用网络"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87078",
+          "author": "Editor, Kai",
+          "description": "Linux 5.14的Direct Rendering Manager（内核图形/显示驱动）更新增加了近30万行的新代码（312187插入，22367删除）。巨大的代码量增长是由新增的AMD Radeon图形支持、新增的微软驱动和其他变化所 […]",
+          "link": "http://www.linuxeden.com/a/87078",
+          "publishedOn": "2021-07-01T13:51:01.000Z",
+          "wordCount": 124,
+          "title": "Linux 5.14版GPU驱动更新发布 新增代码约30万行"
+        },
         {
           "id": "http://www.linuxeden.com/?p=87075",
           "author": "Editor, Kai",

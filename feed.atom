@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T13:15:58.604Z</updated>
+    <updated>2021-07-01T14:08:23.134Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[使用开源工具创建私有的虚拟专用网络]]></title>
+        <id>http://www.linuxeden.com/?p=87082</id>
+        <link href="http://www.linuxeden.com/a/87082"/>
+        <updated>2021-07-01T13:56:47.000Z</updated>
+        <summary type="html"><![CDATA[使用 OpenWRT 和 Wireguard 在路由器上创建自己的虚拟专用网络。 通过计算机网络从一个地方到另一个地方可能是一件棘手的事情。除了知道正确的地址和打开正确的端口之外，还有安全问题。 对于 Linux，SSH 是一种流行的默认方 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.14版GPU驱动更新发布 新增代码约30万行]]></title>
+        <id>http://www.linuxeden.com/?p=87078</id>
+        <link href="http://www.linuxeden.com/a/87078"/>
+        <updated>2021-07-01T13:51:01.000Z</updated>
+        <summary type="html"><![CDATA[Linux 5.14的Direct Rendering Manager（内核图形/显示驱动）更新增加了近30万行的新代码（312187插入，22367删除）。巨大的代码量增长是由新增的AMD Radeon图形支持、新增的微软驱动和其他变化所 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoCN 每日新闻 (2021-07-01)]]></title>
         <id>https://gocn.vip/topics/12258</id>
@@ -167,6 +187,16 @@ MQ 双中心改造
         <summary type="html"><![CDATA[随着 FydeOS 全新官网上线，FydeOS v12.2 同时发布。 https://fydeos.com FydeOS v12.2 是 FydeOS v12 的一次维护和更新版本。在此次发布中，值得注意的变化有： 更换了全新的 FydeOS logo 以及系统自带程序的图标。 更新了 FydeOS 云服务的其它 UI 组件。 更新了 rEFInd 启动器的版本。 更新了内置的酷安市场。 更新了 ...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 2021 New Coder Survey is Now Live – and Here&#x27;s How We Designed It]]></title>
+        <id>60dc78e927f80207bcdbbddc</id>
+        <link href="https://www.freecodecamp.org/news/2021-new-coder-survey/"/>
+        <updated>2021-07-01T04:36:31.000Z</updated>
+        <summary type="html"><![CDATA[Hello freeCodeCamp community! I'm Dilan, a PhD candidate in sociology at Boston University. I'm an absolute coding newbie, but I do know a bit about surveys. 😃 I have been working with freeCodeCamp founder Quincy Larson over the past few months to design the 2021 New Coder Survey. And I'm thrilled]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
