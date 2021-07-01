@@ -5054,6 +5054,33 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/148481",
+          "author": null,
+          "description": "近年来，随着互联网流量的爆发式增长，把软件业务进行拆分的微服务架构已经成为很多大中型互联网公司的建设标准，容器技术及相关应用得到了国内外越来越多的关注度。在国外，容器技术已经形成了较成熟的生态圈；而在国内，金融企业、互联网企业、IT 企业也正在积极投入容器技术的应用。 在容器集群编排与管理领域，CNCF ...",
+          "link": "https://www.oschina.net/news/148481",
+          "publishedOn": "2021-07-01T02:57:50.000Z",
+          "wordCount": 572,
+          "title": "将 K8s 延伸到边缘计算，华为云 KubeEdge 实践分享"
+        },
+        {
+          "id": "https://www.oschina.net/news/148473/anolis-os-8-4-released",
+          "author": null,
+          "description": "引言 继龙蜥操作系统(Anolis OS) 8.2如期首发之后，龙蜥社区(OpenAnolis)在版本发布、生态完善和技术创新的路线上持续演进，终于迎来了龙蜥操作系统(Anolis OS) 8.4的发布，该版本依旧是国内仅有的首发版本！ 龙蜥操作系统(Anolis OS) 8.4版本依然秉承与国际主流Linux厂商发行版 100% 兼容的原则，且提供配套的迁移工具，...",
+          "link": "https://www.oschina.net/news/148473/anolis-os-8-4-released",
+          "publishedOn": "2021-07-01T02:28:31.000Z",
+          "wordCount": 623,
+          "title": "国内独家首发版本！龙蜥操作系统 (Anolis OS) 8.4 正式发行"
+        },
+        {
+          "id": "https://www.oschina.net/news/148466/redflag-linux-v11-0701-update",
+          "author": null,
+          "description": "红旗 Linux 桌面操作系统 v11 今天发布了特别的献礼版，更新日志如下： 新增献礼版主题包； 新增x86架构的linux内核版本5.10； 更新红旗浏览器内核到90.0.4430.212； 增加了一批通用设备的支持； 修复了部分已知问题； 献礼版更新及下载方法： 1.已安装红旗Linux桌面操作系统v11 alpha前序版本的用户，可参考下列方法进行...",
+          "link": "https://www.oschina.net/news/148466/redflag-linux-v11-0701-update",
+          "publishedOn": "2021-07-01T01:59:51.000Z",
+          "wordCount": 494,
+          "title": "红旗 Linux 桌面操作系统 v11（献礼版）更新"
+        },
+        {
           "id": "https://www.oschina.net/news/148443",
           "author": null,
           "description": "给openGauss社区所有人的一封信 Thanks 2020年6月30日，openGauss如期开源。今天，openGauss社区（高斯开源社区）一岁了，在这一年里，那些熠熠发光的瞬间都被记录在时光里，记录在openGauss社区，感谢所有与openGauss同行的人，openGauss的荣誉都属于你们。 请查收属于我们的荣誉！ （2020年10月，openGauss荣获“OSCAR...",
@@ -8175,15 +8202,6 @@
           "publishedOn": "2021-06-01T23:21:38.000Z",
           "wordCount": 597,
           "title": "OpenHarmony 2.0 Canary 发布"
-        },
-        {
-          "id": "https://www.oschina.net/news/144124/harmonyos-developer",
-          "author": null,
-          "description": "为了让大家快人一步，迅速从入门小白晋级技术大神，我们集结HarmonyOS技术专家，为应用开发者量身打造了一个路径最短、可实操性最强的学习路线。 包括学习HarmonyOS最新特性和界面开发、熟悉HarmonyOS系统框架，以及开发HarmonyOS应用。 我们收集了工具、教程、详解视频等可实操的学习资料，可以帮你在学习应用开发中事半...",
-          "link": "https://www.oschina.net/news/144124/harmonyos-developer",
-          "publishedOn": "2021-06-01T14:31:47.000Z",
-          "wordCount": 835,
-          "title": "全网首发！四招解锁 HarmonyOS 开发者成长计划，免费资料大奖拿到手软"
         }
       ]
     },
