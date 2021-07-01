@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60c0897ad3126007592d5701",
+          "author": null,
+          "description": "Listing items on a web page is a common task you'll have to do as a web developer. You may have to list shopping cart items, the order of students based on their grades, dogs with the loudest bark – and so on. So you need to know the different ways",
+          "link": "https://www.freecodecamp.org/news/html-list-how-to-use-bullet-points-ordered-and-unordered-lists/",
+          "publishedOn": "2021-07-01T18:02:56.000Z",
+          "wordCount": 1769,
+          "title": "HTML List – How to Use Bullet Points, Ordered, and Unordered Lists"
+        },
+        {
           "id": "60d5e7ae6e1a1407b6b0bc5a",
           "author": null,
           "description": "The backend of a website can be written in many different programming languages. It is becoming increasingly common for to use Python for the backend of a website. We just released a full backend web development with Python course on the freeCodeCamp.org YouTube channel. This comprehensive course is for",
@@ -5009,15 +5018,6 @@
           "publishedOn": "2021-06-02T07:38:56.000Z",
           "wordCount": 1064,
           "title": "邻近词查询 – 「躺平」的 112 种说法和唱法"
-        },
-        {
-          "id": "https://www.appinn.com/?p=38946",
-          "author": "青小蛙",
-          "description": "WeChat-Feeds 是一款为微信公众号生成 RSS 订阅源的开源项目。目前已支持 6200+ 个微信公众号，生成的 RSS 订阅地址可供任何支持 RSS 的阅读器订阅。@Appinn 发现自 A",
-          "link": "https://www.appinn.com/wechat-feeds/",
-          "publishedOn": "2021-06-02T05:52:45.000Z",
-          "wordCount": 1121,
-          "title": "WeChat-Feeds – 为微信公众号生成 RSS 订阅源"
         }
       ]
     },
