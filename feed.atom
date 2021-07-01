@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T19:08:18.486Z</updated>
+    <updated>2021-07-01T20:10:51.377Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12454,16 +12454,6 @@ Pod 容器重启/重建
 基于上述的限制，目前原生 Kubernetes 之下是没有 API 来为上层业务提供容器（应用）重启能力的…]]></summary>
         <author>
             <name>alicloudnative</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[邻近词查询 – 「躺平」的 112 种说法和唱法]]></title>
-        <id>https://www.appinn.com/?p=38949</id>
-        <link href="https://www.appinn.com/nearby-word-online/"/>
-        <updated>2021-06-02T07:38:56.000Z</updated>
-        <summary type="html"><![CDATA[提到「躺平」，你想到的是什么？在今天之前，青小蛙想的可能和你一样。但现在不一样了，青小蛙用邻近词查询查询到了另外 112 种躺平的讲法，是不是…很赞。@Appinn 感谢微博 @瞎玩菌的百]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
 </feed>
