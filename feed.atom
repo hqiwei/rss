@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T23:08:47.595Z</updated>
+    <updated>2021-07-01T00:32:32.645Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.14 删除了遗留的 IDE 代码]]></title>
+        <id>https://www.oschina.net/news/148439/linux-5-14-legacy-ide-dropped</id>
+        <link href="https://www.oschina.net/news/148439/linux-5-14-legacy-ide-dropped"/>
+        <updated>2021-07-01T00:21:30.000Z</updated>
+        <summary type="html"><![CDATA[Phoronix 消息称，Linux 5.14 已经从内核中清除了遗留的 IDE 代码，这意味其着放弃了超过 41000 行的代码。 随着 drivers/ide 的清除工作于日前完成，旧的代码已正式被删除；且将来在内核的块子系统中，其还有可能继续清理那些因为旧的 IDE 代码而存在的衍生代码。 Linux 的传统 IDE 驱动代码自 2019 年起被废弃，计划在...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla 推出以隐私为重点的浏览数据共享平台]]></title>
+        <id>https://www.oschina.net/news/148438/mozilla-launches-browsing-data-sharing-platform</id>
+        <link href="https://www.oschina.net/news/148438/mozilla-launches-browsing-data-sharing-platform"/>
+        <updated>2021-07-01T00:19:41.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla 推出了一个以隐私为重点的全新数据共享平台，为用户提供了对其数据的更多控制权，也使他们能够为更好的互联网做出贡献。 Mozilla 近日与普林斯顿大学的研究人员合作，共同建立了一个名为 Rally 的数据共享平台，这个新的平台以隐私和透明度为核心，但也允许用户自行选择他们想与谁共享他们的浏览数据，通过将数据...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 07 01]]></title>
+        <id>http://www.linuxeden.com/?p=87075</id>
+        <link href="http://www.linuxeden.com/a/87075"/>
+        <updated>2021-07-01T00:14:55.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 07 01]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 WasmEdge 中使用 Docker 工具管理 WebAssembly 应用]]></title>
+        <id>https://my.oschina.net/u/4532842/blog/5116619</id>
+        <link href="https://my.oschina.net/u/4532842/blog/5116619"/>
+        <updated>2021-07-01T00:11:24.000Z</updated>
+        <summary type="html"><![CDATA[这篇文章将演示如何通过利用 DockerHub 和 CRI-O 等 Docker 工具在 WasmEdge 中部署、管理和运行轻量级 WebAssembly 应用程序。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HHVM 4.116发布]]></title>
+        <id>http://www.linuxeden.com/?p=87072</id>
+        <link href="http://www.linuxeden.com/a/87072"/>
+        <updated>2021-07-01T00:09:43.000Z</updated>
+        <summary type="html"><![CDATA[HHVM 4.116 is released! This release marks the end of support for 4.110; HHVM 4.111–4.115 remain supported, as do the 4. […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yaegi —— 优雅的 Go 语言解释器]]></title>
+        <id>https://www.oschina.net/p/yaegi</id>
+        <link href="https://www.oschina.net/p/yaegi"/>
+        <updated>2021-07-01T00:06:42.000Z</updated>
+        <summary type="html"><![CDATA[Yaegi 是一个优雅的 Go 语言解释器，可以执行 Go 脚本和插件。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quarkus 2.0.0.Final 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87069</id>
+        <link href="http://www.linuxeden.com/a/87069"/>
+        <updated>2021-07-01T00:05:28.000Z</updated>
+        <summary type="html"><![CDATA[Major changes Complete changelog #18109 – Fix Gradle repository URL #18091 – Fix dev mode compile issues #18 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ant Design 4.16.6 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87067</id>
+        <link href="http://www.linuxeden.com/a/87067"/>
+        <updated>2021-07-01T00:03:42.000Z</updated>
+        <summary type="html"><![CDATA[🐞 Fix Tree loading status not been restored when loadData throw error. #31170 ⚡️ Optimize Progress animation CPU […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 对性能调优标准一无所知？]]></title>
+        <id>https://my.oschina.net/qinggee/blog/4680971</id>
+        <link href="https://my.oschina.net/qinggee/blog/4680971"/>
+        <updated>2021-07-01T00:02:32.000Z</updated>
+        <summary type="html"><![CDATA[前几天，和一个同学瞎聊，他说，“我们公司的系统从来都没有经过性能调优，集成测试没问题后就上线了，上线后也几乎没出现过性能问题。”]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【文末有彩蛋】“不忘初心、筑梦前行”优麒麟壁纸征集活动]]></title>
+        <id>http://www.linuxeden.com/?p=87060</id>
+        <link href="http://www.linuxeden.com/a/87060"/>
+        <updated>2021-07-01T00:02:00.000Z</updated>
+        <summary type="html"><![CDATA[活动介绍“奋斗百年路，启航新征程”，为庆祝中国共产党成立 100 周年，大力弘扬红色精神，优麒麟社区举办“不忘初心、筑梦前行”壁纸征集活动，壁纸内容可围绕红色历程、人物风采、时代新貌，依托历史素材和研究史料，运用丰富的表现形式和设计手法再现 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深度操作系统 deepin 20.2.2 发布，新版应用商店上线]]></title>
+        <id>https://www.oschina.net/news/148425/deepin-20-2-2-released</id>
+        <link href="https://www.oschina.net/news/148425/deepin-20-2-2-released"/>
+        <updated>2021-06-30T23:19:00.000Z</updated>
+        <summary type="html"><![CDATA[深度操作系统 deepin 20.2.2 现已发布。官方发布公告指出，20.2.2 上线了全新的应用商店，清新的视觉设计、化繁为简的交互、丰富的功能、支持使用安卓应用，带来更好的应用管理及使用体验。系统支持安全启动，确保设备引导受信任的软件，为系统安全保驾护航。跟随上游升级内核版本，适配更多GPU型号及显卡，提升系统稳定...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn the CSS Box-Shadow Property by Coding a Beautiful Button ✨]]></title>
         <id>6063b8d69618b008528a9d79</id>
@@ -12294,16 +12404,6 @@ Pod 容器重启/重建
         <summary type="html"><![CDATA[今年早些时候，Raspberry Pi基金会宣布推出4美元的Raspberry Pi Pico和RP2040微控制器用于嵌入式开发。现在，RP2040芯片正在通过他们的经销商以仅1美元的价格出售，供那些想用这种树莓派芯片构建自己的电子产品的 […]]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VLOOK 10.5 发布！表格自动排版特性又上新了～好用实用 Typora/Markdown 插件]]></title>
-        <id>https://www.oschina.net/news/144105/vlook-10-5-released</id>
-        <link href="https://www.oschina.net/news/144105/vlook-10-5-released"/>
-        <updated>2021-06-01T11:55:25.000Z</updated>
-        <summary type="html"><![CDATA[Markdown 粉最喜欢 VLOOK「表格自动化排版」特性，今天又上新了！ 在 V10.5 版本事，可以实现设置表格列头自动重复出现了～这个对于长表格、带行分组的表格绝对是友好的助攻。 ———————————— 完整的更新日志如下： VLOOK™ 的所有特性清单，详见快速入坑 → 一键进入 表格 （+新增）表格列头支持标记为重复显...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>

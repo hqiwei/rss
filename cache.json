@@ -1872,6 +1872,51 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=87075",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 07 01",
+          "link": "http://www.linuxeden.com/a/87075",
+          "publishedOn": "2021-07-01T00:14:55.000Z",
+          "wordCount": 78,
+          "title": "开源美图 2021 07 01"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87072",
+          "author": "Editor, Kai",
+          "description": "HHVM 4.116 is released! This release marks the end of support for 4.110; HHVM 4.111–4.115 remain supported, as do the 4. […]",
+          "link": "http://www.linuxeden.com/a/87072",
+          "publishedOn": "2021-07-01T00:09:43.000Z",
+          "wordCount": 325,
+          "title": "HHVM 4.116发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87069",
+          "author": "Editor, Kai",
+          "description": "Major changes Complete changelog #18109 – Fix Gradle repository URL #18091 – Fix dev mode compile issues #18 […]",
+          "link": "http://www.linuxeden.com/a/87069",
+          "publishedOn": "2021-07-01T00:05:28.000Z",
+          "wordCount": 1893,
+          "title": "Quarkus 2.0.0.Final 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87067",
+          "author": "Editor, Kai",
+          "description": "🐞 Fix Tree loading status not been restored when loadData throw error. #31170 ⚡️ Optimize Progress animation CPU […]",
+          "link": "http://www.linuxeden.com/a/87067",
+          "publishedOn": "2021-07-01T00:03:42.000Z",
+          "wordCount": 139,
+          "title": "Ant Design 4.16.6 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87060",
+          "author": "Editor, Kai",
+          "description": "活动介绍“奋斗百年路，启航新征程”，为庆祝中国共产党成立 100 周年，大力弘扬红色精神，优麒麟社区举办“不忘初心、筑梦前行”壁纸征集活动，壁纸内容可围绕红色历程、人物风采、时代新貌，依托历史素材和研究史料，运用丰富的表现形式和设计手法再现 […]",
+          "link": "http://www.linuxeden.com/a/87060",
+          "publishedOn": "2021-07-01T00:02:00.000Z",
+          "wordCount": 175,
+          "title": "【文末有彩蛋】“不忘初心、筑梦前行”优麒麟壁纸征集活动"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=87058",
           "author": "Editor, Kai",
           "description": "Python 3.9.6 final 发布 APK替代者Android App Bundles八月生效：改变应用打包和交付方式 Fedora Linux 中的 Python 3.10 测试版 深度操作系统20.2.2 发布 Redisson […]",
@@ -5036,6 +5081,60 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/148439/linux-5-14-legacy-ide-dropped",
+          "author": null,
+          "description": "Phoronix 消息称，Linux 5.14 已经从内核中清除了遗留的 IDE 代码，这意味其着放弃了超过 41000 行的代码。 随着 drivers/ide 的清除工作于日前完成，旧的代码已正式被删除；且将来在内核的块子系统中，其还有可能继续清理那些因为旧的 IDE 代码而存在的衍生代码。 Linux 的传统 IDE 驱动代码自 2019 年起被废弃，计划在...",
+          "link": "https://www.oschina.net/news/148439/linux-5-14-legacy-ide-dropped",
+          "publishedOn": "2021-07-01T00:21:30.000Z",
+          "wordCount": 489,
+          "title": "Linux 5.14 删除了遗留的 IDE 代码"
+        },
+        {
+          "id": "https://www.oschina.net/news/148438/mozilla-launches-browsing-data-sharing-platform",
+          "author": null,
+          "description": "Mozilla 推出了一个以隐私为重点的全新数据共享平台，为用户提供了对其数据的更多控制权，也使他们能够为更好的互联网做出贡献。 Mozilla 近日与普林斯顿大学的研究人员合作，共同建立了一个名为 Rally 的数据共享平台，这个新的平台以隐私和透明度为核心，但也允许用户自行选择他们想与谁共享他们的浏览数据，通过将数据...",
+          "link": "https://www.oschina.net/news/148438/mozilla-launches-browsing-data-sharing-platform",
+          "publishedOn": "2021-07-01T00:19:41.000Z",
+          "wordCount": 476,
+          "title": "Mozilla 推出以隐私为重点的浏览数据共享平台"
+        },
+        {
+          "id": "https://my.oschina.net/u/4532842/blog/5116619",
+          "author": null,
+          "description": "这篇文章将演示如何通过利用 DockerHub 和 CRI-O 等 Docker 工具在 WasmEdge 中部署、管理和运行轻量级 WebAssembly 应用程序。",
+          "link": "https://my.oschina.net/u/4532842/blog/5116619",
+          "publishedOn": "2021-07-01T00:11:24.000Z",
+          "wordCount": 1240,
+          "title": "在 WasmEdge 中使用 Docker 工具管理 WebAssembly 应用"
+        },
+        {
+          "id": "https://www.oschina.net/p/yaegi",
+          "author": null,
+          "description": "Yaegi 是一个优雅的 Go 语言解释器，可以执行 Go 脚本和插件。",
+          "link": "https://www.oschina.net/p/yaegi",
+          "publishedOn": "2021-07-01T00:06:42.000Z",
+          "wordCount": 538,
+          "title": "Yaegi —— 优雅的 Go 语言解释器"
+        },
+        {
+          "id": "https://my.oschina.net/qinggee/blog/4680971",
+          "author": null,
+          "description": "前几天，和一个同学瞎聊，他说，“我们公司的系统从来都没有经过性能调优，集成测试没问题后就上线了，上线后也几乎没出现过性能问题。”",
+          "link": "https://my.oschina.net/qinggee/blog/4680971",
+          "publishedOn": "2021-07-01T00:02:32.000Z",
+          "wordCount": 291,
+          "title": "每日一博 | 对性能调优标准一无所知？"
+        },
+        {
+          "id": "https://www.oschina.net/news/148425/deepin-20-2-2-released",
+          "author": null,
+          "description": "深度操作系统 deepin 20.2.2 现已发布。官方发布公告指出，20.2.2 上线了全新的应用商店，清新的视觉设计、化繁为简的交互、丰富的功能、支持使用安卓应用，带来更好的应用管理及使用体验。系统支持安全启动，确保设备引导受信任的软件，为系统安全保驾护航。跟随上游升级内核版本，适配更多GPU型号及显卡，提升系统稳定...",
+          "link": "https://www.oschina.net/news/148425/deepin-20-2-2-released",
+          "publishedOn": "2021-06-30T23:19:00.000Z",
+          "wordCount": 603,
+          "title": "深度操作系统 deepin 20.2.2 发布，新版应用商店上线"
+        },
+        {
           "id": "https://www.oschina.net/news/148374",
           "author": null,
           "description": "近日，致力于行业市场深入服务的基础软件提供商，北京同源华安软件科技有限公司（以下简称“同源华安”）签署 CLA（Contributor License Agreement 贡献者许可协议），正式加入 openEuler 社区。 同源华安在加入社区后，将会和社区一起在虚拟化方向探索新的技术方向，目前同源华安的工程师已经加入 oVirt SIG，担任 Main...",
@@ -8094,15 +8193,6 @@
           "publishedOn": "2021-06-01T14:31:47.000Z",
           "wordCount": 835,
           "title": "全网首发！四招解锁 HarmonyOS 开发者成长计划，免费资料大奖拿到手软"
-        },
-        {
-          "id": "https://www.oschina.net/news/144105/vlook-10-5-released",
-          "author": null,
-          "description": "Markdown 粉最喜欢 VLOOK「表格自动化排版」特性，今天又上新了！ 在 V10.5 版本事，可以实现设置表格列头自动重复出现了～这个对于长表格、带行分组的表格绝对是友好的助攻。 ———————————— 完整的更新日志如下： VLOOK™ 的所有特性清单，详见快速入坑 → 一键进入 表格 （+新增）表格列头支持标记为重复显...",
-          "link": "https://www.oschina.net/news/144105/vlook-10-5-released",
-          "publishedOn": "2021-06-01T11:55:25.000Z",
-          "wordCount": 495,
-          "title": "VLOOK 10.5 发布！表格自动排版特性又上新了～好用实用 Typora/Markdown 插件"
         }
       ]
     },
