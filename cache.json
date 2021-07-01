@@ -805,15 +805,6 @@
           "publishedOn": "2021-06-01T20:47:43.000Z",
           "wordCount": 1416,
           "title": "Data Analytics with Pandas – How to Drop a List of Rows from a Pandas Dataframe"
-        },
-        {
-          "id": "60b668c0acb62507dd1d710b",
-          "author": null,
-          "description": "Next.js makes developing React applications simpler. It provides a common structure that allows you to build frontend React applications, and transparently handles server-side rendering for you. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Next.js.  Kapehe developed",
-          "link": "https://www.freecodecamp.org/news/learn-next-js/",
-          "publishedOn": "2021-06-01T17:43:56.000Z",
-          "wordCount": 407,
-          "title": "Learn Next.js and Make React Development Simpler"
         }
       ]
     },
@@ -5036,6 +5027,24 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/148503/xmake-2-5-5-released",
+          "author": null,
+          "description": "xmake 是一个基于 Lua 的轻量级跨平台构建工具，使用 xmake.lua 维护项目构建，相比 makefile/CMakeLists.txt，配置语法更加简洁直观，对新手非常友好，短时间内就能快速入门，能够让用户把更多的精力集中在实际的项目开发上。 2.5.5 版本中，我们继续改进远程包集成的体验，实现在云端预编译包，然后直接下载集成预编译...",
+          "link": "https://www.oschina.net/news/148503/xmake-2-5-5-released",
+          "publishedOn": "2021-07-01T05:31:53.000Z",
+          "wordCount": 1136,
+          "title": "xmake v2.5.5 发布，支持下载集成二进制镜像包"
+        },
+        {
+          "id": "https://www.oschina.net/news/148498/fydeos-12-2-released",
+          "author": null,
+          "description": "随着 FydeOS 全新官网上线，FydeOS v12.2 同时发布。 https://fydeos.com FydeOS v12.2 是 FydeOS v12 的一次维护和更新版本。在此次发布中，值得注意的变化有： 更换了全新的 FydeOS logo 以及系统自带程序的图标。 更新了 FydeOS 云服务的其它 UI 组件。 更新了 rEFInd 启动器的版本。 更新了内置的酷安市场。 更新了 ...",
+          "link": "https://www.oschina.net/news/148498/fydeos-12-2-released",
+          "publishedOn": "2021-07-01T04:42:05.000Z",
+          "wordCount": 476,
+          "title": "FydeOS v12.2 发布，引入全新设计的 UI 元素"
+        },
+        {
           "id": "https://www.oschina.net/news/148495",
           "author": null,
           "description": "经 openEuler 社区技术委员会讨论批准，openEuler 社区正式成立 AccLib SIG。AccLib SIG 由华为的鲲鹏计算加速库团队发起，从自身加速库业务出发，致力于发展 openEuler 上的加速库开源软件生态，在 openEuler 上构建一个面向全领域多平台的加速库技术发布平台。 openEuler 社区通过建立 AccLib SIG，希望从事加速库技术...",
@@ -5052,6 +5061,15 @@
           "publishedOn": "2021-07-01T02:57:50.000Z",
           "wordCount": 572,
           "title": "将 K8s 延伸到边缘计算，华为云 KubeEdge 实践分享"
+        },
+        {
+          "id": "https://www.oschina.net/news/148477/xmake-v2-5-5-released",
+          "author": null,
+          "description": "XMake v2.5.5 已经发布，基于 Lua 的跨平台构建工具。 此版本更新内容包括： 新特性 #1421: 针对 target 目标，增加目标文件名的前缀，后缀和扩展名设置接口。 #1422: 支持从 vcpkg, conan 中搜索包 #1424: 设置 binary 作为默认的 target 目标类型 #1140: 支持安装时候，手动选择从第三包包管理器安装包 #1339: 改进 xm...",
+          "link": "https://www.oschina.net/news/148477/xmake-v2-5-5-released",
+          "publishedOn": "2021-07-01T02:49:42.000Z",
+          "wordCount": 530,
+          "title": "XMake v2.5.5 发布，基于 Lua 的跨平台构建工具"
         },
         {
           "id": "https://www.oschina.net/news/148473/anolis-os-8-4-released",
