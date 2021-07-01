@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T04:11:49.216Z</updated>
+    <updated>2021-07-01T05:08:18.679Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[openEuler 社区成立 AccLib SIG，为应用加速]]></title>
+        <id>https://www.oschina.net/news/148495</id>
+        <link href="https://www.oschina.net/news/148495"/>
+        <updated>2021-07-01T04:17:35.000Z</updated>
+        <summary type="html"><![CDATA[经 openEuler 社区技术委员会讨论批准，openEuler 社区正式成立 AccLib SIG。AccLib SIG 由华为的鲲鹏计算加速库团队发起，从自身加速库业务出发，致力于发展 openEuler 上的加速库开源软件生态，在 openEuler 上构建一个面向全领域多平台的加速库技术发布平台。 openEuler 社区通过建立 AccLib SIG，希望从事加速库技术...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[将 K8s 延伸到边缘计算，华为云 KubeEdge 实践分享]]></title>
         <id>https://www.oschina.net/news/148481</id>
@@ -12431,46 +12441,6 @@ Pod 容器重启/重建
         <summary type="html"><![CDATA[Next.js makes developing React applications simpler. It provides a common structure that allows you to build frontend React applications, and transparently handles server-side rendering for you. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Next.js.  Kapehe developed]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火了这么多年的博客到底是什么你真的知道吗？]]></title>
-        <id>http://www.dayanzai.me/?p=1088</id>
-        <link href="http://www.dayanzai.me/what-is-a-blog.html"/>
-        <updated>2021-06-01T16:38:38.000Z</updated>
-        <summary type="html"><![CDATA[很多人认为博客只是一种在线日记，但这低估了专业管理博客的影响力。各种博客作者 – 独立企业家、公司 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Developer Journey – How I Got a Remote Job and Increased My Salary While Contributing to Open Source]]></title>
-        <id>60acf28e11ffb70827ef6dd9</id>
-        <link href="https://www.freecodecamp.org/news/my-developer-journey-how-i-increased-my-salary-and-got-a-remote-job/"/>
-        <updated>2021-06-01T16:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up increasing my salary as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary, and how]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get a Cybersecurity Job in 2021]]></title>
-        <id>60aff2d711ffb70827ef8829</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-a-cybersecurity-job/"/>
-        <updated>2021-06-01T16:34:00.000Z</updated>
-        <summary type="html"><![CDATA[This informative tutorial goes deep into how to get a cybersecurity job, with insights from senior leaders and hiring managers in the field.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简洁优雅免费 Markdown 编辑器 Typora 0.10.11 + x64 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=39876</id>
-        <link href="http://www.dayanzai.me/typora.html"/>
-        <updated>2021-06-01T16:26:50.000Z</updated>
-        <summary type="html"><![CDATA[Typora 中文版是一款简单、高效而且非常优雅的 Markdown 编辑器，它提供了一种所见即所得的全新的  […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
         </author>
     </entry>
 </feed>

@@ -814,24 +814,6 @@
           "publishedOn": "2021-06-01T17:43:56.000Z",
           "wordCount": 407,
           "title": "Learn Next.js and Make React Development Simpler"
-        },
-        {
-          "id": "60acf28e11ffb70827ef6dd9",
-          "author": null,
-          "description": "Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up increasing my salary as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary, and how",
-          "link": "https://www.freecodecamp.org/news/my-developer-journey-how-i-increased-my-salary-and-got-a-remote-job/",
-          "publishedOn": "2021-06-01T16:35:00.000Z",
-          "wordCount": 2823,
-          "title": "My Developer Journey – How I Got a Remote Job and Increased My Salary While Contributing to Open Source"
-        },
-        {
-          "id": "60aff2d711ffb70827ef8829",
-          "author": null,
-          "description": "This informative tutorial goes deep into how to get a cybersecurity job, with insights from senior leaders and hiring managers in the field.",
-          "link": "https://www.freecodecamp.org/news/how-to-get-a-cybersecurity-job/",
-          "publishedOn": "2021-06-01T16:34:00.000Z",
-          "wordCount": 2137,
-          "title": "How to Get a Cybersecurity Job in 2021"
         }
       ]
     },
@@ -5054,6 +5036,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/148495",
+          "author": null,
+          "description": "经 openEuler 社区技术委员会讨论批准，openEuler 社区正式成立 AccLib SIG。AccLib SIG 由华为的鲲鹏计算加速库团队发起，从自身加速库业务出发，致力于发展 openEuler 上的加速库开源软件生态，在 openEuler 上构建一个面向全领域多平台的加速库技术发布平台。 openEuler 社区通过建立 AccLib SIG，希望从事加速库技术...",
+          "link": "https://www.oschina.net/news/148495",
+          "publishedOn": "2021-07-01T04:17:35.000Z",
+          "wordCount": 494,
+          "title": "openEuler 社区成立 AccLib SIG，为应用加速"
+        },
+        {
           "id": "https://www.oschina.net/news/148481",
           "author": null,
           "description": "近年来，随着互联网流量的爆发式增长，把软件业务进行拆分的微服务架构已经成为很多大中型互联网公司的建设标准，容器技术及相关应用得到了国内外越来越多的关注度。在国外，容器技术已经形成了较成熟的生态圈；而在国内，金融企业、互联网企业、IT 企业也正在积极投入容器技术的应用。 在容器集群编排与管理领域，CNCF ...",
@@ -9070,24 +9061,6 @@
           "publishedOn": "2021-06-02T16:26:15.000Z",
           "wordCount": 535,
           "title": "网络封包分析工具 Wireshark 3.4.6 + x64 中文多语免费版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=1088",
-          "author": "大眼仔~旭",
-          "description": "很多人认为博客只是一种在线日记，但这低估了专业管理博客的影响力。各种博客作者 – 独立企业家、公司 […]",
-          "link": "http://www.dayanzai.me/what-is-a-blog.html",
-          "publishedOn": "2021-06-01T16:38:38.000Z",
-          "wordCount": 558,
-          "title": "火了这么多年的博客到底是什么你真的知道吗？"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=39876",
-          "author": "大眼仔~旭",
-          "description": "Typora 中文版是一款简单、高效而且非常优雅的 Markdown 编辑器，它提供了一种所见即所得的全新的  […]",
-          "link": "http://www.dayanzai.me/typora.html",
-          "publishedOn": "2021-06-01T16:26:50.000Z",
-          "wordCount": 553,
-          "title": "简洁优雅免费 Markdown 编辑器 Typora 0.10.11 + x64 中文多语免费版"
         }
       ]
     }
