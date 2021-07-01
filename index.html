@@ -20,6 +20,23 @@
     <ul class="sources card">
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.appinn.com">小众软件</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">你们都是怎么整理「那个」文件夹的？TagExplorer</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.appinn.com/tagexplorer-for-windows/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(4 min)</span>
+                    <span>哪个？对，就是那个。 有同学在讨论组提出了一个非常有意思的问题： 【调查·讨论】你们都是怎么整理”那个”文件夹的？ 请问各位，你们平时是怎么整理”那个”视频文件的？是按类型分类</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="http://www.linuxeden.com">Linuxeden开源社区</a></h3>
           <section class="articles-per-source">
             <article>
@@ -83,6 +100,64 @@
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://gocn.vip/">GoCN社区</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">同程旅行基于 RocketMQ 高可用架构实践</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12256">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>背景介绍
+​
+为何选择 RocketMQ
+​
+
+我们在几年前决定引入 MQ 时，市场上已经有不少成熟的解决方案，比如 RabbitMQ , ActiveMQ，NSQ，Kafka 等。考虑到稳定性、维护成本、公司技术栈等因素，我们选择了 RocketMQ ：
+​
+纯 Java 开发，无依赖，使用简单，出现问题能 hold ；
+经过阿里双十一考验，性能、稳定性可以保障；
+功能实用，发送端：同步、异步、单边、延时发送；消费端：消息重置，重试队列，死信队列；
+社区活跃，出问题能及时沟通解决。
+​
+使用情况
+​
+
+
+主要用于削峰、解耦、异步处理；
+已在火车票、机票、酒店等核心业务广泛使用，扛住巨大的微信入口流量；
+在支付、订单、出票、数据同步等核心流程广泛使用；
+每天 1000+ 亿条消息周转。
+​
+
+下图是 MQ 接入框架图
+​
+由于公司技术栈原因，client sdk 我们提供了 java sdk ；对于其他语言，收敛到 http proxy ，屏蔽语言细节，节约维护成本。按照各大业务线，对后端存储节点进行了隔离，相互不影响。
+​
+​
+MQ 双中心改造
+​
+
+之前单机房出现过网络故障，对业务影响较大。为保障业务高可用，同城双中心改造提上了日程。
+​
+为何做双中心
+​
+
+
+单机房故障业务可用；​
+保证数据可靠：若所有数据都在一个机房，一旦机房故障，数据有丢失风险；
+横向扩容：单机房容量有限，多机房可分担流量。
+​
+双中心方案
+​
+
+做双中心之前，对同城双中心方案作了些调研，主要有冷（热）备份、双活两种。（当时社区 Dledger 版本还没出现，Dledger 版本完全可做为双中心的一种可选方案。）
+​
+1）同城冷（热）备份
+​
+两个独立的 MQ 集群, 用户流量写到一个主集群，数据实时同步到备用集群，社区有成熟的 RocketMQ Replicator 方案，需要定期同步元数据，比…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">GoCN 每日新闻 (2021-06-30)</summary>
@@ -14628,7 +14703,7 @@ Pod 容器重启/重建
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-07-01T06:11:44.497Z">2021-07-01T06:11:44.497Z</time>
+    <time id="build-timestamp" datetime="2021-07-01T07:08:43.873Z">2021-07-01T07:08:43.873Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.0</a></span>
   </footer>
   <script src="index.js"></script>

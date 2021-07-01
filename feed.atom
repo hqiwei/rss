@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T06:11:44.533Z</updated>
+    <updated>2021-07-01T07:08:43.910Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[同程旅行基于 RocketMQ 高可用架构实践]]></title>
+        <id>https://gocn.vip/topics/12256</id>
+        <link href="https://gocn.vip/topics/12256"/>
+        <updated>2021-07-01T06:52:57.000Z</updated>
+        <summary type="html"><![CDATA[背景介绍
+​
+为何选择 RocketMQ
+​
+
+我们在几年前决定引入 MQ 时，市场上已经有不少成熟的解决方案，比如 RabbitMQ , ActiveMQ，NSQ，Kafka 等。考虑到稳定性、维护成本、公司技术栈等因素，我们选择了 RocketMQ ：
+​
+纯 Java 开发，无依赖，使用简单，出现问题能 hold ；
+经过阿里双十一考验，性能、稳定性可以保障；
+功能实用，发送端：同步、异步、单边、延时发送；消费端：消息重置，重试队列，死信队列；
+社区活跃，出问题能及时沟通解决。
+​
+使用情况
+​
+
+
+主要用于削峰、解耦、异步处理；
+已在火车票、机票、酒店等核心业务广泛使用，扛住巨大的微信入口流量；
+在支付、订单、出票、数据同步等核心流程广泛使用；
+每天 1000+ 亿条消息周转。
+​
+
+下图是 MQ 接入框架图
+​
+由于公司技术栈原因，client sdk 我们提供了 java sdk ；对于其他语言，收敛到 http proxy ，屏蔽语言细节，节约维护成本。按照各大业务线，对后端存储节点进行了隔离，相互不影响。
+​
+​
+MQ 双中心改造
+​
+
+之前单机房出现过网络故障，对业务影响较大。为保障业务高可用，同城双中心改造提上了日程。
+​
+为何做双中心
+​
+
+
+单机房故障业务可用；​
+保证数据可靠：若所有数据都在一个机房，一旦机房故障，数据有丢失风险；
+横向扩容：单机房容量有限，多机房可分担流量。
+​
+双中心方案
+​
+
+做双中心之前，对同城双中心方案作了些调研，主要有冷（热）备份、双活两种。（当时社区 Dledger 版本还没出现，Dledger 版本完全可做为双中心的一种可选方案。）
+​
+1）同城冷（热）备份
+​
+两个独立的 MQ 集群, 用户流量写到一个主集群，数据实时同步到备用集群，社区有成熟的 RocketMQ Replicator 方案，需要定期同步元数据，比…]]></summary>
+        <author>
+            <name>alicloudnative</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你们都是怎么整理「那个」文件夹的？TagExplorer]]></title>
+        <id>https://www.appinn.com/?p=39179</id>
+        <link href="https://www.appinn.com/tagexplorer-for-windows/"/>
+        <updated>2021-07-01T06:38:32.000Z</updated>
+        <summary type="html"><![CDATA[哪个？对，就是那个。 有同学在讨论组提出了一个非常有意思的问题： 【调查·讨论】你们都是怎么整理”那个”文件夹的？ 请问各位，你们平时是怎么整理”那个”视频文件的？是按类型分类]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[xmake v2.5.5 发布，支持下载集成二进制镜像包]]></title>
         <id>https://www.oschina.net/news/148503/xmake-2-5-5-released</id>
