@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T12:14:13.314Z</updated>
+    <updated>2021-07-02T13:15:59.556Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[南大光电ArF光刻胶已拿到小批量订单 曾称可用于14/7nm工艺]]></title>
+        <id>http://www.linuxeden.com/?p=87120</id>
+        <link href="http://www.linuxeden.com/a/87120"/>
+        <updated>2021-07-02T12:48:56.000Z</updated>
+        <summary type="html"><![CDATA[7月2日消息，国内半导体材料厂商南大光电在互动平台上表示，公司旗下的ArF光刻胶产品拿到小批量订单，不过他们没有透露具体的客户名单。 今年5月份，南大光电发表公告，控股子公司宁波南大光电自主研发的ArF光刻胶继2020年12月在一家存储芯片 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何实现跨设备的双向连接？ Labo 涂鸦鸿蒙亲子版分布式开发技术分享]]></title>
         <id>https://gocn.vip/topics/12264</id>
@@ -12470,36 +12480,6 @@ Base  金山办公  珠海/广州
         <summary type="html"><![CDATA[有一天，我试图在一个新的 Ubuntu 系统上编译一个程序，当我试图使用 make 命令时，它向我抛出一个错误： The program 'make' is currently not installed. You can install  […]]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI 与微软合作，推出 1 亿美元的初创基金]]></title>
-        <id>https://www.oschina.net/news/144333/openai-launches-100-million-fund-with-backing-from-microsoft</id>
-        <link href="https://www.oschina.net/news/144333/openai-launches-100-million-fund-with-backing-from-microsoft"/>
-        <updated>2021-06-03T00:58:43.000Z</updated>
-        <summary type="html"><![CDATA[近日，OpenAI 推出了 OpenAI Startup Fund（OpenAI 初创基金），该基金目前具有一亿美金的资金池，用于帮助人工智能公司对世界产生深远、积极的影响。该基金由 OpenAI 管理，由微软和其他合作伙伴投资，OpenAI 表示被选中的公司将提前进入未来的 OpenAI 系统，得到 OpenAI 团队的支持。 据 OpenAI 的首席执行官 Sam Altm...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudera 将以 53 亿美元被收购并私有化]]></title>
-        <id>https://www.oschina.net/news/144329/cloudera-to-be-acquired-5-3-billion</id>
-        <link href="https://www.oschina.net/news/144329/cloudera-to-be-acquired-5-3-billion"/>
-        <updated>2021-06-03T00:33:03.000Z</updated>
-        <summary type="html"><![CDATA[企业数据云管理公司 Cloudera 宣布已达成一项最终协议，其将被 Clayton、Dubilier & Rice（"CD&R"）和 KKR 的关联公司收购，全现金交易价值约为 53 亿美元。该交易预计于 2021 年下半年完成，将使得 Cloudera 成为一家私人公司。 Cloudera 于 2008 年由谷歌、Facebook、甲骨文和雅虎公司的一群工程师创立；是 Hadoop 数据...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCC 不再要求将版权转让给自由软件基金会]]></title>
-        <id>https://www.oschina.net/news/144328/gcc-drops-fsf-ca</id>
-        <link href="https://www.oschina.net/news/144328/gcc-drops-fsf-ca"/>
-        <updated>2021-06-03T00:20:58.000Z</updated>
-        <summary type="html"><![CDATA[当 RMS 重返自由软件基金会（FSF，Free Software Foundation）董事会时，FSF 董事会并未考虑其他人会如何看待他的回归。鉴于这一事件引发的风波，GCC 指导委员会（GCC Steering Committee）此前已将 RMS 从 GCC 的最初创建者成员中移除，GCC 指导委员会近日宣布，他们还将放弃长期以来要求所有代码贡献的版权转让给 FSF ...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
