@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T17:17:54.346Z</updated>
+    <updated>2021-07-02T18:09:52.134Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12355,68 +12355,6 @@ OpenYurt v0.4.0 版本推出全新特性：边缘本地存储管理，用于高�
         <summary type="html"><![CDATA[Gdu 是一款实用 Go 语言编写的跨平台磁盘使用情况分析工具，虽然是命令行式工具，但 Gdu 还是有一个简单的图形界面，并且多数操作可通过方向键操作。@Appinn Gdu – go D]]></summary>
         <author>
             <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-03)]]></title>
-        <id>https://gocn.vip/topics/12151</id>
-        <link href="https://gocn.vip/topics/12151"/>
-        <updated>2021-06-03T05:53:46.000Z</updated>
-        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-06-03)
-基于 cdp 协议开发的浏览器自动化工具 rod  https://go-rod.github.io/i18n/zh-CN/#/get-started/README
-
-Go 重构和转换工具  https://github.com/uber-go/gopatch#gopatch
-3.开发小应用的 jetbrains 插件 tinygo   https://blog.jetbrains.com/go/2021/06/02/tinygo-for-tiny-applications-discover-a-new-plugin-for-goland/
-
-使用 httputil 反向代理工具将 grpc rest & html 绑定到一个端口上  https://medium.com/james-reads-public-cloud-technology-blog/using-a-httputil-reverse-proxy-to-host-grpc-rest-html-on-a-single-port-9d3f629762b7
-
-Pre-commit-golang 支持 revive 了 https://github.com/TekWizely/pre-commit-golang/releases/tag/v0.8.3
-
-
-
-
-
-免费门票来了！Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ
-
-
-编辑: 阿章 
-
-
-订阅新闻: http://tinyletter.com/gocn
-
-
-招聘专区: https://gocn.vip/jobs
-
-
-GoCN 归档: https://gocn.vip/topics/12149]]></summary>
-        <author>
-            <name>azhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[上海 - 徐汇] [亚数] Golang 研发工程师]]></title>
-        <id>https://gocn.vip/topics/12150</id>
-        <link href="https://gocn.vip/topics/12150"/>
-        <updated>2021-06-03T05:38:52.000Z</updated>
-        <summary type="html"><![CDATA[岗位要求：
-计算机、通信及相关专业，本科及以上学历，3 年以上开发经验
-熟练掌握 Go 语言，熟悉 Goroutine、channel 和锁等，有丰富的开发、调试经验
-熟练掌握 MySQL，掌握常用性能优化技巧
-熟练使用常用中间件 redis、kafka、Elasticsearch
-熟练掌握微服务框架 gRPC 及序列化协议 protobuf
-对分布式系统、微服务架构和原理有比较深入了解者优先
-熟悉 docker、Kubernetes、云原生者优先
-有良好的编码规范和接口设计规范，重视数据、代码及系统安全
-岗位职责：
-负责证书加解密、数字签名等相关领域的研究开发
-负责支持多种文件格式签名的客户端开发
-负责 PDF 文档签名的客户端开发
-负责 PKI 客户端相关开发
-相关研究可以做一些专利
-简历投递：yuki.feng@trustasia.com
-入职薪资：18-30]]></summary>
-        <author>
-            <name>berryhe</name>
         </author>
     </entry>
 </feed>

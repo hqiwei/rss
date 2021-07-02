@@ -1836,24 +1836,6 @@
           "publishedOn": "2021-06-03T08:09:11.000Z",
           "wordCount": 321,
           "title": "OpenYurt v0.4.0 新特性发布：高效地管理边缘存储资源"
-        },
-        {
-          "id": "https://gocn.vip/topics/12151",
-          "author": "azhang",
-          "description": "GoCN 每日新闻 (2021-06-03)\n基于 cdp 协议开发的浏览器自动化工具 rod  https://go-rod.github.io/i18n/zh-CN/#/get-started/README\n\nGo 重构和转换工具  https://github.com/uber-go/gopatch#gopatch\n3.开发小应用的 jetbrains 插件 tinygo   https://blog.jetbrains.com/go/2021/06/02/tinygo-for-tiny-applications-discover-a-new-plugin-for-goland/\n\n使用 httputil 反向代理工具将 grpc rest & html 绑定到一个端口上  https://medium.com/james-reads-public-cloud-technology-blog/using-a-httputil-reverse-proxy-to-host-grpc-rest-html-on-a-single-port-9d3f629762b7\n\nPre-commit-golang 支持 revive 了 https://github.com/TekWizely/pre-commit-golang/releases/tag/v0.8.3\n\n\n\n\n\n免费门票来了！Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n编辑: 阿章 \n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs\n\n\nGoCN 归档: https://gocn.vip/topics/12149",
-          "link": "https://gocn.vip/topics/12151",
-          "publishedOn": "2021-06-03T05:53:46.000Z",
-          "wordCount": 114,
-          "title": "GoCN 每日新闻 (2021-06-03)"
-        },
-        {
-          "id": "https://gocn.vip/topics/12150",
-          "author": "berryhe",
-          "description": "岗位要求：\n计算机、通信及相关专业，本科及以上学历，3 年以上开发经验\n熟练掌握 Go 语言，熟悉 Goroutine、channel 和锁等，有丰富的开发、调试经验\n熟练掌握 MySQL，掌握常用性能优化技巧\n熟练使用常用中间件 redis、kafka、Elasticsearch\n熟练掌握微服务框架 gRPC 及序列化协议 protobuf\n对分布式系统、微服务架构和原理有比较深入了解者优先\n熟悉 docker、Kubernetes、云原生者优先\n有良好的编码规范和接口设计规范，重视数据、代码及系统安全\n岗位职责：\n负责证书加解密、数字签名等相关领域的研究开发\n负责支持多种文件格式签名的客户端开发\n负责 PDF 文档签名的客户端开发\n负责 PKI 客户端相关开发\n相关研究可以做一些专利\n简历投递：yuki.feng@trustasia.com\n入职薪资：18-30",
-          "link": "https://gocn.vip/topics/12150",
-          "publishedOn": "2021-06-03T05:38:52.000Z",
-          "wordCount": 131,
-          "title": "[上海 - 徐汇] [亚数] Golang 研发工程师"
         }
       ]
     },
