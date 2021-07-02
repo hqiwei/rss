@@ -839,6 +839,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12265",
+          "author": "cuteLittleDevil",
+          "description": "GoCN 每日新闻 (2021-07-02)\n『每周译 Go』硬件内存模型 https://mp.weixin.qq.com/s/t0mWCya8DH0hXl21viAIRA\n\n函数传递指针真的比传值效率高吗 https://juejin.cn/post/6979939230810112030\n\n请不要使用==符号比较哈希密码 https://nowhereref.com/posts/please-dont-use-equal-operator-when-comparing-password-hashes/\n\nGopher China 2021 https://mp.weixin.qq.com/s/m_qmqOKmRNqW5omrJ6ZxsA\n\n听说 Mutex 源码是出名的不好看，我不信，来试一下 https://mp.weixin.qq.com/s/kTlpaV22vaprJSEZy8KPsw\n\n\n\n\n编辑: CDS\n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs\n\nGoCN 归档: https://gocn.vip/topics/12265",
+          "link": "https://gocn.vip/topics/12265",
+          "publishedOn": "2021-07-02T13:24:07.000Z",
+          "wordCount": 100,
+          "title": "GoCN 每日新闻 (2021-07-02)"
+        },
+        {
           "id": "https://gocn.vip/topics/12264",
           "author": "185218195",
           "description": "近期，首届 HarmonyOS 开发者创新大赛正式落下帷幕。大赛共历时 5 个月，超过 3000 支队伍的 10000 多名选手参赛，25000 多位开发者参与了大赛学习，最终 23 支参赛队伍斩获奖项，产出了多款有创新、有创意、有价值的优秀作品。其中由 “Labo Lado 儿童艺术创想” 团队打造的《Labo 涂鸦鸿蒙亲子版》就是其中之一，其创造性地通过 HarmonyOS 分布式技术，实现了多设备下的亲子互动涂鸦功能，最终摘得大赛一等奖。\n在很早以前，“Labo Lado 儿童艺术创想” 团队就做过一款涂鸦游戏的应用，该应用可以让孩子和父母在一个平板或者手机上进行绘画比赛，比赛的方式就是屏幕一分为二，两人各在设备的一边进行涂鸦。这种方式虽然有趣，但是对于绘画而言，屏幕尺寸限制了用户的发挥和操作。因此团队希望这类玩法能通过多个设备完成，于是他们研究了 ZeroConf、iOS 的 Multipeer Connectivity、Google Nearby 等近距离互联的技术, 结果发现这些技术在设备发现和应用拉起方面实现的都不理想，尤其是当目标用户是儿童的情况下，操作起来不够简便也不易上手。\nHarmonyOS 的出现给团队带来了希望。他们发现 HarmonyOS 的分布式技术有着很大的应用潜力，这项技术让设备的发现和应用拉起变的非常的简单自然，互联的过程也很流畅，很好地解决了单机操作的限制，让跨设备联机功能能够非常容易地实现。此外，HarmonyOS 的开发也给团队留下了很深刻的印象，以往繁琐的开发步骤，在 HarmonyOS 中仅需几个配置、几行代码即可完成，无需花费太多精力。在《Labo 涂鸦鸿蒙亲子版》里面的 5 个分布式玩法的开发只用了团队一名开发者不到两个月的时间，其中还包括了学习上手、解决文档不全和各种疑难问题的过程。\n以下是 “Labo Lado 儿童艺术…",
@@ -1845,15 +1854,6 @@
           "publishedOn": "2021-06-03T05:38:52.000Z",
           "wordCount": 131,
           "title": "[上海 - 徐汇] [亚数] Golang 研发工程师"
-        },
-        {
-          "id": "https://gocn.vip/topics/12149",
-          "author": "simple634725267",
-          "description": "负责【WPS 个人云】产品线上服务与开发；\n日均几千万人使用的 WPS 云产品开发。\n【golang 程序开发】岗位要求：\n3 年以上工作经验，golang 方向后端开发；\n掌握常用数据结构、算法，面向对象编程，熟悉 Linux 系统；\n了解基本网络知识，TCP/IP、UDP、HTTP 等网络协议；\n掌握 c/c++/python/php/go/SQL 一种或多种编程语言，golang 优先；\n有 nginx/redis/mysql/docker/kafka/es 一种或多种软件使用经验者；\n有 web 前端开发经验者强烈加分。\n【运维开发】岗位职责：\n负责云平台后端可靠性系统开发和按时交付，保证交付质量；\n参与建设可靠性运维支撑平台、自动化平台，开发相关运维工具；\n负责容器及虚拟化相关前沿技术规划和研发工作，从技术上保证产品的竞争力。\n岗位要求：\n学历本科以上，两年以上工作经验；\n精通 Linux，对系统原理有深入理解；\n熟悉 TCP/IP 及网络编程；\n熟悉掌握 Python，Shell 编程，有 golang 经验加分；\n熟悉常用开源组件，K8S、Elasticsearch、Redis、Kafka、Nginx、Ceph；\n有责任心，积极主动，思维清晰，具有良好的团队协作和沟通表达能力。\nBase  金山办公  珠海/广州\n应聘邮箱： 634725267@qq.com\n邮件命名：Go 招聘 + 姓名 +GoCN",
-          "link": "https://gocn.vip/topics/12149",
-          "publishedOn": "2021-06-03T01:58:20.000Z",
-          "wordCount": 127,
-          "title": "✧ෆ◞◟˃̶̤⌄˂ 期望遇见你【金山 WPS】Go 开发招聘"
         }
       ]
     },
@@ -4633,15 +4633,6 @@
           "publishedOn": "2021-06-03T04:49:36.000Z",
           "wordCount": 85,
           "title": "鲁大师测试HarmonyOS 2.0：应用恢复率高达95.45% 力压iOS"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86044",
-          "author": "Editor, Kai",
-          "description": "有一天，我试图在一个新的 Ubuntu 系统上编译一个程序，当我试图使用 make 命令时，它向我抛出一个错误： The program 'make' is currently not installed. You can install  […]",
-          "link": "http://www.linuxeden.com/a/86044",
-          "publishedOn": "2021-06-03T01:31:15.000Z",
-          "wordCount": 192,
-          "title": "Make 命令未找到？这是修复它的方法"
         }
       ]
     },
