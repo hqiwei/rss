@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T08:11:06.129Z</updated>
+    <updated>2021-07-02T09:09:53.644Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Golang 图片处理 — image 库]]></title>
+        <id>https://gocn.vip/topics/12262</id>
+        <link href="https://gocn.vip/topics/12262"/>
+        <updated>2021-07-02T09:09:06.000Z</updated>
+        <summary type="html"><![CDATA[编辑推荐：Bazinga
+在开发中，有时会遇到对图片的处理需求，在 Python 中， PIL/Pillow  库非常强大和易用。
+而 Golang 语言中，处理图片的标准库 image也可以实现一些基本操作。
+image 库支持常见的 PNG、JPEG、GIF 等格式的图片处理， 可以对图片进行读取、裁剪、绘制、生成等操作。
+读取、新建图片
+读取
+图片的读取，和文件的读取类似，只需要使用 os.Open()函数，获取一个输入流，然后将数据流进行解码操作。
+需要注意的是，在解码阶段，要将不同类型的图片的解码器先进行注册，这样才不会报unknown format 的错误。
+package main
+
+import (
+    "fmt"
+    "image"
+    _ "image/png"
+    "os"
+)
+
+func main() {
+    f, err := os.Open("./gopher.png")
+    if err != nil {
+        panic(err)
+    }
+    img, formatName, err := image.Decode(f)
+    if err != nil {
+        panic(err)
+    }
+    fmt.Println(formatName)
+    fmt.Println(img.Bounds())
+    fmt.Println(img.ColorModel())
+}
+
+Decode 方法返回的第一个值是一个 image.Image类型接口。不同的颜色模型的图片返回不同类型的值。该接口有三个方法：
+type Image interface {
+  ColorModel() color.Model // 返回图片的颜色模型
+  Bounds() Rectangle       …]]></summary>
+        <author>
+            <name>bazinga</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TiDB 5.1 发版，打造更流畅的企业级数据库体验]]></title>
         <id>https://www.oschina.net/news/148693/tidb-5-1-released</id>
@@ -12487,16 +12531,6 @@ Base  金山办公  珠海/广州
         <link href="https://www.freecodecamp.org/news/how-to-design-your-own-learning-plan-for-any-tech-stack/"/>
         <updated>2021-06-02T21:18:15.000Z</updated>
         <summary type="html"><![CDATA[One of the most difficult things about getting started in a new career as a developer is figuring out exactly what you should be learning – and then translating that into an effective plan. There are so many resources out there for learning, so lack of information is not the problem.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More]]></title>
-        <id>60a699b0906c5207e3a7f5ab</id>
-        <link href="https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/"/>
-        <updated>2021-06-02T20:44:22.000Z</updated>
-        <summary type="html"><![CDATA[Configuring your .vimrc file lets you use the full power of Vim. With a customized .vimrc file you can increase your Vim powers tenfold. In this article I will show you a few ways you can customize your .vimrc file. I will go over: Basic SettingsPluginsFoldingVimscriptStatus lineFirst create the following]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
