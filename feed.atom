@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T01:54:07.926Z</updated>
+    <updated>2021-07-02T03:10:52.032Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2021 年 6 月国产数据库大事记]]></title>
+        <id>https://my.oschina.net/u/4559794/blog/5117620</id>
+        <link href="https://my.oschina.net/u/4559794/blog/5117620"/>
+        <updated>2021-07-02T02:29:17.000Z</updated>
+        <summary type="html"><![CDATA[蚂蚁集团自研数据库OceanBase宣布开源；《中华人民共和国数据安全法》（简称《数据安全法》）表决通过；沐融科技签署CLA协议，正式加入openGauss社区]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Canonical 调查：85% 的公司尚未完全采用 Kubernetes 和云原生]]></title>
         <id>https://www.oschina.net/news/148623/canonical-industry-global-survey</id>
@@ -184,6 +194,16 @@
         <summary type="html"><![CDATA[The backend of a website can be written in many different programming languages. It is becoming increasingly common for to use Python for the backend of a website. We just released a full backend web development with Python course on the freeCodeCamp.org YouTube channel. This comprehensive course is for]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[程序员的编辑器 Vim 8.2.3082 + x64 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=44983</id>
+        <link href="http://www.dayanzai.me/vim.html"/>
+        <updated>2021-07-01T16:31:43.000Z</updated>
+        <summary type="html"><![CDATA[Vim 是旧的 UNIX 编辑器 Vi 的大大改进版本。添加了许多新功能：多级撤消，语法突出显示，命令行历史记 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
@@ -12459,56 +12479,6 @@ Base  金山办公  珠海/广州
         <summary type="html"><![CDATA[Wireshark 抓包分析工具由大眼仔旭（www.dayanzai.me）发布。Wireshark（前称 E […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦]]></title>
-        <id>60b51f6e11ffb70827ef9f7c</id>
-        <link href="https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/"/>
-        <updated>2021-06-02T14:45:18.000Z</updated>
-        <summary type="html"><![CDATA[Today we're going to build and run an ice cream shop and learn asynchronous JavaScript at the same time. Along the way, you'll learn how to use: CallbacksPromisesAsync / AwaitHere's what we'll cover in this article:What is Asynchronous JavaScript?Synchronous vs Asynchronous JavaScriptHow Callbacks Work in JavaScriptHow Promises Work in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日文章精选 2021 06 02]]></title>
-        <id>http://www.linuxeden.com/?p=86040</id>
-        <link href="http://www.linuxeden.com/a/86040"/>
-        <updated>2021-06-02T14:25:58.000Z</updated>
-        <summary type="html"><![CDATA[使用 systemd 作为问题定位工具 Apache Tika 1.26 发布 Apache Bookkeeper 4.14.1发布 台积电公布最新技术进展！3nm明年量产 Nyxt 浏览器：一个受 Emacs 和 Vim 启发的面向键盘的 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 systemd 作为问题定位工具]]></title>
-        <id>http://www.linuxeden.com/?p=86038</id>
-        <link href="http://www.linuxeden.com/a/86038"/>
-        <updated>2021-06-02T14:22:37.000Z</updated>
-        <summary type="html"><![CDATA[虽然 systemd 并非真正的故障定位工具，但其输出中的信息为解决问题指明了方向。 没有人会认为 systemd 是一个故障定位工具，但当我的 web 服务器遇到问题时，我对 systemd 和它的一些功能的不断了解帮助我找到并规避了问题 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Tika 1.26 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86027</id>
-        <link href="http://www.linuxeden.com/a/86027"/>
-        <updated>2021-06-02T14:10:26.000Z</updated>
-        <summary type="html"><![CDATA[CHANGES-1.26.txt                2021-06-01 14:50   94K tika-1.26-src.zip               2021-06-01 14:50  118M tika-1.26- […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Bookkeeper 4.14.1发布]]></title>
-        <id>http://www.linuxeden.com/?p=86020</id>
-        <link href="http://www.linuxeden.com/a/86020"/>
-        <updated>2021-06-02T14:08:19.000Z</updated>
-        <summary type="html"><![CDATA[bkctl-4.14.1-bin.tar.gz                    2021-05-29 05:09   59M bkctl-4.14.1-bin.tar.gz.asc                2021-05-29  […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>
