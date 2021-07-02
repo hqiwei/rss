@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T21:08:41.943Z</updated>
+    <updated>2021-07-02T22:11:03.071Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12309,16 +12309,6 @@ stringer 命令，通过代码生成提高效率  https://mp.weixin.qq.com/s/Ik3
         <summary type="html"><![CDATA[麻省理工学院研究人员创造了第一种具有数字功能的纤维，在被缝入衬衫后能够感知、存储、分析和推断活动。数字纤维扩大了织物的可能性，可以发现人体中隐藏模式，可以用于体能监测、医疗推断和早期疾病检测。 研究人员在《自然通讯》上描述了数字光纤的特点。 […]]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[助力数据安全：蚂蚁携手英特尔共同打造验证 PPML 解决方案]]></title>
-        <id>https://www.oschina.net/news/144450</id>
-        <link href="https://www.oschina.net/news/144450"/>
-        <updated>2021-06-03T10:03:48.000Z</updated>
-        <summary type="html"><![CDATA[机器学习（ML）和深度学习（DL）在众多真实的应用场景中愈发重要。这些模型使用已知数据进行训练，并部署在图像分类、内容推荐等场景中进行新数据的处理。总体而言，数据越多，ML/DL 模型就越完善。但囤积和处理海量数据也带来了隐私、安全和监管等风险。 隐私保护机器学习（PPML）有助于化解这些风险。其采用加密技术差...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
