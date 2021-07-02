@@ -2,10 +2,160 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T23:09:53.295Z</updated>
+    <updated>2021-07-02T01:54:07.926Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Canonical 调查：85% 的公司尚未完全采用 Kubernetes 和云原生]]></title>
+        <id>https://www.oschina.net/news/148623/canonical-industry-global-survey</id>
+        <link href="https://www.oschina.net/news/148623/canonical-industry-global-survey"/>
+        <updated>2021-07-02T00:52:46.000Z</updated>
+        <summary type="html"><![CDATA[Canonical 发布的一份 2021 年 Kubernetes 和云原生运营报告指出，尽管近年来云原生技术的采用率很高，但仍有 85% 的企业尚未跨越鸿沟全面采用 Kubernetes 和云原生；不过，他们正朝着这个方向迅速发展。 此报告基于全球 1200 名受访者的数据，涉及混合和多云运营、Kubernetes、VM、裸机、目标、优势、挑战、运营商、高级...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Fuchsia OS 将换上全新 Logo]]></title>
+        <id>https://www.oschina.net/news/148621/google-fuchsia-os-new-logo</id>
+        <link href="https://www.oschina.net/news/148621/google-fuchsia-os-new-logo"/>
+        <updated>2021-07-02T00:35:53.000Z</updated>
+        <summary type="html"><![CDATA[近日 Google 提交的一份新的商标文件显示，Google 将会为 Fuchsia OS 换上一个全新的 Logo。 Fuchsia 旧版 Logo 随着公司或项目的发展，以及设计潮流的变化，公司或项目的 Logo 往往也会发生变化。例如，今年小米就邀请了原研哉对小米的 Logo 进行了重新设计。Google 在 2019 年也对 Android 的 Logo 进行了重新设计。 ...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源如何赢得未来？]]></title>
+        <id>https://my.oschina.net/oscpyaqxylk/blog/5115634</id>
+        <link href="https://my.oschina.net/oscpyaqxylk/blog/5115634"/>
+        <updated>2021-07-02T00:26:51.000Z</updated>
+        <summary type="html"><![CDATA[围绕社区建设，堵俊平从开源的本质与初心谈起，总结了社区治理中的若干问题，最后提出：繁荣的社区生态需要更多地依靠“开放治理”，让社区规则更加透明化，不断吸引更多开发者和专业人员加入，使整个社区欣欣向荣。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 07 02]]></title>
+        <id>http://www.linuxeden.com/?p=87117</id>
+        <link href="http://www.linuxeden.com/a/87117"/>
+        <updated>2021-07-02T00:26:07.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 07 02]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对残障人士更友好，Visual Studio 获多项辅助功能更新]]></title>
+        <id>https://www.oschina.net/news/148619/visual-studio-even-more-accessible-together</id>
+        <link href="https://www.oschina.net/news/148619/visual-studio-even-more-accessible-together"/>
+        <updated>2021-07-02T00:24:52.000Z</updated>
+        <summary type="html"><![CDATA[微软发出了一项倡议，旨在使 Visual Studio 的使用更加无障碍，让残疾人士和神经分化群体更容易使用该平台。提议的功能包括：whitespace rendering、option collecting、Focus Mode 和 Audio cues。该公司发布了一个行动呼吁，并试图从用户处获得反馈。 根据介绍，whitespace rendering 将允许用户在缩进时自定义由空格填...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 165 期）：全端 App 的时代]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html"/>
+        <updated>2021-07-02T00:19:51.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[deno v1.11.4 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87115</id>
+        <link href="http://www.linuxeden.com/a/87115"/>
+        <updated>2021-07-02T00:12:49.000Z</updated>
+        <summary type="html"><![CDATA[1.11.4 / 2021.07.01 upgrade: swc 0.44.0 (#11197) ci: don’t set DENO_CANARY when releasing (#11181) 7 people reacte […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP 8.0.8、7.4.21 、7.3.29 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87113</id>
+        <link href="http://www.linuxeden.com/a/87113"/>
+        <updated>2021-07-02T00:12:19.000Z</updated>
+        <summary type="html"><![CDATA[Current Stable PHP 8.0.8 (Changelog) php-8.0.8.tar.gz (sig) [15,756Kb] 01 Jul 2021 084a1e8020e86fb99b663d195fd9ac98a9f37 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APK 格式成为历史，AAB 将成为 Google Play 新应用的唯一分发格式]]></title>
+        <id>https://www.oschina.net/news/148618/android-app-bundles-is-coming</id>
+        <link href="https://www.oschina.net/news/148618/android-app-bundles-is-coming"/>
+        <updated>2021-07-02T00:11:41.000Z</updated>
+        <summary type="html"><![CDATA[早在 2018 年 5 月的 Google I/O 大会上，Google 就介绍了 Android App Bundle（AAB）格式，作为其现代化开发的一部分。今年 8 月，AAB 格式将成为全新上架到 Google Play Store 应用的默认格式，已经上架的老应用暂时不会受到影响。 Google 在公告中表示： 为了给更多用户带来这些好处，并专注于能使所有开发者受益的现...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vue  3.1.3 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87111</id>
+        <link href="http://www.linuxeden.com/a/87111"/>
+        <updated>2021-07-02T00:09:42.000Z</updated>
+        <summary type="html"><![CDATA[Please refer to CHANGELOG.md for details. 2 people reacted 🎉 2   Assets 2 Source code (zip) Source code (ta […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国产GPU追上GTX 1080 Ti？景嘉微：等流片回来才能比]]></title>
+        <id>http://www.linuxeden.com/?p=87109</id>
+        <link href="http://www.linuxeden.com/a/87109"/>
+        <updated>2021-07-02T00:06:32.000Z</updated>
+        <summary type="html"><![CDATA[在GPU领域，AMD及NVIDIA的领先优势是其他公司无法比的，尤其是高性能显卡领域。国产GPU这两年也在快速追赶，景嘉微最新的JM9系列此前被认为可追上GTX 1080 Ti显卡，让人眼前一亮。 在最新的沟通交流会上，景嘉微公司也回应了一 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[comicgen —— 为网页和应用创建漫画]]></title>
+        <id>https://www.oschina.net/p/comicgen</id>
+        <link href="https://www.oschina.net/p/comicgen"/>
+        <updated>2021-07-02T00:06:28.000Z</updated>
+        <summary type="html"><![CDATA[comicgen 是一个可以所见即所得创建漫画的项目，使用者通过选择漫画主角、表情、动作与大小等选项，创建出对应漫画图，并可以将代码嵌入到网页与应用中。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node v14.17.2 (LTS) 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87107</id>
+        <link href="http://www.linuxeden.com/a/87107"/>
+        <updated>2021-07-02T00:04:06.000Z</updated>
+        <summary type="html"><![CDATA[Notable Changes Vulnerabilities fixed: CVE-2021-22918: libuv upgrade – Out of bounds read (Medium) Node.js is vuln […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitee 推荐 | 基于云服务的量子控制平台 Quanlse]]></title>
+        <id>https://gitee.com/baidu/Quanlse</id>
+        <link href="https://gitee.com/baidu/Quanlse"/>
+        <updated>2021-07-02T00:03:45.000Z</updated>
+        <summary type="html"><![CDATA[量脉(Quanlse)是由百度研究院量子计算研究所开发的基于云服务的量子控制平台。量脉的目标是搭起连接量子软件和硬件之间的桥梁。通过强大的量脉云服务和开源 SDK，提供高效和专业的量子控制解决方案。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 一个成功的 Git 分支模型]]></title>
+        <id>https://my.oschina.net/nehcoab/blog/5117652</id>
+        <link href="https://my.oschina.net/nehcoab/blog/5117652"/>
+        <updated>2021-07-02T00:01:23.000Z</updated>
+        <summary type="html"><![CDATA[本文中提出的分支模型（git-flow）是在 2010 年构思的，那时 Git 才诞生不久，如今 10 年已过。在这 10 年中，该模型开始在众多软件团队中大放异彩，以至于人们开始将其视为某种标准 —— 但遗憾的是，其甚至被视为了教条或者所谓万能药。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Website Theming? How to Use CSS Custom Properties and Gatsby.js to Customize Your Site]]></title>
         <id>60dc72b527f80207bcdbbd8f</id>
@@ -12359,59 +12509,6 @@ Base  金山办公  珠海/广州
         <summary type="html"><![CDATA[bkctl-4.14.1-bin.tar.gz                    2021-05-29 05:09   59M bkctl-4.14.1-bin.tar.gz.asc                2021-05-29  […]]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台积电公布最新技术进展！3nm明年量产]]></title>
-        <id>http://www.linuxeden.com/?p=86016</id>
-        <link href="http://www.linuxeden.com/a/86016"/>
-        <updated>2021-06-02T13:42:38.000Z</updated>
-        <summary type="html"><![CDATA[本周，台积电举办了2021年技术研讨会，分享其先进逻辑技术、特殊技术、3DFabric先进封装与芯片堆叠等方面的最新进展，由于疫情尚未平复，台积电依然沿用去年的线上模式举办这次论坛。 “数字化转型为半导体行业开辟了一个充满机遇的新世界，我们 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[优麒麟软件商店 UI 升级之旅 - 带来视觉极致享受]]></title>
-        <id>https://www.oschina.net/news/144282</id>
-        <link href="https://www.oschina.net/news/144282"/>
-        <updated>2021-06-02T12:31:40.000Z</updated>
-        <summary type="html"><![CDATA[2020年是个特别的一年，我们重新定义了系统桌面的UI环境，基于更加扁平、轻量的设计理念去诠释优麒麟整个系统设计生态，同时，秉持着对用户的诉求以及对产品的全面提升，我们此次对软件商店进行了整体功能优化。UI升级，这次，我们“大有不同”。 改版初衷是什么？ 从麒麟系统问世，从 1.0 到 3.0 的对系统不断打磨，麒麟...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-02)]]></title>
-        <id>https://gocn.vip/topics/12148</id>
-        <link href="https://gocn.vip/topics/12148"/>
-        <updated>2021-06-02T11:17:07.000Z</updated>
-        <summary type="html"><![CDATA[OpenKruise v0.9.0 版本发布：新增 Pod 重启、删除防护等重磅功能 https://gocn.vip/topics/12146
-
-Go 正则表达式库之 commonregex https://gocn.vip/topics/12143
-
-使用 httputil 反向代理在单个端口上托管 gRPC REST 和 HTML https://medium.com/james-reads-public-cloud-technology-blog/using-a-httputil-reverse-proxy-to-host-grpc-rest-html-on-a-single-port-9d3f629762b7
-
-Go 泛型在函数式编程中的应用 https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/
-
-从数据库创建 gRPC 服务器 https://github.com/walterwanderley/xo-grpc
-
-
-
-
-
-免费门票来了！Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ
-
-
-编辑: Shann
-
-
-订阅新闻: http://tinyletter.com/gocn
-
-
-招聘专区: https://gocn.vip/jobs]]></summary>
-        <author>
-            <name>Orichalcum</name>
         </author>
     </entry>
 </feed>
