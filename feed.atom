@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T10:10:06.986Z</updated>
+    <updated>2021-07-02T11:07:56.115Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[如何实现跨设备的双向连接？ Labo 涂鸦鸿蒙亲子版分布式开发技术分享]]></title>
+        <id>https://gocn.vip/topics/12264</id>
+        <link href="https://gocn.vip/topics/12264"/>
+        <updated>2021-07-02T10:38:59.000Z</updated>
+        <summary type="html"><![CDATA[近期，首届 HarmonyOS 开发者创新大赛正式落下帷幕。大赛共历时 5 个月，超过 3000 支队伍的 10000 多名选手参赛，25000 多位开发者参与了大赛学习，最终 23 支参赛队伍斩获奖项，产出了多款有创新、有创意、有价值的优秀作品。其中由 “Labo Lado 儿童艺术创想” 团队打造的《Labo 涂鸦鸿蒙亲子版》就是其中之一，其创造性地通过 HarmonyOS 分布式技术，实现了多设备下的亲子互动涂鸦功能，最终摘得大赛一等奖。
+在很早以前，“Labo Lado 儿童艺术创想” 团队就做过一款涂鸦游戏的应用，该应用可以让孩子和父母在一个平板或者手机上进行绘画比赛，比赛的方式就是屏幕一分为二，两人各在设备的一边进行涂鸦。这种方式虽然有趣，但是对于绘画而言，屏幕尺寸限制了用户的发挥和操作。因此团队希望这类玩法能通过多个设备完成，于是他们研究了 ZeroConf、iOS 的 Multipeer Connectivity、Google Nearby 等近距离互联的技术, 结果发现这些技术在设备发现和应用拉起方面实现的都不理想，尤其是当目标用户是儿童的情况下，操作起来不够简便也不易上手。
+HarmonyOS 的出现给团队带来了希望。他们发现 HarmonyOS 的分布式技术有着很大的应用潜力，这项技术让设备的发现和应用拉起变的非常的简单自然，互联的过程也很流畅，很好地解决了单机操作的限制，让跨设备联机功能能够非常容易地实现。此外，HarmonyOS 的开发也给团队留下了很深刻的印象，以往繁琐的开发步骤，在 HarmonyOS 中仅需几个配置、几行代码即可完成，无需花费太多精力。在《Labo 涂鸦鸿蒙亲子版》里面的 5 个分布式玩法的开发只用了团队一名开发者不到两个月的时间，其中还包括了学习上手、解决文档不全和各种疑难问题的过程。
+以下是 “Labo Lado 儿童艺术…]]></summary>
+        <author>
+            <name>185218195</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[上海] UCloud 招 Golang 开发工程师（开发者工具方向）]]></title>
         <id>https://gocn.vip/topics/12263</id>
@@ -12545,16 +12558,6 @@ Base  金山办公  珠海/广州
         <link href="https://www.freecodecamp.org/news/what-is-commit-signing-in-git/"/>
         <updated>2021-06-02T23:14:01.000Z</updated>
         <summary type="html"><![CDATA[Git has a feature to "sign" commits, but what is signing, and what are the benefits? TL;DR: If you don't care for the details, and just need to get commit signing setup quickly, skip to How to Sign Commits. Signing, or code signing specifically, is the process of using]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Environment Variables in VanillaJS]]></title>
-        <id>60b3a25211ffb70827ef9b39</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-environment-variables-in-vanillajs/"/>
-        <updated>2021-06-02T22:54:18.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn about environment variables in Vanilla JavaScript. You'll also learn how to serve API keys to your application through the Netlify build command. What are JavaScript environment variables?Environment variables are very common when you're using JavaScript frameworks like React or Vue for creating frontend]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
