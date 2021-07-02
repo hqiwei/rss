@@ -1863,6 +1863,33 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=87129",
+          "author": "Editor, Kai",
+          "description": "CI/CD 管道是什么？ 英特尔开始为Linux提供DG2与Xe_HP SDV支持补丁 南大光电ArF光刻胶已拿到小批量订单 曾称可用于14/7nm工艺 deno v1.11.4 发布 使用开源工具创建私有的虚拟专用网络 Linux 5.1 […]",
+          "link": "http://www.linuxeden.com/a/87129",
+          "publishedOn": "2021-07-02T15:02:01.000Z",
+          "wordCount": 87,
+          "title": "每日文章精选 2021 07 02"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87127",
+          "author": "Editor, Kai",
+          "description": "你如何定义持续集成/持续部署管道取决于你组织的要求。 持续集成continuous integration/持续部署continuous deployment（CI/CD）管道是每个 DevOps 计划的基础。 CI/CD 管道打破了传统的 […]",
+          "link": "http://www.linuxeden.com/a/87127",
+          "publishedOn": "2021-07-02T15:00:38.000Z",
+          "wordCount": 210,
+          "title": "CI/CD 管道是什么？"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87123",
+          "author": "Editor, Kai",
+          "description": "早前有报道称，英特尔已开始向开发者送去 Xe-HPG DG2 显卡，且网络上涌现了许多与新一代显卡有关的爆料。最新消息是，英特尔的开源 Linux 驱动工程师们，已开始提供可用于启用 DG2 和 Xe_HP SDV 的补丁。而在 DG2 到 […]",
+          "link": "http://www.linuxeden.com/a/87123",
+          "publishedOn": "2021-07-02T14:57:59.000Z",
+          "wordCount": 137,
+          "title": "英特尔开始为Linux提供DG2与Xe_HP SDV支持补丁"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=87120",
           "author": "Editor, Kai",
           "description": "7月2日消息，国内半导体材料厂商南大光电在互动平台上表示，公司旗下的ArF光刻胶产品拿到小批量订单，不过他们没有透露具体的客户名单。 今年5月份，南大光电发表公告，控股子公司宁波南大光电自主研发的ArF光刻胶继2020年12月在一家存储芯片 […]",
@@ -8121,15 +8148,6 @@
           "publishedOn": "2021-06-03T04:51:45.000Z",
           "wordCount": 501,
           "title": "Kafka 商业化公司 Confluent 启动 IPO"
-        },
-        {
-          "id": "https://my.oschina.net/u/4855753/blog/5065587",
-          "author": null,
-          "description": "OSC 特别策划毕业季征文活动，送定制 T 恤、内裤、晴雨伞、笔记本~",
-          "link": "https://my.oschina.net/u/4855753/blog/5065587",
-          "publishedOn": "2021-06-03T02:57:46.000Z",
-          "wordCount": 182,
-          "title": "我真·我敢 毕业季征文活动 | 6.7~6.20，赢 OSC 周边好礼！"
         }
       ]
     },
