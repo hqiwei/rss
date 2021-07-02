@@ -4946,15 +4946,6 @@
           "publishedOn": "2021-06-04T03:06:00.000Z",
           "wordCount": 1223,
           "title": "Rclone for Android – 云服务/网盘文件管理工具 Rclone 的 Android 客户端"
-        },
-        {
-          "id": "https://www.appinn.com/?p=38953",
-          "author": "青小蛙",
-          "description": "Gdu 是一款实用 Go 语言编写的跨平台磁盘使用情况分析工具，虽然是命令行式工具，但 Gdu 还是有一个简单的图形界面，并且多数操作可通过方向键操作。@Appinn Gdu – go D",
-          "link": "https://www.appinn.com/gdu-go-diskusage/",
-          "publishedOn": "2021-06-03T06:40:44.000Z",
-          "wordCount": 1106,
-          "title": "Gdu – Windows 也能用的「命令行式」磁盘使用情况分析工具"
         }
       ]
     },

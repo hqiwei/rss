@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T18:09:52.134Z</updated>
+    <updated>2021-07-02T19:09:11.424Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12345,16 +12345,6 @@ OpenYurt v0.4.0 版本推出全新特性：边缘本地存储管理，用于高�
 与云平台无关：nod…]]></summary>
         <author>
             <name>alicloudnative</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gdu – Windows 也能用的「命令行式」磁盘使用情况分析工具]]></title>
-        <id>https://www.appinn.com/?p=38953</id>
-        <link href="https://www.appinn.com/gdu-go-diskusage/"/>
-        <updated>2021-06-03T06:40:44.000Z</updated>
-        <summary type="html"><![CDATA[Gdu 是一款实用 Go 语言编写的跨平台磁盘使用情况分析工具，虽然是命令行式工具，但 Gdu 还是有一个简单的图形界面，并且多数操作可通过方向键操作。@Appinn Gdu – go D]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
 </feed>
