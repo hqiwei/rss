@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T11:07:56.115Z</updated>
+    <updated>2021-07-02T12:14:13.314Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -1488,6 +1488,16 @@ Go 提供的工具允许我们可视化所有这些步骤，并在程序中查�
         <link href="https://www.oschina.net/news/148239"/>
         <updated>2021-06-29T10:29:26.000Z</updated>
         <summary type="html"><![CDATA[被 Forrester 评选为开发者和运营商的领先平台，Red Hat 是混合云基础设施、云原生应用程序开发、管理和自动化解决方案的开源开发的领导力量 旧金山，2021 年 6 月 23 日——持续交付基金会（CDF）是一个开源软件基金会，旨在提高全世界以安全和速度交付软件的能力，该基金会今天宣布红帽公司成为其主要成员。红帽公司的...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Milvus 2.0 新版本一览：重新定义向量数据库]]></title>
+        <id>https://www.oschina.net/news/148236</id>
+        <link href="https://www.oschina.net/news/148236"/>
+        <updated>2021-06-29T10:12:00.000Z</updated>
+        <summary type="html"><![CDATA[✏️ 作者：栾小凡， Zilliz 研发总监 2018 年 10 月，我们写下了向量数据库 Milvus 的第一行代码；在历经了 29 个月、19 个版本的迭代与全球 1000 家用户的实践验证后，终于在 2021 年 3月迎来了 Milvus 1.0 版本。Milvus 解决了对向量数据进行增删改查（CRUD）操作和数据持久化的问题，但随着新需求的出现，更多问题也...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>
@@ -12490,76 +12500,6 @@ Base  金山办公  珠海/广州
         <summary type="html"><![CDATA[当 RMS 重返自由软件基金会（FSF，Free Software Foundation）董事会时，FSF 董事会并未考虑其他人会如何看待他的回归。鉴于这一事件引发的风波，GCC 指导委员会（GCC Steering Committee）此前已将 RMS 从 GCC 的最初创建者成员中移除，GCC 指导委员会近日宣布，他们还将放弃长期以来要求所有代码贡献的版权转让给 FSF ...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾讯大股东 Prosus 以 18 亿美元收购了 Stack OverFlow]]></title>
-        <id>https://www.oschina.net/news/144326/stack-overflow-sold-1-8-billion-prosus</id>
-        <link href="https://www.oschina.net/news/144326/stack-overflow-sold-1-8-billion-prosus"/>
-        <updated>2021-06-03T00:11:47.000Z</updated>
-        <summary type="html"><![CDATA[欧洲最大的科技投资公司 Prosus 宣布，已经以 18 亿美元收购了软件开发人员的在线社区 Stack Overflow，这是该公司对不断增长的在线技术学习需求的押注。同时，此举也将其持股从中国市场分散开来。 Stack OverFlow 总部设在美国纽约，运营着一个免费站点，供软件工程师分享问题和答案。它有一个企业产品 Stack OverFlow...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开放原子开源基金会发布毕业标准：宽进严出、聚焦成熟度]]></title>
-        <id>https://my.oschina.net/u/4489239/blog/5067250</id>
-        <link href="https://my.oschina.net/u/4489239/blog/5067250"/>
-        <updated>2021-06-03T00:05:55.000Z</updated>
-        <summary type="html"><![CDATA[6 月 1 日，开放原子开源基金会（以下简称基金会）发布针对孵化项目的毕业标准 v1.0。毕业标准 v1.0 制定总体遵循“宽进严出”原则，注重考察项目代码和社区的成熟度，并把项目的安全性作为最高优先级。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kooder —— 源码托管系统代码搜索工具]]></title>
-        <id>https://www.oschina.net/p/Kooder</id>
-        <link href="https://www.oschina.net/p/Kooder"/>
-        <updated>2021-06-03T00:02:38.000Z</updated>
-        <summary type="html"><![CDATA[Kooder 是一个开源的代码搜索工具，目标是为包括 Gitee/GitLab/Gitea 在内的代码托管系统提供自动的源码、仓库和 Issue 的搜索服务。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitee 推荐 | 高性能的 Java 报表引擎 skyeye-report]]></title>
-        <id>https://gitee.com/doc_wei01/skyeye-report</id>
-        <link href="https://gitee.com/doc_wei01/skyeye-report"/>
-        <updated>2021-06-03T00:01:23.000Z</updated>
-        <summary type="html"><![CDATA[skyeye-report 是一款高性能的 Java 报表引擎，提供完善的基于网页的报表设计器，可快速做出各种复杂的中式报表。支持多种数据源以及拖拽式报表功能。专业化报表设计编辑器，支持多种格式文件的导出。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日一博 | CSRF、XSS 攻防原理及解决方案]]></title>
-        <id>https://my.oschina.net/u/3024426/blog/4636206</id>
-        <link href="https://my.oschina.net/u/3024426/blog/4636206"/>
-        <updated>2021-06-03T00:00:38.000Z</updated>
-        <summary type="html"><![CDATA[CSRF 全称叫做，跨站请求伪造(Cross—Site Request Forgery)，顾名思义，攻击者盗用了你的身份，以你的名义发送恶意请求，对服务器来说这个请求是完全合法的，但是却完成了攻击者所期望的一个操作，比如以你的名义发送邮件、发消息，盗取你的账号，添加系统管理员，甚至于购买商品、虚拟货币转账等。对于服务器而言，判断...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome OS 91 发布，为 Chromebook 带来文件互传功能]]></title>
-        <id>https://www.oschina.net/news/144318/chrome-os-91-released</id>
-        <link href="https://www.oschina.net/news/144318/chrome-os-91-released"/>
-        <updated>2021-06-02T23:32:04.000Z</updated>
-        <summary type="html"><![CDATA[继上周的桌面端 Chrome 浏览器更新至 91 版本之后，Chrome OS 91 从今天起也将陆续推送至用户的 Chromebook 上。 Nearby Share Chrome OS 91 中最重要的升级就是带来了 Nearby Share 功能，Nearby Share 在去年率先在 Android 设备上推出，让不同品牌的 Android 手机可以快速共享手机中的文件。如今该功能正式登陆 Chro...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Commit Signing in Git?]]></title>
-        <id>60afce3011ffb70827ef869c</id>
-        <link href="https://www.freecodecamp.org/news/what-is-commit-signing-in-git/"/>
-        <updated>2021-06-02T23:14:01.000Z</updated>
-        <summary type="html"><![CDATA[Git has a feature to "sign" commits, but what is signing, and what are the benefits? TL;DR: If you don't care for the details, and just need to get commit signing setup quickly, skip to How to Sign Commits. Signing, or code signing specifically, is the process of using]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
