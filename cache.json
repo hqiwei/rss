@@ -5036,6 +5036,24 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/148693/tidb-5-1-released",
+          "author": null,
+          "description": "自 TiDB 5.0 发布以来，陆续在金融、互联网 & 新经济、物流等行业用户的生产环境得到应用，收获不少用户的积极评价： TiDB 服务 58 金融、安居客等数仓报表的复杂读取与关联查询，在多表关联查询中，相比 4.0 版本性能最高提升达 90%； 经过网易互娱场景实测，与 4.0 相比 TiDB 5.0 整体性能表现更加稳定，没有出现明显的...",
+          "link": "https://www.oschina.net/news/148693/tidb-5-1-released",
+          "publishedOn": "2021-07-02T07:03:17.000Z",
+          "wordCount": 791,
+          "title": "TiDB 5.1 发版，打造更流畅的企业级数据库体验"
+        },
+        {
+          "id": "https://www.oschina.net/news/148690/deepin-news",
+          "author": null,
+          "description": "为了更全面的保障电脑设备使用安全，深度操作系统（deepin）获取了安全启动证书认证，成为国内首个获得该认证的Linux发行版。 什么是安全启动？ 安全启动是UEFI扩展协议定义的安全标准，旨在帮助确保设备仅使用原始设备制造商 (OEM) 信任的软件启动。当电脑启动时，固件会检查每个引导软件的签名，如果签名有效，则电脑启...",
+          "link": "https://www.oschina.net/news/148690/deepin-news",
+          "publishedOn": "2021-07-02T06:53:38.000Z",
+          "wordCount": 459,
+          "title": "deepin！国内首个获取安全启动证书认证的 Linux 发行版"
+        },
+        {
           "id": "https://www.oschina.net/news/148662/2021-risk-analysis-report-of-oss",
           "author": null,
           "description": "国家互联网应急中心（英文简称为\"CNCERT\"）近日发布了《2021年开源软件供应链安全风险研究报告》。 报告共分为五部分 第一部分，介绍开源漏洞的发展现状及趋势； 第二部分，聚焦开源组件生态库的安全风险； 第三部分，重点围绕组件按依赖层级漏洞传播范围分析； 第四部分，对文件级漏洞潜在安全风险及波及范围进行讨论；...",
