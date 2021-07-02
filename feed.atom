@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T04:11:46.224Z</updated>
+    <updated>2021-07-02T05:08:18.719Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp July 2021 Summit – Campfire Mode, Data Science Curriculum, Chapter, and Other New Features]]></title>
+        <id>60de3cf127f80207bcdbc9af</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-july-2021-summit/"/>
+        <updated>2021-07-02T04:55:18.000Z</updated>
+        <summary type="html"><![CDATA[We just published demos of several upcoming freeCodeCamp features and community initiatives. You can read about them here, and watch the entire Summit in the video embedded below. Here's what we cover in this jam-packed one hour community update.Announcement #1: Campfire ModeWe've built a new mode where you can]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海贝音乐 – 专为 HiFi 设计，支持从百度网盘、OneDrive 直接播放的无损音乐播放器[iOS/Android]]]></title>
+        <id>https://www.appinn.com/?p=39183</id>
+        <link href="https://www.appinn.com/hiby-music-player/"/>
+        <updated>2021-07-02T04:32:40.000Z</updated>
+        <summary type="html"><![CDATA[海贝音乐是一款专为 HiFi 设计的免费高音质音乐播放器，支持 iPhone 与 Android，除了本地音乐文件，还支持从百度网盘、Dropbox、OneDrive、DLNA、局域网加载音乐列表并直]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TiDB 5.1 发版，打造更流畅的企业级数据库体验]]></title>
         <id>https://gocn.vip/topics/12259</id>
@@ -12479,46 +12499,6 @@ Base  金山办公  珠海/广州
         <summary type="html"><![CDATA[What is Vue.js? Vue.js is a progressive JavaScript frontend framework written by Evan You. It's one of the most powerful and easy to learn frameworks, and it has over 9.5 million downloads per month.  In September 2020, Vue 3 core was released. The new Vue.js release]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源 3D 动画建模渲染软件 Blender 2.93.0 x64 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=41982</id>
-        <link href="http://www.dayanzai.me/blender.html"/>
-        <updated>2021-06-02T16:33:43.000Z</updated>
-        <summary type="html"><![CDATA[Blender 中文版是一款免费的开源 3D 创作套件由大眼仔旭（www.dayanzai.me）整理发布。B […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源 Windows 动态壁纸软件 Lively Wallpaper 1.6.0.2 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=14694</id>
-        <link href="http://www.dayanzai.me/lively-wallpaper.html"/>
-        <updated>2021-06-02T16:30:59.000Z</updated>
-        <summary type="html"><![CDATA[开源 Windows 动态壁纸软件 Lively Wallpaper 中文版由大眼仔旭（www.dayanza […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免费视频播放器 ALLPlayer 8.8.6 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=8632</id>
-        <link href="http://www.dayanzai.me/allplayer.html"/>
-        <updated>2021-06-02T16:30:31.000Z</updated>
-        <summary type="html"><![CDATA[ALLPlayer 中文版由大眼仔旭（www.dayanzai.me）发布。ALLPlayer 中文特别版是采 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网络封包分析工具 Wireshark 3.4.6 + x64 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=19991</id>
-        <link href="http://www.dayanzai.me/wireshark.html"/>
-        <updated>2021-06-02T16:26:15.000Z</updated>
-        <summary type="html"><![CDATA[Wireshark 抓包分析工具由大眼仔旭（www.dayanzai.me）发布。Wireshark（前称 E […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
         </author>
     </entry>
 </feed>
