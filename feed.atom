@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T19:09:11.424Z</updated>
+    <updated>2021-07-02T20:09:41.167Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12319,32 +12319,6 @@ stringer 命令，通过代码生成提高效率  https://mp.weixin.qq.com/s/Ik3
         <summary type="html"><![CDATA[机器学习（ML）和深度学习（DL）在众多真实的应用场景中愈发重要。这些模型使用已知数据进行训练，并部署在图像分类、内容推荐等场景中进行新数据的处理。总体而言，数据越多，ML/DL 模型就越完善。但囤积和处理海量数据也带来了隐私、安全和监管等风险。 隐私保护机器学习（PPML）有助于化解这些风险。其采用加密技术差...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenYurt v0.4.0 新特性发布：高效地管理边缘存储资源]]></title>
-        <id>https://gocn.vip/topics/12152</id>
-        <link href="https://gocn.vip/topics/12152"/>
-        <updated>2021-06-03T08:09:11.000Z</updated>
-        <summary type="html"><![CDATA[作者 | 高文俊
-来源｜阿里巴巴云原生公众号
-​
-简介
-OpenYurt 是由阿里云开源的基于原生 Kubernetes 构建的、业内首个对于 Kubernetes 非侵入式的边缘计算项目，目标是扩展 Kubernetes 以无缝支持边缘计算场景。它提供了完整的 Kubernetes API 兼容性；支持所有 Kubernetes 工作负载、服务、运营商、CNI 插件和 CSI 插件；提供良好的节点自治能力和云边协同能力。OpenYurt 可以轻松部署在任何 Kubernetes 集群服务中，让强大的云原生能力扩展到边缘。
-​
-边缘本地存储
-​
-OpenYurt v0.4.0 版本推出全新特性：边缘本地存储管理，用于高效地管理边缘节点的存储资源，用户可以通过 ConfigMap 来动态配置集群内节点的本地资源，并能无缝对接 CSI 存储插件，通过原生的 PV/PVC 方式使用本地存储。
-​
-该项目组件主要包含两个部分， 一个是定义在集群中 kube-system namespace 的 node-resource-topo ConfigMap, 一个是部署在集群中 kube-system namespace 下面的 node-resource-manager Daemonset, 每个 Node 节点上的 node-resource-manager 通过挂载 node-resource-topo ConfigMap 的方式生产并管理用户定义的本地资源。架构如下：
-​
-
-主要优点：
-简单易用：node-resource-manager 可以仅通过定义 ConfigMap 就完成对集群中的本地资源的初始化和更新。
-易于集成：node-resource-manager 可以与 csi 插件集成来完成 kubernetes 集群中的相关本地资源的生命周期管理。
-与云平台无关：nod…]]></summary>
-        <author>
-            <name>alicloudnative</name>
         </author>
     </entry>
 </feed>
