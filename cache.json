@@ -4606,60 +4606,6 @@
           "publishedOn": "2021-06-03T14:01:58.000Z",
           "wordCount": 74,
           "title": "麻省理工学院研发可编程数字纤维 有内存传感器和人工智能"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86063",
-          "author": "Editor, Kai",
-          "description": "Linuxeden开源社区-开源美图 2021 06 03",
-          "link": "http://www.linuxeden.com/a/86063",
-          "publishedOn": "2021-06-03T05:09:11.000Z",
-          "wordCount": 86,
-          "title": "开源美图 2021 06 03"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86059",
-          "author": "Editor, Kai",
-          "description": "成立于 2008 年的 Stack Overflow 编程服务网站，致力于构建一个让知识分享变得更加容易的程序员社区。作为一个流行的码农 Q&A 交流平台，它刚刚被欧洲投资企业 Prosus 给收购。Stack Overflow 联 […]",
-          "link": "http://www.linuxeden.com/a/86059",
-          "publishedOn": "2021-06-03T05:05:03.000Z",
-          "wordCount": 106,
-          "title": "欧洲投资公司Prosus以18亿美元收购Stack Overflow码农服务网站"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86057",
-          "author": "Editor, Kai",
-          "description": "HHVM 4.112 is released! This release marks the end of support for 4.106; HHVM 4.107–4.111 remain supported, as do the 4. […]",
-          "link": "http://www.linuxeden.com/a/86057",
-          "publishedOn": "2021-06-03T05:03:43.000Z",
-          "wordCount": 214,
-          "title": "HHVM 4.112 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86054",
-          "author": "Editor, Kai",
-          "description": "虽然 GCC 11 是 GCC 的最新稳定系列，但对于那些仍在使用 2019 年最初亮相的 GCC 9 的人来说，本周有一个新的点版本发布。 长期以来，GCC 要求任何补丁都要向 FSF 转让版权，这对于某些人来说会是个问题。而鉴于 RMS […]",
-          "link": "http://www.linuxeden.com/a/86054",
-          "publishedOn": "2021-06-03T04:59:59.000Z",
-          "wordCount": 122,
-          "title": "GCC 9.4 发布，不再强制要求代码贡献版权转让给 FSF"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86052",
-          "author": "Editor, Kai",
-          "description": "Features Added experimental cookie encryption support behind an Electron Fuse. #29493 (Also in 14) Added support for deb […]",
-          "link": "http://www.linuxeden.com/a/86052",
-          "publishedOn": "2021-06-03T04:52:00.000Z",
-          "wordCount": 429,
-          "title": "Electron 13.1.0 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86048",
-          "author": "Editor, Kai",
-          "description": "昨日，期待已久的华为HarmonyOS操作系统正式发布，此次发布的HarmonyOS 2采用分布式技术，可以让用户自由组合硬件，将多终端融为一体，让用户像使用一台设备一样简单。 从已升级HarmonyOS 2的网友反馈来看，升级后鸿蒙整体使 […]",
-          "link": "http://www.linuxeden.com/a/86048",
-          "publishedOn": "2021-06-03T04:49:36.000Z",
-          "wordCount": 85,
-          "title": "鲁大师测试HarmonyOS 2.0：应用恢复率高达95.45% 力压iOS"
         }
       ]
     },
@@ -8139,15 +8085,6 @@
           "publishedOn": "2021-06-03T10:03:48.000Z",
           "wordCount": 730,
           "title": "助力数据安全：蚂蚁携手英特尔共同打造验证 PPML 解决方案"
-        },
-        {
-          "id": "https://www.oschina.net/news/144388/confluent-ipo",
-          "author": null,
-          "description": "基于 Apache Kafka 进行商业支持的创业公司 Confluent 已向美国证券交易委员会 (SEC) 提交 S-1 文件，正式启动 IPO。摩根士丹利、摩根大通和高盛是此次 IPO 的主承销商，Confluent 的股票将在纳斯达克交易，代码为“CFLT”。 Confluent 是一家云软件开发商，它建立在 Apache Kafka 之上，通过围绕开源技术提供服务、支持...",
-          "link": "https://www.oschina.net/news/144388/confluent-ipo",
-          "publishedOn": "2021-06-03T04:51:45.000Z",
-          "wordCount": 501,
-          "title": "Kafka 商业化公司 Confluent 启动 IPO"
         }
       ]
     },
