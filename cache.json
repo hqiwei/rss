@@ -4946,6 +4946,33 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/148790/os-18-lowcode",
+          "author": null,
+          "description": "与使用计算机编程语言构建应用程序的传统方法不同，低代码开发平台是使用图形向导来创建和构建软件的应用程序开发平台。因此，在许多情况下，低代码或无代码（几乎没有代码）这个名称是作为可视化开发工具来帮助设计人员进行拖放、组件浏览器和逻辑构建器的。 低代码/无代码的主要概念并不新鲜，它可以追溯到十多年前的无...",
+          "link": "https://www.oschina.net/news/148790/os-18-lowcode",
+          "publishedOn": "2021-07-03T01:07:47.000Z",
+          "wordCount": 691,
+          "title": "Top 18 开源低代码开发平台"
+        },
+        {
+          "id": "https://www.oschina.net/news/148789/devops-platform-jfrog-acquires-vdoo",
+          "author": null,
+          "description": "DevOps 平台 JFrog 近日宣布将用现金加股票的形式以总额 3 亿美元的价格收购位于以色列的产品安全公司 Vdoo。 JFrog 成立于 2008 年，为 Facebook、Google、亚马逊和 Netflix 等公司提供服务，为开发者提供自动化工具，以构建、管理和发布他们所有的软件。DevOps 是一套结合了软件开发和 IT 运营的最佳实践，其目的是缩短...",
+          "link": "https://www.oschina.net/news/148789/devops-platform-jfrog-acquires-vdoo",
+          "publishedOn": "2021-07-03T00:42:52.000Z",
+          "wordCount": 513,
+          "title": "DevOps 平台 JFrog 以 3 亿美元收购 Vdoo"
+        },
+        {
+          "id": "https://www.oschina.net/news/148788/google-chrome-https-only-mode",
+          "author": null,
+          "description": "Google 正在努力为 Chrome 浏览器添加 HTTPS-Only 模式，通过该模式将所有的连接调整为 HTTPS 来保护用户的网络流量不被篡改。 这项新功能目前正在 Mac、Windows、Linux、Chrome OS 和 Android 平台的 Chrome 93 Canary 预览版中进行测试。虽然该功能目前还没有登陆 Chrome 正式版本，但根据 Chrome 更新路线图的计划，H...",
+          "link": "https://www.oschina.net/news/148788/google-chrome-https-only-mode",
+          "publishedOn": "2021-07-03T00:31:10.000Z",
+          "wordCount": 528,
+          "title": "Chrome 浏览器将获得 HTTPS-Only 模式，以实现全局安全浏览"
+        },
+        {
           "id": "https://www.oschina.net/news/148786/cobol-old-programming-languages",
           "author": null,
           "description": "随着年长开发人员的退休离场，依赖于传统 IT 系统的大型组织面临着紧迫的技能短缺。Advanced Software 的一份报告指出，近 9/10（89%）的大型企业担心缺乏具有维护和管理其传统 IT 系统技能的 IT 人员。 这些系统通常以 COBOL 等编程语言为基础。COBOL 设计于 1959 年，但当下仍被大型组织广泛用于处理来自重要中央系统的...",
