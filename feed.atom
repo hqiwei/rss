@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T08:10:12.362Z</updated>
+    <updated>2021-07-03T09:09:29.479Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mind Maps Pro 限免，专业思维导图工具，原价 144 元[Windows]]]></title>
+        <id>https://www.appinn.com/?p=39186</id>
+        <link href="https://www.appinn.com/mind-maps-pro-for-windows/"/>
+        <updated>2021-07-03T08:25:20.000Z</updated>
+        <summary type="html"><![CDATA[Mind Maps Pro 是一款专业的思维导图工具，可以快速创建出漂亮的苏味道图，支持自动布局、用笔标注，可用来制作思维导图、组织结构图或家谱。@Appinn 感谢 @冷山.so 的推荐。 Mind]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[北京] 北京白帽汇招聘 Go 开发工程师]]></title>
         <id>https://gocn.vip/topics/12266</id>
