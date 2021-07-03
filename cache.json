@@ -4946,6 +4946,51 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/148786/cobol-old-programming-languages",
+          "author": null,
+          "description": "随着年长开发人员的退休离场，依赖于传统 IT 系统的大型组织面临着紧迫的技能短缺。Advanced Software 的一份报告指出，近 9/10（89%）的大型企业担心缺乏具有维护和管理其传统 IT 系统技能的 IT 人员。 这些系统通常以 COBOL 等编程语言为基础。COBOL 设计于 1959 年，但当下仍被大型组织广泛用于处理来自重要中央系统的...",
+          "link": "https://www.oschina.net/news/148786/cobol-old-programming-languages",
+          "publishedOn": "2021-07-03T00:20:35.000Z",
+          "wordCount": 536,
+          "title": "调查：COBOL 程序员后继无人，一些关键岗位或面临空缺"
+        },
+        {
+          "id": "https://www.oschina.net/p/occlum",
+          "author": null,
+          "description": "Occlum 是用于 Intel SGX 的内存安全的多进程库 OS（LibOS）。作为 LibOS，它可以使旧版应用程序在 SGX 上运行，而几乎不需要修改源代码，从而透明地保护了用户工作负载的机密性和完整性。 作为一款 TEE OS，Occlum 可以大幅降低 SGX 应用的开发门槛。Occlum 的一个设计理念是 Enclave-as-a-Container，它的用户接口与 ...",
+          "link": "https://www.oschina.net/p/occlum",
+          "publishedOn": "2021-07-03T00:04:51.000Z",
+          "wordCount": 768,
+          "title": "Occlum —— 用于英特尔 SGX 的 LibOS"
+        },
+        {
+          "id": "https://gitee.com/log4j/pig/issues/I3YFKO",
+          "author": null,
+          "description": "目标 基于本项目 pig 、pig-ui 完成前端 https 部署。 交付 markdown 文档，md 图片请单独提供。",
+          "link": "https://gitee.com/log4j/pig/issues/I3YFKO",
+          "publishedOn": "2021-07-03T00:04:43.000Z",
+          "wordCount": 545,
+          "title": "Gitee 悬赏 |【文档需求】完成 pig-ui 的 https 部署"
+        },
+        {
+          "id": "https://my.oschina.net/u/4581713/blog/4675818",
+          "author": null,
+          "description": "在本教程中我们学习 Node.js 的原生 EvenEmitter 类。学完后你将了解事件、怎样使用 EvenEmitter 以及如何在程序中利用事件。另外还会学习 EventEmitter 类从其他本地模块扩展的内容，并通过一些例子了解背后的原理。 本文涵盖了关于 EventEmitter 类的所有内容。...",
+          "link": "https://my.oschina.net/u/4581713/blog/4675818",
+          "publishedOn": "2021-07-03T00:04:35.000Z",
+          "wordCount": 886,
+          "title": "每日一博 | Node.js 的 EventEmitter 事件处理详解"
+        },
+        {
+          "id": "https://www.oschina.net/news/148780/php-8-1-alpha1-released",
+          "author": null,
+          "description": "PHP 8.1 已进入 Alpha 阶段，8.1 将是继 8 之后的又一个重要版本更新。 主要变化如下： 完成枚举功能 (Enums)，具体细节查看 RFC 引入 fsync() 函数，用于帮助确保操作系统将数据变化（以及元数据）写入底层存储，以及新的相似 fdatasync() 函数确保同步数据（非元数据） 支持 Fibers 以改进 PHP 中的异步机制。PHP Fib...",
+          "link": "https://www.oschina.net/news/148780/php-8-1-alpha1-released",
+          "publishedOn": "2021-07-02T23:41:41.000Z",
+          "wordCount": 535,
+          "title": "PHP 8.1 进入 Alpha 阶段，旧版本发布安全更新"
+        },
+        {
           "id": "https://www.oschina.net/news/148693/tidb-5-1-released",
           "author": null,
           "description": "自 TiDB 5.0 发布以来，陆续在金融、互联网 & 新经济、物流等行业用户的生产环境得到应用，收获不少用户的积极评价： TiDB 服务 58 金融、安居客等数仓报表的复杂读取与关联查询，在多表关联查询中，相比 4.0 版本性能最高提升达 90%； 经过网易互娱场景实测，与 4.0 相比 TiDB 5.0 整体性能表现更加稳定，没有出现明显的...",
@@ -8048,6 +8093,15 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=53024",
+          "author": "大眼仔~旭",
+          "description": "Windows 11 终于来了，它非常棒。 重新设计的时尚桌面、新的多任务处理功能、Android 应用程序集 […]",
+          "link": "http://www.dayanzai.me/windows-11-removal-feature.html",
+          "publishedOn": "2021-07-02T03:26:01.000Z",
+          "wordCount": 643,
+          "title": "微软正从 Windows 11 中删除的 7 个功能"
+        },
         {
           "id": "http://www.dayanzai.me/?p=53014",
           "author": "大眼仔~旭",

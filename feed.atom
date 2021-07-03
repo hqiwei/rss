@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T23:09:07.107Z</updated>
+    <updated>2021-07-03T00:30:50.446Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[调查：COBOL 程序员后继无人，一些关键岗位或面临空缺]]></title>
+        <id>https://www.oschina.net/news/148786/cobol-old-programming-languages</id>
+        <link href="https://www.oschina.net/news/148786/cobol-old-programming-languages"/>
+        <updated>2021-07-03T00:20:35.000Z</updated>
+        <summary type="html"><![CDATA[随着年长开发人员的退休离场，依赖于传统 IT 系统的大型组织面临着紧迫的技能短缺。Advanced Software 的一份报告指出，近 9/10（89%）的大型企业担心缺乏具有维护和管理其传统 IT 系统技能的 IT 人员。 这些系统通常以 COBOL 等编程语言为基础。COBOL 设计于 1959 年，但当下仍被大型组织广泛用于处理来自重要中央系统的...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Occlum —— 用于英特尔 SGX 的 LibOS]]></title>
+        <id>https://www.oschina.net/p/occlum</id>
+        <link href="https://www.oschina.net/p/occlum"/>
+        <updated>2021-07-03T00:04:51.000Z</updated>
+        <summary type="html"><![CDATA[Occlum 是用于 Intel SGX 的内存安全的多进程库 OS（LibOS）。作为 LibOS，它可以使旧版应用程序在 SGX 上运行，而几乎不需要修改源代码，从而透明地保护了用户工作负载的机密性和完整性。 作为一款 TEE OS，Occlum 可以大幅降低 SGX 应用的开发门槛。Occlum 的一个设计理念是 Enclave-as-a-Container，它的用户接口与 ...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitee 悬赏 |【文档需求】完成 pig-ui 的 https 部署]]></title>
+        <id>https://gitee.com/log4j/pig/issues/I3YFKO</id>
+        <link href="https://gitee.com/log4j/pig/issues/I3YFKO"/>
+        <updated>2021-07-03T00:04:43.000Z</updated>
+        <summary type="html"><![CDATA[目标 基于本项目 pig 、pig-ui 完成前端 https 部署。 交付 markdown 文档，md 图片请单独提供。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | Node.js 的 EventEmitter 事件处理详解]]></title>
+        <id>https://my.oschina.net/u/4581713/blog/4675818</id>
+        <link href="https://my.oschina.net/u/4581713/blog/4675818"/>
+        <updated>2021-07-03T00:04:35.000Z</updated>
+        <summary type="html"><![CDATA[在本教程中我们学习 Node.js 的原生 EvenEmitter 类。学完后你将了解事件、怎样使用 EvenEmitter 以及如何在程序中利用事件。另外还会学习 EventEmitter 类从其他本地模块扩展的内容，并通过一些例子了解背后的原理。 本文涵盖了关于 EventEmitter 类的所有内容。...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP 8.1 进入 Alpha 阶段，旧版本发布安全更新]]></title>
+        <id>https://www.oschina.net/news/148780/php-8-1-alpha1-released</id>
+        <link href="https://www.oschina.net/news/148780/php-8-1-alpha1-released"/>
+        <updated>2021-07-02T23:41:41.000Z</updated>
+        <summary type="html"><![CDATA[PHP 8.1 已进入 Alpha 阶段，8.1 将是继 8 之后的又一个重要版本更新。 主要变化如下： 完成枚举功能 (Enums)，具体细节查看 RFC 引入 fsync() 函数，用于帮助确保操作系统将数据变化（以及元数据）写入底层存储，以及新的相似 fdatasync() 函数确保同步数据（非元数据） 支持 Fibers 以改进 PHP 中的异步机制。PHP Fib...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日文章精选 2021 07 02]]></title>
         <id>http://www.linuxeden.com/?p=87129</id>
@@ -234,6 +284,16 @@ TiDB 5.1 功能亮点和用户价值
         <summary type="html"><![CDATA[国家互联网应急中心（英文简称为"CNCERT"）近日发布了《2021年开源软件供应链安全风险研究报告》。 报告共分为五部分 第一部分，介绍开源漏洞的发展现状及趋势； 第二部分，聚焦开源组件生态库的安全风险； 第三部分，重点围绕组件按依赖层级漏洞传播范围分析； 第四部分，对文件级漏洞潜在安全风险及波及范围进行讨论；...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软正从 Windows 11 中删除的 7 个功能]]></title>
+        <id>http://www.dayanzai.me/?p=53024</id>
+        <link href="http://www.dayanzai.me/windows-11-removal-feature.html"/>
+        <updated>2021-07-02T03:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11 终于来了，它非常棒。 重新设计的时尚桌面、新的多任务处理功能、Android 应用程序集 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
