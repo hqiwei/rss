@@ -4570,15 +4570,6 @@
           "publishedOn": "2021-06-03T14:24:05.000Z",
           "wordCount": 314,
           "title": "你使用过 Python 3.6 中针对文件系统的这个神奇方法吗？"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86067",
-          "author": "Editor, Kai",
-          "description": "麻省理工学院研究人员创造了第一种具有数字功能的纤维，在被缝入衬衫后能够感知、存储、分析和推断活动。数字纤维扩大了织物的可能性，可以发现人体中隐藏模式，可以用于体能监测、医疗推断和早期疾病检测。 研究人员在《自然通讯》上描述了数字光纤的特点。 […]",
-          "link": "http://www.linuxeden.com/a/86067",
-          "publishedOn": "2021-06-03T14:01:58.000Z",
-          "wordCount": 74,
-          "title": "麻省理工学院研发可编程数字纤维 有内存传感器和人工智能"
         }
       ]
     },
@@ -8120,6 +8111,15 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=53025",
+          "author": "大眼仔~旭",
+          "description": "如果您更喜欢“经典”的 Windows 10 开始菜单，或者如果您想要恢复动态磁贴，则 Windows 11  […]",
+          "link": "http://www.dayanzai.me/windows-11-classic-menu.html",
+          "publishedOn": "2021-07-03T01:55:25.000Z",
+          "wordCount": 567,
+          "title": "启用 Windows 11 经典菜单只需要两个步骤"
+        },
         {
           "id": "http://www.dayanzai.me/?p=53024",
           "author": "大眼仔~旭",

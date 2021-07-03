@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T01:47:10.703Z</updated>
+    <updated>2021-07-03T02:17:50.077Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[启用 Windows 11 经典菜单只需要两个步骤]]></title>
+        <id>http://www.dayanzai.me/?p=53025</id>
+        <link href="http://www.dayanzai.me/windows-11-classic-menu.html"/>
+        <updated>2021-07-03T01:55:25.000Z</updated>
+        <summary type="html"><![CDATA[如果您更喜欢“经典”的 Windows 10 开始菜单，或者如果您想要恢复动态磁贴，则 Windows 11  […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 18 开源低代码开发平台]]></title>
         <id>https://www.oschina.net/news/148790/os-18-lowcode</id>
@@ -12387,16 +12397,6 @@ stringer 命令，通过代码生成提高效率  https://mp.weixin.qq.com/s/Ik3
         <link href="http://www.linuxeden.com/a/86071"/>
         <updated>2021-06-03T14:24:05.000Z</updated>
         <summary type="html"><![CDATA[探索 os.fspath 和其他两个未被充分利用但仍然有用的 Python 特性。 这是 Python 3.x 首发特性系列文章中的第七篇。Python 3.6 首次发布于 2016 年，尽管它已经发布了一段时间，但它引入的许多特性都没有得 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[麻省理工学院研发可编程数字纤维 有内存传感器和人工智能]]></title>
-        <id>http://www.linuxeden.com/?p=86067</id>
-        <link href="http://www.linuxeden.com/a/86067"/>
-        <updated>2021-06-03T14:01:58.000Z</updated>
-        <summary type="html"><![CDATA[麻省理工学院研究人员创造了第一种具有数字功能的纤维，在被缝入衬衫后能够感知、存储、分析和推断活动。数字纤维扩大了织物的可能性，可以发现人体中隐藏模式，可以用于体能监测、医疗推断和早期疾病检测。 研究人员在《自然通讯》上描述了数字光纤的特点。 […]]]></summary>
         <author>
             <name>Editor, Kai</name>
         </author>
