@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T14:08:09.137Z</updated>
+    <updated>2021-07-03T15:10:12.330Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[netlink 是 Go 和内核模块之间优秀的通信兵]]></title>
+        <id>https://gocn.vip/topics/12268</id>
+        <link href="https://gocn.vip/topics/12268"/>
+        <updated>2021-07-03T14:54:12.000Z</updated>
+        <summary type="html"><![CDATA[netlink 是 Go 和内核模块之间优秀的通信兵
+netlink 是 Linux 系统里用户态程序、内核模块之间的一种 IPC 方式，特别是用户态程序和内核模块之间的 IPC 通信。比如在 Linux 终端里常用的 ip 命令，就是使用 netlink 去跟内核进行通信的。
+TL,DR  使用 Go 通过 netlink 向内核模块发送消息，内核模块响应一条消息，源代码：内核模块，Go 程序。
+内核模块
+注册 netlink
+在 insmod custom-netlink.ko 加载内核模块时，注册自定义的 netlink 处理函数。在 rmmod custom_netlink 卸载内核模块时，则注销自定义的 netlink 处理函数。
+#define NETLINK_CUSTOM 31
+
+static int __init custom_nl_init(void)
+{
+    //This is for 3.6 kernels and above.
+    struct netlink_kernel_cfg cfg = {
+        .input = custom_nl_recv_msg,
+    };
+
+    nl_sk = netlink_kernel_create(&init_net, NETLINK_CUSTOM, &cfg);
+    ......
+    return 0;
+}
+
+static void __exit custom_nl_exit(void)
+{
+
+    netlink_kernel_release(nl_sk);
+    printk(KERN_INFO "[-] unregistered custom_netlink module.\n");
+}
+
+module_init(custom_nl_init);
+module_exi…]]></summary>
+        <author>
+            <name>Huayra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日文章精选 2021 07 03]]></title>
         <id>http://www.linuxeden.com/?p=87160</id>
@@ -12297,26 +12335,6 @@ cctonange@gmail.com]]></summary>
         <summary type="html"><![CDATA[JPress v4.0 正式版终于来了，相对 JPress v3.x 来说，超过 100 项的新增或者细节优化，模板制作对于模板作者来说也更加简单了。 JPress 是一个使用 Java 开发的类似 WordPress 的产品，具有完善的模板和插件功能，并在此基础上新增了在线商城、会员中心以及和微信深度整合的功能。到目前为止， 已经有 10w+ 网站使用 JP...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rclone for Android – 云服务/网盘文件管理工具 Rclone 的 Android 客户端]]></title>
-        <id>https://www.appinn.com/?p=38958</id>
-        <link href="https://www.appinn.com/rclone-for-android/"/>
-        <updated>2021-06-04T03:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Rclone for Android 是一款基于著名网盘文件管理工具 Rclone 的 Android 客户端，可以让你方便的在 Android 设备上管理网盘文件，支持直接导入 Rclone 配置文]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery]]></title>
-        <id>60b98ebfacb62507dd1d8ec4</id>
-        <link href="https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/"/>
-        <updated>2021-06-04T02:32:22.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

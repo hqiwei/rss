@@ -185,6 +185,45 @@
           <section class="articles-per-source">
             <article>
               <details class="article-expander">
+                <summary class="article-expander__title">netlink 是 Go 和内核模块之间优秀的通信兵</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12268">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>netlink 是 Go 和内核模块之间优秀的通信兵
+netlink 是 Linux 系统里用户态程序、内核模块之间的一种 IPC 方式，特别是用户态程序和内核模块之间的 IPC 通信。比如在 Linux 终端里常用的 ip 命令，就是使用 netlink 去跟内核进行通信的。
+TL,DR  使用 Go 通过 netlink 向内核模块发送消息，内核模块响应一条消息，源代码：内核模块，Go 程序。
+内核模块
+注册 netlink
+在 insmod custom-netlink.ko 加载内核模块时，注册自定义的 netlink 处理函数。在 rmmod custom_netlink 卸载内核模块时，则注销自定义的 netlink 处理函数。
+#define NETLINK_CUSTOM 31
+
+static int __init custom_nl_init(void)
+{
+    //This is for 3.6 kernels and above.
+    struct netlink_kernel_cfg cfg &#x3D; {
+        .input &#x3D; custom_nl_recv_msg,
+    };
+
+    nl_sk &#x3D; netlink_kernel_create(&amp;init_net, NETLINK_CUSTOM, &amp;cfg);
+    ......
+    return 0;
+}
+
+static void __exit custom_nl_exit(void)
+{
+
+    netlink_kernel_release(nl_sk);
+    printk(KERN_INFO &quot;[-] unregistered custom_netlink module.\n&quot;);
+}
+
+module_init(custom_nl_init);
+module_exi…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
                 <summary class="article-expander__title">GoCN 每日新闻 (2021-07-03)</summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12267">
                   <div class="article-summary-box-inner">
@@ -14159,23 +14198,6 @@ functrace 最初用于跟踪函数调用链（得益于 Go 核心开发团队公
     <ul class="sources card">
       <li class="source">
         <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.appinn.com">小众软件</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Rclone for Android – 云服务/网盘文件管理工具 Rclone 的 Android 客户端</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.appinn.com/rclone-for-android/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(4 min)</span>
-                    <span>Rclone for Android 是一款基于著名网盘文件管理工具 Rclone 的 Android 客户端，可以让你方便的在 Android 设备上管理网盘文件，支持直接导入 Rclone 配置文</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
           <h3 class="source-name"><a class="source-name__link" href="http://www.dayanzai.me">大眼仔旭</a></h3>
           <section class="articles-per-source">
             <article>
@@ -14390,17 +14412,6 @@ cctonange@gmail.com</span>
                 </a>
               </details>
             </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course</span>
-                  </div>
-                </a>
-              </details>
-            </article>
         </section>
       </li>
       <li class="source">
@@ -14457,7 +14468,7 @@ cctonange@gmail.com</span>
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-07-03T14:08:09.088Z">2021-07-03T14:08:09.088Z</time>
+    <time id="build-timestamp" datetime="2021-07-03T15:10:12.271Z">2021-07-03T15:10:12.271Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.0</a></span>
   </footer>
   <script src="index.js"></script>

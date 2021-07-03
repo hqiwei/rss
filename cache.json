@@ -706,15 +706,6 @@
           "publishedOn": "2021-06-04T18:01:00.000Z",
           "wordCount": 2225,
           "title": "Learn TypeScript Basics in this Beginner&#x27;s Guide"
-        },
-        {
-          "id": "60b98ebfacb62507dd1d8ec4",
-          "author": null,
-          "description": "Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course",
-          "link": "https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/",
-          "publishedOn": "2021-06-04T02:32:22.000Z",
-          "wordCount": 390,
-          "title": "Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery"
         }
       ]
     },
@@ -775,6 +766,15 @@
       "feedUrl": "https://gocn.vip/topics/feed",
       "siteUrl": "https://gocn.vip/",
       "articles": [
+        {
+          "id": "https://gocn.vip/topics/12268",
+          "author": "Huayra",
+          "description": "netlink 是 Go 和内核模块之间优秀的通信兵\nnetlink 是 Linux 系统里用户态程序、内核模块之间的一种 IPC 方式，特别是用户态程序和内核模块之间的 IPC 通信。比如在 Linux 终端里常用的 ip 命令，就是使用 netlink 去跟内核进行通信的。\nTL,DR  使用 Go 通过 netlink 向内核模块发送消息，内核模块响应一条消息，源代码：内核模块，Go 程序。\n内核模块\n注册 netlink\n在 insmod custom-netlink.ko 加载内核模块时，注册自定义的 netlink 处理函数。在 rmmod custom_netlink 卸载内核模块时，则注销自定义的 netlink 处理函数。\n#define NETLINK_CUSTOM 31\n\nstatic int __init custom_nl_init(void)\n{\n    //This is for 3.6 kernels and above.\n    struct netlink_kernel_cfg cfg = {\n        .input = custom_nl_recv_msg,\n    };\n\n    nl_sk = netlink_kernel_create(&init_net, NETLINK_CUSTOM, &cfg);\n    ......\n    return 0;\n}\n\nstatic void __exit custom_nl_exit(void)\n{\n\n    netlink_kernel_release(nl_sk);\n    printk(KERN_INFO \"[-] unregistered custom_netlink module.\\n\");\n}\n\nmodule_init(custom_nl_init);\nmodule_exi…",
+          "link": "https://gocn.vip/topics/12268",
+          "publishedOn": "2021-07-03T14:54:12.000Z",
+          "wordCount": 554,
+          "title": "netlink 是 Go 和内核模块之间优秀的通信兵"
+        },
         {
           "id": "https://gocn.vip/topics/12267",
           "author": "_Lin",
@@ -4883,15 +4883,6 @@
           "publishedOn": "2021-06-05T02:53:00.000Z",
           "wordCount": 1145,
           "title": "VectorIcons Mixer –  超过 23,000 个可定制的图标"
-        },
-        {
-          "id": "https://www.appinn.com/?p=38958",
-          "author": "青小蛙",
-          "description": "Rclone for Android 是一款基于著名网盘文件管理工具 Rclone 的 Android 客户端，可以让你方便的在 Android 设备上管理网盘文件，支持直接导入 Rclone 配置文",
-          "link": "https://www.appinn.com/rclone-for-android/",
-          "publishedOn": "2021-06-04T03:06:00.000Z",
-          "wordCount": 1223,
-          "title": "Rclone for Android – 云服务/网盘文件管理工具 Rclone 的 Android 客户端"
         }
       ]
     },
