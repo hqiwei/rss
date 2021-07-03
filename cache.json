@@ -785,6 +785,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12267",
+          "author": "_Lin",
+          "description": "GoCN 每日新闻 (2021-07-03)\n如何实现跨设备的双向连接？ Labo 涂鸦鸿蒙亲子版分布式开发技术分享 https://gocn.vip/topics/12264\n\n徒手用 Go 写个 Redis 服务器 https://mp.weixin.qq.com/s/zK_As1RklzwSEV0hlf2fZw\n\n从头开始编写时间序列数据库引擎 https://nakabonne.dev/posts/write-tsdb-from-scratch/\n\n用于音乐创作的基于文本的编程语言 Alda2 发布 https://blog.djy.io/announcing-alda-2/\n\nGoogle Map Android SDK 自定义 Marker，InfoWindow https://juejin.cn/post/6980556734234361887\n\n\n\n\n编辑: 琳 \n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12267",
+          "publishedOn": "2021-07-03T11:14:36.000Z",
+          "wordCount": 105,
+          "title": "GoCN 每日新闻 (2021-07-03)"
+        },
+        {
           "id": "https://gocn.vip/topics/12266",
           "author": "helloshaohua",
           "description": "我们是谁？\n北京华顺信安科技有限公司是一家专注于网络空间测绘的互联网企业。主要提供网络资产探测、资产建模与分析、漏洞快速扫描、安全应急响应和安全态势分析整体解决方案。目前，公司拥有超过 30 \n亿数据的网络空间资产基因库等在内的相关积累，包括全球最大的资产识别规则库和国内更新最快的顶级漏洞库，独有的资源池和核心技术优势，使公司能够为国家网络安全提供有效的技术支撑，为政企用户提供顶级网络信息安全防护服务。\n招聘岗位\nGo 开发工程师 (薪资 15-30K，工作地点：北京）\n工作内容\n1、负责项目中后台业务功能开发和自测；\n2、参与系统架构设计、优化，提升系统性能和开发效率，保证服务高并发高可靠。\n任职要求：\n1、熟练掌握 Go 语言核心编程 (goroutine、channel、锁、阻塞/非阻塞、原子性等) 两年以上开发经验；\n2、熟悉网络编程，深入理解 HTTP、TCP/IP 等网络协议；\n3、熟悉 Gin 框架，参与过完整的项目开发或模块开发;\n4、熟练掌握 RESTful 架构风格 API 开发。\n5、深入理解数据库系统，有实际数据库调优经验；\n6、编写的程序除满足功能外，还能考虑高效性、稳定性、扩展性等；\n7、能够独立负责复杂子模块系统的设计和实现，具体有良好的编程习惯；\n加分项\n1、熟悉 linux 系统，有 Shell 脚本编程经验；\n2、熟悉 docker、elasticsearch、mysql、redis、gorm、git 等技术栈；\n3、有个人技术博客站点。\n4、有开源项目代码贡献或 PR。\n福利待遇\n1、带薪休假\n2、六险一金\n3、周未双休\n4、弹性工作制\n5、节假日福利\n6、免费零食\n简历可发到：limanxian@baimaohui.net",
@@ -1790,6 +1799,42 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=87160",
+          "author": "Editor, Kai",
+          "description": "在 WSL 上忘记了 Linux 密码？下面是如何轻松重设的方法 PCIe 6.0 0.71版草案公布：年底正式版 欧盟投上万亿发展2nm工艺 英飞凌唱反调：没人会用 Vue 3.1.4 发布 deepin！国内首个获取安全启动证书认证的L […]",
+          "link": "http://www.linuxeden.com/a/87160",
+          "publishedOn": "2021-07-03T11:26:59.000Z",
+          "wordCount": 100,
+          "title": "每日文章精选 2021 07 03"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87152",
+          "author": "Editor, Kai",
+          "description": "对于那些想从舒适的 Windows 中享受 Linux 命令行的人来说，WSL（Windows Subsystem for Linux） 是一个方便的工具。 当你 在 Windows 上使用 WSL 安装 Linux 时，会要求你创建一个用 […]",
+          "link": "http://www.linuxeden.com/a/87152",
+          "publishedOn": "2021-07-03T11:22:33.000Z",
+          "wordCount": 325,
+          "title": "在 WSL 上忘记了 Linux 密码？下面是如何轻松重设的方法"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87148",
+          "author": "Editor, Kai",
+          "description": "PCIe 5.0还没来，PCIe 6.0已经进入冲刺阶段。 今天，PCI-SIG标准组织向成员发放了PCIe 6.0标准规范的0.71版草案，比原计划的6月份晚了那么几天。 PCI-SIG称这是令人激动的一刻，PCIe 6.0解锁了新的成就 […]",
+          "link": "http://www.linuxeden.com/a/87148",
+          "publishedOn": "2021-07-03T11:18:18.000Z",
+          "wordCount": 103,
+          "title": "PCIe 6.0 0.71版草案公布：年底正式版"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87146",
+          "author": "Editor, Kai",
+          "description": "半导体技术对未来的重要性已经无需多说，现在世界主要国家和地区都在积极发展，其中欧盟也希望在先进工艺上分一杯羹，去年17个欧盟国家推出新计划，将投资1450亿欧元，约合1.2万亿人民币发展半导体。 根据欧盟的计划，他们在半导体上主要有2个目标 […]",
+          "link": "http://www.linuxeden.com/a/87146",
+          "publishedOn": "2021-07-03T11:16:50.000Z",
+          "wordCount": 83,
+          "title": "欧盟投上万亿发展2nm工艺 英飞凌唱反调：没人会用"
+        },
         {
           "id": "http://www.linuxeden.com/?p=87143",
           "author": "Editor, Kai",
@@ -4543,15 +4588,6 @@
           "publishedOn": "2021-06-04T00:15:03.000Z",
           "wordCount": 114,
           "title": "CentOS Linux 8 2105今日发布 基于RHEL 8.4"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86078",
-          "author": "Editor, Kai",
-          "description": "cli: add -C alias for –conditions flag (Guy Bedford) #38755 deps: add workspaces support to npm install commands ( […]",
-          "link": "http://www.linuxeden.com/a/86078",
-          "publishedOn": "2021-06-04T00:10:36.000Z",
-          "wordCount": 101,
-          "title": "Node 16.3.0发布"
         }
       ]
     },
@@ -8067,42 +8103,6 @@
           "publishedOn": "2021-06-04T00:16:13.000Z",
           "wordCount": 429,
           "title": "许式伟：Go+ 门槛比 Go 低，我 6 年级的小孩都学一年了"
-        },
-        {
-          "id": "https://www.oschina.net/news/144504/microsoft-acquires-refirm-labs",
-          "author": null,
-          "description": "鉴于如今有越来越过有国家背景支持的黑客团体和其他各类黑客团体或个人的网络攻击数量不断增加，微软一直在大力投资，扩大其网络安全能力。上个月，微软发布了一个名为 Counterfit 的新工具，可以自动对人工智能系统进行安全测试，并与 Darktrace 合作，帮助客户用人工智能打击网络威胁。 近日，微软宣布已经完成了对 Re...",
-          "link": "https://www.oschina.net/news/144504/microsoft-acquires-refirm-labs",
-          "publishedOn": "2021-06-04T00:11:12.000Z",
-          "wordCount": 465,
-          "title": "微软收购开源工具 Binwalk 的开发商 ReFirm Labs"
-        },
-        {
-          "id": "https://www.oschina.net/p/garden",
-          "author": null,
-          "description": "Garden 是一款可自动完成工作流的开发工具，使 Kubernetes 应用的开发和测试变得快捷，无需在笔记本电脑上运行 Docker 或 Kubernetes，快速的集群内构建、对 dev 和 CI 使用相同的命令和配置。",
-          "link": "https://www.oschina.net/p/garden",
-          "publishedOn": "2021-06-04T00:06:09.000Z",
-          "wordCount": 335,
-          "title": "Garden —— 自动完成工作流的工具"
-        },
-        {
-          "id": "https://gitee.com/quick123official/quick_redis_blog",
-          "author": null,
-          "description": "QuickRedis 是一款 永久免费 的 Redis 可视化管理工具。它支持直连、哨兵、集群模式，支持亿万数量级的 key，还有令人兴奋的 UI。QuickRedis 支持 Windows 、 Mac OS X 和 Linux 下运行。",
-          "link": "https://gitee.com/quick123official/quick_redis_blog",
-          "publishedOn": "2021-06-04T00:04:19.000Z",
-          "wordCount": 649,
-          "title": "Gitee 推荐 | Redis 可视化管理工具 QuickRedis"
-        },
-        {
-          "id": "https://my.oschina.net/u/3715845/blog/4671052",
-          "author": null,
-          "description": "我是一个AI神经元，刚刚来到这个世界上，一切对我来说都特别新奇。",
-          "link": "https://my.oschina.net/u/3715845/blog/4671052",
-          "publishedOn": "2021-06-04T00:01:50.000Z",
-          "wordCount": 254,
-          "title": "每日一博 | 我是一个平平无奇的 AI 神经元"
         }
       ]
     },
