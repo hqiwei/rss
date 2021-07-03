@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T22:08:34.878Z</updated>
+    <updated>2021-07-03T23:08:46.287Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12267,44 +12267,6 @@ TIOBE Index（2021 年 5 月）
 如今 Go 被称为云计算时代的基础语言，倍受追捧，用…]]></summary>
         <author>
             <name>astaxie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 CentOS 7 云服务器上将 PHP 从 5.4 升级到 7.0]]></title>
-        <id>http://www.dayanzai.me/?p=52408</id>
-        <link href="http://www.dayanzai.me/centos-upgrade-php.html"/>
-        <updated>2021-06-04T10:54:39.000Z</updated>
-        <summary type="html"><![CDATA[运行 CentOS 7 的新云服务器上可用的默认 PHP 版本是 5.4 版。了解如何将其升级到 PHP 7. […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[成都/佳华科技] 时序数据库开发 (初/中/高级都招)]]></title>
-        <id>https://gocn.vip/topics/12155</id>
-        <link href="https://gocn.vip/topics/12155"/>
-        <updated>2021-06-04T10:08:42.000Z</updated>
-        <summary type="html"><![CDATA[职位描述
-岗位职责:
-负责分布式时序数据库的底层计算和存储系统的设计与开发
-负责分布式时序数据库的稳定性以及性能优化
-任职资格：
-三年以上相关领域开发经验，扎实的编程能力，精通 C/C++/Rust/Go 中的一种；对分布式系统的架构和原理有比较深入的了解；
-熟悉 TCP/IP 协议、HTTP 协议；
-熟悉 MySQL/PostgreSQL/Greenplum/InfluxDB/Hbase/ClickHouse/LevelDB/RocksDB 等至少一种数据库系统实现原理；
-优秀的发现和解决问题能力，良好的沟通能力，具备团队合作精神。
-加分项：
-拥抱开源，对前沿技术有浓厚的热情和探索欲望，有开源项目经历；
-熟悉 LSM/Raft/Paxos 算法；
-阅读过一个或多个数据库的源码，或者参与过其源码贡献。
-只要对数据库开发有热情，喜欢做有挑战性的事，基础不错，都欢迎来聊。
-开发语言会 Go/Rust 的更好，因为数据库是基于这两门语言开发的。
-待遇
-根据能力 10k-40k 。
-联系方式
-cctonange@gmail.com]]></summary>
-        <author>
-            <name>cctonange</name>
         </author>
     </entry>
 </feed>

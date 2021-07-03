@@ -1755,15 +1755,6 @@
           "publishedOn": "2021-06-04T13:55:58.000Z",
           "wordCount": 407,
           "title": "GopherChina * Student = XFuture"
-        },
-        {
-          "id": "https://gocn.vip/topics/12155",
-          "author": "cctonange",
-          "description": "职位描述\n岗位职责:\n负责分布式时序数据库的底层计算和存储系统的设计与开发\n负责分布式时序数据库的稳定性以及性能优化\n任职资格：\n三年以上相关领域开发经验，扎实的编程能力，精通 C/C++/Rust/Go 中的一种；对分布式系统的架构和原理有比较深入的了解；\n熟悉 TCP/IP 协议、HTTP 协议；\n熟悉 MySQL/PostgreSQL/Greenplum/InfluxDB/Hbase/ClickHouse/LevelDB/RocksDB 等至少一种数据库系统实现原理；\n优秀的发现和解决问题能力，良好的沟通能力，具备团队合作精神。\n加分项：\n拥抱开源，对前沿技术有浓厚的热情和探索欲望，有开源项目经历；\n熟悉 LSM/Raft/Paxos 算法；\n阅读过一个或多个数据库的源码，或者参与过其源码贡献。\n只要对数据库开发有热情，喜欢做有挑战性的事，基础不错，都欢迎来聊。\n开发语言会 Go/Rust 的更好，因为数据库是基于这两门语言开发的。\n待遇\n根据能力 10k-40k 。\n联系方式\ncctonange@gmail.com",
-          "link": "https://gocn.vip/topics/12155",
-          "publishedOn": "2021-06-04T10:08:42.000Z",
-          "wordCount": 102,
-          "title": "[成都/佳华科技] 时序数据库开发 (初/中/高级都招)"
         }
       ]
     },
@@ -8836,15 +8827,6 @@
           "publishedOn": "2021-06-04T16:31:24.000Z",
           "wordCount": 539,
           "title": "威力酷剪 ActionDirector Video Editor 6.5.1 中文多语免费版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=52408",
-          "author": "大眼仔~旭",
-          "description": "运行 CentOS 7 的新云服务器上可用的默认 PHP 版本是 5.4 版。了解如何将其升级到 PHP 7. […]",
-          "link": "http://www.dayanzai.me/centos-upgrade-php.html",
-          "publishedOn": "2021-06-04T10:54:39.000Z",
-          "wordCount": 618,
-          "title": "在 CentOS 7 云服务器上将 PHP 从 5.4 升级到 7.0"
         }
       ]
     }
