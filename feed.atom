@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T02:17:50.077Z</updated>
+    <updated>2021-07-03T03:10:14.792Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[家用的显示器和电视有什么区别你知道吗？]]></title>
+        <id>http://www.dayanzai.me/?p=53032</id>
+        <link href="http://www.dayanzai.me/monitor-and-tv-difference.html"/>
+        <updated>2021-07-03T02:38:29.000Z</updated>
+        <summary type="html"><![CDATA[虽然电视和显示器使用相同的基础技术制造，但它们通常具有完全不同的规格，使其更适合某些应用。例如，如果您想进行一 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[启用 Windows 11 经典菜单只需要两个步骤]]></title>
         <id>http://www.dayanzai.me/?p=53025</id>
@@ -94,6 +104,16 @@
         <summary type="html"><![CDATA[PHP 8.1 已进入 Alpha 阶段，8.1 将是继 8 之后的又一个重要版本更新。 主要变化如下： 完成枚举功能 (Enums)，具体细节查看 RFC 引入 fsync() 函数，用于帮助确保操作系统将数据变化（以及元数据）写入底层存储，以及新的相似 fdatasync() 函数确保同步数据（非元数据） 支持 Fibers 以改进 PHP 中的异步机制。PHP Fib...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源免费 Gif 录制工具 ScreenToGif 2.32 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=2199</id>
+        <link href="http://www.dayanzai.me/screen-to-gif.html"/>
+        <updated>2021-07-02T16:32:42.000Z</updated>
+        <summary type="html"><![CDATA[Screen To Gif 中文版 又一款超强开源免费的 Gif 录屏工具。前天小编（www.dayanzai […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
@@ -12369,36 +12389,6 @@ stringer 命令，通过代码生成提高效率  https://mp.weixin.qq.com/s/Ik3
         <summary type="html"><![CDATA[Cryptography is the science of using codes and ciphers to protect messages. And encryption involves encoding messages so that only the intended recipient can understand the meaning of the message. It's often used to protect data in transit. Encryption is a two way function – that is, you need to be]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日文章精选 2021 06 03]]></title>
-        <id>http://www.linuxeden.com/?p=86075</id>
-        <link href="http://www.linuxeden.com/a/86075"/>
-        <updated>2021-06-03T14:35:25.000Z</updated>
-        <summary type="html"><![CDATA[Qbs 1.19.0 发布 你使用过 Python 3.6 中针对文件系统的这个神奇方法吗？ 麻省理工学院研发可编程数字纤维 有内存传感器和人工智能 欧洲投资公司Prosus以18亿美元收购Stack Overflow码农服务网站 GCC  […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qbs 1.19.0 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86073</id>
-        <link href="http://www.linuxeden.com/a/86073"/>
-        <updated>2021-06-03T14:31:11.000Z</updated>
-        <summary type="html"><![CDATA[Qbs is a community-driven language-agnostic build automation system. It is fast and offers an easy-to-learn language bas […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你使用过 Python 3.6 中针对文件系统的这个神奇方法吗？]]></title>
-        <id>http://www.linuxeden.com/?p=86071</id>
-        <link href="http://www.linuxeden.com/a/86071"/>
-        <updated>2021-06-03T14:24:05.000Z</updated>
-        <summary type="html"><![CDATA[探索 os.fspath 和其他两个未被充分利用但仍然有用的 Python 特性。 这是 Python 3.x 首发特性系列文章中的第七篇。Python 3.6 首次发布于 2016 年，尽管它已经发布了一段时间，但它引入的许多特性都没有得 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>
