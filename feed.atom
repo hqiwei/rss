@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T05:07:57.121Z</updated>
+    <updated>2021-07-03T06:11:08.676Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 07 03]]></title>
+        <id>http://www.linuxeden.com/?p=87143</id>
+        <link href="http://www.linuxeden.com/a/87143"/>
+        <updated>2021-07-03T05:42:24.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 07 03]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue 3.1.4 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87141</id>
+        <link href="http://www.linuxeden.com/a/87141"/>
+        <updated>2021-07-03T05:25:49.000Z</updated>
+        <summary type="html"><![CDATA[Bug Fixes build: avoid using async/await syntax (438754a) build: fix generated code containing unprocessed class field s […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wine 开发版 6.12发布]]></title>
+        <id>http://www.linuxeden.com/?p=87139</id>
+        <link href="http://www.linuxeden.com/a/87139"/>
+        <updated>2021-07-03T05:23:54.000Z</updated>
+        <summary type="html"><![CDATA[What’s new in this release (see below for details): – Builtin “Blue” and “Classic BlueR […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[deepin！国内首个获取安全启动证书认证的Linux发行版]]></title>
+        <id>http://www.linuxeden.com/?p=87137</id>
+        <link href="http://www.linuxeden.com/a/87137"/>
+        <updated>2021-07-03T05:14:12.000Z</updated>
+        <summary type="html"><![CDATA[为了更全面的保障电脑设备使用安全，深度操作系统（deepin）获取了安全启动证书认证，成为国内首个获得该认证的Linux发行版。   什么是安全启动？ 安全启动是UEFI扩展协议定义的安全标准，旨在帮助确保设备仅使用原始设备制造商 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gradle 7.1.1 发布]]></title>
         <id>http://www.linuxeden.com/?p=87135</id>
@@ -12387,16 +12427,6 @@ stringer 命令，通过代码生成提高效率  https://mp.weixin.qq.com/s/Ik3
         <link href="https://www.freecodecamp.org/news/lists-in-python-comprehensive-guide/"/>
         <updated>2021-06-03T18:42:20.000Z</updated>
         <summary type="html"><![CDATA[Let’s suppose you’re planning to visit your neighborhood store to stock up on essentials. What is the first thing you’d do?  Have the answer already? Yes, you'd probably write down a shopping list! Python also has a built-in data structure called List that’s very similar to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Hackintosh - Install MacOS Big Sur on a PC Using OpenCore]]></title>
-        <id>60affbe411ffb70827ef8951</id>
-        <link href="https://www.freecodecamp.org/news/build-a-hackintosh/"/>
-        <updated>2021-06-03T18:07:17.000Z</updated>
-        <summary type="html"><![CDATA[A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
