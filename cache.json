@@ -724,24 +724,6 @@
           "publishedOn": "2021-06-03T21:44:03.000Z",
           "wordCount": 3978,
           "title": "JavaScript Tutorial – How to Set Up a Front End Development Project"
-        },
-        {
-          "id": "60afd68611ffb70827ef86d8",
-          "author": null,
-          "description": "Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a British journalist who wrote for The Guardian. During that time, he wrote three particular articles called \"Schofield's Laws of Computing\". Jack didn't create these",
-          "link": "https://www.freecodecamp.org/news/schofields-laws-of-computing/",
-          "publishedOn": "2021-06-03T18:46:12.000Z",
-          "wordCount": 1588,
-          "title": "Schofield&#x27;s Laws of Computing – What they Are and Why You Should Know Them"
-        },
-        {
-          "id": "60b7c02cacb62507dd1d7b80",
-          "author": null,
-          "description": "Let’s suppose you’re planning to visit your neighborhood store to stock up on essentials. What is the first thing you’d do?  Have the answer already? Yes, you'd probably write down a shopping list! Python also has a built-in data structure called List that’s very similar to",
-          "link": "https://www.freecodecamp.org/news/lists-in-python-comprehensive-guide/",
-          "publishedOn": "2021-06-03T18:42:20.000Z",
-          "wordCount": 1748,
-          "title": "Lists in Python – A Comprehensive Guide"
         }
       ]
     },
@@ -811,6 +793,15 @@
       "feedUrl": "https://gocn.vip/topics/feed",
       "siteUrl": "https://gocn.vip/",
       "articles": [
+        {
+          "id": "https://gocn.vip/topics/12266",
+          "author": "helloshaohua",
+          "description": "我们是谁？\n北京华顺信安科技有限公司是一家专注于网络空间测绘的互联网企业。主要提供网络资产探测、资产建模与分析、漏洞快速扫描、安全应急响应和安全态势分析整体解决方案。目前，公司拥有超过 30 \n亿数据的网络空间资产基因库等在内的相关积累，包括全球最大的资产识别规则库和国内更新最快的顶级漏洞库，独有的资源池和核心技术优势，使公司能够为国家网络安全提供有效的技术支撑，为政企用户提供顶级网络信息安全防护服务。\n招聘岗位\nGo 开发工程师 (薪资 15-30K，工作地点：北京）\n工作内容\n1、负责项目中后台业务功能开发和自测；\n2、参与系统架构设计、优化，提升系统性能和开发效率，保证服务高并发高可靠。\n任职要求：\n1、熟练掌握 Go 语言核心编程 (goroutine、channel、锁、阻塞/非阻塞、原子性等) 两年以上开发经验；\n2、熟悉网络编程，深入理解 HTTP、TCP/IP 等网络协议；\n3、熟悉 Gin 框架，参与过完整的项目开发或模块开发;\n4、熟练掌握 RESTful 架构风格 API 开发。\n5、深入理解数据库系统，有实际数据库调优经验；\n6、编写的程序除满足功能外，还能考虑高效性、稳定性、扩展性等；\n7、能够独立负责复杂子模块系统的设计和实现，具体有良好的编程习惯；\n加分项\n1、熟悉 linux 系统，有 Shell 脚本编程经验；\n2、熟悉 docker、elasticsearch、mysql、redis、gorm、git 等技术栈；\n3、有个人技术博客站点。\n4、有开源项目代码贡献或 PR。\n福利待遇\n1、带薪休假\n2、六险一金\n3、周未双休\n4、弹性工作制\n5、节假日福利\n6、免费零食\n简历可发到：limanxian@baimaohui.net",
+          "link": "https://gocn.vip/topics/12266",
+          "publishedOn": "2021-07-03T06:56:28.000Z",
+          "wordCount": 126,
+          "title": "[北京] 北京白帽汇招聘 Go 开发工程师"
+        },
         {
           "id": "https://gocn.vip/topics/12265",
           "author": "cuteLittleDevil",
