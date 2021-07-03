@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T20:09:01.072Z</updated>
+    <updated>2021-07-03T21:08:40.795Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12305,16 +12305,6 @@ TIOBE Index（2021 年 5 月）
 cctonange@gmail.com]]></summary>
         <author>
             <name>cctonange</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eolinker 加入 TARS 基金会｜推动微服务开源技术]]></title>
-        <id>https://www.oschina.net/news/144591/eolinker-tars</id>
-        <link href="https://www.oschina.net/news/144591/eolinker-tars"/>
-        <updated>2021-06-04T08:09:05.000Z</updated>
-        <summary type="html"><![CDATA[TARS基金会是Linux基金会下的非营利性、微服务基金会，旨在建设一个强大而灵活的微服务生态系统，今天很高兴地宣布Eolinker作为普通会员加入TARS基金。Eolinker是业内领先的API全生命周期管理解决方案的领军者，帮助企业快速构建 API 研发、测试、监控、安全、开放能力。 Eolinker是国内最大的在线API管理服务供应商，旨...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
