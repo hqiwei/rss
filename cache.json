@@ -767,15 +767,6 @@
           "publishedOn": "2021-06-11T00:15:31.000Z",
           "wordCount": 552,
           "title": "科技爱好者周刊（第 162 期）：生活就像《吃豆人》游戏"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html",
-          "publishedOn": "2021-06-04T00:29:26.000Z",
-          "wordCount": 456,
-          "title": "科技爱好者周刊（第 161 期）：再见了，学术硕士"
         }
       ]
     },
@@ -1782,15 +1773,6 @@
           "publishedOn": "2021-06-04T01:55:40.000Z",
           "wordCount": 106,
           "title": "GoCN 每日新闻 (2021-06-04)"
-        },
-        {
-          "id": "https://gocn.vip/topics/12153",
-          "author": "12345678",
-          "description": "Gocn 源码开源吗？",
-          "link": "https://gocn.vip/topics/12153",
-          "publishedOn": "2021-06-04T00:14:20.000Z",
-          "wordCount": 71,
-          "title": "Gocn 源码开源吗？"
         }
       ]
     },
@@ -4552,42 +4534,6 @@
           "publishedOn": "2021-06-04T14:42:17.000Z",
           "wordCount": 93,
           "title": "开发者展示OpenHarmony纯净版系统：与华为鸿蒙截然不同"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86088",
-          "author": "Editor, Kai",
-          "description": "Linuxeden开源社区-开源美图 2021 06 04",
-          "link": "http://www.linuxeden.com/a/86088",
-          "publishedOn": "2021-06-04T00:25:09.000Z",
-          "wordCount": 83,
-          "title": "开源美图 2021 06 04"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86086",
-          "author": "Editor, Kai",
-          "description": "Feature Button: 新增 icon 插槽 #8783 CouponList: 新增 list-footer、disabled-list-footer 插槽 #8801 Locale: 新增 French 法语语言包 #8795  […]",
-          "link": "http://www.linuxeden.com/a/86086",
-          "publishedOn": "2021-06-04T00:19:32.000Z",
-          "wordCount": 126,
-          "title": "Vant 3.0.18"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86084",
-          "author": "Editor, Kai",
-          "description": "Feature Button: 新增 icon 插槽 #8784 CouponList: 新增 list-footer、disabled-list-footer 插槽 #8797 Locale: 新增 French 法语语言包 #8795  […]",
-          "link": "http://www.linuxeden.com/a/86084",
-          "publishedOn": "2021-06-04T00:18:58.000Z",
-          "wordCount": 121,
-          "title": "Vant 2.12.21发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86080",
-          "author": "Editor, Kai",
-          "description": "虽然CentOS Linux 8将在年底停止开发，红帽随后会将资源集中在CentOS Stream上，但CentOS Linux 8今天依然按计划发布了最新的版本2105，其开发是基于红帽企业Linux 8.4的源代码实现的。 上个月，红帽 […]",
-          "link": "http://www.linuxeden.com/a/86080",
-          "publishedOn": "2021-06-04T00:15:03.000Z",
-          "wordCount": 114,
-          "title": "CentOS Linux 8 2105今日发布 基于RHEL 8.4"
         }
       ]
     },
@@ -8067,42 +8013,6 @@
           "publishedOn": "2021-06-04T01:35:21.000Z",
           "wordCount": 551,
           "title": "深入解析 Raft 模块在 ZNBase 中的优化改造"
-        },
-        {
-          "id": "https://www.oschina.net/news/144508/chrome-warns-you-of-extensions-from-untrusted-devs",
-          "author": null,
-          "description": "Google 在 Chrome 浏览器中为 Enhanced Safe Browsing（增强型安全浏览）增加了新的保护功能，如今在安装不受信任的扩展程序时将向用户发出警告，并允许用户要求对下载文件进行更深入的扫描。 Safe Browsing 功能自 2007 年起就内置于 Chrome 浏览器中，当访问恶意网站（例如，试图窃取用户凭证、下载有害文件）时，它会...",
-          "link": "https://www.oschina.net/news/144508/chrome-warns-you-of-extensions-from-untrusted-devs",
-          "publishedOn": "2021-06-04T00:40:37.000Z",
-          "wordCount": 519,
-          "title": "Chrome 改进 Enhanced Safe Browsing 功能，强化扩展程序和文件下载安全性"
-        },
-        {
-          "id": "https://www.oschina.net/news/144507/facebook-ai-pytorch",
-          "author": null,
-          "description": "Facebook 在本周的开发者大会 F8 Refresh 上宣布，要让 PyTorch 成为该公司构建所有 AI 和机器学习模型的默认框架。PyTorch 是一款开源的机器学习框架，能够加快从研究原型到产品部署的过程，由 Facebook AI 研究人员于 2016 年与一些 AI 研究人员共同创建。 PyTorch 不仅能够让我们的研究和工程工作更加有效、协调和高效...",
-          "link": "https://www.oschina.net/news/144507/facebook-ai-pytorch",
-          "publishedOn": "2021-06-04T00:32:08.000Z",
-          "wordCount": 502,
-          "title": "Facebook 宣布将 PyTorch 作为默认 AI 框架"
-        },
-        {
-          "id": "https://www.oschina.net/news/144506/gotc-producer-intro",
-          "author": null,
-          "description": "GOTC，the Global Opensource Technology Conference，全球开源技术峰会。 这个会议由开源中国社区联合 Linux 基金会发起，邀请 10+ 重量级开源基金会与开源社区深度参与，覆盖 100+ 公司的相关开源经验，涉及优秀开源项目 300+。 组成这场开源盛会的专家主要是开源领域内的知名人物，相关的分享议题也聚焦开源，包括开源...",
-          "link": "https://www.oschina.net/news/144506/gotc-producer-intro",
-          "publishedOn": "2021-06-04T00:20:08.000Z",
-          "wordCount": 672,
-          "title": "GOTC，一场由 Linus Torvalds 等国际开源超星星担当出品人的峰会"
-        },
-        {
-          "id": "https://my.oschina.net/u/4489239/blog/5068908",
-          "author": null,
-          "description": "2009 年，面对 C++ 在 Google 分布式编译平台上的编译过程太过漫长的问题，贝尔实验室的 Unix 团队成员 Rob Pike 联合 Ken Thompson 和 Robert Griesemer 着手发起了一个叫 Golang 的项目，Go 语言诞生。",
-          "link": "https://my.oschina.net/u/4489239/blog/5068908",
-          "publishedOn": "2021-06-04T00:16:13.000Z",
-          "wordCount": 429,
-          "title": "许式伟：Go+ 门槛比 Go 低，我 6 年级的小孩都学一年了"
         }
       ]
     },

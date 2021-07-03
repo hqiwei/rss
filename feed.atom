@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T12:13:28.821Z</updated>
+    <updated>2021-07-03T13:13:02.436Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12364,106 +12364,6 @@ stringer 命令，通过代码生成提高效率  https://mp.weixin.qq.com/s/Ik3
         <summary type="html"><![CDATA[云溪数据库 ZNBase 是由浪潮开源的一款 NewSQL 分布式数据库，具备 HTAP 特性，拥有强一致、高可用的分布式架构。对于一个高可用的分布式系统来说，为了保障不同集群不同节点的数据一致，一致性算法尤为重要。Raft 是一种管理日志复制的分布式一致性算法，包括 ZNBase 在内的很多分布式系统都采用 Raft 作为底层的一致性...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome 改进 Enhanced Safe Browsing 功能，强化扩展程序和文件下载安全性]]></title>
-        <id>https://www.oschina.net/news/144508/chrome-warns-you-of-extensions-from-untrusted-devs</id>
-        <link href="https://www.oschina.net/news/144508/chrome-warns-you-of-extensions-from-untrusted-devs"/>
-        <updated>2021-06-04T00:40:37.000Z</updated>
-        <summary type="html"><![CDATA[Google 在 Chrome 浏览器中为 Enhanced Safe Browsing（增强型安全浏览）增加了新的保护功能，如今在安装不受信任的扩展程序时将向用户发出警告，并允许用户要求对下载文件进行更深入的扫描。 Safe Browsing 功能自 2007 年起就内置于 Chrome 浏览器中，当访问恶意网站（例如，试图窃取用户凭证、下载有害文件）时，它会...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook 宣布将 PyTorch 作为默认 AI 框架]]></title>
-        <id>https://www.oschina.net/news/144507/facebook-ai-pytorch</id>
-        <link href="https://www.oschina.net/news/144507/facebook-ai-pytorch"/>
-        <updated>2021-06-04T00:32:08.000Z</updated>
-        <summary type="html"><![CDATA[Facebook 在本周的开发者大会 F8 Refresh 上宣布，要让 PyTorch 成为该公司构建所有 AI 和机器学习模型的默认框架。PyTorch 是一款开源的机器学习框架，能够加快从研究原型到产品部署的过程，由 Facebook AI 研究人员于 2016 年与一些 AI 研究人员共同创建。 PyTorch 不仅能够让我们的研究和工程工作更加有效、协调和高效...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 161 期）：再见了，学术硕士]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html"/>
-        <updated>2021-06-04T00:29:26.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源美图 2021 06 04]]></title>
-        <id>http://www.linuxeden.com/?p=86088</id>
-        <link href="http://www.linuxeden.com/a/86088"/>
-        <updated>2021-06-04T00:25:09.000Z</updated>
-        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 06 04]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GOTC，一场由 Linus Torvalds 等国际开源超星星担当出品人的峰会]]></title>
-        <id>https://www.oschina.net/news/144506/gotc-producer-intro</id>
-        <link href="https://www.oschina.net/news/144506/gotc-producer-intro"/>
-        <updated>2021-06-04T00:20:08.000Z</updated>
-        <summary type="html"><![CDATA[GOTC，the Global Opensource Technology Conference，全球开源技术峰会。 这个会议由开源中国社区联合 Linux 基金会发起，邀请 10+ 重量级开源基金会与开源社区深度参与，覆盖 100+ 公司的相关开源经验，涉及优秀开源项目 300+。 组成这场开源盛会的专家主要是开源领域内的知名人物，相关的分享议题也聚焦开源，包括开源...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vant 3.0.18]]></title>
-        <id>http://www.linuxeden.com/?p=86086</id>
-        <link href="http://www.linuxeden.com/a/86086"/>
-        <updated>2021-06-04T00:19:32.000Z</updated>
-        <summary type="html"><![CDATA[Feature Button: 新增 icon 插槽 #8783 CouponList: 新增 list-footer、disabled-list-footer 插槽 #8801 Locale: 新增 French 法语语言包 #8795  […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vant 2.12.21发布]]></title>
-        <id>http://www.linuxeden.com/?p=86084</id>
-        <link href="http://www.linuxeden.com/a/86084"/>
-        <updated>2021-06-04T00:18:58.000Z</updated>
-        <summary type="html"><![CDATA[Feature Button: 新增 icon 插槽 #8784 CouponList: 新增 list-footer、disabled-list-footer 插槽 #8797 Locale: 新增 French 法语语言包 #8795  […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[许式伟：Go+ 门槛比 Go 低，我 6 年级的小孩都学一年了]]></title>
-        <id>https://my.oschina.net/u/4489239/blog/5068908</id>
-        <link href="https://my.oschina.net/u/4489239/blog/5068908"/>
-        <updated>2021-06-04T00:16:13.000Z</updated>
-        <summary type="html"><![CDATA[2009 年，面对 C++ 在 Google 分布式编译平台上的编译过程太过漫长的问题，贝尔实验室的 Unix 团队成员 Rob Pike 联合 Ken Thompson 和 Robert Griesemer 着手发起了一个叫 Golang 的项目，Go 语言诞生。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CentOS Linux 8 2105今日发布 基于RHEL 8.4]]></title>
-        <id>http://www.linuxeden.com/?p=86080</id>
-        <link href="http://www.linuxeden.com/a/86080"/>
-        <updated>2021-06-04T00:15:03.000Z</updated>
-        <summary type="html"><![CDATA[虽然CentOS Linux 8将在年底停止开发，红帽随后会将资源集中在CentOS Stream上，但CentOS Linux 8今天依然按计划发布了最新的版本2105，其开发是基于红帽企业Linux 8.4的源代码实现的。 上个月，红帽 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gocn 源码开源吗？]]></title>
-        <id>https://gocn.vip/topics/12153</id>
-        <link href="https://gocn.vip/topics/12153"/>
-        <updated>2021-06-04T00:14:20.000Z</updated>
-        <summary type="html"><![CDATA[Gocn 源码开源吗？]]></summary>
-        <author>
-            <name>12345678</name>
         </author>
     </entry>
 </feed>
