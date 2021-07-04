@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-04T03:10:29.889Z</updated>
+    <updated>2021-07-04T04:11:38.547Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12328,26 +12328,6 @@ functrace 最初用于跟踪函数调用链（得益于 Go 核心开发团队公
         <summary type="html"><![CDATA[威力酷剪 ActionDirector Video Editor 中文版由大眼仔旭（www.dayanzai. […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日文章精选 2021 06 04]]></title>
-        <id>http://www.linuxeden.com/?p=86099</id>
-        <link href="http://www.linuxeden.com/a/86099"/>
-        <updated>2021-06-04T15:21:07.000Z</updated>
-        <summary type="html"><![CDATA[Apache Calcite 1.27.0发布 Google 用自己的芯片取代数百万英特尔 CPU 开发者展示OpenHarmony纯净版系统：与华为鸿蒙截然不同 Vant 3.0.18 你使用过 Python 3.6 中针对文件系统的这个 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Calcite 1.27.0发布]]></title>
-        <id>http://www.linuxeden.com/?p=86096</id>
-        <link href="http://www.linuxeden.com/a/86096"/>
-        <updated>2021-06-04T15:10:25.000Z</updated>
-        <summary type="html"><![CDATA[apache-calcite-1.27.0-src.tar.gz 2021-06-03 21:16 4.7M apache-calcite-1.27.0-src.tar.gz.asc    2021-06-03 21:16  853 apa […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>
