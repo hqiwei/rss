@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-04T06:11:08.866Z</updated>
+    <updated>2021-07-04T07:08:19.380Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weather Spark – 天气预报服务：一年中的最佳旅游时间段]]></title>
+        <id>https://www.appinn.com/?p=39192</id>
+        <link href="https://www.appinn.com/weather-spark/"/>
+        <updated>2021-07-04T06:13:41.000Z</updated>
+        <summary type="html"><![CDATA[Weather Spark 是一款看起来不怎么漂亮的天气预报服务，提供 145,194 个地点的天气报告。但独特的旅游得分功能，可以告诉你目的地的最佳旅游时间段，以上海为例：“根据旅游得分，拜访上海市]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spring Boot + Vue3 前后端分离 实战 wiki 知识库系统]]></title>
         <id>https://gocn.vip/topics/12269</id>
