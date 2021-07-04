@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-04T04:11:38.547Z</updated>
+    <updated>2021-07-04T05:07:49.539Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Spring Boot + Vue3 前后端分离 实战 wiki 知识库系统]]></title>
+        <id>https://gocn.vip/topics/12269</id>
+        <link href="https://gocn.vip/topics/12269"/>
+        <updated>2021-07-04T04:34:33.000Z</updated>
+        <summary type="html"><![CDATA[Spring Boot + Vue3 前后端分离 实战 wiki 知识库系统
+资源获取：网盘下载
+通过一个界面简约、功能完整的知识库项目，带你快速掌握 Spring Boot 核心知识 + Vue 全家桶全栈技能。在此过程中，打造一套通用的组件工具（可应用于其他项目），掌握前后端分离开发模式，搭建一个专属自己的、内容可灵活配置的知识库系统。
+技术要求
+具备 Java、MySQL 基础
+具备 HTML+CSS+JavaScript 基础
+环境参数
+Spring Boot 2.4
+Vue3
+Vue CLI 4.5
+package com.chengxinet.bobo.utils;
+import android.content.Context;
+import android.net.ConnectivityManager;
+import android.net.NetworkInfo;
+import android.telephony.TelephonyManager;
+/**
+Created by Administrator on 2016/1/7.
+*/
+public class NetworkUtils {
+public static boolean isNetworkAvailable(Context c) {
+    Context context = c.getApplicationContext();
+    // 获取手机所有连接管理对象（包括对 wi-fi,net 等连接的管理）
+    ConnectivityManager connectivityManager = (ConnectivityManager) context.getSystemService(Context.CONNECTIVITY_SERVICE);
+if (connectivityMa…]]></summary>
+        <author>
+            <name>qiusuo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源美图 2021 07 04]]></title>
         <id>http://www.linuxeden.com/?p=87178</id>
@@ -12298,36 +12331,6 @@ functrace 最初用于跟踪函数调用链（得益于 Go 核心开发团队公
         <summary type="html"><![CDATA[TypeScript has taken the development world by storm. No wonder it has over 15 million weekly downloads on npm. But what is TypeScript, and what do you need to know about it?  In this article, I am going answer those questions. By the end you'll have a grasp of the]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[优秀 RAW 处理工具 Adobe Camera Raw 13.2 + Mac 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=1056</id>
-        <link href="http://www.dayanzai.me/cameraraw.html"/>
-        <updated>2021-06-04T16:38:33.000Z</updated>
-        <summary type="html"><![CDATA[Adobe Camera Raw 13 中文版由大眼仔旭（www.dayanzai.me）发布。Photosh […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[优秀免费截图办公工具 PicPick 5.1.6 中多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=1815</id>
-        <link href="http://www.dayanzai.me/picpick.html"/>
-        <updated>2021-06-04T16:35:35.000Z</updated>
-        <summary type="html"><![CDATA[PicPick 中文版 今天小编（www.dayanzai.me）大眼仔旭给大家分享一款绿色免费的优秀截图工具 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[威力酷剪 ActionDirector Video Editor 6.5.1 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=27463</id>
-        <link href="http://www.dayanzai.me/actiondirector.html"/>
-        <updated>2021-06-04T16:31:24.000Z</updated>
-        <summary type="html"><![CDATA[威力酷剪 ActionDirector Video Editor 中文版由大眼仔旭（www.dayanzai. […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
         </author>
     </entry>
 </feed>

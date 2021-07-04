@@ -767,6 +767,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12269",
+          "author": "qiusuo",
+          "description": "Spring Boot + Vue3 前后端分离 实战 wiki 知识库系统\n资源获取：网盘下载\n通过一个界面简约、功能完整的知识库项目，带你快速掌握 Spring Boot 核心知识 + Vue 全家桶全栈技能。在此过程中，打造一套通用的组件工具（可应用于其他项目），掌握前后端分离开发模式，搭建一个专属自己的、内容可灵活配置的知识库系统。\n技术要求\n具备 Java、MySQL 基础\n具备 HTML+CSS+JavaScript 基础\n环境参数\nSpring Boot 2.4\nVue3\nVue CLI 4.5\npackage com.chengxinet.bobo.utils;\nimport android.content.Context;\nimport android.net.ConnectivityManager;\nimport android.net.NetworkInfo;\nimport android.telephony.TelephonyManager;\n/**\nCreated by Administrator on 2016/1/7.\n*/\npublic class NetworkUtils {\npublic static boolean isNetworkAvailable(Context c) {\n    Context context = c.getApplicationContext();\n    // 获取手机所有连接管理对象（包括对 wi-fi,net 等连接的管理）\n    ConnectivityManager connectivityManager = (ConnectivityManager) context.getSystemService(Context.CONNECTIVITY_SERVICE);\nif (connectivityMa…",
+          "link": "https://gocn.vip/topics/12269",
+          "publishedOn": "2021-07-04T04:34:33.000Z",
+          "wordCount": 340,
+          "title": "Spring Boot + Vue3 前后端分离 实战 wiki 知识库系统"
+        },
+        {
           "id": "https://gocn.vip/topics/12268",
           "author": "Huayra",
           "description": "netlink 是 Go 和内核模块之间优秀的通信兵\nnetlink 是 Linux 系统里用户态程序、内核模块之间的一种 IPC 方式，特别是用户态程序和内核模块之间的 IPC 通信。比如在 Linux 终端里常用的 ip 命令，就是使用 netlink 去跟内核进行通信的。\nTL,DR  使用 Go 通过 netlink 向内核模块发送消息，内核模块响应一条消息，源代码：内核模块，Go 程序。\n内核模块\n注册 netlink\n在 insmod custom-netlink.ko 加载内核模块时，注册自定义的 netlink 处理函数。在 rmmod custom_netlink 卸载内核模块时，则注销自定义的 netlink 处理函数。\n#define NETLINK_CUSTOM 31\n\nstatic int __init custom_nl_init(void)\n{\n    //This is for 3.6 kernels and above.\n    struct netlink_kernel_cfg cfg = {\n        .input = custom_nl_recv_msg,\n    };\n\n    nl_sk = netlink_kernel_create(&init_net, NETLINK_CUSTOM, &cfg);\n    ......\n    return 0;\n}\n\nstatic void __exit custom_nl_exit(void)\n{\n\n    netlink_kernel_release(nl_sk);\n    printk(KERN_INFO \"[-] unregistered custom_netlink module.\\n\");\n}\n\nmodule_init(custom_nl_init);\nmodule_exi…",
@@ -8872,33 +8881,6 @@
           "publishedOn": "2021-06-05T16:14:13.000Z",
           "wordCount": 610,
           "title": "韩国鲸鱼浏览器 Whale 2.9.118.16 + x64 中文免费版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=1056",
-          "author": "大眼仔~旭",
-          "description": "Adobe Camera Raw 13 中文版由大眼仔旭（www.dayanzai.me）发布。Photosh […]",
-          "link": "http://www.dayanzai.me/cameraraw.html",
-          "publishedOn": "2021-06-04T16:38:33.000Z",
-          "wordCount": 631,
-          "title": "优秀 RAW 处理工具 Adobe Camera Raw 13.2 + Mac 中文多语免费版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=1815",
-          "author": "大眼仔~旭",
-          "description": "PicPick 中文版 今天小编（www.dayanzai.me）大眼仔旭给大家分享一款绿色免费的优秀截图工具 […]",
-          "link": "http://www.dayanzai.me/picpick.html",
-          "publishedOn": "2021-06-04T16:35:35.000Z",
-          "wordCount": null,
-          "title": "优秀免费截图办公工具 PicPick 5.1.6 中多语免费版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=27463",
-          "author": "大眼仔~旭",
-          "description": "威力酷剪 ActionDirector Video Editor 中文版由大眼仔旭（www.dayanzai. […]",
-          "link": "http://www.dayanzai.me/actiondirector.html",
-          "publishedOn": "2021-06-04T16:31:24.000Z",
-          "wordCount": 539,
-          "title": "威力酷剪 ActionDirector Video Editor 6.5.1 中文多语免费版"
         }
       ]
     }
