@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-04T02:19:52.626Z</updated>
+    <updated>2021-07-04T03:10:29.889Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12346,26 +12346,6 @@ functrace 最初用于跟踪函数调用链（得益于 Go 核心开发团队公
         <link href="http://www.linuxeden.com/a/86096"/>
         <updated>2021-06-04T15:10:25.000Z</updated>
         <summary type="html"><![CDATA[apache-calcite-1.27.0-src.tar.gz 2021-06-03 21:16 4.7M apache-calcite-1.27.0-src.tar.gz.asc    2021-06-03 21:16  853 apa […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 用自己的芯片取代数百万英特尔 CPU]]></title>
-        <id>http://www.linuxeden.com/?p=86094</id>
-        <link href="http://www.linuxeden.com/a/86094"/>
-        <updated>2021-06-04T15:03:14.000Z</updated>
-        <summary type="html"><![CDATA[Google 用自己设计的芯片 Argos video (trans)coding units(VCU)取代英特尔 CPU 去处理 YouTube 视频。今年早些时候，YouTube 披露了 Argos VCU，称相比以前使用软件在传统服务 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开发者展示OpenHarmony纯净版系统：与华为鸿蒙截然不同]]></title>
-        <id>http://www.linuxeden.com/?p=86091</id>
-        <link href="http://www.linuxeden.com/a/86091"/>
-        <updated>2021-06-04T14:42:17.000Z</updated>
-        <summary type="html"><![CDATA[HarmonyOS 2发布后，外界很关注，但也存在一些混淆和误读，华为强调，已于2020年、2021年分两次把鸿蒙操作系统的基础能力全部捐献给开放原子开源基金会，并由基金会整合其它参与者贡献形成OpenHarmony项目（中文名正申请注册） […]]]></summary>
         <author>
             <name>Editor, Kai</name>
         </author>

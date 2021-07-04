@@ -4543,24 +4543,6 @@
           "publishedOn": "2021-06-04T15:10:25.000Z",
           "wordCount": 92,
           "title": "Apache Calcite 1.27.0发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86094",
-          "author": "Editor, Kai",
-          "description": "Google 用自己设计的芯片 Argos video (trans)coding units(VCU)取代英特尔 CPU 去处理 YouTube 视频。今年早些时候，YouTube 披露了 Argos VCU，称相比以前使用软件在传统服务 […]",
-          "link": "http://www.linuxeden.com/a/86094",
-          "publishedOn": "2021-06-04T15:03:14.000Z",
-          "wordCount": 109,
-          "title": "Google 用自己的芯片取代数百万英特尔 CPU"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86091",
-          "author": "Editor, Kai",
-          "description": "HarmonyOS 2发布后，外界很关注，但也存在一些混淆和误读，华为强调，已于2020年、2021年分两次把鸿蒙操作系统的基础能力全部捐献给开放原子开源基金会，并由基金会整合其它参与者贡献形成OpenHarmony项目（中文名正申请注册） […]",
-          "link": "http://www.linuxeden.com/a/86091",
-          "publishedOn": "2021-06-04T14:42:17.000Z",
-          "wordCount": 93,
-          "title": "开发者展示OpenHarmony纯净版系统：与华为鸿蒙截然不同"
         }
       ]
     },
