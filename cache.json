@@ -1764,6 +1764,33 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=87168",
+          "author": "Editor, Kai",
+          "description": "我国在百亿亿次超算中取得了突破——国防科大研制、部署的“天河”E级(百亿亿次) 计算机关键技术验证系统在国际Graph500中获得两项世界第一。 据报道，7月1日公布的Graph500排名中，“天河”E级计算机关键技术验证系统获得SSSP  […]",
+          "link": "http://www.linuxeden.com/a/87168",
+          "publishedOn": "2021-07-04T00:18:48.000Z",
+          "wordCount": 88,
+          "title": "自研CPU+OS 我国百亿亿次超算天河E级验证系统斩获两项世界第一"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87166",
+          "author": "Editor, Kai",
+          "description": "apache-superset-1.2.0-source.tar.gz        2021-07-02 12:15   97M apache-superset-1.2.0-source.tar.gz.asc    2021-07-02  […]",
+          "link": "http://www.linuxeden.com/a/87166",
+          "publishedOn": "2021-07-04T00:08:42.000Z",
+          "wordCount": 97,
+          "title": "Apache Superset 1.2.0 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87164",
+          "author": "Editor, Kai",
+          "description": "兼容性更改 TiDB v4.0 集群升级到 v5.0 或更高版本（dev 和 v5.1）的集群后，tidb_multi_statement_mode 变量的默认值由 WARN 变为 OFF 兼容 MySQL 5.7 的 noop 变量 in […]",
+          "link": "http://www.linuxeden.com/a/87164",
+          "publishedOn": "2021-07-04T00:04:43.000Z",
+          "wordCount": 580,
+          "title": "TiDB 5.0.3 Release Notes"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=87160",
           "author": "Editor, Kai",
           "description": "在 WSL 上忘记了 Linux 密码？下面是如何轻松重设的方法 PCIe 6.0 0.71版草案公布：年底正式版 欧盟投上万亿发展2nm工艺 英飞凌唱反调：没人会用 Vue 3.1.4 发布 deepin！国内首个获取安全启动证书认证的L […]",
@@ -4882,6 +4909,60 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/148877",
+          "author": null,
+          "description": "蓝鲸作业平台项目背景 蓝鲸作业平台是一套运维基础操作管理系统，具备海量任务并发处理能力；除了支持脚本执行、文件分发、定时任务等一系列基础运维场景以外，还支持通过流程调度能力将零碎的单个任务组装成一个自动化作业流程；而每个作业都可做为一个原子节点，提供给上层或周边系统/平台使用，实现调度自动化。 技术...",
+          "link": "https://www.oschina.net/news/148877",
+          "publishedOn": "2021-07-04T00:22:04.000Z",
+          "wordCount": 471,
+          "title": "开源公告｜运维基础操作管理系统-蓝鲸作业平台正式开源！"
+        },
+        {
+          "id": "https://www.oschina.net/news/148876/future-of-the-workplace-survey-2021",
+          "author": null,
+          "description": "PagerDuty 基于 800 多名 IT 和 DevOps 专业人员的反馈意见，发布了一项针对“The Future of the Workplace”的调查。调查结果指出，虽然许多人对混合工作的新时代感到兴奋，但许多 IT 专业人员也有他们的担忧。 69% 的 IT 和 DevOps 专业人士认为，混合工作模式将继续存在。而远程工作在带来了灵活性和自由的同时，也带...",
+          "link": "https://www.oschina.net/news/148876/future-of-the-workplace-survey-2021",
+          "publishedOn": "2021-07-04T00:17:19.000Z",
+          "wordCount": 512,
+          "title": "报告：混合工作模式将加大 IT 工作难度"
+        },
+        {
+          "id": "https://www.oschina.net/question/3447476_2323086",
+          "author": null,
+          "description": "List<String> list = new ArrayList();\r\nlist.add(\"1.1\");\r\nlist.add(\"2\");\r\nlist.add(\"3.5\"); 我想用 Lambda 对 list 求和，并且转换成 BigDecimal 类型。",
+          "link": "https://www.oschina.net/question/3447476_2323086",
+          "publishedOn": "2021-07-04T00:05:01.000Z",
+          "wordCount": 232,
+          "title": "怎么用 Lambda 求和并且进行类型转换？"
+        },
+        {
+          "id": "https://www.oschina.net/p/Light-LPR",
+          "author": null,
+          "description": "Light-LPR是一个车牌识别开源项目，它可以在嵌入式设备、手机端和普通的x86平台上运行，旨在支持各种场景的车牌识别，车牌字符识别准确率超99.95%，综合识别准确率超过99%，支持目前国内所有的车牌识别，觉得好用的一定要加星哦。200星公布黄牌识别模型，400星公布新能源车牌模型。 技术上采用MTCNN检测车牌和四个角点精...",
+          "link": "https://www.oschina.net/p/Light-LPR",
+          "publishedOn": "2021-07-04T00:02:30.000Z",
+          "wordCount": 907,
+          "title": "Light-LPR —— 跨平台车牌识别应用"
+        },
+        {
+          "id": "https://gitee.com/vtrois/kratos",
+          "author": null,
+          "description": "Kratos 是一款专注于用户阅读体验的响应式 WordPress 主题，整体布局简洁大方，针对资源加载进行了优化。",
+          "link": "https://gitee.com/vtrois/kratos",
+          "publishedOn": "2021-07-04T00:00:54.000Z",
+          "wordCount": 478,
+          "title": "Gitee 推荐 | 响应式 WordPress 主题 Kratos"
+        },
+        {
+          "id": "https://my.oschina.net/u/4581139/blog/4678791",
+          "author": null,
+          "description": "现在是大数据时代，需要收集大量的个人信息用于统计。一方面它给我们带来了便利，另一方面一些个人信息数据在无意间被泄露，被非法分子用于推销和黑色产业。",
+          "link": "https://my.oschina.net/u/4581139/blog/4678791",
+          "publishedOn": "2021-07-03T23:58:42.000Z",
+          "wordCount": 828,
+          "title": "每日一博 | 敏感数据加密方案及实现"
+        },
         {
           "id": "https://my.oschina.net/oscpyaqxylk/blog/5119623",
           "author": null,

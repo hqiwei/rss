@@ -2,10 +2,103 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T23:08:46.287Z</updated>
+    <updated>2021-07-04T00:30:02.742Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开源公告｜运维基础操作管理系统-蓝鲸作业平台正式开源！]]></title>
+        <id>https://www.oschina.net/news/148877</id>
+        <link href="https://www.oschina.net/news/148877"/>
+        <updated>2021-07-04T00:22:04.000Z</updated>
+        <summary type="html"><![CDATA[蓝鲸作业平台项目背景 蓝鲸作业平台是一套运维基础操作管理系统，具备海量任务并发处理能力；除了支持脚本执行、文件分发、定时任务等一系列基础运维场景以外，还支持通过流程调度能力将零碎的单个任务组装成一个自动化作业流程；而每个作业都可做为一个原子节点，提供给上层或周边系统/平台使用，实现调度自动化。 技术...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自研CPU+OS 我国百亿亿次超算天河E级验证系统斩获两项世界第一]]></title>
+        <id>http://www.linuxeden.com/?p=87168</id>
+        <link href="http://www.linuxeden.com/a/87168"/>
+        <updated>2021-07-04T00:18:48.000Z</updated>
+        <summary type="html"><![CDATA[我国在百亿亿次超算中取得了突破——国防科大研制、部署的“天河”E级(百亿亿次) 计算机关键技术验证系统在国际Graph500中获得两项世界第一。 据报道，7月1日公布的Graph500排名中，“天河”E级计算机关键技术验证系统获得SSSP  […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[报告：混合工作模式将加大 IT 工作难度]]></title>
+        <id>https://www.oschina.net/news/148876/future-of-the-workplace-survey-2021</id>
+        <link href="https://www.oschina.net/news/148876/future-of-the-workplace-survey-2021"/>
+        <updated>2021-07-04T00:17:19.000Z</updated>
+        <summary type="html"><![CDATA[PagerDuty 基于 800 多名 IT 和 DevOps 专业人员的反馈意见，发布了一项针对“The Future of the Workplace”的调查。调查结果指出，虽然许多人对混合工作的新时代感到兴奋，但许多 IT 专业人员也有他们的担忧。 69% 的 IT 和 DevOps 专业人士认为，混合工作模式将继续存在。而远程工作在带来了灵活性和自由的同时，也带...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Superset 1.2.0 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87166</id>
+        <link href="http://www.linuxeden.com/a/87166"/>
+        <updated>2021-07-04T00:08:42.000Z</updated>
+        <summary type="html"><![CDATA[apache-superset-1.2.0-source.tar.gz        2021-07-02 12:15   97M apache-superset-1.2.0-source.tar.gz.asc    2021-07-02  […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[怎么用 Lambda 求和并且进行类型转换？]]></title>
+        <id>https://www.oschina.net/question/3447476_2323086</id>
+        <link href="https://www.oschina.net/question/3447476_2323086"/>
+        <updated>2021-07-04T00:05:01.000Z</updated>
+        <summary type="html"><![CDATA[List<String> list = new ArrayList();
+list.add("1.1");
+list.add("2");
+list.add("3.5"); 我想用 Lambda 对 list 求和，并且转换成 BigDecimal 类型。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TiDB 5.0.3 Release Notes]]></title>
+        <id>http://www.linuxeden.com/?p=87164</id>
+        <link href="http://www.linuxeden.com/a/87164"/>
+        <updated>2021-07-04T00:04:43.000Z</updated>
+        <summary type="html"><![CDATA[兼容性更改 TiDB v4.0 集群升级到 v5.0 或更高版本（dev 和 v5.1）的集群后，tidb_multi_statement_mode 变量的默认值由 WARN 变为 OFF 兼容 MySQL 5.7 的 noop 变量 in […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Light-LPR —— 跨平台车牌识别应用]]></title>
+        <id>https://www.oschina.net/p/Light-LPR</id>
+        <link href="https://www.oschina.net/p/Light-LPR"/>
+        <updated>2021-07-04T00:02:30.000Z</updated>
+        <summary type="html"><![CDATA[Light-LPR是一个车牌识别开源项目，它可以在嵌入式设备、手机端和普通的x86平台上运行，旨在支持各种场景的车牌识别，车牌字符识别准确率超99.95%，综合识别准确率超过99%，支持目前国内所有的车牌识别，觉得好用的一定要加星哦。200星公布黄牌识别模型，400星公布新能源车牌模型。 技术上采用MTCNN检测车牌和四个角点精...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitee 推荐 | 响应式 WordPress 主题 Kratos]]></title>
+        <id>https://gitee.com/vtrois/kratos</id>
+        <link href="https://gitee.com/vtrois/kratos"/>
+        <updated>2021-07-04T00:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Kratos 是一款专注于用户阅读体验的响应式 WordPress 主题，整体布局简洁大方，针对资源加载进行了优化。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 敏感数据加密方案及实现]]></title>
+        <id>https://my.oschina.net/u/4581139/blog/4678791</id>
+        <link href="https://my.oschina.net/u/4581139/blog/4678791"/>
+        <updated>2021-07-03T23:58:42.000Z</updated>
+        <summary type="html"><![CDATA[现在是大数据时代，需要收集大量的个人信息用于统计。一方面它给我们带来了便利，另一方面一些个人信息数据在无意间被泄露，被非法分子用于推销和黑色产业。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[netlink 是 Go 和内核模块之间优秀的通信兵]]></title>
         <id>https://gocn.vip/topics/12268</id>
