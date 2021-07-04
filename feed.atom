@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-04T09:09:20.223Z</updated>
+    <updated>2021-07-04T10:09:45.776Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12325,16 +12325,6 @@ functrace 最初用于跟踪函数调用链（得益于 Go 核心开发团队公
         <summary type="html"><![CDATA[OBS Studio 是一款免费且开源的用于视频录制以及直播串流的软件，提供实时高性能的视频/音频捕捉与混合，以及无限的场景模式帮助用户通过自定义实现无缝转换。 OBS Studio 27.0.0 正式发布，该版本具有原生 Wayland 支持。其他更新内容包括： 新增内容 增加了撤销/重做 为 Display Capture 添加了一个新的捕捉方法，允许...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Search and Filter Components in React]]></title>
-        <id>60b3480c11ffb70827ef9a88</id>
-        <link href="https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/"/>
-        <updated>2021-06-04T21:34:33.000Z</updated>
-        <summary type="html"><![CDATA[If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
