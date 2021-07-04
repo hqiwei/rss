@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-04T00:30:02.742Z</updated>
+    <updated>2021-07-04T01:50:59.929Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 07 04]]></title>
+        <id>http://www.linuxeden.com/?p=87178</id>
+        <link href="http://www.linuxeden.com/a/87178"/>
+        <updated>2021-07-04T01:03:40.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 07 04]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seaweedfs 2.57 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87175</id>
+        <link href="http://www.linuxeden.com/a/87175"/>
+        <updated>2021-07-04T00:53:08.000Z</updated>
+        <summary type="html"><![CDATA[Volume Fix bug with in-memory index in large_volume version #2162 Reduce memory consumption for in-memory index in envir […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deno 1.11.5 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87171</id>
+        <link href="http://www.linuxeden.com/a/87171"/>
+        <updated>2021-07-04T00:45:55.000Z</updated>
+        <summary type="html"><![CDATA[ci: don’t set DENO_CANARY when releasing, attempt 2 (#11214)   1 person reacted 👍 1     Ass […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三年等待，Google 终于为 Skylake 处理器带来 Linux on Chrome OS 支持]]></title>
+        <id>https://www.oschina.net/news/148879/chrome-os-linux-support-to-intel-6th-gen-processors</id>
+        <link href="https://www.oschina.net/news/148879/chrome-os-linux-support-to-intel-6th-gen-processors"/>
+        <updated>2021-07-04T00:33:09.000Z</updated>
+        <summary type="html"><![CDATA[Chrome OS 对 Linux 的支持使 Chromebook 成为了更具有生产力的设备，而现在该功能终于登陆了采用了英特尔第六代 Skylake 处理器的老款 Chromebook。 Google 在 2018 年推出了 Crostini 项目，首次在 Chrome OS 中推出了对 Linux 应用的支持，但当时该功能仅限特定的 Chromebook 型号和芯片配置上。经过三年时间的发展，...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源公告｜运维基础操作管理系统-蓝鲸作业平台正式开源！]]></title>
         <id>https://www.oschina.net/news/148877</id>

@@ -1764,6 +1764,33 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=87178",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 07 04",
+          "link": "http://www.linuxeden.com/a/87178",
+          "publishedOn": "2021-07-04T01:03:40.000Z",
+          "wordCount": 80,
+          "title": "开源美图 2021 07 04"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87175",
+          "author": "Editor, Kai",
+          "description": "Volume Fix bug with in-memory index in large_volume version #2162 Reduce memory consumption for in-memory index in envir […]",
+          "link": "http://www.linuxeden.com/a/87175",
+          "publishedOn": "2021-07-04T00:53:08.000Z",
+          "wordCount": 231,
+          "title": "Seaweedfs 2.57 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87171",
+          "author": "Editor, Kai",
+          "description": "ci: don’t set DENO_CANARY when releasing, attempt 2 (#11214)   1 person reacted 👍 1     Ass […]",
+          "link": "http://www.linuxeden.com/a/87171",
+          "publishedOn": "2021-07-04T00:45:55.000Z",
+          "wordCount": 120,
+          "title": "Deno 1.11.5 发布"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=87168",
           "author": "Editor, Kai",
           "description": "我国在百亿亿次超算中取得了突破——国防科大研制、部署的“天河”E级(百亿亿次) 计算机关键技术验证系统在国际Graph500中获得两项世界第一。 据报道，7月1日公布的Graph500排名中，“天河”E级计算机关键技术验证系统获得SSSP  […]",
@@ -4909,6 +4936,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/148879/chrome-os-linux-support-to-intel-6th-gen-processors",
+          "author": null,
+          "description": "Chrome OS 对 Linux 的支持使 Chromebook 成为了更具有生产力的设备，而现在该功能终于登陆了采用了英特尔第六代 Skylake 处理器的老款 Chromebook。 Google 在 2018 年推出了 Crostini 项目，首次在 Chrome OS 中推出了对 Linux 应用的支持，但当时该功能仅限特定的 Chromebook 型号和芯片配置上。经过三年时间的发展，...",
+          "link": "https://www.oschina.net/news/148879/chrome-os-linux-support-to-intel-6th-gen-processors",
+          "publishedOn": "2021-07-04T00:33:09.000Z",
+          "wordCount": 560,
+          "title": "三年等待，Google 终于为 Skylake 处理器带来 Linux on Chrome OS 支持"
+        },
         {
           "id": "https://www.oschina.net/news/148877",
           "author": null,
