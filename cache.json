@@ -7977,42 +7977,6 @@
           "publishedOn": "2021-06-05T00:18:52.000Z",
           "wordCount": 508,
           "title": "调查：46% 的开源项目维护者根本没有获得报酬"
-        },
-        {
-          "id": "https://www.oschina.net/p/gnu-poke",
-          "author": null,
-          "description": "GNU poke 是一个可交互、可扩展的编辑器，用于处理二进制数据。它的能力不仅限于编辑基本的字符实体，比如位和字节，它同时还设计了一种成熟的过程式、交互式编程语言，用来描述数据结构并对其进行操作。",
-          "link": "https://www.oschina.net/p/gnu-poke",
-          "publishedOn": "2021-06-05T00:05:07.000Z",
-          "wordCount": 567,
-          "title": "GNU poke —— 可扩展的结构化二进制数据编辑器"
-        },
-        {
-          "id": "https://gitee.com/thoughtworks/SynestiaOS",
-          "author": null,
-          "description": "SynestiaOS 是一个面向物联网设备的基于标准的开源操作系统，面向机器人，智能手表，电视和汽车信息娱乐等平台。",
-          "link": "https://gitee.com/thoughtworks/SynestiaOS",
-          "publishedOn": "2021-06-05T00:04:54.000Z",
-          "wordCount": 386,
-          "title": "Gitee 推荐 | 面向物联网设备的开源操作系统 SynestiaOS"
-        },
-        {
-          "id": "https://my.oschina.net/LuckyWinty/blog/4641612",
-          "author": null,
-          "description": "OOP 即 面向对象编程 （Object Oriented Programming）毫无疑问是软件设计和发展中的一大进步。事实上，一些编程语言如 Java 、C++ 就是基于 OOP 的核心概念 class 开发出来。",
-          "link": "https://my.oschina.net/LuckyWinty/blog/4641612",
-          "publishedOn": "2021-06-05T00:00:14.000Z",
-          "wordCount": 976,
-          "title": "每日一博 | 应该在 JavaScript 中使用 Class 吗？"
-        },
-        {
-          "id": "https://www.oschina.net/news/144669/obs-studio-27-0-released",
-          "author": null,
-          "description": "OBS Studio 是一款免费且开源的用于视频录制以及直播串流的软件，提供实时高性能的视频/音频捕捉与混合，以及无限的场景模式帮助用户通过自定义实现无缝转换。 OBS Studio 27.0.0 正式发布，该版本具有原生 Wayland 支持。其他更新内容包括： 新增内容 增加了撤销/重做 为 Display Capture 添加了一个新的捕捉方法，允许...",
-          "link": "https://www.oschina.net/news/144669/obs-studio-27-0-released",
-          "publishedOn": "2021-06-04T23:33:52.000Z",
-          "wordCount": 573,
-          "title": "OBS Studio 27.0.0 发布，原生支持 Wayland"
         }
       ]
     },
