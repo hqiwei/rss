@@ -758,6 +758,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12270",
+          "author": "bupt_xingxin",
+          "description": "推荐 tableflip 的背景\n在日常研发过程中，我们负责的 web 应用常常会因发布过程中的服务重启而出现短时间的服务不可用或大量请求报错。随着互联网行业研发模式的逐渐敏捷和迭代周期的不断缩短，应用升级导致的服务抖动对系统稳定性的影响已不可忽视。在应用中集成 tableflip 或许可以缓解大家在新功能上线时的担忧。\ntableflip 是 Cloudflare 针对 golang 进程实现优雅重启而设计的一套开源类库，集成 tableflip 可以让我们的 go 应用获得与 nginx reload 一样强大的热更新能力。如果你的应用尚未接入负载均衡与滚动发布，或者你的应用本身就是需要特殊处理的有状态应用，赶快试试 tableflip 吧！\ntableflip 简介\ntableflip 的设计宗旨就是实现类似 nginx 的优雅热更新能力，包括：\n新进程启动成功后，老进程不会有资源残留\n优雅的新进程初始化（新进程启动和初始化的过程中服务不会中断）\n容忍新进程初始化的失败（如果新进程初始化失败，老进程会继续工作而不是退出）\n同一时间只能有一个更新动作执行\ntableflip 中的核心类型是 Upgrader，调用 Upgrader.Upgrade 会产生一个继承必要的 net.Listeners 的新进程，并等待新进程发出表明其已成功完成初始化、退出或超时的信号。如果当前已有升级的任务在执行，则直接返回相应的错误。\n当新进程启动成功后，调用 Upgrader.Ready 会清除无效的 fd 并向父进程发出初始化成功完成的信号，然后父进程就可以安心退出。至此，我们就完成了一次优雅的进程重启。\n\n注：tableflip 目前只适用于 Linux 和 macOS\ntableflip 应用举例\n接下来我们设计一个集成 tableflip 的简单 http server，完整代码…",
+          "link": "https://gocn.vip/topics/12270",
+          "publishedOn": "2021-07-04T07:35:35.000Z",
+          "wordCount": 420,
+          "title": "使用 tableflip 实现应用的优雅热升级"
+        },
+        {
           "id": "https://gocn.vip/topics/12269",
           "author": "qiusuo",
           "description": "Spring Boot + Vue3 前后端分离 实战 wiki 知识库系统\n资源获取：网盘下载\n通过一个界面简约、功能完整的知识库项目，带你快速掌握 Spring Boot 核心知识 + Vue 全家桶全栈技能。在此过程中，打造一套通用的组件工具（可应用于其他项目），掌握前后端分离开发模式，搭建一个专属自己的、内容可灵活配置的知识库系统。\n技术要求\n具备 Java、MySQL 基础\n具备 HTML+CSS+JavaScript 基础\n环境参数\nSpring Boot 2.4\nVue3\nVue CLI 4.5\npackage com.chengxinet.bobo.utils;\nimport android.content.Context;\nimport android.net.ConnectivityManager;\nimport android.net.NetworkInfo;\nimport android.telephony.TelephonyManager;\n/**\nCreated by Administrator on 2016/1/7.\n*/\npublic class NetworkUtils {\npublic static boolean isNetworkAvailable(Context c) {\n    Context context = c.getApplicationContext();\n    // 获取手机所有连接管理对象（包括对 wi-fi,net 等连接的管理）\n    ConnectivityManager connectivityManager = (ConnectivityManager) context.getSystemService(Context.CONNECTIVITY_SERVICE);\nif (connectivityMa…",
