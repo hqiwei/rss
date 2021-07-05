@@ -7995,42 +7995,6 @@
           "publishedOn": "2021-06-06T02:37:01.000Z",
           "wordCount": 500,
           "title": "开源的 OpenHarmony 是每个人的 OpenHarmony"
-        },
-        {
-          "id": "https://www.oschina.net/news/144771/google-experimental-abuse-research-grants-program",
-          "author": null,
-          "description": "谷歌宣布了一项新的实验性滥用研究资助计划，用于现有漏洞研究资助和漏洞奖励计划（VRP）范围之外的滥用相关策略和产品问题。 根据介绍，该计划的资助金额从 500 美元到 3,133.7 美元不等，并将在研究人员提交在 Google 功能和产品中发现的错误之前预先授予。旨在奖励那些在传统安全漏洞范围之外寻找滥用相关方法和敏感产...",
-          "link": "https://www.oschina.net/news/144771/google-experimental-abuse-research-grants-program",
-          "publishedOn": "2021-06-06T01:00:03.000Z",
-          "wordCount": 454,
-          "title": "谷歌推出新的实验性滥用研究资助计划"
-        },
-        {
-          "id": "https://www.oschina.net/news/144769/h3c-joins-openeuler-community",
-          "author": null,
-          "description": "近日，H3C 签署 CLA(Contributor License Agreement，贡献者许可协议)，正式加入 openEuler 社区。未来将积极参与社区合作，与行业内的生态伙伴共建平台，推动行业生态繁荣发展。 H3C 拥有计算、存储、网络、5G、安全等全方位的数字化基础设施整体能力，提供云计算、大数据、人工智能、工业互联网、信息安全、智能联接、...",
-          "link": "https://www.oschina.net/news/144769/h3c-joins-openeuler-community",
-          "publishedOn": "2021-06-06T00:55:17.000Z",
-          "wordCount": 450,
-          "title": "新华三集团正式加入 openEuler 社区，共建开源生态"
-        },
-        {
-          "id": "https://www.oschina.net/news/144765",
-          "author": null,
-          "description": "2021 年 6 月 4 日，由中国信息通信研究院（以下简称“中国信通院”）主办的 “ 2021 云边协同大会 ” 在北京举行。本次会议以 “ 开启分布式云新时代 ” 为主题，旨在搭建数字经济与 5G 时代下云服务与边缘计算融合发展的桥梁，并面向行业发布多项云边协同发展阶段性成果。其中，阿里云边缘容器服务 ACK @ Edge 获得 “...",
-          "link": "https://www.oschina.net/news/144765",
-          "publishedOn": "2021-06-06T00:31:18.000Z",
-          "wordCount": 563,
-          "title": "阿里云边缘容器服务、申通 IoT 云边端架构入选 2021 云边协同发展阶段性领先成果"
-        },
-        {
-          "id": "https://www.oschina.net/news/144764/lg-open-sources-fosslight",
-          "author": null,
-          "description": "韩国商业巨头 LG 公司近日宣布，已经将其公司内部使用的工具进行了开源，该工具主要用于识别和管理自己企业内的开源软件。 这套工具名为 FOSSlight，它可以帮助企业内的开发人员确保他们使用的代码是受到相应许可证允许的，并寻找开源软件中已知的漏洞，以便开发人员解决这些问题，还可以用于检查与 LG 合作的第三方所提...",
-          "link": "https://www.oschina.net/news/144764/lg-open-sources-fosslight",
-          "publishedOn": "2021-06-06T00:20:28.000Z",
-          "wordCount": 476,
-          "title": "LG 开源企业内部工具，用于开源合规性检测"
         }
       ]
     },
