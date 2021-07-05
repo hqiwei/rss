@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-05T13:15:24.760Z</updated>
+    <updated>2021-07-05T14:08:37.860Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12319,26 +12319,6 @@ sys     0m0.015s
         <link href="http://www.linuxeden.com/a/86144"/>
         <updated>2021-06-06T02:12:13.000Z</updated>
         <summary type="html"><![CDATA[New features E-book viewer: Highlights: Make URLs in the notes for highlights clickable Book details: Ctrl-clicking on t […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用这个 Python 3.7 的特性来切片无限生成器]]></title>
-        <id>http://www.linuxeden.com/?p=86141</id>
-        <link href="http://www.linuxeden.com/a/86141"/>
-        <updated>2021-06-06T01:58:12.000Z</updated>
-        <summary type="html"><![CDATA[了解更多关于这个和其他两个未被充分利用但仍然有用的 Python 特性。 这是关于 Python 3.x 首发特性系列文章的第八篇。Python 3.7 于 2018 年首次发布，尽管它已经发布了几年，但它引入的许多特性都未被充分利用，而且 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果M1X性能曝光：32核GPU媲美RTX 3070、节省一半功耗]]></title>
-        <id>http://www.linuxeden.com/?p=86137</id>
-        <link href="http://www.linuxeden.com/a/86137"/>
-        <updated>2021-06-06T01:52:43.000Z</updated>
-        <summary type="html"><![CDATA[苹果M1处理器已经在MacBook、iPad Pro新品上搭载，性能表现令人印象深刻。 考虑到M1采用的是8核CPU+8核GPU的“保守”配置，我们有理由相信，更强的M系处理器正在路上。 日前，Up主Dave2D分享了M1X处理器的情报，透 […]]]></summary>
         <author>
             <name>Editor, Kai</name>
         </author>

@@ -4507,24 +4507,6 @@
           "publishedOn": "2021-06-06T02:12:13.000Z",
           "wordCount": 203,
           "title": "Calibre 5.20发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86141",
-          "author": "Editor, Kai",
-          "description": "了解更多关于这个和其他两个未被充分利用但仍然有用的 Python 特性。 这是关于 Python 3.x 首发特性系列文章的第八篇。Python 3.7 于 2018 年首次发布，尽管它已经发布了几年，但它引入的许多特性都未被充分利用，而且 […]",
-          "link": "http://www.linuxeden.com/a/86141",
-          "publishedOn": "2021-06-06T01:58:12.000Z",
-          "wordCount": 245,
-          "title": "用这个 Python 3.7 的特性来切片无限生成器"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86137",
-          "author": "Editor, Kai",
-          "description": "苹果M1处理器已经在MacBook、iPad Pro新品上搭载，性能表现令人印象深刻。 考虑到M1采用的是8核CPU+8核GPU的“保守”配置，我们有理由相信，更强的M系处理器正在路上。 日前，Up主Dave2D分享了M1X处理器的情报，透 […]",
-          "link": "http://www.linuxeden.com/a/86137",
-          "publishedOn": "2021-06-06T01:52:43.000Z",
-          "wordCount": 92,
-          "title": "苹果M1X性能曝光：32核GPU媲美RTX 3070、节省一半功耗"
         }
       ]
     },
