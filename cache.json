@@ -4498,6 +4498,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=39200",
+          "author": "青小蛙",
+          "description": "UZIP 是一款基于 7zip 的自动解压缩小工具，它支持密码本功能，可以批量自动解压缩不同密码的加密文件，还支持测试解压密码、记录压缩日志、过滤解压文件等功能。@Appinn 感谢微博的 @此情可待",
+          "link": "https://www.appinn.com/uzip-7zip-for-windows/",
+          "publishedOn": "2021-07-05T08:55:23.000Z",
+          "wordCount": 1155,
+          "title": "UZIP – 支持密码本，多密码自动解压缩加密文件[Windows]"
+        },
+        {
           "id": "https://www.appinn.com/?p=39195",
           "author": "青小蛙",
           "description": "Setapp 是 macOS 系统下著名的软件订阅制倡导者，只需要为 Setapp 支付一笔订阅费用，就能在订阅期间使用 Setapp 包含的 210 多款软件，包括 iStat Menus、Clea",

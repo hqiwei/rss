@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-05T08:11:01.886Z</updated>
+    <updated>2021-07-05T09:10:00.368Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UZIP – 支持密码本，多密码自动解压缩加密文件[Windows]]]></title>
+        <id>https://www.appinn.com/?p=39200</id>
+        <link href="https://www.appinn.com/uzip-7zip-for-windows/"/>
+        <updated>2021-07-05T08:55:23.000Z</updated>
+        <summary type="html"><![CDATA[UZIP 是一款基于 7zip 的自动解压缩小工具，它支持密码本功能，可以批量自动解压缩不同密码的加密文件，还支持测试解压密码、记录压缩日志、过滤解压文件等功能。@Appinn 感谢微博的 @此情可待]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoCN 每日新闻 (2021-07-05)]]></title>
         <id>https://gocn.vip/topics/12274</id>
