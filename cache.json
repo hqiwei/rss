@@ -4856,6 +4856,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/148999",
+          "author": null,
+          "description": "继神经网络推理框架 ncnn、TNN，动作检测算法 DBG，通用目标检测算法 OSD，人脸检测算法 DSFD、人脸属性算法 FAN等众多优秀的框架、算法开源后，腾讯优图实验室又有一项人脸识别算法研究项目——TFace正式拥抱开源啦！ TFace开源地址： https://github.com/Tencent/TFace 项目背景 TFace是由腾讯优图实验室研发的人脸识别...",
+          "link": "https://www.oschina.net/news/148999",
+          "publishedOn": "2021-07-05T04:10:36.000Z",
+          "wordCount": 490,
+          "title": "开源公告｜更可信的人脸识别，腾讯优图 TFace 正式开源！"
+        },
+        {
           "id": "https://www.oschina.net/news/148989",
           "author": null,
           "description": "1956 年，人工智能的概念在达特茅斯会议上被首次提及。60 多年来，经过几代研发人员的努力，如今的人工智能已经成为触手可及的现实，各种以 AI 技术驱动的科研成果层出不穷，成为新一轮科技革命和产业变革的重要驱动力量，正在对世界经济发展、科技创新、社会进步等方面产生重大而深远影响。 近年来，中国的人工智能技术...",
@@ -8890,24 +8899,6 @@
           "publishedOn": "2021-06-06T16:24:58.000Z",
           "wordCount": 719,
           "title": "开源免费沙箱增强版 Sandboxie Plus 0.7.5 + x64 中文免费版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=4747",
-          "author": "大眼仔~旭",
-          "description": "开源免费系统管理软件 NSudo 中文版由大眼旭仔（www.dayanzai.me）发布。使用小型工具 NSu […]",
-          "link": "http://www.dayanzai.me/nsudo.html",
-          "publishedOn": "2021-06-05T16:15:12.000Z",
-          "wordCount": 799,
-          "title": "开源免费系统管理软件 NSudo 8.2.0 中文免费版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=51449",
-          "author": "大眼仔~旭",
-          "description": "韩国鲸鱼浏览器 Whale 中文版由大眼仔旭（www.dayanzai.me）整理发布。您所使用的 Web 浏 […]",
-          "link": "http://www.dayanzai.me/whale.html",
-          "publishedOn": "2021-06-05T16:14:13.000Z",
-          "wordCount": 610,
-          "title": "韩国鲸鱼浏览器 Whale 2.9.118.16 + x64 中文免费版"
         }
       ]
     }
