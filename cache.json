@@ -4874,6 +4874,24 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/149056",
+          "author": null,
+          "description": "在最早获取 AWS 支持后，最近 Rocky Linux 又与微软、Google 达成合作协议，两大公有云厂商成为 RESF 的主要赞助商，详见下文： 摘要 长达7个月的艰苦努力之后，我们非常兴奋的宣布 Rocky Linux 8.4 在 x86_64 和 aarch64 平台上已经达到了生产可用标准。我们在候选版本上取得了极大的进展并且很高兴推荐你在生产系统上安...",
+          "link": "https://www.oschina.net/news/149056",
+          "publishedOn": "2021-07-05T10:39:24.000Z",
+          "wordCount": 554,
+          "title": "Rocky Linux 稳了，获 AWS、Azure 和 Google Cloud 三大公有云厂商支持！"
+        },
+        {
+          "id": "https://www.oschina.net/news/149054",
+          "author": null,
+          "description": "项目介绍 Taitank 布局引擎是 TDF 团队实现的一个高性能、轻量级、跨平台的 C++ 布局引擎。 设计重点在于如何高性能的实现布局系统，并且在不影响业务使用的前提下，精简对历史属性的支持。目前已在QQ 浏览器、手机 QQ、QQ 视频等多个业务中广泛使用。 项目背景 交互体验是产品的核心功能，UI系统是交互系统的核心模块，...",
+          "link": "https://www.oschina.net/news/149054",
+          "publishedOn": "2021-07-05T10:31:36.000Z",
+          "wordCount": 528,
+          "title": "开源公告｜ C++ 布局引擎 Taitank 正式开源！"
+        },
+        {
           "id": "https://www.oschina.net/news/148999",
           "author": null,
           "description": "继神经网络推理框架 ncnn、TNN，动作检测算法 DBG，通用目标检测算法 OSD，人脸检测算法 DSFD、人脸属性算法 FAN等众多优秀的框架、算法开源后，腾讯优图实验室又有一项人脸识别算法研究项目——TFace正式拥抱开源啦！ TFace开源地址： https://github.com/Tencent/TFace 项目背景 TFace是由腾讯优图实验室研发的人脸识别...",
@@ -8022,15 +8040,6 @@
           "publishedOn": "2021-06-05T23:34:24.000Z",
           "wordCount": 562,
           "title": "CentOS 8.4 发布"
-        },
-        {
-          "id": "https://www.oschina.net/news/144752/wine-6-10-released",
-          "author": null,
-          "description": "Wine（Wine Is Not an Emulator）是一个能够在多种兼容 POSIX 接口的操作系统（诸如 Linux、macOS 与 BSD 等）上运行 Windows 应用的兼容层。它不是像虚拟机或者模拟器一样模仿内部的 Windows 逻辑，而是将 Windows API 调用翻译成为动态的 POSIX 调用，免除了性能和其它一些行为的内存占用，让你能够干净地整合 Window...",
-          "link": "https://www.oschina.net/news/144752/wine-6-10-released",
-          "publishedOn": "2021-06-05T23:01:39.000Z",
-          "wordCount": 491,
-          "title": "Wine 6.10 发布，Windows 应用的兼容层"
         }
       ]
     },
