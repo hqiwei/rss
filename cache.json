@@ -731,6 +731,24 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12273",
+          "author": "qiangmzsx",
+          "description": "工作职责\n\n1. 采用Go语言(Golang)开发稳健可扩展的后端程序；\n\n2. 负责得到app服务端的基础架构优化及升级，不断提升代码质量、可扩展性和可维护性；\n\n3. 根据公司产品需要不断提高产品用户体验和更好实现业务目标；\n\n4. 根据技术部门要求完成技术研究工作，并输出研究成果和推动成果落地工作。\n\n\n任职要求\n\n1. 计算机或者数学相关专业，本科以及以上学历；\n\n2. 具有1年以上Go/java/PHP一种或以上服务端开发经验，以及熟悉相关语言下的常用技术框架；\n\n3. 对函数式编程思想有研究，且深入理解面向对象编程设计理念，对设计模式和设计原则有较好的把握，有大型项目的研发经验；\n\n4. 精通MySQL/SqlServer/Oracle一种或以上关系数据库使用；\n\n5. 熟悉Redis、Kafka、gRPC、MongoDB等常见的开源系统\n\n6. 有良好的代码习惯，要求结构清晰，命名规范；\n\n7. 良好的沟通能力、学习能力、团队协作能力；\n\n8. 良好的产品意识，能够根据业务持续输出产品优化思路。\n\n9. 有性能优化，算法优化开发经验为佳。\n\n\n资薪待遇\n25 ～ 60k * 14，以能定薪，上不封顶。\n\n工作地点\n北京市朝阳区华贸商务楼-20号（大望路地铁站F口）\nhttps://j.map.baidu.com/1f/QQuJ \n\n\n联系方式\nouerqiang@luojilab.com",
+          "link": "https://gocn.vip/topics/12273",
+          "publishedOn": "2021-07-05T03:27:52.000Z",
+          "wordCount": 132,
+          "title": "招聘 [北京] [25 ～ 60k] 得到 App 招聘 资深/高级/初级/实习生 Golang 工程师"
+        },
+        {
+          "id": "https://gocn.vip/topics/12272",
+          "author": "biancheng",
+          "description": "download:编程必备基础 计算机组成原理 + 操作系统 + 计算机网络\n*\nTo change this license header, choose License Headers in Project Properties.\nTo change this template file, choose Tools | Templates\nand open the template in the editor.\n*/\npackage datei.steuern;\nimport java.io.BufferedReader;\nimport java.io.File;\nimport java.io.FileInputStream;\nimport java.io.FileNotFoundException;\nimport java.io.FileOutputStream;\nimport java.io.FileWriter;\nimport java.io.IOException;\nimport java.io.InputStream;\nimport java.io.InputStreamReader;\nimport java.io.RandomAccessFile;\nimport java.nio.ByteBuffer;\nimport java.nio.channels.FileChannel;\nimport java.util.ArrayList;\nimport java.util.Arrays;\nimport java.util.Collections;\nimport java.util.List;\nimport java.util.logging.Level;\nimport java.util.logging.Logger;\n/**\n *\n@author s.watso…",
+          "link": "https://gocn.vip/topics/12272",
+          "publishedOn": "2021-07-05T03:23:22.000Z",
+          "wordCount": 4021,
+          "title": "编程必备基础 计算机组成原理 + 操作系统 + 计算机网络"
+        },
+        {
           "id": "https://gocn.vip/topics/12271",
           "author": "Orichalcum",
           "description": "Golang 中的一些非常规优化 https://mp.weixin.qq.com/s/X7OU9JjSThB5IZF_KVT1Jg\n\n使用 tableflip 实现应用的优雅热升级 https://gocn.vip/topics/12270\n\nnetlink 是 Go 和内核模块之间优秀的通信兵 https://gocn.vip/topics/12268\n\n在 go 中实现一个 worker-pool https://mp.weixin.qq.com/s/0-cbZVAWgiTWIEcd4bInQA\n\n亿级系统的 Redis 缓存如何设计 https://mp.weixin.qq.com/s/bkXnbQIpI_GdX4BHkAhPUA\n\n\n\n\n编辑: ShaNn\n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
@@ -1692,24 +1710,6 @@
           "publishedOn": "2021-06-06T08:21:43.000Z",
           "wordCount": 982,
           "title": "Go 高性能系列教程之四：执行跟踪器"
-        },
-        {
-          "id": "https://gocn.vip/topics/12161",
-          "author": "rbowind",
-          "description": "go version 1.14.12\n何为 Duck Type\n当看到一只鸟走起来像鸭子、游泳起来像鸭子、叫起来也像鸭子，那么这只鸟就可以被称为鸭子。\n\nShow me the code 🤔\ntype Duck interface {\n    Quack()\n}\ntype Cat struct{}\n//Quack ,now, the Cat is Duck\nfunc (c Cat) Quack() {\n    fmt.Println(\"Miowo\")\n}\nfunc main() {\n    var _ Duck = Cat{}\n}\n\n\n那么，我也可以是鸭子？\n​\n得意之时，Cat 突然尴尬地说，我好像不会Quack 这个技能，但是我会Quacks 😁，您看这也差不多，我也能算鸭子吧？\n 那我们还是问问土拨鼠兄弟\n      \n土拨鼠盘算了一番，毫无犹豫地划了个 ❌\n\nCat 刚想争辩，土拨鼠已遁入土里，Cat 不服，遂掘地三尺，挖向了底层。。。好了，回归正题，我们先分析问题。\n​\n问题分析\n问题定位：出现在编译过程中，查看 compile 包。\n报错定位：在 compile 包全局搜索报错信息关键字段 does not implement。\n筛选一下，找到了subr.go\n很好，我们定位了:\n*why = fmt.Sprintf(\":\\n\\t%v does not implement %v (missing %v method)\", src, dst, missing.Sym)\n\n\n\n函数内上下文发现（注意代码注释）：\n// 3. dst is an interface type and src implements dst.\n    if dst.IsInterface() && src.Etype != TNIL {\n        var missing, hav…",
-          "link": "https://gocn.vip/topics/12161",
-          "publishedOn": "2021-06-05T15:59:45.000Z",
-          "wordCount": 438,
-          "title": "编译器如何判断你是否是 Duck Type"
-        },
-        {
-          "id": "https://gocn.vip/topics/12160",
-          "author": "yudotyang",
-          "description": "介绍\n有没有想过你的协程是如何被 go 运行时调度的？有没有想过为什么增加了并发但性能却没有提高？Go 的执行跟踪器（execution tracer）可以帮我们回答这些 问题以及帮你诊断性能问题，比如延迟，竞争和并行阻塞。\n该工具自 Go 1.15 版本开始可用，主要工作是收集 go 运行时特定的事件。例如：\n协程的创建、启动以及结束。\n协程阻塞/解除阻塞事件（系统调用 syscalls，通道 channels，锁 locks）\n网络 I/0 相关事件\n系统调用\n垃圾回收（GC）\n所有这些数据都是通过跟踪器（tracer）进行收集的，没有任何聚集或取样。在一些繁忙的应用中，可能会导致一个非常大的文件，该文件可以通过 go tool trace命令进行分析。\n在 Go 的工具链中，之前已经有 pprof 可以收集内存和 CPU 的数据了，为什么还要研发执行跟踪器，并把它加入到官方的工具链中呢？然而，CPU 的收集器（CPU Profiler）能够告诉你一个函数花费了多少 CPU 的执行时间，但不能告诉你在运行时环境中，是什么阻塞了协程的运行，也不能告诉你协程在可用的线程上是如何调度器的。这就是跟踪器（tracer）真正发挥作用的地方。tracer 设计文档很好的解释了 tracer 的动机以及如何被设计的。\n开启 tracer 之旅\n我们以\"Hello World\"来作为执行跟踪（tracing）的示例。在这个例子中，我们使用 runtime/trace 包中的 start/stop 方法来讲跟踪的数据写入到标准错误输出中。跟踪输出将被写到标准的错误输出中--os.stderr\npackage main\n\nimport (\n   \"os\"\n   \"runtime/trace\"\n)\n\nfunc main() {\n   trace.Start(os.Stderr)\n   def…",
-          "link": "https://gocn.vip/topics/12160",
-          "publishedOn": "2021-06-05T15:47:28.000Z",
-          "wordCount": 474,
-          "title": "Go 高性能系列教程之读懂 Go 的执行跟踪器"
         }
       ]
     },
@@ -4489,6 +4489,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=39195",
+          "author": "青小蛙",
+          "description": "Setapp 是 macOS 系统下著名的软件订阅制倡导者，只需要为 Setapp 支付一笔订阅费用，就能在订阅期间使用 Setapp 包含的 210 多款软件，包括 iStat Menus、Clea",
+          "link": "https://www.appinn.com/setapp-stacksocial-summer20/",
+          "publishedOn": "2021-07-05T03:50:51.000Z",
+          "wordCount": 1192,
+          "title": "仅剩 3 小时！Setapp 一年订阅 4.6 折，比家庭版开车还便宜"
+        },
+        {
           "id": "https://www.appinn.com/?p=39192",
           "author": "青小蛙",
           "description": "Weather Spark 是一款看起来不怎么漂亮的天气预报服务，提供 145,194 个地点的天气报告。但独特的旅游得分功能，可以告诉你目的地的最佳旅游时间段，以上海为例：“根据旅游得分，拜访上海市",
@@ -4846,6 +4855,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/148989",
+          "author": null,
+          "description": "1956 年，人工智能的概念在达特茅斯会议上被首次提及。60 多年来，经过几代研发人员的努力，如今的人工智能已经成为触手可及的现实，各种以 AI 技术驱动的科研成果层出不穷，成为新一轮科技革命和产业变革的重要驱动力量，正在对世界经济发展、科技创新、社会进步等方面产生重大而深远影响。 近年来，中国的人工智能技术...",
+          "link": "https://www.oschina.net/news/148989",
+          "publishedOn": "2021-07-05T02:47:12.000Z",
+          "wordCount": 741,
+          "title": "汇聚全球 AI 技术大牛，GOTC「AI 大数据与数字经济」分论坛介绍"
+        },
         {
           "id": "https://www.oschina.net/news/148964/rust-patches-for-linux-kernel",
           "author": null,
@@ -7995,6 +8013,15 @@
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
         {
+          "id": "http://www.dayanzai.me/?p=7743",
+          "author": "大眼仔~旭",
+          "description": "Balabolka 中文绿色版由大眼仔旭（www.dayanzai.me）发布。Balabolka 绿色中文版 […]",
+          "link": "http://www.dayanzai.me/balabolka.html",
+          "publishedOn": "2021-07-04T16:37:42.000Z",
+          "wordCount": 522,
+          "title": "文本转语音工具 Balabolka 2.15.0.790 中文绿色版"
+        },
+        {
           "id": "http://www.dayanzai.me/?p=14694",
           "author": "大眼仔~旭",
           "description": "开源 Windows 动态壁纸软件 Lively Wallpaper 中文版由大眼仔旭（www.dayanza […]",
@@ -8004,6 +8031,15 @@
           "title": "开源 Windows 动态壁纸软件 Lively Wallpaper 1.7.0.2 中文多语免费版"
         },
         {
+          "id": "http://www.dayanzai.me/?p=3687",
+          "author": "大眼仔~旭",
+          "description": "CrystalDiskInfo 中文版 硬盘检测工具由大眼仔旭（www.dayanzai.me）发布。硬盘里的 […]",
+          "link": "http://www.dayanzai.me/crystaldiskinfo.html",
+          "publishedOn": "2021-07-04T16:26:44.000Z",
+          "wordCount": 534,
+          "title": "机械/固态硬盘检测工具 CrystalDiskInfo 8.12.3 + x64 中文绿色单文件版"
+        },
+        {
           "id": "http://www.dayanzai.me/?p=4832",
           "author": "大眼仔~旭",
           "description": "Android 手机屏幕镜像工具 AnLink 中文版由大眼仔旭（www.dayanzai.me）整理发布。从 […]",
@@ -8011,6 +8047,15 @@
           "publishedOn": "2021-07-04T16:22:42.000Z",
           "wordCount": 591,
           "title": "Android 手机屏幕镜像工具 AnLink 2.2.4 中文免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=2498",
+          "author": "大眼仔~旭",
+          "description": "XMedia Recode 中文版 完全免费的视频转换软件由大眼仔旭（www.dayanzai.me）发布。X […]",
+          "link": "http://www.dayanzai.me/xmedia-recode.html",
+          "publishedOn": "2021-07-04T16:21:04.000Z",
+          "wordCount": 631,
+          "title": "完全免费的视频转换软件 XMedia Recode 3.5.3.9 + x64 中文免费版"
         },
         {
           "id": "http://www.dayanzai.me/?p=338",
