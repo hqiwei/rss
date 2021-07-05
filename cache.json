@@ -731,6 +731,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12274",
+          "author": "azhang",
+          "description": "GoCN 每日新闻 (2021-07-05)\n自建的视频网站管理器，支持 b 站，YouTube  https://github.com/horahoradev/horahora\n\n\n  golang pipeline 实战 https://itnext.io/golang-pipeline-in-practise-6007dafbb85f\n\n简单 web 框架 dragon  https://github.com/azerothyang/dragon\n\n golang 实现的 spotify 客户端  https://github.com/brianstrauch/spotify-cli\n\n mock mongo-go-driver  https://medium.com/@victor.neuret/mocking-the-official-mongo-golang-driver-5aad5b226a78\n\n\n\n\n\ngo 泛型来了，go 泛型文化衫也来了   https://mp.weixin.qq.com/s/VBo1XHsE9CCYDfvns8rZvw\n编辑: 阿章 \n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12274",
+          "publishedOn": "2021-07-05T06:10:57.000Z",
+          "wordCount": 105,
+          "title": "GoCN 每日新闻 (2021-07-05)"
+        },
+        {
           "id": "https://gocn.vip/topics/12273",
           "author": "qiangmzsx",
           "description": "工作职责\n\n1. 采用Go语言(Golang)开发稳健可扩展的后端程序；\n\n2. 负责得到app服务端的基础架构优化及升级，不断提升代码质量、可扩展性和可维护性；\n\n3. 根据公司产品需要不断提高产品用户体验和更好实现业务目标；\n\n4. 根据技术部门要求完成技术研究工作，并输出研究成果和推动成果落地工作。\n\n\n任职要求\n\n1. 计算机或者数学相关专业，本科以及以上学历；\n\n2. 具有1年以上Go/java/PHP一种或以上服务端开发经验，以及熟悉相关语言下的常用技术框架；\n\n3. 对函数式编程思想有研究，且深入理解面向对象编程设计理念，对设计模式和设计原则有较好的把握，有大型项目的研发经验；\n\n4. 精通MySQL/SqlServer/Oracle一种或以上关系数据库使用；\n\n5. 熟悉Redis、Kafka、gRPC、MongoDB等常见的开源系统\n\n6. 有良好的代码习惯，要求结构清晰，命名规范；\n\n7. 良好的沟通能力、学习能力、团队协作能力；\n\n8. 良好的产品意识，能够根据业务持续输出产品优化思路。\n\n9. 有性能优化，算法优化开发经验为佳。\n\n\n资薪待遇\n25 ～ 60k * 14，以能定薪，上不封顶。\n\n工作地点\n北京市朝阳区华贸商务楼-20号（大望路地铁站F口）\nhttps://j.map.baidu.com/1f/QQuJ \n\n\n联系方式\nouerqiang@luojilab.com",
