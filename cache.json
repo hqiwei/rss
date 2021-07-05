@@ -1719,15 +1719,6 @@
           "publishedOn": "2021-06-06T13:11:16.000Z",
           "wordCount": 99,
           "title": "GoCN 每日新闻（2021-06-06）"
-        },
-        {
-          "id": "https://gocn.vip/topics/12162",
-          "author": "yudotyang",
-          "description": "原文链接 https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html#benchmarking\n执行跟踪器（execution tracer）是由 Dmity Vyukov 为 Go 1.5 版本开发的，并且几年以来一直在文档记录和使用中。\n不像采样分析检测，执行跟踪器是被集成到 Go 运行时环境的，所以，它能够知道 Go 程序在特定的时刻正在做什么。但是原理是什么呢？\n4.1 什么是执行跟踪器，我们又为什么需要它？\n我认为要解释什么是执行跟踪器，它又为什么如此重要。最简单的方式就是通过使用 pprof 的代码片段，用 go tool pprof 执行一段性能表现不佳的代码，看看有哪些方面是该工具覆盖不到的。\n我们看下这段代码，代码地址位于Francesc Compoy's mandelbrot package\ncd examples/mandelbrot\ngo build && ./mandelbrot\n\n如果我们编译并运行该程序，将产生如下的图片：\n点击查看图片\n4.1.1 这个程序运行了多长时间\n那么，这段程序生成一个 1024*1024 像素图片化了多长时间？\n我知道的最简单的方式就是使用使用 time 命令：\n% time ./mandelbrot\nreal    0m1.654s\nuser    0m1.630s\nsys     0m0.015s\n\n注意：不要使用 time go run mandebrot.go,否则你将要包含编译该程序的时间。\n4.1.2 这个程序做了什么？\n那么，这个程序花了 1.6 秒的时间生成了一张曼德勃罗图片并输出了它。\n这是比较好的吗？我们还能让它运行的再快点吗？\n回答这个问题的一个方式就是使用 Go 内建的 pprof 工具来监控分析程序。\n让我…",
-          "link": "https://gocn.vip/topics/12162",
-          "publishedOn": "2021-06-06T08:21:43.000Z",
-          "wordCount": 982,
-          "title": "Go 高性能系列教程之四：执行跟踪器"
         }
       ]
     },
