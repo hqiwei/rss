@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-05T00:28:52.096Z</updated>
+    <updated>2021-07-05T02:20:34.938Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 07 05]]></title>
+        <id>http://www.linuxeden.com/?p=87209</id>
+        <link href="http://www.linuxeden.com/a/87209"/>
+        <updated>2021-07-05T00:34:27.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 07 05]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[古老的编程语言正面临人才青黄不接]]></title>
+        <id>http://www.linuxeden.com/?p=87206</id>
+        <link href="http://www.linuxeden.com/a/87206"/>
+        <updated>2021-07-05T00:33:14.000Z</updated>
+        <summary type="html"><![CDATA[许多大型组织仍在依赖陈旧的 IT 系统和编程语言来支撑大型机的运转。但随着老一代开发者到了退休年龄，行业内正面临着人才青黄不接的尴尬局面。这些系统通常以诞生于 1959 年的 COBOL 等编程语言为基础，目前仍被许多大型组织广泛用于处理某 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为 Linux 内核添加 Rust 支持的补丁已准备就绪]]></title>
+        <id>https://www.oschina.net/news/148964/rust-patches-for-linux-kernel</id>
+        <link href="https://www.oschina.net/news/148964/rust-patches-for-linux-kernel"/>
+        <updated>2021-07-05T00:32:20.000Z</updated>
+        <summary type="html"><![CDATA[7 月 4 日，一套修订后的补丁被提交至 Linux 内核的邮件列表中，该补丁为在 Linux 内核中以 Rust 作为辅助编程语言提供了支持，借助 Rust 可以提高 Linux 内核和内存的安全。 整套补丁包含 17 个子项，不光为 Linux 内核提供了初步的 Rust 支持，还提供了一个驱动实例，总共有超过 33000 行的新代码。 Miguel Ojeda 一直...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qt 6.1.2 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87202</id>
+        <link href="http://www.linuxeden.com/a/87202"/>
+        <updated>2021-07-05T00:29:54.000Z</updated>
+        <summary type="html"><![CDATA[I am happy to announce that we have released the Qt 6.1.2 today. This is a patch release and contains bug fixes on top o […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux 5.14增加了对新声音硬件的支持 包括Alder Lake M]]></title>
         <id>http://www.linuxeden.com/?p=87197</id>
@@ -119,6 +159,36 @@ http.authorizeRequests()
         <summary type="html"><![CDATA[Darktable 是 Adobe Lightroom 的开源替代品，它是一款帮助专业摄影师的进行照片管理及后期处理的图形工具，用户可以通过该软件查看和编辑照片。 Darktable 没有 3.5.x 版本，而是直接将版本号更新至 3.6 系列。目前，Darktable 3.6.0 版本已发布，该版本的重要更新内容如下： 对导入模块进行全面重做，新的导入模块允许...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源 Windows 动态壁纸软件 Lively Wallpaper 1.7.0.2 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=14694</id>
+        <link href="http://www.dayanzai.me/lively-wallpaper.html"/>
+        <updated>2021-07-04T16:30:59.000Z</updated>
+        <summary type="html"><![CDATA[开源 Windows 动态壁纸软件 Lively Wallpaper 中文版由大眼仔旭（www.dayanza […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 手机屏幕镜像工具 AnLink 2.2.4 中文免费版]]></title>
+        <id>http://www.dayanzai.me/?p=4832</id>
+        <link href="http://www.dayanzai.me/anlink.html"/>
+        <updated>2021-07-04T16:22:42.000Z</updated>
+        <summary type="html"><![CDATA[Android 手机屏幕镜像工具 AnLink 中文版由大眼仔旭（www.dayanzai.me）整理发布。从 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源免费 Win7 优化工具 7+ Taskbar Tweaker 5.11.3.0 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=338</id>
+        <link href="http://www.dayanzai.me/7-taskbar-tweaker.html"/>
+        <updated>2021-07-04T16:09:51.000Z</updated>
+        <summary type="html"><![CDATA[开源免费 Win7 优化工具 7+ Taskbar Tweaker 中文版由大眼仔旭（www.dayanzai […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
@@ -12223,46 +12293,6 @@ func main() {
    def…]]></summary>
         <author>
             <name>yudotyang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日文章精选 2021 06 05]]></title>
-        <id>http://www.linuxeden.com/?p=86135</id>
-        <link href="http://www.linuxeden.com/a/86135"/>
-        <updated>2021-06-05T14:08:43.000Z</updated>
-        <summary type="html"><![CDATA[英特尔和 AMD 提出 x86 中断处理的不同替代，Linus 建议两个都搞 46%的开源维护者是没有任何报酬的 26%年收入超1000美元 [图]科学家打造人工神经元芯片 可实时识别生物信号 Spring Integration AWS  […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔和 AMD 提出 x86 中断处理的不同替代，Linus 建议两个都搞]]></title>
-        <id>http://www.linuxeden.com/?p=86130</id>
-        <link href="http://www.linuxeden.com/a/86130"/>
-        <updated>2021-06-05T13:27:51.000Z</updated>
-        <summary type="html"><![CDATA[从 286 时代起，x86 处理器都是使用一个拜占庭系统去管理中断、故障和异常，它组合使用了查询表、权限检查等，可能会让人困惑，但大部分情况下能正常工作。不可避免的是，中断描述符表存在一些 bug，竞争条件、死锁、无限循环和权限冲突等问题虽 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[46%的开源维护者是没有任何报酬的 26%年收入超1000美元]]></title>
-        <id>http://www.linuxeden.com/?p=86125</id>
-        <link href="http://www.linuxeden.com/a/86125"/>
-        <updated>2021-06-05T13:26:59.000Z</updated>
-        <summary type="html"><![CDATA[开源软件管理解决方案供应商 Tidelift 一项新调查发现，大多数开源维护者的报酬不足，而且大多数工作都是紧张和无偿的。尽管面临着诸多挑战，但诸多积极影响依然激励着这些维护者继续工作。 这项针对开源维护者的调查是在 2021 年年初的时候 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[图]科学家打造人工神经元芯片 可实时识别生物信号]]></title>
-        <id>http://www.linuxeden.com/?p=86116</id>
-        <link href="http://www.linuxeden.com/a/86116"/>
-        <updated>2021-06-05T13:25:25.000Z</updated>
-        <summary type="html"><![CDATA[来自苏黎世的研究团队近日开发出了一种由人工神经元制成的紧凑、节能的设备，能够对脑电波进行解码。该芯片利用从癫痫患者的脑电波中记录的数据来识别大脑中哪些区域会导致癫痫发作。这为治疗开辟了新的应用前景。 目前的神经网络算法产生令人印象深刻的结果 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>
