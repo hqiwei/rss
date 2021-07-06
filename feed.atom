@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T01:54:23.989Z</updated>
+    <updated>2021-07-06T02:22:22.216Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12376,36 +12376,6 @@ baomingsheng@huayun.com
         <summary type="html"><![CDATA[开源免费沙箱增强版 Sandboxie Plus 中文版由大眼仔旭（www.dayanzai.me）发布。Sa […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日文章精选 2021 06 06]]></title>
-        <id>http://www.linuxeden.com/?p=86170</id>
-        <link href="http://www.linuxeden.com/a/86170"/>
-        <updated>2021-06-06T14:15:03.000Z</updated>
-        <summary type="html"><![CDATA[6G白皮书正式发布：八大应用 推动人类进入虚拟化数字孪生世界 在 Linux 终端将图像转换成 ASCII 艺术 用文本描述创造 Android 应用 华为发布鸿蒙系统沟通口径通知：基础能力全部捐献给开放原子开源基金会 用这个 Python […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6G白皮书正式发布：八大应用 推动人类进入虚拟化数字孪生世界]]></title>
-        <id>http://www.linuxeden.com/?p=86167</id>
-        <link href="http://www.linuxeden.com/a/86167"/>
-        <updated>2021-06-06T14:11:29.000Z</updated>
-        <summary type="html"><![CDATA[据央视报道，IMT-2030（6G）推进组今天（6日）发布《6G总体愿景与潜在关键技术白皮书》。 《白皮书》显示，6G将在5G基础上从服务于人、人与物，进一步拓展到支撑智能体的高效互联，实现由万物互联到万物智联的跃迁，最终助力人类社会实现“ […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 Linux 终端将图像转换成 ASCII 艺术]]></title>
-        <id>http://www.linuxeden.com/?p=86161</id>
-        <link href="http://www.linuxeden.com/a/86161"/>
-        <updated>2021-06-06T13:58:06.000Z</updated>
-        <summary type="html"><![CDATA[想在 Linux 终端中做一些有趣的事情吗？把一张普通的图片转换成 ASCII 艺术怎么样？ 你知道 什么是 ASCII 么？它是一个标准，在 8 位码中的 256 个空位上分配字母、数字和其他字符。ASCII 艺术是一个由可打印的 ASC […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>
