@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T14:08:29.662Z</updated>
+    <updated>2021-07-06T15:10:14.161Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Schedule a Job in Node Using node-cron]]></title>
+        <id>60aa196411ffb70827ef5f43</id>
+        <link href="https://www.freecodecamp.org/news/schedule-a-job-in-node-with-nodecron/"/>
+        <updated>2021-07-06T14:27:26.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how to schedule a job in Node using node-cron.  Node-cron is a handy npm package which you can use to schedule jobs to run at specific times or intervals. It is most suitable for scheduling repetitive jobs such as email notifications, file downloads, and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 07 06]]></title>
+        <id>http://www.linuxeden.com/?p=87256</id>
+        <link href="http://www.linuxeden.com/a/87256"/>
+        <updated>2021-07-06T14:18:55.000Z</updated>
+        <summary type="html"><![CDATA[如何用 Rust 编写一个 Linux 内核模块 继NetBSD后 DragonFlyBSD宣布整合COVID开源工具 CentOS Stream 9 构建文件已经向贡献者开放 Linux 5.14解决了​某些数码相机exFAT文件系统的兼 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何用 Rust 编写一个 Linux 内核模块]]></title>
+        <id>http://www.linuxeden.com/?p=87254</id>
+        <link href="http://www.linuxeden.com/a/87254"/>
+        <updated>2021-07-06T14:09:41.000Z</updated>
+        <summary type="html"><![CDATA[编者按：近些年来 Rust 语言由于其内存安全性和性能等优势得到了很多关注，尤其是 Linux 内核也在准备将其集成到其中，因此，我们特邀阿里云工程师苏子彬为我们介绍一下如何在 Linux 内核中集成 Rust 支持。 2021 年 4 月 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[继NetBSD后 DragonFlyBSD宣布整合COVID开源工具]]></title>
         <id>http://www.linuxeden.com/?p=87250</id>
@@ -12331,47 +12361,6 @@ baomingsheng@huayun.com
 具体面谈]]></summary>
         <author>
             <name>dmbjwy007</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【诚意招聘 Golang 工程师】AI 肌科技（AI 测肤业务、人工智能方向）。坐标上海徐家汇地区]]></title>
-        <id>https://gocn.vip/topics/12164</id>
-        <link href="https://gocn.vip/topics/12164"/>
-        <updated>2021-06-07T02:46:02.000Z</updated>
-        <summary type="html"><![CDATA[Golang 开发工程师
-岗位职责：
-1、负责公司项目的后端 GO 接口的软件设计和开发工作；
-2、负责产品开发过程中相关研发文档的编写；
-3、配合测试人员对项目进行调试和 BUG 修复；
-4、定期自我重构优化代码，持续提升效率性能；
-5、管理项目进度，协调前端同事对接完成产品功能；
-6、负责开发部分功能的运维，确保及时修复突发问题。
-任职要求：
-1、计算机或相关专业，本科或以上学历，三年及以上的任何语言后台开发经验，两年或及以上 GO 开发经验；
-2、精通 GO 语言，在项目中高效使用过协程；
-3、熟练掌握 Linux 操作系统、熟悉常用数据结构和算法；
-4、熟悉 MySql/MongoDB/Redis 数据库的配置、脚本编写、维护、性能优化，了解事务触发器存储过程中间件等，有数据库设计和优化经验；有处理高并发及海量数据处理经验优先；
-5、熟悉 Http、Socket 、多线程、队列编程；
-6、有微信小程序、微信公众号开发经验，熟悉微信开发文档规则；
-7、有高并发服务设计和实现经验者优先；
-8、具有良好规范的代码及技术文档编写习惯；
-9、有很强的分析问题和解决问题的能力；
-10、有良好的团队合作能力，善于沟通，工作自主驱动，具备良好的业务理解能力。
-优点：
-加班少，薪资高，美女多，AI 方向，已沉淀大量数据
-联系方式：tony.wang@aiskin.cn 微信：wt334542263]]></summary>
-        <author>
-            <name>tong.wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 推出的 Dart 编程语言：简介]]></title>
-        <id>http://www.dayanzai.me/?p=52414</id>
-        <link href="http://www.dayanzai.me/dart-programming-language.html"/>
-        <updated>2021-06-07T02:15:49.000Z</updated>
-        <summary type="html"><![CDATA[感觉编程语言的数量几乎和沙滩上的沙粒一样多。在众多的选择中，编程语言 Dart 是新来的。在比较互联网编程语言 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
         </author>
     </entry>
 </feed>
