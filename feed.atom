@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T13:15:18.130Z</updated>
+    <updated>2021-07-06T14:08:29.662Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[继NetBSD后 DragonFlyBSD宣布整合COVID开源工具]]></title>
+        <id>http://www.linuxeden.com/?p=87250</id>
+        <link href="http://www.linuxeden.com/a/87250"/>
+        <updated>2021-07-06T13:57:19.000Z</updated>
+        <summary type="html"><![CDATA[DragonFlyBSD 的主要开发者 Matthew Dillon 本周宣布，将从 NetBSD 中移植 COVID 开源工具。在本周末的提交之后，这个 COVID 工具的后续补丁现在生活在 DragonFlyBSD 世界中。COVID  […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CentOS Stream 9 构建文件已经向贡献者开放]]></title>
+        <id>http://www.linuxeden.com/?p=87246</id>
+        <link href="http://www.linuxeden.com/a/87246"/>
+        <updated>2021-07-06T13:54:56.000Z</updated>
+        <summary type="html"><![CDATA[更多CentOS Stream 9的构建文件已经发布，而更多的操作系统镜像还在准备中。这标志着CentOS Stream 9作为RHEL未来的上游已经开始对外提供。作为最新的CentOS社区通讯的一部分，本次发行工作涵盖了过去一个月的改进， […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apache APISIX 主库贡献者突破 200 位！]]></title>
         <id>https://www.oschina.net/news/149274</id>
@@ -12352,16 +12372,6 @@ baomingsheng@huayun.com
         <summary type="html"><![CDATA[感觉编程语言的数量几乎和沙滩上的沙粒一样多。在众多的选择中，编程语言 Dart 是新来的。在比较互联网编程语言 […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome OS 成全球第二大桌面系统，国内市场能否复制成功？]]></title>
-        <id>https://www.oschina.net/news/144888/gotc-2021-fyde-os</id>
-        <link href="https://www.oschina.net/news/144888/gotc-2021-fyde-os"/>
-        <updated>2021-06-07T01:32:23.000Z</updated>
-        <summary type="html"><![CDATA[提到桌面操作系统，Windows 与 macOS 自然是家喻户晓，Linux 在开发者群体中的地位也无需赘言。而在刚刚过去的 2020 年，业界有一匹“名不见经传”的黑马挤下 macOS 成为全球第二大桌面操作系统，令不少人感到惊讶不已。 市场分析公司 IDC 提供的数据显示，Chromebook 在 2020 年的市场份额获得大幅增长，首次突破 10%，...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
