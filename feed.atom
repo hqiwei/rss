@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T21:08:48.458Z</updated>
+    <updated>2021-07-06T22:08:57.681Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12217,63 +12217,6 @@ GopherChina 倒计时 19 天 Gopher China 大会志愿者招募启动 https://mp
         <link href="https://www.oschina.net/news/145023/powerleader-openeuler-ecosystem"/>
         <updated>2021-06-07T10:57:37.000Z</updated>
         <summary type="html"><![CDATA[日前，宝德计算机加入 openEuler 社区，旗下宝德自强系列服务器 PR210K 和 PR212K 完成与 openEuler 的兼容性认证，测试结果表明：宝德自强 PR210K 和 PR212K 与 openEuler 操作系统完全兼容，整体运行稳定，性能良好。 一直以来宝德都坚持开放、共赢的企业发展原则，加强与业界伙伴的紧密合作，开展一系列互认证及适配工...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WasmEdge (原 SSVM) 成为 CNCF Sandbox 项目]]></title>
-        <id>https://www.oschina.net/news/145016</id>
-        <link href="https://www.oschina.net/news/145016"/>
-        <updated>2021-06-07T09:58:16.000Z</updated>
-        <summary type="html"><![CDATA[WasmEdge runtime (曾名 SSVM)是一个轻量级高性能 WebAssembly (WASM) 虚拟机，为边缘进行了优化。WasmEdge 可以应用于 severless 云函数、SaaS、区块链智能合约、物联网、汽车实时软件应用等多种场景。 (此处本应有 WasmEdge logo，但是 logo 还在设计，敬请期待 ) WasmEdge 最近被 CNCF 基金会接受为沙箱项目。这是全球...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoCN 每日新闻（2021-06-07）]]></title>
-        <id>https://gocn.vip/topics/12167</id>
-        <link href="https://gocn.vip/topics/12167"/>
-        <updated>2021-06-07T09:39:25.000Z</updated>
-        <summary type="html"><![CDATA[GoCN 每日新闻（2021-06-07）
-Code Review 引发的 Golang Memory Model 深入思考 https://juejin.cn/post/6970513766509182984
-
-Go 高性能系列教程之一：基准测试 https://gocn.vip/topics/12126
-
-监控是手段，而不是目的  https://www.robustperception.io/monitoring-is-a-means-not-an-end
-
-Calico 路由反射模式权威指南 https://mp.weixin.qq.com/s/hLiI9fsPQ7w4PS2ALff09g
-
-从栈上理解 Go 语言函数调用 https://www.cnblogs.com/luozhiyun/p/14844710.html
-
-
-
-
-编辑: yuliz
-订阅新闻: http://tinyletter.com/gocn
-
-招聘专区: https://gocn.vip/jobs]]></summary>
-        <author>
-            <name>yulibaozi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Doris 社区喜迎两位 PPMC 成员]]></title>
-        <id>https://www.oschina.net/news/145010</id>
-        <link href="https://www.oschina.net/news/145010"/>
-        <updated>2021-06-07T09:26:44.000Z</updated>
-        <summary type="html"><![CDATA[关于 Apache Doris(Incubating) Apache Doris 是一款基于MPP的分析型数据库系统。 其简洁的架构，能够帮助用户在不依赖任何第三方系统的情况下，快速搭建一个高性能、高可靠、高可用、易扩展的分布式数据库。 Doris全面兼容标准的SQL语法，支持MySQL协议，拥有完备的分布式管理框架和MPP查询框架，并且提供列式存储、向量...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微众银行区块链开源项目 - 5月进展合集]]></title>
-        <id>https://www.oschina.net/news/145007/webank-blockchain-opensource-may</id>
-        <link href="https://www.oschina.net/news/145007/webank-blockchain-opensource-may"/>
-        <updated>2021-06-07T09:14:42.000Z</updated>
-        <summary type="html"><![CDATA[FISCO-BCOS 适用于金融行业的区块链底层平台 https://github.com/FISCO-BCOS https://gitee.com/FISCO-BCOS 1. FISCO BCOS：v2.8.0 新增需求：适配教育部密码机开发中，预计7月初发布。v3.0.0 开发中，完成存储和前置模块的Tars包装及测试，完成区块同步、账本模块的开发，执行模块、SDK 开发中，预计7月底完成开发。 2....]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>

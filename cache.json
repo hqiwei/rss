@@ -1719,15 +1719,6 @@
           "publishedOn": "2021-06-07T12:42:48.000Z",
           "wordCount": 287,
           "title": "云原生推动全云开发与实践"
-        },
-        {
-          "id": "https://gocn.vip/topics/12167",
-          "author": "yulibaozi",
-          "description": "GoCN 每日新闻（2021-06-07）\nCode Review 引发的 Golang Memory Model 深入思考 https://juejin.cn/post/6970513766509182984\n\nGo 高性能系列教程之一：基准测试 https://gocn.vip/topics/12126\n\n监控是手段，而不是目的  https://www.robustperception.io/monitoring-is-a-means-not-an-end\n\nCalico 路由反射模式权威指南 https://mp.weixin.qq.com/s/hLiI9fsPQ7w4PS2ALff09g\n\n从栈上理解 Go 语言函数调用 https://www.cnblogs.com/luozhiyun/p/14844710.html\n\n\n\n\n编辑: yuliz\n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
-          "link": "https://gocn.vip/topics/12167",
-          "publishedOn": "2021-06-07T09:39:25.000Z",
-          "wordCount": 99,
-          "title": "GoCN 每日新闻（2021-06-07）"
         }
       ]
     },
@@ -7968,33 +7959,6 @@
           "publishedOn": "2021-06-07T10:57:37.000Z",
           "wordCount": 520,
           "title": "生态满足度+1 | 宝德积极拥抱 openEuler 生态，完成兼容性认证，共促行业发展"
-        },
-        {
-          "id": "https://www.oschina.net/news/145016",
-          "author": null,
-          "description": "WasmEdge runtime (曾名 SSVM)是一个轻量级高性能 WebAssembly (WASM) 虚拟机，为边缘进行了优化。WasmEdge 可以应用于 severless 云函数、SaaS、区块链智能合约、物联网、汽车实时软件应用等多种场景。 (此处本应有 WasmEdge logo，但是 logo 还在设计，敬请期待 ) WasmEdge 最近被 CNCF 基金会接受为沙箱项目。这是全球...",
-          "link": "https://www.oschina.net/news/145016",
-          "publishedOn": "2021-06-07T09:58:16.000Z",
-          "wordCount": 715,
-          "title": "WasmEdge (原 SSVM) 成为 CNCF Sandbox 项目"
-        },
-        {
-          "id": "https://www.oschina.net/news/145010",
-          "author": null,
-          "description": "关于 Apache Doris(Incubating) Apache Doris 是一款基于MPP的分析型数据库系统。 其简洁的架构，能够帮助用户在不依赖任何第三方系统的情况下，快速搭建一个高性能、高可靠、高可用、易扩展的分布式数据库。 Doris全面兼容标准的SQL语法，支持MySQL协议，拥有完备的分布式管理框架和MPP查询框架，并且提供列式存储、向量...",
-          "link": "https://www.oschina.net/news/145010",
-          "publishedOn": "2021-06-07T09:26:44.000Z",
-          "wordCount": 498,
-          "title": "Apache Doris 社区喜迎两位 PPMC 成员"
-        },
-        {
-          "id": "https://www.oschina.net/news/145007/webank-blockchain-opensource-may",
-          "author": null,
-          "description": "FISCO-BCOS 适用于金融行业的区块链底层平台 https://github.com/FISCO-BCOS https://gitee.com/FISCO-BCOS 1. FISCO BCOS：v2.8.0 新增需求：适配教育部密码机开发中，预计7月初发布。v3.0.0 开发中，完成存储和前置模块的Tars包装及测试，完成区块同步、账本模块的开发，执行模块、SDK 开发中，预计7月底完成开发。 2....",
-          "link": "https://www.oschina.net/news/145007/webank-blockchain-opensource-may",
-          "publishedOn": "2021-06-07T09:14:42.000Z",
-          "wordCount": 586,
-          "title": "微众银行区块链开源项目 - 5月进展合集"
         }
       ]
     },
