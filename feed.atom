@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T12:14:05.725Z</updated>
+    <updated>2021-07-06T13:15:18.130Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12362,66 +12362,6 @@ baomingsheng@huayun.com
         <summary type="html"><![CDATA[提到桌面操作系统，Windows 与 macOS 自然是家喻户晓，Linux 在开发者群体中的地位也无需赘言。而在刚刚过去的 2020 年，业界有一匹“名不见经传”的黑马挤下 macOS 成为全球第二大桌面操作系统，令不少人感到惊讶不已。 市场分析公司 IDC 提供的数据显示，Chromebook 在 2020 年的市场份额获得大幅增长，首次突破 10%，...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub 推出新政策，允许托管以安全研究为目的的恶意软件]]></title>
-        <id>https://www.oschina.net/news/144880/githubs-new-policies</id>
-        <link href="https://www.oschina.net/news/144880/githubs-new-policies"/>
-        <updated>2021-06-07T00:33:24.000Z</updated>
-        <summary type="html"><![CDATA[GitHub 近日推出了他们更新后的社区准则，解释了该公司将如何处理托管在其服务上的漏洞和恶意软件样本。 安全研究员 Nguyen Jang 在 3 月向 GitHub 上传了一个概念验证漏洞（PoC），该漏洞是微软 Exchange ProxyLogon 漏洞。在上传该漏洞后不久，Jang 就收到了一封来自 GitHub 的电子邮件，称 PoC 漏洞因违反可接受的使用...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook 开源 Flores-101 数据集以实现更准确的 AI 翻译]]></title>
-        <id>https://www.oschina.net/news/144879/facebook-open-sources-flores-101-dataset</id>
-        <link href="https://www.oschina.net/news/144879/facebook-open-sources-flores-101-dataset"/>
-        <updated>2021-06-07T00:33:05.000Z</updated>
-        <summary type="html"><![CDATA[Facebook 宣布开源了一个名为 Flores-101 的数据集。该公司表示，这是一个首创的多对多评估数据集，涵盖世界各地的101种语言；这个工具使研究人员能够快速测试和改进像 M2M-100 这样的多语言翻译模型。 我们公开 FLORES-101，是因为我们相信可以打破语言障碍，这意味着要帮助研究人员创造更多不同的（和当地相关的）翻译...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安全机构调查显示，2021 年 Android 银行类恶意软件数量增长 159%]]></title>
-        <id>https://www.oschina.net/news/144878/eset-threat-android</id>
-        <link href="https://www.oschina.net/news/144878/eset-threat-android"/>
-        <updated>2021-06-07T00:26:59.000Z</updated>
-        <summary type="html"><![CDATA[当企业在持续的勒索软件攻击下步履维艰时，Android 用户也正日益成为银行恶意软件的目标，安全机构 ESET 调查显示，在过去几个月中此类恶意软件数量增长了 159%。 ESET 表示，尽管针对 Android 操作系统的银行恶意软件在数量上急剧上升，但由于 Google 不断提升 Android 操作系统的安全性以及加大 Play Store 筛查力度，...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源美图 2021 06 07]]></title>
-        <id>http://www.linuxeden.com/?p=86196</id>
-        <link href="http://www.linuxeden.com/a/86196"/>
-        <updated>2021-06-07T00:23:07.000Z</updated>
-        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 06 07]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用开源工具识别 Linux 的性能瓶颈]]></title>
-        <id>http://www.linuxeden.com/?p=86183</id>
-        <link href="http://www.linuxeden.com/a/86183"/>
-        <updated>2021-06-07T00:21:59.000Z</updated>
-        <summary type="html"><![CDATA[不久前，识别硬件瓶颈还需要深厚的专业知识。今天的开源 GUI 性能监视器使它变得相当简单。 计算机是一个集成的系统，它的性能取决于最慢的硬件组件。如果一个组件的能力比其他组件差，性能落后而不能跟上，它就会拖累你的整个系统。这就是一个 性能瓶 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[麒麟软件商店 v4.0 功能详解]]></title>
-        <id>http://www.linuxeden.com/?p=86180</id>
-        <link href="http://www.linuxeden.com/a/86180"/>
-        <updated>2021-06-07T00:20:34.000Z</updated>
-        <summary type="html"><![CDATA[麒麟软件商店：是一个图形化的软件管理工具，为用户提供软件下载、安装、卸载、更新等一站式软件服务，并推荐常用软件和优质精选软件。用户不仅可以通过快速搜索定位到自己需要的软件，还可以根据具体需求在商店的分类索引中找到相关软件。软件商店列表上的每 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>

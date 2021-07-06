@@ -4444,33 +4444,6 @@
           "publishedOn": "2021-06-07T13:23:20.000Z",
           "wordCount": 87,
           "title": "ARM CEO谈NVIDIA收购：芯片授权任何人都可以用"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86196",
-          "author": "Editor, Kai",
-          "description": "Linuxeden开源社区-开源美图 2021 06 07",
-          "link": "http://www.linuxeden.com/a/86196",
-          "publishedOn": "2021-06-07T00:23:07.000Z",
-          "wordCount": 79,
-          "title": "开源美图 2021 06 07"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86183",
-          "author": "Editor, Kai",
-          "description": "不久前，识别硬件瓶颈还需要深厚的专业知识。今天的开源 GUI 性能监视器使它变得相当简单。 计算机是一个集成的系统，它的性能取决于最慢的硬件组件。如果一个组件的能力比其他组件差，性能落后而不能跟上，它就会拖累你的整个系统。这就是一个 性能瓶 […]",
-          "link": "http://www.linuxeden.com/a/86183",
-          "publishedOn": "2021-06-07T00:21:59.000Z",
-          "wordCount": 473,
-          "title": "使用开源工具识别 Linux 的性能瓶颈"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86180",
-          "author": "Editor, Kai",
-          "description": "麒麟软件商店：是一个图形化的软件管理工具，为用户提供软件下载、安装、卸载、更新等一站式软件服务，并推荐常用软件和优质精选软件。用户不仅可以通过快速搜索定位到自己需要的软件，还可以根据具体需求在商店的分类索引中找到相关软件。软件商店列表上的每 […]",
-          "link": "http://www.linuxeden.com/a/86180",
-          "publishedOn": "2021-06-07T00:20:34.000Z",
-          "wordCount": 123,
-          "title": "麒麟软件商店 v4.0 功能详解"
         }
       ]
     },
@@ -8022,33 +7995,6 @@
           "publishedOn": "2021-06-07T01:32:23.000Z",
           "wordCount": 624,
           "title": "Chrome OS 成全球第二大桌面系统，国内市场能否复制成功？"
-        },
-        {
-          "id": "https://www.oschina.net/news/144880/githubs-new-policies",
-          "author": null,
-          "description": "GitHub 近日推出了他们更新后的社区准则，解释了该公司将如何处理托管在其服务上的漏洞和恶意软件样本。 安全研究员 Nguyen Jang 在 3 月向 GitHub 上传了一个概念验证漏洞（PoC），该漏洞是微软 Exchange ProxyLogon 漏洞。在上传该漏洞后不久，Jang 就收到了一封来自 GitHub 的电子邮件，称 PoC 漏洞因违反可接受的使用...",
-          "link": "https://www.oschina.net/news/144880/githubs-new-policies",
-          "publishedOn": "2021-06-07T00:33:24.000Z",
-          "wordCount": 504,
-          "title": "GitHub 推出新政策，允许托管以安全研究为目的的恶意软件"
-        },
-        {
-          "id": "https://www.oschina.net/news/144879/facebook-open-sources-flores-101-dataset",
-          "author": null,
-          "description": "Facebook 宣布开源了一个名为 Flores-101 的数据集。该公司表示，这是一个首创的多对多评估数据集，涵盖世界各地的101种语言；这个工具使研究人员能够快速测试和改进像 M2M-100 这样的多语言翻译模型。 我们公开 FLORES-101，是因为我们相信可以打破语言障碍，这意味着要帮助研究人员创造更多不同的（和当地相关的）翻译...",
-          "link": "https://www.oschina.net/news/144879/facebook-open-sources-flores-101-dataset",
-          "publishedOn": "2021-06-07T00:33:05.000Z",
-          "wordCount": 488,
-          "title": "Facebook 开源 Flores-101 数据集以实现更准确的 AI 翻译"
-        },
-        {
-          "id": "https://www.oschina.net/news/144878/eset-threat-android",
-          "author": null,
-          "description": "当企业在持续的勒索软件攻击下步履维艰时，Android 用户也正日益成为银行恶意软件的目标，安全机构 ESET 调查显示，在过去几个月中此类恶意软件数量增长了 159%。 ESET 表示，尽管针对 Android 操作系统的银行恶意软件在数量上急剧上升，但由于 Google 不断提升 Android 操作系统的安全性以及加大 Play Store 筛查力度，...",
-          "link": "https://www.oschina.net/news/144878/eset-threat-android",
-          "publishedOn": "2021-06-07T00:26:59.000Z",
-          "wordCount": 505,
-          "title": "安全机构调查显示，2021 年 Android 银行类恶意软件数量增长 159%"
         }
       ]
     },
