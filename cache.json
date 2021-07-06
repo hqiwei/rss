@@ -4883,6 +4883,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/149274",
+          "author": null,
+          "description": "Apache APISIX 社区达成新的里程碑，主库全球贡献者突破 200 位！ 在进入 Apache 孵化器之前，Apache APISIX 仅有 20 多个贡献者，而今天 Apache APISIX 主库贡献者突破 200 位，200 位贡献者共提交了 2386 个 PR ，是全球最活跃的开源网关项目。 2019 年 8 月，Apache APISIX 发布了第一个版本 0.6.0。在 2020 年 1 月 ...",
+          "link": "https://www.oschina.net/news/149274",
+          "publishedOn": "2021-07-06T10:27:07.000Z",
+          "wordCount": 786,
+          "title": "Apache APISIX 主库贡献者突破 200 位！"
+        },
+        {
           "id": "https://www.oschina.net/news/149249",
           "author": null,
           "description": "报告编号：B6-2021-070501 报告来源：360CERT 报告作者：360CERT 更新日期：2021-07-05 事件导览 本周收录安全热点12项，话题集中在网络攻击、数据安全方面，涉及的组织有：微软、爱尔兰卫生局、LinkedIn、WordPress等。多个卫生机构遭遇数据泄露。对此，360CERT建议使用360安全卫士进行病毒检测、使用360安全分析响应平...",

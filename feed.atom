@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T10:10:08.547Z</updated>
+    <updated>2021-07-06T11:07:48.397Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apache APISIX 主库贡献者突破 200 位！]]></title>
+        <id>https://www.oschina.net/news/149274</id>
+        <link href="https://www.oschina.net/news/149274"/>
+        <updated>2021-07-06T10:27:07.000Z</updated>
+        <summary type="html"><![CDATA[Apache APISIX 社区达成新的里程碑，主库全球贡献者突破 200 位！ 在进入 Apache 孵化器之前，Apache APISIX 仅有 20 多个贡献者，而今天 Apache APISIX 主库贡献者突破 200 位，200 位贡献者共提交了 2386 个 PR ，是全球最活跃的开源网关项目。 2019 年 8 月，Apache APISIX 发布了第一个版本 0.6.0。在 2020 年 1 月 ...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoCN 每日新闻 (2021-07-06)]]></title>
         <id>https://gocn.vip/topics/12276</id>
