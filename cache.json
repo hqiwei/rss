@@ -4498,6 +4498,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=39205",
+          "author": "青小蛙",
+          "description": "Blendoku 2 (彩独) 是一个关于颜色的游戏，支持 iPad、iPhone 和 Android，它通过几种不同方式的游戏，考验你的色彩辨识力，锻炼色感，真正的色感。核心玩法只有一个：根据颜色深",
+          "link": "https://www.appinn.com/blendoku-2-game/",
+          "publishedOn": "2021-07-06T05:39:04.000Z",
+          "wordCount": 1232,
+          "title": "Blendoku 2 (彩独) – 色彩大师？来挑战色彩辨识力吧[iOS/Android]"
+        },
+        {
           "id": "https://www.appinn.com/?p=39200",
           "author": "青小蛙",
           "description": "UZIP 是一款基于 7zip 的自动解压缩小工具，它支持密码本功能，可以批量自动解压缩不同密码的加密文件，还支持测试解压密码、记录压缩日志、过滤解压文件等功能。@Appinn 感谢微博的 @此情可待",
@@ -4864,6 +4873,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/149221",
+          "author": null,
+          "description": "作者：Linux 基金会高级副总裁兼培训与认证总经理 Clyde Seepersad 和世界银行开放式学习校园负责人 Sheila Jagannathan 在很多方面，今天的世界感觉比以往任何时候都要小。COVID-19 全球大流行等悲惨事件提醒我们，我们彼此是多么紧密相连。在这个网络化的世界中，也蕴藏着新方法和新伙伴关系的机遇，以应对共同挑战，增...",
+          "link": "https://www.oschina.net/news/149221",
+          "publishedOn": "2021-07-06T05:46:21.000Z",
+          "wordCount": 540,
+          "title": "Linux 基金会与世界银行合作开发开源 5G 课程"
+        },
         {
           "id": "https://www.oschina.net/news/149139/tiobe-index-july-2021",
           "author": null,

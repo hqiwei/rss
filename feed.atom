@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T05:08:14.619Z</updated>
+    <updated>2021-07-06T06:11:47.259Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 基金会与世界银行合作开发开源 5G 课程]]></title>
+        <id>https://www.oschina.net/news/149221</id>
+        <link href="https://www.oschina.net/news/149221"/>
+        <updated>2021-07-06T05:46:21.000Z</updated>
+        <summary type="html"><![CDATA[作者：Linux 基金会高级副总裁兼培训与认证总经理 Clyde Seepersad 和世界银行开放式学习校园负责人 Sheila Jagannathan 在很多方面，今天的世界感觉比以往任何时候都要小。COVID-19 全球大流行等悲惨事件提醒我们，我们彼此是多么紧密相连。在这个网络化的世界中，也蕴藏着新方法和新伙伴关系的机遇，以应对共同挑战，增...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blendoku 2 (彩独) – 色彩大师？来挑战色彩辨识力吧[iOS/Android]]]></title>
+        <id>https://www.appinn.com/?p=39205</id>
+        <link href="https://www.appinn.com/blendoku-2-game/"/>
+        <updated>2021-07-06T05:39:04.000Z</updated>
+        <summary type="html"><![CDATA[Blendoku 2 (彩独) 是一个关于颜色的游戏，支持 iPad、iPhone 和 Android，它通过几种不同方式的游戏，考验你的色彩辨识力，锻炼色感，真正的色感。核心玩法只有一个：根据颜色深]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[APK vs AAB 谷歌将从 8 月份开始用 AAB 格式取代 APK]]></title>
         <id>http://www.dayanzai.me/?p=53037</id>
