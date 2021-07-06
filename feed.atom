@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T22:08:57.681Z</updated>
+    <updated>2021-07-06T23:09:27.122Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stockfish 14 正式发布，开源国际象棋引擎]]></title>
+        <id>https://www.oschina.net/news/149331/stockfish-14-released</id>
+        <link href="https://www.oschina.net/news/149331/stockfish-14-released"/>
+        <updated>2021-07-06T22:56:32.000Z</updated>
+        <summary type="html"><![CDATA[Stockfish 14 已正式发布。Stockfish 是一款开源的国际象棋引擎，但它不是完整的国际象棋程序，需要 UCI 兼容的图形用户界面（例如带有 PolyGlot，Scid，Cute Chess，eboard，Arena，Sigma Chess，Shredder，Chess Partner或 Fritz 的 XBoard）才能正常地使用。 去年 9 月发布的 Stockfish 12 开始支持 NNUE，此特性带来...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox Lite 已死，Mozilla 停止开发和支持]]></title>
+        <id>https://www.oschina.net/news/149330/firefox-lite-browser-ended</id>
+        <link href="https://www.oschina.net/news/149330/firefox-lite-browser-ended"/>
+        <updated>2021-07-06T22:49:09.000Z</updated>
+        <summary type="html"><![CDATA[Firefox Lite 是一个专为 Android 移动平台开发的 Firefox 浏览器，2021 年 6 月 30 日之后将不再收到任何更新。 Mozilla 的 Firefox Lite 是一个针对 Android 操作系统开发的浏览器，Firefox Lite 于 2017 年发布。 Firefox Lite 采用的是 Chromium 引擎，而非 Mozilla 自己的渲染引擎。这是 Firefox Lite 与其他版本的...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学生的第一门编程语言应该是什么？]]></title>
+        <id>https://www.oschina.net/news/149329/students-first-programming-language</id>
+        <link href="https://www.oschina.net/news/149329/students-first-programming-language"/>
+        <updated>2021-07-06T22:47:15.000Z</updated>
+        <summary type="html"><![CDATA[“学生第一次开始学习计算机科学（computer science，CS）时，应该从哪种编程语言开始学习？”这一问题一直让教育工作者备受困扰。来自密歇根大学的计算机科学教授 Mark Guzdial 也对此进行了大量思考与研究，然而其近期发表在《ACM 通讯》上的一篇文章则指出，他的两个来自不同学校的 CS 同事都认为，学生的第一门课程学...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 疯了吧！这帮人居然用 Go 写“前端”？]]></title>
+        <id>https://my.oschina.net/erdateam/blog/5121283</id>
+        <link href="https://my.oschina.net/erdateam/blog/5121283"/>
+        <updated>2021-07-06T22:22:58.000Z</updated>
+        <summary type="html"><![CDATA[无一例外，谈到前后端分离“必定”是 RESTful API，算是定式了。但我们知道 REST 在资源划分上的设计总是与 UI 大相径庭，大量专用、特异、古怪的接口就像永远拾不尽的菌菇，你费力铲除它们，但一场雷雨便又枯树复披。另一方面接口越来越通用，最后却只剩下 CRUD，美其名曰后端只考虑稳定和性能，大量业务逻辑却全权“丢...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Automatically Upload an Android App Bundle to the Play Store]]></title>
         <id>60e16e1b134ad707be00d6bc</id>
@@ -12209,16 +12249,6 @@ GopherChina 倒计时 19 天 Gopher China 大会志愿者招募启动 https://mp
         <summary type="html"><![CDATA[ReadMark 是由轻芒杂志团队发布的一款针对非中文用户，带有马克「Mark」功能的 RSS 阅读器，作为一款出海产品，目前的 ReadMark 还在 alpha 内测阶段，今天应该有不少同学拿到了]]></summary>
         <author>
             <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生态满足度+1 | 宝德积极拥抱 openEuler 生态，完成兼容性认证，共促行业发展]]></title>
-        <id>https://www.oschina.net/news/145023/powerleader-openeuler-ecosystem</id>
-        <link href="https://www.oschina.net/news/145023/powerleader-openeuler-ecosystem"/>
-        <updated>2021-06-07T10:57:37.000Z</updated>
-        <summary type="html"><![CDATA[日前，宝德计算机加入 openEuler 社区，旗下宝德自强系列服务器 PR210K 和 PR212K 完成与 openEuler 的兼容性认证，测试结果表明：宝德自强 PR210K 和 PR212K 与 openEuler 操作系统完全兼容，整体运行稳定，性能良好。 一直以来宝德都坚持开放、共赢的企业发展原则，加强与业界伙伴的紧密合作，开展一系列互认证及适配工...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>

@@ -4856,6 +4856,42 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/149331/stockfish-14-released",
+          "author": null,
+          "description": "Stockfish 14 已正式发布。Stockfish 是一款开源的国际象棋引擎，但它不是完整的国际象棋程序，需要 UCI 兼容的图形用户界面（例如带有 PolyGlot，Scid，Cute Chess，eboard，Arena，Sigma Chess，Shredder，Chess Partner或 Fritz 的 XBoard）才能正常地使用。 去年 9 月发布的 Stockfish 12 开始支持 NNUE，此特性带来...",
+          "link": "https://www.oschina.net/news/149331/stockfish-14-released",
+          "publishedOn": "2021-07-06T22:56:32.000Z",
+          "wordCount": 537,
+          "title": "Stockfish 14 正式发布，开源国际象棋引擎"
+        },
+        {
+          "id": "https://www.oschina.net/news/149330/firefox-lite-browser-ended",
+          "author": null,
+          "description": "Firefox Lite 是一个专为 Android 移动平台开发的 Firefox 浏览器，2021 年 6 月 30 日之后将不再收到任何更新。 Mozilla 的 Firefox Lite 是一个针对 Android 操作系统开发的浏览器，Firefox Lite 于 2017 年发布。 Firefox Lite 采用的是 Chromium 引擎，而非 Mozilla 自己的渲染引擎。这是 Firefox Lite 与其他版本的...",
+          "link": "https://www.oschina.net/news/149330/firefox-lite-browser-ended",
+          "publishedOn": "2021-07-06T22:49:09.000Z",
+          "wordCount": 553,
+          "title": "Firefox Lite 已死，Mozilla 停止开发和支持"
+        },
+        {
+          "id": "https://www.oschina.net/news/149329/students-first-programming-language",
+          "author": null,
+          "description": "“学生第一次开始学习计算机科学（computer science，CS）时，应该从哪种编程语言开始学习？”这一问题一直让教育工作者备受困扰。来自密歇根大学的计算机科学教授 Mark Guzdial 也对此进行了大量思考与研究，然而其近期发表在《ACM 通讯》上的一篇文章则指出，他的两个来自不同学校的 CS 同事都认为，学生的第一门课程学...",
+          "link": "https://www.oschina.net/news/149329/students-first-programming-language",
+          "publishedOn": "2021-07-06T22:47:15.000Z",
+          "wordCount": 593,
+          "title": "学生的第一门编程语言应该是什么？"
+        },
+        {
+          "id": "https://my.oschina.net/erdateam/blog/5121283",
+          "author": null,
+          "description": "无一例外，谈到前后端分离“必定”是 RESTful API，算是定式了。但我们知道 REST 在资源划分上的设计总是与 UI 大相径庭，大量专用、特异、古怪的接口就像永远拾不尽的菌菇，你费力铲除它们，但一场雷雨便又枯树复披。另一方面接口越来越通用，最后却只剩下 CRUD，美其名曰后端只考虑稳定和性能，大量业务逻辑却全权“丢...",
+          "link": "https://my.oschina.net/erdateam/blog/5121283",
+          "publishedOn": "2021-07-06T22:22:58.000Z",
+          "wordCount": 412,
+          "title": "每日一博 | 疯了吧！这帮人居然用 Go 写“前端”？"
+        },
+        {
           "id": "https://www.oschina.net/news/149274",
           "author": null,
           "description": "Apache APISIX 社区达成新的里程碑，主库全球贡献者突破 200 位！ 在进入 Apache 孵化器之前，Apache APISIX 仅有 20 多个贡献者，而今天 Apache APISIX 主库贡献者突破 200 位，200 位贡献者共提交了 2386 个 PR ，是全球最活跃的开源网关项目。 2019 年 8 月，Apache APISIX 发布了第一个版本 0.6.0。在 2020 年 1 月 ...",
@@ -7950,15 +7986,6 @@
           "publishedOn": "2021-06-07T11:52:18.000Z",
           "wordCount": 681,
           "title": "EMQ 边缘计算领域又一里程碑！Kuiper 正式加入 LF Edge 基金会"
-        },
-        {
-          "id": "https://www.oschina.net/news/145023/powerleader-openeuler-ecosystem",
-          "author": null,
-          "description": "日前，宝德计算机加入 openEuler 社区，旗下宝德自强系列服务器 PR210K 和 PR212K 完成与 openEuler 的兼容性认证，测试结果表明：宝德自强 PR210K 和 PR212K 与 openEuler 操作系统完全兼容，整体运行稳定，性能良好。 一直以来宝德都坚持开放、共赢的企业发展原则，加强与业界伙伴的紧密合作，开展一系列互认证及适配工...",
-          "link": "https://www.oschina.net/news/145023/powerleader-openeuler-ecosystem",
-          "publishedOn": "2021-06-07T10:57:37.000Z",
-          "wordCount": 520,
-          "title": "生态满足度+1 | 宝德积极拥抱 openEuler 生态，完成兼容性认证，共促行业发展"
         }
       ]
     },
