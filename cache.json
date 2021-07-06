@@ -1710,15 +1710,6 @@
           "publishedOn": "2021-06-07T02:46:02.000Z",
           "wordCount": 116,
           "title": "【诚意招聘 Golang 工程师】AI 肌科技（AI 测肤业务、人工智能方向）。坐标上海徐家汇地区"
-        },
-        {
-          "id": "https://gocn.vip/topics/12163",
-          "author": "fuxiaohei",
-          "description": "GoCN 每日新闻（2021-06-06）\n详解 Go 团队不建议用的 unsafe.Pointer https://mp.weixin.qq.com/s/8qtHdw2JiRQ1cXlzbJ0ANA\n\n新 Goland 插件支持 TinyGo https://blog.jetbrains.com/go/2021/06/02/tinygo-for-tiny-applications-discover-a-new-plugin-for-goland/\n\n使用 go-i18n 实现国际化 https://lokalise.com/blog/go-internationalization-using-go-i18n/\n\nawesome-go-orms https://github.com/d-tsuji/awesome-go-orms\n\nGo 实现终端 slide 展示工具 https://github.com/maaslalani/slides\n\n\n\n\n编辑: 傅小黑\n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
-          "link": "https://gocn.vip/topics/12163",
-          "publishedOn": "2021-06-06T13:11:16.000Z",
-          "wordCount": 99,
-          "title": "GoCN 每日新闻（2021-06-06）"
         }
       ]
     },
@@ -4525,15 +4516,6 @@
           "publishedOn": "2021-06-06T13:58:06.000Z",
           "wordCount": 228,
           "title": "在 Linux 终端将图像转换成 ASCII 艺术"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86157",
-          "author": "Editor, Kai",
-          "description": "孟加拉国技术工程大学和 UCLA 的研究人员开发出一种框架，能从文本描述创造 Android 应用。研究报告（PDF）发表在预印本网站 arXiv 上。这项研究在人类语言和编程语言之间架起桥梁，让编程变得更容易。大部分此类的技术是基于端对端 […]",
-          "link": "http://www.linuxeden.com/a/86157",
-          "publishedOn": "2021-06-06T13:47:24.000Z",
-          "wordCount": 98,
-          "title": "用文本描述创造 Android 应用"
         }
       ]
     },
@@ -4909,6 +4891,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/149139/tiobe-index-july-2021",
+          "author": null,
+          "description": "TIOBE 公布了 7 月编程语言排行榜，其 CEO Paul Jansen 宣布并庆祝 TIOBE 指数诞生 20 周年。 早在 2001 年，第一个 TIOBE 指数榜单作为 Paul 的个人爱好项目发布，按他的说法，主要是想了解编程语言的需求情况。当时 TIOBE 指数的前 3 名分别是 Java、C 和 C++。到了 20 年后的今天，TOP3 的数据看起来仍然惊人的相似—...",
+          "link": "https://www.oschina.net/news/149139/tiobe-index-july-2021",
+          "publishedOn": "2021-07-06T01:17:45.000Z",
+          "wordCount": 643,
+          "title": "TIOBE 7 月编程语言排行榜：C、Java 和 Python 争夺第一名"
+        },
         {
           "id": "https://www.oschina.net/news/149135/wt-performance-issue-discuss",
           "author": null,
@@ -8075,6 +8066,15 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=7155",
+          "author": "大眼仔~旭",
+          "description": "Free Hex Editor Neo + x64 中文版 16 进制编辑工具由大眼仔旭（www.dayanz […]",
+          "link": "http://www.dayanzai.me/hex-editor-neo.html",
+          "publishedOn": "2021-07-05T16:35:55.000Z",
+          "wordCount": 698,
+          "title": "16 进制编辑工具 Free Hex Editor Neo 6.54.02 + x64 中文免费版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=7743",
           "author": "大眼仔~旭",

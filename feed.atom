@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T00:32:22.137Z</updated>
+    <updated>2021-07-06T01:54:23.989Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TIOBE 7 月编程语言排行榜：C、Java 和 Python 争夺第一名]]></title>
+        <id>https://www.oschina.net/news/149139/tiobe-index-july-2021</id>
+        <link href="https://www.oschina.net/news/149139/tiobe-index-july-2021"/>
+        <updated>2021-07-06T01:17:45.000Z</updated>
+        <summary type="html"><![CDATA[TIOBE 公布了 7 月编程语言排行榜，其 CEO Paul Jansen 宣布并庆祝 TIOBE 指数诞生 20 周年。 早在 2001 年，第一个 TIOBE 指数榜单作为 Paul 的个人爱好项目发布，按他的说法，主要是想了解编程语言的需求情况。当时 TIOBE 指数的前 3 名分别是 Java、C 和 C++。到了 20 年后的今天，TOP3 的数据看起来仍然惊人的相似—...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源美图 2021 07 06]]></title>
         <id>http://www.linuxeden.com/?p=87242</id>
@@ -164,6 +174,16 @@
         <summary type="html"><![CDATA[命名优化（数据库（表，视图，触发器，视图，存储过程），实体，JSP）：按照阿里巴巴命名规范，建议分模块]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16 进制编辑工具 Free Hex Editor Neo 6.54.02 + x64 中文免费版]]></title>
+        <id>http://www.dayanzai.me/?p=7155</id>
+        <link href="http://www.dayanzai.me/hex-editor-neo.html"/>
+        <updated>2021-07-05T16:35:55.000Z</updated>
+        <summary type="html"><![CDATA[Free Hex Editor Neo + x64 中文版 16 进制编辑工具由大眼仔旭（www.dayanz […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
@@ -12386,43 +12406,6 @@ baomingsheng@huayun.com
         <summary type="html"><![CDATA[想在 Linux 终端中做一些有趣的事情吗？把一张普通的图片转换成 ASCII 艺术怎么样？ 你知道 什么是 ASCII 么？它是一个标准，在 8 位码中的 256 个空位上分配字母、数字和其他字符。ASCII 艺术是一个由可打印的 ASC […]]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用文本描述创造 Android 应用]]></title>
-        <id>http://www.linuxeden.com/?p=86157</id>
-        <link href="http://www.linuxeden.com/a/86157"/>
-        <updated>2021-06-06T13:47:24.000Z</updated>
-        <summary type="html"><![CDATA[孟加拉国技术工程大学和 UCLA 的研究人员开发出一种框架，能从文本描述创造 Android 应用。研究报告（PDF）发表在预印本网站 arXiv 上。这项研究在人类语言和编程语言之间架起桥梁，让编程变得更容易。大部分此类的技术是基于端对端 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoCN 每日新闻（2021-06-06）]]></title>
-        <id>https://gocn.vip/topics/12163</id>
-        <link href="https://gocn.vip/topics/12163"/>
-        <updated>2021-06-06T13:11:16.000Z</updated>
-        <summary type="html"><![CDATA[GoCN 每日新闻（2021-06-06）
-详解 Go 团队不建议用的 unsafe.Pointer https://mp.weixin.qq.com/s/8qtHdw2JiRQ1cXlzbJ0ANA
-
-新 Goland 插件支持 TinyGo https://blog.jetbrains.com/go/2021/06/02/tinygo-for-tiny-applications-discover-a-new-plugin-for-goland/
-
-使用 go-i18n 实现国际化 https://lokalise.com/blog/go-internationalization-using-go-i18n/
-
-awesome-go-orms https://github.com/d-tsuji/awesome-go-orms
-
-Go 实现终端 slide 展示工具 https://github.com/maaslalani/slides
-
-
-
-
-编辑: 傅小黑
-订阅新闻: http://tinyletter.com/gocn
-
-招聘专区: https://gocn.vip/jobs]]></summary>
-        <author>
-            <name>fuxiaohei</name>
         </author>
     </entry>
 </feed>
