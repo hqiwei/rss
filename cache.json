@@ -1728,6 +1728,69 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=87242",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 07 06",
+          "link": "http://www.linuxeden.com/a/87242",
+          "publishedOn": "2021-07-06T00:27:44.000Z",
+          "wordCount": 70,
+          "title": "开源美图 2021 07 06"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87238",
+          "author": "Editor, Kai",
+          "description": "早在2019年底的Linux 5.4版本中合并了exFAT文件系统驱动，在微软的协助下，由三星主导的工作在这个阶段已经被证明是相当成熟的。鉴于exFAT文件系统的成熟度，在最近的内核版本中没有太多的exFAT文件系统驱动变化。 即使在Lin […]",
+          "link": "http://www.linuxeden.com/a/87238",
+          "publishedOn": "2021-07-06T00:19:30.000Z",
+          "wordCount": 83,
+          "title": "Linux 5.14解决了​某些数码相机exFAT文件系统的兼容性问题"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87233",
+          "author": "Editor, Kai",
+          "description": "随着今年秋天Ubuntu 21.10的推出，Debian软件包将通过zstd进行压缩，以提供更快的解压速度，这比最初的计划晚了三年。在过去的三年里，zstd支持被添加到Ubuntu的APT和dpkg中，同时在上游的Debian中也看到了更广 […]",
+          "link": "http://www.linuxeden.com/a/87233",
+          "publishedOn": "2021-07-06T00:17:12.000Z",
+          "wordCount": 92,
+          "title": "Ubuntu 21.10开始利用zstd压缩Debian软件包"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87231",
+          "author": "Editor, Kai",
+          "description": "RabbitMQ 3.8.19 is a maintenance release. Obtaining Packages RabbitMQ releases are distributed via GitHub, Cloudsmith, a […]",
+          "link": "http://www.linuxeden.com/a/87231",
+          "publishedOn": "2021-07-06T00:11:32.000Z",
+          "wordCount": 492,
+          "title": "RabbitMQ 3.8.19 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87229",
+          "author": "Editor, Kai",
+          "description": "新增应用 JetBrains Toolbox，Chrome，网易邮箱大师（wine），全民K歌（wine），驾考宝典（wine），学而思网校直播课堂（wine），极速Offfice（wine），大众计算器（wine），央视影音，作业帮直播课 […]",
+          "link": "http://www.linuxeden.com/a/87229",
+          "publishedOn": "2021-07-06T00:09:27.000Z",
+          "wordCount": 91,
+          "title": "深度商店应用更新记录汇总（2021-06）"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87227",
+          "author": "Editor, Kai",
+          "description": "05 Jul Node v16.4.2 (Current) Node.js 16.4.1 introduced a regression in the Windows installer on non-English locales tha […]",
+          "link": "http://www.linuxeden.com/a/87227",
+          "publishedOn": "2021-07-06T00:06:53.000Z",
+          "wordCount": 243,
+          "title": "Node v16.4.2、Node v14.17.3 (LTS) 、Node v12.22.3 (LTS) 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87224",
+          "author": "Editor, Kai",
+          "description": "近期，国内厂商闻泰旗下的子公司安世半导体收购英国最大芯片制造商Newport Wafer Fab（NWF）的消息引发热议，并且消息称目前已经基本确定。 今日早些时候，闻泰科技回复媒体询问称：“目前没有这方面的通知。” 不过，变化来得非常快， […]",
+          "link": "http://www.linuxeden.com/a/87224",
+          "publishedOn": "2021-07-06T00:02:26.000Z",
+          "wordCount": 87,
+          "title": "闻泰公告：旗下子公司全资收购英国最大芯片厂商 已签署协议"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=87222",
           "author": "Editor, Kai",
           "description": "使用 GDB 查看程序的栈空间 使用 Python 解析配置文件 Apache Mnemonic 0.15.0发布，用于处理和分析链接对象的开源对象平台 古老的编程语言正面临人才青黄不接 “MAGFest 先生”专访：用 Python 和  […]",
@@ -4846,6 +4909,87 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/149135/wt-performance-issue-discuss",
+          "author": null,
+          "description": "游戏引擎开发者和 Handmade Hero 项目的作者 Casey Muratori 在 Windows Terminal（以下简称为 WT）的 GitHub 仓库中发布了一个关于 WT 性能的 issue（Extremely slow performance when processing virtual terminal sequences），引发了激烈的讨论。 Casey Muratori 在 issue 中指出，WT 在渲染彩色字符时比单色字符慢约...",
+          "link": "https://www.oschina.net/news/149135/wt-performance-issue-discuss",
+          "publishedOn": "2021-07-06T00:21:57.000Z",
+          "wordCount": 591,
+          "title": "Windows Terminal 性能再惹争议，难度相当于博士项目？"
+        },
+        {
+          "id": "https://www.oschina.net/news/149134",
+          "author": null,
+          "description": "2013 年，来自 Pivotal 公司的 Matt Srine 创造性地提出“云原生”概念。这一年，Docker 横空出世，成为软件开发行业新的分水岭，推动容器技术的成熟。容器技术使得原有的基于虚拟机的云主机应用，发展成更加灵活和轻量的“容器+编排调度”的云平台应用，越来越多专门为在云平台部署和运行而设计的应用诞生。 与此同时，...",
+          "link": "https://www.oschina.net/news/149134",
+          "publishedOn": "2021-07-06T00:16:41.000Z",
+          "wordCount": 891,
+          "title": "把握云原生，GOTC「开源云原生计算时代」分论坛议程公布"
+        },
+        {
+          "id": "https://www.oschina.net/news/149133/is-github-a-derivative-work",
+          "author": null,
+          "description": "GitHub 在上周推出了一个名为\"GitHub Copilot\"的工具，此工具使用了机器学习技术来提供代码建议/自动补全，并因此引发了不小的争议。原因是许多开发者认为，GitHub Copilot 宣称的基于公开代码训练其实是在未遵循开源许可证的情况下，肆意“抄袭”开源代码。 个别比较激进的开发者为了抗议 GitHub 未经授权和许可便使用受...",
+          "link": "https://www.oschina.net/news/149133/is-github-a-derivative-work",
+          "publishedOn": "2021-07-06T00:16:12.000Z",
+          "wordCount": 550,
+          "title": "GitHub 是 GPL 软件的衍生作品吗？"
+        },
+        {
+          "id": "https://www.oschina.net/news/149132/red-hat-leader-jim-whitehurst-quits",
+          "author": null,
+          "description": "IBM 上周发生了重大的高层人事变动，其中 Red Hat（红帽）的前总裁兼 CEO，也是红帽的绝对核心人物 Jim Whitehurst 卸任了 IBM 总裁一职，这项人事变动立即执行。 Whitehurst 是在 2018 年 IBM 以 340 亿美元收购 Red Hat 时一同加入了该公司，并在收购后一直担任红帽 CEO 一职。去年 1 月 IBM 宣布任命 Whitehurst 为总...",
+          "link": "https://www.oschina.net/news/149132/red-hat-leader-jim-whitehurst-quits",
+          "publishedOn": "2021-07-06T00:14:39.000Z",
+          "wordCount": 580,
+          "title": "红帽核心人物 Jim Whitehurst 卸任，IBM 股价应声下跌"
+        },
+        {
+          "id": "https://www.oschina.net/news/149131/1password-risks-of-mismanaging-corporate-secrets",
+          "author": null,
+          "description": "1Password 发布的一份《Hiding in Plain Sight》报告指出，企业平均每年因基础设施代码、凭证和密钥的泄露而导致的损失已达 120 万美元；60% 的 IT/DevOps 组织都有过泄密的经历。 报告基于对 500 名 IT 和 DevOps 工作者的调查，并辅以 1Password 研究人员的分析。主要探讨了企业如何管理爆炸性的敏感信息、普遍存在的机...",
+          "link": "https://www.oschina.net/news/149131/1password-risks-of-mismanaging-corporate-secrets",
+          "publishedOn": "2021-07-06T00:05:54.000Z",
+          "wordCount": 565,
+          "title": "1Password 报告：Secrets 管理不善致使企业每年损失数百万美元"
+        },
+        {
+          "id": "https://www.oschina.net/p/kyuubi",
+          "author": null,
+          "description": "通过 Kyuubi，用户能够像处理普通数据一样处理大数据，目标是成为数据仓库和数据湖的“开箱即用”工具。",
+          "link": "https://www.oschina.net/p/kyuubi",
+          "publishedOn": "2021-07-06T00:04:00.000Z",
+          "wordCount": 495,
+          "title": "Kyuubi —— 高性能的通用 JDBC 和 SQL 执行引擎"
+        },
+        {
+          "id": "https://www.paddlepaddle.org.cn/modelbasedetail/attgan",
+          "author": null,
+          "description": "利用分类损失和重构损失来保证改变特定的属性，可用于人脸特定属性转换。",
+          "link": "https://www.paddlepaddle.org.cn/modelbasedetail/attgan",
+          "publishedOn": "2021-07-06T00:02:05.000Z",
+          "wordCount": 549,
+          "title": "深度学习模型库入门：图像生成 - AttGAN"
+        },
+        {
+          "id": "https://my.oschina.net/crossoverjie/blog/5121652",
+          "author": null,
+          "description": "最近在实现两个需求，由于两者之间并没有依赖关系，所以想利用队列进行解耦；但在 Go 的标准库中并没有现成可用并且并发安全的数据结构；但 Go 提供了一个更加优雅的解决方案，那就是 channel。",
+          "link": "https://my.oschina.net/crossoverjie/blog/5121652",
+          "publishedOn": "2021-07-06T00:00:34.000Z",
+          "wordCount": 806,
+          "title": "每日一博 | Go 中的 channel 与 Java BlockingQueue 的本质区别"
+        },
+        {
+          "id": "https://gitee.com/erzhongxmu/jeewms/issues/I3YKY5",
+          "author": null,
+          "description": "命名优化（数据库（表，视图，触发器，视图，存储过程），实体，JSP）：按照阿里巴巴命名规范，建议分模块",
+          "link": "https://gitee.com/erzhongxmu/jeewms/issues/I3YKY5",
+          "publishedOn": "2021-07-05T23:39:52.000Z",
+          "wordCount": 356,
+          "title": "Gitee 悬赏 | 仓库管理系统的数据库命名和代码规范化"
+        },
         {
           "id": "https://www.oschina.net/news/149056",
           "author": null,
