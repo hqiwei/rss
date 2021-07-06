@@ -8040,6 +8040,15 @@
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
         {
+          "id": "http://www.dayanzai.me/?p=53037",
+          "author": "大眼仔~旭",
+          "description": "随着我们越来越接近稳定的 Android 12 版本，谷歌正在对 Android 设备上的应用程序交付和分发进 […]",
+          "link": "http://www.dayanzai.me/apk-vs-aab.html",
+          "publishedOn": "2021-07-06T03:22:06.000Z",
+          "wordCount": 808,
+          "title": "APK vs AAB 谷歌将从 8 月份开始用 AAB 格式取代 APK"
+        },
+        {
           "id": "http://www.dayanzai.me/?p=7155",
           "author": "大眼仔~旭",
           "description": "Free Hex Editor Neo + x64 中文版 16 进制编辑工具由大眼仔旭（www.dayanz […]",

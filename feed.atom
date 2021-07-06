@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T03:10:18.847Z</updated>
+    <updated>2021-07-06T04:12:00.134Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[APK vs AAB 谷歌将从 8 月份开始用 AAB 格式取代 APK]]></title>
+        <id>http://www.dayanzai.me/?p=53037</id>
+        <link href="http://www.dayanzai.me/apk-vs-aab.html"/>
+        <updated>2021-07-06T03:22:06.000Z</updated>
+        <summary type="html"><![CDATA[随着我们越来越接近稳定的 Android 12 版本，谷歌正在对 Android 设备上的应用程序交付和分发进 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TIOBE 7 月编程语言排行榜：C、Java 和 Python 争夺第一名]]></title>
         <id>https://www.oschina.net/news/149139/tiobe-index-july-2021</id>
