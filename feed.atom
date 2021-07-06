@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T15:10:14.161Z</updated>
+    <updated>2021-07-06T16:13:45.407Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Authenticate Users and Implement CORS in Node.js Apps]]></title>
+        <id>60b22e9611ffb70827ef9547</id>
+        <link href="https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/"/>
+        <updated>2021-07-06T16:02:13.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will learn how to authenticate users and secure endpoints in Node.js. You'll also see how to implement Cross-Origin Resource Sharing (CORS) in Node. So let's get started.  Prerequisites You'll need the following to follow along with this tutorial:  A working understanding of JavaScript. A good]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 JavaScript Tips to Improve Your React Code]]></title>
+        <id>60df35f027f80207bcdbccea</id>
+        <link href="https://www.freecodecamp.org/news/javascript-tips-to-improve-your-react-code-today/"/>
+        <updated>2021-07-06T15:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Let's look at five JavaScript tips you can use today to instantly improve your React applications.  Because React is a JavaScript library, any improvements that we make in our JavaScript skills will directly improve the applications that we build with React. For this reason, I've put together a number of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Schedule a Job in Node Using node-cron]]></title>
         <id>60aa196411ffb70827ef5f43</id>
@@ -12276,91 +12296,6 @@ Calico 路由反射模式权威指南 https://mp.weixin.qq.com/s/hLiI9fsPQ7w4PS2
         <summary type="html"><![CDATA[DevUI 是一款面向企业中后台产品的开源前端解决方案，它倡导沉浸、灵活、至简的设计价值观，提倡设计者为真实的需求服务，为多数人的设计，拒绝哗众取宠、取悦眼球的设计。如果你正在开发 ToB 的工具类产品，DevUI 将是一个很不错的选择！ 新增特性 新版本主要包含以下特性： 开放DevUI动效,参考扩展服务/Animations动效...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocky Linux 社区更新-2021年5月]]></title>
-        <id>https://www.oschina.net/news/144916/rocky-linux-community-updatemay-2021</id>
-        <link href="https://www.oschina.net/news/144916/rocky-linux-community-updatemay-2021"/>
-        <updated>2021-06-07T03:14:49.000Z</updated>
-        <summary type="html"><![CDATA[Rocky Linux 8.4 RC 版本发布啦！！！ 相关信息：https://rockylinux.org/zh-cn/news/rocky-linux-8-4-rc1-release/ 下载地址：https://rockylinux.org/download/ 概述 对我们来说，这是一个非常激动人心的月份。5月1日凌晨，我们发布了Rocky Linux 8.3的RC版本（如果你还没有这个版本，请随时下载并测试，如果发现有任何...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 Prometheus + Grafana 打造 TiDB 监控整合方案]]></title>
-        <id>https://gocn.vip/topics/12166</id>
-        <link href="https://gocn.vip/topics/12166"/>
-        <updated>2021-06-07T03:14:29.000Z</updated>
-        <summary type="html"><![CDATA[作者介绍：王天宜
-Prometheus + Grafana 作为一套普适的监控系统广泛应用于各种应用环境中。
-本文主要介绍能否将 TiDB + Prometheus 新搭建的监控系统，迁移到已有的监控系统的方案。
-对资源比较紧张，高可用需求不强烈的用户，我们建议直接通过 Prometheus Label 进行集群的划分，做到 All in One 的 Prometheus 监控环境。对资源宽裕，高可用需求比较强烈的用户，可以考虑使用 Prometheus 多租户的解决方案。
-Grafana 作为一个无状态的应用，如果有高可用的需求，可以考虑通过 Keepalived + Haproxy 的结构部署成高可用的架构。
-从本文中，你将将了解到：
-如何将不同的 TiDB 集群 Prometheus 监控平台整合到同一 Prometheus 平台中
-
-
-如何通过 Grafana 查看 Prometheus 中的 metric
-
-
-如何将不同集群的 cluster 标签注入到 Grafana dashboard 中
-
-
-如何通过 Grafana HTTP API 批量将报表导入到 Grafana 中
-
-
-如何解决大量指标数据造成的 Prometheus 性能问题
-
-
-如何将 Prometheus 中的数据导入到关系型数据库中进行查询或指标分析
-
-
-如何实现 Prometheus 的高可用和高租户
-
-
-
-本文的思路导读：
-我想做什么：将每个集群独立的 Prometheus + Grafana 整合到统一的平台，单一入口进行查询
-
-
-Prometheus 如何整合：使用独立的 Prometheus 拉取不同集群的 metric，通过 label 进行区分
-
-
-Grafana 如何整合：需要将每一个 expr 都推入集群的标签信息加以隔离，生成新的报表，使用 Grafana HTTP API…]]></summary>
-        <author>
-            <name>TiDB_Robot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[无锡] 华云数据招聘 go 开发工程师]]></title>
-        <id>https://gocn.vip/topics/12165</id>
-        <link href="https://gocn.vip/topics/12165"/>
-        <updated>2021-06-07T03:12:15.000Z</updated>
-        <summary type="html"><![CDATA[公司介绍：
-华云数据控股集团成立于 2010 年，坚持自主研发和开拓创新，打造管理统一、体验一致的云平台，支持全芯全栈云计算解决方案，为党政、金融、交通、医疗、教育、电信、电力和制造等各行业和领域用户提供信创云计算解决方案和服务。目前，华云数据业务覆盖全国及海外市场，在全球设有分支机构 10 余个，客户总量超过 30 万。
-详细介绍：https://huayun.com/about
-职位描述：
-1、负责项目的开发与维护，并且按时高质完成；负责系统国产化适配
-2、负责项目技术评测，数据库设计、功能模块设计、流程图设计、相关文档编写；
-职位要求：
-1、三年及以上服务端开发经验，两年及以上 golang 服务端研发经验；本科及以上学历，计算机相关专业；
-2、熟悉 Linux 平台下的 Golang 编程，掌握一种及以上 go web 框架；
-3、熟悉 Golang 协程，熟悉 channel 和锁，对高并发、高可用架构系统有正确、深刻的理解；
-4、熟悉常用的互联网技术，包括但不限于 git、MySQL、Redis、RPC、MQ、缓存技术、微服务架构；熟悉 docker+kubernetes 技术栈，有过 docke 容器化应用经验优先
-5、能快速接收和掌握新技术，工作自主驱动，具备良好的问题定位分析能力；
-6、具备团队协作能力，富有挑战精神和强烈的进取心。
-7、对语言持开放性。
-联系方式：
-baomingsheng@huayun.com
-联系微信：dkspaceoo1
-工作地点：
-无锡市滨湖区慧泽西路科教软件园 B 区 6 号华云数据大厦
-待遇
-具体面谈]]></summary>
-        <author>
-            <name>dmbjwy007</name>
         </author>
     </entry>
 </feed>
