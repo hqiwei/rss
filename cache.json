@@ -4874,6 +4874,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/149249",
+          "author": null,
+          "description": "报告编号：B6-2021-070501 报告来源：360CERT 报告作者：360CERT 更新日期：2021-07-05 事件导览 本周收录安全热点12项，话题集中在网络攻击、数据安全方面，涉及的组织有：微软、爱尔兰卫生局、LinkedIn、WordPress等。多个卫生机构遭遇数据泄露。对此，360CERT建议使用360安全卫士进行病毒检测、使用360安全分析响应平...",
+          "link": "https://www.oschina.net/news/149249",
+          "publishedOn": "2021-07-06T07:57:36.000Z",
+          "wordCount": 948,
+          "title": "安全事件周报：SolarWinds 黑客在丹麦央行藏匿数月；LinkedIn 遭遇数据泄露"
+        },
+        {
           "id": "https://www.oschina.net/news/149232/baetyl-2-2-released",
           "author": null,
           "description": "Baetyl 作为中国首个加入 LF Edge 基金会的边缘计算项目，自2019年由百度捐赠以来，在开放中立的社区环境中得到不断的支持与发展。如今，在众多活跃的贡献者的努力下，Baetyl 实现了更多具有挑战性的功能，正式升级为 Baetyl v2.2 版本。此次升级的新特性依然本持着云原生的理念，助力 Baetyl 向着构建开放、安全、可扩展...",

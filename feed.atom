@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T07:08:32.157Z</updated>
+    <updated>2021-07-06T08:10:59.720Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[安全事件周报：SolarWinds 黑客在丹麦央行藏匿数月；LinkedIn 遭遇数据泄露]]></title>
+        <id>https://www.oschina.net/news/149249</id>
+        <link href="https://www.oschina.net/news/149249"/>
+        <updated>2021-07-06T07:57:36.000Z</updated>
+        <summary type="html"><![CDATA[报告编号：B6-2021-070501 报告来源：360CERT 报告作者：360CERT 更新日期：2021-07-05 事件导览 本周收录安全热点12项，话题集中在网络攻击、数据安全方面，涉及的组织有：微软、爱尔兰卫生局、LinkedIn、WordPress等。多个卫生机构遭遇数据泄露。对此，360CERT建议使用360安全卫士进行病毒检测、使用360安全分析响应平...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国首个 LF Edge 捐赠项目 Baetyl 2.2 正式发布]]></title>
         <id>https://www.oschina.net/news/149232/baetyl-2-2-released</id>
