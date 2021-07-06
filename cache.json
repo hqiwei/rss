@@ -4874,6 +4874,42 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/149232/baetyl-2-2-released",
+          "author": null,
+          "description": "Baetyl 作为中国首个加入 LF Edge 基金会的边缘计算项目，自2019年由百度捐赠以来，在开放中立的社区环境中得到不断的支持与发展。如今，在众多活跃的贡献者的努力下，Baetyl 实现了更多具有挑战性的功能，正式升级为 Baetyl v2.2 版本。此次升级的新特性依然本持着云原生的理念，助力 Baetyl 向着构建开放、安全、可扩展...",
+          "link": "https://www.oschina.net/news/149232/baetyl-2-2-released",
+          "publishedOn": "2021-07-06T06:36:50.000Z",
+          "wordCount": 599,
+          "title": "中国首个 LF Edge 捐赠项目 Baetyl 2.2 正式发布"
+        },
+        {
+          "id": "https://www.oschina.net/news/149230",
+          "author": null,
+          "description": "FATE 联邦学习系统 FATE v1.7: 开发阶段。 1 算法：去除协调方的纵向逻辑回归开发完成，密文压缩模块开发完成（支持纵向 SBT，纵向特征分箱） 2 基于 FATE on Spark，对接行内 WeDataSphere 存储计算平台、数据集权限系统，已提测。 3. 系统架构优化，完成调度系统与算法组件分离可同时支持多版本算法组件 4. 模型中心，...",
+          "link": "https://www.oschina.net/news/149230",
+          "publishedOn": "2021-07-06T06:21:11.000Z",
+          "wordCount": 521,
+          "title": "微众银行 AI 开源项目 - 6月进展合集"
+        },
+        {
+          "id": "https://www.oschina.net/news/149228",
+          "author": null,
+          "description": "FISCO-BCOS 适用于金融行业的区块链底层平台 1. v2.8.0 开发中，预计7月底发布，主要功能：支持密码机。 2. v3.0.0 开发中，完成共识、同步、交易池、执行器、调度器、网关等模块研发，正在进行整体服务联调。 3. 专项兴趣小组（SIG）：上贸大SIG完成用rust来调用WeID相关接口的Demo；CC-SIG发起的FISCO BCOS适配Fabric ...",
+          "link": "https://www.oschina.net/news/149228",
+          "publishedOn": "2021-07-06T06:18:08.000Z",
+          "wordCount": 627,
+          "title": "微众银行区块链开源项目 - 6月进展合集"
+        },
+        {
+          "id": "https://www.oschina.net/news/149227",
+          "author": null,
+          "description": "Fes.js 是基于 Vue.js 适用 Curd 应用的开源前端权限管理方案 6月项目进展如下 发布正式版 2.0 github.com/WeBankFinTech/fes.js/releases npm 包的版本改为使用独立模式 支持 css modules 优化 layout-plugin，layout 提供更精细化配置 更新信息，请到项目中了解(o´ω`o)ﾉ github.com/WeBankFinTech/fes.js gitee.co...",
+          "link": "https://www.oschina.net/news/149227",
+          "publishedOn": "2021-07-06T06:10:02.000Z",
+          "wordCount": 493,
+          "title": "Fes.js 前端开源框架  - 6月项目进展播报"
+        },
+        {
           "id": "https://www.oschina.net/news/149221",
           "author": null,
           "description": "作者：Linux 基金会高级副总裁兼培训与认证总经理 Clyde Seepersad 和世界银行开放式学习校园负责人 Sheila Jagannathan 在很多方面，今天的世界感觉比以往任何时候都要小。COVID-19 全球大流行等悲惨事件提醒我们，我们彼此是多么紧密相连。在这个网络化的世界中，也蕴藏着新方法和新伙伴关系的机遇，以应对共同挑战，增...",
