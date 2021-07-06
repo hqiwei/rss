@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T09:09:47.784Z</updated>
+    <updated>2021-07-06T10:10:08.547Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-07-06)]]></title>
+        <id>https://gocn.vip/topics/12276</id>
+        <link href="https://gocn.vip/topics/12276"/>
+        <updated>2021-07-06T09:19:20.000Z</updated>
+        <summary type="html"><![CDATA[GopherChina 2021 Ian 说完整泛型实现将在 Go1.18 发布 (会议实录) https://mp.weixin.qq.com/s/RFfa-A0DomH2pXz4arAVnA
+
+ADBTuiFM-基于 tui 的 ADB 文件管理器  https://github.com/darkhz/adbtuifm
+
+Semverbot 用 GoLang 编写的 semver 版本管理 CLI 工具 https://github.com/restechnica/semverbot
+
+多 Goroutine 如何优雅处理错误？https://mp.weixin.qq.com/s/NX6kVJP-RdUzcCmG2MF31w
+
+优化 Golang 分布式行情推送的性能瓶颈  https://mp.weixin.qq.com/s/DF8GeW2Nx3s9yjzcvEunJA
+
+
+
+go 泛型来了，go 泛型文化衫也来了   https://mp.weixin.qq.com/s/VBo1XHsE9CCYDfvns8rZvw
+编辑: 熊大 
+订阅新闻: http://tinyletter.com/gocn
+
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>ningxiaofang1o</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安全事件周报：SolarWinds 黑客在丹麦央行藏匿数月；LinkedIn 遭遇数据泄露]]></title>
         <id>https://www.oschina.net/news/149249</id>
@@ -262,6 +288,26 @@
         <link href="http://www.dayanzai.me/hex-editor-neo.html"/>
         <updated>2021-07-05T16:35:55.000Z</updated>
         <summary type="html"><![CDATA[Free Hex Editor Neo + x64 中文版 16 进制编辑工具由大眼仔旭（www.dayanz […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[经典优秀的沙盘工具 Sandboxie 5.50.5 + x64 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=12730</id>
+        <link href="http://www.dayanzai.me/sandboxie.html"/>
+        <updated>2021-07-05T16:32:04.000Z</updated>
+        <summary type="html"><![CDATA[Sandboxie 中文版由大眼仔旭（www.dayanzai.me）发布。沙盘英文名sandbox(sand […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源免费沙箱增强版 Sandboxie Plus 0.8.5 + x64 中文免费版]]></title>
+        <id>http://www.dayanzai.me/?p=1386</id>
+        <link href="http://www.dayanzai.me/sandboxie-plus.html"/>
+        <updated>2021-07-05T16:24:58.000Z</updated>
+        <summary type="html"><![CDATA[开源免费沙箱增强版 Sandboxie Plus 中文版由大眼仔旭（www.dayanzai.me）发布。Sa […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
         </author>

@@ -731,6 +731,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12276",
+          "author": "ningxiaofang1o",
+          "description": "GopherChina 2021 Ian 说完整泛型实现将在 Go1.18 发布 (会议实录) https://mp.weixin.qq.com/s/RFfa-A0DomH2pXz4arAVnA\n\nADBTuiFM-基于 tui 的 ADB 文件管理器  https://github.com/darkhz/adbtuifm\n\nSemverbot 用 GoLang 编写的 semver 版本管理 CLI 工具 https://github.com/restechnica/semverbot\n\n多 Goroutine 如何优雅处理错误？https://mp.weixin.qq.com/s/NX6kVJP-RdUzcCmG2MF31w\n\n优化 Golang 分布式行情推送的性能瓶颈  https://mp.weixin.qq.com/s/DF8GeW2Nx3s9yjzcvEunJA\n\n\n\ngo 泛型来了，go 泛型文化衫也来了   https://mp.weixin.qq.com/s/VBo1XHsE9CCYDfvns8rZvw\n编辑: 熊大 \n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12276",
+          "publishedOn": "2021-07-06T09:19:20.000Z",
+          "wordCount": 111,
+          "title": "GoCN 每日新闻 (2021-07-06)"
+        },
+        {
           "id": "https://gocn.vip/topics/12275",
           "author": "silo1999",
           "description": "UI 优先的统一身份认证系统 Casdoor\nCasdoor 是 Casbin 社区的开源项目，仓库地址：Casdoor\nCasdoor 是什么\nCasdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。\nCasdoor 目前作为 Casbin 社区项目统一使用的鉴权平台，项目已开源，希望得到大家的一些建议和 Star~，我们会及时跟进反馈并改正问题哒。\n为什么要用 Casdoor\n用户管理一直是项目中非常令人头疼的一个问题，不仅要确保安全性，功能是否完整，方便使用也十分重要。目前大多数应用已从过去单一的账号密码登录，逐渐升级为允许通过第三方平台登录，例如 GitHub、微信、QQ 等。但是这一套逻辑依然需要开发者去实现，大多数功能偏离了业务。\nCasdoor 就是替开发者们解决这个难题，即 提供一套统一的鉴权平台，只需要简单配置便可完全托管用户模块。\n使用的理由也非常简单，总结概括为三句话：\n功能完备，操作简单。作为一个需要完全托管用户模块的项目，功能完备必不可少，Casdoor 支持常见用户模块所需要的各种功能。并且配置简单，上手难度低。\n开源可控，社区活跃。能否快速得到社区的反馈，解决实际应用中出现的问题也十分重要，否则出了 Bug 没人管岂不是尴尬？Casdoor 有自己的讨论社区 Casnode，也有 QQ 群，均可及时活跃地解决实际应用中的问题。\n性能强大，耦合良好。采用 Golang 开发，并发性支持良好，并且内部模块耦合度低，代码易懂，热插拔性好。\nCasdoor 又有哪些特性\n支持普通的账户密码注册登录，也支持各种常见的第三方认证，例如 GitHub、Facebook、Google、Wechat、QQ、LinkedIn 等等，截止目前共 9 个平台，并在不断听取用户建议对更多的平台提供支持。\n管理方便。Casdoor 内部将模块分为了 5 大类，Organization、User、Application、Token 和 Provider。可以同时接入多个组织，组织下有不同应用，用户可以通过应用或组织分类，单独管理任何组织、应用或用户的 Token 令牌，轻松管理复杂系统，目前已部署在 Casbin 社区各种系统当作鉴权平台。\n自定义程度高。Casdoor 可以随意修改登录方式，例如是否允许密码或第三方登录，自定义应用的注册项数量，是否启用两步验证，以及是否允许各个 Provider 登录、注册等等，高度可插拔。\n具备 Swagger API 文档。清晰的 API 介绍，无需阅读源代码即可直接方便调用各个 API 接口，提供定制化功能。\n前后端分离架构，部署简单。作为统一认证平台，除了性能，稳定性，新特性之外，易用性也是考量的重要标准，Casdoor 后端使用 Golang 语言开发，前端使用 React.js 框架，使用者只需启动后端服务，并将前端工程文件打包，即可直接使用，操作简单，上手难度低。\n...\n总结\n我们希望 Casdoor 能帮助广大开发者们解决用户管理的难题，更专注主要业务，提高开发效率。\n同时作为一个开源项目，我们也非常希望获得大家的使用建议，帮助我们更好地改善项目质量，从功能、易用性等方面更好地满足大家的需求。\n如果使用过程中有任何疑问，欢迎加入社区 QQ 群交流，或者在 Casnode 论坛发帖，提 Issues。当然，提 PR 也是十分欢迎的！\nCasnode 论坛地址：Casnode\n\n\nQQ 群：645200447",
@@ -8119,6 +8128,24 @@
           "publishedOn": "2021-07-05T16:35:55.000Z",
           "wordCount": 698,
           "title": "16 进制编辑工具 Free Hex Editor Neo 6.54.02 + x64 中文免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=12730",
+          "author": "大眼仔~旭",
+          "description": "Sandboxie 中文版由大眼仔旭（www.dayanzai.me）发布。沙盘英文名sandbox(sand […]",
+          "link": "http://www.dayanzai.me/sandboxie.html",
+          "publishedOn": "2021-07-05T16:32:04.000Z",
+          "wordCount": 1024,
+          "title": "经典优秀的沙盘工具 Sandboxie 5.50.5 + x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=1386",
+          "author": "大眼仔~旭",
+          "description": "开源免费沙箱增强版 Sandboxie Plus 中文版由大眼仔旭（www.dayanzai.me）发布。Sa […]",
+          "link": "http://www.dayanzai.me/sandboxie-plus.html",
+          "publishedOn": "2021-07-05T16:24:58.000Z",
+          "wordCount": 1119,
+          "title": "开源免费沙箱增强版 Sandboxie Plus 0.8.5 + x64 中文免费版"
         },
         {
           "id": "http://www.dayanzai.me/?p=7743",
