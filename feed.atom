@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T20:09:19.827Z</updated>
+    <updated>2021-07-06T21:08:48.458Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Automatically Upload an Android App Bundle to the Play Store]]></title>
+        <id>60e16e1b134ad707be00d6bc</id>
+        <link href="https://www.freecodecamp.org/news/automatically-upload-an-android-app-bundle-to-the-play-store/"/>
+        <updated>2021-07-06T21:08:39.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'm going to explain how to automatically upload an Android App Bundle (.aab file) to the Play Store's beta track. We'll use Android Studio and AWS as a cloud infrastructure provider.  Once we've uploaded the app bundle, we'll trigger a Slack notification.  This is a valuable use]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Authenticate Users and Implement CORS in Node.js Apps]]></title>
         <id>60b22e9611ffb70827ef9547</id>
@@ -12264,16 +12274,6 @@ Calico 路由反射模式权威指南 https://mp.weixin.qq.com/s/hLiI9fsPQ7w4PS2
         <link href="https://www.oschina.net/news/145007/webank-blockchain-opensource-may"/>
         <updated>2021-06-07T09:14:42.000Z</updated>
         <summary type="html"><![CDATA[FISCO-BCOS 适用于金融行业的区块链底层平台 https://github.com/FISCO-BCOS https://gitee.com/FISCO-BCOS 1. FISCO BCOS：v2.8.0 新增需求：适配教育部密码机开发中，预计7月初发布。v3.0.0 开发中，完成存储和前置模块的Tars包装及测试，完成区块同步、账本模块的开发，执行模块、SDK 开发中，预计7月底完成开发。 2....]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微众银行区块链开源项目 - 5月进展合集]]></title>
-        <id>https://www.oschina.net/news/144997/webank-opensource-may</id>
-        <link href="https://www.oschina.net/news/144997/webank-opensource-may"/>
-        <updated>2021-06-07T08:59:06.000Z</updated>
-        <summary type="html"><![CDATA[WeBASE 区块链中间件平台 https://github.com/WeBankFinTech/WeBASE https://gitee.com/WeBank/WeBASEv1.5.1：发布中，预计 6 月初发布完成。 主要功能：扩展合约仓库数量，向社区发布合约仓库贡献和接入方法，和社区共建合约仓库；支持在合约 IDE 中可以导出 JAVA 工程；应用管理优化等。 WeCross 区块链跨链协作平台 ...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>

@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60e16e1b134ad707be00d6bc",
+          "author": null,
+          "description": "In this article, I'm going to explain how to automatically upload an Android App Bundle (.aab file) to the Play Store's beta track. We'll use Android Studio and AWS as a cloud infrastructure provider.  Once we've uploaded the app bundle, we'll trigger a Slack notification.  This is a valuable use",
+          "link": "https://www.freecodecamp.org/news/automatically-upload-an-android-app-bundle-to-the-play-store/",
+          "publishedOn": "2021-07-06T21:08:39.000Z",
+          "wordCount": 2504,
+          "title": "How to Automatically Upload an Android App Bundle to the Play Store"
+        },
+        {
           "id": "60b22e9611ffb70827ef9547",
           "author": null,
           "description": "In this tutorial, you will learn how to authenticate users and secure endpoints in Node.js. You'll also see how to implement Cross-Origin Resource Sharing (CORS) in Node. So let's get started.  Prerequisites You'll need the following to follow along with this tutorial:  A working understanding of JavaScript. A good",
@@ -7985,15 +7994,6 @@
           "link": "https://www.oschina.net/news/145007/webank-blockchain-opensource-may",
           "publishedOn": "2021-06-07T09:14:42.000Z",
           "wordCount": 586,
-          "title": "微众银行区块链开源项目 - 5月进展合集"
-        },
-        {
-          "id": "https://www.oschina.net/news/144997/webank-opensource-may",
-          "author": null,
-          "description": "WeBASE 区块链中间件平台 https://github.com/WeBankFinTech/WeBASE https://gitee.com/WeBank/WeBASEv1.5.1：发布中，预计 6 月初发布完成。 主要功能：扩展合约仓库数量，向社区发布合约仓库贡献和接入方法，和社区共建合约仓库；支持在合约 IDE 中可以导出 JAVA 工程；应用管理优化等。 WeCross 区块链跨链协作平台 ...",
-          "link": "https://www.oschina.net/news/144997/webank-opensource-may",
-          "publishedOn": "2021-06-07T08:59:06.000Z",
-          "wordCount": 503,
           "title": "微众银行区块链开源项目 - 5月进展合集"
         }
       ]
