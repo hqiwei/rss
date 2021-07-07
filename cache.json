@@ -4838,6 +4838,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/149389/elasticjob-3-0-0-released",
+          "author": null,
+          "description": "ElasticJob 是面向互联网生态和海量任务的分布式调度解决方案，由两个相互独立的子项目 ElasticJob-Lite 和 ElasticJob-Cloud 组成。它通过弹性调度、资源管控、以及作业治理的功能，打造一个适用于互联网场景的分布式调度解决方案，并通过开放的架构设计，提供多元化的作业生态。ElasticJob 的各个产品使用统一的作业 ...",
+          "link": "https://www.oschina.net/news/149389/elasticjob-3-0-0-released",
+          "publishedOn": "2021-07-07T03:54:12.000Z",
+          "wordCount": 567,
+          "title": "官宣！ElasticJob 3.0.0 版本正式发布"
+        },
+        {
           "id": "https://www.oschina.net/news/149343/bittorrent-20yr",
           "author": null,
           "description": "2001年4月，25 岁的程序员 Bram Cohen 因其就职的网络公司的点对点创业项目 MojoNation 失败，便从中退出，开始专注于设计自己的 BitTorrent 文件共享协议，然后到了2001年7月2日，他在雅虎信息版上发布了第一个 BitTorrent 的可执行版本。初始版本的 BitTorrent 采用 Python 编写，遵循 MIT 许可证开源，并且免费提供。...",
@@ -8047,6 +8056,24 @@
           "publishedOn": "2021-07-06T16:23:28.000Z",
           "wordCount": 792,
           "title": "轻量级 PDF 阅读工具 Sumatra PDF 3.3 + x64 + Portable 中文版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=3533",
+          "author": "大眼仔~旭",
+          "description": "XnConvert 中文版 图像批量转换工具由大眼仔旭（www.dayanzai.me）发布。XnConver […]",
+          "link": "http://www.dayanzai.me/xnconvert.html",
+          "publishedOn": "2021-07-06T16:18:12.000Z",
+          "wordCount": 521,
+          "title": "图像批量转换工具 XnConvert 1.92 + x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=1874",
+          "author": "大眼仔~旭",
+          "description": "磁盘文件占用空间分析工具 TreeSize Free 中文版由大眼仔旭（www.dayanzai.me）整理发 […]",
+          "link": "http://www.dayanzai.me/treesize-free.html",
+          "publishedOn": "2021-07-06T16:05:13.000Z",
+          "wordCount": 518,
+          "title": "磁盘文件占用空间分析工具 TreeSize Free 4.50 中文免费版"
         },
         {
           "id": "http://www.dayanzai.me/?p=53037",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T03:10:29.917Z</updated>
+    <updated>2021-07-07T04:11:49.802Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[官宣！ElasticJob 3.0.0 版本正式发布]]></title>
+        <id>https://www.oschina.net/news/149389/elasticjob-3-0-0-released</id>
+        <link href="https://www.oschina.net/news/149389/elasticjob-3-0-0-released"/>
+        <updated>2021-07-07T03:54:12.000Z</updated>
+        <summary type="html"><![CDATA[ElasticJob 是面向互联网生态和海量任务的分布式调度解决方案，由两个相互独立的子项目 ElasticJob-Lite 和 ElasticJob-Cloud 组成。它通过弹性调度、资源管控、以及作业治理的功能，打造一个适用于互联网场景的分布式调度解决方案，并通过开放的架构设计，提供多元化的作业生态。ElasticJob 的各个产品使用统一的作业 ...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[您使用的免费开源软件到底安不安全？]]></title>
         <id>http://www.dayanzai.me/?p=53045</id>
@@ -212,6 +222,26 @@
         <link href="http://www.dayanzai.me/sumatra-pdf.html"/>
         <updated>2021-07-06T16:23:28.000Z</updated>
         <summary type="html"><![CDATA[Sumatra PDF 中文版由大眼仔旭（www.dayanzai.me）发布。轻量级 PDF 阅读工具 Su […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[图像批量转换工具 XnConvert 1.92 + x64 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=3533</id>
+        <link href="http://www.dayanzai.me/xnconvert.html"/>
+        <updated>2021-07-06T16:18:12.000Z</updated>
+        <summary type="html"><![CDATA[XnConvert 中文版 图像批量转换工具由大眼仔旭（www.dayanzai.me）发布。XnConver […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[磁盘文件占用空间分析工具 TreeSize Free 4.50 中文免费版]]></title>
+        <id>http://www.dayanzai.me/?p=1874</id>
+        <link href="http://www.dayanzai.me/treesize-free.html"/>
+        <updated>2021-07-06T16:05:13.000Z</updated>
+        <summary type="html"><![CDATA[磁盘文件占用空间分析工具 TreeSize Free 中文版由大眼仔旭（www.dayanzai.me）整理发 […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
         </author>
