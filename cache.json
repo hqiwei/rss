@@ -4838,6 +4838,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/149470",
+          "author": null,
+          "description": "FCES2021将于2021年7月16日-17日在江苏常州举行，峰会主题是“开源文化与计算机教育”。为期两天的峰会包括特邀报告、观点报告和大会论坛，以及分论坛。与会专家将围绕计算机开源和教育的方方面面展开讨论。大会主席是CCF会士、中国科学院院士、国防科技大学教授王怀民。 即刻识别下方二维码或点击文末“阅读原文”注册报...",
+          "link": "https://www.oschina.net/news/149470",
+          "publishedOn": "2021-07-07T10:02:46.000Z",
+          "wordCount": 558,
+          "title": "FCES2021 分论坛预告：CCF 开源发展"
+        },
+        {
           "id": "https://www.oschina.net/news/149437",
           "author": null,
           "description": "#June Z星月度速览 Milvus 发布 2.0 新版本，重新定义向量数据库 向量数据库 Milvus 从顶级开源基金会 LF AI & Data 毕业 基于 KubeSphere 容器平台，一键可视化部署 Milvus 向量数据库 丁香园基于 Milvus 的向量召回应用，极大提高开发部署效率 Milvus 在唯品会搜索推荐的实践，搭建高效电商搜索推荐系统 Milvus 在 To...",
