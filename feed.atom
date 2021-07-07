@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T04:11:49.802Z</updated>
+    <updated>2021-07-07T05:08:07.634Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12316,16 +12316,6 @@ GopherChina 倒计时 19 天 Gopher China 大会志愿者招募启动 https://mp
         <summary type="html"><![CDATA[Closures are a confusing JavaScript concept to learn, because it's hard to see how they're actually used.  Unlike other concepts such as functions, variables, and objects, you don't always use closures conscientiously and directly. You don't say: Oh! Here I will use a closure as a solution. But at the]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[程序卸载工具 Wise Program Uninstaller 2.5.1 Build 147 中文免费版]]></title>
-        <id>http://www.dayanzai.me/?p=5777</id>
-        <link href="http://www.dayanzai.me/wise-program-uninstaller.html"/>
-        <updated>2021-06-07T16:30:38.000Z</updated>
-        <summary type="html"><![CDATA[Wise Program Uninstaller 绿色中文版程序卸载工具由大眼仔旭（www.dayanzai. […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
         </author>
     </entry>
 </feed>
