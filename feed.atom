@@ -2,16 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T08:10:46.392Z</updated>
+    <updated>2021-07-07T09:10:06.643Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-07-07)]]></title>
+        <id>https://gocn.vip/topics/12277</id>
+        <link href="https://gocn.vip/topics/12277"/>
+        <updated>2021-07-07T08:26:56.000Z</updated>
+        <summary type="html"><![CDATA[开启云原生 MOSN 新篇章 — 融合 Envoy 和 Golang 生态 https://mp.weixin.qq.com/s/ioewVcwiB5QA8w3A3gaikg
+
+Go 中性能测试可以是令人惊讶的 https://leveluppp.ghost.io/benchmarks-in-go-can-be-surprising/
+
+构建 Splitz：Razorpay 的大规模线上测试平台 https://engineering.razorpay.com/building-splitz-razorpays-platform-for-high-scale-experimentation-c917fe15d8f6
+
+entgo 中自动生成 GraphQL 过滤器https://entgo.io/blog/2021/07/01/automatic-graphql-filter-generation/
+
+dtm: 国人开源的分布式事务框架 https://github.com/yedf/dtm
+
+
+
+
+
+Go 泛型来了，Go 泛型文化衫也来了 https://mp.weixin.qq.com/s/VBo1XHsE9CCYDfvns8rZvw
+
+
+编辑: 李俱顺 Kevin
+
+
+订阅新闻: http://tinyletter.com/gocn
+
+
+招聘专区: https://gocn.vip/jobs
+
+
+GOCN 归档：https://gocn.vip/topics/12277]]></summary>
+        <author>
+            <name>kevin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[六月Z星月度速览：Milvus 发布2.0新版本、Milvus 从顶级开源基金会 LF AI & Data 毕业……]]></title>
         <id>https://www.oschina.net/news/149437</id>
         <link href="https://www.oschina.net/news/149437"/>
         <updated>2021-07-07T08:09:43.000Z</updated>
         <summary type="html"><![CDATA[#June Z星月度速览 Milvus 发布 2.0 新版本，重新定义向量数据库 向量数据库 Milvus 从顶级开源基金会 LF AI & Data 毕业 基于 KubeSphere 容器平台，一键可视化部署 Milvus 向量数据库 丁香园基于 Milvus 的向量召回应用，极大提高开发部署效率 Milvus 在唯品会搜索推荐的实践，搭建高效电商搜索推荐系统 Milvus 在 To...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重要变更：Android App Bundle 的未来计划]]></title>
+        <id>https://www.oschina.net/news/149436</id>
+        <link href="https://www.oschina.net/news/149436"/>
+        <updated>2021-07-07T08:08:33.000Z</updated>
+        <summary type="html"><![CDATA[作者 / Google Play 产品经理 Dom Elliott 自 2018 年 5 月发布 Android App Bundle 以来，我们见证了开发者社区积极拥护这一全新发布格式，并受益于其简化的发布管理和高级分发功能。现在，有逾一百万款正式版应用在使用 App Bundle，Google Play 上排名前 1,000 的大多数应用和游戏均在此列，例如 Adobe、Duolingo、G...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>
@@ -12346,16 +12392,6 @@ GopherChina 倒计时 19 天 Gopher China 大会志愿者招募启动 https://mp
         <summary type="html"><![CDATA[EMQ X Kuiper 是 Golang 实现的轻量级物联网边缘分析、流式处理开源软件，可以运行在各类资源受限的边缘设备上。]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use OpenCV and Python for Computer Vision and AI]]></title>
-        <id>60be863cd3126007592d4c36</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-opencv-and-python-for-computer-vision-and-ai/"/>
-        <updated>2021-06-07T20:54:41.000Z</updated>
-        <summary type="html"><![CDATA[OpenCV is a popular Python library for real-time computer vision. We just released a new OpenCV course on the freeCodeCamp.org YouTube channel. This course comes directly from the creators of OpenCV and is the perfect course for beginners.  You will learn how to use OpenCV for Computer Vision and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
