@@ -697,15 +697,6 @@
           "publishedOn": "2021-06-07T18:18:01.000Z",
           "wordCount": 1597,
           "title": "How to Use Closures in JavaScript – A Beginner&#x27;s Guide"
-        },
-        {
-          "id": "60b136d911ffb70827ef912b",
-          "author": null,
-          "description": "ngClass is a directive in Angular that adds and removes CSS classes on an HTML element. In this article, we are talking about ngClass in Angular only, not ng-class in angular.js. Prerequisites – What is Property Binding?Two things we have to understand first are property binding and interpolation in",
-          "link": "https://www.freecodecamp.org/news/angular-ngclass-example/",
-          "publishedOn": "2021-06-07T15:01:26.000Z",
-          "wordCount": 1547,
-          "title": "Angular NgClass Example – How to Add Conditional CSS Classes"
         }
       ]
     },
@@ -8030,6 +8021,33 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=53045",
+          "author": "大眼仔~旭",
+          "description": "当人们做出软件选择时，安全性通常是他们优先考虑的首要事项。 如果不是，它应该是！ 然而，他们通常想知道闭源代码 […]",
+          "link": "http://www.dayanzai.me/is-open-source-software-safe.html",
+          "publishedOn": "2021-07-07T02:36:11.000Z",
+          "wordCount": 504,
+          "title": "您使用的免费开源软件到底安不安全？"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=53040",
+          "author": "大眼仔~旭",
+          "description": "在当今世界，越来越清楚的是，技术是任何行业前进的唯一途径，而软件则是这一切的中心。 尽管软件实际上已经改变了几 […]",
+          "link": "http://www.dayanzai.me/green-software-foundation.html",
+          "publishedOn": "2021-07-07T01:39:45.000Z",
+          "wordCount": 483,
+          "title": "什么是微软的绿色软件基金会？"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=5236",
+          "author": "大眼仔~旭",
+          "description": "Sumatra PDF 中文版由大眼仔旭（www.dayanzai.me）发布。轻量级 PDF 阅读工具 Su […]",
+          "link": "http://www.dayanzai.me/sumatra-pdf.html",
+          "publishedOn": "2021-07-06T16:23:28.000Z",
+          "wordCount": 792,
+          "title": "轻量级 PDF 阅读工具 Sumatra PDF 3.3 + x64 + Portable 中文版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=53037",
           "author": "大眼仔~旭",
