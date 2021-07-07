@@ -670,15 +670,6 @@
           "publishedOn": "2021-06-08T16:02:45.000Z",
           "wordCount": 2548,
           "title": "Complete CSS Grid Tutorial with Cheat Sheet 🎖️"
-        },
-        {
-          "id": "60bbd28eacb62507dd1d99fb",
-          "author": null,
-          "description": "Learn how to build full stack serverless apps with Supabase and Next.js.",
-          "link": "https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/",
-          "publishedOn": "2021-06-07T23:33:30.000Z",
-          "wordCount": 3567,
-          "title": "How to Build a Full Stack App with Supabase and Next.js"
         }
       ]
     },
@@ -1700,6 +1691,15 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=87276",
+          "author": "Editor, Kai",
+          "description": "国内半导体行业俨然一片欣欣向荣的态势，而要打造出世界级的产品，必然少不了人才，尤其是行业大牛。 今日（7月7日），壁仞科技（Birentech）宣布，陈文中正式加入，担任公司高级副总裁。他将主要负责芯片技术研发与管理工作，带领团队打造具有领 […]",
+          "link": "http://www.linuxeden.com/a/87276",
+          "publishedOn": "2021-07-07T11:30:14.000Z",
+          "wordCount": 85,
+          "title": "为AMD研发9款芯片的大牛加盟国产GPU公司：打造原创世界级产品"
+        },
         {
           "id": "http://www.linuxeden.com/?p=87270",
           "author": "Editor, Kai",
@@ -4470,6 +4470,15 @@
       "feedUrl": "http://feed.appinn.com",
       "siteUrl": "https://www.appinn.com",
       "articles": [
+        {
+          "id": "https://www.appinn.com/?p=39219",
+          "author": "开发者推荐账号",
+          "description": "随着网络时代的发展与进步，我们的学习工作和生活早已离不开互联网，智能家居、网上购物、日常出行都需要互联网的支持。互联网切切实实地给生活带来了诸多便利。 那大家有没有碰到过这么一个情况呢？当我们在使用手",
+          "link": "https://www.appinn.com/what-does-404-mean-upyun/",
+          "publishedOn": "2021-07-07T12:01:56.000Z",
+          "wordCount": 1641,
+          "title": "【白话科普】上网时遇到的 404 是什么意思？"
+        },
         {
           "id": "https://www.appinn.com/?p=39215",
           "author": "青小蛙",
@@ -8040,42 +8049,6 @@
           "publishedOn": "2021-06-08T00:15:14.000Z",
           "wordCount": 1035,
           "title": "深入解析 Raft 模块在 ZNBase 中的优化改造（下）"
-        },
-        {
-          "id": "https://www.oschina.net/news/145080/wwdc-2021",
-          "author": null,
-          "description": "在刚刚结束的 WWDC2021 上，苹果宣布了 iOS 15、iPadOS 15 以及 macOS Monterey。具体的更新内容这里不再重复，本文主要介绍几个和开发者紧密相关的亮点。 Swift Playgrounds 4 支持编译 APP 用一句话概括此变化就是，可以用 iPad 写代码了。通过在 iPadOS 15 上使用新版本的 Swift Playgrounds，开发者可从头开始创建 ...",
-          "link": "https://www.oschina.net/news/145080/wwdc-2021",
-          "publishedOn": "2021-06-08T00:04:53.000Z",
-          "wordCount": 479,
-          "title": "WWDC2021 亮点：iPad 支持编译 APP、Xcode Cloud、Universal Control"
-        },
-        {
-          "id": "https://www.oschina.net/news/145079/qt-6-2-features-freeze",
-          "author": null,
-          "description": "根据邮件列表显示，Qt 6.2 已经进入功能冻结状态。 在去年年底 Qt 6.0 发布后，Qt 表示将压缩今年的发布周期，因此在 Qt 6.1 刚刚发布 1 个月后，Qt 6.2 就已经进入了功能冻结期。不过，由于 QML 的 cmake API 改动还没有完成，Qt 6.2 现在还不能展开新的分支，所以从 \"dev\" 到 \"6.2\" 的分支将在之后创建。此外，在 Qt M...",
-          "link": "https://www.oschina.net/news/145079/qt-6-2-features-freeze",
-          "publishedOn": "2021-06-07T23:58:30.000Z",
-          "wordCount": 497,
-          "title": "Qt 6.2 功能冻结，更多 Qt5 模块移植到 Qt6"
-        },
-        {
-          "id": "https://gitee.com/baidu/m-git",
-          "author": null,
-          "description": "MGit 是一款 Ruby 封装的基于 Git 的多仓库管理工具，可以高效的、同时的对多个 Git 仓库执行 Git 命令。 适合于在多个仓库中进行关联开发的项目，提高 Git 操作的效率，避免逐个执行 Git 命令带来的误操作风险。",
-          "link": "https://gitee.com/baidu/m-git",
-          "publishedOn": "2021-06-07T23:33:52.000Z",
-          "wordCount": 481,
-          "title": "Gitee 推荐 | 基于 Git 的多仓库管理工具 MGit"
-        },
-        {
-          "id": "https://www.oschina.net/p/kuiper",
-          "author": null,
-          "description": "EMQ X Kuiper 是 Golang 实现的轻量级物联网边缘分析、流式处理开源软件，可以运行在各类资源受限的边缘设备上。",
-          "link": "https://www.oschina.net/p/kuiper",
-          "publishedOn": "2021-06-07T23:25:43.000Z",
-          "wordCount": 827,
-          "title": "Kuiper ——  Go 实现的物联网边缘数据分析软件"
         }
       ]
     },
