@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T14:09:59.883Z</updated>
+    <updated>2021-07-07T15:13:00.081Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 07 07]]></title>
+        <id>http://www.linuxeden.com/?p=87290</id>
+        <link href="http://www.linuxeden.com/a/87290"/>
+        <updated>2021-07-07T14:11:03.000Z</updated>
+        <summary type="html"><![CDATA[Linux基金会成立Open 3D基金会：亚马逊贡献3D游戏引擎Lumberyard Apache Dubbo 3.0.1发布 为AMD研发9款芯片的大牛加盟国产GPU公司：打造原创世界级产品 使用 Tokei 查看有关代码的统计信息 如何 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux基金会成立Open 3D基金会：亚马逊贡献3D游戏引擎Lumberyard]]></title>
         <id>http://www.linuxeden.com/?p=87284</id>
@@ -12248,50 +12258,6 @@ func TestA(t *testing.T) {
         <summary type="html"><![CDATA[Atom 是由 GitHub 开发的免费文本和源代码编辑器。 它是一个开源文本编辑器，大多数操作系统都支持它， […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何禁用网页上的文本选择、剪切、复制、粘贴和右键单击功能]]></title>
-        <id>http://www.dayanzai.me/?p=52430</id>
-        <link href="http://www.dayanzai.me/dont-copy-the-page.html"/>
-        <updated>2021-06-08T02:31:48.000Z</updated>
-        <summary type="html"><![CDATA[如果您想防止其他人从您的网站上窃取内容，您可以借助 CSS、JavaScript 和 jQuery 在一定程度 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-08)]]></title>
-        <id>https://gocn.vip/topics/12169</id>
-        <link href="https://gocn.vip/topics/12169"/>
-        <updated>2021-06-08T02:12:47.000Z</updated>
-        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-06-08)
-在 Golang 中创建自定义应用程序 logger https://jilsonfreddy.medium.com/create-a-custom-application-logger-in-golang-cdd11ba106d5
-
-在 Go 1.16+ 中构建 GUI 桌面应用程序 https://blog.ctrlshiftmake.com/build-tray-gui-desktop-application-go
-
-Go 实现为以太坊智能合约创建绑定 https://www.metachris.com/2021/05/creating-go-bindings-for-ethereum-smart-contracts/
-
-Go 中简单、可定制、分级且高效的日志记录 https://github.com/ermanimer/log
-
-Go 实现的发送原始 HTTP 请求的基准测试和压力测试工具 https://github.com/utkusen/reqstress
-
-
-
-
-
-GopherChina 倒计时 19 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ
-
-
-编辑: 李森森
-
-
-订阅新闻: http://tinyletter.com/gocn
-
-
-招聘专区: https://gocn.vip/jobs]]></summary>
-        <author>
-            <name>keke001</name>
         </author>
     </entry>
 </feed>
