@@ -1710,15 +1710,6 @@
           "publishedOn": "2021-06-08T02:12:47.000Z",
           "wordCount": 112,
           "title": "GoCN 每日新闻 (2021-06-08)"
-        },
-        {
-          "id": "https://gocn.vip/topics/12168",
-          "author": "alicloudnative",
-          "description": "作者｜丁宇\n\n今天，千行百业都在拥抱云计算和云原生，进行数字化创新和升级，云原生内涵得到了极大丰富，使得我们今天可以重新定义云原生。云原生技术的出现，有利于帮助开发者构建弹性扩展、容错性好、易于管理，便于观测的松耦合系统，代表技术 Kubernetes 、容器、 DevOps  、微服务、服务网格、 Serverless ，可以看到，这样的技术是一组应用层技术的集合，而云计算的传统优势是资源的池化，这种集约化管理，会带来弹性分布式和基于 API  自动化管理的能力，可以说云原生只有和云计算结合起来，才可以发挥真正的威力。\n​\n因云而生的云原生\n\n云原生技术和云计算结合起来是什么呢？就是我们今天说的云原生产品，今天的云平台提供了大量的云原生产品，包括大数据、数据库、容器服务、中间件、应用 PaaS 、云原生安全、开发者工具、音视频服务、弹性裸金属服务器等，因云而生的产品、软件、硬件、技术、架构才是真正的云原生。\n​\n云原生开启全云开发时代\n​\n\n今天我们认为云原生成为云计算的一次再升级。对于云平台来讲，以容器为代表的技术，成为了云计算新的服务界，面向开发者，向下能够封装基础设施，屏蔽异构环境的差异性，以阿里云容器服务 ACK 为例，能够向下封装三十款云产品，带来非常简单的使用界面；向上支持三十多款云产品，支持异构负载和架构。对于企业来讲，云原生正在加速企业的数字化创新，从基础设施云化、核心技术互联网化、应用架构现代化、业务数据化智能化四个方向发力，帮助企业实现业务创新。\n​\n今天云原生成为企业数字创新的最短路径和基石，对于开发者来讲，云原生重塑软件生命周期，一方面向下优化，实现软硬一体协同优化，降低技术成本，提升技术效率；另一方面向上支撑多种工作负载，让架构带来更多美好特性。关注云原生的朋友肯定知道， CNCF 已经有几百个项目，从整个应用的开发到具体的开发框架、开发工具 I…",
-          "link": "https://gocn.vip/topics/12168",
-          "publishedOn": "2021-06-07T12:42:48.000Z",
-          "wordCount": 287,
-          "title": "云原生推动全云开发与实践"
         }
       ]
     },
@@ -4489,51 +4480,6 @@
           "publishedOn": "2021-06-08T00:21:16.000Z",
           "wordCount": 920,
           "title": "Wine 维护版 6.0.1 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86221",
-          "author": "Editor, Kai",
-          "description": "Apache Johnzon 1.2.13 发布 用 Python 3.8 中的这个位置技巧让你的 API 变得更好 Linux 5.10 LTS 延长至六年支持期背后的故事 ARM CEO谈NVIDIA收购：芯片授权任何人都可以用 使用开 […]",
-          "link": "http://www.linuxeden.com/a/86221",
-          "publishedOn": "2021-06-07T13:55:29.000Z",
-          "wordCount": 111,
-          "title": "每日文章精选 2021 06 07"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86217",
-          "author": "Editor, Kai",
-          "description": "apache-johnzon-1.2.13-src.zip        2021-06-06 10:25  1.0M apache-johnzon-1.2.13-src.zip.asc    2021-06-06 10:25  488 a […]",
-          "link": "http://www.linuxeden.com/a/86217",
-          "publishedOn": "2021-06-07T13:48:03.000Z",
-          "wordCount": 99,
-          "title": "Apache  Johnzon 1.2.13 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86215",
-          "author": "Editor, Kai",
-          "description": "索只接受位置参数和其他两个未被充分利用但仍然有用的 Python 特性。 这是 Python 3.x 首发特性系列文章的第九篇。Python 3.8 于 2019 年首次发布，两年后，它的许多很酷的新特性仍然没有被使用。下面是其中的三个。  […]",
-          "link": "http://www.linuxeden.com/a/86215",
-          "publishedOn": "2021-06-07T13:28:43.000Z",
-          "wordCount": 224,
-          "title": "用 Python 3.8 中的这个位置技巧让你的 API 变得更好"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86209",
-          "author": "Editor, Kai",
-          "description": "可能你已经知道原计划支持 2 年的 Linux 5.10 LTS 已经延长支持到 6 年了，但是你可能不知道是谁站出来提供了支持。 支持到 2026 年的 Linux 5.10！ 去年年底，Linux 内核社区发布最新长期支持版本 Linu […]",
-          "link": "http://www.linuxeden.com/a/86209",
-          "publishedOn": "2021-06-07T13:27:19.000Z",
-          "wordCount": 339,
-          "title": "Linux 5.10 LTS 延长至六年支持期背后的故事"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86207",
-          "author": "Editor, Kai",
-          "description": "去年9月份NVIDIA宣布斥资400亿美元收购ARM公司，后者是全球最重要的芯片IP授权公司之一，基于ARM的CPU处理器是智能手机、平板芯片几乎唯一的选择。 NVIDIA收购ARM公司还需要全球多个国家的反垄断审批，前不久NVIDIA C […]",
-          "link": "http://www.linuxeden.com/a/86207",
-          "publishedOn": "2021-06-07T13:23:20.000Z",
-          "wordCount": 87,
-          "title": "ARM CEO谈NVIDIA收购：芯片授权任何人都可以用"
         }
       ]
     },
@@ -4900,6 +4846,24 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/149343/bittorrent-20yr",
+          "author": null,
+          "description": "2001年4月，25 岁的程序员 Bram Cohen 因其就职的网络公司的点对点创业项目 MojoNation 失败，便从中退出，开始专注于设计自己的 BitTorrent 文件共享协议，然后到了2001年7月2日，他在雅虎信息版上发布了第一个 BitTorrent 的可执行版本。初始版本的 BitTorrent 采用 Python 编写，遵循 MIT 许可证开源，并且免费提供。...",
+          "link": "https://www.oschina.net/news/149343/bittorrent-20yr",
+          "publishedOn": "2021-07-07T01:03:40.000Z",
+          "wordCount": 545,
+          "title": "BitTorrent 诞生二十周年，文件共享的革命者"
+        },
+        {
+          "id": "https://www.oschina.net/news/149339/o3df-established",
+          "author": null,
+          "description": "Linux 基金会宣布成立开放 3D 基金会（O3DF），以促进开发者在 3D 游戏和模拟技术方面的合作。 文中表示，开放 3D 基金会将支持那些推进与 3D 图形、渲染、创作和开发有关的能力的开源项目，而其管理的第一个项目来自于 Amazon 的 Lumberyard 游戏引擎。Lumberyard 游戏引擎最初是基于 CryEngine 的，现在其 Apache 2.0...",
+          "link": "https://www.oschina.net/news/149339/o3df-established",
+          "publishedOn": "2021-07-07T00:51:58.000Z",
+          "wordCount": 528,
+          "title": "开放 3D 基金会成立，Amazon 提供开放 3D 引擎"
+        },
         {
           "id": "https://www.oschina.net/question/2652412_2323095",
           "author": null,
