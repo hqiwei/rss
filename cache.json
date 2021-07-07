@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60d5ec446e1a1407b6b0bcae",
+          "author": null,
+          "description": "Binary search is a common algorithm used in programming languages and programs. It can be very useful for programmers to understand how it works. We just released a binary search course on the freeCodeCamp.org YouTube channel. You will learn how to implement binary search in C and C++, but",
+          "link": "https://www.freecodecamp.org/news/what-is-binary-search/",
+          "publishedOn": "2021-07-07T13:57:56.000Z",
+          "wordCount": 13488,
+          "title": "What is Binary Search?"
+        },
+        {
           "id": "60e16e1b134ad707be00d6bc",
           "author": null,
           "description": "In this article, I'm going to explain how to automatically upload an Android App Bundle (.aab file) to the Play Store's beta track. We'll use Android Studio and AWS as a cloud infrastructure provider.  Once we've uploaded the app bundle, we'll trigger a Slack notification.  This is a valuable use",
@@ -40,6 +49,15 @@
           "publishedOn": "2021-07-06T14:27:26.000Z",
           "wordCount": 2989,
           "title": "How to Schedule a Job in Node Using node-cron"
+        },
+        {
+          "id": "60df6dd827f80207bcdbcf06",
+          "author": null,
+          "description": "Earning the Certified Information Systems Security Professional (CISSP) Certification proves you have what it takes to effectively design, implement and manage a best-in-class cybersecurity program. The CISSP is one of the most valuable Cyber Security Certificates in the market today.  We just posted a 13-hour course on the freeCodeCamp.org",
+          "link": "https://www.freecodecamp.org/news/get-ready-to-pass-cissp-exam/",
+          "publishedOn": "2021-07-06T13:55:00.000Z",
+          "wordCount": 109640,
+          "title": "Get Ready to Pass CISSP Exam"
         },
         {
           "id": "60de3cf127f80207bcdbc9af",
@@ -1691,6 +1709,24 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=87284",
+          "author": "Editor, Kai",
+          "description": "Linux 基金会及其合作伙伴今天宣布，将成立 Open 3D Foundation，以帮助促进 3D 游戏和模拟技术。作为新基金会的重要成员，亚马逊宣布基于 CryEngine 的 Lumberyard 游戏引擎将会在 Apache 2. […]",
+          "link": "http://www.linuxeden.com/a/87284",
+          "publishedOn": "2021-07-07T14:06:14.000Z",
+          "wordCount": 131,
+          "title": "Linux基金会成立Open 3D基金会：亚马逊贡献3D游戏引擎Lumberyard"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87280",
+          "author": "Editor, Kai",
+          "description": "apache-dubbo-3.0.1-src.zip        2021-07-06 08:05  4.6M apache-dubbo-3.0.1-src.zip.asc    2021-07-06 08:05  833 apache- […]",
+          "link": "http://www.linuxeden.com/a/87280",
+          "publishedOn": "2021-07-07T13:56:38.000Z",
+          "wordCount": 97,
+          "title": "Apache Dubbo 3.0.1发布"
+        },
         {
           "id": "http://www.linuxeden.com/?p=87276",
           "author": "Editor, Kai",
@@ -7932,15 +7968,6 @@
           "publishedOn": "2021-06-08T07:02:14.000Z",
           "wordCount": 509,
           "title": "EdgeX Foundry 成立四周年！"
-        },
-        {
-          "id": "https://www.oschina.net/news/145093/go-fuzz-beta",
-          "author": null,
-          "description": "Go 团队宣布原生的 fuzzing（模糊测试）功能已准备好在其开发分支 dev.fuzz 上进行 Beta 测试。 Fuzzing 属于自动化测试，它通过持续控制程序的输入来暴露诸如 panic 或 bug 之类的错误。这些半随机的数据突变可以发现现有单元测试可能遗漏的新代码覆盖范围，以及很难被注意到的边缘案例的错误。由于模糊测试可以触达这些...",
-          "link": "https://www.oschina.net/news/145093/go-fuzz-beta",
-          "publishedOn": "2021-06-08T01:26:59.000Z",
-          "wordCount": 474,
-          "title": "Go Fuzzing 进入 Beta 测试阶段"
         }
       ]
     },
