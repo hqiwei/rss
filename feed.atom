@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T23:09:27.122Z</updated>
+    <updated>2021-07-07T00:31:06.510Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 07 07]]></title>
+        <id>http://www.linuxeden.com/?p=87270</id>
+        <link href="http://www.linuxeden.com/a/87270"/>
+        <updated>2021-07-07T00:23:52.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 07 07]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Tokei 查看有关代码的统计信息]]></title>
+        <id>http://www.linuxeden.com/?p=87267</id>
+        <link href="http://www.linuxeden.com/a/87267"/>
+        <updated>2021-07-07T00:17:42.000Z</updated>
+        <summary type="html"><![CDATA[了解有关项目编程语言的详细信息。 近来，GitHub 添加了一个小指标来展示项目的细节，包括项目使用的编程语言。在这之前，对一个新的贡献者来说，了解他们感兴趣的项目的信息是较为困难的。 这个补充很有帮助，但是如果您想知道有关本地存储库中项目 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qt 6.2 Beta 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87265</id>
+        <link href="http://www.linuxeden.com/a/87265"/>
+        <updated>2021-07-07T00:13:59.000Z</updated>
+        <summary type="html"><![CDATA[I am pleased to announce that we released the first Qt 6.2 Beta today. Qt 6.2 includes all widely used Qt add-on modules […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electron  12.0.14 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87263</id>
+        <link href="http://www.linuxeden.com/a/87263"/>
+        <updated>2021-07-07T00:11:55.000Z</updated>
+        <summary type="html"><![CDATA[Release Notes for v12.0.14 Fixes Fixed requestFullscreen inside webview does not make the element take fullscreen. #2998 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nginx 1.21.1  发布]]></title>
+        <id>http://www.linuxeden.com/?p=87261</id>
+        <link href="http://www.linuxeden.com/a/87261"/>
+        <updated>2021-07-07T00:08:52.000Z</updated>
+        <summary type="html"><![CDATA[Changes with nginx 1.21.1                                        06 Jul 2021 *) Change: now nginx always returns an erro […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 5.22.3, Bugfix Release for July]]></title>
+        <id>http://www.linuxeden.com/?p=87259</id>
+        <link href="http://www.linuxeden.com/a/87259"/>
+        <updated>2021-07-07T00:02:59.000Z</updated>
+        <summary type="html"><![CDATA[Tuesday, 6 July 2021. Today KDE releases a bugfix update to KDE Plasma 5, versioned 5.22.3. Plasma 5.22 was released in  […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker 的副本与 Docker 搭建的集群是什么关系？]]></title>
+        <id>https://www.oschina.net/question/2652412_2323095</id>
+        <link href="https://www.oschina.net/question/2652412_2323095"/>
+        <updated>2021-07-06T23:25:04.000Z</updated>
+        <summary type="html"><![CDATA[如果我用一个 nacos 在 swarm 中开启多个副本和正常的 nacos 集群有什么区别？]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 21.10 Impish Indri 将于 10 月 14 发布]]></title>
+        <id>https://www.oschina.net/news/149335/ubuntu-21-10-release-date-and-features</id>
+        <link href="https://www.oschina.net/news/149335/ubuntu-21-10-release-date-and-features"/>
+        <updated>2021-07-06T23:22:03.000Z</updated>
+        <summary type="html"><![CDATA[Ubuntu 官方公布了其 21.10 版本的详细版本计划，包括代号、发布日期和计划功能等内容。 正如今年早些时候透露的那样，Ubuntu 21.10 的代号是 “Impish Indri”，这是第二个以字母 “I” 开头的动物命名的版本。文中表示，作为短期支持版本，Ubuntu 21.10 将获得 9 个月的支持，其中包含主要错误修复、关键安全补丁和主要...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitee 悬赏 | 将木兰源码转换为 Python]]></title>
+        <id>https://gitee.com/MulanRevive/mulan-rework/issues/I3QIEL</id>
+        <link href="https://gitee.com/MulanRevive/mulan-rework/issues/I3QIEL"/>
+        <updated>2021-07-06T23:18:56.000Z</updated>
+        <summary type="html"><![CDATA[即从木兰源码文件可以生成对应的 Python 源码文件]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[专访张晋涛：从 Web 开发者到中国首位 K8s ingress-nginx reviewer]]></title>
+        <id>https://www.oschina.net/question/4489239_2323127</id>
+        <link href="https://www.oschina.net/question/4489239_2323127"/>
+        <updated>2021-07-06T23:14:26.000Z</updated>
+        <summary type="html"><![CDATA[来自支流科技的工程师张晋涛被添加为 Kubernetes ingress-nginx 项目的 reviewer，这也是首位来自中国的 Kubernetes Ingress Controller reviewer。借此机会，OSCHINA 邀请张晋涛做客「开源访谈」，请他聊聊自己的经历。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DataEase —— 开源数据可视化分析平台]]></title>
+        <id>https://www.oschina.net/p/dataease</id>
+        <link href="https://www.oschina.net/p/dataease"/>
+        <updated>2021-07-06T23:11:48.000Z</updated>
+        <summary type="html"><![CDATA[DataEase 是人人可用的开源数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化。DataEase 支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stockfish 14 正式发布，开源国际象棋引擎]]></title>
         <id>https://www.oschina.net/news/149331/stockfish-14-released</id>
@@ -12219,36 +12329,6 @@ GopherChina 倒计时 19 天 Gopher China 大会志愿者招募启动 https://mp
 今天云原生成为企业数字创新的最短路径和基石，对于开发者来讲，云原生重塑软件生命周期，一方面向下优化，实现软硬一体协同优化，降低技术成本，提升技术效率；另一方面向上支撑多种工作负载，让架构带来更多美好特性。关注云原生的朋友肯定知道， CNCF 已经有几百个项目，从整个应用的开发到具体的开发框架、开发工具 I…]]></summary>
         <author>
             <name>alicloudnative</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[refline.js 0.5.0 发布，通用的设计器参考线组件]]></title>
-        <id>https://www.oschina.net/news/145029/refline-js-0-5-0-released</id>
-        <link href="https://www.oschina.net/news/145029/refline-js-0-5-0-released"/>
-        <updated>2021-06-07T12:09:42.000Z</updated>
-        <summary type="html"><![CDATA[refline.js是完全不依赖设计器环境的参考线组件，方便各种设计器快速接入，支持参考线及吸附功能。 项目地址： https://github.com/refline/refline.js 更新内容： 支持参考线对齐匹配 支持参考线吸附 操作优化：小于1px的吸附逻辑 体验地址：codesandbox 示例：...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EMQ 边缘计算领域又一里程碑！Kuiper 正式加入 LF Edge 基金会]]></title>
-        <id>https://www.oschina.net/news/145027/kuiper-joins-lf-edge</id>
-        <link href="https://www.oschina.net/news/145027/kuiper-joins-lf-edge"/>
-        <updated>2021-06-07T11:52:18.000Z</updated>
-        <summary type="html"><![CDATA[近日，经 LF Edge 委员会投票决议，EMQ 旗下的开源项目 EMQ X Kuiper（以下简称 Kuiper）作为「Stage 1 - At Large」正式加入 LF Edge 基金会。 关于 LF Edge LF Edge 是 Linux 基金会于 2019 年宣布成立的针对边缘计算的基金会，旨在为边缘计算的各种应用类型制定统一的软件堆栈、术语定义及开发框架，促进边缘计算领域...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ReadMark alpha – 轻芒杂志新产品，带马克「Mark」功能的 RSS 阅读器]]></title>
-        <id>https://www.appinn.com/?p=38972</id>
-        <link href="https://www.appinn.com/readmark-alpha/"/>
-        <updated>2021-06-07T11:45:32.000Z</updated>
-        <summary type="html"><![CDATA[ReadMark 是由轻芒杂志团队发布的一款针对非中文用户，带有马克「Mark」功能的 RSS 阅读器，作为一款出海产品，目前的 ReadMark 还在 alpha 内测阶段，今天应该有不少同学拿到了]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
 </feed>
