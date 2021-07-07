@@ -4838,6 +4838,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/149437",
+          "author": null,
+          "description": "#June Z星月度速览 Milvus 发布 2.0 新版本，重新定义向量数据库 向量数据库 Milvus 从顶级开源基金会 LF AI & Data 毕业 基于 KubeSphere 容器平台，一键可视化部署 Milvus 向量数据库 丁香园基于 Milvus 的向量召回应用，极大提高开发部署效率 Milvus 在唯品会搜索推荐的实践，搭建高效电商搜索推荐系统 Milvus 在 To...",
+          "link": "https://www.oschina.net/news/149437",
+          "publishedOn": "2021-07-07T08:09:43.000Z",
+          "wordCount": 611,
+          "title": "六月Z星月度速览：Milvus 发布2.0新版本、Milvus 从顶级开源基金会 LF AI & Data 毕业……"
+        },
+        {
           "id": "https://www.oschina.net/news/149402",
           "author": null,
           "description": "关于 Apache Pulsar Apache Pulsar 是 Apache 软件基金会顶级项目，是下一代云原生分布式消息流平台，集消息、存储、轻量化函数式计算为一体，采用计算与存储分离架构设计，支持多租户、持久化存储、多机房跨区域数据复制，具有强一致性、高吞吐、低延时及高可扩展性等流数据存储特性。 GitHub 地址：http://github.com...",

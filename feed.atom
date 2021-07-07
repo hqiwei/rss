@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T07:08:37.844Z</updated>
+    <updated>2021-07-07T08:10:46.392Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[六月Z星月度速览：Milvus 发布2.0新版本、Milvus 从顶级开源基金会 LF AI & Data 毕业……]]></title>
+        <id>https://www.oschina.net/news/149437</id>
+        <link href="https://www.oschina.net/news/149437"/>
+        <updated>2021-07-07T08:09:43.000Z</updated>
+        <summary type="html"><![CDATA[#June Z星月度速览 Milvus 发布 2.0 新版本，重新定义向量数据库 向量数据库 Milvus 从顶级开源基金会 LF AI & Data 毕业 基于 KubeSphere 容器平台，一键可视化部署 Milvus 向量数据库 丁香园基于 Milvus 的向量召回应用，极大提高开发部署效率 Milvus 在唯品会搜索推荐的实践，搭建高效电商搜索推荐系统 Milvus 在 To...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apache Pulsar 生态项目 RocketMQ-on-Pulsar 新增 3 位腾讯 Maintainer]]></title>
         <id>https://www.oschina.net/news/149402</id>
