@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T12:14:12.321Z</updated>
+    <updated>2021-07-07T13:16:46.964Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12260,126 +12260,6 @@ GopherChina 倒计时 19 天 Gopher China 大会志愿者招募启动 https://mp
         <link href="https://www.oschina.net/news/145093/go-fuzz-beta"/>
         <updated>2021-06-08T01:26:59.000Z</updated>
         <summary type="html"><![CDATA[Go 团队宣布原生的 fuzzing（模糊测试）功能已准备好在其开发分支 dev.fuzz 上进行 Beta 测试。 Fuzzing 属于自动化测试，它通过持续控制程序的输入来暴露诸如 panic 或 bug 之类的错误。这些半随机的数据突变可以发现现有单元测试可能遗漏的新代码覆盖范围，以及很难被注意到的边缘案例的错误。由于模糊测试可以触达这些...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源大佬除了 Linus 还有谁？来「开源长廊」告诉大家吧]]></title>
-        <id>https://gitee.com/h4cd/gotc-open-source-gallery</id>
-        <link href="https://gitee.com/h4cd/gotc-open-source-gallery"/>
-        <updated>2021-06-08T00:45:53.000Z</updated>
-        <summary type="html"><![CDATA[欢迎来这幅史无前例的开源画卷上留下浓墨重彩的一笔！]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源美图 2021 06 08]]></title>
-        <id>http://www.linuxeden.com/?p=86237</id>
-        <link href="http://www.linuxeden.com/a/86237"/>
-        <updated>2021-06-08T00:31:45.000Z</updated>
-        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 06 08]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Torvalds 继续反对在编译 Linux 内核时使用 -O3 优化标志]]></title>
-        <id>http://www.linuxeden.com/?p=86234</id>
-        <link href="http://www.linuxeden.com/a/86234"/>
-        <updated>2021-06-08T00:30:49.000Z</updated>
-        <summary type="html"><![CDATA[由于 GCC 的较旧版本可能会在 -O3 编译器优化级别下产生坏的代码，而且有时没有性能上的好处，Linus Torvalds 仍然反对在编译 Linux 内核时使用这种优化标志。Torvalds 总结了他目前对 -O3 的看法：“它在历史 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seaweedfs 2.52 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86232</id>
-        <link href="http://www.linuxeden.com/a/86232"/>
-        <updated>2021-06-08T00:28:41.000Z</updated>
-        <summary type="html"><![CDATA[FUSE mount Support macfuse 4.x on MacOS Add current and parent directoreis . and .. #2105 Avoid file handle locking when […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qt 6.1.1 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86230</id>
-        <link href="http://www.linuxeden.com/a/86230"/>
-        <updated>2021-06-08T00:28:02.000Z</updated>
-        <summary type="html"><![CDATA[This first patch release to the Qt 6.1 series contains more than 150 bug fixes to the top of Qt 6.1.0 release. See more  […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wine 的 Wayland 驱动程序现在支持 Vulkan 等功能]]></title>
-        <id>https://www.oschina.net/news/145084/wine-wayland-support-vulkan</id>
-        <link href="https://www.oschina.net/news/145084/wine-wayland-support-vulkan"/>
-        <updated>2021-06-08T00:27:30.000Z</updated>
-        <summary type="html"><![CDATA[根据邮件列表显示，Wine 的实验性 Wayland 驱动现在支持 Vulkan、多显示器设置、HiDPI、光标剪切以及 Wayland 键盘图等功能。 与 X11 等传统显示系统相比，Wayland 协议在设计上受到更多的限制，因此 Wine 的实验性 Wayland 驱动于去年年底提出，该驱动允许用户直接在 Wayland 合成器上运行 Windows GDI 和 OpenGL 应用程...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue 3.1.0 Pluto\3.1.1发布]]></title>
-        <id>http://www.linuxeden.com/?p=86228</id>
-        <link href="http://www.linuxeden.com/a/86228"/>
-        <updated>2021-06-08T00:25:49.000Z</updated>
-        <summary type="html"><![CDATA[3.1.0 Features Migration Build: a build of Vue 3 that provides Vue 2 compatible behavior. The Migration Build is intende […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ant Design 4.16.2 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86226</id>
-        <link href="http://www.linuxeden.com/a/86226"/>
-        <updated>2021-06-08T00:23:43.000Z</updated>
-        <summary type="html"><![CDATA[Fix Menu auto overflow with horizontal mod breaks by float element. #30879 Typography Fix the problem that Typography.Pa […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wine 维护版 6.0.1 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86224</id>
-        <link href="http://www.linuxeden.com/a/86224"/>
-        <updated>2021-06-08T00:21:16.000Z</updated>
-        <summary type="html"><![CDATA[What’s new in this release (see below for details): – Various bug fixes – Add support for wine64 on Ap […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深度学习模型库入门：个性化推荐-SSR]]></title>
-        <id>https://www.paddlepaddle.org.cn/modelbasedetail/ssr</id>
-        <link href="https://www.paddlepaddle.org.cn/modelbasedetail/ssr"/>
-        <updated>2021-06-08T00:20:51.000Z</updated>
-        <summary type="html"><![CDATA[Sequence Semantic Retrieval （SSR）解决了 GRU4Rec 模型无法预测训练数据集中不存在的项目，比如新闻推荐的问题。模型与 Multi-Rate Deep Learning for Temporal Recommendation 有相似的概念。它由两个部分组成：一个是匹配模型部分，另一个是检索部分。...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevUI —— 华为云开源的企业级 UI 组件库]]></title>
-        <id>https://www.oschina.net/news/145082/devui-on-gotc</id>
-        <link href="https://www.oschina.net/news/145082/devui-on-gotc"/>
-        <updated>2021-06-08T00:19:28.000Z</updated>
-        <summary type="html"><![CDATA[DevUI 是华为云开源的企业级 UI 组件库，它从华为云 DevCloud 研发工具体系孵化而来。其官网的介绍写道： “DevUI Design 可以让开发人员专门专注于应用逻辑的思考，而设计人员专注于用户体验，交互和流程。” DevUI 基于 Angular 框架，提供了功能强大、场景丰富的多种组件，如 Tree、Table 等。DevUI 倡导沉浸、灵活、...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深入解析 Raft 模块在 ZNBase 中的优化改造（下）]]></title>
-        <id>https://my.oschina.net/u/5148943/blog/5063434</id>
-        <link href="https://my.oschina.net/u/5148943/blog/5063434"/>
-        <updated>2021-06-08T00:15:14.000Z</updated>
-        <summary type="html"><![CDATA[本文将着重介绍新增 Leader 亲和选举、混合序列化、Raft Log 分离与定制存储、Raft 心跳与数据分离这四大优化改进。]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>
