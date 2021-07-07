@@ -688,15 +688,6 @@
           "publishedOn": "2021-06-07T20:54:41.000Z",
           "wordCount": 439,
           "title": "How to Use OpenCV and Python for Computer Vision and AI"
-        },
-        {
-          "id": "5ff625967af2371468bb8645",
-          "author": null,
-          "description": "Closures are a confusing JavaScript concept to learn, because it's hard to see how they're actually used.  Unlike other concepts such as functions, variables, and objects, you don't always use closures conscientiously and directly. You don't say: Oh! Here I will use a closure as a solution. But at the",
-          "link": "https://www.freecodecamp.org/news/closures-in-javascript/",
-          "publishedOn": "2021-06-07T18:18:01.000Z",
-          "wordCount": 1597,
-          "title": "How to Use Closures in JavaScript – A Beginner&#x27;s Guide"
         }
       ]
     },
@@ -4847,6 +4838,24 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/149402",
+          "author": null,
+          "description": "关于 Apache Pulsar Apache Pulsar 是 Apache 软件基金会顶级项目，是下一代云原生分布式消息流平台，集消息、存储、轻量化函数式计算为一体，采用计算与存储分离架构设计，支持多租户、持久化存储、多机房跨区域数据复制，具有强一致性、高吞吐、低延时及高可扩展性等流数据存储特性。 GitHub 地址：http://github.com...",
+          "link": "https://www.oschina.net/news/149402",
+          "publishedOn": "2021-07-07T06:27:53.000Z",
+          "wordCount": 661,
+          "title": "Apache Pulsar 生态项目 RocketMQ-on-Pulsar 新增 3 位腾讯 Maintainer"
+        },
+        {
+          "id": "https://www.oschina.net/news/149399",
+          "author": null,
+          "description": "与 Adobe、AWS、华为、Niantic 和红帽等 20 多家创始成员共同成立新开放 3D 基金会，加快开发者在 AAA 游戏和高保真模拟 3D 引擎开发方面的合作。 加州旧金山，2021 年 7 月 6 日——Linux 基金会，一个通过开源实现大规模创新的非营利组织，今天宣布了成立开放 3D 基金会[1]的意图，以加速 3D 游戏和模拟技术的开发者合...",
+          "link": "https://www.oschina.net/news/149399",
+          "publishedOn": "2021-07-07T06:22:22.000Z",
+          "wordCount": 612,
+          "title": "Linux 基金会将成立新的开放 3D 基金会"
+        },
+        {
           "id": "https://www.oschina.net/news/149389/elasticjob-3-0-0-released",
           "author": null,
           "description": "ElasticJob 是面向互联网生态和海量任务的分布式调度解决方案，由两个相互独立的子项目 ElasticJob-Lite 和 ElasticJob-Cloud 组成。它通过弹性调度、资源管控、以及作业治理的功能，打造一个适用于互联网场景的分布式调度解决方案，并通过开放的架构设计，提供多元化的作业生态。ElasticJob 的各个产品使用统一的作业 ...",
@@ -8065,6 +8074,15 @@
           "publishedOn": "2021-07-06T16:23:28.000Z",
           "wordCount": 792,
           "title": "轻量级 PDF 阅读工具 Sumatra PDF 3.3 + x64 + Portable 中文版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=1703",
+          "author": "大眼仔~旭",
+          "description": "Windows 终端仿真器 NxShell 中文版由大眼仔旭（www.dayanzai.me）整理发布。NxS […]",
+          "link": "http://www.dayanzai.me/nxshell.html",
+          "publishedOn": "2021-07-06T16:18:12.000Z",
+          "wordCount": 526,
+          "title": "开源免费 Windows 终端仿真器 NxShell 1.3.0 中文多语免费版"
         },
         {
           "id": "http://www.dayanzai.me/?p=3533",
