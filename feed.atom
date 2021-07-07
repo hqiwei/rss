@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T10:10:42.428Z</updated>
+    <updated>2021-07-07T11:07:53.699Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="https://www.oschina.net/news/149470"/>
         <updated>2021-07-07T10:02:46.000Z</updated>
         <summary type="html"><![CDATA[FCES2021将于2021年7月16日-17日在江苏常州举行，峰会主题是“开源文化与计算机教育”。为期两天的峰会包括特邀报告、观点报告和大会论坛，以及分论坛。与会专家将围绕计算机开源和教育的方方面面展开讨论。大会主席是CCF会士、中国科学院院士、国防科技大学教授王怀民。 即刻识别下方二维码或点击文末“阅读原文”注册报...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[官宣！ElasticJob 3.0.0 版本正式发布]]></title>
+        <id>https://www.oschina.net/news/149467/elasticjob-3-0-0-released</id>
+        <link href="https://www.oschina.net/news/149467/elasticjob-3-0-0-released"/>
+        <updated>2021-07-07T09:51:09.000Z</updated>
+        <summary type="html"><![CDATA[ElasticJob 是面向互联网生态和海量任务的分布式调度解决方案，由两个相互独立的子项目 ElasticJob-Lite 和 ElasticJob-Cloud 组成。它通过弹性调度、资源管控、以及作业治理的功能，打造一个适用于互联网场景的分布式调度解决方案，并通过开放的架构设计，提供多元化的作业生态。ElasticJob 的各个产品使用统一的作业 ...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>

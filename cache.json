@@ -4847,6 +4847,15 @@
           "title": "FCES2021 分论坛预告：CCF 开源发展"
         },
         {
+          "id": "https://www.oschina.net/news/149467/elasticjob-3-0-0-released",
+          "author": null,
+          "description": "ElasticJob 是面向互联网生态和海量任务的分布式调度解决方案，由两个相互独立的子项目 ElasticJob-Lite 和 ElasticJob-Cloud 组成。它通过弹性调度、资源管控、以及作业治理的功能，打造一个适用于互联网场景的分布式调度解决方案，并通过开放的架构设计，提供多元化的作业生态。ElasticJob 的各个产品使用统一的作业 ...",
+          "link": "https://www.oschina.net/news/149467/elasticjob-3-0-0-released",
+          "publishedOn": "2021-07-07T09:51:09.000Z",
+          "wordCount": 545,
+          "title": "官宣！ElasticJob 3.0.0 版本正式发布"
+        },
+        {
           "id": "https://www.oschina.net/news/149437",
           "author": null,
           "description": "#June Z星月度速览 Milvus 发布 2.0 新版本，重新定义向量数据库 向量数据库 Milvus 从顶级开源基金会 LF AI & Data 毕业 基于 KubeSphere 容器平台，一键可视化部署 Milvus 向量数据库 丁香园基于 Milvus 的向量召回应用，极大提高开发部署效率 Milvus 在唯品会搜索推荐的实践，搭建高效电商搜索推荐系统 Milvus 在 To...",
