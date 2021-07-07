@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T15:13:00.081Z</updated>
+    <updated>2021-07-07T16:19:44.727Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Interview Prep Cheatsheet – Ace Your Coding Interviews with These Concepts]]></title>
+        <id>60c38e76d3126007592d66cd</id>
+        <link href="https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/"/>
+        <updated>2021-07-07T15:43:17.000Z</updated>
+        <summary type="html"><![CDATA[I've carefully gone through over 50 resources, I've been through 10 JavaScript interviews, and I've landed a job at a unicorn startup. And throughout this entire process, I started to see a pattern in the most frequently asked JS interview questions.  In this article, I have tried to list the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日文章精选 2021 07 07]]></title>
         <id>http://www.linuxeden.com/?p=87290</id>
@@ -1704,6 +1714,16 @@ Go 开发工程师 (薪资 15-30K，工作地点：北京）
 简历可发到：limanxian@baimaohui.net]]></summary>
         <author>
             <name>helloshaohua</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Format Dates in JavaScript with One Line of Code]]></title>
+        <id>60df127a27f80207bcdbcac9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-format-dates-in-javascript/"/>
+        <updated>2021-07-03T06:24:00.000Z</updated>
+        <summary type="html"><![CDATA[For a long time, I've used libraries like Date-fns whenever I need to format dates in JavaScript. But it gets really weird whenever I do this in small projects that require simple date formats which JavaScript offers by default. I discovered that most developers do this a lot. And I]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -12248,16 +12268,6 @@ func TestA(t *testing.T) {
         <summary type="html"><![CDATA[BundleHunt 是老牌的 macOS 软件捆绑包销售商，只需要低廉的入场门票，即可挑选特价软件授权。比如这次名为2021 Epic macOS Bundle! 的捆绑包，就包含了 51 款兼容最]]></summary>
         <author>
             <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[适用于 Windows、Mac 和 Linux 的 Atom 键盘快捷键备忘单]]></title>
-        <id>http://www.dayanzai.me/?p=52444</id>
-        <link href="http://www.dayanzai.me/atom-keyboard-shortcuts.html"/>
-        <updated>2021-06-08T03:35:46.000Z</updated>
-        <summary type="html"><![CDATA[Atom 是由 GitHub 开发的免费文本和源代码编辑器。 它是一个开源文本编辑器，大多数操作系统都支持它， […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
         </author>
     </entry>
 </feed>
