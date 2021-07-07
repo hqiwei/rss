@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T05:08:07.634Z</updated>
+    <updated>2021-07-07T06:11:44.832Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WindowSwap – 云开窗，即刻看到世界某个地方的真实窗外视频]]></title>
+        <id>https://www.appinn.com/?p=39215</id>
+        <link href="https://www.appinn.com/windowswap-online/"/>
+        <updated>2021-07-07T05:31:19.000Z</updated>
+        <summary type="html"><![CDATA[WindowSwap 是一个网页服务，每次打开它，就能即刻看到世界某个地方的真实窗外视频，带有声音，让你云开窗。@Appinn 感谢 @Newlearnerの自留地 频道的推荐。 终于可以看到别人家的]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[官宣！ElasticJob 3.0.0 版本正式发布]]></title>
         <id>https://www.oschina.net/news/149389/elasticjob-3-0-0-released</id>
