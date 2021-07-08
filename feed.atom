@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T06:11:20.918Z</updated>
+    <updated>2021-07-08T07:08:45.081Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Doris Weekly：BE 端增加系统负载 (Load) 的监控指标]]></title>
+        <id>https://www.oschina.net/news/149604</id>
+        <link href="https://www.oschina.net/news/149604"/>
+        <updated>2021-07-08T06:27:23.000Z</updated>
+        <summary type="html"><![CDATA[观众朋友们： 下午好！ 欢迎收看【Doris近日要闻】~本次为您带来的是2021年06月21日～2021年07月04日的双周总结。 从本期开始，Doris 社区周报将新增 FAQ 环节。我们会在社区论坛、Github ISSUE、Dev邮件组以及微信用户群中挑选一些主要问题并在 FAQ 环节中进行解答。 Dev 邮件组：dev@doris.apache.org Github Issue：h...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[深圳] ANKER 招 golang 开发一名~]]></title>
         <id>https://gocn.vip/topics/12281</id>

@@ -4874,6 +4874,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/149604",
+          "author": null,
+          "description": "观众朋友们： 下午好！ 欢迎收看【Doris近日要闻】~本次为您带来的是2021年06月21日～2021年07月04日的双周总结。 从本期开始，Doris 社区周报将新增 FAQ 环节。我们会在社区论坛、Github ISSUE、Dev邮件组以及微信用户群中挑选一些主要问题并在 FAQ 环节中进行解答。 Dev 邮件组：dev@doris.apache.org Github Issue：h...",
+          "link": "https://www.oschina.net/news/149604",
+          "publishedOn": "2021-07-08T06:27:23.000Z",
+          "wordCount": 656,
+          "title": "Doris Weekly：BE 端增加系统负载 (Load) 的监控指标"
+        },
+        {
           "id": "https://www.oschina.net/news/149586",
           "author": null,
           "description": "近日，神策数据签署 CLA(Contributor License Agreement，贡献者许可协议)，正式加入 openEuler 社区。 神策数据（Sensors Data），全称神策网络科技（北京）有限公司，是国内专业的大数据分析和营销科技服务提供商，为企业提供神策营销云、神策分析云、神策数据根基平台三大产品方案，通过全渠道的数据采集与全域用户 ...",
