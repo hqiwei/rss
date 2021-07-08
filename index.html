@@ -92,6 +92,42 @@
       </li>
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://gocn.vip/">GoCN社区</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">go-carbon 1.4.1 版本发布，新增农历相关方法和韩语翻译文件</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12279">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>carbon 是一个轻量级、语义化、对开发者友好的 Golang 时间处理库，支持链式调用、农历和 gorm、xorm 等主流 orm
+如果您觉得不错，请给个 star 吧
+github:github.com/golang-module/carbon
+gitee:gitee.com/go-package/carbon
+更新日志
+新增韩语翻译文件 kr.json
+新增 Lunar().Year() 方法获取农历年年份
+新增 Lunar().Month() 方法获取农历月月份
+新增 Lunar().LeapMonth() 方法获取农历闰月月份
+新增 Lunar().Day() 方法获取农历日日期
+新增 Lunar().ToChineseYearString() 方法获取农历年字符串
+新增 Lunar().ToChineseMonthString() 方法获取农历月字符串
+新增 Lunar().ToChineseDayString() 方法获取农历日字符串
+新增 Lunar().ToGanZhiYearString() 方法获取干支纪年字符串
+新增 Lunar().ToGanZhiMonthString() 方法获取干支纪月字符串
+新增 Lunar().ToGanZhiDayString() 方法获取干支纪日字符串
+新增 Lunar().IsLeapYear() 方法判断是否是闰年
+新增 Lunar().IsLeapMonth() 方法判断是否是闰月
+修复 Tomorrow()、Yesterday()、AddMonths() 方法缺少时区的 bug
+database.go 文件拆分成 database.go 和 json.go 两个文件</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://www.oschina.net/news/rss">OSCHINA 社区最新新闻</a></h3>
           <section class="articles-per-source">
             <article>
@@ -539,6 +575,17 @@ GOCN 归档：https://gocn.vip/topics/12277</span>
                   <div class="article-summary-box-inner">
                     <span class="article-reading-time">(2 min)</span>
                     <span>此前的 Java 社区报告曾指出，Java 8 仍是开发人员使用的主要版本，新版本并未“得宠”。但 Snyk 近期发布的 JVM Ecosystem Report 2021 则指出，开发人员已经逐渐从 Java 8 迁移到了 Java 11。 JVM Ecosystem Report 2021 展示了关于 JVM 生态系统状态的最大年度调查的结果。该调查在 2021 年 2 月和 3 月的六周时间里进...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Proxmox VE 7.0 发布，服务器虚拟化管理平台</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.oschina.net/news/149520/proxmox-ve-7-0-released">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Proxmox VE 是一个开源的服务器虚拟化管理平台。Proxmox VE 基于 Debian，使用基于 Ubuntu 的定制内核，包含安装程序、网页控制台和命令行工具，并且向第三方工具提供了 REST API，Proxmox VE 支持两类虚拟化技术：基于容器的 LXC 和硬件抽象层全虚拟化的 KVM。 Proxmox VE 7.0 稳定版本正式发布，该版本中值得关注的更新...</span>
                   </div>
                 </a>
               </details>
@@ -14381,56 +14428,6 @@ Release:  https://github.com/seata/seata/releases
       </li>
       <li class="source">
         <section>
-          <h3 class="source-name"><a class="source-name__link" href="http://www.linuxeden.com">Linuxeden开源社区</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">每日文章精选 2021 06 08</summary>
-                <a class="article-summary-link article-summary-box-outer" href="http://www.linuxeden.com/a/86252">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>寻找为 Linux 内核贡献数千补丁的“超能力者”！ Marvell推出业内首款1.6T以太网PHY：5nm先进制程 100G PAM4 I/O Notepad++ v8 发布 Torvalds 继续反对在编译 Linux 内核时使用 -O […]</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">寻找为 Linux 内核贡献数千补丁的“超能力者”！</summary>
-                <a class="article-summary-link article-summary-box-outer" href="http://www.linuxeden.com/a/86248">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>在 LWN.net 发布的 Linux 内核报告中，常年可以看到一个贡献者 —— “Yue Hai Bing”，自 2018 年底以来，TA 对每个版本都会贡献大量的补丁，帮助 Linux 内核不断迭代。为了找到这个来自华为的优秀贡献者，我 […]</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Marvell推出业内首款1.6T以太网PHY：5nm先进制程 100G PAM4 I/O</summary>
-                <a class="article-summary-link article-summary-box-outer" href="http://www.linuxeden.com/a/86244">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>美满电子（Marvell）刚刚发布了业内首款基于 5nm 先进制程的 1.6T 以太网 PHY 解决方案，特点是支持十万兆（100G）级别的 PAM4 输入 / 输出。对于数据中心来说，100G 串行 I/O 可在云基础架构中发挥关键作用， […]</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Notepad++ v8 发布</summary>
-                <a class="article-summary-link article-summary-box-outer" href="http://www.linuxeden.com/a/86240">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>文本编辑器 Notepad++ 释出了 v8。主要新特性包括：深色模式（Dark Mode）、ARM64 构建版本，工具栏 Fluent UI 图标，免干扰模式，深色模式 API NPPM_ADDTOOLBARICON_FORDARKMOD […]</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://www.freecodecamp.org/news">freeCodeCamp.org</a></h3>
           <section class="articles-per-source">
             <article>
@@ -14577,7 +14574,7 @@ Release:  https://github.com/seata/seata/releases
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-07-08T02:23:05.744Z">2021-07-08T02:23:05.744Z</time>
+    <time id="build-timestamp" datetime="2021-07-08T03:10:28.752Z">2021-07-08T03:10:28.752Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.0</a></span>
   </footer>
   <script src="index.js"></script>

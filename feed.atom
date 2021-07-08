@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T02:23:05.797Z</updated>
+    <updated>2021-07-08T03:10:28.791Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[go-carbon 1.4.1 版本发布，新增农历相关方法和韩语翻译文件]]></title>
+        <id>https://gocn.vip/topics/12279</id>
+        <link href="https://gocn.vip/topics/12279"/>
+        <updated>2021-07-08T02:28:52.000Z</updated>
+        <summary type="html"><![CDATA[carbon 是一个轻量级、语义化、对开发者友好的 Golang 时间处理库，支持链式调用、农历和 gorm、xorm 等主流 orm
+如果您觉得不错，请给个 star 吧
+github:github.com/golang-module/carbon
+gitee:gitee.com/go-package/carbon
+更新日志
+新增韩语翻译文件 kr.json
+新增 Lunar().Year() 方法获取农历年年份
+新增 Lunar().Month() 方法获取农历月月份
+新增 Lunar().LeapMonth() 方法获取农历闰月月份
+新增 Lunar().Day() 方法获取农历日日期
+新增 Lunar().ToChineseYearString() 方法获取农历年字符串
+新增 Lunar().ToChineseMonthString() 方法获取农历月字符串
+新增 Lunar().ToChineseDayString() 方法获取农历日字符串
+新增 Lunar().ToGanZhiYearString() 方法获取干支纪年字符串
+新增 Lunar().ToGanZhiMonthString() 方法获取干支纪月字符串
+新增 Lunar().ToGanZhiDayString() 方法获取干支纪日字符串
+新增 Lunar().IsLeapYear() 方法判断是否是闰年
+新增 Lunar().IsLeapMonth() 方法判断是否是闰月
+修复 Tomorrow()、Yesterday()、AddMonths() 方法缺少时区的 bug
+database.go 文件拆分成 database.go 和 json.go 两个文件]]></summary>
+        <author>
+            <name>gouguoyin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chromium 专门为 Google 搜索引擎提供性能优化]]></title>
         <id>https://www.oschina.net/news/149541/chrome-google-dse-preconnect</id>
@@ -142,6 +171,16 @@
         <link href="https://www.oschina.net/news/149523/jvm-ecosystem-report-2021"/>
         <updated>2021-07-07T22:40:04.000Z</updated>
         <summary type="html"><![CDATA[此前的 Java 社区报告曾指出，Java 8 仍是开发人员使用的主要版本，新版本并未“得宠”。但 Snyk 近期发布的 JVM Ecosystem Report 2021 则指出，开发人员已经逐渐从 Java 8 迁移到了 Java 11。 JVM Ecosystem Report 2021 展示了关于 JVM 生态系统状态的最大年度调查的结果。该调查在 2021 年 2 月和 3 月的六周时间里进...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxmox VE 7.0 发布，服务器虚拟化管理平台]]></title>
+        <id>https://www.oschina.net/news/149520/proxmox-ve-7-0-released</id>
+        <link href="https://www.oschina.net/news/149520/proxmox-ve-7-0-released"/>
+        <updated>2021-07-07T22:37:09.000Z</updated>
+        <summary type="html"><![CDATA[Proxmox VE 是一个开源的服务器虚拟化管理平台。Proxmox VE 基于 Debian，使用基于 Ubuntu 的定制内核，包含安装程序、网页控制台和命令行工具，并且向第三方工具提供了 REST API，Proxmox VE 支持两类虚拟化技术：基于容器的 LXC 和硬件抽象层全虚拟化的 KVM。 Proxmox VE 7.0 稳定版本正式发布，该版本中值得关注的更新...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>
@@ -12367,46 +12406,6 @@ Release:  https://github.com/seata/seata/releases
         <summary type="html"><![CDATA[Today we're going to learn CSS Grid properties so that you can make your own responsive websites. I'll explain how each of Grid's properties work along with a CheatSheet that covers everything you can do with Grid. Let's go. 🎖️ Table of Contents: CSS Grid Architecture CSS Grid Chart Grid Parent]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日文章精选 2021 06 08]]></title>
-        <id>http://www.linuxeden.com/?p=86252</id>
-        <link href="http://www.linuxeden.com/a/86252"/>
-        <updated>2021-06-08T14:37:51.000Z</updated>
-        <summary type="html"><![CDATA[寻找为 Linux 内核贡献数千补丁的“超能力者”！ Marvell推出业内首款1.6T以太网PHY：5nm先进制程 100G PAM4 I/O Notepad++ v8 发布 Torvalds 继续反对在编译 Linux 内核时使用 -O […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寻找为 Linux 内核贡献数千补丁的“超能力者”！]]></title>
-        <id>http://www.linuxeden.com/?p=86248</id>
-        <link href="http://www.linuxeden.com/a/86248"/>
-        <updated>2021-06-08T14:35:23.000Z</updated>
-        <summary type="html"><![CDATA[在 LWN.net 发布的 Linux 内核报告中，常年可以看到一个贡献者 —— “Yue Hai Bing”，自 2018 年底以来，TA 对每个版本都会贡献大量的补丁，帮助 Linux 内核不断迭代。为了找到这个来自华为的优秀贡献者，我 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marvell推出业内首款1.6T以太网PHY：5nm先进制程 100G PAM4 I/O]]></title>
-        <id>http://www.linuxeden.com/?p=86244</id>
-        <link href="http://www.linuxeden.com/a/86244"/>
-        <updated>2021-06-08T14:32:25.000Z</updated>
-        <summary type="html"><![CDATA[美满电子（Marvell）刚刚发布了业内首款基于 5nm 先进制程的 1.6T 以太网 PHY 解决方案，特点是支持十万兆（100G）级别的 PAM4 输入 / 输出。对于数据中心来说，100G 串行 I/O 可在云基础架构中发挥关键作用， […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notepad++ v8 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86240</id>
-        <link href="http://www.linuxeden.com/a/86240"/>
-        <updated>2021-06-08T14:28:52.000Z</updated>
-        <summary type="html"><![CDATA[文本编辑器 Notepad++ 释出了 v8。主要新特性包括：深色模式（Dark Mode）、ARM64 构建版本，工具栏 Fluent UI 图标，免干扰模式，深色模式 API NPPM_ADDTOOLBARICON_FORDARKMOD […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>
