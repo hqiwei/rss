@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T08:10:39.416Z</updated>
+    <updated>2021-07-08T09:10:23.483Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12458,16 +12458,6 @@ Release:  https://github.com/seata/seata/releases
         <summary type="html"><![CDATA[近日，Nvidia 和 Valve 这两个游戏行业的巨头宣布将展开合作，通过把 DLSS 引入 Linux 从而大幅改善 Linux 系统的游戏体验。 DLSS 全称是 Deep Learning Super Sampling（深度学习超级采样），是 Nvidia 为 Nvidia 显卡所开发的一种图像升格技术。这项技术使低分辨率图像升格为高分辨率图像成为可能，因此可以在高分辨率...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create Your Own Electronics With Arduino - Full Course]]></title>
-        <id>60bfd986d3126007592d53a1</id>
-        <link href="https://www.freecodecamp.org/news/create-your-own-electronics-with-arduino-full-course/"/>
-        <updated>2021-06-08T21:05:13.000Z</updated>
-        <summary type="html"><![CDATA[Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
