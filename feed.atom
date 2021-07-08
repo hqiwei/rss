@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T13:19:21.926Z</updated>
+    <updated>2021-07-08T14:09:54.252Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新一代国产黄山芯片来了：独立GPU 或定名“黄山2S”]]></title>
+        <id>http://www.linuxeden.com/?p=87313</id>
+        <link href="http://www.linuxeden.com/a/87313"/>
+        <updated>2021-07-08T14:06:37.000Z</updated>
+        <summary type="html"><![CDATA[7月13日，华米科技将在合肥召开“华米科技Next Beat大会”，主题是“The Future of Health”。 今天上午，华米科技官微放出最新预热海报，文案写道：“可穿戴芯片的未来，独立GPU为什么绝不可以缺席？新一代黄山芯片，5 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoCN 每日新闻（2021-07-08）]]></title>
         <id>https://gocn.vip/topics/12283</id>
