@@ -2,10 +2,199 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T16:19:44.727Z</updated>
+    <updated>2021-07-08T00:29:21.312Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jim Hall，你觉得 Fedora 怎么样?]]></title>
+        <id>http://www.linuxeden.com/?p=87305</id>
+        <link href="http://www.linuxeden.com/a/87305"/>
+        <updated>2021-07-08T00:27:54.000Z</updated>
+        <summary type="html"><![CDATA[我们最近采访了 Jim Hall，了解他是如何使用 Fedora 的。这个 Fedora 杂志 系列 中的一篇。该系列介绍了 Fedora 用户以及他们如何使用 Fedora 来完成任务。如果你对本系列的后继采访感兴趣，请通过 反馈表 与我 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fotoxx：用于管理和编辑大型照片集合的开源应用]]></title>
+        <id>http://www.linuxeden.com/?p=87300</id>
+        <link href="http://www.linuxeden.com/a/87300"/>
+        <updated>2021-07-08T00:27:15.000Z</updated>
+        <summary type="html"><![CDATA[说到 Linux 中的照片管理软件，Shotwell 可能是其中最有名的。难怪它在许多发行版中都预装了。 但是，如果你正在寻找一个类似 Shotwell 而速度更快的应用，Fotoxx 可能是一个不错的选择。 它可能没有一个现代的用户界面， […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vant 2.12.23 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87298</id>
+        <link href="http://www.linuxeden.com/a/87298"/>
+        <updated>2021-07-08T00:26:22.000Z</updated>
+        <summary type="html"><![CDATA[Bug Fixes DatetimePicker: 修复设置 max-date、max-hour 等属性时可能导致当前日期不正确的问题 #8977 Stepper: 修复开启 async-change 且 blur 后输入值不正确的问题 # […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elasticsearch 7.13.3 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87296</id>
+        <link href="http://www.linuxeden.com/a/87296"/>
+        <updated>2021-07-08T00:18:23.000Z</updated>
+        <summary type="html"><![CDATA[Security updatesedit An uncontrolled recursion vulnerability that could lead to a denial of service attack was identifie […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring GraphQL 成为 Spring 顶级项目，将发布第一个里程碑版本]]></title>
+        <id>https://my.oschina.net/10000000000/blog/5123257</id>
+        <link href="https://my.oschina.net/10000000000/blog/5123257"/>
+        <updated>2021-07-08T00:15:14.000Z</updated>
+        <summary type="html"><![CDATA[七月五号，Spring GraphQL项目正式从experimental（实验项目)移除，现在它是一个Spring顶级项目了。并且我从消息人士得知即将发布第一个里程碑版本。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招募！优麒麟社区诚邀全球高校&社区开源镜像站加入]]></title>
+        <id>http://www.linuxeden.com/?p=87292</id>
+        <link href="http://www.linuxeden.com/a/87292"/>
+        <updated>2021-07-08T00:14:07.000Z</updated>
+        <summary type="html"><![CDATA[随着优麒麟开源操作系统的全球用户不断增多，出现了用户高并发（尤其是新版发布期间）下载镜像负载问题。为了解决负载问题，致力于让爱好者拥有优质下载使用体验的优麒麟团队，除了已提升服务器带宽外，也正积极扩展开源镜像下载渠道。目前不仅同步了阿里、华 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lightscreen —— 开源 Windows 截图工具]]></title>
+        <id>https://www.oschina.net/p/lightscreen</id>
+        <link href="https://www.oschina.net/p/lightscreen"/>
+        <updated>2021-07-07T23:38:04.000Z</updated>
+        <summary type="html"><![CDATA[可以自动完成保存和分类屏幕截图的繁琐过程，它作为一个隐藏的后台进程运行，使用一个（或多个）热键调用，然后根据用户的喜好将屏幕截图文件保存到磁盘]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitee 推荐 | 超轻量级实时操作系统 AntOS]]></title>
+        <id>https://gitee.com/zeweni/ant-os</id>
+        <link href="https://gitee.com/zeweni/ant-os"/>
+        <updated>2021-07-07T23:34:28.000Z</updated>
+        <summary type="html"><![CDATA[抢占式调度极简内核，专门为小型家电及轻量型物联网终端设计，适合在 8051 为内核的 MCU 上运行]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Cloud Hoxton.SR12 现已发布]]></title>
+        <id>https://www.oschina.net/news/149529/spring-cloud-hoxton-sr12-released</id>
+        <link href="https://www.oschina.net/news/149529/spring-cloud-hoxton-sr12-released"/>
+        <updated>2021-07-07T23:26:24.000Z</updated>
+        <summary type="html"><![CDATA[于美国时间2021年7月7日，Spring Cloud Hoxton.SR12 现已发布。该版本已经在中央仓库中可以下载。SR12版本主要是一个错误修复和文档发布。Hoxton.SR12 与 Spring Boot 2.3.x 和 2.2.x 兼容。 一、主要更新内容 Spring Cloud Commons 添加 TaskSchedulerWrapper (#974) Spring Cloud Gateway 启用禁用 GatewayRedisAutoCo...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 使用 perf 解决 JDK8 小版本升级后性能下降的问题]]></title>
+        <id>https://my.oschina.net/openeuler/blog/5122995</id>
+        <link href="https://my.oschina.net/openeuler/blog/5122995"/>
+        <updated>2021-07-07T22:56:17.000Z</updated>
+        <summary type="html"><![CDATA[工欲善其事，必先利其器。程序员在定位性能瓶颈的时候，要是有一个趁手的性能调优工具，能一针见血地指出程序的性能问题，可谓事半功倍。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比原计划推迟三年，Ubuntu 将用 Zstd 压缩 Debian 软件包]]></title>
+        <id>https://www.oschina.net/news/149524/zstd-compressed-debs-in-ubuntu</id>
+        <link href="https://www.oschina.net/news/149524/zstd-compressed-debs-in-ubuntu"/>
+        <updated>2021-07-07T22:42:15.000Z</updated>
+        <summary type="html"><![CDATA[这比最初的计划晚了三年，但随着今年秋天 Ubuntu 21.10 的推出，Debian 软件包将通过 Zstd 进行压缩，以提供更快的解压速度。 Zstandard（Zstd）是由 Facebook 开发的一个无损数据压缩算法，第 1 版的实现于 2016 年 8 月 31 日发布。设计 Zstd 的目的是提供一个类似于 DEFLATE 算法的压缩比，但更快，特别是解压缩快的算...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开发人员正从 Java 8 向 Java 11 转移]]></title>
+        <id>https://www.oschina.net/news/149523/jvm-ecosystem-report-2021</id>
+        <link href="https://www.oschina.net/news/149523/jvm-ecosystem-report-2021"/>
+        <updated>2021-07-07T22:40:04.000Z</updated>
+        <summary type="html"><![CDATA[此前的 Java 社区报告曾指出，Java 8 仍是开发人员使用的主要版本，新版本并未“得宠”。但 Snyk 近期发布的 JVM Ecosystem Report 2021 则指出，开发人员已经逐渐从 Java 8 迁移到了 Java 11。 JVM Ecosystem Report 2021 展示了关于 JVM 生态系统状态的最大年度调查的结果。该调查在 2021 年 2 月和 3 月的六周时间里进...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube 推荐算法被曝倾向于潜在有害视频]]></title>
+        <id>https://www.oschina.net/news/149518/youtube-algorithm-problem</id>
+        <link href="https://www.oschina.net/news/149518/youtube-algorithm-problem"/>
+        <updated>2021-07-07T22:34:32.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla 的一项调查发现，YouTube 的推荐算法倾向于向用户推荐有问题的视频，包括仇恨言论、错误的政治和科学信息以及其他可能违反 YouTube 社区准则的内容。 YouTube 是世界上访问量第二大的网站，并且其平台上 70% 的观看时间由推荐算法决定。然而在 2020 年， Mozilla、反诽谤联盟、纽约时报、华盛顿邮报、华尔街日报...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a JavaScript Object? Key Value Pairs and Dot Notation Explained]]></title>
+        <id>60e521aa134ad707be00e41d</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-javascript-object/"/>
+        <updated>2021-07-07T22:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Objects are one of the most valuable things you can learn in Javascript. You can use them to take your programs to the next level.  An object is a collection of data – or key value pairs – which consist of variables and functions that you can access using dot notation. Now]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn Machine Learning – Tips and Resources to Learn ML the Practical Way]]></title>
+        <id>60ccd1794dc1a607ed7b4feb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-learn-machine-learning-practical-tips-and-resources/"/>
+        <updated>2021-07-07T17:28:00.000Z</updated>
+        <summary type="html"><![CDATA[A lot of people want to learn machine learning these days. But the daunting bottom-up curriculum that most ML teachers propose is enough discourage a lot of newcomers.  In this tutorial I flip the curriculum upside down and will outline what I think is the fastest and easiest way to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[List Comprehension in Python Explained for Beginners]]></title>
+        <id>60e25e17134ad707be00d947</id>
+        <link href="https://www.freecodecamp.org/news/list-comprehension-in-python/"/>
+        <updated>2021-07-07T17:25:39.000Z</updated>
+        <summary type="html"><![CDATA[List comprehension is an easy to read, compact, and elegant way of creating a list from any existing iterable object. Basically, it's a simpler way to create a new list from the values in a list you already have. It is generally a single line of code enclosed in square]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dubbogo 凌烟阁之 何鑫明]]></title>
+        <id>https://gocn.vip/topics/12278</id>
+        <link href="https://gocn.vip/topics/12278"/>
+        <updated>2021-07-07T17:19:01.000Z</updated>
+        <summary type="html"><![CDATA[dubbogo 项目已进入第六个年头。dubbogo 项目初期的使命就是 "bridging the gap between Java and Go" ，目前 dubbogo 已经对齐所有 dubbo 版本，正与 Dubbo 齐头并进，并在云原生方向反哺 Dubbo。
+参与过 dubbogo 项目跟着社区一路走来的人，有贡献者 100 多人，apache dubbo committer 23 人，其中 PMC 5 人。社区基础项目在 https://github.com/dubbogo，孵化成熟后即捐献到 https://github.com/apache，已经总体给 apache 组织贡献了 5 个 项目，整体代码有 17 万行之多。
+从本期开始，本账号将陆续采访社区的 PMC/committer，回首各位同学加入社区时的初心，回忆在社区成长的朝朝暮暮，以照亮未来在社区的前行路。
+
+1. 首先回忆下是什么契机让你了解到 dubbogo 的？
+最初了解到 dubbogo 是在携程的时候需要为公司的 go 语言内部社区寻找一个可以跟 java 生态打通的 go 语言服务框架，于是就全网找到了当时于雨贡献的 dubbo-go 项目。dubbo-go 是当时唯一可以通过 hessian2 协议与 java 进行互通的项目，与我们的需求相符。
+2. 参与到 dubbogo 的开源贡献是什么样的体验？
+我有幸参与到 dubbogo 1.0 版本的重构建设过程，该版本后面正式捐献给 apache，感受到了于雨、北纬等这帮技术人们的坚持和热爱。在过程中收获了很多的技术也包括开源认知、协作方面的成长。对我后续从事架构和开源方面的工作有很深的影响。
+3. 支撑你持续贡献 dubbogo 最大的动力，以及给 dubbogo 做出的最大贡献是什么？
+开源的动力热爱肯定是第一位的，没有热爱就做不成这件事情。当时在参与重构 1.0 版本的时候，真的是工作时间和休息时间都在写代码，都在思考怎么让程序扩展性更强、性能更优化。我做的最大的贡献就是跟另一位同事，实操了 1.0 版本的整个架构重构和服务框架层代码重写，以及在贡献给 apache 之后的一段时间内，参与后续版本的技术规划和组织社区活动。
+4. 贡献中遇到最大的挑战是什么，后面社区给你什么帮助？
+最大的挑战其实是重构的难度和维护的压力，当时现有的一个版本离 dubbo 完善的 java 语言版本还是有很大的一块距离，dubbo 有完善的服务治理能力、与各个社区兼容的繁荣生态和非常大的用户群体，要实现与 java 版本的完全兼容和互通还是比较有难度的。开源之后项目有比较大的曝光，有许多公司慢慢用起来了，又有很多坑和 bug 要解决，这段时间是有比较大的压力的。
+5. 成为 PMC 后，你对 dubbogo 未来是期待是什么？
+
+希望 dubbogo 后续在 go 语言微服务体系与云原生这条路上能走的更远，也希望有这类需求的企业和感兴趣的同学能够参与进来，希望 dubbogo 项目能对中国的 go 语言开源生态产生影响力。
+6. 还有在参与 dubbo/dubbogo 社区或者其他阿里开源社区中的其他开源项目吗？
+暂时没有参与阿里开源社区的其他项目。
+何鑫铭，前携程基础中台研发部技术专家，现蚂蚁金服支付中台基础资金平台技术组高级技术专家。专注于 Go & Java、中台架构、中间件与区块链等技术
+欢迎加入 dubbo-go 社区
+钉钉群:23331795]]></summary>
+        <author>
+            <name>alexstocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Interview Prep Cheatsheet – Ace Your Coding Interviews with These Concepts]]></title>
         <id>60c38e76d3126007592d66cd</id>
@@ -54,6 +243,16 @@
         <summary type="html"><![CDATA[apache-dubbo-3.0.1-src.zip        2021-07-06 08:05  4.6M apache-dubbo-3.0.1-src.zip.asc    2021-07-06 08:05  833 apache- […]]]></summary>
         <author>
             <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招募！优麒麟社区诚邀全球高校 & 社区开源镜像站加入]]></title>
+        <id>https://www.oschina.net/news/149492</id>
+        <link href="https://www.oschina.net/news/149492"/>
+        <updated>2021-07-07T12:27:26.000Z</updated>
+        <summary type="html"><![CDATA[随着优麒麟开源操作系统的全球用户不断增多，出现了用户高并发（尤其是新版发布期间）下载镜像负载问题。为了解决负载问题，致力于让爱好者拥有优质下载使用体验的优麒麟团队，除了已提升服务器带宽外，也正积极扩展开源镜像下载渠道。 目前不仅同步了阿里、华为、网易、360、开源社、清华大学等15个开源镜像站点，而且优...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
     <entry>
@@ -12203,71 +12402,6 @@ Service：对 Serverless…]]></summary>
 …]]></summary>
         <author>
             <name>alicloudnative</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于 fmt 标准化输出 map 的问题]]></title>
-        <id>https://gocn.vip/topics/12170</id>
-        <link href="https://gocn.vip/topics/12170"/>
-        <updated>2021-06-08T11:14:23.000Z</updated>
-        <summary type="html"><![CDATA[我运行 
-func TestA(t *testing.T) {
-    fmt.Println(map[string]string{"b": "\r"})
-}
-
-却只输出了一个 “]” 请问这是 go 有意为之还是 bug 啊]]></summary>
-        <author>
-            <name>Junebao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微众银行大数据开源项目更新合集 5 月篇]]></title>
-        <id>https://www.oschina.net/news/145190/webank-bigdata-opensource-may</id>
-        <link href="https://www.oschina.net/news/145190/webank-bigdata-opensource-may"/>
-        <updated>2021-06-08T09:21:06.000Z</updated>
-        <summary type="html"><![CDATA[DataSphere Studio 数据应用开发门户 DSS1.0.0 完成了 Linkis1.0.0 的对接和联调测试，包含数据服务、工作流编排、工程权限控制等功能。 https://github.com/WeBankFinTech/DataSphereStudio https://gitee.com/WeBank/DataSphereStudio Linkis 金融级大数据平台中间件服务集合 Linkis1.0.0 正式版本开发和测试完成、正在...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[量变到质变，MeterSphere 一站式开源持续测试平台发布首个 LTS 版本]]></title>
-        <id>https://www.oschina.net/news/145174/metersphere-lts</id>
-        <link href="https://www.oschina.net/news/145174/metersphere-lts"/>
-        <updated>2021-06-08T07:46:32.000Z</updated>
-        <summary type="html"><![CDATA[2021年6月8日，MeterSphere一站式开源持续测试平台公布首个LTS版本。MeterSphere开源项目组宣布，于2021年5月27日发布的MeterSphere v1.10版本正式成为该项目的第一个LTS（Long Term Support）版本。针对这一版本，MeterSphere开源项目组将对其用户进行长期支持，并且在主线功能版本的基础之上，按需发布LTS版本的问题修...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源公告｜C++ 分布式编译系统 yadcc 开源了]]></title>
-        <id>https://www.oschina.net/news/145170</id>
-        <link href="https://www.oschina.net/news/145170"/>
-        <updated>2021-06-08T07:19:47.000Z</updated>
-        <summary type="html"><![CDATA[yadcc是广泛投产于腾讯广告后台的C++分布式编译系统。 我们在调研学习了业界的ccache、sccache、distcc、icecc等开源的编译加速系统之后，根据我们实际的工业生产场景，设计了这样一套系统。 目前我们实际生产环境： - 有~1700编译核心； - 使用512并发编译（实际并发度取决于本地预处理能力，32逻辑核以上可达到512并发...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EdgeX Foundry 成立四周年！]]></title>
-        <id>https://www.oschina.net/news/145167/edgex-foundry-four-anniversary</id>
-        <link href="https://www.oschina.net/news/145167/edgex-foundry-four-anniversary"/>
-        <updated>2021-06-08T07:02:14.000Z</updated>
-        <summary type="html"><![CDATA[作者：Keith Steele，IOTech 首席执行官，LF Edge Board 和 EdgeX 技术指导小组的成员。 文章简介：短短四年时间，EdgeX已经成为边缘/物联网的全球标准；以下博客内容研究了原因并展望了未来。 边缘计算的出现 早在2017年，“边缘计算”是 Gartner 报告中的一个预测，它被称为“所有基础设施之母”。一种新的计算模型，边...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 Epic BundleHunt：51 款正版软件捆绑包，包含 iStat Menus，支持支付宝付款]]></title>
-        <id>https://www.appinn.com/?p=38997</id>
-        <link href="https://www.appinn.com/2021-epic-bundlehunt/"/>
-        <updated>2021-06-08T04:37:50.000Z</updated>
-        <summary type="html"><![CDATA[BundleHunt 是老牌的 macOS 软件捆绑包销售商，只需要低廉的入场门票，即可挑选特价软件授权。比如这次名为2021 Epic macOS Bundle! 的捆绑包，就包含了 51 款兼容最]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
 </feed>
