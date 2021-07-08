@@ -6,6 +6,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60e59724134ad707be00e5d1",
+          "author": null,
+          "description": "This post will show you how to build the Feature Toggle mechanism in your Next.JS application.  We are going to use Next.JS, React, and TypeScript. We will deploy our application to Vercel to demonstrate the real-life example. You can find the code and video in the summary at",
+          "link": "https://www.freecodecamp.org/news/how-to-use-feature-toggles-in-next-js-and-react/",
+          "publishedOn": "2021-07-08T17:13:58.000Z",
+          "wordCount": 2850,
+          "title": "Build Your Own Feature Toggle with Next.js and React in Under 30 Minutes"
+        },
+        {
+          "id": "60e3ae66134ad707be00dbdb",
+          "author": null,
+          "description": "Developing web pages used to involve writing HTML, CSS, and a little scripting code like JavaScript for functionality.  But over time, we've developed new and more advanced technologies and frameworks to create webpages. We now use things like reusable components, routing, and rendering to the document object model (DOM).  These",
+          "link": "https://www.freecodecamp.org/news/build-accessible-vue-applications/",
+          "publishedOn": "2021-07-08T16:23:19.000Z",
+          "wordCount": 1935,
+          "title": "How to Build Accessible Vue Applications"
+        },
+        {
           "id": "60df723627f80207bcdbcf36",
           "author": null,
           "description": "According to Google trends, React is the most popular JavaScript frontend framework. Unless you're in the U.S. state of Nebraska, that is. 😀 Google Trends (React vs Angular)React is a declarative, efficient, and flexible JavaScript library for building user interfaces. We just released a full React course on the",
