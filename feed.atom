@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T05:08:12.079Z</updated>
+    <updated>2021-07-08T06:11:20.918Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[深圳] ANKER 招 golang 开发一名~]]></title>
+        <id>https://gocn.vip/topics/12281</id>
+        <link href="https://gocn.vip/topics/12281"/>
+        <updated>2021-07-08T05:58:39.000Z</updated>
+        <summary type="html"><![CDATA[公司简介:https://www.anker-in.com/
+
+
+
+负责智能硬件产品后端 API 开发；
+负责智能硬件产品后端程序的架构设计和优化；
+负责智能硬件产品后端新需求的系统设计和实现；
+负责重难点的技术攻坚和新技术预研；
+职位要求：
+
+
+
+本科及以上学历，3 年以上互联网后端开发经验
+熟悉使用 Golang 开发后台服务；
+熟深入了解后端 Web Service 框架和技术如 gin 、beego 、redis 、mysql，熟悉 Web Server 性能调优、大规模并发、缓存机制；
+熟悉微服务、分布式、网络安全；
+具备 DevOps 的能力，熟悉 Shell 脚本编程，Docker 容器管理，有设计和维护高可用系统经验的优先；
+良好的文档编写能力和故障排查能力，工作细心，较强的责任感和抗压能力；
+具备一定前端开发能力者优先；
+熟悉 ASR 实时语音识别技术、音频编码如（ pcm/opus ）者优先。
+
+感兴趣可以联系邮箱：bobo.chen@anker.com]]></summary>
+        <author>
+            <name>bobo.chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神策数据加入 openEuler 社区，推动开源生态繁荣发展]]></title>
+        <id>https://www.oschina.net/news/149586</id>
+        <link href="https://www.oschina.net/news/149586"/>
+        <updated>2021-07-08T05:27:26.000Z</updated>
+        <summary type="html"><![CDATA[近日，神策数据签署 CLA(Contributor License Agreement，贡献者许可协议)，正式加入 openEuler 社区。 神策数据（Sensors Data），全称神策网络科技（北京）有限公司，是国内专业的大数据分析和营销科技服务提供商，为企业提供神策营销云、神策分析云、神策数据根基平台三大产品方案，通过全渠道的数据采集与全域用户 ...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flink on TiDB —— 便捷可靠的实时数据业务支撑]]></title>
         <id>https://gocn.vip/topics/12280</id>

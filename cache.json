@@ -776,6 +776,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12281",
+          "author": "bobo.chen",
+          "description": "公司简介:https://www.anker-in.com/\n\n\n\n负责智能硬件产品后端 API 开发；\n负责智能硬件产品后端程序的架构设计和优化；\n负责智能硬件产品后端新需求的系统设计和实现；\n负责重难点的技术攻坚和新技术预研；\n职位要求：\n\n\n\n本科及以上学历，3 年以上互联网后端开发经验\n熟悉使用 Golang 开发后台服务；\n熟深入了解后端 Web Service 框架和技术如 gin 、beego 、redis 、mysql，熟悉 Web Server 性能调优、大规模并发、缓存机制；\n熟悉微服务、分布式、网络安全；\n具备 DevOps 的能力，熟悉 Shell 脚本编程，Docker 容器管理，有设计和维护高可用系统经验的优先；\n良好的文档编写能力和故障排查能力，工作细心，较强的责任感和抗压能力；\n具备一定前端开发能力者优先；\n熟悉 ASR 实时语音识别技术、音频编码如（ pcm/opus ）者优先。\n\n感兴趣可以联系邮箱：bobo.chen@anker.com",
+          "link": "https://gocn.vip/topics/12281",
+          "publishedOn": "2021-07-08T05:58:39.000Z",
+          "wordCount": 123,
+          "title": "[深圳] ANKER 招 golang 开发一名~"
+        },
+        {
           "id": "https://gocn.vip/topics/12280",
           "author": "TiDB_Robot",
           "description": "作者介绍： 林佳，网易互娱计费数据中心实时业务负责人，实时开发框架 JFlink-SDK 和实时业务平台 JFlink 的主程，Flink Code Contributor。\n本文由网易互娱计费数据中心实时业务负责人林佳老师分享，主要介绍网易数据中心在处理实时业务时为什么选择 Flink 和 TiDB，以及两者的结合应用情况。\n今天主要从开发的角度来跟大家聊一聊为什么网易数据中心在处理实时业务时，选择 Flink 和 TiDB。\n首先，TiDB 是一个混合型的 HTAP 分布式数据库，具备一键水平伸缩、强一致性的多副本数据安全、分布式事务、实时 OLAP 等重要特性，同时兼容 MySQL 协议和生态，迁移便捷，运维成本极低。而 Flink 是目前最热门的开源计算框架，在处理实时数据方面，其高吞吐量、低延迟的优异性能以及对 Exactly Once 语义的保障为网易游戏实时业务处理提供了便捷支持。\nFlink on TiDB 究竟可以创造怎样的业务价值？ 本文将从一个实时累加值的故事来跟大家分享。\n从一个实时累加值的故事说起\n\n接触过线上业务的同学应该对上述数据非常熟悉，这是一张经典的线上实时业务表，也可以理解为日志或某种单调递增的数据，包含了事实发生的时间戳、账户、购买物品、购买数量等。针对这类数据的分析，假设使用 Flink 等实时计算框架，可以通过分桶处理，如 groupby 用户 ID，groupby 道具，再对时间进行分桶，最终将产生如下的持续数据。\n\n如果将上述持续数据落入 TiDB，与此同时 TiDB 仍保持已有的线上维度表，如账户信息、道具信息等，通过对表做一个 JOIN 操作就能快速从事实的统计数据中分析出时序数据所代表的价值，再对接到可视化应用，能发现很多不一样的东西。\n\n整个过程看起来非常简单又完美， Flink 解决计算问题，TiDB 解决海量存储问题…",
@@ -4864,6 +4873,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/149586",
+          "author": null,
+          "description": "近日，神策数据签署 CLA(Contributor License Agreement，贡献者许可协议)，正式加入 openEuler 社区。 神策数据（Sensors Data），全称神策网络科技（北京）有限公司，是国内专业的大数据分析和营销科技服务提供商，为企业提供神策营销云、神策分析云、神策数据根基平台三大产品方案，通过全渠道的数据采集与全域用户 ...",
+          "link": "https://www.oschina.net/news/149586",
+          "publishedOn": "2021-07-08T05:27:26.000Z",
+          "wordCount": 477,
+          "title": "神策数据加入 openEuler 社区，推动开源生态繁荣发展"
+        },
         {
           "id": "https://www.oschina.net/news/149541/chrome-google-dse-preconnect",
           "author": null,
