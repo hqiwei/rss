@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T10:10:18.104Z</updated>
+    <updated>2021-07-08T11:08:02.810Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[KubeVela 成为 CNCF 沙箱项目，让云端应用交付更加简单]]></title>
+        <id>https://www.oschina.net/news/149673</id>
+        <link href="https://www.oschina.net/news/149673"/>
+        <updated>2021-07-08T10:58:36.000Z</updated>
+        <summary type="html"><![CDATA[2021 年 6 月 22 日，在云原生计算基金会（CNCF）的 TOC 例会上投票决议通过，KubeVela 正式成为 CNCF 官方沙箱项目。透明、开放、开源中立的 KubeVela，未来将持续致力于打造统一、标准、跨云的应用管理和交付体验。 “KubeVela 就是这样一个面向用户的上层平台项目。对于业务开发者来说，KubeVela 简单、易用，它可以让...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[武汉] 夜莺科技有限公司招聘高级 Golang 开发工程师]]></title>
         <id>https://gocn.vip/topics/12282</id>
@@ -12475,26 +12485,6 @@ Release:  https://github.com/seata/seata/releases
         <link href="https://gitee.com/thoughtworks/gocd"/>
         <updated>2021-06-08T23:33:54.000Z</updated>
         <summary type="html"><![CDATA[ThoughtWorks Go 是 ThoughtWorks 公司的一款持续集成和发布的系统。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TIOBE 6 月榜单：新增 logo，Python 距离榜一越来越近]]></title>
-        <id>https://www.oschina.net/news/145254/tiobe-index-202106</id>
-        <link href="https://www.oschina.net/news/145254/tiobe-index-202106"/>
-        <updated>2021-06-08T22:22:32.000Z</updated>
-        <summary type="html"><![CDATA[TIOBE 公布了 2021 年 6 月的编程语言排行榜。 Python 即将取代 C 语言，夺得 TIOBE 指数中的榜一的位置。目前，Python 和排名第一的编程语言 C 之间的差距只有 0.7%。TIOBE CEO Paul Jansen 称，TIOBE 指数将于下个月庆祝其 20 周年。编程语言 C 和 Java 是这 20 年中仅有的两种达到第一位置的语言。因此，如果 Python...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia 和 Valve 合作将 DLSS 引入 Linux]]></title>
-        <id>https://www.oschina.net/news/145253/nvidia-valve-bring-dlss-to-linux</id>
-        <link href="https://www.oschina.net/news/145253/nvidia-valve-bring-dlss-to-linux"/>
-        <updated>2021-06-08T22:20:20.000Z</updated>
-        <summary type="html"><![CDATA[近日，Nvidia 和 Valve 这两个游戏行业的巨头宣布将展开合作，通过把 DLSS 引入 Linux 从而大幅改善 Linux 系统的游戏体验。 DLSS 全称是 Deep Learning Super Sampling（深度学习超级采样），是 Nvidia 为 Nvidia 显卡所开发的一种图像升格技术。这项技术使低分辨率图像升格为高分辨率图像成为可能，因此可以在高分辨率...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>
