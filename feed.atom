@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T03:10:28.791Z</updated>
+    <updated>2021-07-08T04:11:42.657Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Flink on TiDB —— 便捷可靠的实时数据业务支撑]]></title>
+        <id>https://gocn.vip/topics/12280</id>
+        <link href="https://gocn.vip/topics/12280"/>
+        <updated>2021-07-08T04:00:46.000Z</updated>
+        <summary type="html"><![CDATA[作者介绍： 林佳，网易互娱计费数据中心实时业务负责人，实时开发框架 JFlink-SDK 和实时业务平台 JFlink 的主程，Flink Code Contributor。
+本文由网易互娱计费数据中心实时业务负责人林佳老师分享，主要介绍网易数据中心在处理实时业务时为什么选择 Flink 和 TiDB，以及两者的结合应用情况。
+今天主要从开发的角度来跟大家聊一聊为什么网易数据中心在处理实时业务时，选择 Flink 和 TiDB。
+首先，TiDB 是一个混合型的 HTAP 分布式数据库，具备一键水平伸缩、强一致性的多副本数据安全、分布式事务、实时 OLAP 等重要特性，同时兼容 MySQL 协议和生态，迁移便捷，运维成本极低。而 Flink 是目前最热门的开源计算框架，在处理实时数据方面，其高吞吐量、低延迟的优异性能以及对 Exactly Once 语义的保障为网易游戏实时业务处理提供了便捷支持。
+Flink on TiDB 究竟可以创造怎样的业务价值？ 本文将从一个实时累加值的故事来跟大家分享。
+从一个实时累加值的故事说起
+
+接触过线上业务的同学应该对上述数据非常熟悉，这是一张经典的线上实时业务表，也可以理解为日志或某种单调递增的数据，包含了事实发生的时间戳、账户、购买物品、购买数量等。针对这类数据的分析，假设使用 Flink 等实时计算框架，可以通过分桶处理，如 groupby 用户 ID，groupby 道具，再对时间进行分桶，最终将产生如下的持续数据。
+
+如果将上述持续数据落入 TiDB，与此同时 TiDB 仍保持已有的线上维度表，如账户信息、道具信息等，通过对表做一个 JOIN 操作就能快速从事实的统计数据中分析出时序数据所代表的价值，再对接到可视化应用，能发现很多不一样的东西。
+
+整个过程看起来非常简单又完美， Flink 解决计算问题，TiDB 解决海量存储问题…]]></summary>
+        <author>
+            <name>TiDB_Robot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sumatra PDF 3.3 版本发布，拥有 15 年历史的轻量级开源 PDF 阅读器]]></title>
+        <id>https://www.appinn.com/?p=39236</id>
+        <link href="https://www.appinn.com/sumatra-pdf-3-3/"/>
+        <updated>2021-07-08T03:51:21.000Z</updated>
+        <summary type="html"><![CDATA[Sumatra PDF 是一款有着 15 年历史的老牌、轻量级、开源 PDF 阅读器，还支持电子书（ePub, Mobi）、XPS、DjVu、CHM、Comic Book (CBZ and CBR)]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[go-carbon 1.4.1 版本发布，新增农历相关方法和韩语翻译文件]]></title>
         <id>https://gocn.vip/topics/12279</id>
@@ -12394,16 +12425,6 @@ Release:  https://github.com/seata/seata/releases
         <link href="https://www.freecodecamp.org/news/pass-data-between-components-in-react/"/>
         <updated>2021-06-08T16:17:32.000Z</updated>
         <summary type="html"><![CDATA[If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complete CSS Grid Tutorial with Cheat Sheet 🎖️]]></title>
-        <id>60be6a3cd3126007592d4a03</id>
-        <link href="https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/"/>
-        <updated>2021-06-08T16:02:45.000Z</updated>
-        <summary type="html"><![CDATA[Today we're going to learn CSS Grid properties so that you can make your own responsive websites. I'll explain how each of Grid's properties work along with a CheatSheet that covers everything you can do with Grid. Let's go. 🎖️ Table of Contents: CSS Grid Architecture CSS Grid Chart Grid Parent]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
