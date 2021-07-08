@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T18:11:16.543Z</updated>
+    <updated>2021-07-08T19:07:27.730Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12221,18 +12221,6 @@ fun…]]></summary>
         <summary type="html"><![CDATA[每片领域都有自己的规则，都由适应这套规则的的事物组成，开源社区也不例外，那么想要融入开源社区，你需要先问清楚自己：你是怎样的一个人，而在社区中你的“人设”又应该是什么样？]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GopherChina T 恤来了]]></title>
-        <id>https://gocn.vip/topics/12177</id>
-        <link href="https://gocn.vip/topics/12177"/>
-        <updated>2021-06-09T06:24:22.000Z</updated>
-        <summary type="html"><![CDATA[今年的 GopherChina 2021 的 T 恤来了，只送不卖，现场等你
-
-报名地址：https://www.bagevent.com/event/gopherchina2021]]></summary>
-        <author>
-            <name>astaxie</name>
         </author>
     </entry>
 </feed>
