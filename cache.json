@@ -1719,24 +1719,6 @@
           "publishedOn": "2021-06-09T02:50:29.000Z",
           "wordCount": 243,
           "title": "Seata 新特性，APM 支持 SkyWalking"
-        },
-        {
-          "id": "https://gocn.vip/topics/12172",
-          "author": "alicloudnative",
-          "description": "作者 | 元毅\n导读：Knative 是基于 Kubernetes 的开源 Serverless 应用编排框架。阿里云 Knative 在社区 Knative 基础之上，与阿里云产品进行了深度的融合，给你带来最纯粹的容器化 Serverless 体验。\n​\n关于 Knative\n​\n\nKnative 是基于 Kubernetes 的开源 Serverless 应用编排框架。实际上 Knative 包含的不单单是 Workload，它还有 Kubernetes 原生的流程编排引擎和完备的事件系统。Knative 目标是基于 Kubernetes 提供应用 Serverless 工作负载编排的标准化。Knative 核心模块主要包括事件驱动框架 Eventing 和部署工作负载的 Serving。\n​\n1. Serverless 服务引擎 - Serving\n​\n\nKnative Serving 核心能力就是其简洁、高效的应用托管服务，这也是其支撑 Serverless 能力的基础。当然作为 Serverless Framework 就离不开按需分配资源的能力，Knative 可以根据应用的请求量在高峰时期自动扩容实例数，当请求量减少以后自动缩容实例数，可以非常自动化地帮助您节省成本。\n​\nServing 还提供了流量管理能力和灵活的灰度发布能力。流量管理能力可以根据百分比切分流量，灰度发布能力可以根据流量百分比进行灰度。\n​\n1）简单的应用模型\n​\n\n提供了极简的应用模型 - Knative Service ，同时满足服务部署、服务访问以及灰度发布的能力。可以用下面的公式表述：Knative Service = 工作负载（Deployment）+ 服务访问（ Service ）+ 灰度流量（ Ingress ）。\n​\n应用模型如下图\n\nService：对 Serverless…",
-          "link": "https://gocn.vip/topics/12172",
-          "publishedOn": "2021-06-08T13:31:12.000Z",
-          "wordCount": 347,
-          "title": "春色满园关不住，带你体验阿里云 Knative"
-        },
-        {
-          "id": "https://gocn.vip/topics/12171",
-          "author": "alicloudnative",
-          "description": "2021年6月4日，由中国信息通信研究院（以下简称 “中国信通院”）主办的 “ 2021  云边协同大会 ” 在北京举行。本次会议以 “ 开启分布式云新时代 ” 为主题，旨在搭建数字经济与 5G 时代下云服务与边缘计算融合发展的桥梁，并面向行业发布多项云边协同发展阶段性成果。其中，阿里云边缘容器服务 ACK @ Edge 获得 “ 2021  云边协同能力 ” 标准认证，在边缘容器技术能力要求的 33 项测评中全部通过；基于 ACK@Edge 实现的申通快递 IoT 云边端架构，入选 “ 2021 分布式云与云边协同十佳实践案例 ”。\n​\n\n\n阿里云与中国信通院共建云边协同体系标准\n​\n国家 “ 十四五 ” 规划纲要明确指出要 “协同发展云服务与边缘计算服务”。云边协同技术为各行业提供更加全局化的弹性算力资源，为边缘侧提供有针对性的算力，加速各行各业与云计算的协同发展。\n​\n然而，各大企业对云边协同架构的认知不尽相同，市场上相关技术和产品水平参差不齐，标准体系的建设就显得尤为重要。在此背景下，中国信通院携手阿里云等 30 余家企业和机构，共推云边协同标准体系。经过广泛征集和深入研讨，在本次大会上，云边协同标准体系宣布建立，并正式发布《云原生边缘技术白皮书（ 2021 年）》。\n阿里云边缘容器服务 ACK@Edge 通过 33 项能力测评\n​\n云边协同标准体系的建立，一方面能够帮助企业准确评估自身的云边协同能力，制定科学、合理的演进路径；另一方面，基于标准体系，云边协同产品提供商能够对于市场需求和技术发展方向精准把握，推进产品形态的演进。\n在以该标准体系为指导的 2021 云边协同类能力测评中，阿里云边缘容器服务  ACK@Edge 通过包含对基础能力、协同能力、安全能力、服务保证、质量保证等能力检验维度的全部 33 项测评，获得 “ 2021 云边协同能力 ” 标准认证。\n…",
-          "link": "https://gocn.vip/topics/12171",
-          "publishedOn": "2021-06-08T12:43:30.000Z",
-          "wordCount": 222,
-          "title": "阿里云边缘容器服务、申通 IoT 云边端架构入选 2021 云边协同发展阶段性领先成果"
         }
       ]
     },
@@ -1745,6 +1727,15 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=87310",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 07 08",
+          "link": "http://www.linuxeden.com/a/87310",
+          "publishedOn": "2021-07-08T00:32:03.000Z",
+          "wordCount": 76,
+          "title": "开源美图 2021 07 08"
+        },
         {
           "id": "http://www.linuxeden.com/?p=87305",
           "author": "Editor, Kai",
@@ -4900,6 +4891,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/149541/chrome-google-dse-preconnect",
+          "author": null,
+          "description": "一名开发者发表博客称，Android 版 Chrome 存在一项功能使得 Google 搜索在激烈的竞争中获得了不公平的优势，此功能专门为优化 Google 搜索引擎的性能而保留。 根据这位开发者的描述，他在浏览 Chromium 的源代码时，发现了一个名为PreconnectToSearch的选项。启用该选项后，此功能会抢先打开并保持与默认搜索引擎（此处...",
+          "link": "https://www.oschina.net/news/149541/chrome-google-dse-preconnect",
+          "publishedOn": "2021-07-08T01:11:04.000Z",
+          "wordCount": 495,
+          "title": "Chromium 专门为 Google 搜索引擎提供性能优化"
+        },
         {
           "id": "https://my.oschina.net/10000000000/blog/5123257",
           "author": null,
@@ -8102,6 +8102,42 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=7792",
+          "author": "大眼仔~旭",
+          "description": "开源免费图像处理软件 Chasys Draw IES Artist 中文版由大眼仔旭（www.dayanzai […]",
+          "link": "http://www.dayanzai.me/chasys-draw-ies.html",
+          "publishedOn": "2021-07-07T16:29:40.000Z",
+          "wordCount": 634,
+          "title": "开源免费图像处理软件 Chasys Draw IES Artist 5.06.01 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=42036",
+          "author": "大眼仔~旭",
+          "description": "计算机性能对每个用户都非常重要，免费是那些使用需要重要系统资源才能正常工作的应用程序的用户，大眼仔旭就是一个机 […]",
+          "link": "http://www.dayanzai.me/occt.html",
+          "publishedOn": "2021-07-07T16:25:27.000Z",
+          "wordCount": 554,
+          "title": "计算机硬件检测工具 OverClock Checking Tool 8.2.5 x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=37824",
+          "author": "大眼仔~旭",
+          "description": "什么是 NetLimiter?NetLimiter 是专为 Windows 设计的终极互联网流量控制和监控工具 […]",
+          "link": "http://www.dayanzai.me/netlimiter.html",
+          "publishedOn": "2021-07-07T16:25:25.000Z",
+          "wordCount": 577,
+          "title": "网络流量控制工具 NetLimiter 4.1.11 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=7066",
+          "author": "大眼仔~旭",
+          "description": "EF Commander 20 + x64 + Portable  文件/文件夹管理软件由大眼仔旭（www.d […]",
+          "link": "http://www.dayanzai.me/ef-commander.html",
+          "publishedOn": "2021-07-07T16:22:44.000Z",
+          "wordCount": 551,
+          "title": "文件/文件夹管理软件 EF Commander 2021.07 + x64 中文多语免费版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=53045",
           "author": "大眼仔~旭",
