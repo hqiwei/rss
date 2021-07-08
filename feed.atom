@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T12:14:38.914Z</updated>
+    <updated>2021-07-08T13:19:21.926Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻（2021-07-08）]]></title>
+        <id>https://gocn.vip/topics/12283</id>
+        <link href="https://gocn.vip/topics/12283"/>
+        <updated>2021-07-08T13:05:05.000Z</updated>
+        <summary type="html"><![CDATA[GoCN 每日新闻（2021-07-08）
+私有化仓库的 GO 模块使用实践 https://zhuanlan.zhihu.com/p/384621827
+
+Go 阅读清单 https://github.com/qichengzx/gopher-reading-list-zh_CN
+
+sync.RWMutex 实现和使用说明 https://sreramk.medium.com/go-sync-rwmutex-internals-and-usage-explained-9eb15865bba
+
+Go 使用 WasmEdge 嵌入 WASM https://www.secondstate.io/articles/extend-golang-app-with-webassembly-rust/
+
+go-doudou 去中心化微服务敏捷开发框架 https://github.com/unionj-cloud/go-doudou
+
+
+
+
+编辑: 傅小黑
+订阅新闻: http://tinyletter.com/gocn
+
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>fuxiaohei</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KubeVela 成为 CNCF 沙箱项目，让云端应用交付更加简单]]></title>
         <id>https://www.oschina.net/news/149673</id>
@@ -12307,86 +12334,6 @@ Release:  https://github.com/seata/seata/releases
 ​]]></summary>
         <author>
             <name>alicloudnative</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue v3.1.0 (Pluto) 发布]]></title>
-        <id>https://www.oschina.net/news/145271/vuejs-3-1-0-released</id>
-        <link href="https://www.oschina.net/news/145271/vuejs-3-1-0-released"/>
-        <updated>2021-06-09T01:08:12.000Z</updated>
-        <summary type="html"><![CDATA[Vue.js v3.1.0 (Pluto) 已发布，目前的最新版本为 3.1.1。 新版本增加了多项新特性，优化了性能，以及修复 bug，同时还有一些破坏性的变化。 新特性 Migration Build：提供兼容 Vue 2 行为的 Vue 3 构建。Migration Build 旨在帮助将现有的 Vue 2 应用程序迁移到 Vue 3 compiler-core：支持空白字符处理策略 (dee3d6a) ...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WSL 支持运行 AI 训练任务以及 Linux GUI 应用]]></title>
-        <id>https://www.oschina.net/news/145269/wsl-support-ai-training-n-wslg</id>
-        <link href="https://www.oschina.net/news/145269/wsl-support-ai-training-n-wslg"/>
-        <updated>2021-06-09T00:46:18.000Z</updated>
-        <summary type="html"><![CDATA[WSL 现已支持在 Windows 上利用 GPU 运行应用程序，用户可直接在 WSL 内部运行 Linux AI 和机器学习场景。 据微软介绍，在机器学习领域，数据科学专业人员十分需要最佳的工具来提升工作效率。WSL 对图形处理单元 (GPU) 计算工作流的支持使数据科学家能够无缝访问 Windows 主机上的 GPU，以加快 ML 模型的训练速度。 此外...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源美图 2021 06 09]]></title>
-        <id>http://www.linuxeden.com/?p=86273</id>
-        <link href="http://www.linuxeden.com/a/86273"/>
-        <updated>2021-06-09T00:32:14.000Z</updated>
-        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 06 09]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[openSUSE Leap 15.3 版本缩小了与 SUSE Linux 企业版的差距]]></title>
-        <id>http://www.linuxeden.com/?p=86269</id>
-        <link href="http://www.linuxeden.com/a/86269"/>
-        <updated>2021-06-09T00:30:13.000Z</updated>
-        <summary type="html"><![CDATA[随着 openSUSE 15.3 的发布，与 SUSE Linux 企业版的差距终于缩小了。对于开发团队来说，这应该是一个令人兴奋的用于测试的更新。 去年，在 openSUSE Leap 15.2 发行版 中他们希望通过使用与企业版相同二进 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HHVM 4.113发布]]></title>
-        <id>http://www.linuxeden.com/?p=86266</id>
-        <link href="http://www.linuxeden.com/a/86266"/>
-        <updated>2021-06-09T00:29:16.000Z</updated>
-        <summary type="html"><![CDATA[HHVM 4.113 is released! This release marks the end of support for 4.107; HHVM 4.108–4.112 remain supported, as do the 4. […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源筑梦，破势而出 – 优麒麟发布会正式启动报名]]></title>
-        <id>http://www.linuxeden.com/?p=86263</id>
-        <link href="http://www.linuxeden.com/a/86263"/>
-        <updated>2021-06-09T00:24:48.000Z</updated>
-        <summary type="html"><![CDATA[2021年6月20日，《优麒麟20.04 LTS Pro发布会暨第十届“麒麟杯”全国开源应用软件开发大赛专家研讨会》将于6月20日在北京丽亭华苑酒店举行。 转自 https://www.ubuntukylin.com/news/1659-c […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rustup 1.24.3发布]]></title>
-        <id>http://www.linuxeden.com/?p=86261</id>
-        <link href="http://www.linuxeden.com/a/86261"/>
-        <updated>2021-06-09T00:17:58.000Z</updated>
-        <summary type="html"><![CDATA[The rustup working group is happy to announce the release of rustup version 1.24.3. Rustup is the recommended tool to in […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免费商用！华为全新定制字体HarmonyOS Sans上线 鸿蒙OS专属]]></title>
-        <id>http://www.linuxeden.com/?p=86258</id>
-        <link href="http://www.linuxeden.com/a/86258"/>
-        <updated>2021-06-09T00:15:44.000Z</updated>
-        <summary type="html"><![CDATA[华为正式发布了HarmonyOS 2鸿蒙操作系统，其字体设计也是全新定制的“HarmonyOS Sans”，现已公开上线，可以免费商用。 该字体来自汉仪字库字体设计团队，设计上聚焦于功能性、普适性，是一款多语言的无级可变字体，支持简体中文、 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>
