@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T15:12:03.775Z</updated>
+    <updated>2021-07-08T16:19:02.386Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn React JS in This Free 7-Hour Course]]></title>
+        <id>60df723627f80207bcdbcf36</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course/"/>
+        <updated>2021-07-08T15:44:30.000Z</updated>
+        <summary type="html"><![CDATA[According to Google trends, React is the most popular JavaScript frontend framework. Unless you're in the U.S. state of Nebraska, that is. 😀 Google Trends (React vs Angular)React is a declarative, efficient, and flexible JavaScript library for building user interfaces. We just released a full React course on the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日文章精选 2021 07 08]]></title>
         <id>http://www.linuxeden.com/?p=87322</id>

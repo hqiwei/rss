@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60df723627f80207bcdbcf36",
+          "author": null,
+          "description": "According to Google trends, React is the most popular JavaScript frontend framework. Unless you're in the U.S. state of Nebraska, that is. 😀 Google Trends (React vs Angular)React is a declarative, efficient, and flexible JavaScript library for building user interfaces. We just released a full React course on the",
+          "link": "https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course/",
+          "publishedOn": "2021-07-08T15:44:30.000Z",
+          "wordCount": 68138,
+          "title": "Learn React JS in This Free 7-Hour Course"
+        },
+        {
           "id": "60e521aa134ad707be00e41d",
           "author": null,
           "description": "Objects are one of the most valuable things you can learn in Javascript. You can use them to take your programs to the next level.  An object is a collection of data – or key value pairs – which consist of variables and functions that you can access using dot notation. Now",
