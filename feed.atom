@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T04:11:42.657Z</updated>
+    <updated>2021-07-08T05:08:12.079Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12395,36 +12395,6 @@ Release:  https://github.com/seata/seata/releases
         <link href="https://www.freecodecamp.org/news/create-your-own-electronics-with-arduino-full-course/"/>
         <updated>2021-06-08T21:05:13.000Z</updated>
         <summary type="html"><![CDATA[Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自由/免费/开源的专业绘画软件 Krita 4.4.5 + x64 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=36170</id>
-        <link href="http://www.dayanzai.me/krita.html"/>
-        <updated>2021-06-08T16:31:16.000Z</updated>
-        <summary type="html"><![CDATA[自由/免费/开源的专业绘画软件 Krita 中文版由大眼仔旭（www.dayanzai.me）发布。Krita […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全新的 Vivaldi 浏览器 Vivaldi 4.0.2312.24 + x64 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=46474</id>
-        <link href="http://www.dayanzai.me/vivaldi.html"/>
-        <updated>2021-06-08T16:24:21.000Z</updated>
-        <summary type="html"><![CDATA[在当今世界，网页浏览器试图拼命地复制和相互匹配的功能和最新的噱头，有一个浏览器，它比想象的更多的方式脱颖而出。 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Pass Data and Events Between Components in React]]></title>
-        <id>60b23b8911ffb70827ef954e</id>
-        <link href="https://www.freecodecamp.org/news/pass-data-between-components-in-react/"/>
-        <updated>2021-06-08T16:17:32.000Z</updated>
-        <summary type="html"><![CDATA[If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
