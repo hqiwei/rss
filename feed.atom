@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T07:08:45.081Z</updated>
+    <updated>2021-07-08T08:10:39.416Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[下周一涨价倒计时！白描 App 永久会员折扣，别错过]]></title>
+        <id>https://www.appinn.com/?p=39241</id>
+        <link href="https://www.appinn.com/baimiao-app-202107/"/>
+        <updated>2021-07-08T07:42:45.000Z</updated>
+        <summary type="html"><![CDATA[白描（miao），作为一款出色的 OCR 扫描识别神器。具备高准确度的文字识别、文字翻译、表格识别转 Excel、文件批量扫描等功能。 相信很多用户听说过这款 App，口碑相当不错。文档扫描识别翻译个]]></summary>
+        <author>
+            <name>数码荔枝</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FISCO BCOS 2021年第二季度贡献榜单]]></title>
+        <id>https://www.oschina.net/news/149616</id>
+        <link href="https://www.oschina.net/news/149616"/>
+        <updated>2021-07-08T07:17:27.000Z</updated>
+        <summary type="html"><![CDATA[践行开源共创的精神，FISCO BCOS开源社区致力打造开放多元的开源联盟链生态。 目前，社区已汇聚了超40000名社区成员，大家聚集于此碰撞观点、交流技术，围绕FISCO BCOS开发各类实用的应用组件、持续优化项目，并自发输出技术解析、使用案例、操作实践等丰富内容。 在大家的共同建设下，FISCO BCOS生态不断丰富完善，涌现...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Doris Weekly：BE 端增加系统负载 (Load) 的监控指标]]></title>
         <id>https://www.oschina.net/news/149604</id>

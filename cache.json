@@ -4498,6 +4498,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=39241",
+          "author": "数码荔枝",
+          "description": "白描（miao），作为一款出色的 OCR 扫描识别神器。具备高准确度的文字识别、文字翻译、表格识别转 Excel、文件批量扫描等功能。 相信很多用户听说过这款 App，口碑相当不错。文档扫描识别翻译个",
+          "link": "https://www.appinn.com/baimiao-app-202107/",
+          "publishedOn": "2021-07-08T07:42:45.000Z",
+          "wordCount": 1358,
+          "title": "下周一涨价倒计时！白描 App 永久会员折扣，别错过"
+        },
+        {
           "id": "https://www.appinn.com/?p=39236",
           "author": "青小蛙",
           "description": "Sumatra PDF 是一款有着 15 年历史的老牌、轻量级、开源 PDF 阅读器，还支持电子书（ePub, Mobi）、XPS、DjVu、CHM、Comic Book (CBZ and CBR)",
@@ -4873,6 +4882,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/149616",
+          "author": null,
+          "description": "践行开源共创的精神，FISCO BCOS开源社区致力打造开放多元的开源联盟链生态。 目前，社区已汇聚了超40000名社区成员，大家聚集于此碰撞观点、交流技术，围绕FISCO BCOS开发各类实用的应用组件、持续优化项目，并自发输出技术解析、使用案例、操作实践等丰富内容。 在大家的共同建设下，FISCO BCOS生态不断丰富完善，涌现...",
+          "link": "https://www.oschina.net/news/149616",
+          "publishedOn": "2021-07-08T07:17:27.000Z",
+          "wordCount": 727,
+          "title": "FISCO BCOS 2021年第二季度贡献榜单"
+        },
         {
           "id": "https://www.oschina.net/news/149604",
           "author": null,
