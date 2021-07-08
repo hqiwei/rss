@@ -1719,15 +1719,6 @@
           "publishedOn": "2021-06-09T06:24:22.000Z",
           "wordCount": 85,
           "title": "GopherChina T 恤来了"
-        },
-        {
-          "id": "https://gocn.vip/topics/12176",
-          "author": "DennisMao",
-          "description": "GoCN 每日新闻 (2021-06-09)\nGo 语言中的零拷贝优化 https://developer.51cto.com/art/202106/665738.htm\n\nGo timer 是如何被调度的？ https://mp.weixin.qq.com/s/iseiQ20eIUR9i02fy1tFhg\n\nrelite6.0.0 设计，让集群更具鲁棒性 https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/\n\nterraform v1.0.0 正式发布: 兼容性更好,稳定性更强 https://www.terraform.io/docs/language/v1-compatibility-promises.html\n\n小技巧分享：在 Go 如何实现枚举？ hhttps://mp.weixin.qq.com/s/4jvhRQvKlMiYweSOG6xCrA\nGopherChina 倒计时 18 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n编辑: Razil\n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs",
-          "link": "https://gocn.vip/topics/12176",
-          "publishedOn": "2021-06-09T05:30:40.000Z",
-          "wordCount": 110,
-          "title": "GoCN 每日新闻 (2021-06-09)"
         }
       ]
     },
@@ -4820,15 +4811,6 @@
           "publishedOn": "2021-06-10T05:42:01.000Z",
           "wordCount": 746,
           "title": "我爱跳广告 – 又一款自动跳过开屏广告的安卓应用"
-        },
-        {
-          "id": "https://www.appinn.com/?p=39011",
-          "author": "青小蛙",
-          "description": "虽然你的手机容量有 256G 128G，但还是架不住空间不足要删除手机中的照片、视频，那么，不要群晖、不要云服务，怎么样能最省成本（当然是 0 成本）的将照片、视频自动备份到电脑中呢？@Appinn",
-          "link": "https://www.appinn.com/lomorage-backup-photos/",
-          "publishedOn": "2021-06-09T05:52:29.000Z",
-          "wordCount": 744,
-          "title": "如何用现有的 1 台电脑 1 部手机，「0 成本」自动备份手机照片、视频？Lomorage"
         }
       ]
     },
@@ -7986,15 +7968,6 @@
           "publishedOn": "2021-06-09T11:22:25.000Z",
           "wordCount": 1518,
           "title": "开源社区中如何打造人设？肖战哥哥看了直呼内行"
-        },
-        {
-          "id": "https://www.oschina.net/news/145328",
-          "author": null,
-          "description": "关于 Apache Pulsar Apache Pulsar 是 Apache 软件基金会顶级项目，是下一代云原生分布式消息流平台，集消息、存储、轻量化函数式计算为一体，采用计算与存储分离架构设计，支持多租户、持久化存储、多机房跨区域数据复制，具有强一致性、高吞吐、低延时及高可扩展性等流数据存储特性。 GitHub 地址：http://github.com...",
-          "link": "https://www.oschina.net/news/145328",
-          "publishedOn": "2021-06-09T05:58:50.000Z",
-          "wordCount": 521,
-          "title": "Apache Pulsar 社区志愿者招募"
         }
       ]
     },
