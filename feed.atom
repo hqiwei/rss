@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T09:10:05.301Z</updated>
+    <updated>2021-07-09T10:10:13.617Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -13068,16 +13068,6 @@ fun…]]></summary>
         <summary type="html"><![CDATA[Cybersecurity Ventures 预测，到 2031 年，勒索软件每年将给受害者带来约 2650 亿美元的损失；这一金额是其基于未来 10 年损害成本同比增长 30% 的基础所得出。该公司 2017 年的一份报告曾预测，2017 年勒索软件所造成的的损失将达到 50 亿美元，相较于 2015 年的 3.25 亿美元增长了 15 倍。2018 年的损失预计将达到 80...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From the Slums of Mumbai to a Rented Apartment – My 30-Year Developer Journey]]></title>
-        <id>60b357ad11ffb70827ef9a90</id>
-        <link href="https://www.freecodecamp.org/news/my-journey-into-tech-from-slums-of-mumbai-to-my-own-apartment/"/>
-        <updated>2021-06-09T21:55:16.000Z</updated>
-        <summary type="html"><![CDATA[Last year I tweeted about how I was moving from a Slum where I lived for 29 years to a multi-story rented apartment.  The tech community on Twitter responded with nothing but love. Dan Wahlin posted that he would love to hear more about my story. It's not going to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
