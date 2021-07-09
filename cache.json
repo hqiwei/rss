@@ -794,6 +794,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12284",
+          "author": "laocheng",
+          "description": "绘制图表 go-echarts\n1. echarts 是什么？\necharts 是百度开发图表库，对于经常需要图表展示的开发者来说，是一个非常大的福利。\n2. 为什么那么受欢迎？\n丰富的图表类型，条形、折线、饼型、等等应有尽有\n强劲的渲染引擎\n专业的数据分析 \n优雅的可视化设计\n健康的开源社区\n友好的无障碍访问\n3. 怎么使用\n下载扩展库 github.com/go-echarts/go-echarts/v2/charts 即可使用。\n一个简单的条形图\n步骤如下：\n    - New 一个条形图对象\n    - 设置 标题 和 子标题\n    - 设置 数据组\n    - 绘图 生成 html\npackage main\n\nimport (\n    \"github.com/go-echarts/go-echarts/v2/charts\"\n    \"github.com/go-echarts/go-echarts/v2/opts\"\n    \"math/rand\"\n    \"os\"\n)\n\n// 数据生成数据\nfunc generateBarItems() []opts.BarData {\n    items := make([]opts.BarData, 0)\n    for i := 0; i < 7; i++ {\n        items = append(items, opts.BarData{Value: rand.Intn(300)})\n    }\n    return items\n}\n\nfunc main() {\n    // 1.New 一个条形图对象\n    bar := charts.NewBar()\n    // 2.设置 标题 和 子标题\n    bar.SetGlobalOptions(charts.WithTitleOpts(opts.Title{\n …",
+          "link": "https://gocn.vip/topics/12284",
+          "publishedOn": "2021-07-09T05:09:53.000Z",
+          "wordCount": 451,
+          "title": "绘制图表 go-echarts"
+        },
+        {
           "id": "https://gocn.vip/topics/12283",
           "author": "fuxiaohei",
           "description": "GoCN 每日新闻（2021-07-08）\n私有化仓库的 GO 模块使用实践 https://zhuanlan.zhihu.com/p/384621827\n\nGo 阅读清单 https://github.com/qichengzx/gopher-reading-list-zh_CN\n\nsync.RWMutex 实现和使用说明 https://sreramk.medium.com/go-sync-rwmutex-internals-and-usage-explained-9eb15865bba\n\nGo 使用 WasmEdge 嵌入 WASM https://www.secondstate.io/articles/extend-golang-app-with-webassembly-rust/\n\ngo-doudou 去中心化微服务敏捷开发框架 https://github.com/unionj-cloud/go-doudou\n\n\n\n\n编辑: 傅小黑\n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
@@ -4855,6 +4864,33 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/149718/edgegallery-1-2-0-released",
+          "author": null,
+          "description": "EdgeGallery 1.2.0版本正式发布 2021年7月7日，经过社区开发者三个多月的共同努力，EdgeGallery社区即将正式发布第五个版本EverGreen Release。此版本是EdgeGallery的1.2.0正式版本。本次版本发布后，EdgeGallery共有29个代码仓已经发布。 此次新版本功能增强分布于EdgeGallery所有功能模块中，尤其在虚机应用的集成、平...",
+          "link": "https://www.oschina.net/news/149718/edgegallery-1-2-0-released",
+          "publishedOn": "2021-07-09T06:12:57.000Z",
+          "wordCount": 542,
+          "title": "EdgeGallery 1.2.0 EverGreen Release 来了"
+        },
+        {
+          "id": "https://my.oschina.net/u/4559794/blog/5124578",
+          "author": null,
+          "description": "时光荏苒，已经开启了下半年的新篇章，而国产数据库市场依旧保持着很高的热度。",
+          "link": "https://my.oschina.net/u/4559794/blog/5124578",
+          "publishedOn": "2021-07-09T06:06:38.000Z",
+          "wordCount": 198,
+          "title": "2021年7月国产数据库排行榜解读：TiDB、OceanBase、PolarDB 稳居 Top 3，openGauss 涨势强劲"
+        },
+        {
+          "id": "https://www.oschina.net/news/149716",
+          "author": null,
+          "description": "LINBIT, DaoCloud 和 SPDB 于今日宣布，Piraeus 数据存储项目已被 CNCF 的 Sandbox 接纳。 01、Piraeus 的「创始方」 LINBIT 位于欧洲和美国，是开源项目 DRBD，LINSTOR 的发起公司，并参与了Pacemaker 和 Piraeus 数据存储项目。 DaoCloud 以云计算、人工智能为底座构建数字化操作系统为实体经济赋能，推动传统企业完成...",
+          "link": "https://www.oschina.net/news/149716",
+          "publishedOn": "2021-07-09T05:50:40.000Z",
+          "wordCount": 569,
+          "title": "CNCF 接纳 Piraeus 数据存储项目为沙盒项目"
+        },
         {
           "id": "https://www.oschina.net/news/149704",
           "author": null,

@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T05:08:32.945Z</updated>
+    <updated>2021-07-09T06:16:12.749Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EdgeGallery 1.2.0 EverGreen Release 来了]]></title>
+        <id>https://www.oschina.net/news/149718/edgegallery-1-2-0-released</id>
+        <link href="https://www.oschina.net/news/149718/edgegallery-1-2-0-released"/>
+        <updated>2021-07-09T06:12:57.000Z</updated>
+        <summary type="html"><![CDATA[EdgeGallery 1.2.0版本正式发布 2021年7月7日，经过社区开发者三个多月的共同努力，EdgeGallery社区即将正式发布第五个版本EverGreen Release。此版本是EdgeGallery的1.2.0正式版本。本次版本发布后，EdgeGallery共有29个代码仓已经发布。 此次新版本功能增强分布于EdgeGallery所有功能模块中，尤其在虚机应用的集成、平...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年7月国产数据库排行榜解读：TiDB、OceanBase、PolarDB 稳居 Top 3，openGauss 涨势强劲]]></title>
+        <id>https://my.oschina.net/u/4559794/blog/5124578</id>
+        <link href="https://my.oschina.net/u/4559794/blog/5124578"/>
+        <updated>2021-07-09T06:06:38.000Z</updated>
+        <summary type="html"><![CDATA[时光荏苒，已经开启了下半年的新篇章，而国产数据库市场依旧保持着很高的热度。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNCF 接纳 Piraeus 数据存储项目为沙盒项目]]></title>
+        <id>https://www.oschina.net/news/149716</id>
+        <link href="https://www.oschina.net/news/149716"/>
+        <updated>2021-07-09T05:50:40.000Z</updated>
+        <summary type="html"><![CDATA[LINBIT, DaoCloud 和 SPDB 于今日宣布，Piraeus 数据存储项目已被 CNCF 的 Sandbox 接纳。 01、Piraeus 的「创始方」 LINBIT 位于欧洲和美国，是开源项目 DRBD，LINSTOR 的发起公司，并参与了Pacemaker 和 Piraeus 数据存储项目。 DaoCloud 以云计算、人工智能为底座构建数字化操作系统为实体经济赋能，推动传统企业完成...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[绘制图表 go-echarts]]></title>
+        <id>https://gocn.vip/topics/12284</id>
+        <link href="https://gocn.vip/topics/12284"/>
+        <updated>2021-07-09T05:09:53.000Z</updated>
+        <summary type="html"><![CDATA[绘制图表 go-echarts
+1. echarts 是什么？
+echarts 是百度开发图表库，对于经常需要图表展示的开发者来说，是一个非常大的福利。
+2. 为什么那么受欢迎？
+丰富的图表类型，条形、折线、饼型、等等应有尽有
+强劲的渲染引擎
+专业的数据分析 
+优雅的可视化设计
+健康的开源社区
+友好的无障碍访问
+3. 怎么使用
+下载扩展库 github.com/go-echarts/go-echarts/v2/charts 即可使用。
+一个简单的条形图
+步骤如下：
+    - New 一个条形图对象
+    - 设置 标题 和 子标题
+    - 设置 数据组
+    - 绘图 生成 html
+package main
+
+import (
+    "github.com/go-echarts/go-echarts/v2/charts"
+    "github.com/go-echarts/go-echarts/v2/opts"
+    "math/rand"
+    "os"
+)
+
+// 数据生成数据
+func generateBarItems() []opts.BarData {
+    items := make([]opts.BarData, 0)
+    for i := 0; i < 7; i++ {
+        items = append(items, opts.BarData{Value: rand.Intn(300)})
+    }
+    return items
+}
+
+func main() {
+    // 1.New 一个条形图对象
+    bar := charts.NewBar()
+    // 2.设置 标题 和 子标题
+    bar.SetGlobalOptions(charts.WithTitleOpts(opts.Title{
+ …]]></summary>
+        <author>
+            <name>laocheng</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[suntrise 的游戏回忆录：那些好玩又有趣的手机游戏]]></title>
         <id>https://www.appinn.com/?p=39257</id>
