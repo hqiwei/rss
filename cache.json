@@ -706,15 +706,6 @@
           "publishedOn": "2021-06-09T21:55:16.000Z",
           "wordCount": 3477,
           "title": "From the Slums of Mumbai to a Rented Apartment – My 30-Year Developer Journey"
-        },
-        {
-          "id": "60c0ccbed3126007592d5781",
-          "author": null,
-          "description": "Here's the bottom line: you don't need much to get started as a freelance developer.  The biggest obstacle developers face when they're thinking about getting started is that they tend to overcomplicate things.  Most are intimidated by the sheer number of different paths or skills deemed necessary by various blog",
-          "link": "https://www.freecodecamp.org/news/the-skills-you-need-to-start-freelancing/",
-          "publishedOn": "2021-06-09T19:45:20.000Z",
-          "wordCount": 1731,
-          "title": "The Skills You Need to Start Freelancing as a Developer"
         }
       ]
     },
@@ -784,6 +775,15 @@
       "feedUrl": "https://gocn.vip/topics/feed",
       "siteUrl": "https://gocn.vip/",
       "articles": [
+        {
+          "id": "https://gocn.vip/topics/12285",
+          "author": "Lilith.yi",
+          "description": "关于我们\n回响科技致力于打造最好玩的潮流文化兴趣社区，可微信小程序/微信公众号搜索潮玩族、千岛士多等了解我们；\n创始人是成功创业者、前字节跳动高管，思考筹备了多年的想法决定创业；\n我们的团队成员多来自互联网一线大厂，不甘做流水线的螺丝钉，加入我们来实现新的高度；\n长期招募后端/前端/移动端同学，期待着优秀有想法的你，加入我们一起来做些有趣的事儿~\n岗位职责\n职位要求\n2、扎实的计算机基础知识，深入理解数据结构、算法和操作系统知识；\n薪资待遇\n❀补充说明 ( ´▽｀) ノ\n不同资历的选手都看喔~\n接受转语言\n应聘简历请发送到 liyidan@echoing.tech ，如想了解详情或其他岗位情况，也可邮件沟通或加微信联系：Lyden_Lee。",
+          "link": "https://gocn.vip/topics/12285",
+          "publishedOn": "2021-07-09T08:09:44.000Z",
+          "wordCount": 114,
+          "title": "[上海][回响科技] 长期招聘 golang 开发"
+        },
         {
           "id": "https://gocn.vip/topics/12284",
           "author": "laocheng",
@@ -4855,6 +4855,24 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/149726",
+          "author": null,
+          "description": "报告编号：B6-2021-070801 报告来源：360CERT 报告作者：360CERT 更新日期：2021-07-08 更新简介 1. Google Project Zero于07月08日公开了该漏洞细节 2.该漏洞无需用户交互，只要触发Defender对恶意文件的检测即可触发并利用漏洞 3.漏洞详情新增漏洞详细描述 漏洞简述 2021年07月08日，360CERT监测发现Google Project Ze...",
+          "link": "https://www.oschina.net/news/149726",
+          "publishedOn": "2021-07-09T07:46:32.000Z",
+          "wordCount": 537,
+          "title": "【漏洞细节公开】Windows Defender 远程代码执行漏洞通告"
+        },
+        {
+          "id": "https://www.oschina.net/news/149725",
+          "author": null,
+          "description": "业界要闻 1. GOTC 全球开源技术峰会上海站议程新鲜出炉 摘要：全球开源技术峰会是由开放原子开源基金会与 Linux 基金会联合开源中国发起的，大会议题覆盖云原生、大数据、人工智能、物联网、区块链、DevOps、开源治理等多个技术领域，上海站举办日期为7月9日-10日。 2. Kubernetes 发布2020年社区年度报告 摘要：这是为特...",
+          "link": "https://www.oschina.net/news/149725",
+          "publishedOn": "2021-07-09T07:46:04.000Z",
+          "wordCount": 539,
+          "title": "云原生计算动态周报：Apache Dubbo 3.0.0 正式发布；Kubernetes 发布 2020 年社区年度报告"
+        },
         {
           "id": "https://www.oschina.net/news/149718/edgegallery-1-2-0-released",
           "author": null,
