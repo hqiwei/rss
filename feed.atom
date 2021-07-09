@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T04:12:08.816Z</updated>
+    <updated>2021-07-09T05:08:32.945Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -12361,56 +12361,6 @@ fun…]]></summary>
         <summary type="html"><![CDATA[Bootstrap is one of the most popular CSS frameworks and Sass is one of the most popular preprocessors for CSS. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Bootstrap 5 and Sass by building a portfolio website. Patrick Muriungi developed this course.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在计算机像素中是什么，又是如何呈现的？]]></title>
-        <id>http://www.dayanzai.me/?p=36751</id>
-        <link href="http://www.dayanzai.me/what-is-a-pixel.html"/>
-        <updated>2021-06-09T16:35:13.000Z</updated>
-        <summary type="html"><![CDATA[没有图像，通信将一事无成——几乎什么都没有。甚至在摄影中的电子记录技术取代负片和印刷品之前，已经开发了各种图像 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hot Door CADtools 12.2.6 for Illustrator CS6~CC 2021 x64 中文免费版]]></title>
-        <id>http://www.dayanzai.me/?p=38770</id>
-        <link href="http://www.dayanzai.me/hot-door-cadtools.html"/>
-        <updated>2021-06-09T16:30:28.000Z</updated>
-        <summary type="html"><![CDATA[Hot Door CADTools 12 中文版是由 Hot Door 公司开发的一款用于 Adobe Ill […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多媒体播放器 VLC Media Player 3.0.15 + x64 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=2651</id>
-        <link href="http://www.dayanzai.me/vlc-media-player.html"/>
-        <updated>2021-06-09T16:29:13.000Z</updated>
-        <summary type="html"><![CDATA[VLC Media Player 3.0 + x64 中文版 多媒体播放器由大眼仔旭（www.dayanzai […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 系统安装部署工具 WinNTSetup 4.6.3 x64 绿色单文件版]]></title>
-        <id>http://www.dayanzai.me/?p=3241</id>
-        <link href="http://www.dayanzai.me/winntsetup.html"/>
-        <updated>2021-06-09T16:28:47.000Z</updated>
-        <summary type="html"><![CDATA[WinNTSetup 绿色中文版 Windows 系统安装部署工具由大眼仔旭（www.dayanzai.me） […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全局广告拦截专家 Adguard 官方正版优惠，98元永久更新使用！]]></title>
-        <id>http://www.dayanzai.me/?p=43444</id>
-        <link href="http://www.dayanzai.me/adguard-buy.html"/>
-        <updated>2021-06-09T16:22:14.000Z</updated>
-        <summary type="html"><![CDATA[AdGuard 广告拦截隐私保护软件 -3设备终身授权由大眼仔旭（www.dayanzai.me）和 APSG […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
         </author>
     </entry>
 </feed>
