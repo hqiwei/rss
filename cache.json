@@ -733,6 +733,15 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-166.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-166.html",
+          "publishedOn": "2021-07-09T00:45:10.000Z",
+          "wordCount": 558,
+          "title": "科技爱好者周刊（第 166 期）：视频学习胜过读书吗？"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -4489,15 +4498,6 @@
           "publishedOn": "2021-06-09T13:59:09.000Z",
           "wordCount": 479,
           "title": "使用开源工具升级你的 Linux PC 硬件"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86276",
-          "author": "Editor, Kai",
-          "description": "上周末，Linux 5.13内核进行了修改，使Linux x86/x86_64内核开始强制保留最初的1MB内存，以避免一些BIOS和帧缓冲器有时对系统内存的最低部分进行破坏的问题。虽然人们认为无条件地保留前1MB有点麻烦，而且也许Windo […]",
-          "link": "http://www.linuxeden.com/a/86276",
-          "publishedOn": "2021-06-09T13:48:35.000Z",
-          "wordCount": 101,
-          "title": "Windows同样无条件保留了前1MB的内存 Linux只是晚了一步"
         }
       ]
     },
@@ -4873,6 +4873,33 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/149704",
+          "author": null,
+          "description": "2021 年 3 月，在新华社受权全文播发的《中华人民共和国国民经济和社会发展第十四个五年规划和 2035 年远景目标纲要》中，“开源”被首次提及。从纲要提到的“支持数字技术开源社区等创新联合体发展，完善开源知识产权和法律体系，鼓励企业开放软件源代码、硬件设计和应用服务”，可以看出国家在战略层面对「开源」的肯定...",
+          "link": "https://www.oschina.net/news/149704",
+          "publishedOn": "2021-07-09T01:22:34.000Z",
+          "wordCount": 536,
+          "title": "坚定开源战略，中兴成为全球开源技术峰会 GOTC 黄金赞助商"
+        },
+        {
+          "id": "https://www.oschina.net/news/149702/db-engines-ranking-202107",
+          "author": null,
+          "description": "DB-Engines 7 月份流行度排行已更新（基于 6 月份的整体数据变化）。 前 20 的整体排名变化不大，主要体现在 Redis 和 Cassandra 均比上个月上升了一名，IBM Db2 和 Microsoft Access 则分别下降了一名。 分数方面，三大数据库 Oracle、MySQL 和 SQL Server 与去年同期相比出现了较大的下跌，分别减少了 77.59、40.13 和...",
+          "link": "https://www.oschina.net/news/149702/db-engines-ranking-202107",
+          "publishedOn": "2021-07-09T00:51:49.000Z",
+          "wordCount": 554,
+          "title": "7 月数据库排行榜：三大数据库分数下降最多"
+        },
+        {
+          "id": "https://www.oschina.net/news/149701/google-play-service-discontinue-support-jelly-bean",
+          "author": null,
+          "description": "Google Play 官方发文表示，以后的 Google Play 服务版本将不再支持 Android Jelly Bean（以下简称为 JB）平台，对应 API 级别为 16、17、18。 JB 平台于 9 年前首次发布，截至 2021 年 7 月，其活跃设备数已低于1%。并且 Android 发布了很多优化和功能，但都没有同步到 JB，这导致开发人员和 QA 花在需要特殊处理的新功...",
+          "link": "https://www.oschina.net/news/149701/google-play-service-discontinue-support-jelly-bean",
+          "publishedOn": "2021-07-09T00:49:39.000Z",
+          "wordCount": 548,
+          "title": "Google Play 服务将停止支持 “Jelly Bean” 平台"
+        },
         {
           "id": "https://www.oschina.net/news/149698/kotlin-new-logo",
           "author": null,
@@ -8084,6 +8111,24 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=52316",
+          "author": "大眼仔~旭",
+          "description": "开源免费 DJ 混音软件 Mixxx 中文版由大眼仔旭（www.dayanzai.me）发布。Mixxx 是免 […]",
+          "link": "http://www.dayanzai.me/mixxx.html",
+          "publishedOn": "2021-07-08T16:29:36.000Z",
+          "wordCount": 1852,
+          "title": "开源免费 DJ 混音软件 Mixxx 2.3.0 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=3544",
+          "author": "大眼仔~旭",
+          "description": "Cyberduck 中文版 免费开源的 FTP/SFTP 软件由大眼仔旭（www.dayanzai.me）发布 […]",
+          "link": "http://www.dayanzai.me/cyberduck.html",
+          "publishedOn": "2021-07-08T16:12:09.000Z",
+          "wordCount": 642,
+          "title": "免费开源的 FTP/SFTP 软件 Cyberduck 7.10.0.35184 中文多语免费版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=7792",
           "author": "大眼仔~旭",
