@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T12:13:54.019Z</updated>
+    <updated>2021-07-09T13:15:06.017Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -13456,56 +13456,6 @@ fun…]]></summary>
         <summary type="html"><![CDATA[Redis 作者 antirez 近日对在维护开源项目过程中遇到精神压力的情况发表了看法。 起因是开源项目 Docz 作者 Pedro 在 repo 中发表的一篇短文章，他在其中描述了自己在维护开源项目过程中心理状态的变化。 最初为了开发 Docz，他可以提前 3 小时起床，推迟 3 小时睡觉，可以说是全力以赴地创建了这个项目。Docz 也给 Pedr...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub 机密扫描现在支持 PyPI 和 RubyGems]]></title>
-        <id>https://www.oschina.net/news/145435/github-secret-scan-support-pypl-and-rubygems</id>
-        <link href="https://www.oschina.net/news/145435/github-secret-scan-support-pypl-and-rubygems"/>
-        <updated>2021-06-10T00:47:51.000Z</updated>
-        <summary type="html"><![CDATA[GitHub 最近将其机密扫描功能扩展到包含 PyPI 和 RubyGems 注册表机密的存储库，以防止 Ruby 和 Python 开发人员无意中将机密和凭据提交到他们的 GitHub 存储库。 机密（secret），也被称为令牌，是用于验证的唯一字符串。在编写软件时，开发人员通常会利用一些第三方软件来避免 “重复造轮子”。有时，第三方软件可以导...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源美图 2021 06 10]]></title>
-        <id>http://www.linuxeden.com/?p=86311</id>
-        <link href="http://www.linuxeden.com/a/86311"/>
-        <updated>2021-06-10T00:23:04.000Z</updated>
-        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 06 10]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上线时间不到一周，鸿蒙 2 升级用户突破千万]]></title>
-        <id>http://www.linuxeden.com/?p=86308</id>
-        <link href="http://www.linuxeden.com/a/86308"/>
-        <updated>2021-06-10T00:22:03.000Z</updated>
-        <summary type="html"><![CDATA[6 月 2 日晚，华为的 HarmonyOS 2 正式发布，这是一款面向全场景的分布式操作系统，可用于物联网各种设备，除手机外，也能适配手表、平板等智能终端设备。华为称，这是华为史上最大规模的一次升级，自 6 月 2 日起，将有超过百款手机 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spring Framework 5.3.8 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86306</id>
-        <link href="http://www.linuxeden.com/a/86306"/>
-        <updated>2021-06-10T00:18:30.000Z</updated>
-        <summary type="html"><![CDATA[On behalf of the team and everyone who has contributed, I am pleased to announce that Spring Framework 5.3.8 is availabl […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qt Creator 4.15.1发布]]></title>
-        <id>http://www.linuxeden.com/?p=86304</id>
-        <link href="http://www.linuxeden.com/a/86304"/>
-        <updated>2021-06-10T00:15:04.000Z</updated>
-        <summary type="html"><![CDATA[This release fixes freezes when cancelling the C++ indexer, and after the configuration of a CMake project changed. It a […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>
