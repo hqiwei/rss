@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T01:54:40.777Z</updated>
+    <updated>2021-07-09T02:23:51.539Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -214,6 +214,26 @@
         <summary type="html"><![CDATA[Developing web pages used to involve writing HTML, CSS, and a little scripting code like JavaScript for functionality.  But over time, we've developed new and more advanced technologies and frameworks to create webpages. We now use things like reusable components, routing, and rendering to the document object model (DOM).  These]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[剪影 Windows 版 剪映专业版 1.4.1 官方中文免费版]]></title>
+        <id>http://www.dayanzai.me/?p=7279</id>
+        <link href="http://www.dayanzai.me/jianying-pro.html"/>
+        <updated>2021-07-08T16:21:47.000Z</updated>
+        <summary type="html"><![CDATA[剪影 Windows 版 剪映专业版由大眼仔旭（www.dayanzai.me）发布。2月1日，抖音旗下视频创 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 下的 32/64 位调试器 x64_dbg 2.4 2021-07-01 官方中文版]]></title>
+        <id>http://www.dayanzai.me/?p=5687</id>
+        <link href="http://www.dayanzai.me/dbg.html"/>
+        <updated>2021-07-08T16:20:59.000Z</updated>
+        <summary type="html"><![CDATA[x64_dbg 2.4 官方中文版 Windows 下的 32/64 位调试器由大眼仔旭（www.dayanz […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
@@ -12379,26 +12399,6 @@ fun…]]></summary>
         <link href="http://www.linuxeden.com/a/86294"/>
         <updated>2021-06-09T14:41:50.000Z</updated>
         <summary type="html"><![CDATA[Tomcat Native 1.2.30发布 使用开源工具升级你的 Linux PC 硬件 Windows同样无条件保留了前1MB的内存 Linux只是晚了一步 openSUSE Leap 15.3 版本缩小了与 SUSE Linux 企业 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tomcat Native 1.2.30发布]]></title>
-        <id>http://www.linuxeden.com/?p=86290</id>
-        <link href="http://www.linuxeden.com/a/86290"/>
-        <updated>2021-06-09T14:04:32.000Z</updated>
-        <summary type="html"><![CDATA[The Apache Tomcat Project is proud to announce the release of version 1.2.30 of Tomcat Native. The notable changes since […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用开源工具升级你的 Linux PC 硬件]]></title>
-        <id>http://www.linuxeden.com/?p=86281</id>
-        <link href="http://www.linuxeden.com/a/86281"/>
-        <updated>2021-06-09T13:59:09.000Z</updated>
-        <summary type="html"><![CDATA[升级你的电脑硬件来提升性能，以获得最大的回报。 在我的文章《使用开源工具识别 Linux 性能瓶颈》中，我解释了一些使用开源的图形用户界面（GUI）工具监测 Linux 性能的简单方法。我的重点是识别 性能瓶颈，即硬件资源达到极限并阻碍你的 […]]]></summary>
         <author>
             <name>Editor, Kai</name>
         </author>

@@ -4480,24 +4480,6 @@
           "publishedOn": "2021-06-09T14:41:50.000Z",
           "wordCount": 108,
           "title": "每日文章精选 2021 06 09"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86290",
-          "author": "Editor, Kai",
-          "description": "The Apache Tomcat Project is proud to announce the release of version 1.2.30 of Tomcat Native. The notable changes since […]",
-          "link": "http://www.linuxeden.com/a/86290",
-          "publishedOn": "2021-06-09T14:04:32.000Z",
-          "wordCount": 153,
-          "title": "Tomcat Native 1.2.30发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86281",
-          "author": "Editor, Kai",
-          "description": "升级你的电脑硬件来提升性能，以获得最大的回报。 在我的文章《使用开源工具识别 Linux 性能瓶颈》中，我解释了一些使用开源的图形用户界面（GUI）工具监测 Linux 性能的简单方法。我的重点是识别 性能瓶颈，即硬件资源达到极限并阻碍你的 […]",
-          "link": "http://www.linuxeden.com/a/86281",
-          "publishedOn": "2021-06-09T13:59:09.000Z",
-          "wordCount": 479,
-          "title": "使用开源工具升级你的 Linux PC 硬件"
         }
       ]
     },
@@ -8119,6 +8101,24 @@
           "publishedOn": "2021-07-08T16:29:36.000Z",
           "wordCount": 1852,
           "title": "开源免费 DJ 混音软件 Mixxx 2.3.0 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=7279",
+          "author": "大眼仔~旭",
+          "description": "剪影 Windows 版 剪映专业版由大眼仔旭（www.dayanzai.me）发布。2月1日，抖音旗下视频创 […]",
+          "link": "http://www.dayanzai.me/jianying-pro.html",
+          "publishedOn": "2021-07-08T16:21:47.000Z",
+          "wordCount": 563,
+          "title": "剪影 Windows 版 剪映专业版 1.4.1 官方中文免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=5687",
+          "author": "大眼仔~旭",
+          "description": "x64_dbg 2.4 官方中文版 Windows 下的 32/64 位调试器由大眼仔旭（www.dayanz […]",
+          "link": "http://www.dayanzai.me/dbg.html",
+          "publishedOn": "2021-07-08T16:20:59.000Z",
+          "wordCount": 749,
+          "title": "Windows 下的 32/64 位调试器 x64_dbg 2.4 2021-07-01 官方中文版"
         },
         {
           "id": "http://www.dayanzai.me/?p=3544",
