@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T02:23:51.539Z</updated>
+    <updated>2021-07-09T03:10:14.508Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[suntrise 的游戏回忆录：那些好玩又有趣的手机游戏]]></title>
+        <id>https://www.appinn.com/?p=39257</id>
+        <link href="https://www.appinn.com/suntrise-games/"/>
+        <updated>2021-07-09T02:36:00.000Z</updated>
+        <summary type="html"><![CDATA[这是一篇发布在讨论组的帖子，原标题： 那些好玩又有趣的手机游戏，作者 @suntrise 前言 这是写给我自己的游戏回忆录 这几年玩过很多很有趣的游戏，不过这两年由于各种原因，把它们都淡]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[坚定开源战略，中兴成为全球开源技术峰会 GOTC 黄金赞助商]]></title>
         <id>https://www.oschina.net/news/149704</id>
@@ -182,6 +192,16 @@
         <link href="https://www.oschina.net/news/149690/ibm-open-sources-codeflare"/>
         <updated>2021-07-08T23:08:28.000Z</updated>
         <summary type="html"><![CDATA[IBM 推出了一个名为 CodeFlare 的开源框架，旨在用于简化大数据和人工智能工作流程在混合云上的整合和有效扩展。根据介绍，CodeFlare 建立在 Ray 之上，Ray 是一个新兴的用于机器学习应用的开源分布式计算框架。CodeFlare 通过增加特定的元素来扩展 Ray 的能力，使工作流程的扩展更加容易。 IBM 方面指出，随着数据和机器...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nest.js 8.0 发布，渐进式 Node.js 框架]]></title>
+        <id>https://www.oschina.net/news/149686/nest-js-8-0-released</id>
+        <link href="https://www.oschina.net/news/149686/nest-js-8-0-released"/>
+        <updated>2021-07-08T23:05:39.000Z</updated>
+        <summary type="html"><![CDATA[Nest.js 是一个用于构建高效、可扩展的 Node.js 服务器端应用程序的框架。它使用 TypeScript 和 JavaScript 构建，并结合了 OOP、FP 和 FRP 等元素。 Nest.js 8.0 正式发布，该版本更新内容如下： 特性： 重构内置的控制台记录器类，分离出 Logger wrapper 类和 ConsoleLogger 类，添加缓冲日志功能，添加日志级别输出，...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>
@@ -12391,16 +12411,6 @@ fun…]]></summary>
         <summary type="html"><![CDATA[AdGuard 广告拦截隐私保护软件 -3设备终身授权由大眼仔旭（www.dayanzai.me）和 APSG […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日文章精选 2021 06 09]]></title>
-        <id>http://www.linuxeden.com/?p=86294</id>
-        <link href="http://www.linuxeden.com/a/86294"/>
-        <updated>2021-06-09T14:41:50.000Z</updated>
-        <summary type="html"><![CDATA[Tomcat Native 1.2.30发布 使用开源工具升级你的 Linux PC 硬件 Windows同样无条件保留了前1MB的内存 Linux只是晚了一步 openSUSE Leap 15.3 版本缩小了与 SUSE Linux 企业 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>
