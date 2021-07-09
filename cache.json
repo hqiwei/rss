@@ -2061,6 +2061,42 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=87369",
+          "author": "Editor, Kai",
+          "description": "如何在 Go 中嵌入 Python Kotlin宣布了全新的设计语言 引入渐变色方案 英特尔Alder Lake移动处理器产品线曝光 如何解析 Bash 程序的配置文件 Linux 内核准备支持 Rust Jim Hall，你觉得 Fedo […]",
+          "link": "http://www.linuxeden.com/a/87369",
+          "publishedOn": "2021-07-09T15:47:30.000Z",
+          "wordCount": 100,
+          "title": "每日文章精选 2021 07 09"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87363",
+          "author": "Editor, Kai",
+          "description": "如果你看一下 新的 Datadog Agent，你可能会注意到大部分代码库是用 Go 编写的，尽管我们用来收集指标的检查仍然是用 Python 编写的。这大概是因为 Datadog Agent 是一个 嵌入了 CPython 解释器的普通  […]",
+          "link": "http://www.linuxeden.com/a/87363",
+          "publishedOn": "2021-07-09T15:41:31.000Z",
+          "wordCount": 877,
+          "title": "如何在 Go 中嵌入 Python"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87349",
+          "author": "Editor, Kai",
+          "description": "Kotlin 不仅是一款适用于 Android 应用开发的语言，也是一套能够创建各种项目的完整生态系统。从移动 App、网站、到数据科学，Kotlin 社区都相当活跃且友好，并且已经在世界各地举办过数百场的线上和线下活动。问题在于，尽管有着 […]",
+          "link": "http://www.linuxeden.com/a/87349",
+          "publishedOn": "2021-07-09T15:32:01.000Z",
+          "wordCount": 127,
+          "title": "Kotlin宣布了全新的设计语言 引入渐变色方案"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87343",
+          "author": "Editor, Kai",
+          "description": "此前爆料称，英特尔会在 12 代 Alder Lake 处理器平台上灵活运用“大小核”设计，比如支持最高 8C / 16T 的 Golden Cove 高性能核心、加上 8C / 8T 的 Gracemont 低功耗核心。除了桌面平台，HX […]",
+          "link": "http://www.linuxeden.com/a/87343",
+          "publishedOn": "2021-07-09T15:28:03.000Z",
+          "wordCount": 259,
+          "title": "英特尔Alder Lake移动处理器产品线曝光"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=87339",
           "author": "Editor, Kai",
           "description": "Linuxeden开源社区-开源美图 2021 07 09",
@@ -5108,15 +5144,6 @@
           "publishedOn": "2021-06-10T07:42:35.000Z",
           "wordCount": 819,
           "title": "Parallels Desktop 官网 618 促销 7 折特惠"
-        },
-        {
-          "id": "https://www.appinn.com/?p=39034",
-          "author": "青小蛙",
-          "description": "我爱跳广告 是一款无需 root、自动跳过第三方 App 开屏广告的安卓应用。需要无障碍权限，通过文本匹配，帮你在打开一些 App 时，自动跳过开屏广告，从而直接进入 App 主界面。@Appinn",
-          "link": "https://www.appinn.com/love-jump-ad-for-android/",
-          "publishedOn": "2021-06-10T05:42:01.000Z",
-          "wordCount": 746,
-          "title": "我爱跳广告 – 又一款自动跳过开屏广告的安卓应用"
         }
       ]
     },
@@ -8301,15 +8328,6 @@
           "publishedOn": "2021-06-10T09:53:34.000Z",
           "wordCount": 516,
           "title": "微众银行 AI 开源项目-更新合集 5 月篇"
-        },
-        {
-          "id": "https://www.oschina.net/news/145483/fizz-gateway-2-1-0-released",
-          "author": null,
-          "description": "Fizz Gateway 2.1.0 已经发布，HTTP/Dubbo路由深度支持。 v2.1.0 changelog： 支持配置Dubbo路由； 支持form-data接口的服务编排； 支持文件上传； 测试页面支持输入和展示XML, 支持以form-data和x-wwww-form-urlencoded方式提交请求； 优化找不到路由的错误提示语 增加网关分组的实例IP的合法性校验 增加获取appid自定义...",
-          "link": "https://www.oschina.net/news/145483/fizz-gateway-2-1-0-released",
-          "publishedOn": "2021-06-10T04:08:35.000Z",
-          "wordCount": 662,
-          "title": "Fizz Gateway 2.1.0 发布，Dubbo 路由深度支持"
         }
       ]
     },
