@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T10:09:44.353Z</updated>
+    <updated>2021-07-10T11:07:25.693Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻（2021-07-09）]]></title>
+        <id>https://gocn.vip/topics/12334</id>
+        <link href="https://gocn.vip/topics/12334"/>
+        <updated>2021-07-10T10:21:08.000Z</updated>
+        <summary type="html"><![CDATA[GoCN 每日新闻（2021-07-09）
+编程语言内存模型 https://research.swtch.com/plmm
+
+关于 Golang 的 4 个小秘密 https://mp.weixin.qq.com/s/LLJh8CGhRqR3Zu8wPfIxRQ
+
+Golang 官方限流器的用法详解 https://mp.weixin.qq.com/s/S3_YEyhLcaAUuaSabXdimw
+
+map 的底层实现 https://segmentfault.com/a/1190000040269520
+
+Tekton 与 Argo CD 结合实现 GitOps https://mp.weixin.qq.com/s/8jCdM3w3rDpAxLuDkLHn8g
+
+
+
+
+编辑: yuliz
+订阅新闻: http://tinyletter.com/gocn
+
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>yulibaozi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoCN 每日新闻（2021-07-10）]]></title>
         <id>https://gocn.vip/topics/12333</id>
@@ -13432,36 +13459,6 @@ TiDB 支持标准 SQL，大大降低敏态应用开发复杂度，加快应用�
         <link href="https://gitee.com/emqx/emqx"/>
         <updated>2021-06-10T23:33:18.000Z</updated>
         <summary type="html"><![CDATA[一款完全开源，高度可伸缩，高可用的分布式 MQTT 消息服务器，适用于 IoT、M2M 和移动应用程序，可处理千万级别的并发客户端。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eclipse 基金会报告：开源对物联网和边缘部署至关重要]]></title>
-        <id>https://www.oschina.net/news/145588/2021-iot-edge-commercial-survey</id>
-        <link href="https://www.oschina.net/news/145588/2021-iot-edge-commercial-survey"/>
-        <updated>2021-06-10T23:06:05.000Z</updated>
-        <summary type="html"><![CDATA[Eclipse 基金会发布的一份“2021 IoT and Edge Commercial Adoption Survey”报告指出，组织正在以增量模式将开源纳入其部署计划。这清楚地表明，占主导地位的物联网和边缘平台要么是开源的，要么是基于开源的。 该调查的时间范围为 2021 年 1 月 12 日至 3 月 15 日，基于 300 多名相关专业人士进行了调研。调查结果显示...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客利用 Chrome 和 Windows 零日漏洞链，对目标系统进行攻击]]></title>
-        <id>https://www.oschina.net/news/145587/hackers-using-chrome-windows-zero-days-vulnerabilities</id>
-        <link href="https://www.oschina.net/news/145587/hackers-using-chrome-windows-zero-days-vulnerabilities"/>
-        <updated>2021-06-10T23:04:52.000Z</updated>
-        <summary type="html"><![CDATA[卡巴斯基的安全研究人员近日发现了一个名为 PuzzleMaker 的恶意攻击者，他利用 Google Chrome 浏览器和 Windows 10 的零日漏洞链，对全球多家公司进行了有高度针对性的攻击。 据卡巴斯基的报告，由 PuzzleMaker 发起的攻击在 4 月中旬首次被发现，该漏洞链中的第一个漏洞是 CVE-2021-21224，这是 Chrome 浏览器在 90.0.4...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel 发布 CPU 优化代码示例]]></title>
-        <id>https://www.oschina.net/news/145582/intel-publish-optimization-code</id>
-        <link href="https://www.oschina.net/news/145582/intel-publish-optimization-code"/>
-        <updated>2021-06-10T22:55:59.000Z</updated>
-        <summary type="html"><![CDATA[Intel 发布了最新的 CPU 优化参考手册，并且在 GitHub 上上传了相关示例代码。 一直以来，Intel 都维护着一份冗长的 "优化参考手册"，以帮助开发者了解如何为其最新的 CPU 微架构优化代码。最近，Intel 不仅更新了该手册，而且在 GitHub 上开源了很多相关的代码示例，以更好地帮助开发者学习 Intel 优化技术，从而充分利...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>
