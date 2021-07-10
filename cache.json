@@ -2070,6 +2070,51 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=87389",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 07 10",
+          "link": "http://www.linuxeden.com/a/87389",
+          "publishedOn": "2021-07-10T03:06:56.000Z",
+          "wordCount": 84,
+          "title": "开源美图 2021 07 10"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87382",
+          "author": "Editor, Kai",
+          "description": "分，这是法国的另一个项目，旨在促进植物科学的科学、技术和工业文化。 PlantNet 允许用户利用智能手机的摄像头来收集视觉标本，并由软件和社区进行识别。然后，这些照片将与全世界数百万加入 PlantNet 网络的人分享。 该项目说：“Pl […]",
+          "link": "http://www.linuxeden.com/a/87382",
+          "publishedOn": "2021-07-10T02:53:13.000Z",
+          "wordCount": 158,
+          "title": "用开源移动应用 PlantNet 来识别花草和树木"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87375",
+          "author": "Editor, Kai",
+          "description": "虽然有一个 FreeDOS 版的 tar，但 DOS 上事实上的标准归档工具是 Zip 和 Unzip。 在 Linux 上，你可能熟悉标准的 Unix 归档命令：tar。FreeDOS 上也有 tar 的版本（还有其他一些流行的归档程序） […]",
+          "link": "http://www.linuxeden.com/a/87375",
+          "publishedOn": "2021-07-10T02:52:19.000Z",
+          "wordCount": 288,
+          "title": "如何在 FreeDOS 上归档文件"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87373",
+          "author": "Editor, Kai",
+          "description": "We are happy to announce the release of Qt Creator 5.0 Beta! As announced in the 4.15 release blog post we are switching […]",
+          "link": "http://www.linuxeden.com/a/87373",
+          "publishedOn": "2021-07-10T02:51:39.000Z",
+          "wordCount": 513,
+          "title": "Qt Creator 5.0 Beta发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87371",
+          "author": "Editor, Kai",
+          "description": "On behalf of the team and everyone who has contributed, it is my pleasure to announce the general availability of Spring […]",
+          "link": "http://www.linuxeden.com/a/87371",
+          "publishedOn": "2021-07-10T02:42:37.000Z",
+          "wordCount": 183,
+          "title": "Spring Authorization Server 0.1.2 发布"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=87369",
           "author": "Editor, Kai",
           "description": "如何在 Go 中嵌入 Python Kotlin宣布了全新的设计语言 引入渐变色方案 英特尔Alder Lake移动处理器产品线曝光 如何解析 Bash 程序的配置文件 Linux 内核准备支持 Rust Jim Hall，你觉得 Fedo […]",
@@ -4750,42 +4795,6 @@
           "publishedOn": "2021-06-11T00:07:22.000Z",
           "wordCount": 106,
           "title": "中科院：计算光刻技术取得重大进展"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86324",
-          "author": "Editor, Kai",
-          "description": "Vivaldi 4.0 发布 Linux Kernel 5.14将移除已淘汰的RAW驱动 Apache Hive 2.3.9 发布 上线时间不到一周，鸿蒙 2 升级用户突破千万 PGP 发布三十周年 使用开源工具升级你的 Linux PC  […]",
-          "link": "http://www.linuxeden.com/a/86324",
-          "publishedOn": "2021-06-10T14:52:26.000Z",
-          "wordCount": 107,
-          "title": "每日文章精选 2021 06 10"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86322",
-          "author": "Editor, Kai",
-          "description": "基于 Chromium 的浏览器 Vivaldi 释出了 4.0 版本。Vivaldi 由 Opera 联合创始人谭咏文（Jon von Tetzchner）创办。Vivaldi 4.0 的特性包括：桌面和 Android 版本内置翻译功能 […]",
-          "link": "http://www.linuxeden.com/a/86322",
-          "publishedOn": "2021-06-10T14:41:54.000Z",
-          "wordCount": 114,
-          "title": "Vivaldi 4.0 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86318",
-          "author": "Editor, Kai",
-          "description": "Linux 中的 RAW 驱动（RAW_DRIVER）主要用于提供对块设备的直接 I/O 访问，不过即将推出的 Linux Kernel 5.14 内核中将移除该驱动。该驱动原本计划在 2000 年年中的时候就要废弃，而且在更早的时候就已经 […]",
-          "link": "http://www.linuxeden.com/a/86318",
-          "publishedOn": "2021-06-10T14:37:02.000Z",
-          "wordCount": 114,
-          "title": "Linux Kernel 5.14将移除已淘汰的RAW驱动"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86314",
-          "author": "Editor, Kai",
-          "description": "apache-hive-2.3.9-bin.tar.gz        2021-06-09 18:30  273M apache-hive-2.3.9-bin.tar.gz.asc    2021-06-09 18:30  833 apa […]",
-          "link": "http://www.linuxeden.com/a/86314",
-          "publishedOn": "2021-06-10T14:32:07.000Z",
-          "wordCount": 103,
-          "title": "Apache Hive 2.3.9 发布"
         }
       ]
     },
@@ -5143,6 +5152,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/149798/state-of-open-in-uk",
+          "author": null,
+          "description": "由非营利组织 \"Open UK\" 进行的英国开源状况调查第二阶段的调查报告已经发布。该报告查了英国的 273 家企业，以下是其主要结论： 在过去的疫情中，97% 的不同规模的企业都在使用开源软件技术，64% 的企业经历了业务增长，这转化为在过去 12 个月中对开源软件相关职位的招聘需求。48% 的企业正在更多地使用开源软件，因为...",
+          "link": "https://www.oschina.net/news/149798/state-of-open-in-uk",
+          "publishedOn": "2021-07-10T01:54:48.000Z",
+          "wordCount": 536,
+          "title": "英国开源调查报告公布，97% 的企业在使用开源"
+        },
         {
           "id": "https://www.oschina.net/news/149797/ms-store-xmal",
           "author": null,

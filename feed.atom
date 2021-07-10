@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T01:48:50.973Z</updated>
+    <updated>2021-07-10T03:10:10.530Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 07 10]]></title>
+        <id>http://www.linuxeden.com/?p=87389</id>
+        <link href="http://www.linuxeden.com/a/87389"/>
+        <updated>2021-07-10T03:06:56.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 07 10]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用开源移动应用 PlantNet 来识别花草和树木]]></title>
+        <id>http://www.linuxeden.com/?p=87382</id>
+        <link href="http://www.linuxeden.com/a/87382"/>
+        <updated>2021-07-10T02:53:13.000Z</updated>
+        <summary type="html"><![CDATA[分，这是法国的另一个项目，旨在促进植物科学的科学、技术和工业文化。 PlantNet 允许用户利用智能手机的摄像头来收集视觉标本，并由软件和社区进行识别。然后，这些照片将与全世界数百万加入 PlantNet 网络的人分享。 该项目说：“Pl […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在 FreeDOS 上归档文件]]></title>
+        <id>http://www.linuxeden.com/?p=87375</id>
+        <link href="http://www.linuxeden.com/a/87375"/>
+        <updated>2021-07-10T02:52:19.000Z</updated>
+        <summary type="html"><![CDATA[虽然有一个 FreeDOS 版的 tar，但 DOS 上事实上的标准归档工具是 Zip 和 Unzip。 在 Linux 上，你可能熟悉标准的 Unix 归档命令：tar。FreeDOS 上也有 tar 的版本（还有其他一些流行的归档程序） […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qt Creator 5.0 Beta发布]]></title>
+        <id>http://www.linuxeden.com/?p=87373</id>
+        <link href="http://www.linuxeden.com/a/87373"/>
+        <updated>2021-07-10T02:51:39.000Z</updated>
+        <summary type="html"><![CDATA[We are happy to announce the release of Qt Creator 5.0 Beta! As announced in the 4.15 release blog post we are switching […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Authorization Server 0.1.2 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87371</id>
+        <link href="http://www.linuxeden.com/a/87371"/>
+        <updated>2021-07-10T02:42:37.000Z</updated>
+        <summary type="html"><![CDATA[On behalf of the team and everyone who has contributed, it is my pleasure to announce the general availability of Spring […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国开源调查报告公布，97% 的企业在使用开源]]></title>
+        <id>https://www.oschina.net/news/149798/state-of-open-in-uk</id>
+        <link href="https://www.oschina.net/news/149798/state-of-open-in-uk"/>
+        <updated>2021-07-10T01:54:48.000Z</updated>
+        <summary type="html"><![CDATA[由非营利组织 "Open UK" 进行的英国开源状况调查第二阶段的调查报告已经发布。该报告查了英国的 273 家企业，以下是其主要结论： 在过去的疫情中，97% 的不同规模的企业都在使用开源软件技术，64% 的企业经历了业务增长，这转化为在过去 12 个月中对开源软件相关职位的招聘需求。48% 的企业正在更多地使用开源软件，因为...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Store 完全使用 XAML 以替代 HTML，Visual Studio 预计年底上架商店]]></title>
         <id>https://www.oschina.net/news/149797/ms-store-xmal</id>
@@ -13421,46 +13481,6 @@ TiDB 支持标准 SQL，大大降低敏态应用开发复杂度，加快应用�
 简历投递 E-mail：bGl1eGluQG9uZXMuYWk=]]></summary>
         <author>
             <name>niuniu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日文章精选 2021 06 10]]></title>
-        <id>http://www.linuxeden.com/?p=86324</id>
-        <link href="http://www.linuxeden.com/a/86324"/>
-        <updated>2021-06-10T14:52:26.000Z</updated>
-        <summary type="html"><![CDATA[Vivaldi 4.0 发布 Linux Kernel 5.14将移除已淘汰的RAW驱动 Apache Hive 2.3.9 发布 上线时间不到一周，鸿蒙 2 升级用户突破千万 PGP 发布三十周年 使用开源工具升级你的 Linux PC  […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vivaldi 4.0 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86322</id>
-        <link href="http://www.linuxeden.com/a/86322"/>
-        <updated>2021-06-10T14:41:54.000Z</updated>
-        <summary type="html"><![CDATA[基于 Chromium 的浏览器 Vivaldi 释出了 4.0 版本。Vivaldi 由 Opera 联合创始人谭咏文（Jon von Tetzchner）创办。Vivaldi 4.0 的特性包括：桌面和 Android 版本内置翻译功能 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Kernel 5.14将移除已淘汰的RAW驱动]]></title>
-        <id>http://www.linuxeden.com/?p=86318</id>
-        <link href="http://www.linuxeden.com/a/86318"/>
-        <updated>2021-06-10T14:37:02.000Z</updated>
-        <summary type="html"><![CDATA[Linux 中的 RAW 驱动（RAW_DRIVER）主要用于提供对块设备的直接 I/O 访问，不过即将推出的 Linux Kernel 5.14 内核中将移除该驱动。该驱动原本计划在 2000 年年中的时候就要废弃，而且在更早的时候就已经 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Hive 2.3.9 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86314</id>
-        <link href="http://www.linuxeden.com/a/86314"/>
-        <updated>2021-06-10T14:32:07.000Z</updated>
-        <summary type="html"><![CDATA[apache-hive-2.3.9-bin.tar.gz        2021-06-09 18:30  273M apache-hive-2.3.9-bin.tar.gz.asc    2021-06-09 18:30  833 apa […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>
