@@ -2070,6 +2070,24 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=87411",
+          "author": "Editor, Kai",
+          "description": "[图]在Windows 11 WSL2上运行Ubuntu和原生运行有多大区别？ USB低延迟音频支持驱动已经重新提交给Linux 5.14 中国空间站和北斗七星同框！网友感叹：画面太美 用开源移动应用 PlantNet 来识别花草和树木 如 […]",
+          "link": "http://www.linuxeden.com/a/87411",
+          "publishedOn": "2021-07-10T13:52:53.000Z",
+          "wordCount": 95,
+          "title": "每日文章精选 2021 07 10"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87406",
+          "author": "Editor, Kai",
+          "description": "伴随着 Windows Subsystem for Linux（WSL）技术的不断成熟，越来越多的用户在 Windows 系统上体验 Linux 系统。那么相比较直接在设备上安装 Linux 系统，WSL 在 Windows 11 上的性能 […]",
+          "link": "http://www.linuxeden.com/a/87406",
+          "publishedOn": "2021-07-10T13:38:44.000Z",
+          "wordCount": 119,
+          "title": "[图]在Windows 11 WSL2上运行Ubuntu和原生运行有多大区别？"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=87402",
           "author": "Editor, Kai",
           "description": "Linux 5.14已经重新开始纳入改进，以降低其USB音频驱动的延迟。最近，SUSE的Linux声音子系统维护者Takashi Iwai进行了工作，以减少音频播放时USB音频驱动程序的延迟。这些改进已经在PulseAudio、JACK、P […]",
@@ -8255,6 +8273,60 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=6816",
+          "author": "大眼仔~旭",
+          "description": "开源免费 Windows 动态桌面壁纸 WinDynamicDesktop 中文版由大眼仔旭（www.daya […]",
+          "link": "http://www.dayanzai.me/windynamicdesktop.html",
+          "publishedOn": "2021-07-09T16:34:37.000Z",
+          "wordCount": 577,
+          "title": "开源免费 Windows 动态桌面壁纸 WinDynamicDesktop 4.7.0 中文免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=35322",
+          "author": "大眼仔~旭",
+          "description": "Wii U 模拟器中文版 Cemu Wii U Emulator 中文汉化版由大眼仔旭（www.dayanza […]",
+          "link": "http://www.dayanzai.me/cemu.html",
+          "publishedOn": "2021-07-09T16:27:39.000Z",
+          "wordCount": 734,
+          "title": "Wii U 模拟器中文版 Cemu Wii U Emulator 1.24.0 中文免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=2811",
+          "author": "大眼仔~旭",
+          "description": "FileZilla 中文版 + Portable 免费开源的 FTP 软件由大眼仔旭（www.dayanzai […]",
+          "link": "http://www.dayanzai.me/filezilla.html",
+          "publishedOn": "2021-07-09T16:23:48.000Z",
+          "wordCount": 592,
+          "title": "免费开源的 FTP 软件 FileZilla 3.55 + x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=51449",
+          "author": "大眼仔~旭",
+          "description": "韩国鲸鱼浏览器 Whale 中文版由大眼仔旭（www.dayanzai.me）整理发布。您所使用的 Web 浏 […]",
+          "link": "http://www.dayanzai.me/whale.html",
+          "publishedOn": "2021-07-09T16:14:13.000Z",
+          "wordCount": 596,
+          "title": "韩国鲸鱼浏览器 Whale 2.10.123.10 + x64 中文免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=6419",
+          "author": "大眼仔~旭",
+          "description": "Foxmail 7.2 简体中文版 Foxmail 邮件客户端软件由大眼仔旭（www.dayanzai.me） […]",
+          "link": "http://www.dayanzai.me/foxmail.html",
+          "publishedOn": "2021-07-09T16:10:43.000Z",
+          "wordCount": 587,
+          "title": "Foxmail 邮件客户端软件 Foxmail 7.2.22 Build 183 简体中文版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=266",
+          "author": "大眼仔~旭",
+          "description": "开源免费 Markdown 笔记工具 VNote 中文版由大眼仔旭（www.dayanzai.me）发布。Vi […]",
+          "link": "http://www.dayanzai.me/vnote.html",
+          "publishedOn": "2021-07-09T16:03:33.000Z",
+          "wordCount": 602,
+          "title": "开源免费 Markdown 笔记工具 VNote 3.4.0 中文多语免费版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=53079",
           "author": "大眼仔~旭",
