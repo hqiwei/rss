@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T12:13:05.805Z</updated>
+    <updated>2021-07-10T13:13:29.781Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[USB低延迟音频支持驱动已经重新提交给Linux 5.14]]></title>
+        <id>http://www.linuxeden.com/?p=87402</id>
+        <link href="http://www.linuxeden.com/a/87402"/>
+        <updated>2021-07-10T12:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Linux 5.14已经重新开始纳入改进，以降低其USB音频驱动的延迟。最近，SUSE的Linux声音子系统维护者Takashi Iwai进行了工作，以减少音频播放时USB音频驱动程序的延迟。这些改进已经在PulseAudio、JACK、P […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国空间站和北斗七星同框！网友感叹：画面太美]]></title>
+        <id>http://www.linuxeden.com/?p=87399</id>
+        <link href="http://www.linuxeden.com/a/87399"/>
+        <updated>2021-07-10T12:27:43.000Z</updated>
+        <summary type="html"><![CDATA[6月17日9时22分，搭载神舟十二号载人飞船的长征二号F遥十二运载火箭，在酒泉卫星发射中心准时点火发射，顺利将聂海胜、刘伯明、汤洪波3名航天员送入太空。 据介绍，航天员将完成为期3个月的在轨驻留，开展机械臂操作、出舱活动等工作，验证航天员长 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoCN 每日新闻（2021-07-09）]]></title>
         <id>https://gocn.vip/topics/12334</id>
@@ -13291,96 +13311,6 @@ TiDB 支持标准 SQL，大大降低敏态应用开发复杂度，加快应用�
 现在，TiDB 的 HTAP 能力除了在互联网、金融、零售、物流等高科技场景下得到了应用，也正在帮助政务这样的公共服务行业进行架构创新，完成数字化转型。]]></summary>
         <author>
             <name>TiDB_Robot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linus 怒斥反疫苗言论，称邮件列表不接受愚蠢的谎言]]></title>
-        <id>https://www.oschina.net/news/145599/linus-talk-about-anti-vax-lies</id>
-        <link href="https://www.oschina.net/news/145599/linus-talk-about-anti-vax-lies"/>
-        <updated>2021-06-11T01:03:16.000Z</updated>
-        <summary type="html"><![CDATA[Linus 在内核邮件列表回复了一则反对接受疫苗的言论。 起因是一名内核维护者在邮件列表发布的帖子出现如下言论： > And I know *a lot* of people who will never take part in this generic > human experiment that basically creates a new humanoid race (people > who generate and exhaust the toxic spike prote...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源美图 2021 06 11]]></title>
-        <id>http://www.linuxeden.com/?p=86357</id>
-        <link href="http://www.linuxeden.com/a/86357"/>
-        <updated>2021-06-11T00:28:30.000Z</updated>
-        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 06 11]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spring Boot 2.3.12.RELEASE 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86355</id>
-        <link href="http://www.linuxeden.com/a/86355"/>
-        <updated>2021-06-11T00:23:03.000Z</updated>
-        <summary type="html"><![CDATA[On behalf of the team and everyone who has contributed, I’m happy to announce that Spring Boot 2.3.12.RELEASE has been r […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spring Boot 2.4.7 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86353</id>
-        <link href="http://www.linuxeden.com/a/86353"/>
-        <updated>2021-06-11T00:22:29.000Z</updated>
-        <summary type="html"><![CDATA[On behalf of the team and everyone who has contributed, I’m happy to announce that Spring Boot 2.4.7 has been released a […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spring Boot 2.5.1发布]]></title>
-        <id>http://www.linuxeden.com/?p=86351</id>
-        <link href="http://www.linuxeden.com/a/86351"/>
-        <updated>2021-06-11T00:22:00.000Z</updated>
-        <summary type="html"><![CDATA[On behalf of the team and everyone who has contributed, I’m happy to announce that Spring Boot 2.5.1 has been released a […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Echarts 5.1.2 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86349</id>
-        <link href="http://www.linuxeden.com/a/86349"/>
-        <updated>2021-06-11T00:20:57.000Z</updated>
-        <summary type="html"><![CDATA[2021-06-09 [Feature] [geo/map] 在 transform 和 svg解析器中支持 skew。#755 (pissang) [Feature] [tree] 在tooltip组件的回调函数参数中新增treeAnce […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quarkus 1.13.7.Final 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86347</id>
-        <link href="http://www.linuxeden.com/a/86347"/>
-        <updated>2021-06-11T00:19:23.000Z</updated>
-        <summary type="html"><![CDATA[Complete changelog #17763 – SimpleScheduler – fix CronTrigger#evaluate() #17758 – Also register Custom […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 162 期）：生活就像《吃豆人》游戏]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html"/>
-        <updated>2021-06-11T00:15:31.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLAlchemy 1.4.18发布]]></title>
-        <id>http://www.linuxeden.com/?p=86345</id>
-        <link href="http://www.linuxeden.com/a/86345"/>
-        <updated>2021-06-11T00:13:06.000Z</updated>
-        <summary type="html"><![CDATA[Release 1.4.18 includes some ORM regressions typically involving very complex mapping/query combinations, as well as mak […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>
