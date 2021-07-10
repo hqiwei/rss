@@ -8238,15 +8238,6 @@
           "publishedOn": "2021-06-11T23:04:32.000Z",
           "wordCount": 553,
           "title": "NVIDIA 确认将放弃 Kepler GPU 驱动程序支持"
-        },
-        {
-          "id": "https://www.oschina.net/news/145658",
-          "author": null,
-          "description": "关于 Apache Pulsar Apache Pulsar 是 Apache 软件基金会顶级项目，是下一代云原生分布式消息流平台，集消息、存储、轻量化函数式计算为一体，采用计算与存储分离架构设计，支持多租户、持久化存储、多机房跨区域数据复制，具有强一致性、高吞吐、低延时及高可扩展性等流数据存储特性。 GitHub 地址：http://github.com...",
-          "link": "https://www.oschina.net/news/145658",
-          "publishedOn": "2021-06-11T06:56:58.000Z",
-          "wordCount": 737,
-          "title": "Apache Pulsar 社区新里程碑 —— 全球贡献者超 400 位！"
         }
       ]
     },

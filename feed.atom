@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T18:10:29.118Z</updated>
+    <updated>2021-07-10T19:07:07.250Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -13341,16 +13341,6 @@ CPU Percent: [4.040404 4.000000 5.050505 6.930693]
 [{"cpu":0,"vendorId":"AuthenticAMD","family":"23","model":"49","stepping":0,"physicalId":"0","coreId":"0","cores":1,"modelName":"AMD EPYC 7K62 48-Core Processor","mhz":2595.124,"cac…]]></summary>
         <author>
             <name>hausliu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Pulsar 社区新里程碑 —— 全球贡献者超 400 位！]]></title>
-        <id>https://www.oschina.net/news/145658</id>
-        <link href="https://www.oschina.net/news/145658"/>
-        <updated>2021-06-11T06:56:58.000Z</updated>
-        <summary type="html"><![CDATA[关于 Apache Pulsar Apache Pulsar 是 Apache 软件基金会顶级项目，是下一代云原生分布式消息流平台，集消息、存储、轻量化函数式计算为一体，采用计算与存储分离架构设计，支持多租户、持久化存储、多机房跨区域数据复制，具有强一致性、高吞吐、低延时及高可扩展性等流数据存储特性。 GitHub 地址：http://github.com...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
