@@ -15106,23 +15106,6 @@ Go Race Detector with ThreadSanitizer https://medium.com/a-journey-with-go/go-ra
     <ul class="sources card">
       <li class="source">
         <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.appinn.com">小众软件</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">阿里云盘小白羊版 – 第三方阿里云盘客户端[Windows/macOS]</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.appinn.com/aliyun-pan-third-client/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(4 min)</span>
-                    <span>阿里云盘小白羊版 是一款第三方的阿里云盘客户端，支持 Windows、 macOS，扫码登录之后，可满速下载，满速上传，支持预览视频、图片，支持多并发上传、断点续传，支持 115 链、秒传链。@App</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
           <h3 class="source-name"><a class="source-name__link" href="http://www.dayanzai.me">大眼仔旭</a></h3>
           <section class="articles-per-source">
             <article>
@@ -15273,100 +15256,6 @@ Go 1.3，非常精确的收集器（fully precise collector），不会将堆内
                 </a>
               </details>
             </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">【百度 - 安全部】服务端研发工程师 (Golang)</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12185">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>工作职责
-负责移动安全相关云服务平台的设计和实现.
-设计搭建私有化场景下基于 Kubernetes 的解决方案.
-负责服务端业务 API 设计、开发和实现.
-进行相关产品的技术文档编写，方案设计.
-职位要求
-本科及以上学历，熟悉 Golang 语言,有相关开发经验.
-熟悉或者了解虚拟化、容器技术，有 Kubernetes、Docker 开发和使用经验优先.
-深刻理解数据结构和算法设计，具备良好的代码质量.
-良好的沟通能力和团队协作精神，严谨的工作态度与高质量意识.
-善于学习新的知识，动手能力强，有强烈的责任心，喜欢钻研技术.
-商业化交付相关的经验优先考虑.
-有意向请发送简历到 msecurity@baidu.com</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">GoCN 每日新闻 (2021-06-11)</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12184">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>GoCN 每日新闻 (2021-06-11)
-Go 1.17 beta 1 发布 (泛型支持) https://groups.google.com/g/golang-dev/c/TfpiXhSOMRM/m/wROPV0blAgAJ 
-如何使用 GitHub Actions 自动发布你的 Go 二进制应用 https://web3.coach/golang-github-actions-release-binaries-tutorial
-
-Go、WebAssembly、HTTP 请求和 Promises https://withblue.ink/2020/10/03/go-webassembly-http-requests-and-promises.html
-
-GraphQL 聚合网关 Bramble https://github.com/movio/bramble
-
-最后测试开发模式介绍 https://bitfieldconsulting.com/golang/test-last-development
-
-
-
-编辑: lwhile
-订阅新闻: http://tinyletter.com/gocn
-招聘专区: https://gocn.vip/jobs</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Go 系统监控利器-gopsutil</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12183">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>Go 系统监控利器-gopsutil
-一、简介
-什么是 gopsutil？
-要说gopsutil就不得不先了解 psutil,顾名思义，psutil &#x3D; process and system utilities，
-它是 Python 的跨平台库，能够轻松实现获取系统运行的进程和系统利用率，包括 CPU、内存、磁盘、网络等信息。
-而gopsutil就是psutil的 Golang 移植版。
-为什么用 gopsutil？
-和直接使用 syscall 调用对应的系统方法相比，gopsutil 为我们屏蔽了各个系统间的差异，可移植性非常强。
-二、快速上手
-安装：
-go get github.com/shirou/gopsutil
-
-使用：
-package main
-
-import (
-    &quot;fmt&quot;
-    &quot;github.com/shirou/gopsutil/cpu&quot;
-    &quot;time&quot;
-)
-
-func main() {
-    info, _ :&#x3D; cpu.Info()
-
-    per, _ :&#x3D; cpu.Percent(1 * time.Second, true)
-
-    fmt.Printf(&quot;CPU Percent: %f\n&quot;, per)
-
-    fmt.Println(info)
-}
-
-
-
-输出：
-CPU Percent: [4.040404 4.000000 5.050505 6.930693]
-[{&quot;cpu&quot;:0,&quot;vendorId&quot;:&quot;AuthenticAMD&quot;,&quot;family&quot;:&quot;23&quot;,&quot;model&quot;:&quot;49&quot;,&quot;stepping&quot;:0,&quot;physicalId&quot;:&quot;0&quot;,&quot;coreId&quot;:&quot;0&quot;,&quot;cores&quot;:1,&quot;modelName&quot;:&quot;AMD EPYC 7K62 48-Core Processor&quot;,&quot;mhz&quot;:2595.124,&quot;cac…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
         </section>
       </li>
       <li class="source">
@@ -15506,7 +15395,7 @@ CPU Percent: [4.040404 4.000000 5.050505 6.930693]
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-07-10T19:07:07.211Z">2021-07-10T19:07:07.211Z</time>
+    <time id="build-timestamp" datetime="2021-07-10T21:08:23.866Z">2021-07-10T21:08:23.866Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.0</a></span>
   </footer>
   <script src="index.js"></script>

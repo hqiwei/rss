@@ -2025,33 +2025,6 @@
           "publishedOn": "2021-06-11T15:13:45.000Z",
           "wordCount": 1018,
           "title": "Go 高性能系列教程之五：内存和垃圾回收"
-        },
-        {
-          "id": "https://gocn.vip/topics/12185",
-          "author": "dolfly",
-          "description": "工作职责\n负责移动安全相关云服务平台的设计和实现.\n设计搭建私有化场景下基于 Kubernetes 的解决方案.\n负责服务端业务 API 设计、开发和实现.\n进行相关产品的技术文档编写，方案设计.\n职位要求\n本科及以上学历，熟悉 Golang 语言,有相关开发经验.\n熟悉或者了解虚拟化、容器技术，有 Kubernetes、Docker 开发和使用经验优先.\n深刻理解数据结构和算法设计，具备良好的代码质量.\n良好的沟通能力和团队协作精神，严谨的工作态度与高质量意识.\n善于学习新的知识，动手能力强，有强烈的责任心，喜欢钻研技术.\n商业化交付相关的经验优先考虑.\n有意向请发送简历到 msecurity@baidu.com",
-          "link": "https://gocn.vip/topics/12185",
-          "publishedOn": "2021-06-11T08:37:13.000Z",
-          "wordCount": 96,
-          "title": "【百度 - 安全部】服务端研发工程师 (Golang)"
-        },
-        {
-          "id": "https://gocn.vip/topics/12184",
-          "author": "lwhile",
-          "description": "GoCN 每日新闻 (2021-06-11)\nGo 1.17 beta 1 发布 (泛型支持) https://groups.google.com/g/golang-dev/c/TfpiXhSOMRM/m/wROPV0blAgAJ \n如何使用 GitHub Actions 自动发布你的 Go 二进制应用 https://web3.coach/golang-github-actions-release-binaries-tutorial\n\nGo、WebAssembly、HTTP 请求和 Promises https://withblue.ink/2020/10/03/go-webassembly-http-requests-and-promises.html\n\nGraphQL 聚合网关 Bramble https://github.com/movio/bramble\n\n最后测试开发模式介绍 https://bitfieldconsulting.com/golang/test-last-development\n\n\n\n编辑: lwhile\n订阅新闻: http://tinyletter.com/gocn\n招聘专区: https://gocn.vip/jobs",
-          "link": "https://gocn.vip/topics/12184",
-          "publishedOn": "2021-06-11T08:02:13.000Z",
-          "wordCount": 106,
-          "title": "GoCN 每日新闻 (2021-06-11)"
-        },
-        {
-          "id": "https://gocn.vip/topics/12183",
-          "author": "hausliu",
-          "description": "Go 系统监控利器-gopsutil\n一、简介\n什么是 gopsutil？\n要说gopsutil就不得不先了解 psutil,顾名思义，psutil = process and system utilities，\n它是 Python 的跨平台库，能够轻松实现获取系统运行的进程和系统利用率，包括 CPU、内存、磁盘、网络等信息。\n而gopsutil就是psutil的 Golang 移植版。\n为什么用 gopsutil？\n和直接使用 syscall 调用对应的系统方法相比，gopsutil 为我们屏蔽了各个系统间的差异，可移植性非常强。\n二、快速上手\n安装：\ngo get github.com/shirou/gopsutil\n\n使用：\npackage main\n\nimport (\n    \"fmt\"\n    \"github.com/shirou/gopsutil/cpu\"\n    \"time\"\n)\n\nfunc main() {\n    info, _ := cpu.Info()\n\n    per, _ := cpu.Percent(1 * time.Second, true)\n\n    fmt.Printf(\"CPU Percent: %f\\n\", per)\n\n    fmt.Println(info)\n}\n\n\n\n输出：\nCPU Percent: [4.040404 4.000000 5.050505 6.930693]\n[{\"cpu\":0,\"vendorId\":\"AuthenticAMD\",\"family\":\"23\",\"model\":\"49\",\"stepping\":0,\"physicalId\":\"0\",\"coreId\":\"0\",\"cores\":1,\"modelName\":\"AMD EPYC 7K62 48-Core Processor\",\"mhz\":2595.124,\"cac…",
-          "link": "https://gocn.vip/topics/12183",
-          "publishedOn": "2021-06-11T07:16:21.000Z",
-          "wordCount": 177,
-          "title": "Go 系统监控利器-gopsutil"
         }
       ]
     },
@@ -5081,15 +5054,6 @@
           "publishedOn": "2021-06-12T05:10:05.000Z",
           "wordCount": 1058,
           "title": "5 刀买 1000+ 款独立游戏？不冲吗？"
-        },
-        {
-          "id": "https://www.appinn.com/?p=39051",
-          "author": "青小蛙",
-          "description": "阿里云盘小白羊版 是一款第三方的阿里云盘客户端，支持 Windows、 macOS，扫码登录之后，可满速下载，满速上传，支持预览视频、图片，支持多并发上传、断点续传，支持 115 链、秒传链。@App",
-          "link": "https://www.appinn.com/aliyun-pan-third-client/",
-          "publishedOn": "2021-06-11T07:51:34.000Z",
-          "wordCount": 1134,
-          "title": "阿里云盘小白羊版 – 第三方阿里云盘客户端[Windows/macOS]"
         }
       ]
     },
