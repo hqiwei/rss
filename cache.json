@@ -803,6 +803,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12333",
+          "author": "keke001",
+          "description": "GoCN 每日新闻（2021-07-10）\n简单灵活的 Go 健康检查库 https://github.com/alexliesenfeld/health\n\nGo 的 WorkerPools 实现\n\n硬件内存模型 https://research.swtch.com/hwmm\n\n从头编写一个时间序列的数据库引擎 https://nakabonne.dev/posts/write-tsdb-from-scratch/\n\nGo 实现的一个快速的 HTML 有害内容 XSS 清除库 https://github.com/microcosm-cc/bluemonday\n\n\n\n\n编辑: 李森森\n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12333",
+          "publishedOn": "2021-07-10T03:58:44.000Z",
+          "wordCount": 96,
+          "title": "GoCN 每日新闻（2021-07-10）"
+        },
+        {
           "id": "https://gocn.vip/topics/12332",
           "author": "aa123123",
           "description": "大小单双不输技巧《全网最强》〖导师 +Q-4830836〗〖邀请玛-39999380〗〖誷-yycpw04.cōm〗如果你此刻十分困难，不要灰心，放平心态，先想想此刻对你来说，到底什么最为重要\n，是技术还是本`金，是心态还是人脉，把自己梳理清晰，然后设定好步骤，不要慌不要\n乱，天无绝人之路，勇敢的站起来，你可以的。技术可以通过学习获得，经验可以通过\n实战得到，心态可以通过调节增强，每一个人都不是生来都无比强大的，我也是一样，\n也是通过无数个黑夜的煎熬最后才研究出来的，所以如果说幸运，我们都幸运，如果说\n不幸运，我们其实都一样。你们可以不设置盈利点，但是你一定要设置止损点，因为谁\n都赚的起，但不是每个人都亏的起的，所以要给自己留好余地，这样你才有东山再起的\n机会，否则你掉进去了，一蹶不振，就算日后再由勇气，也是无济于事。\n路，一步一步走，不要动摇，这条路，你会有很多伙伴，他们虽未谋面，但是他们一直\n在给你默默鼓励加油，很多人都是靠运气，只有一小部分人靠的是技术，所以这样行业\n大部分人都 ‘不靠谱’，为什么不靠谱呢，因为他们都是靠运气吃饭的，明白是非的人\n都知道，运气是不能当饭吃的，所以这些人久而久之从靠谱变成了 ‘不靠谱’，一个人\n要想在这行盈·利，必须要从不靠谱的人变成靠谱，如何变，只能通过技术了，技术是所\n以玩家的通病，也是盈·利的前提，如果你现在还是一个游离在亏损边缘的玩家，那么建\n议你不要在一个人盲目的去玩了，找对方向方法都是很关键的，最重要还是要找对一个\n能引领你的人！我是这么认为的：心态只能让我们锦上添花，但是并不能给我们雪中送\n炭，一个玩家光有心态，肯定是赚·不·到·钱的，只不过良好的心态可能让你亏·损的比较少\n而已，但是你也是在亏，因为心态根本解决不了概率的问题，概率问题是只有技术才能\n解决举个例子，一个玩家如果技术够好，那么他挂的可能性就比较小，一个玩家之所以\n心态不好，很多时候是因为连挂，所以技术如果足够好，很多时候可以弥补我们心态的\n一些缺陷，所以技术远远要比心态重要的多，因为技术是肯本，心态只是润滑剂，两者\n缺一不可！",
@@ -2052,15 +2061,6 @@
           "publishedOn": "2021-06-11T03:08:06.000Z",
           "wordCount": 142,
           "title": "实时分析，以数治税 ｜烟台税务的融合大数据创新之路"
-        },
-        {
-          "id": "https://gocn.vip/topics/12181",
-          "author": "niuniu",
-          "description": "公司网址：https://ones.ai\n岗位职责：\n1、参与平台相关的系统开发；\n2、针对业务需求进行设计和开发；\n3、编写工具，提高内部研发效率\n岗位要求：\n1、全日制大学本科或以上学历，至少 2 年以上互联网或软件行业相关工作经验；\n2、熟悉常用算法及数据结构；\n3、熟悉 Go 开发语言及框架，有 1 年以上经验；\n4、熟悉数据库开发，有 1 年以上经验；\n5、理解网络基本原理并能在研发中运用；\n6、了解 Linux 系统和常用命令，熟悉基础的服务器部署操作，有 DevOps 经验优先；\n7、熟悉 MySQL，了解 GraphQL 优先；\n8、良好的文档阅读及编写能力，良好的团队沟通和协作能力。\n简历投递 E-mail：bGl1eGluQG9uZXMuYWk=",
-          "link": "https://gocn.vip/topics/12181",
-          "publishedOn": "2021-06-10T15:29:18.000Z",
-          "wordCount": 111,
-          "title": "[深圳 - 南山][18k-35k] 招聘 Golang 后端工程师一名"
         }
       ]
     },
@@ -9317,24 +9317,6 @@
           "publishedOn": "2021-06-11T16:21:16.000Z",
           "wordCount": 607,
           "title": "万能音视频解码器 K-Lite Codec Pack Mega 16.2.5 中文多语免费版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=476",
-          "author": "大眼仔~旭",
-          "description": "Screenpresso Pro 1.8 中文版 优秀截图工具由大眼仔旭发布。今天小编（www.dayanza […]",
-          "link": "http://www.dayanzai.me/screenpresso-pro.html",
-          "publishedOn": "2021-06-10T16:34:41.000Z",
-          "wordCount": 610,
-          "title": "优秀截图工具 Screenpresso Pro 1.8.9.0 中文多语免费版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=12494",
-          "author": "大眼仔~旭",
-          "description": "PeaZip Portable 由大眼仔旭（www.dayanzai.me）发布。PeaZip 中文版是可以在 […]",
-          "link": "http://www.dayanzai.me/peazip.html",
-          "publishedOn": "2021-06-10T16:30:21.000Z",
-          "wordCount": 806,
-          "title": "优秀免费压缩文档管理工具 PeaZip 8.0.0 + x64 中文多语免费版"
         }
       ]
     }

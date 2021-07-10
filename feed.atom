@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T03:10:10.530Z</updated>
+    <updated>2021-07-10T05:07:50.285Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻（2021-07-10）]]></title>
+        <id>https://gocn.vip/topics/12333</id>
+        <link href="https://gocn.vip/topics/12333"/>
+        <updated>2021-07-10T03:58:44.000Z</updated>
+        <summary type="html"><![CDATA[GoCN 每日新闻（2021-07-10）
+简单灵活的 Go 健康检查库 https://github.com/alexliesenfeld/health
+
+Go 的 WorkerPools 实现
+
+硬件内存模型 https://research.swtch.com/hwmm
+
+从头编写一个时间序列的数据库引擎 https://nakabonne.dev/posts/write-tsdb-from-scratch/
+
+Go 实现的一个快速的 HTML 有害内容 XSS 清除库 https://github.com/microcosm-cc/bluemonday
+
+
+
+
+编辑: 李森森
+订阅新闻: http://tinyletter.com/gocn
+
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>keke001</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源美图 2021 07 10]]></title>
         <id>http://www.linuxeden.com/?p=87389</id>
@@ -13437,50 +13464,6 @@ TiDB 支持标准 SQL，大大降低敏态应用开发复杂度，加快应用�
         <summary type="html"><![CDATA[Intel 发布了最新的 CPU 优化参考手册，并且在 GitHub 上上传了相关示例代码。 一直以来，Intel 都维护着一份冗长的 "优化参考手册"，以帮助开发者了解如何为其最新的 CPU 微架构优化代码。最近，Intel 不仅更新了该手册，而且在 GitHub 上开源了很多相关的代码示例，以更好地帮助开发者学习 Intel 优化技术，从而充分利...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[优秀截图工具 Screenpresso Pro 1.8.9.0 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=476</id>
-        <link href="http://www.dayanzai.me/screenpresso-pro.html"/>
-        <updated>2021-06-10T16:34:41.000Z</updated>
-        <summary type="html"><![CDATA[Screenpresso Pro 1.8 中文版 优秀截图工具由大眼仔旭发布。今天小编（www.dayanza […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[优秀免费压缩文档管理工具 PeaZip 8.0.0 + x64 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=12494</id>
-        <link href="http://www.dayanzai.me/peazip.html"/>
-        <updated>2021-06-10T16:30:21.000Z</updated>
-        <summary type="html"><![CDATA[PeaZip Portable 由大眼仔旭（www.dayanzai.me）发布。PeaZip 中文版是可以在 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[深圳 - 南山][18k-35k] 招聘 Golang 后端工程师一名]]></title>
-        <id>https://gocn.vip/topics/12181</id>
-        <link href="https://gocn.vip/topics/12181"/>
-        <updated>2021-06-10T15:29:18.000Z</updated>
-        <summary type="html"><![CDATA[公司网址：https://ones.ai
-岗位职责：
-1、参与平台相关的系统开发；
-2、针对业务需求进行设计和开发；
-3、编写工具，提高内部研发效率
-岗位要求：
-1、全日制大学本科或以上学历，至少 2 年以上互联网或软件行业相关工作经验；
-2、熟悉常用算法及数据结构；
-3、熟悉 Go 开发语言及框架，有 1 年以上经验；
-4、熟悉数据库开发，有 1 年以上经验；
-5、理解网络基本原理并能在研发中运用；
-6、了解 Linux 系统和常用命令，熟悉基础的服务器部署操作，有 DevOps 经验优先；
-7、熟悉 MySQL，了解 GraphQL 优先；
-8、良好的文档阅读及编写能力，良好的团队沟通和协作能力。
-简历投递 E-mail：bGl1eGluQG9uZXMuYWk=]]></summary>
-        <author>
-            <name>niuniu</name>
         </author>
     </entry>
 </feed>
