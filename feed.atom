@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T22:09:05.511Z</updated>
+    <updated>2021-07-10T01:48:50.973Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Store 完全使用 XAML 以替代 HTML，Visual Studio 预计年底上架商店]]></title>
+        <id>https://www.oschina.net/news/149797/ms-store-xmal</id>
+        <link href="https://www.oschina.net/news/149797/ms-store-xmal"/>
+        <updated>2021-07-10T01:33:24.000Z</updated>
+        <summary type="html"><![CDATA[在上个月的 Windows 11 发布会上，微软声称 Microsoft Store 已经“从头开始重新设计”，其中包括界面的更新、更快的滚动响应速度，以及为更多内容增加空间。据微软的官方介绍，新版商店的用户操作十分简单，并且 HTML 组件现在已经消失了。 根据外媒的报道，在 Windows 10 中，Microsoft Store 的前端部分基于 HTML/CSS...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.14 中 RISC-V 将支持更多功能]]></title>
+        <id>https://www.oschina.net/news/149794/risc-v-in-linux-kernel-will-support-more-features</id>
+        <link href="https://www.oschina.net/news/149794/risc-v-in-linux-kernel-will-support-more-features"/>
+        <updated>2021-07-10T00:31:50.000Z</updated>
+        <summary type="html"><![CDATA[根据 Linux 邮件列表显示，Linux 5.14 中的 RISC-V 架构将支持更多功能，详情如下： 支持 Transparent Hugepages。Transparent Hugepages 是 Linux 的内存管理功能，将透明的大页面表示为一个 pmd，用于减少页面查找的 TLB 开销并提高其性能，特别是对于具有大量内存的系统。除了某些数据库服务器等工作负载外，THP 均可...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现阶段数据可视化用到的工具有哪些？]]></title>
+        <id>https://www.oschina.net/question/4677483_2323163</id>
+        <link href="https://www.oschina.net/question/4677483_2323163"/>
+        <updated>2021-07-10T00:02:12.000Z</updated>
+        <summary type="html"><![CDATA[常见的数据可视化工具有哪些？想学这方面的知识，不知道从哪款软件入手。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Semgrep —— 快速轻量的代码静态分析工具]]></title>
+        <id>https://www.oschina.net/p/semgrep</id>
+        <link href="https://www.oschina.net/p/semgrep"/>
+        <updated>2021-07-09T23:49:10.000Z</updated>
+        <summary type="html"><![CDATA[Semgrep 只在你的电脑或构建环境中分析本地代码：代码从不上传。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 记某百亿级 MongoDB 集群数据过期的性能优化实践]]></title>
+        <id>https://my.oschina.net/u/4087916/blog/5122200</id>
+        <link href="https://my.oschina.net/u/4087916/blog/5122200"/>
+        <updated>2021-07-09T23:45:38.000Z</updated>
+        <summary type="html"><![CDATA[某百亿级mongodb业务只保存近期7天的数据，由于数据量大、流量高，数据过期删除点比较集中，同时不能错峰方式解决问题，因此如何利用最小物理成本来满足业务需求就成为了本集群性能优化的难点。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitee 悬赏 | stackedit 优化]]></title>
+        <id>https://gitee.com/RainyGao/DocSys/issues/I3ZLZM</id>
+        <link href="https://gitee.com/RainyGao/DocSys/issues/I3ZLZM"/>
+        <updated>2021-07-09T23:23:36.000Z</updated>
+        <summary type="html"><![CDATA[该悬赏包括交互接口、回调接口以及其他优化]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 将 DNS over HTTPS 功能扩展至更多国家]]></title>
+        <id>https://www.oschina.net/news/149784/mozilla-dns-over-https-rollout-in-canada</id>
+        <link href="https://www.oschina.net/news/149784/mozilla-dns-over-https-rollout-in-canada"/>
+        <updated>2021-07-09T22:39:04.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla 近日宣布，将于本月晚些时候为加拿大的 Firefox 用户推出 DNS over HTTPS（DoH）功能，并默认开启。此前，Firefox 已在 2020 年开始为美国用户提供了 DoH 功能。 从 7 月 20 日开始，位于加拿大的 Firefox 用户将很快会注意到浏览器将默认启用 DoH 功能。这将是一个逐步推广的过程，DoH 将首先提供给 1% 的加拿大...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卡巴斯基密码管理器生成的密码极易被破解]]></title>
+        <id>https://www.oschina.net/news/149783/kaspersky-password-manager</id>
+        <link href="https://www.oschina.net/news/149783/kaspersky-password-manager"/>
+        <updated>2021-07-09T22:37:27.000Z</updated>
+        <summary type="html"><![CDATA[安全咨询公司 Donjon 发现，在 2019 年 3 月至 2020 年 10 月期间，卡巴斯基密码管理器（Kaspersky Password Manager，KPM）生成的密码可以在几秒钟内被破解。原因在于该工具使用的伪随机数生成器（PRNG）非常不适合加密用途。 Donjon 研究人员称，卡巴斯基密码管理器中包含的密码生成器存在有几个问题。其中最重要的是，...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 React Libraries Every Project Should Use in 2021]]></title>
         <id>60e8864de8ee9b08300ecc3f</id>
@@ -13381,56 +13461,6 @@ TiDB 支持标准 SQL，大大降低敏态应用开发复杂度，加快应用�
         <summary type="html"><![CDATA[apache-hive-2.3.9-bin.tar.gz        2021-06-09 18:30  273M apache-hive-2.3.9-bin.tar.gz.asc    2021-06-09 18:30  833 apa […]]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Data Fundamentals Certification (DP-900) – Pass the Exam With This Free 4.5-Hour Course]]></title>
-        <id>60b93afaacb62507dd1d8915</id>
-        <link href="https://www.freecodecamp.org/news/azure-data-fundamentals-certification-dp-900-pass-the-exam-with-this-free-4-5-hour-course/"/>
-        <updated>2021-06-10T11:35:00.000Z</updated>
-        <summary type="html"><![CDATA[You can learn everything you need to know to earn the Azure Data Fundamentals by completing this free 4.5 hour course. What is the Azure Data Fundamentals?The Azure Data Fundamentals Certification is for those seeking a data-related role such as Data Analyst, Data Engineer, or Data Scientist. The]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OldOS – 梦回 iOS 4，用现代 iPhone 体验 11 年前的手机系统]]></title>
-        <id>https://www.appinn.com/?p=39048</id>
-        <link href="https://www.appinn.com/oldos-testflight/"/>
-        <updated>2021-06-10T10:54:58.000Z</updated>
-        <summary type="html"><![CDATA[OldOS 是一款功能齐全，甚至可以用作第二个操作系统的 iPhone 应用，它使用 SwiftUI 模仿了 11 年前的苹果操作系统 iOS 4，让你在如今 iOS 15 中也能体验 iOS 4，包]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-10)]]></title>
-        <id>https://gocn.vip/topics/12180</id>
-        <link href="https://gocn.vip/topics/12180"/>
-        <updated>2021-06-10T10:42:09.000Z</updated>
-        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-06-10)
-Go Runtime 的调度器 https://mp.weixin.qq.com/s/hU6Xmp5zeh9vgUEV5otjWg
-
-一文讲懂服务的优雅重启和更新 https://mp.weixin.qq.com/s/yryqf8SCzvt-BFj8j5bZ2w
-
-你不知道的 Go 之 pprof https://mp.weixin.qq.com/s/pSD2k1uNH9WFZumw24I4uQ
-
-源码剖析 Go 语言的 timer https://mp.weixin.qq.com/s/GwY6650MNF07MOb79-A-jQ
-
-一文教你搞懂 Go 中栈操作 https://mp.weixin.qq.com/s/hU6Xmp5zeh9vgUEV5otjWg
-
-
-
-
-GopherChina 倒计时 17 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ
-
-
-
-编辑: Max
-订阅新闻: http://tinyletter.com/gocn
-招聘专区: https://gocn.vip/jobs]]></summary>
-        <author>
-            <name>mahuaibo</name>
         </author>
     </entry>
 </feed>
