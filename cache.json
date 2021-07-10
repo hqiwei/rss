@@ -8247,15 +8247,6 @@
           "publishedOn": "2021-06-11T06:56:58.000Z",
           "wordCount": 737,
           "title": "Apache Pulsar 社区新里程碑 —— 全球贡献者超 400 位！"
-        },
-        {
-          "id": "https://www.oschina.net/news/145640/grafana-8-0-released",
-          "author": null,
-          "description": "前言 Grafana v8.0 的重大变更包括对告警系统的重构；新的可视化改进，包括状态时间线、状态历史和直方图面板； 实时流； 可以重用的库面板； 和细粒度的访问控制，允许企业客户确保其组织中的每个人都具有适当的访问级别。 我们还对 Grafana 的性能和功能进行了升级。 用户界面的改进带来了焕然一新的外观和感觉； Ente...",
-          "link": "https://www.oschina.net/news/145640/grafana-8-0-released",
-          "publishedOn": "2021-06-11T06:00:33.000Z",
-          "wordCount": 716,
-          "title": "Grafana 8 发布：统一告警、实时流和新的可视化等！"
         }
       ]
     },
