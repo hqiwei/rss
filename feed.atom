@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T20:08:56.982Z</updated>
+    <updated>2021-07-11T21:08:33.394Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -13065,32 +13065,6 @@ mapData := make(map[uint64]map[uint64]item)
         <summary type="html"><![CDATA[helloSystem是近来最有前途的基于BSD的桌面发行版之一，它希望成为BSD中的macOS，并具有良好的桌面体验。近几个月来，helloSystem一直在朝着他们的目标取得良好进展，本周末现在发布了0.5版本。 helloSystem […]]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-12)]]></title>
-        <id>https://gocn.vip/topics/12188</id>
-        <link href="https://gocn.vip/topics/12188"/>
-        <updated>2021-06-12T08:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Go 实现正向代理服务器 https://juejin.cn/post/6972563525361369125
-
-编写友好的 Go 命令行应用程序 https://mp.weixin.qq.com/s/qOhdWkIG5lZG6hV7QHIsaQ
-
-你不知道的 Go 之 const https://mp.weixin.qq.com/s/EKnphU752SY1vp_O_qY1ag
-
-Go 高性能系列教程之五：内存和垃圾回收 https://gocn.vip/topics/12186
-
-Go Race Detector with ThreadSanitizer https://medium.com/a-journey-with-go/go-race-detector-with-threadsanitizer-8e497f9e42db
-
-
-
-
-编辑: bugme
-订阅新闻: http://tinyletter.com/gocn
-
-招聘专区: https://gocn.vip/jobs]]></summary>
-        <author>
-            <name>bugme</name>
         </author>
     </entry>
 </feed>
