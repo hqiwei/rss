@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T08:09:58.426Z</updated>
+    <updated>2021-07-11T10:09:37.429Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[不同库的两张 MySQL 表如何实现特定的查询？]]></title>
+        <id>https://www.oschina.net/question/928041_2323141</id>
+        <link href="https://www.oschina.net/question/928041_2323141"/>
+        <updated>2021-07-11T08:22:14.000Z</updated>
+        <summary type="html"><![CDATA[mysql : A库A1表 存有B库 B1表的ID [10万以上]。此时要查询 A1表id 在B1 存在 + B1 表的特定字段查询 ,请问如何查询?]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有期 – 记录保质期、到期日，提醒食物、物品、证件、订阅、优惠券到期[iPhone/Android]]]></title>
         <id>https://www.appinn.com/?p=39260</id>
@@ -13191,16 +13201,6 @@ Go Race Detector with ThreadSanitizer https://medium.com/a-journey-with-go/go-ra
         <link href="https://www.freecodecamp.org/news/disaster-recovery-plan-what-are-rto-and-rpo/"/>
         <updated>2021-06-11T22:56:56.000Z</updated>
         <summary type="html"><![CDATA[If you're in the world of tech, you will inevitably run into a work-related disaster now and then. These setbacks come in many forms such as cyber-attacks, theft, leaks, and corruption. And every business must be ready to face these things and plan for them. Sir Benjamin Franklin famously said,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Center Anything in CSS Using Flexbox and Grid ✨]]></title>
-        <id>6063b9189618b008528a9d81</id>
-        <link href="https://www.freecodecamp.org/news/how-to-center-objects-using-css/"/>
-        <updated>2021-06-11T20:40:17.000Z</updated>
-        <summary type="html"><![CDATA[Today I'm gonna show you how you can center and align your content with CSS. Along the way, we'll look at various alignment techniques. So, let's get started! 🥇 Table of Contents -> How to Use Flexbox to center anything horizontally center anything vertically center both horizontally & Vertically How]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
