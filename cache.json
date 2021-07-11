@@ -4624,15 +4624,6 @@
           "publishedOn": "2021-06-12T03:08:45.000Z",
           "wordCount": 83,
           "title": "开源美图 2021 06 12"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86388",
-          "author": "Editor, Kai",
-          "description": "Bug Fixes modal: swipe to close modal is no longer swipeable on footer (#23401) (ae96563), closes #23398 title: inherit  […]",
-          "link": "http://www.linuxeden.com/a/86388",
-          "publishedOn": "2021-06-12T01:21:24.000Z",
-          "wordCount": 156,
-          "title": "Ionic 5.6.9 发布"
         }
       ]
     },
@@ -8103,15 +8094,6 @@
           "publishedOn": "2021-06-12T23:32:57.000Z",
           "wordCount": 542,
           "title": "Nvidia 计划停止支持 Windows7 和 Windows 8/8.1"
-        },
-        {
-          "id": "https://www.oschina.net/news/145753/the-plan-for-react-18",
-          "author": null,
-          "description": "React 开发团队公布了 React 18 的开发和发布计划，当前的最新工作进展如下： 已开始 React 18 版本的发布工作，这将是下一个主要版本 创建了工作组，为社区逐步采用 React 18 的新特性做准备 发布了 React 18 Alpha 版本，便于库作者尝试它并向开发团队提出相应反馈 React 18 主要变化 当 React 18 发布时，它将包含开箱...",
-          "link": "https://www.oschina.net/news/145753/the-plan-for-react-18",
-          "publishedOn": "2021-06-12T01:13:54.000Z",
-          "wordCount": 554,
-          "title": "React 18 最新进展：发布 alpha 版本、全新 SSR 架构"
         }
       ]
     },

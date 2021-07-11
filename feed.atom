@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T13:13:12.688Z</updated>
+    <updated>2021-07-11T14:08:06.108Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -13053,26 +13053,6 @@ Go Race Detector with ThreadSanitizer https://medium.com/a-journey-with-go/go-ra
         <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 06 12]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ionic 5.6.9 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86388</id>
-        <link href="http://www.linuxeden.com/a/86388"/>
-        <updated>2021-06-12T01:21:24.000Z</updated>
-        <summary type="html"><![CDATA[Bug Fixes modal: swipe to close modal is no longer swipeable on footer (#23401) (ae96563), closes #23398 title: inherit  […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React 18 最新进展：发布 alpha 版本、全新 SSR 架构]]></title>
-        <id>https://www.oschina.net/news/145753/the-plan-for-react-18</id>
-        <link href="https://www.oschina.net/news/145753/the-plan-for-react-18"/>
-        <updated>2021-06-12T01:13:54.000Z</updated>
-        <summary type="html"><![CDATA[React 开发团队公布了 React 18 的开发和发布计划，当前的最新工作进展如下： 已开始 React 18 版本的发布工作，这将是下一个主要版本 创建了工作组，为社区逐步采用 React 18 的新特性做准备 发布了 React 18 Alpha 版本，便于库作者尝试它并向开发团队提出相应反馈 React 18 主要变化 当 React 18 发布时，它将包含开箱...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
