@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T14:08:06.108Z</updated>
+    <updated>2021-07-11T16:12:54.749Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 07 11]]></title>
+        <id>http://www.linuxeden.com/?p=87440</id>
+        <link href="http://www.linuxeden.com/a/87440"/>
+        <updated>2021-07-11T14:46:00.000Z</updated>
+        <summary type="html"><![CDATA[开发人员终于从 Java 8 转向 Java 11 在 Linux 上使用 Tealdeer 替代手册页 Apache jackrabbit 2.21.7发布 ExTiX 21.7 发布 [图]在Windows 11 WSL2上运行Ubun […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开发人员终于从 Java 8 转向 Java 11]]></title>
+        <id>http://www.linuxeden.com/?p=87437</id>
+        <link href="http://www.linuxeden.com/a/87437"/>
+        <updated>2021-07-11T14:33:56.000Z</updated>
+        <summary type="html"><![CDATA[以前对 Java 社区的报告发现，开发人员仍然主要使用 Java 8。但根据 Snyk 的《2021 年 JVM 生态系统报告》，今年 61.5% 的受访者在部分生产环境中使用 Java 11，近 12% 的人在使用最新的版本 Java 1 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 Linux 上使用 Tealdeer 替代手册页]]></title>
+        <id>http://www.linuxeden.com/?p=87435</id>
+        <link href="http://www.linuxeden.com/a/87435"/>
+        <updated>2021-07-11T14:33:06.000Z</updated>
+        <summary type="html"><![CDATA[Tealder 是 Rust 版本的 tldr，对常用的命令提供了易于理解的说明信息。 手册页是我开始探索 Linux 时最常用的资源。当然，对于初学者熟悉命令行指令而言，man 是最频繁使用的指令。但是手册页中有大量的选项和参数列表，很难 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache jackrabbit 2.21.7发布]]></title>
+        <id>http://www.linuxeden.com/?p=87427</id>
+        <link href="http://www.linuxeden.com/a/87427"/>
+        <updated>2021-07-11T14:26:58.000Z</updated>
+        <summary type="html"><![CDATA[RELEASE-NOTES.txt                       2021-07-06 07:15  3.0K jackrabbit-2.21.7-src.zip               2021-07-06 07:15  […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-07-11)]]></title>
+        <id>https://gocn.vip/topics/12335</id>
+        <link href="https://gocn.vip/topics/12335"/>
+        <updated>2021-07-11T14:12:24.000Z</updated>
+        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-07-11)
+1. 如何在 Go 中嵌入 Python https://linux.cn/article-13564-1.html
+2. 熔断器原理与 Go 实现 https://ioshellboy.medium.com/circuit-breakers-in-golang-1779da9b001
+3. Go Playground 中如何实现随机 https://deedlefake.com/randomness-in-the-go-playground.html
+4. 如何 Mock AWS API 客户端 https://brandonstrohmeyer.medium.com/aws-api-client-mocking-with-go-b940dde80d9e
+5. Peanut: 一款常用中间件快速部署管理平台 https://github.com/Clivern/Peanut
+编辑: Razil 
+订阅新闻: http://tinyletter.com/gocn 
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>DennisMao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不同库的两张 MySQL 表如何实现特定的查询？]]></title>
         <id>https://www.oschina.net/question/928041_2323141</id>
@@ -13043,16 +13101,6 @@ Go Race Detector with ThreadSanitizer https://medium.com/a-journey-with-go/go-ra
         <summary type="html"><![CDATA[来自发现频道的消息，@520c 同学说到：一千多款独立游戏，最低价5刀（当然欢迎捐更多），大家不冲吗？还是只有我默默地后知后觉？ 这个捆绑游戏的所有利润都将捐给联合国近东巴勒斯坦难民救济和工程处（UN]]></summary>
         <author>
             <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源美图 2021 06 12]]></title>
-        <id>http://www.linuxeden.com/?p=86391</id>
-        <link href="http://www.linuxeden.com/a/86391"/>
-        <updated>2021-06-12T03:08:45.000Z</updated>
-        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 06 12]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>

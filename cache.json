@@ -749,6 +749,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12335",
+          "author": "DennisMao",
+          "description": "GoCN 每日新闻 (2021-07-11)\n1. 如何在 Go 中嵌入 Python https://linux.cn/article-13564-1.html\n2. 熔断器原理与 Go 实现 https://ioshellboy.medium.com/circuit-breakers-in-golang-1779da9b001\n3. Go Playground 中如何实现随机 https://deedlefake.com/randomness-in-the-go-playground.html\n4. 如何 Mock AWS API 客户端 https://brandonstrohmeyer.medium.com/aws-api-client-mocking-with-go-b940dde80d9e\n5. Peanut: 一款常用中间件快速部署管理平台 https://github.com/Clivern/Peanut\n编辑: Razil \n订阅新闻: http://tinyletter.com/gocn \n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12335",
+          "publishedOn": "2021-07-11T14:12:24.000Z",
+          "wordCount": 110,
+          "title": "GoCN 每日新闻 (2021-07-11)"
+        },
+        {
           "id": "https://gocn.vip/topics/12334",
           "author": "yulibaozi",
           "description": "GoCN 每日新闻（2021-07-09）\n编程语言内存模型 https://research.swtch.com/plmm\n\n关于 Golang 的 4 个小秘密 https://mp.weixin.qq.com/s/LLJh8CGhRqR3Zu8wPfIxRQ\n\nGolang 官方限流器的用法详解 https://mp.weixin.qq.com/s/S3_YEyhLcaAUuaSabXdimw\n\nmap 的底层实现 https://segmentfault.com/a/1190000040269520\n\nTekton 与 Argo CD 结合实现 GitOps https://mp.weixin.qq.com/s/8jCdM3w3rDpAxLuDkLHn8g\n\n\n\n\n编辑: yuliz\n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
@@ -1970,6 +1979,42 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=87440",
+          "author": "Editor, Kai",
+          "description": "开发人员终于从 Java 8 转向 Java 11 在 Linux 上使用 Tealdeer 替代手册页 Apache jackrabbit 2.21.7发布 ExTiX 21.7 发布 [图]在Windows 11 WSL2上运行Ubun […]",
+          "link": "http://www.linuxeden.com/a/87440",
+          "publishedOn": "2021-07-11T14:46:00.000Z",
+          "wordCount": 116,
+          "title": "每日文章精选 2021 07 11"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87437",
+          "author": "Editor, Kai",
+          "description": "以前对 Java 社区的报告发现，开发人员仍然主要使用 Java 8。但根据 Snyk 的《2021 年 JVM 生态系统报告》，今年 61.5% 的受访者在部分生产环境中使用 Java 11，近 12% 的人在使用最新的版本 Java 1 […]",
+          "link": "http://www.linuxeden.com/a/87437",
+          "publishedOn": "2021-07-11T14:33:56.000Z",
+          "wordCount": 127,
+          "title": "开发人员终于从 Java 8 转向 Java 11"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87435",
+          "author": "Editor, Kai",
+          "description": "Tealder 是 Rust 版本的 tldr，对常用的命令提供了易于理解的说明信息。 手册页是我开始探索 Linux 时最常用的资源。当然，对于初学者熟悉命令行指令而言，man 是最频繁使用的指令。但是手册页中有大量的选项和参数列表，很难 […]",
+          "link": "http://www.linuxeden.com/a/87435",
+          "publishedOn": "2021-07-11T14:33:06.000Z",
+          "wordCount": 323,
+          "title": "在 Linux 上使用 Tealdeer 替代手册页"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87427",
+          "author": "Editor, Kai",
+          "description": "RELEASE-NOTES.txt                       2021-07-06 07:15  3.0K jackrabbit-2.21.7-src.zip               2021-07-06 07:15  […]",
+          "link": "http://www.linuxeden.com/a/87427",
+          "publishedOn": "2021-07-11T14:26:58.000Z",
+          "wordCount": 152,
+          "title": "Apache jackrabbit 2.21.7发布"
+        },
         {
           "id": "http://www.linuxeden.com/?p=87423",
           "author": "Editor, Kai",
@@ -4615,15 +4660,6 @@
           "publishedOn": "2021-06-12T14:58:12.000Z",
           "wordCount": 90,
           "title": "BSD也有好界面 由macOS启发的HelloSystem 0.5发行版上线"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86391",
-          "author": "Editor, Kai",
-          "description": "Linuxeden开源社区-开源美图 2021 06 12",
-          "link": "http://www.linuxeden.com/a/86391",
-          "publishedOn": "2021-06-12T03:08:45.000Z",
-          "wordCount": 83,
-          "title": "开源美图 2021 06 12"
         }
       ]
     },
