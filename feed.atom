@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T22:08:55.186Z</updated>
+    <updated>2021-07-11T23:09:00.321Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DataStation —— TypeScript 编写的数据管理工具]]></title>
+        <id>https://www.oschina.net/p/datastation</id>
+        <link href="https://www.oschina.net/p/datastation"/>
+        <updated>2021-07-11T23:03:41.000Z</updated>
+        <summary type="html"><![CDATA[DataStation 是一个使用 TypeScript 编写的数据管理工具，可用于连接 SQL 查询、模拟 HTTP 请求、执行脚本以及数据可视化等。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 博士五年，我在清华做时序数据库]]></title>
+        <id>https://my.oschina.net/u/3664598/blog/5085818</id>
+        <link href="https://my.oschina.net/u/3664598/blog/5085818"/>
+        <updated>2021-07-11T22:59:28.000Z</updated>
+        <summary type="html"><![CDATA[先自我介绍一下，笔名铁头乔，2016年西安交大计算机系本科毕业之后，来到清华大学软件学院直博，师从王建民教授，大师兄黄向东，今年顺利毕业。回首往事，没有虚度年华，也不算碌碌无为，主要在做一款时序数据库：Apache IoTDB。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日文章精选 2021 07 11]]></title>
         <id>http://www.linuxeden.com/?p=87440</id>
