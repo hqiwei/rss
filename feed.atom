@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T02:20:30.264Z</updated>
+    <updated>2021-07-12T03:10:53.916Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【招聘】Go 开发工程师]]></title>
+        <id>https://gocn.vip/topics/12337</id>
+        <link href="https://gocn.vip/topics/12337"/>
+        <updated>2021-07-12T02:41:29.000Z</updated>
+        <summary type="html"><![CDATA[1、本科以上学历，计算机、软件等相关专业毕业
+2、有在大型互联网公司设计或主要参与架构设计的经历
+3、熟练使用 c/c++/Go/php 等语言之一进行开发，有高质量、高效率代码开发经验
+4、熟悉 Linux 操作系统常用命令，shell 脚本编写
+5、熟悉性能调优，理解高可用、高可靠等主题
+6、具有 RPC、分布式、多线程、网络通信编程经验，具有高并发系统设计知识
+7、具有较强学习力，分析解决问题能力，强烈的责任心和团队合作能力
+8、有电商开发经验的优先
+有意者联系：hr@goodlark.larkmailtest.com]]></summary>
+        <author>
+            <name>chcoball</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[京东 NutUI 3.1 正式发布：开启多端开发之路]]></title>
         <id>https://www.oschina.net/news/150002/nutui-3-1-released</id>
@@ -13224,26 +13242,6 @@ mapData := make(map[uint64]map[uint64]item)
         <link href="http://www.linuxeden.com/a/86410"/>
         <updated>2021-06-12T15:13:04.000Z</updated>
         <summary type="html"><![CDATA[探索最近版本的 Python 的一些有用的特性。 这是 Python 3.x 首发特性系列文章中的第十篇，其中一些版本已经发布了一段时间。Python 3.9 在 2020 年首次发布，具有很酷的新特性，但仍未被充分利用。下面是其中的三个。 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RTFM！如何阅读（和理解）Linux 中神奇的手册页]]></title>
-        <id>http://www.linuxeden.com/?p=86399</id>
-        <link href="http://www.linuxeden.com/a/86399"/>
-        <updated>2021-06-12T15:05:55.000Z</updated>
-        <summary type="html"><![CDATA[man pages，即参考手册页reference manual pages的简称，是你进入 Linux 的钥匙。你想知道的一切都在那里，包罗万象。这套文档永远不会赢得普利策奖，但这套文档是相当准确和完整的。手册页是主要信源，其权威性是众所 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BSD也有好界面 由macOS启发的HelloSystem 0.5发行版上线]]></title>
-        <id>http://www.linuxeden.com/?p=86394</id>
-        <link href="http://www.linuxeden.com/a/86394"/>
-        <updated>2021-06-12T14:58:12.000Z</updated>
-        <summary type="html"><![CDATA[helloSystem是近来最有前途的基于BSD的桌面发行版之一，它希望成为BSD中的macOS，并具有良好的桌面体验。近几个月来，helloSystem一直在朝着他们的目标取得良好进展，本周末现在发布了0.5版本。 helloSystem […]]]></summary>
         <author>
             <name>Editor, Kai</name>
         </author>

@@ -749,6 +749,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12337",
+          "author": "chcoball",
+          "description": "1、本科以上学历，计算机、软件等相关专业毕业\n2、有在大型互联网公司设计或主要参与架构设计的经历\n3、熟练使用 c/c++/Go/php 等语言之一进行开发，有高质量、高效率代码开发经验\n4、熟悉 Linux 操作系统常用命令，shell 脚本编写\n5、熟悉性能调优，理解高可用、高可靠等主题\n6、具有 RPC、分布式、多线程、网络通信编程经验，具有高并发系统设计知识\n7、具有较强学习力，分析解决问题能力，强烈的责任心和团队合作能力\n8、有电商开发经验的优先\n有意者联系：hr@goodlark.larkmailtest.com",
+          "link": "https://gocn.vip/topics/12337",
+          "publishedOn": "2021-07-12T02:41:29.000Z",
+          "wordCount": 83,
+          "title": "【招聘】Go 开发工程师"
+        },
+        {
           "id": "https://gocn.vip/topics/12336",
           "author": "Aklman",
           "description": "推荐 gorilla/sessions 的背景\n在日常 Web 应用开发过程中，需要对用户登录状态进行判断，而 HTTP 是无状态的，即不记录用户登录状态，想要得到用户登录状态得把登录状态保存下来，通常用户状态数据加密后用数据库或者缓存等手段把存储；原生的会话数据存储的 HTTP cookie 对数据大小有限制，不能写入太多太大的数据，又不能对存储的数据进行有效管理，而 gorilla/sessions 恰恰补充了原生回话控制的不足。\ngorilla/sessions 简介\ngorilla/sessions 支持原生的 HTTP cookie 会话数据存储和存储介质系统会话以及自定义会话等基础设施（Memcache/Redis/SQLite/MySQL ）的支持应有尽有。\ngorilla/sessions 提供了会话数据的加密解密，以及底层的 cookie 管理，提供的接口比较简单易用，gorilla/sessions 主要特点如下：\n简单的 API：使用它作为设置签名（和可选的加密）cookie 的简单方法。\n内置的后端可以在 cookie 或文件系统中存储会话。\nFlash 信息：会话值持续到读取为止。\n切换会话持久性（又称 \"记住我\"）和设置其他属性的方便方法。\n轮换认证和加密密钥的机制。\n每个请求有多个会话，甚至使用不同的后端。\n自定义会话后端的接口和基础设施：来自不同端的会话可以使用一个共同的 API 进行检索和批量保存。\ngorilla/sessions 应用\n下面是集成 gorilla/sessions 的简单会话控制业务代码段，如下：\nimport (\n    \"github.com/gorilla/sessions\"\n    \"net/http\"\n    \"os\"\n)\n\n// Store gorilla sessions 的存储库\nvar Store = …",
@@ -4687,24 +4696,6 @@
           "publishedOn": "2021-06-12T15:13:04.000Z",
           "wordCount": 212,
           "title": "Python 3.9 如何修复装饰器并改进字典"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86399",
-          "author": "Editor, Kai",
-          "description": "man pages，即参考手册页reference manual pages的简称，是你进入 Linux 的钥匙。你想知道的一切都在那里，包罗万象。这套文档永远不会赢得普利策奖，但这套文档是相当准确和完整的。手册页是主要信源，其权威性是众所 […]",
-          "link": "http://www.linuxeden.com/a/86399",
-          "publishedOn": "2021-06-12T15:05:55.000Z",
-          "wordCount": 629,
-          "title": "RTFM！如何阅读（和理解）Linux 中神奇的手册页"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86394",
-          "author": "Editor, Kai",
-          "description": "helloSystem是近来最有前途的基于BSD的桌面发行版之一，它希望成为BSD中的macOS，并具有良好的桌面体验。近几个月来，helloSystem一直在朝着他们的目标取得良好进展，本周末现在发布了0.5版本。 helloSystem […]",
-          "link": "http://www.linuxeden.com/a/86394",
-          "publishedOn": "2021-06-12T14:58:12.000Z",
-          "wordCount": 90,
-          "title": "BSD也有好界面 由macOS启发的HelloSystem 0.5发行版上线"
         }
       ]
     },
