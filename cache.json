@@ -6,6 +6,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60e981aae8ee9b08300ed1ae",
+          "author": null,
+          "description": "Artificial intelligence and machine learning are two popular and often hyped terms these days. And people often use them interchangeably to describe an intelligent software or system.  But even though both AI and ML are based on statistics and mathematics, they are not the same thing. In this article, you",
+          "link": "https://www.freecodecamp.org/news/ai-vs-ml-whats-the-difference/",
+          "publishedOn": "2021-07-12T11:46:56.000Z",
+          "wordCount": 899,
+          "title": "AI vs ML – What’s the Difference Between Artificial Intelligence and Machine Learning?"
+        },
+        {
+          "id": "60e76d88134ad707be00f347",
+          "author": null,
+          "description": "Gone are the days of storing your data in a CSV file or an Excel spreadsheet. If you want to quickly analyze millions of data rows in seconds, BigQuery is the way to go. In this getting started guide, we'll learn about BigQuery and how we can use it to",
+          "link": "https://www.freecodecamp.org/news/google-bigquery-beginners-guide/",
+          "publishedOn": "2021-07-12T11:26:39.000Z",
+          "wordCount": 1208,
+          "title": "Google BigQuery Beginner&#x27;s Guide – How to Analyze Large Datasets"
+        },
+        {
           "id": "60e8864de8ee9b08300ecc3f",
           "author": null,
           "description": "There are literally 100s of great React libraries to choose from, but which libraries do you need most for your React projects?  In this article, we're going to break down five libraries you need for your React projects. Each of them will cover virtually every major tool you need, plus",
@@ -8247,33 +8265,6 @@
           "publishedOn": "2021-06-13T00:15:55.000Z",
           "wordCount": 566,
           "title": "D3.js 7.0 正式发布，数据可视化 JavaScript 库"
-        },
-        {
-          "id": "https://gitee.com/emqx/MQTTX",
-          "author": null,
-          "description": "MQTT X 是 EMQ 开源的一款跨平台 MQTT 5.0 客户端工具，它支持 macOS, Linux, Windows，并且支持 MQTT 消息格式转换。MQTT X 的用户界面借助聊天软件的形式简化了页面的操作逻辑，用户可以快速创建连接保存并同时建立多个连接客户端，方便用户快速测试 MQTT/TCP、MQTT/TLS、MQTT/WebSocket 的 连接/发布/订阅 功能及其他...",
-          "link": "https://gitee.com/emqx/MQTTX",
-          "publishedOn": "2021-06-12T23:47:02.000Z",
-          "wordCount": 578,
-          "title": "Gitee 推荐 | 款跨平台 MQTT 5.0 客户端工具 MQTT X"
-        },
-        {
-          "id": "https://www.oschina.net/p/yadcc",
-          "author": null,
-          "description": "yadcc（Yet Another Distributed C++ Compiler）是一套腾讯广告自研的分布式编译系统，用于支撑腾讯广告的日常开发及流水线。相对于已有的同类解决方案，其针对实际的工业生产环境做了性能、可靠性、易用性等方面优化。",
-          "link": "https://www.oschina.net/p/yadcc",
-          "publishedOn": "2021-06-12T23:36:53.000Z",
-          "wordCount": 333,
-          "title": "yadcc —— C++ 分布式编译系统"
-        },
-        {
-          "id": "https://www.oschina.net/news/145819/nvidia-drop-support-for-win7-win8-win8-1",
-          "author": null,
-          "description": "根据 Nvidia 的最新公告显示，其已经计划结束对 Windows7 和 Windows 8/8.1的支持。 Windows 7 已经推出超过 11 年了，在其 12 周年纪念日之前，显卡生产商 Nvidia 将停止支持这个老化的操作系统。一份针对 Windows 7 和 Windows 8/8.1的支持计划显示，从 2021 年 10 月开始，Game Ready Driver 的升级，包括性能增强、新...",
-          "link": "https://www.oschina.net/news/145819/nvidia-drop-support-for-win7-win8-win8-1",
-          "publishedOn": "2021-06-12T23:32:57.000Z",
-          "wordCount": 542,
-          "title": "Nvidia 计划停止支持 Windows7 和 Windows 8/8.1"
         }
       ]
     },
