@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T01:51:27.734Z</updated>
+    <updated>2021-07-12T02:20:30.264Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[京东 NutUI 3.1 正式发布：开启多端开发之路]]></title>
+        <id>https://www.oschina.net/news/150002/nutui-3-1-released</id>
+        <link href="https://www.oschina.net/news/150002/nutui-3-1-released"/>
+        <updated>2021-07-12T01:57:26.000Z</updated>
+        <summary type="html"><![CDATA[作为一款具有京东风格的组件库，我们一直致力于用心打造更符合开发者体验的组件库。NutUI 3.0 上线后我们研发团队也在不断的优化、测试、使用、迭代 Vue3 的相关组件，但是在跨端小程序的开发过程中，发现没有合适的组件库可以支持多端开发。为了填补这一空白，同时为了优化开发者体验，让 NutUI 能够为更多的开发者带来...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[会话控制利器 gorilla/sessions]]></title>
         <id>https://gocn.vip/topics/12336</id>
