@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T14:08:40.853Z</updated>
+    <updated>2021-07-12T15:10:18.263Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 07 12]]></title>
+        <id>http://www.linuxeden.com/?p=87473</id>
+        <link href="http://www.linuxeden.com/a/87473"/>
+        <updated>2021-07-12T14:46:29.000Z</updated>
+        <summary type="html"><![CDATA[Linux 5.14内核正整合memfd_secret 可创建秘密内存区域 两周窗口合并期后 Linux Kernel 5.14首个候选版本发布 谷歌工程师提案process_reap：帮助恢复内存的系统调用方案 微软有了自己的Linux发 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.14内核正整合memfd_secret 可创建秘密内存区域]]></title>
+        <id>http://www.linuxeden.com/?p=87468</id>
+        <link href="http://www.linuxeden.com/a/87468"/>
+        <updated>2021-07-12T14:41:06.000Z</updated>
+        <summary type="html"><![CDATA[Linux Kernel 5.14 内核正在整合“memfd_secret”。该系统调用可以在 Linux 上创建秘密内存区域，该区域仅对拥有的进程可见，而不会映射到其他进程或内核页表。 这项工作起源于为 Linux 平台上的秘密内存提出的 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[两周窗口合并期后 Linux Kernel 5.14首个候选版本发布]]></title>
+        <id>http://www.linuxeden.com/?p=87464</id>
+        <link href="http://www.linuxeden.com/a/87464"/>
+        <updated>2021-07-12T14:39:45.000Z</updated>
+        <summary type="html"><![CDATA[在经历 2 周的窗口合并期之后，Linux Kernel 5.14 的首个候选版本于今天发布。在 5.14-rc1 的公告中，Linus Torvalds 评论道：“总体来说，我并不认为现在这里有任何巨大的惊喜。而且从规模上来看，它似乎是一 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌工程师提案process_reap：帮助恢复内存的系统调用方案]]></title>
+        <id>http://www.linuxeden.com/?p=87460</id>
+        <link href="http://www.linuxeden.com/a/87460"/>
+        <updated>2021-07-12T14:37:40.000Z</updated>
+        <summary type="html"><![CDATA[尽管像 OOMD/systemd-oomd 这样的 Linux 系统守护进程越来越被接受，但在高负载情况下处理系统内存（RAM）和其他行为仍存在一个问题–杀死并回收进程所需的时间。在今年 6 月下旬，Google工程师提出了名为 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软有了自己的Linux发行版 名为CBL-Mariner]]></title>
+        <id>http://www.linuxeden.com/?p=87456</id>
+        <link href="http://www.linuxeden.com/a/87456"/>
+        <updated>2021-07-12T14:29:54.000Z</updated>
+        <summary type="html"><![CDATA[近年来，微软对Linux的爱越来越多，这已经不是什么秘密了–看看Windows Subsystem for Linux就是一个例子。尽管如此，在得知微软还有自己的Linux发行版时，你还是可能会感到惊讶。微软Azure团队的一名 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn How to Use SPSS to Explore and Analyze Data]]></title>
         <id>60e753aa134ad707be00f2c1</id>
