@@ -1971,6 +1971,42 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=87450",
+          "author": "Editor, Kai",
+          "description": "Rate this project Solus is an independent, rolling-release, desktop Linux distribution. The project is available in four […]",
+          "link": "http://www.linuxeden.com/a/87450",
+          "publishedOn": "2021-07-12T00:27:56.000Z",
+          "wordCount": 303,
+          "title": "Solus 4.3 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87448",
+          "author": "Editor, Kai",
+          "description": "Wow! A release on a Saturday? Do the release management team even rest? You better believe it, because this is the last  […]",
+          "link": "http://www.linuxeden.com/a/87448",
+          "publishedOn": "2021-07-12T00:25:15.000Z",
+          "wordCount": 145,
+          "title": "Python 3.10.0b4 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87444",
+          "author": "Editor, Kai",
+          "description": "CentOS董事会已经批准成立CentOS Kmods特别兴趣小组，以扩大该版本的内核模块选择。CentOS Kmods SIG正在寻求处理废弃的设备支持和启用其他树外的内核模块，这些模块在CentOS或上游Red Hat Enterpri […]",
+          "link": "http://www.linuxeden.com/a/87444",
+          "publishedOn": "2021-07-12T00:19:42.000Z",
+          "wordCount": 112,
+          "title": "CentOS Kmods特别兴趣小组已经成立 应对老旧设备支持不善的问题"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87442",
+          "author": "Editor, Kai",
+          "description": "XAMPP for Windows 7.3.29, 7.4.21 & 8.0.8 Version Checksum Size 7.3.29 / PHP 7.3.29 What’s Included? md5 sha1 D […]",
+          "link": "http://www.linuxeden.com/a/87442",
+          "publishedOn": "2021-07-12T00:08:52.000Z",
+          "wordCount": 703,
+          "title": "XAMPP for 7.3.29, 7.4.21, 8.0.8, 7.3.29, 7.4.21 & 8.0.8发布"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=87440",
           "author": "Editor, Kai",
           "description": "开发人员终于从 Java 8 转向 Java 11 在 Linux 上使用 Tealdeer 替代手册页 Apache jackrabbit 2.21.7发布 ExTiX 21.7 发布 [图]在Windows 11 WSL2上运行Ubun […]",
@@ -4999,6 +5035,42 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/149985/gotc-2021-shanghai-recap",
+          "author": null,
+          "description": "近日，由开放原子开源基金会与 Linux 基金会联合开源中国共同举办的首届“GOTC 全球开源技术峰会”在上海世博中心圆满落幕。本届 GOTC 吸引了来自全球各个顶级开源基金会的负责人、开源社区参与者，以及全世界的开源爱好者共聚一堂，为中国开发者带来了一场以“开源”为主题的文化、技术盛宴，为在国内推广和普及开源发挥...",
+          "link": "https://www.oschina.net/news/149985/gotc-2021-shanghai-recap",
+          "publishedOn": "2021-07-12T00:13:48.000Z",
+          "wordCount": 647,
+          "title": "GOTC 2021 上海站亮点回顾"
+        },
+        {
+          "id": "https://www.oschina.net/news/149984/haiku-os-for-june-2021",
+          "author": null,
+          "description": "Haiku OS 项目发布了其在2021年6月的进度报告。 报告显示，beta 3 的开发过程进展顺利，6月的工作亮点包括： 继续朝着发布 Haiku OS Beta 3 的目标前进 在 RISC-V 设备运行 Haiku OS 的开发工作正在进行中，最近团队为两个开发者提供了购买硬件的资金。面向 RISC-V 的 Haiku OS 已经可以在虚拟机启动 改进 POSIX 兼容性 ...",
+          "link": "https://www.oschina.net/news/149984/haiku-os-for-june-2021",
+          "publishedOn": "2021-07-12T00:00:40.000Z",
+          "wordCount": 538,
+          "title": "Haiku R1 Beta 3 即将发布，支持 RISC-V"
+        },
+        {
+          "id": "https://www.oschina.net/news/149982/linux-5-14-support-secret-memory",
+          "author": null,
+          "description": "继 Linux 5.13 后，Linux 5.14 也将支持创建秘密内存区域。 该功能通过 memfd_secret() 实现。memfd_secret() 是一个专门的系统调用，而不是 memfd_create() 的扩展，其目的是允许用户创建更安全的内存映射，而不是简单地允许基于文件的内存访问。根据描述，memfd_secret() 创建的秘密内存区域仅拥有进程可见，而不会映射...",
+          "link": "https://www.oschina.net/news/149982/linux-5-14-support-secret-memory",
+          "publishedOn": "2021-07-11T23:45:59.000Z",
+          "wordCount": 517,
+          "title": "Linux 5.14 将创建秘密内存区域"
+        },
+        {
+          "id": "https://gitee.com/hetangys/swoole-worker",
+          "author": null,
+          "description": "常驻内存，协程，高性能高并发；分布式部署，横向扩容，使得能支持庞大的连接数；无感知安全重启，无缝升级代码；接口丰富，支持单个发送，分组发送，群发广播等接口。可广泛应用于云计算、物联网（IOT）、车联网、智能家居、网络游戏等领域。",
+          "link": "https://gitee.com/hetangys/swoole-worker",
+          "publishedOn": "2021-07-11T23:42:25.000Z",
+          "wordCount": 875,
+          "title": "Gitee 推荐 | 基于 Swoole 4 的分布式长连接开发框架 SwooleWorker"
+        },
         {
           "id": "https://www.oschina.net/p/datastation",
           "author": null,
