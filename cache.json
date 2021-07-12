@@ -5045,6 +5045,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://my.oschina.net/u/4209276/blog/5128762",
+          "author": null,
+          "description": "身处万物皆可 embedding 的 AI 时代，Milvus团队有什么技术见解，研发工作遵循什么方法，关于AI和数据库这一交叉领域又有怎样的思考？跟着这篇对话，欢迎一探Milvus团队武功究竟。",
+          "link": "https://my.oschina.net/u/4209276/blog/5128762",
+          "publishedOn": "2021-07-12T09:14:08.000Z",
+          "wordCount": 282,
+          "title": "万物皆可 embedding，AI 应用神器 Milvus 登顶数据库顶会 SIGMOD"
+        },
+        {
           "id": "https://www.oschina.net/news/150044",
           "author": null,
           "description": "7月8日上午，2021世界人工智能大会（WAIC）正式开幕，线下超过10万名嘉宾，线上数百万名观众参与此次盛会。国内外人工智能专家、人工智能企业领军者齐聚一堂，以“根基之固”、“链接之途”、“趋势之论”为三大主线，围绕AI赋能百业、促进城市数字化转型等主题分享智慧、提出方案。 更有许多耳熟能详的AI企业，在这里相...",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T09:10:06.155Z</updated>
+    <updated>2021-07-12T10:10:12.726Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[万物皆可 embedding，AI 应用神器 Milvus 登顶数据库顶会 SIGMOD]]></title>
+        <id>https://my.oschina.net/u/4209276/blog/5128762</id>
+        <link href="https://my.oschina.net/u/4209276/blog/5128762"/>
+        <updated>2021-07-12T09:14:08.000Z</updated>
+        <summary type="html"><![CDATA[身处万物皆可 embedding 的 AI 时代，Milvus团队有什么技术见解，研发工作遵循什么方法，关于AI和数据库这一交叉领域又有怎样的思考？跟着这篇对话，欢迎一探Milvus团队武功究竟。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[岁月相册 – 支持 HEIF/HEIC 格式，出道即巅峰，真的很快很快的 Android 相册应用]]></title>
         <id>https://www.appinn.com/?p=39268</id>
