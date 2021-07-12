@@ -8211,15 +8211,6 @@
           "publishedOn": "2021-06-13T23:25:34.000Z",
           "wordCount": 471,
           "title": "Google 为 Chrome 标签组开发新功能"
-        },
-        {
-          "id": "https://www.oschina.net/news/145848/dubbo-3-0-come-soon",
-          "author": null,
-          "description": "在今年3月份Apache Dubbo发布首个3.0分支预览版本3.0.0.preview时，官方已预告6月份将发布3.0正式版。 恰逢端午假期，前方传来最新消息，Dubbo项目的GitHub发布页面3.0.0版已显示为预发布状态。按照惯例，需要发起社区邮件投票，通过后将进入正式版本的发布流程。Apache Dubbo 3.0.0版发布后，相关构建稍后将会同步至Mav...",
-          "link": "https://www.oschina.net/news/145848/dubbo-3-0-come-soon",
-          "publishedOn": "2021-06-13T09:10:34.000Z",
-          "wordCount": 498,
-          "title": "Apache Dubbo 3.0.0 正式版即将发布"
         }
       ]
     },

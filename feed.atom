@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T21:07:31.730Z</updated>
+    <updated>2021-07-12T22:07:56.289Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -13234,16 +13234,6 @@ mapData := make(map[uint64]map[uint64]item)
         <summary type="html"><![CDATA[毫无疑问，微软的 VS Code是最好的开源代码编辑器之一。它与传说中的 Vim 不同，VS Code 不需要你是一个快捷键大师（LCTT 译注：以下都指键盘快捷键），开发者们对它大部分的功能都及其熟悉，且推崇备至。 但这并不意味着你不能成 […]]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Dubbo 3.0.0 正式版即将发布]]></title>
-        <id>https://www.oschina.net/news/145848/dubbo-3-0-come-soon</id>
-        <link href="https://www.oschina.net/news/145848/dubbo-3-0-come-soon"/>
-        <updated>2021-06-13T09:10:34.000Z</updated>
-        <summary type="html"><![CDATA[在今年3月份Apache Dubbo发布首个3.0分支预览版本3.0.0.preview时，官方已预告6月份将发布3.0正式版。 恰逢端午假期，前方传来最新消息，Dubbo项目的GitHub发布页面3.0.0版已显示为预发布状态。按照惯例，需要发起社区邮件投票，通过后将进入正式版本的发布流程。Apache Dubbo 3.0.0版发布后，相关构建稍后将会同步至Mav...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
