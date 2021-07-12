@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T12:14:51.615Z</updated>
+    <updated>2021-07-12T13:17:08.060Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -13224,76 +13224,6 @@ mapData := make(map[uint64]map[uint64]item)
         <summary type="html"><![CDATA[common Commit Description 200cc31df4 fix(common): infer correct type when trackBy is used in ngFor (#41995) 0dad375de7 f […]]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为光子集成电路铺平道路 科学家发现提高硅光致发光方法]]></title>
-        <id>http://www.linuxeden.com/?p=86422</id>
-        <link href="http://www.linuxeden.com/a/86422"/>
-        <updated>2021-06-13T01:12:11.000Z</updated>
-        <summary type="html"><![CDATA[近日，科学家发现了能提高硅光致发光（PL）的方法。硅是所有现代电子产品的核心，同时它在光子发射器和吸收器上的表现非常糟糕。而科学家的这项发现可能为光子集成电路铺平道路，提升其性能。这篇论文发表在《Laser and Photonics Re […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CudaText 1.133.7 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86420</id>
-        <link href="http://www.linuxeden.com/a/86420"/>
-        <updated>2021-06-13T01:09:16.000Z</updated>
-        <summary type="html"><![CDATA[person reacted 👀 1   Assets 2 Source code (zip) Source code (tar.gz)   转自 https://github.com/Alexey-T/ […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CKEditor 5 v28.0.0 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86418</id>
-        <link href="http://www.linuxeden.com/a/86418"/>
-        <updated>2021-06-13T01:06:27.000Z</updated>
-        <summary type="html"><![CDATA[CKEditor 5 v28.0.0 brings the long-awaited Revision History feature. It is a top-class document versioning tool that all […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Frameworks 5.83.0 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86416</id>
-        <link href="http://www.linuxeden.com/a/86416"/>
-        <updated>2021-06-13T00:41:24.000Z</updated>
-        <summary type="html"><![CDATA[Saturday, 12 June 2021 KDE today announces the release of KDE Frameworks 5.83.0. KDE Frameworks are 83 addon libraries t […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日一博 | 教你认识 Vuex 状态机]]></title>
-        <id>https://my.oschina.net/u/4526289/blog/5073847</id>
-        <link href="https://my.oschina.net/u/4526289/blog/5073847"/>
-        <updated>2021-06-13T00:32:02.000Z</updated>
-        <summary type="html"><![CDATA[简单来说，Vuex 就是实现组件全局状态(数据)管理的一种机制，可以方便的实现组件之间数据的共享。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 上的 RISC-V 将支持 Transparent Hugepages]]></title>
-        <id>https://www.oschina.net/news/145823/risc-v-linux-will-support-thp</id>
-        <link href="https://www.oschina.net/news/145823/risc-v-linux-will-support-thp"/>
-        <updated>2021-06-13T00:19:42.000Z</updated>
-        <summary type="html"><![CDATA[根据最新的提交显示，Linux 内核的 RISC-V 即将获得 Transparent Hugepages（THP）支持。 Linux 内核的 RISC-V 继最近添加原地执行 XIP、对 KProbes 和其他功能的支持以及硬件特定工作如 SiFive FU740 SoC 支持后，由华为工程师提供的 Transparent Hugepages 支持现在也已准备就绪。 Transparent Hugepages 是 Linux 的内...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D3.js 7.0 正式发布，数据可视化 JavaScript 库]]></title>
-        <id>https://www.oschina.net/news/145822/d3js-7-0-released</id>
-        <link href="https://www.oschina.net/news/145822/d3js-7-0-released"/>
-        <updated>2021-06-13T00:15:55.000Z</updated>
-        <summary type="html"><![CDATA[D3（或者叫 D3.js）7.0 已正式发布。 从该版本起，D3 以 ESM 形式提供，因此会要求使用环境安装了 Node.js 12 或更高版本。关于此变化，详情查看 Sindre Sorhus’s FAQ。 此外，d3.bin 现在会忽略空值，d3.ascending 和 d3.descending 也不再考虑空值的可比性(null comparable)。 Ordinal scales 现在使用 InternMap 作为...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
