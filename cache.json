@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60e753aa134ad707be00f2c1",
+          "author": null,
+          "description": "SPSS Statistics is a software package used for interactive, or batched, statistical analysis. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you how to use the popular statistical application SPSS from IBM. This course provides a concise overview of how you can use",
+          "link": "https://www.freecodecamp.org/news/spss-full-course/",
+          "publishedOn": "2021-07-12T13:34:03.000Z",
+          "wordCount": 22122,
+          "title": "Learn How to Use SPSS to Explore and Analyze Data"
+        },
+        {
           "id": "60e981aae8ee9b08300ed1ae",
           "author": null,
           "description": "Artificial intelligence and machine learning are two popular and often hyped terms these days. And people often use them interchangeably to describe an intelligent software or system.  But even though both AI and ML are based on statistics and mathematics, they are not the same thing. In this article, you",
@@ -4633,33 +4642,6 @@
           "publishedOn": "2021-06-13T14:40:28.000Z",
           "wordCount": 438,
           "title": "15 个提高工作效率的 VS Code 键盘快捷键"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86430",
-          "author": "Editor, Kai",
-          "description": "Linuxeden开源社区-开源美图 2021 06 13",
-          "link": "http://www.linuxeden.com/a/86430",
-          "publishedOn": "2021-06-13T01:31:06.000Z",
-          "wordCount": 77,
-          "title": "开源美图 2021 06 13"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86428",
-          "author": "Editor, Kai",
-          "description": "了解 BHM 对他们意味着什么，什么影响了他们的职业生涯，为想要进入科技领域的少数族群提供资源，等等。 为了纪念 BHM，我收集了一些我最喜欢的技术专家和开源贡献者的意见。这四位正在为下一代铺路，同时也在为他们在科技行业所做的工作铺路。了解 […]",
-          "link": "http://www.linuxeden.com/a/86428",
-          "publishedOn": "2021-06-13T01:22:16.000Z",
-          "wordCount": 262,
-          "title": "4 位技术专家谈少数族群的技术职业"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86426",
-          "author": "Editor, Kai",
-          "description": "common Commit Description 200cc31df4 fix(common): infer correct type when trackBy is used in ngFor (#41995) 0dad375de7 f […]",
-          "link": "http://www.linuxeden.com/a/86426",
-          "publishedOn": "2021-06-13T01:17:23.000Z",
-          "wordCount": 204,
-          "title": "Angular 12.0.4 (2021-06-09)发布"
         }
       ]
     },
@@ -8193,15 +8175,6 @@
           "publishedOn": "2021-06-13T09:10:34.000Z",
           "wordCount": 498,
           "title": "Apache Dubbo 3.0.0 正式版即将发布"
-        },
-        {
-          "id": "https://www.oschina.net/news/145828/google-stops-experiment-that-simplified-urls",
-          "author": null,
-          "description": "Chrome 终于不再折腾 URL 了。 Chromium 近期合并的一个 commit 显示，其开发团队已删除简化 URL 的功能代码。理由是此项实验性功能对相关安全指标没有推动效果，所以不打算正式上线。 此处提到的安全指标来自谷歌过去一年运行的一系列实验室测试，详情点此查看。 Delete simplified domain experiment This experiment ...",
-          "link": "https://www.oschina.net/news/145828/google-stops-experiment-that-simplified-urls",
-          "publishedOn": "2021-06-13T01:30:36.000Z",
-          "wordCount": 523,
-          "title": "谷歌停止 Chrome 简化 URL 的实验"
         }
       ]
     },
