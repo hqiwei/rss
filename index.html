@@ -24,6 +24,17 @@
           <section class="articles-per-source">
             <article>
               <details class="article-expander">
+                <summary class="article-expander__title">开源美图 2021 07 12</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://www.linuxeden.com/a/87453">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>Linuxeden开源社区-开源美图 2021 07 12</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
                 <summary class="article-expander__title">Solus 4.3 发布</summary>
                 <a class="article-summary-link article-summary-box-outer" href="http://www.linuxeden.com/a/87450">
                   <div class="article-summary-box-inner">
@@ -70,8 +81,79 @@
       </li>
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://gocn.vip/">GoCN社区</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">会话控制利器 gorilla/sessions</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12336">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>推荐 gorilla/sessions 的背景
+在日常 Web 应用开发过程中，需要对用户登录状态进行判断，而 HTTP 是无状态的，即不记录用户登录状态，想要得到用户登录状态得把登录状态保存下来，通常用户状态数据加密后用数据库或者缓存等手段把存储；原生的会话数据存储的 HTTP cookie 对数据大小有限制，不能写入太多太大的数据，又不能对存储的数据进行有效管理，而 gorilla/sessions 恰恰补充了原生回话控制的不足。
+gorilla/sessions 简介
+gorilla/sessions 支持原生的 HTTP cookie 会话数据存储和存储介质系统会话以及自定义会话等基础设施（Memcache/Redis/SQLite/MySQL ）的支持应有尽有。
+gorilla/sessions 提供了会话数据的加密解密，以及底层的 cookie 管理，提供的接口比较简单易用，gorilla/sessions 主要特点如下：
+简单的 API：使用它作为设置签名（和可选的加密）cookie 的简单方法。
+内置的后端可以在 cookie 或文件系统中存储会话。
+Flash 信息：会话值持续到读取为止。
+切换会话持久性（又称 &quot;记住我&quot;）和设置其他属性的方便方法。
+轮换认证和加密密钥的机制。
+每个请求有多个会话，甚至使用不同的后端。
+自定义会话后端的接口和基础设施：来自不同端的会话可以使用一个共同的 API 进行检索和批量保存。
+gorilla/sessions 应用
+下面是集成 gorilla/sessions 的简单会话控制业务代码段，如下：
+import (
+    &quot;github.com/gorilla/sessions&quot;
+    &quot;net/http&quot;
+    &quot;os&quot;
+)
+
+// Store gorilla sessions 的存储库
+var Store &#x3D; …</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://www.oschina.net/news/rss">OSCHINA 社区最新新闻</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">WinUI 3 仍专注于 Win32 应用，暂无面向 UWP 的计划</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.oschina.net/news/149997/winui-3-uwp-win32-apps-windows11">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Windows UI 库 (WinUI) 是适用于 Windows 桌面和 UWP 应用程序的原生用户体验 (UX) 框架，在 2018 年的微软开发者大会上宣布开源。WinUI 3（下一代 WinUI 框架）是与 Windows 10 SDK 完全分离的原生 Windows 10 UI 平台。通过将 XAML、合成以及输入 API 从 Windows 10 SDK 中完全分离，使 WinUI 3 涵盖完整的 Windows 10...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Windows 11 最新 FAQ，回滚时间缩短为 10 天</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.oschina.net/news/149996/windows-11-faq">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>距离微软推出 Windows 11 首个预览版本已经快 2 周了，与 Windows 10 相比，Windows 11 变化巨大，特别是在 UI 方面。而近日微星发布的一份 Windows 11 FAQ 包含了更多相关信息，以下是其亮点内容： 如果不喜欢 Windows11，升级后可以回滚到 Windows 10 吗？ 可以。升级到 Windows11 后，用户可以在 10 天内回滚到 Wind...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Ubuntu 21.10 发布日期和新功能预览</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.oschina.net/news/149991/ubuntu-21-10-release-features">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Ubuntu 21.10 暂定于 2021 年 10 月 14 日发布，本文将介绍此版本可能带来的新功能和变化。 Ubuntu 21.10 的代号是 &quot;Impish Indri&quot;。Impish 是淘气的意思，Indri 则是一种原产于马达加斯加的狐猴，大部分时间都在地上和树上度过。 作为短期支持版本，Ubuntu 21.10 将会获得 9 个月的支持，其中包含主要错误修复、关键安全...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">GOTC 2021 上海站亮点回顾</summary>
@@ -15316,7 +15398,7 @@ mapData :&#x3D; make(map[uint64]map[uint64]item)
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-07-12T00:30:58.055Z">2021-07-12T00:30:58.055Z</time>
+    <time id="build-timestamp" datetime="2021-07-12T01:51:27.682Z">2021-07-12T01:51:27.682Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.0</a></span>
   </footer>
   <script src="index.js"></script>

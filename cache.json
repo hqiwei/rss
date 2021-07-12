@@ -749,6 +749,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12336",
+          "author": "Aklman",
+          "description": "推荐 gorilla/sessions 的背景\n在日常 Web 应用开发过程中，需要对用户登录状态进行判断，而 HTTP 是无状态的，即不记录用户登录状态，想要得到用户登录状态得把登录状态保存下来，通常用户状态数据加密后用数据库或者缓存等手段把存储；原生的会话数据存储的 HTTP cookie 对数据大小有限制，不能写入太多太大的数据，又不能对存储的数据进行有效管理，而 gorilla/sessions 恰恰补充了原生回话控制的不足。\ngorilla/sessions 简介\ngorilla/sessions 支持原生的 HTTP cookie 会话数据存储和存储介质系统会话以及自定义会话等基础设施（Memcache/Redis/SQLite/MySQL ）的支持应有尽有。\ngorilla/sessions 提供了会话数据的加密解密，以及底层的 cookie 管理，提供的接口比较简单易用，gorilla/sessions 主要特点如下：\n简单的 API：使用它作为设置签名（和可选的加密）cookie 的简单方法。\n内置的后端可以在 cookie 或文件系统中存储会话。\nFlash 信息：会话值持续到读取为止。\n切换会话持久性（又称 \"记住我\"）和设置其他属性的方便方法。\n轮换认证和加密密钥的机制。\n每个请求有多个会话，甚至使用不同的后端。\n自定义会话后端的接口和基础设施：来自不同端的会话可以使用一个共同的 API 进行检索和批量保存。\ngorilla/sessions 应用\n下面是集成 gorilla/sessions 的简单会话控制业务代码段，如下：\nimport (\n    \"github.com/gorilla/sessions\"\n    \"net/http\"\n    \"os\"\n)\n\n// Store gorilla sessions 的存储库\nvar Store = …",
+          "link": "https://gocn.vip/topics/12336",
+          "publishedOn": "2021-07-12T01:35:20.000Z",
+          "wordCount": 305,
+          "title": "会话控制利器 gorilla/sessions"
+        },
+        {
           "id": "https://gocn.vip/topics/12335",
           "author": "DennisMao",
           "description": "GoCN 每日新闻 (2021-07-11)\n1. 如何在 Go 中嵌入 Python https://linux.cn/article-13564-1.html\n2. 熔断器原理与 Go 实现 https://ioshellboy.medium.com/circuit-breakers-in-golang-1779da9b001\n3. Go Playground 中如何实现随机 https://deedlefake.com/randomness-in-the-go-playground.html\n4. 如何 Mock AWS API 客户端 https://brandonstrohmeyer.medium.com/aws-api-client-mocking-with-go-b940dde80d9e\n5. Peanut: 一款常用中间件快速部署管理平台 https://github.com/Clivern/Peanut\n编辑: Razil \n订阅新闻: http://tinyletter.com/gocn \n招聘专区: https://gocn.vip/jobs",
@@ -1970,6 +1979,15 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=87453",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 07 12",
+          "link": "http://www.linuxeden.com/a/87453",
+          "publishedOn": "2021-07-12T00:33:47.000Z",
+          "wordCount": 91,
+          "title": "开源美图 2021 07 12"
+        },
         {
           "id": "http://www.linuxeden.com/?p=87450",
           "author": "Editor, Kai",
@@ -5035,6 +5053,33 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/149997/winui-3-uwp-win32-apps-windows11",
+          "author": null,
+          "description": "Windows UI 库 (WinUI) 是适用于 Windows 桌面和 UWP 应用程序的原生用户体验 (UX) 框架，在 2018 年的微软开发者大会上宣布开源。WinUI 3（下一代 WinUI 框架）是与 Windows 10 SDK 完全分离的原生 Windows 10 UI 平台。通过将 XAML、合成以及输入 API 从 Windows 10 SDK 中完全分离，使 WinUI 3 涵盖完整的 Windows 10...",
+          "link": "https://www.oschina.net/news/149997/winui-3-uwp-win32-apps-windows11",
+          "publishedOn": "2021-07-12T01:25:13.000Z",
+          "wordCount": 587,
+          "title": "WinUI 3 仍专注于 Win32 应用，暂无面向 UWP 的计划"
+        },
+        {
+          "id": "https://www.oschina.net/news/149996/windows-11-faq",
+          "author": null,
+          "description": "距离微软推出 Windows 11 首个预览版本已经快 2 周了，与 Windows 10 相比，Windows 11 变化巨大，特别是在 UI 方面。而近日微星发布的一份 Windows 11 FAQ 包含了更多相关信息，以下是其亮点内容： 如果不喜欢 Windows11，升级后可以回滚到 Windows 10 吗？ 可以。升级到 Windows11 后，用户可以在 10 天内回滚到 Wind...",
+          "link": "https://www.oschina.net/news/149996/windows-11-faq",
+          "publishedOn": "2021-07-12T01:19:14.000Z",
+          "wordCount": 608,
+          "title": "Windows 11 最新 FAQ，回滚时间缩短为 10 天"
+        },
+        {
+          "id": "https://www.oschina.net/news/149991/ubuntu-21-10-release-features",
+          "author": null,
+          "description": "Ubuntu 21.10 暂定于 2021 年 10 月 14 日发布，本文将介绍此版本可能带来的新功能和变化。 Ubuntu 21.10 的代号是 \"Impish Indri\"。Impish 是淘气的意思，Indri 则是一种原产于马达加斯加的狐猴，大部分时间都在地上和树上度过。 作为短期支持版本，Ubuntu 21.10 将会获得 9 个月的支持，其中包含主要错误修复、关键安全...",
+          "link": "https://www.oschina.net/news/149991/ubuntu-21-10-release-features",
+          "publishedOn": "2021-07-12T00:45:41.000Z",
+          "wordCount": 594,
+          "title": "Ubuntu 21.10 发布日期和新功能预览"
+        },
         {
           "id": "https://www.oschina.net/news/149985/gotc-2021-shanghai-recap",
           "author": null,
