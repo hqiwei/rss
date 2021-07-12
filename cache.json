@@ -4687,6 +4687,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=39268",
+          "author": "青小蛙",
+          "description": "岁月相册 是一款 Android 上的相册应用，支持 HEIF/HEIC，启动速度快，预览图片速度快，打开大图速度快，总之就是快，快到启动画面动画都看不到。自称“出道即巅峰”、“已经超越业界大部分对手",
+          "link": "https://www.appinn.com/years-0-1-0-alpha10/",
+          "publishedOn": "2021-07-12T08:53:58.000Z",
+          "wordCount": 1105,
+          "title": "岁月相册 – 支持 HEIF/HEIC 格式，出道即巅峰，真的很快很快的 Android 相册应用"
+        },
+        {
           "id": "https://www.appinn.com/?p=39264",
           "author": "青小蛙",
           "description": "New Folder Wizard 是一款批量创建新文件夹的 Windows 工具，可以简单的通过序号排列创建文件夹，还可以通过文本文件自定义批量创建文件夹。@Appinn 前几天有位同学求“tab",

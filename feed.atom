@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T08:10:56.191Z</updated>
+    <updated>2021-07-12T09:10:06.155Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[岁月相册 – 支持 HEIF/HEIC 格式，出道即巅峰，真的很快很快的 Android 相册应用]]></title>
+        <id>https://www.appinn.com/?p=39268</id>
+        <link href="https://www.appinn.com/years-0-1-0-alpha10/"/>
+        <updated>2021-07-12T08:53:58.000Z</updated>
+        <summary type="html"><![CDATA[岁月相册 是一款 Android 上的相册应用，支持 HEIF/HEIC，启动速度快，预览图片速度快，打开大图速度快，总之就是快，快到启动画面动画都看不到。自称“出道即巅峰”、“已经超越业界大部分对手]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MindSpore 开源社区发起 AI 数据生态联盟，加速推动开源生态创新]]></title>
         <id>https://www.oschina.net/news/150044</id>
