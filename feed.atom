@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T07:08:24.920Z</updated>
+    <updated>2021-07-12T08:10:56.191Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -251,6 +251,16 @@ var Store = …]]></summary>
         <link href="http://www.dayanzai.me/metatogger.html"/>
         <updated>2021-07-11T16:34:18.000Z</updated>
         <summary type="html"><![CDATA[音频文件标签编辑器 Metatogger 中文版 由大眼仔旭（www.dayanzai.me）发布。功能强大且 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MKV 封装工具 MKVToolnix 59.0 + x64 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=2634</id>
+        <link href="http://www.dayanzai.me/mkvtoolnix.html"/>
+        <updated>2021-07-11T16:31:08.000Z</updated>
+        <summary type="html"><![CDATA[MKVToolnix x64 中文版 MKV 封装工具由大眼仔旭（www.dayanzai.me）发布。MKV […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
         </author>
