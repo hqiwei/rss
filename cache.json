@@ -4687,6 +4687,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=39264",
+          "author": "青小蛙",
+          "description": "New Folder Wizard 是一款批量创建新文件夹的 Windows 工具，可以简单的通过序号排列创建文件夹，还可以通过文本文件自定义批量创建文件夹。@Appinn 前几天有位同学求“tab",
+          "link": "https://www.appinn.com/new-folder-wizard-windows/",
+          "publishedOn": "2021-07-12T06:06:36.000Z",
+          "wordCount": 1196,
+          "title": "New Folder Wizard – 批量创建新文件夹神器[Windows]"
+        },
+        {
           "id": "https://www.appinn.com/?p=39260",
           "author": "青小蛙",
           "description": "有期是一款用来记录食物、物品保质期、证件到期日的 iPhone、Android 应用，简单易用、免费，拥有临期提醒功能，可以用来记录一切有期限的事物，比如食物、护肤品、身份证、订阅制软件、优惠券等。@",
@@ -5026,6 +5035,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/150044",
+          "author": null,
+          "description": "7月8日上午，2021世界人工智能大会（WAIC）正式开幕，线下超过10万名嘉宾，线上数百万名观众参与此次盛会。国内外人工智能专家、人工智能企业领军者齐聚一堂，以“根基之固”、“链接之途”、“趋势之论”为三大主线，围绕AI赋能百业、促进城市数字化转型等主题分享智慧、提出方案。 更有许多耳熟能详的AI企业，在这里相...",
+          "link": "https://www.oschina.net/news/150044",
+          "publishedOn": "2021-07-12T06:18:36.000Z",
+          "wordCount": 466,
+          "title": "MindSpore 开源社区发起 AI 数据生态联盟，加速推动开源生态创新"
+        },
         {
           "id": "https://www.oschina.net/news/150037",
           "author": null,
@@ -8246,6 +8264,24 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=42460",
+          "author": "大眼仔~旭",
+          "description": "ShanaEncoder 中文版是一种这样的程序，能够将整个库转换为多种格式，因此可以保证满足大多数编码需求。 […]",
+          "link": "http://www.dayanzai.me/shanaencoder.html",
+          "publishedOn": "2021-07-11T16:36:05.000Z",
+          "wordCount": 483,
+          "title": "轻量级视频编码压制工具 ShanaEncoder 5.2.2.0 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=13327",
+          "author": "大眼仔~旭",
+          "description": "音频文件标签编辑器 Metatogger 中文版 由大眼仔旭（www.dayanzai.me）发布。功能强大且 […]",
+          "link": "http://www.dayanzai.me/metatogger.html",
+          "publishedOn": "2021-07-11T16:34:18.000Z",
+          "wordCount": 500,
+          "title": "音频文件标签编辑器 Metatogger 7.1.2.0 中文多语免费版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=6816",
           "author": "大眼仔~旭",
