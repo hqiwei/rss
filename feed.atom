@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T03:10:53.916Z</updated>
+    <updated>2021-07-12T04:12:14.062Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -13224,26 +13224,6 @@ mapData := make(map[uint64]map[uint64]item)
         <summary type="html"><![CDATA[根据 Nvidia 的最新公告显示，其已经计划结束对 Windows7 和 Windows 8/8.1的支持。 Windows 7 已经推出超过 11 年了，在其 12 周年纪念日之前，显卡生产商 Nvidia 将停止支持这个老化的操作系统。一份针对 Windows 7 和 Windows 8/8.1的支持计划显示，从 2021 年 10 月开始，Game Ready Driver 的升级，包括性能增强、新...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日文章精选 2021 06 12]]></title>
-        <id>http://www.linuxeden.com/?p=86414</id>
-        <link href="http://www.linuxeden.com/a/86414"/>
-        <updated>2021-06-12T15:16:24.000Z</updated>
-        <summary type="html"><![CDATA[Python 3.9 如何修复装饰器并改进字典 RTFM！如何阅读（和理解）Linux 中神奇的手册页 BSD也有好界面 由macOS启发的HelloSystem 0.5发行版上线 Ionic 5.6.9 发布 抽丝剥茧 Linux 浮点运 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 3.9 如何修复装饰器并改进字典]]></title>
-        <id>http://www.linuxeden.com/?p=86410</id>
-        <link href="http://www.linuxeden.com/a/86410"/>
-        <updated>2021-06-12T15:13:04.000Z</updated>
-        <summary type="html"><![CDATA[探索最近版本的 Python 的一些有用的特性。 这是 Python 3.x 首发特性系列文章中的第十篇，其中一些版本已经发布了一段时间。Python 3.9 在 2020 年首次发布，具有很酷的新特性，但仍未被充分利用。下面是其中的三个。 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>
