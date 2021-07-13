@@ -2061,15 +2061,6 @@
           "publishedOn": "2021-06-14T09:33:31.000Z",
           "wordCount": 95,
           "title": "GoCN 每日新闻 (2021-06-13)"
-        },
-        {
-          "id": "https://gocn.vip/topics/12189",
-          "author": "chenli",
-          "description": "比如我有一个变量：\ntype item struct {\n    uid  uint64.\n    cost float64\n    hop   int\n    index int\n    path  route\n}\nmapData := make(map[uint64]map[uint64]item)\n\n我能取得 mapData 占用内存的大小吗",
-          "link": "https://gocn.vip/topics/12189",
-          "publishedOn": "2021-06-14T08:16:57.000Z",
-          "wordCount": 96,
-          "title": "请问如何获得一个 map 类型变量占用的内存呢"
         }
       ]
     },
