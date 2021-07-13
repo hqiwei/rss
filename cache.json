@@ -5117,6 +5117,24 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/150158/java-on-vs-code-plans",
+          "author": null,
+          "description": "近日微软公布了针对 Java 编程语言的 Visual Studio Code 更新路线图，根据路线图的计划，微软将在开发体验、安全、远程开发等方面做出改善。这个更新路线图涵盖了 2021 年 7 月至 12 月，其中大部分计划是为了改善在 VS Code 中使用 Java 的日常基本开发体验。 在安全方面，微软强调了新的 Workspace Trust（工作区信任...",
+          "link": "https://www.oschina.net/news/150158/java-on-vs-code-plans",
+          "publishedOn": "2021-07-13T00:44:23.000Z",
+          "wordCount": 682,
+          "title": "微软公布了面向 Java 开发者的 VS Code 更新路线图"
+        },
+        {
+          "id": "https://www.oschina.net/news/150157/centos-kmods-sig",
+          "author": null,
+          "description": "CentOS 董事会已经批准成立 CentOS Kmods 特别兴趣小组（Kmods SIG），该小组将专注于提供目前在 CentOS Stream 中不可用的内核模块。 根据介绍，CentOS Kmods 特别兴趣小组正在寻求恢复对已弃用设备的支持。CentOS Stream 内核包括一些内核模块，这些模块所支持的设备列表已经被 Red Hat 限制。这个 SIG 旨在提供这些内...",
+          "link": "https://www.oschina.net/news/150157/centos-kmods-sig",
+          "publishedOn": "2021-07-13T00:33:58.000Z",
+          "wordCount": 571,
+          "title": "CentOS Kmods SIG 成立，应对老旧设备支持不善问题"
+        },
+        {
           "id": "https://www.oschina.net/news/150156/two-audacity-forks",
           "author": null,
           "description": "知名开源免费跨平台音频编辑器 Audacity 今年早些时候被 Muse Group 收购，它最近更新了隐私政策，表示可能会按执法机构、诉讼和当局要求收集必要的数据。一个不联网的音频编辑器突然宣布要收集“必要的数据”，引发了 Audacity 变成间谍软件的担忧。 Audacity 开发者在其 GitHub 仓库中澄清，称它收集的数据非常有限，主...",
@@ -8363,6 +8381,15 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=5639",
+          "author": "大眼仔~旭",
+          "description": "SD Maid Pro 中文版 Android SD 卡管理工具由大眼仔旭（www.dayanzai.me）发 […]",
+          "link": "http://www.dayanzai.me/sd-maid-pro.html",
+          "publishedOn": "2021-07-12T16:45:08.000Z",
+          "wordCount": 542,
+          "title": "Android SD 卡管理工具 SD Maid 5.1.5 中文多语免费版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=42460",
           "author": "大眼仔~旭",
