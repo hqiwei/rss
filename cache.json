@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60e73db9134ad707be00f206",
+          "author": null,
+          "description": "Branches are one of Git's most important concepts. And to master Git, it's essential to have a thorough understanding of how branches work. We just released a tutorial about Git branches on the freeCodeCamp.org YouTube channel. You will learn about the many actions you can perform around branches -",
+          "link": "https://www.freecodecamp.org/news/how-git-branches-work/",
+          "publishedOn": "2021-07-13T13:44:04.000Z",
+          "wordCount": 4795,
+          "title": "How Git Branches Work"
+        },
+        {
           "id": "609692d82cd0545b5e9441ab",
           "author": null,
           "description": "GraphQL is a query language for your API. It simplifies the process of requesting the server by providing convenient ways to query objects.  For instance, if you're using a REST API and you need a list of books, you might hit the GET /books/list endpoint for all books. Then",
@@ -8400,15 +8409,6 @@
           "publishedOn": "2021-06-15T00:00:38.000Z",
           "wordCount": 2012,
           "title": "每日一博 | Linux Kernel 调度器的过去，现在和未来"
-        },
-        {
-          "id": "https://www.oschina.net/news/145896/intel-in-talks-to-acquire-risc-v-firm-sifiv",
-          "author": null,
-          "description": "根据彭博社的报道，英特尔提出以超过 20 亿美元的价格收购 SiFive。此报道未经证实，据说双方仍处于谈判的早期阶段，其他公司也可能对收购 SiFive 感兴趣。彭博社称不能保证 SiFive 会和任何公司达成交易，前者可能会选择保持独立。 根据数据供应商 PitchBook 的数据，SiFive 在 2020 年进行融资时，最后一次的估值约为 ...",
-          "link": "https://www.oschina.net/news/145896/intel-in-talks-to-acquire-risc-v-firm-sifiv",
-          "publishedOn": "2021-06-14T01:53:53.000Z",
-          "wordCount": 516,
-          "title": "英特尔有意以 20 亿美元收购 RISC-V 公司 SiFive"
         }
       ]
     },

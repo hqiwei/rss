@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T13:17:49.131Z</updated>
+    <updated>2021-07-13T14:08:29.190Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Git Branches Work]]></title>
+        <id>60e73db9134ad707be00f206</id>
+        <link href="https://www.freecodecamp.org/news/how-git-branches-work/"/>
+        <updated>2021-07-13T13:44:04.000Z</updated>
+        <summary type="html"><![CDATA[Branches are one of Git's most important concepts. And to master Git, it's essential to have a thorough understanding of how branches work. We just released a tutorial about Git branches on the freeCodeCamp.org YouTube channel. You will learn about the many actions you can perform around branches -]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【招聘】Go 开发工程师]]></title>
         <id>https://gocn.vip/topics/12340</id>
@@ -13488,16 +13498,6 @@ mapData := make(map[uint64]map[uint64]item)
         <summary type="html"><![CDATA[经过几周的5.13-rc的不断更新，其中的变化比Linus Torvalds希望看到的要多，Linux 5.13-rc6现在已经发布了，这一次的变化规模较小，而对于内核开发的后期阶段来说，这是一个好现象。Torvalds在5.13-rc6公 […]]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔有意以 20 亿美元收购 RISC-V 公司 SiFive]]></title>
-        <id>https://www.oschina.net/news/145896/intel-in-talks-to-acquire-risc-v-firm-sifiv</id>
-        <link href="https://www.oschina.net/news/145896/intel-in-talks-to-acquire-risc-v-firm-sifiv"/>
-        <updated>2021-06-14T01:53:53.000Z</updated>
-        <summary type="html"><![CDATA[根据彭博社的报道，英特尔提出以超过 20 亿美元的价格收购 SiFive。此报道未经证实，据说双方仍处于谈判的早期阶段，其他公司也可能对收购 SiFive 感兴趣。彭博社称不能保证 SiFive 会和任何公司达成交易，前者可能会选择保持独立。 根据数据供应商 PitchBook 的数据，SiFive 在 2020 年进行融资时，最后一次的估值约为 ...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
