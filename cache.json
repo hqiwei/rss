@@ -785,6 +785,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12338",
+          "author": "mahuaibo",
+          "description": "GoCN 每日新闻 (2021-07-12)\n学习 channel 设计：从入门到放弃 https://mp.weixin.qq.com/s/wWF27OnOUf-GM0UKDfrqUA\n\nGolang 官方限流器的用法详解 https://mp.weixin.qq.com/s/S3_YEyhLcaAUuaSabXdimw\n\n亿级系统的 Redis 缓存如何设计？ https://mp.weixin.qq.com/s/bkXnbQIpI_GdX4BHkAhPUA\n\n面试官：你能聊聊 string 和 [] byte 的转换吗？https://mp.weixin.qq.com/s/gl7bM4M1b2howHnplop8FA\n\nGolang 语言中怎么解码 4 种常见 JSON 格式数据？https://mp.weixin.qq.com/s/Oy4cHyROIrkAl9tixzfQ6g\n\n\n\n编辑: Max \n订阅新闻: http://tinyletter.com/gocn \n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12338",
+          "publishedOn": "2021-07-13T03:09:08.000Z",
+          "wordCount": 106,
+          "title": "GoCN 每日新闻 (2021-07-12)"
+        },
+        {
           "id": "https://gocn.vip/topics/12337",
           "author": "chcoball",
           "description": "1、本科以上学历，计算机、软件等相关专业毕业\n2、有在大型互联网公司设计或主要参与架构设计的经历\n3、熟练使用 c/c++/Go/php 等语言之一进行开发，有高质量、高效率代码开发经验\n4、熟悉 Linux 操作系统常用命令，shell 脚本编写\n5、熟悉性能调优，理解高可用、高可靠等主题\n6、具有 RPC、分布式、多线程、网络通信编程经验，具有高并发系统设计知识\n7、具有较强学习力，分析解决问题能力，强烈的责任心和团队合作能力\n8、有电商开发经验的优先\n有意者联系：hr@goodlark.larkmailtest.com",
@@ -4723,42 +4732,6 @@
           "publishedOn": "2021-06-14T02:49:49.000Z",
           "wordCount": 94,
           "title": "Linux 5.13-rc6发布 新版内核发布周期临近"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86456",
-          "author": "Editor, Kai",
-          "description": "Linux 5.14 即将为英特尔独立显卡启用图形TTM内存管理初始位 7 年之久的 Linux 特权升级漏洞的补丁发布 15 个提高工作效率的 VS Code 键盘快捷键 4 位技术专家谈少数族群的技术职业 Python 3.9 如何修复 […]",
-          "link": "http://www.linuxeden.com/a/86456",
-          "publishedOn": "2021-06-13T14:57:35.000Z",
-          "wordCount": 104,
-          "title": "每日文章精选 2021 06 13"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86452",
-          "author": "Editor, Kai",
-          "description": "十年前，只有集成显卡的开发任务需要完成的英特尔的开源Linux图形驱动工程师宣布不支持TTM，而是设计了图形执行管理器（GEM）来满足内核图形内存管理的需要，但现在英特尔开始推出独立显卡和专用显存存，这时候TTM内存管理的需求就显得迫切了起 […]",
-          "link": "http://www.linuxeden.com/a/86452",
-          "publishedOn": "2021-06-13T14:49:59.000Z",
-          "wordCount": 104,
-          "title": "Linux 5.14 即将为英特尔独立显卡启用图形TTM内存管理初始位"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86449",
-          "author": "Editor, Kai",
-          "description": "Polkit 是一个包含在几乎所有现代 Linux 发行版中的 Linux 系统服务，它为非特权进程与特权进程的通信提供了一种有组织的方式，七年来它一直隐藏着一个重大的安全漏洞。该漏洞允许非特权用户通过少数的标准命令行工具获得管理权限的 S […]",
-          "link": "http://www.linuxeden.com/a/86449",
-          "publishedOn": "2021-06-13T14:42:21.000Z",
-          "wordCount": 103,
-          "title": "7 年之久的 Linux 特权升级漏洞的补丁发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86433",
-          "author": "Editor, Kai",
-          "description": "毫无疑问，微软的 VS Code是最好的开源代码编辑器之一。它与传说中的 Vim 不同，VS Code 不需要你是一个快捷键大师（LCTT 译注：以下都指键盘快捷键），开发者们对它大部分的功能都及其熟悉，且推崇备至。 但这并不意味着你不能成 […]",
-          "link": "http://www.linuxeden.com/a/86433",
-          "publishedOn": "2021-06-13T14:40:28.000Z",
-          "wordCount": 438,
-          "title": "15 个提高工作效率的 VS Code 键盘快捷键"
         }
       ]
     },
@@ -5125,6 +5098,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/150183/linus-torvalds-gotc-2021",
+          "author": null,
+          "description": "在刚刚结束的全球开源峰会 GOTC 2021 上海站上，Linux 内核与 Git 创造者 Linus Torvalds 接受了 Linux 基金会执行董事 Jim Zemlin 的独家专访。时逢 Linux 内核诞生三十周年，双方从 Linus 维护内核 30 年来的心路历程开始，聊到中国开发者应该如何参与内核贡献。期间的 Linus 也是畅所欲言，金句频出。 当聊到目前 Li...",
+          "link": "https://www.oschina.net/news/150183/linus-torvalds-gotc-2021",
+          "publishedOn": "2021-07-13T02:39:54.000Z",
+          "wordCount": 689,
+          "title": "Linus Torvalds：硬件日新月异，但对我们来说不算什么挑战"
+        },
         {
           "id": "https://www.oschina.net/news/150158/java-on-vs-code-plans",
           "author": null,

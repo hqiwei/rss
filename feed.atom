@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T02:22:57.439Z</updated>
+    <updated>2021-07-13T03:10:31.186Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-07-12)]]></title>
+        <id>https://gocn.vip/topics/12338</id>
+        <link href="https://gocn.vip/topics/12338"/>
+        <updated>2021-07-13T03:09:08.000Z</updated>
+        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-07-12)
+学习 channel 设计：从入门到放弃 https://mp.weixin.qq.com/s/wWF27OnOUf-GM0UKDfrqUA
+
+Golang 官方限流器的用法详解 https://mp.weixin.qq.com/s/S3_YEyhLcaAUuaSabXdimw
+
+亿级系统的 Redis 缓存如何设计？ https://mp.weixin.qq.com/s/bkXnbQIpI_GdX4BHkAhPUA
+
+面试官：你能聊聊 string 和 [] byte 的转换吗？https://mp.weixin.qq.com/s/gl7bM4M1b2howHnplop8FA
+
+Golang 语言中怎么解码 4 种常见 JSON 格式数据？https://mp.weixin.qq.com/s/Oy4cHyROIrkAl9tixzfQ6g
+
+
+
+编辑: Max 
+订阅新闻: http://tinyletter.com/gocn 
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>mahuaibo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linus Torvalds：硬件日新月异，但对我们来说不算什么挑战]]></title>
+        <id>https://www.oschina.net/news/150183/linus-torvalds-gotc-2021</id>
+        <link href="https://www.oschina.net/news/150183/linus-torvalds-gotc-2021"/>
+        <updated>2021-07-13T02:39:54.000Z</updated>
+        <summary type="html"><![CDATA[在刚刚结束的全球开源峰会 GOTC 2021 上海站上，Linux 内核与 Git 创造者 Linus Torvalds 接受了 Linux 基金会执行董事 Jim Zemlin 的独家专访。时逢 Linux 内核诞生三十周年，双方从 Linus 维护内核 30 年来的心路历程开始，聊到中国开发者应该如何参与内核贡献。期间的 Linus 也是畅所欲言，金句频出。 当聊到目前 Li...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UI/UX Design Guide: What Are UI Designers, and How Are They Different Than UX Designers?]]></title>
         <id>60e5b284134ad707be00e5e0</id>
@@ -13394,46 +13429,6 @@ mapData := make(map[uint64]map[uint64]item)
         <summary type="html"><![CDATA[免费文本代码编辑器 Text Editor Pro 中文版由大眼仔~旭发布。功能强大的文本编辑工具，语法高亮支 […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日文章精选 2021 06 13]]></title>
-        <id>http://www.linuxeden.com/?p=86456</id>
-        <link href="http://www.linuxeden.com/a/86456"/>
-        <updated>2021-06-13T14:57:35.000Z</updated>
-        <summary type="html"><![CDATA[Linux 5.14 即将为英特尔独立显卡启用图形TTM内存管理初始位 7 年之久的 Linux 特权升级漏洞的补丁发布 15 个提高工作效率的 VS Code 键盘快捷键 4 位技术专家谈少数族群的技术职业 Python 3.9 如何修复 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.14 即将为英特尔独立显卡启用图形TTM内存管理初始位]]></title>
-        <id>http://www.linuxeden.com/?p=86452</id>
-        <link href="http://www.linuxeden.com/a/86452"/>
-        <updated>2021-06-13T14:49:59.000Z</updated>
-        <summary type="html"><![CDATA[十年前，只有集成显卡的开发任务需要完成的英特尔的开源Linux图形驱动工程师宣布不支持TTM，而是设计了图形执行管理器（GEM）来满足内核图形内存管理的需要，但现在英特尔开始推出独立显卡和专用显存存，这时候TTM内存管理的需求就显得迫切了起 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 年之久的 Linux 特权升级漏洞的补丁发布]]></title>
-        <id>http://www.linuxeden.com/?p=86449</id>
-        <link href="http://www.linuxeden.com/a/86449"/>
-        <updated>2021-06-13T14:42:21.000Z</updated>
-        <summary type="html"><![CDATA[Polkit 是一个包含在几乎所有现代 Linux 发行版中的 Linux 系统服务，它为非特权进程与特权进程的通信提供了一种有组织的方式，七年来它一直隐藏着一个重大的安全漏洞。该漏洞允许非特权用户通过少数的标准命令行工具获得管理权限的 S […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 个提高工作效率的 VS Code 键盘快捷键]]></title>
-        <id>http://www.linuxeden.com/?p=86433</id>
-        <link href="http://www.linuxeden.com/a/86433"/>
-        <updated>2021-06-13T14:40:28.000Z</updated>
-        <summary type="html"><![CDATA[毫无疑问，微软的 VS Code是最好的开源代码编辑器之一。它与传说中的 Vim 不同，VS Code 不需要你是一个快捷键大师（LCTT 译注：以下都指键盘快捷键），开发者们对它大部分的功能都及其熟悉，且推崇备至。 但这并不意味着你不能成 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>
