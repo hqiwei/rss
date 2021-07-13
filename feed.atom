@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T06:12:08.748Z</updated>
+    <updated>2021-07-13T07:08:30.370Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -272,6 +272,16 @@ Golang 语言中怎么解码 4 种常见 JSON 格式数据？https://mp.weixin.q
         <link href="http://www.dayanzai.me/sd-maid-pro.html"/>
         <updated>2021-07-12T16:45:08.000Z</updated>
         <summary type="html"><![CDATA[SD Maid Pro 中文版 Android SD 卡管理工具由大眼仔旭（www.dayanzai.me）发 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无广告数科OFD版式阅读器 5.0.21 中文免费版]]></title>
+        <id>http://www.dayanzai.me/?p=28746</id>
+        <link href="http://www.dayanzai.me/ofd-reader.html"/>
+        <updated>2021-07-12T16:21:35.000Z</updated>
+        <summary type="html"><![CDATA[数科 OFD 版式阅读器是一款基于我国自主 OFD 标准的版式阅读器产品，不仅支持 OFD/PDF 电子文件的 […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
         </author>
