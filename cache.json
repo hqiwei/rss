@@ -803,6 +803,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12340",
+          "author": "chcoball",
+          "description": "岗位要求：\n1、本科及以上学历，计算机相关专业；\n2、掌握 Golang 语言，对 Golang 开发框架、并发编程、网络编程等有较深入理解，并有 1 年以上开发经验；\n3、较强的自我驱动能力，积极主动学习新技术，较好的团队沟通和协作能力；\n有意者联系：marketing@goodlark.larkmailtest.com",
+          "link": "https://gocn.vip/topics/12340",
+          "publishedOn": "2021-07-13T09:30:43.000Z",
+          "wordCount": 79,
+          "title": "【招聘】Go 开发工程师"
+        },
+        {
           "id": "https://gocn.vip/topics/12339",
           "author": "mahuaibo",
           "description": "GoCN 每日新闻 (2021-07-13)\nGo 1.16.6 and Go 1.15.14 are released https://groups.google.com/g/golang-announce/c/n9FxMelZGAQ/m/4ZhvTx0dAQAJ\n\n更新 Go 内存模型 https://research.swtch.com/gomm\n\nGo 依赖注入：为什么把 dig 迁移到 wire https://mp.weixin.qq.com/s/bHXRSpiIhycoQLN5oz0QMA\n\n编程模式之 Go 如何实现装饰器 https://mp.weixin.qq.com/s/B_VYr3I525-vjHgzfW3Jhg\n\nGo 不是 C，所以没有极快的方法来合并切片 https://github.com/go101/go101/wiki/Go-is-not-C,-so-there-is-not-an-extreme-fast-way-to-merge-slices\n\n\n\n编辑: Max \n订阅新闻: http://tinyletter.com/gocn \n招聘专区: https://gocn.vip/jobs",

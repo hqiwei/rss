@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T09:10:12.902Z</updated>
+    <updated>2021-07-13T10:10:08.951Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【招聘】Go 开发工程师]]></title>
+        <id>https://gocn.vip/topics/12340</id>
+        <link href="https://gocn.vip/topics/12340"/>
+        <updated>2021-07-13T09:30:43.000Z</updated>
+        <summary type="html"><![CDATA[岗位要求：
+1、本科及以上学历，计算机相关专业；
+2、掌握 Golang 语言，对 Golang 开发框架、并发编程、网络编程等有较深入理解，并有 1 年以上开发经验；
+3、较强的自我驱动能力，积极主动学习新技术，较好的团队沟通和协作能力；
+有意者联系：marketing@goodlark.larkmailtest.com]]></summary>
+        <author>
+            <name>chcoball</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ViennaRSS – 开源 RSS 阅读器，支持 5 大在线阅读器[macOS]]]></title>
         <id>https://www.appinn.com/?p=39290</id>
