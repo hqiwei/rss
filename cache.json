@@ -785,6 +785,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12339",
+          "author": "mahuaibo",
+          "description": "GoCN 每日新闻 (2021-07-13)\nGo 1.16.6 and Go 1.15.14 are released https://groups.google.com/g/golang-announce/c/n9FxMelZGAQ/m/4ZhvTx0dAQAJ\n\n更新 Go 内存模型 https://research.swtch.com/gomm\n\nGo 依赖注入：为什么把 dig 迁移到 wire https://mp.weixin.qq.com/s/bHXRSpiIhycoQLN5oz0QMA\n\n编程模式之 Go 如何实现装饰器 https://mp.weixin.qq.com/s/B_VYr3I525-vjHgzfW3Jhg\n\nGo 不是 C，所以没有极快的方法来合并切片 https://github.com/go101/go101/wiki/Go-is-not-C,-so-there-is-not-an-extreme-fast-way-to-merge-slices\n\n\n\n编辑: Max \n订阅新闻: http://tinyletter.com/gocn \n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12339",
+          "publishedOn": "2021-07-13T03:10:35.000Z",
+          "wordCount": 109,
+          "title": "GoCN 每日新闻 (2021-07-13)"
+        },
+        {
           "id": "https://gocn.vip/topics/12338",
           "author": "mahuaibo",
           "description": "GoCN 每日新闻 (2021-07-12)\n学习 channel 设计：从入门到放弃 https://mp.weixin.qq.com/s/wWF27OnOUf-GM0UKDfrqUA\n\nGolang 官方限流器的用法详解 https://mp.weixin.qq.com/s/S3_YEyhLcaAUuaSabXdimw\n\n亿级系统的 Redis 缓存如何设计？ https://mp.weixin.qq.com/s/bkXnbQIpI_GdX4BHkAhPUA\n\n面试官：你能聊聊 string 和 [] byte 的转换吗？https://mp.weixin.qq.com/s/gl7bM4M1b2howHnplop8FA\n\nGolang 语言中怎么解码 4 种常见 JSON 格式数据？https://mp.weixin.qq.com/s/Oy4cHyROIrkAl9tixzfQ6g\n\n\n\n编辑: Max \n订阅新闻: http://tinyletter.com/gocn \n招聘专区: https://gocn.vip/jobs",
@@ -4740,6 +4749,15 @@
       "feedUrl": "http://feed.appinn.com",
       "siteUrl": "https://www.appinn.com",
       "articles": [
+        {
+          "id": "https://www.appinn.com/?p=39275",
+          "author": "开发者推荐账号",
+          "description": "平时在公司，想要把一些画册、手册、文档资料发给客户，或内部阅读，总是把 Word 或 PDF 发来发去，他人还得下载才能看，当文件过大时，在软件中传送也常遇到问题，非常不利于传播，而一般像在微信中转发",
+          "link": "https://www.appinn.com/yunzhan365-202107/",
+          "publishedOn": "2021-07-13T02:00:00.000Z",
+          "wordCount": 1455,
+          "title": "云展网 送VIP会员 – 在线转换 PDF 文档为 3D 翻页书 (生成链接二维码/方便微信转发分享)"
+        },
         {
           "id": "https://www.appinn.com/?p=39268",
           "author": "青小蛙",
