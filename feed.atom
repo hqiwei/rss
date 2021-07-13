@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T14:08:29.190Z</updated>
+    <updated>2021-07-13T15:11:04.130Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenSearch 1.0 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87497</id>
+        <link href="http://www.linuxeden.com/a/87497"/>
+        <updated>2021-07-13T15:05:20.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊 AWS 发起的 Elasticsearch 分支 OpenSearch 释出了 1.0 版本。今年初，开发 Elasticsearch 和 Kibana 的公司 Elastic 宣布更改许可证，新版本将不再使用 Apache 2.0 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.15有望合并Memory Folios方案 内核构建速度可提升7%]]></title>
+        <id>http://www.linuxeden.com/?p=87493</id>
+        <link href="http://www.linuxeden.com/a/87493"/>
+        <updated>2021-07-13T14:52:00.000Z</updated>
+        <summary type="html"><![CDATA[甲骨文公司的长期内核开发人员Matthew Wilcox已经研究了“内存对开区”概念相当长的一段时间，这可以改善Linux的内存管理，使其具有更大的效率。例如，使用内存对开的基准测试表明，内核的构建速度可以提高7%，人们希望看到至少有一些这 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Impala 4.0.0发布]]></title>
+        <id>http://www.linuxeden.com/?p=87491</id>
+        <link href="http://www.linuxeden.com/a/87491"/>
+        <updated>2021-07-13T14:49:43.000Z</updated>
+        <summary type="html"><![CDATA[apache-impala-4.0.0.tar.gz        2021-07-12 06:05   45M apache-impala-4.0.0.tar.gz.asc    2021-07-12 06:05  819 apache- […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Git Branches Work]]></title>
         <id>60e73db9134ad707be00f206</id>
@@ -13466,36 +13496,6 @@ mapData := make(map[uint64]map[uint64]item)
         <link href="http://www.linuxeden.com/a/86469"/>
         <updated>2021-06-14T03:23:18.000Z</updated>
         <summary type="html"><![CDATA[In this version, Nacos community have done a lot of optimizations for the features of the upgrade from 1.X to 2.0.X, suc […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seaweedfs 2.53 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86467</id>
-        <link href="http://www.linuxeden.com/a/86467"/>
-        <updated>2021-06-14T03:04:12.000Z</updated>
-        <summary type="html"><![CDATA[Filer when deleting a bucket, remove all bucket metadata for mysql and postgres filer stores. (mysql2, postgres2, and sq […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Commons-IO 2.10.0 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86462</id>
-        <link href="http://www.linuxeden.com/a/86462"/>
-        <updated>2021-06-14T02:57:14.000Z</updated>
-        <summary type="html"><![CDATA[Parent Directory                             – binaries/               2021-06-13 13:57    – source/         […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.13-rc6发布 新版内核发布周期临近]]></title>
-        <id>http://www.linuxeden.com/?p=86458</id>
-        <link href="http://www.linuxeden.com/a/86458"/>
-        <updated>2021-06-14T02:49:49.000Z</updated>
-        <summary type="html"><![CDATA[经过几周的5.13-rc的不断更新，其中的变化比Linus Torvalds希望看到的要多，Linux 5.13-rc6现在已经发布了，这一次的变化规模较小，而对于内核开发的后期阶段来说，这是一个好现象。Torvalds在5.13-rc6公 […]]]></summary>
         <author>
             <name>Editor, Kai</name>
         </author>
