@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T12:15:46.641Z</updated>
+    <updated>2021-07-13T13:17:49.131Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -13496,36 +13496,6 @@ mapData := make(map[uint64]map[uint64]item)
         <link href="https://www.oschina.net/news/145896/intel-in-talks-to-acquire-risc-v-firm-sifiv"/>
         <updated>2021-06-14T01:53:53.000Z</updated>
         <summary type="html"><![CDATA[根据彭博社的报道，英特尔提出以超过 20 亿美元的价格收购 SiFive。此报道未经证实，据说双方仍处于谈判的早期阶段，其他公司也可能对收购 SiFive 感兴趣。彭博社称不能保证 SiFive 会和任何公司达成交易，前者可能会选择保持独立。 根据数据供应商 PitchBook 的数据，SiFive 在 2020 年进行融资时，最后一次的估值约为 ...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AutoKey —— Linux 键盘配置工具]]></title>
-        <id>https://www.oschina.net/p/autokey</id>
-        <link href="https://www.oschina.net/p/autokey"/>
-        <updated>2021-06-14T00:30:50.000Z</updated>
-        <summary type="html"><![CDATA[AutoKey 用来配置你的键盘，纠正常见的错别字，输入常用的短语等等，是一个开源的 Linux 桌面自动化工具。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日一博 | 初窥鸿蒙]]></title>
-        <id>https://my.oschina.net/o2team/blog/5075771</id>
-        <link href="https://my.oschina.net/o2team/blog/5075771"/>
-        <updated>2021-06-14T00:26:47.000Z</updated>
-        <summary type="html"><![CDATA[鸿蒙即 HarmonyOS ，是华为公司推出的支持手机、平板、智能穿戴、智慧屏、车机等多种终端设备的分布式操作系统，并且它提供了多语言开发的 API，支持 Java、XML、C/C++、JS、CSS、HML（类 HTML 的鸿蒙自己的标记语言）等开发语言，而且它提供多种响应式布局方案，支持栅格化布局，可以使用同一套代码部署在手机手表平板等...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitee 推荐 | 轻巧快速的 Linux 网速插件 lfxSpeed]]></title>
-        <id>https://gitee.com/xmuli/lfxSpeed</id>
-        <link href="https://gitee.com/xmuli/lfxSpeed"/>
-        <updated>2021-06-14T00:23:35.000Z</updated>
-        <summary type="html"><![CDATA[一款轻巧、快速的网速插件，可在 Deepin 商店 || 星火商店直接下载]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>

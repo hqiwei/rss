@@ -8409,33 +8409,6 @@
           "publishedOn": "2021-06-14T01:53:53.000Z",
           "wordCount": 516,
           "title": "英特尔有意以 20 亿美元收购 RISC-V 公司 SiFive"
-        },
-        {
-          "id": "https://www.oschina.net/p/autokey",
-          "author": null,
-          "description": "AutoKey 用来配置你的键盘，纠正常见的错别字，输入常用的短语等等，是一个开源的 Linux 桌面自动化工具。",
-          "link": "https://www.oschina.net/p/autokey",
-          "publishedOn": "2021-06-14T00:30:50.000Z",
-          "wordCount": 759,
-          "title": "AutoKey —— Linux 键盘配置工具"
-        },
-        {
-          "id": "https://my.oschina.net/o2team/blog/5075771",
-          "author": null,
-          "description": "鸿蒙即 HarmonyOS ，是华为公司推出的支持手机、平板、智能穿戴、智慧屏、车机等多种终端设备的分布式操作系统，并且它提供了多语言开发的 API，支持 Java、XML、C/C++、JS、CSS、HML（类 HTML 的鸿蒙自己的标记语言）等开发语言，而且它提供多种响应式布局方案，支持栅格化布局，可以使用同一套代码部署在手机手表平板等...",
-          "link": "https://my.oschina.net/o2team/blog/5075771",
-          "publishedOn": "2021-06-14T00:26:47.000Z",
-          "wordCount": 1188,
-          "title": "每日一博 | 初窥鸿蒙"
-        },
-        {
-          "id": "https://gitee.com/xmuli/lfxSpeed",
-          "author": null,
-          "description": "一款轻巧、快速的网速插件，可在 Deepin 商店 || 星火商店直接下载",
-          "link": "https://gitee.com/xmuli/lfxSpeed",
-          "publishedOn": "2021-06-14T00:23:35.000Z",
-          "wordCount": 456,
-          "title": "Gitee 推荐 | 轻巧快速的 Linux 网速插件 lfxSpeed"
         }
       ]
     },
