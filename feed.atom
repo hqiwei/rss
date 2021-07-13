@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T10:10:08.951Z</updated>
+    <updated>2021-07-13T12:15:46.641Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -13526,16 +13526,6 @@ mapData := make(map[uint64]map[uint64]item)
         <link href="https://gitee.com/xmuli/lfxSpeed"/>
         <updated>2021-06-14T00:23:35.000Z</updated>
         <summary type="html"><![CDATA[一款轻巧、快速的网速插件，可在 Deepin 商店 || 星火商店直接下载]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 为 Chrome 标签组开发新功能]]></title>
-        <id>https://www.oschina.net/news/145886/chrome-tab-groups-get-new-features</id>
-        <link href="https://www.oschina.net/news/145886/chrome-tab-groups-get-new-features"/>
-        <updated>2021-06-13T23:25:34.000Z</updated>
-        <summary type="html"><![CDATA[去年 9 月，Google 宣布历时 19 个月开发的 “标签组” 功能正式上线，该功能随即成为 Chrome 最成功的 UI 创新之一。现在，Google 正在开发 “标签组” 相关的新功能。 第一个功能是保存已关闭选项卡的名称和组织，让用户可以轻松找到并重新打开之前关闭的单个和整个选项卡组。 此功能在 Chrome Canary 中的 “显示应用...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>
