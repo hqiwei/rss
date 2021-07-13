@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T07:08:30.370Z</updated>
+    <updated>2021-07-13T08:10:52.096Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a GraphQL Server with Laravel GraphQL and Test It with Postman]]></title>
+        <id>609692d82cd0545b5e9441ab</id>
+        <link href="https://www.freecodecamp.org/news/build-graphql-server-with-laravel/"/>
+        <updated>2021-07-13T07:54:34.000Z</updated>
+        <summary type="html"><![CDATA[GraphQL is a query language for your API. It simplifies the process of requesting the server by providing convenient ways to query objects.  For instance, if you're using a REST API and you need a list of books, you might hit the GET /books/list endpoint for all books. Then]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use Axios With React: The Definitive Guide (2021)]]></title>
+        <id>60e9c888e8ee9b08300ed212</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-axios-with-react/"/>
+        <updated>2021-07-13T07:36:28.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, you will see exactly how to use Axios.js with React using tons of real-world examples featuring React hooks.  You'll see why you should use Axios as a data fetching library, how to set it up with React, and perform every type of HTTP request with it.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[openEuler 社区成立 OSCourse SIG，在 openEuler 构建开源操作系统课程推广平台]]></title>
+        <id>https://www.oschina.net/news/150235</id>
+        <link href="https://www.oschina.net/news/150235"/>
+        <updated>2021-07-13T07:18:31.000Z</updated>
+        <summary type="html"><![CDATA[经 openEuler 社区技术委员会讨论批准，openEuler 社区正式成立 OSCourse SIG。OSCourse SIG 致力于发展和推动开源操作系统 Linux 的系统课程开发、维护、推广等工作。 基于当前的新兴硬件、新兴开源系统版本，以及最新操作系统内核技术发展路径，不断提供和完善开源操作系统课程内容。 openEuler 社区通过建立 OSCourse...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoCN 每日新闻 (2021-07-13)]]></title>
         <id>https://gocn.vip/topics/12339</id>
