@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T08:10:52.096Z</updated>
+    <updated>2021-07-13T09:10:12.902Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ViennaRSS – 开源 RSS 阅读器，支持 5 大在线阅读器[macOS]]]></title>
+        <id>https://www.appinn.com/?p=39290</id>
+        <link href="https://www.appinn.com/viennarss-for-macos/"/>
+        <updated>2021-07-13T08:38:51.000Z</updated>
+        <summary type="html"><![CDATA[ViennaRSS 是一款 macOS 下的开源 RSS 阅读器，支持本地订阅 RSS，还支持 5 大在线阅读器，包括 BazQux、FreshRSS、FeedHQ、InoReader、TheOldR]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a GraphQL Server with Laravel GraphQL and Test It with Postman]]></title>
         <id>609692d82cd0545b5e9441ab</id>
@@ -17,6 +27,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DevUI 11.4.0 发布：DatePickerPro 来啦]]></title>
+        <id>https://www.oschina.net/news/150245/devui-11-4-0-released</id>
+        <link href="https://www.oschina.net/news/150245/devui-11-4-0-released"/>
+        <updated>2021-07-13T07:53:46.000Z</updated>
+        <summary type="html"><![CDATA[DevUI 是一款面向企业中后台产品的开源前端解决方案，它倡导沉浸、灵活、至简的设计价值观，提倡设计者为真实的需求服务，为多数人的设计，拒绝哗众取宠、取悦眼球的设计。如果你正在开发 ToB 的工具类产品，DevUI 将是一个很不错的选择！ DatePickerPro 本次版本我们带来了升级版的日期选择器，具体有哪些提升呢？我们一...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How To Use Axios With React: The Definitive Guide (2021)]]></title>
         <id>60e9c888e8ee9b08300ed212</id>
         <link href="https://www.freecodecamp.org/news/how-to-use-axios-with-react/"/>
@@ -24,6 +44,16 @@
         <summary type="html"><![CDATA[In this guide, you will see exactly how to use Axios.js with React using tons of real-world examples featuring React hooks.  You'll see why you should use Axios as a data fetching library, how to set it up with React, and perform every type of HTTP request with it.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choerodon 猪齿鱼 1.0 先行版已发布]]></title>
+        <id>https://www.oschina.net/news/150238/choerodon-1-0-eap-released</id>
+        <link href="https://www.oschina.net/news/150238/choerodon-1-0-eap-released"/>
+        <updated>2021-07-13T07:27:55.000Z</updated>
+        <summary type="html"><![CDATA[自汉得宣布开源以来，Choerodon猪齿鱼已被上千个组织所使用，帮助企业完成软件的生命周期管理，从而更快、更频繁地交付更稳定的软件。经过一千一百多天的奋战，2021年06月30日，Choerodon猪齿鱼迎来了1.0先行版正式发布，标志着Choerodon猪齿鱼走向的成熟和稳定，欢迎各位升级体验。 发布版本：1.0 发布时间：2021年06月...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
     <entry>

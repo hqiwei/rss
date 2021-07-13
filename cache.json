@@ -4768,6 +4768,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=39290",
+          "author": "青小蛙",
+          "description": "ViennaRSS 是一款 macOS 下的开源 RSS 阅读器，支持本地订阅 RSS，还支持 5 大在线阅读器，包括 BazQux、FreshRSS、FeedHQ、InoReader、TheOldR",
+          "link": "https://www.appinn.com/viennarss-for-macos/",
+          "publishedOn": "2021-07-13T08:38:51.000Z",
+          "wordCount": 1223,
+          "title": "ViennaRSS – 开源 RSS 阅读器，支持 5 大在线阅读器[macOS]"
+        },
+        {
           "id": "https://www.appinn.com/?p=39275",
           "author": "开发者推荐账号",
           "description": "平时在公司，想要把一些画册、手册、文档资料发给客户，或内部阅读，总是把 Word 或 PDF 发来发去，他人还得下载才能看，当文件过大时，在软件中传送也常遇到问题，非常不利于传播，而一般像在微信中转发",
@@ -5134,6 +5143,24 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/150245/devui-11-4-0-released",
+          "author": null,
+          "description": "DevUI 是一款面向企业中后台产品的开源前端解决方案，它倡导沉浸、灵活、至简的设计价值观，提倡设计者为真实的需求服务，为多数人的设计，拒绝哗众取宠、取悦眼球的设计。如果你正在开发 ToB 的工具类产品，DevUI 将是一个很不错的选择！ DatePickerPro 本次版本我们带来了升级版的日期选择器，具体有哪些提升呢？我们一...",
+          "link": "https://www.oschina.net/news/150245/devui-11-4-0-released",
+          "publishedOn": "2021-07-13T07:53:46.000Z",
+          "wordCount": 597,
+          "title": "DevUI 11.4.0 发布：DatePickerPro 来啦"
+        },
+        {
+          "id": "https://www.oschina.net/news/150238/choerodon-1-0-eap-released",
+          "author": null,
+          "description": "自汉得宣布开源以来，Choerodon猪齿鱼已被上千个组织所使用，帮助企业完成软件的生命周期管理，从而更快、更频繁地交付更稳定的软件。经过一千一百多天的奋战，2021年06月30日，Choerodon猪齿鱼迎来了1.0先行版正式发布，标志着Choerodon猪齿鱼走向的成熟和稳定，欢迎各位升级体验。 发布版本：1.0 发布时间：2021年06月...",
+          "link": "https://www.oschina.net/news/150238/choerodon-1-0-eap-released",
+          "publishedOn": "2021-07-13T07:27:55.000Z",
+          "wordCount": 718,
+          "title": "Choerodon 猪齿鱼 1.0 先行版已发布"
+        },
         {
           "id": "https://www.oschina.net/news/150235",
           "author": null,
