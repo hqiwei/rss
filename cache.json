@@ -785,6 +785,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12344",
+          "author": "songjiayang",
+          "description": "号外号外，请问你是南京的一名 Gopher 么？\n作为南京的一名 Gopher，每次看到其他城市的 Gopher 的活动心里就蛮痒的，想看看南京的 Gopher 人数到底有多少，大家要不要一起见见面，看看能不能定期晚上搞搞分享啥的。",
+          "link": "https://gocn.vip/topics/12344",
+          "publishedOn": "2021-07-14T14:29:19.000Z",
+          "wordCount": 80,
+          "title": "南京 Gopher 聚会召集"
+        },
+        {
           "id": "https://gocn.vip/topics/12343",
           "author": "TiDB_Robot",
           "description": "作者介绍： 王天宜，TiDB Community 架构师。曾就职于 Fidelity Investment，Softbank Investment，拥有丰富的数据库高可用方案设计经验，对 TiDB、Oracle、PostgreSQL、MySQL 等数据库的高可用架构与数据库生态有深入研究。\n如今数据库上云这一话题受到越来越多的关注，数据库作为重要的基础软件，在云原生时代将面临怎样的变革？当数据库遇上云原生，又将碰撞出什么火花？近日，在亚马逊云开发者 Meetup 上，TiDB Community 架构师王天宜分享了 TiDB 与云原生实践开发经验。\n本文将从以下三个方面解读 TiDB Operator 与云原生：\n什么是云原生数据库；\n\n\n为什么云原生数据库 TiDB 要拥抱 Kubernetes；\n\n\nTiDB 在 AWS 上的最佳实践。\n\n\n什么是云原生数据库\n什么是云原生\n\n任何技术的变革，一定是思想先行的。我认为云原生是一套应用程序在云上运行的方法论。\n我们可以将云原生拆成云和原生两部分，所谓的云，必然是指应用位于云中，而不再是传统的数据中心中。比如云盘中的文件就在云中，而不是存储在本地的硬盘中。对于原生的解读，我认为是生而为云，应用程序从设计之初就需要考虑云环境，在云上以最佳姿态运行。\n总而言之，云原生就是充分利用和发挥云平台的弹性 + 分布式的优势，是生在云上，长在云上，用在云上的技术。\n云原生的特点\n\n自 2013 年云原生这一概念诞生开始，其定义在不断完善。云原生有以下四个特点：\n持续交付：大概在十年前就有了敏捷开发的概念。敏捷开发的目的是要应对用户的需求改变，做到频繁的发布，快速的交付。在某些灰度发布，金丝雀发布的场景中，可能要有几个不同的版本同时提供服务。\n\n\n容器化：容器化使我们的开发、测试、生产环境高度统一，在调研阶段，我们也可以使用 docker …",
@@ -2025,24 +2034,6 @@
           "publishedOn": "2021-06-15T09:11:29.000Z",
           "wordCount": 688,
           "title": "OpenKruise ：SidecarSet 助力 Mesh 容器热升级"
-        },
-        {
-          "id": "https://gocn.vip/topics/12193",
-          "author": "gocnzhan",
-          "description": "联系方式\n微信 base64: enk0NjAxNjAyMzE=\n有意向私聊\nGolang 后端开发\n岗位职责：\n1、负责用户社区及通行证系统的开发及维护；\n2、负责游戏 SDK 和平台基础服务及组件的开发；\n3、负责游戏官网和活动相关平台的开发；\n4、负责公司内部游戏运营平台和协作效率工具开发；\n5、负责基础应用框架的维护和迭代，完善和优化服务治理系统，参与技术文档的编写。\n岗位要求：\n1、本科以上学历，有两年以上的服务端开发经验者优先；\n2、熟悉 Go 语言，有实际使用 Go 语言项目开发经验；\n3、对微服务架构有一定程度的研究并有开发经验，在服务治理，服务监控方面有相关经验；\n4、熟悉 Web 技术栈和 Web 应用开发，包括 HTTP、安全、数据库、缓存、消息队列等；\n5、熟悉 SQL 和数据库设计，具备 mysql 数据库设计和性能优化经验；熟悉主流非关系性数据库、缓存技术，例如：Redis、MongoDB、Memcached 等；\n6、掌握基本的前端知识 js、ajax 等，了解前后端分离架构；\n7、了解 Linux/Unix 系统常用命令，了解 docker、kubernetes 等容器技术；\n8、有高并发，海量用户经验优先。\n其他岗位\n国内岗位\n\n海外岗位",
-          "link": "https://gocn.vip/topics/12193",
-          "publishedOn": "2021-06-15T03:19:22.000Z",
-          "wordCount": 117,
-          "title": "【上海】米哈游急招 Golang 工程师、其他岗位也有"
-        },
-        {
-          "id": "https://gocn.vip/topics/12192",
-          "author": "chcoball",
-          "description": "本人 go 小白一枚，求推荐好的 go 开源项目学习，有兴趣交流可联系：hr@test.dibiantech.com",
-          "link": "https://gocn.vip/topics/12192",
-          "publishedOn": "2021-06-15T02:48:23.000Z",
-          "wordCount": 76,
-          "title": "求好的 go 开源项目"
         }
       ]
     },
@@ -5099,15 +5090,6 @@
           "publishedOn": "2021-06-15T04:32:13.000Z",
           "wordCount": 1243,
           "title": "无需公网，低成本快速实现外网访问内网、实现远程控制、穿透群晖nas"
-        },
-        {
-          "id": "https://www.appinn.com/?p=39061",
-          "author": "青小蛙",
-          "description": "通知播报助手是一款可以通过语音，自动读出手机通知的 Android 应用，包括微信、QQ、来电、短信、蓝牙连接状态、电池状态、整点报时等内容，方便在不便看手机的时候也能获取最新信息。@Appinn 这",
-          "link": "https://www.appinn.com/tongzhi-bobao-zhushou-for-android/",
-          "publishedOn": "2021-06-15T02:52:00.000Z",
-          "wordCount": 1098,
-          "title": "通知播报助手 – 用语音自动读出手机通知：微信、QQ、来电、短信、蓝牙、电池状态等[Android]"
         }
       ]
     },
