@@ -4795,6 +4795,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=39295",
+          "author": "青小蛙",
+          "description": "GoodSync 11 是著名的文件同步工具，支持 Windows、macOS 系统，它可以让不同的设备，根据设定的规则，自动同步、备份文件，并且可以使用 iPhone、Android 设备浏览电脑上",
+          "link": "https://www.appinn.com/goodsync-11-free-for-a-limited-time/",
+          "publishedOn": "2021-07-14T04:53:35.000Z",
+          "wordCount": 1173,
+          "title": "GoodSync 11 限免，著名文件同步工具，可同步 5 台设备，1 年免费，自带内网穿透"
+        },
+        {
           "id": "https://www.appinn.com/?p=39290",
           "author": "青小蛙",
           "description": "ViennaRSS 是一款 macOS 下的开源 RSS 阅读器，支持本地订阅 RSS，还支持 5 大在线阅读器，包括 BazQux、FreshRSS、FeedHQ、InoReader、TheOldR",

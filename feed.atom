@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T04:12:13.626Z</updated>
+    <updated>2021-07-14T05:08:14.711Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoodSync 11 限免，著名文件同步工具，可同步 5 台设备，1 年免费，自带内网穿透]]></title>
+        <id>https://www.appinn.com/?p=39295</id>
+        <link href="https://www.appinn.com/goodsync-11-free-for-a-limited-time/"/>
+        <updated>2021-07-14T04:53:35.000Z</updated>
+        <summary type="html"><![CDATA[GoodSync 11 是著名的文件同步工具，支持 Windows、macOS 系统，它可以让不同的设备，根据设定的规则，自动同步、备份文件，并且可以使用 iPhone、Android 设备浏览电脑上]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[倒计时 3 天，聚常州、议开源，我们准备好了 | FCES2021]]></title>
         <id>https://www.oschina.net/news/150398</id>
