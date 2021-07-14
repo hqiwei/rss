@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T16:14:04.616Z</updated>
+    <updated>2021-07-14T18:11:14.991Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Stop Email Tracking in Gmail – Disable Images by Default]]></title>
+        <id>60d4e7596e1a1407b6b0bb56</id>
+        <link href="https://www.freecodecamp.org/news/stop-email-tracking-pixel-disable-images-gmail/"/>
+        <updated>2021-07-14T17:51:43.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that marketers (and even hackers) can use images to track you in your email inbox? Here's how so-called tracking pixels work: Someone creates an image and host it on their server. Often a transparent 1x1 "tracking pixel" that you don't even see.They send you an email]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[南京 Gopher 聚会召集]]></title>
         <id>https://gocn.vip/topics/12344</id>
@@ -13538,16 +13548,6 @@ SidecarSet 是 Kruise 提供的独立管理 Sidecar 容器的 workload。用户�
         <summary type="html"><![CDATA[长安链是在科技部、工信部、国资委等国家部委及北京市政府的指导下发布的国内首个自主可控的区块链软硬件技术体系。自发布以来，秉持开源开放的理念，在底层核心技术和软件平台研发及开源生态构建上持续投入，不断响应号召，为区块链产业深化与创新发展提供新动能。]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无需公网，低成本快速实现外网访问内网、实现远程控制、穿透群晖nas]]></title>
-        <id>https://www.appinn.com/?p=39065</id>
-        <link href="https://www.appinn.com/xiaomy-202106/"/>
-        <updated>2021-06-15T04:32:13.000Z</updated>
-        <summary type="html"><![CDATA[很多人都想随时随地能轻松远程访问家里的 NAS (私人网盘/共享文件)，或连接电脑远程桌面控制、访问公司内部 OA 系统，还有一些摄像头、树莓派等设备也希望能在公网直接访问。 但可惜的是，大家的宽带基]]></summary>
-        <author>
-            <name>开发者推荐账号</name>
         </author>
     </entry>
 </feed>
