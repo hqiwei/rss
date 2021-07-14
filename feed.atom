@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T02:20:14.885Z</updated>
+    <updated>2021-07-14T03:12:16.898Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HarmonyOS 开发者创新大赛作品《智能农场》相关开发技术分享]]></title>
+        <id>https://gocn.vip/topics/12342</id>
+        <link href="https://gocn.vip/topics/12342"/>
+        <updated>2021-07-14T02:43:14.000Z</updated>
+        <summary type="html"><![CDATA[HarmonyOS 开发者创新大赛已于2021年5月24日落幕，在本次赛事中，来自古都西安的开拓者战队凭借《智能农场》这款作品最终获得大赛三等奖，该作品通过 HarmonyOS 的分布式软总线、分布式数据库技术、分布式任务调度、分布式跨设备数据流转等能力实现了多设备（传感器、智慧屏等）的互联互通、自动控制，实现了农场场景下多设备协同智能养殖体验，令人印象深刻。
+以下是 “开拓者战队” 基于 HarmonyOS 打造《智能农场》作品的相关思考以及关键技术的简单分享：
+1.背景介绍
+目前，市面上智慧农业相关的厂商设备（传感器等）相对独立，没有统一的操作系统平台，互联互通困难，且大多数设备部署需要连线，部署成本时间长，成本高，维护复杂度高。随着 5G 网络的覆盖，下一代全场景操作系统（HarmonyOS）的出现，让万物互联变得更加方便，可以实现一部手机操作所有 IoT 设备，实现各个 IoT 设备的互联互通。智能农场系统是基于 HarmonyOS 实现了多个 IoT 设备（传感器，电机，大屏等设备）的互联互通、自动控制，并实现全场景化的智慧养殖。智能农场通过各项传感器设备对农场的各项环境指标进行实时检测，并且可以进行自适应调节，让动物一直处于一个良好的生长环境。通过本系统可以实现指标超过阈值预警，智能提醒，智能求助等功能，让农场养殖门槛变低，让农场主轻松成为养殖专家。
+2.需求分析
+智能农场系统通过对农场的空气温，湿度、光照度等各项环境参数进行实时采集，确保农场主可随时通过智能手机 APP 了解农场状况。同时，系统可以根据农场内外环境因子的变化进行自适应调解，不仅能保证农场中的动物长期处于良好的生长环境中，还能提升动物的产量和质量。本系统的特色业务功能包括：精细化智能提醒，专家视频求助等。
+智能提醒功能体现在多个场景中，如：农场温度过高，降温设备有损坏或者指定时间内温度没有降下来…]]></summary>
+        <author>
+            <name>185218195</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[官方正版赠品 Wise Care 365 PRO 中文版免费领取]]></title>
+        <id>http://www.dayanzai.me/?p=53154</id>
+        <link href="http://www.dayanzai.me/wise-care-365.html"/>
+        <updated>2021-07-14T02:41:44.000Z</updated>
+        <summary type="html"><![CDATA[大眼仔旭（www.dayanzai.me）给大家推荐分享正版 Wise Care 365 PRO。Wise C […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[go-carbon 1.4.2 版本发布，新增年代和季节系列方法以及修复 bug]]></title>
         <id>https://gocn.vip/topics/12341</id>
@@ -13599,70 +13625,6 @@ Golang 后端开发
         <summary type="html"><![CDATA[Africa has over 2000 languages, but these languages are not well-represented in the existing Natural Language Processing ecosystem.  One challenge is the lack of useful African language datasets that we can use to solve different social and economic problems. In this article, I have compiled a list of African language]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-14)]]></title>
-        <id>https://gocn.vip/topics/12191</id>
-        <link href="https://gocn.vip/topics/12191"/>
-        <updated>2021-06-14T15:07:35.000Z</updated>
-        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-06-14)
-Go 高性能系列教程之六：一些建议和实践 https://gocn.vip/topics/12187
-
-Go 模糊测试 beta 版准备好了 https://mp.weixin.qq.com/s/wR3B50lh5-CK5Zs9-zNnDg
-
-go 学习笔记（二）派生类型 https://mp.weixin.qq.com/s/HAkcgwnLy3W2XT4YRXYcJg
-
-聊聊 Go 并发安全 https://mp.weixin.qq.com/s/ybW8sW7Xq6XpqQzMQlIlHA
-
-Go 语言学习路线来啦 https://mp.weixin.qq.com/s/aU5WqMxVS2vgGLGedZEu7w
-
-
-
-
-
-GopherChina 倒计时 13 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ
-
-
-编辑: cloudy
-
-
-订阅新闻: http://tinyletter.com/gocn
-
-
-招聘专区: https://gocn.vip/jobs]]></summary>
-        <author>
-            <name>cloudy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日文章精选 2021 06 14]]></title>
-        <id>http://www.linuxeden.com/?p=86490</id>
-        <link href="http://www.linuxeden.com/a/86490"/>
-        <updated>2021-06-14T14:46:37.000Z</updated>
-        <summary type="html"><![CDATA[Linux、Python 的 Freenode IRC 频道也被关闭了 如何在 Ubuntu Linux 上安装 Code Blocks IDE Linux 5.14内核主线预计能够与Raspberry Pi 400实现兼容 Alibaba […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux、Python 的 Freenode IRC 频道也被关闭了]]></title>
-        <id>http://www.linuxeden.com/?p=86487</id>
-        <link href="http://www.linuxeden.com/a/86487"/>
-        <updated>2021-06-14T14:43:40.000Z</updated>
-        <summary type="html"><![CDATA[在 Freenode IRC 服务器管理权被某韩国王室继承人夺走之后，开源社区的 IRC 频道纷纷主动搬走或被迫关闭了其在 Freenode 上的频道。运行了 22 年之久的 ##linux 频道已经被 Freenode 查封，同样被查封的 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在 Ubuntu Linux 上安装 Code Blocks IDE]]></title>
-        <id>http://www.linuxeden.com/?p=86480</id>
-        <link href="http://www.linuxeden.com/a/86480"/>
-        <updated>2021-06-14T14:32:25.000Z</updated>
-        <summary type="html"><![CDATA[Code Blocks 是一个用 C++ 编写的开源 IDE，非常适合 C、C++ 和 Fortran 开发。它是跨平台的，可以在 Linux、macOS 和 Windows 上运行。 Code Blocks 是轻量级和快速的。它支持工作区 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>

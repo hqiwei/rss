@@ -812,6 +812,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12342",
+          "author": "185218195",
+          "description": "HarmonyOS 开发者创新大赛已于2021年5月24日落幕，在本次赛事中，来自古都西安的开拓者战队凭借《智能农场》这款作品最终获得大赛三等奖，该作品通过 HarmonyOS 的分布式软总线、分布式数据库技术、分布式任务调度、分布式跨设备数据流转等能力实现了多设备（传感器、智慧屏等）的互联互通、自动控制，实现了农场场景下多设备协同智能养殖体验，令人印象深刻。\n以下是 “开拓者战队” 基于 HarmonyOS 打造《智能农场》作品的相关思考以及关键技术的简单分享：\n1.背景介绍\n目前，市面上智慧农业相关的厂商设备（传感器等）相对独立，没有统一的操作系统平台，互联互通困难，且大多数设备部署需要连线，部署成本时间长，成本高，维护复杂度高。随着 5G 网络的覆盖，下一代全场景操作系统（HarmonyOS）的出现，让万物互联变得更加方便，可以实现一部手机操作所有 IoT 设备，实现各个 IoT 设备的互联互通。智能农场系统是基于 HarmonyOS 实现了多个 IoT 设备（传感器，电机，大屏等设备）的互联互通、自动控制，并实现全场景化的智慧养殖。智能农场通过各项传感器设备对农场的各项环境指标进行实时检测，并且可以进行自适应调节，让动物一直处于一个良好的生长环境。通过本系统可以实现指标超过阈值预警，智能提醒，智能求助等功能，让农场养殖门槛变低，让农场主轻松成为养殖专家。\n2.需求分析\n智能农场系统通过对农场的空气温，湿度、光照度等各项环境参数进行实时采集，确保农场主可随时通过智能手机 APP 了解农场状况。同时，系统可以根据农场内外环境因子的变化进行自适应调解，不仅能保证农场中的动物长期处于良好的生长环境中，还能提升动物的产量和质量。本系统的特色业务功能包括：精细化智能提醒，专家视频求助等。\n智能提醒功能体现在多个场景中，如：农场温度过高，降温设备有损坏或者指定时间内温度没有降下来…",
+          "link": "https://gocn.vip/topics/12342",
+          "publishedOn": "2021-07-14T02:43:14.000Z",
+          "wordCount": 306,
+          "title": "HarmonyOS 开发者创新大赛作品《智能农场》相关开发技术分享"
+        },
+        {
           "id": "https://gocn.vip/topics/12341",
           "author": "gouguoyin",
           "description": "carbon 是一个轻量级、语义化、对开发者友好的 Golang 时间处理库，支持链式调用、农历和 gorm、xorm 等主流 orm\n如果您觉得不错，请给个 star 吧\ngithub:github.com/golang-module/carbon\ngitee:gitee.com/go-package/carbon\n更新日志\nLunar().ToChineseYearString() 方法更改为 Lunar().ToYearString()\nLunar().ToChineseMonthString() 方法更改为 Lunar().ToMonthString()\nLunar().ToChineseDayString() 方法更改为 Lunar().ToDayString()\nNew() 方法更改为 NewCarbon()，以避免 New() 和 Now() 相似而混淆\n优化 CreaterFromXXX 系列方法对默认纳秒的处理，将默认纳秒设为当前纳秒\n增加单元测试覆盖场景\n增加对无效时间的判断\n新增 Decade() 方法获取当前年代\n新增 StartOfDecade() 方法获取当前年代的开始时间\n新增 EndOfDecade() 方法获取当前年代的结束时间\n新增 Season() 方法获取当前季节，支持 i18n\n新增 StartOfSeason() 方法获取当前季节的开始时间\n新增 EndOfSeason() 方法获取当前季节结束时间\n新增 IsSpring() 方法判断是否是春季\n新增 IsSummer() 方法判断是否是夏季\n新增 IsAutumn() 方法判断是否是秋季\n新增 IsWinter() 方法判断是否是冬季",
@@ -2052,15 +2061,6 @@
           "publishedOn": "2021-06-15T02:48:23.000Z",
           "wordCount": 76,
           "title": "求好的 go 开源项目"
-        },
-        {
-          "id": "https://gocn.vip/topics/12191",
-          "author": "cloudy",
-          "description": "GoCN 每日新闻 (2021-06-14)\nGo 高性能系列教程之六：一些建议和实践 https://gocn.vip/topics/12187\n\nGo 模糊测试 beta 版准备好了 https://mp.weixin.qq.com/s/wR3B50lh5-CK5Zs9-zNnDg\n\ngo 学习笔记（二）派生类型 https://mp.weixin.qq.com/s/HAkcgwnLy3W2XT4YRXYcJg\n\n聊聊 Go 并发安全 https://mp.weixin.qq.com/s/ybW8sW7Xq6XpqQzMQlIlHA\n\nGo 语言学习路线来啦 https://mp.weixin.qq.com/s/aU5WqMxVS2vgGLGedZEu7w\n\n\n\n\n\nGopherChina 倒计时 13 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n编辑: cloudy\n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs",
-          "link": "https://gocn.vip/topics/12191",
-          "publishedOn": "2021-06-14T15:07:35.000Z",
-          "wordCount": 108,
-          "title": "GoCN 每日新闻 (2021-06-14)"
         }
       ]
     },
@@ -4777,33 +4777,6 @@
           "publishedOn": "2021-06-15T00:06:05.000Z",
           "wordCount": 180,
           "title": "Elasticsearch 7.13.2 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86490",
-          "author": "Editor, Kai",
-          "description": "Linux、Python 的 Freenode IRC 频道也被关闭了 如何在 Ubuntu Linux 上安装 Code Blocks IDE Linux 5.14内核主线预计能够与Raspberry Pi 400实现兼容 Alibaba […]",
-          "link": "http://www.linuxeden.com/a/86490",
-          "publishedOn": "2021-06-14T14:46:37.000Z",
-          "wordCount": 129,
-          "title": "每日文章精选 2021 06 14"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86487",
-          "author": "Editor, Kai",
-          "description": "在 Freenode IRC 服务器管理权被某韩国王室继承人夺走之后，开源社区的 IRC 频道纷纷主动搬走或被迫关闭了其在 Freenode 上的频道。运行了 22 年之久的 ##linux 频道已经被 Freenode 查封，同样被查封的 […]",
-          "link": "http://www.linuxeden.com/a/86487",
-          "publishedOn": "2021-06-14T14:43:40.000Z",
-          "wordCount": 131,
-          "title": "Linux、Python 的 Freenode IRC 频道也被关闭了"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86480",
-          "author": "Editor, Kai",
-          "description": "Code Blocks 是一个用 C++ 编写的开源 IDE，非常适合 C、C++ 和 Fortran 开发。它是跨平台的，可以在 Linux、macOS 和 Windows 上运行。 Code Blocks 是轻量级和快速的。它支持工作区 […]",
-          "link": "http://www.linuxeden.com/a/86480",
-          "publishedOn": "2021-06-14T14:32:25.000Z",
-          "wordCount": 271,
-          "title": "如何在 Ubuntu Linux 上安装 Code Blocks IDE"
         }
       ]
     },
@@ -8543,6 +8516,15 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=53154",
+          "author": "大眼仔~旭",
+          "description": "大眼仔旭（www.dayanzai.me）给大家推荐分享正版 Wise Care 365 PRO。Wise C […]",
+          "link": "http://www.dayanzai.me/wise-care-365.html",
+          "publishedOn": "2021-07-14T02:41:44.000Z",
+          "wordCount": 559,
+          "title": "官方正版赠品 Wise Care 365 PRO 中文版免费领取"
+        },
         {
           "id": "http://www.dayanzai.me/?p=4645",
           "author": "大眼仔~旭",
