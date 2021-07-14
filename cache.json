@@ -751,15 +751,6 @@
           "publishedOn": "2021-06-14T19:19:42.000Z",
           "wordCount": 2588,
           "title": "How to Backup Squarespace-Managed Styles using AWS Cloud"
-        },
-        {
-          "id": "60c4b35ed3126007592d71bc",
-          "author": null,
-          "description": "Africa has over 2000 languages, but these languages are not well-represented in the existing Natural Language Processing ecosystem.  One challenge is the lack of useful African language datasets that we can use to solve different social and economic problems. In this article, I have compiled a list of African language",
-          "link": "https://www.freecodecamp.org/news/african-language-datasets-for-data-science-projects/",
-          "publishedOn": "2021-06-14T18:37:44.000Z",
-          "wordCount": 1599,
-          "title": "10 Best African Language Datasets for Data Science Projects"
         }
       ]
     },
@@ -5179,6 +5170,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/150423",
+          "author": null,
+          "description": "报告编号：B6-2021-071399 报告来源：360CERT 报告作者：360CERT 更新日期：2021-07-12 1. Vulnerability|漏洞 飞利浦Vue PACS医学诊断系统多个高危漏洞通告 https://cert.360.cn/warning/detail?id=05e292dce79e85c79458c95e39084570 CVE-2021-3583: Ansible 模板注入漏洞 https://bugzilla.redhat.com/show_bug.cgi?i...",
+          "link": "https://www.oschina.net/news/150423",
+          "publishedOn": "2021-07-14T07:00:41.000Z",
+          "wordCount": 581,
+          "title": "安全日报，Ansible 模板注入漏洞、NuGet 包攻击 .NET 平台"
+        },
         {
           "id": "https://www.oschina.net/news/150414",
           "author": null,
