@@ -742,15 +742,6 @@
           "publishedOn": "2021-06-14T22:39:00.000Z",
           "wordCount": 2563,
           "title": "How to Build a Custom Pagination Component in React"
-        },
-        {
-          "id": "60c3b862d3126007592d689b",
-          "author": null,
-          "description": "Have you ever used the CSS order or direction properties? You've probably used them dozens of times, but did you realize that these properties will cause a disconnect between what's being displayed and what's actually in the DOM? Using the order property will create a disconnect between the visual presentation",
-          "link": "https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/",
-          "publishedOn": "2021-06-14T20:15:00.000Z",
-          "wordCount": 1297,
-          "title": "HTML Roving tabindex Attribute Explained with Examples"
         }
       ]
     },
