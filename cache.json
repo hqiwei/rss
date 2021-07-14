@@ -2052,6 +2052,15 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=87530",
+          "author": "Editor, Kai",
+          "description": "像查询数据库一样查询你的 Linux 操作系统信息 Linux随机数生成器（LRNG）开发时间超过5年 修订41次 Apache Ant 1.10.11发布 在 Linux 命令行中收发 Gmail 邮件 Linux 5.15有望合并Mem […]",
+          "link": "http://www.linuxeden.com/a/87530",
+          "publishedOn": "2021-07-14T13:43:18.000Z",
+          "wordCount": 107,
+          "title": "每日文章精选 2021 07 14"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=87527",
           "author": "Editor, Kai",
           "description": "使用数据库查询操作轻松获取系统信息。 Linux 提供了很多帮助用户收集主机操作系统信息的命令：列出文件或者目录的属性信息；查询安装的软件包、正在执行的命令、开机时启动的服务；或者了解系统的硬件。 每个命令使用自己的输出格式列出系统的信息。 […]",
