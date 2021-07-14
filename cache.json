@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60ebb55be8ee9b08300ed731",
+          "author": null,
+          "description": "Websites are a critical part of almost every business or organization in the world. From your nearby florist to global brands, almost everyone uses a website as part of their branding. Unfortunately, websites are also one of the most unsecured gateways through which an attacker can exploit your company. Since",
+          "link": "https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/",
+          "publishedOn": "2021-07-14T07:18:59.000Z",
+          "wordCount": 1136,
+          "title": "An Introduction to Web Server Scanning With Nikto"
+        },
+        {
           "id": "60eb2a69e8ee9b08300ed5b3",
           "author": null,
           "description": "Redis is a type of database that can be added to your produciton level applicaiton to make it more performant.  In this article, I'll go over the Redis basics and show a real world example of Redis in action.  Here's everything we'll go over:  What is Redis? Why the Hype",
@@ -742,15 +751,6 @@
           "publishedOn": "2021-06-14T20:15:00.000Z",
           "wordCount": 1297,
           "title": "HTML Roving tabindex Attribute Explained with Examples"
-        },
-        {
-          "id": "60c794e64dc1a607ed7b25ba",
-          "author": null,
-          "description": "A while ago, I was doing side gig for a client who had a website hosted on Squarespace. They asked me to implement an advanced design for a page that wasn't possible with the site's current DIY tools. For an experienced and battle-tested web developer like me, this was a",
-          "link": "https://www.freecodecamp.org/news/how-to-backup-squarespace-managed-styles-using-aws-cloud/",
-          "publishedOn": "2021-06-14T19:19:42.000Z",
-          "wordCount": 2588,
-          "title": "How to Backup Squarespace-Managed Styles using AWS Cloud"
         }
       ]
     },
@@ -5170,6 +5170,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/150424",
+          "author": null,
+          "description": "关于 Apache Pulsar Apache Pulsar 是 Apache 软件基金会顶级项目，是下一代云原生分布式消息流平台，集消息、存储、轻量化函数式计算为一体，采用计算与存储分离架构设计，支持多租户、持久化存储、多机房跨区域数据复制，具有强一致性、高吞吐、低延时及高可扩展性等流数据存储特性。 GitHub 地址：http://github.com...",
+          "link": "https://www.oschina.net/news/150424",
+          "publishedOn": "2021-07-14T07:09:21.000Z",
+          "wordCount": 932,
+          "title": "Pulsar 社区周报｜bookies REST 接口使用 metadata store 相关实现"
+        },
         {
           "id": "https://www.oschina.net/news/150423",
           "author": null,
