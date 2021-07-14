@@ -812,6 +812,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12341",
+          "author": "gouguoyin",
+          "description": "carbon 是一个轻量级、语义化、对开发者友好的 Golang 时间处理库，支持链式调用、农历和 gorm、xorm 等主流 orm\n如果您觉得不错，请给个 star 吧\ngithub:github.com/golang-module/carbon\ngitee:gitee.com/go-package/carbon\n更新日志\nLunar().ToChineseYearString() 方法更改为 Lunar().ToYearString()\nLunar().ToChineseMonthString() 方法更改为 Lunar().ToMonthString()\nLunar().ToChineseDayString() 方法更改为 Lunar().ToDayString()\nNew() 方法更改为 NewCarbon()，以避免 New() 和 Now() 相似而混淆\n优化 CreaterFromXXX 系列方法对默认纳秒的处理，将默认纳秒设为当前纳秒\n增加单元测试覆盖场景\n增加对无效时间的判断\n新增 Decade() 方法获取当前年代\n新增 StartOfDecade() 方法获取当前年代的开始时间\n新增 EndOfDecade() 方法获取当前年代的结束时间\n新增 Season() 方法获取当前季节，支持 i18n\n新增 StartOfSeason() 方法获取当前季节的开始时间\n新增 EndOfSeason() 方法获取当前季节结束时间\n新增 IsSpring() 方法判断是否是春季\n新增 IsSummer() 方法判断是否是夏季\n新增 IsAutumn() 方法判断是否是秋季\n新增 IsWinter() 方法判断是否是冬季",
+          "link": "https://gocn.vip/topics/12341",
+          "publishedOn": "2021-07-14T02:04:33.000Z",
+          "wordCount": 139,
+          "title": "go-carbon 1.4.2 版本发布，新增年代和季节系列方法以及修复 bug"
+        },
+        {
           "id": "https://gocn.vip/topics/12340",
           "author": "chcoball",
           "description": "岗位要求：\n1、本科及以上学历，计算机相关专业；\n2、掌握 Golang 语言，对 Golang 开发框架、并发编程、网络编程等有较深入理解，并有 1 年以上开发经验；\n3、较强的自我驱动能力，积极主动学习新技术，较好的团队沟通和协作能力；\n有意者联系：marketing@goodlark.larkmailtest.com",
@@ -4795,15 +4804,6 @@
           "publishedOn": "2021-06-14T14:32:25.000Z",
           "wordCount": 271,
           "title": "如何在 Ubuntu Linux 上安装 Code Blocks IDE"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86474",
-          "author": "Editor, Kai",
-          "description": "去年11月推出的Raspberry Pi 400是一款Raspberry Pi键盘电脑，它实际上是将Raspberry Pi 4 SBC嵌入到键盘中，并整合到一个大铝块上。对于一贯简约的树莓派产品而言，这是一个很好的小设备，并且从Linux […]",
-          "link": "http://www.linuxeden.com/a/86474",
-          "publishedOn": "2021-06-14T14:12:31.000Z",
-          "wordCount": 127,
-          "title": "Linux 5.14内核主线预计能够与Raspberry Pi 400实现兼容"
         }
       ]
     },
@@ -5179,6 +5179,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/150352",
+          "author": null,
+          "description": "一款高性能的移动应用兼容环境 跨平台生态迁移 原生性、高兼容性、高稳定性、高融合性、高安全性 麒麟移动运行环境（KMRE）实现了桌面 PC 与移动设备的融合，大幅提升用户体验并解决了用户的多样化应用需求，丰富了 Linux 的应用生态。真正地将 Linux 操作系统和移动操作系统合二为一，从本质上让麒麟操作系统、优麒麟操...",
+          "link": "https://www.oschina.net/news/150352",
+          "publishedOn": "2021-07-14T01:58:18.000Z",
+          "wordCount": 613,
+          "title": "【四大亮点功能】麒麟移动运行环境 KMRE，你值得拥有！"
+        },
         {
           "id": "https://www.oschina.net/news/150332/sourcegraph-125m-round",
           "author": null,

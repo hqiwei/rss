@@ -92,8 +92,57 @@
       </li>
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://gocn.vip/">GoCN社区</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">go-carbon 1.4.2 版本发布，新增年代和季节系列方法以及修复 bug</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12341">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>carbon 是一个轻量级、语义化、对开发者友好的 Golang 时间处理库，支持链式调用、农历和 gorm、xorm 等主流 orm
+如果您觉得不错，请给个 star 吧
+github:github.com/golang-module/carbon
+gitee:gitee.com/go-package/carbon
+更新日志
+Lunar().ToChineseYearString() 方法更改为 Lunar().ToYearString()
+Lunar().ToChineseMonthString() 方法更改为 Lunar().ToMonthString()
+Lunar().ToChineseDayString() 方法更改为 Lunar().ToDayString()
+New() 方法更改为 NewCarbon()，以避免 New() 和 Now() 相似而混淆
+优化 CreaterFromXXX 系列方法对默认纳秒的处理，将默认纳秒设为当前纳秒
+增加单元测试覆盖场景
+增加对无效时间的判断
+新增 Decade() 方法获取当前年代
+新增 StartOfDecade() 方法获取当前年代的开始时间
+新增 EndOfDecade() 方法获取当前年代的结束时间
+新增 Season() 方法获取当前季节，支持 i18n
+新增 StartOfSeason() 方法获取当前季节的开始时间
+新增 EndOfSeason() 方法获取当前季节结束时间
+新增 IsSpring() 方法判断是否是春季
+新增 IsSummer() 方法判断是否是夏季
+新增 IsAutumn() 方法判断是否是秋季
+新增 IsWinter() 方法判断是否是冬季</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://www.oschina.net/news/rss">OSCHINA 社区最新新闻</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">【四大亮点功能】麒麟移动运行环境 KMRE，你值得拥有！</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.oschina.net/news/150352">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>一款高性能的移动应用兼容环境 跨平台生态迁移 原生性、高兼容性、高稳定性、高融合性、高安全性 麒麟移动运行环境（KMRE）实现了桌面 PC 与移动设备的融合，大幅提升用户体验并解决了用户的多样化应用需求，丰富了 Linux 的应用生态。真正地将 Linux 操作系统和移动操作系统合二为一，从本质上让麒麟操作系统、优麒麟操...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">代码搜索初创公司 Sourcegraph 融资 1.25 亿美元</summary>
@@ -15743,17 +15792,6 @@ Golang 后端开发
                 </a>
               </details>
             </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Linux 5.14内核主线预计能够与Raspberry Pi 400实现兼容</summary>
-                <a class="article-summary-link article-summary-box-outer" href="http://www.linuxeden.com/a/86474">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>去年11月推出的Raspberry Pi 400是一款Raspberry Pi键盘电脑，它实际上是将Raspberry Pi 4 SBC嵌入到键盘中，并整合到一个大铝块上。对于一贯简约的树莓派产品而言，这是一个很好的小设备，并且从Linux […]</span>
-                  </div>
-                </a>
-              </details>
-            </article>
         </section>
       </li>
       <li class="source">
@@ -15862,7 +15900,7 @@ GopherChina 倒计时 13 天 Gopher China 大会志愿者招募启动 https://mp
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-07-14T01:49:48.337Z">2021-07-14T01:49:48.337Z</time>
+    <time id="build-timestamp" datetime="2021-07-14T02:20:14.837Z">2021-07-14T02:20:14.837Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.0</a></span>
   </footer>
   <script src="index.js"></script>

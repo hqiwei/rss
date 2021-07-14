@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T01:49:48.390Z</updated>
+    <updated>2021-07-14T02:20:14.885Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[go-carbon 1.4.2 版本发布，新增年代和季节系列方法以及修复 bug]]></title>
+        <id>https://gocn.vip/topics/12341</id>
+        <link href="https://gocn.vip/topics/12341"/>
+        <updated>2021-07-14T02:04:33.000Z</updated>
+        <summary type="html"><![CDATA[carbon 是一个轻量级、语义化、对开发者友好的 Golang 时间处理库，支持链式调用、农历和 gorm、xorm 等主流 orm
+如果您觉得不错，请给个 star 吧
+github:github.com/golang-module/carbon
+gitee:gitee.com/go-package/carbon
+更新日志
+Lunar().ToChineseYearString() 方法更改为 Lunar().ToYearString()
+Lunar().ToChineseMonthString() 方法更改为 Lunar().ToMonthString()
+Lunar().ToChineseDayString() 方法更改为 Lunar().ToDayString()
+New() 方法更改为 NewCarbon()，以避免 New() 和 Now() 相似而混淆
+优化 CreaterFromXXX 系列方法对默认纳秒的处理，将默认纳秒设为当前纳秒
+增加单元测试覆盖场景
+增加对无效时间的判断
+新增 Decade() 方法获取当前年代
+新增 StartOfDecade() 方法获取当前年代的开始时间
+新增 EndOfDecade() 方法获取当前年代的结束时间
+新增 Season() 方法获取当前季节，支持 i18n
+新增 StartOfSeason() 方法获取当前季节的开始时间
+新增 EndOfSeason() 方法获取当前季节结束时间
+新增 IsSpring() 方法判断是否是春季
+新增 IsSummer() 方法判断是否是夏季
+新增 IsAutumn() 方法判断是否是秋季
+新增 IsWinter() 方法判断是否是冬季]]></summary>
+        <author>
+            <name>gouguoyin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【四大亮点功能】麒麟移动运行环境 KMRE，你值得拥有！]]></title>
+        <id>https://www.oschina.net/news/150352</id>
+        <link href="https://www.oschina.net/news/150352"/>
+        <updated>2021-07-14T01:58:18.000Z</updated>
+        <summary type="html"><![CDATA[一款高性能的移动应用兼容环境 跨平台生态迁移 原生性、高兼容性、高稳定性、高融合性、高安全性 麒麟移动运行环境（KMRE）实现了桌面 PC 与移动设备的融合，大幅提升用户体验并解决了用户的多样化应用需求，丰富了 Linux 的应用生态。真正地将 Linux 操作系统和移动操作系统合二为一，从本质上让麒麟操作系统、优麒麟操...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[代码搜索初创公司 Sourcegraph 融资 1.25 亿美元]]></title>
         <id>https://www.oschina.net/news/150332/sourcegraph-125m-round</id>
@@ -13620,16 +13661,6 @@ GopherChina 倒计时 13 天 Gopher China 大会志愿者招募启动 https://mp
         <link href="http://www.linuxeden.com/a/86480"/>
         <updated>2021-06-14T14:32:25.000Z</updated>
         <summary type="html"><![CDATA[Code Blocks 是一个用 C++ 编写的开源 IDE，非常适合 C、C++ 和 Fortran 开发。它是跨平台的，可以在 Linux、macOS 和 Windows 上运行。 Code Blocks 是轻量级和快速的。它支持工作区 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.14内核主线预计能够与Raspberry Pi 400实现兼容]]></title>
-        <id>http://www.linuxeden.com/?p=86474</id>
-        <link href="http://www.linuxeden.com/a/86474"/>
-        <updated>2021-06-14T14:12:31.000Z</updated>
-        <summary type="html"><![CDATA[去年11月推出的Raspberry Pi 400是一款Raspberry Pi键盘电脑，它实际上是将Raspberry Pi 4 SBC嵌入到键盘中，并整合到一个大铝块上。对于一贯简约的树莓派产品而言，这是一个很好的小设备，并且从Linux […]]]></summary>
         <author>
             <name>Editor, Kai</name>
         </author>
