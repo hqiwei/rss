@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T10:10:23.549Z</updated>
+    <updated>2021-07-14T11:07:41.698Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OPEN AI LAB 正式加入 openEuler 社区，共建边缘智能开源生态]]></title>
+        <id>https://www.oschina.net/news/150464</id>
+        <link href="https://www.oschina.net/news/150464"/>
+        <updated>2021-07-14T10:25:15.000Z</updated>
+        <summary type="html"><![CDATA[近日， OPEN AI LAB（开放智能） 签署 CLA(Contributor License Agreement，贡献者许可协议)，正式加入 openEuler 社区。未来将积极参与社区合作，与行业内生态伙伴共建创新平台，推动开源生态快速发展。 OPEN AI LAB 是一家专注边缘智能计算及应用的高科技企业，提供边缘 AI 计算框架与场景化能力生产力工具，简化应用部...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Introduction to Web Server Scanning With Nikto]]></title>
         <id>60ebb55be8ee9b08300ed731</id>
@@ -13689,26 +13699,6 @@ Golang 后端开发
         <summary type="html"><![CDATA[Linux Kernel Development 一书中，关于 Linux 的进程调度器并没有讲解的很全面，只是提到了 CFS 调度器的基本思想和一些实现细节；并没有 Linux 早期的调度器介绍，以及最近这些年新增的在内核源码树外维护的调度器思想。所以在经过一番搜寻后，看到了这篇论文 A complete guide to Linux process scheduling，对 Linu...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[System Design Interview Tutorial – The Beginner&#x27;s Guide to System Design]]></title>
-        <id>60873d1fdd38b9088c2c0842</id>
-        <link href="https://www.freecodecamp.org/news/system-design-interview-practice-tutorial/"/>
-        <updated>2021-06-14T22:46:31.000Z</updated>
-        <summary type="html"><![CDATA[System Design is an important topic to understand if you want to advance further in your career as a software engineer. Even if you are just beginning your coding journey, it's a good idea to get a head start on learning about system design.  Early in your career you will]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Custom Pagination Component in React]]></title>
-        <id>60bce373acb62507dd1d9f19</id>
-        <link href="https://www.freecodecamp.org/news/build-a-custom-pagination-component-in-react/"/>
-        <updated>2021-06-14T22:39:00.000Z</updated>
-        <summary type="html"><![CDATA[We often work with web applications that need to fetch large amounts of data from a server through APIs and render it on the screen. For example, in a Social media application we fetch and render users' posts and comments. In an HR dashboard we display information about candidates who]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
