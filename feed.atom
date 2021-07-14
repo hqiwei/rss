@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T19:07:24.162Z</updated>
+    <updated>2021-07-14T20:09:25.760Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -13518,36 +13518,6 @@ SidecarSet 是 Kruise 提供的独立管理 Sidecar 容器的 workload。用户�
 阿里巴巴集团内部拥有上万的 Pod 都是基于 Service Mesh 来实现相互间的通信，…]]></summary>
         <author>
             <name>alicloudnative</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新增电信、联通等四家企业为 openEuler 理事会成员，百度正式加入社区]]></title>
-        <id>https://www.oschina.net/news/146077</id>
-        <link href="https://www.oschina.net/news/146077"/>
-        <updated>2021-06-15T08:06:38.000Z</updated>
-        <summary type="html"><![CDATA[6月10日，以“创造最好的OS，成就更好的我们”为主题的 openEuler Developer Day 2021在北京成功举行。本次大会由openEuler社区发起，是面向开发者的一场技术盛会，在为期一天的时间里，各行业组织专家、学者、企业领袖和开发者们围绕多样性计算、云原生全栈、全场景协同等技术方向进行深度的交流与探讨。 大会现场，新增...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulsar 社区周报｜2021-05-31～2021-06-06]]></title>
-        <id>https://www.oschina.net/news/146060</id>
-        <link href="https://www.oschina.net/news/146060"/>
-        <updated>2021-06-15T07:25:09.000Z</updated>
-        <summary type="html"><![CDATA[关于 Apache Pulsar Apache Pulsar 是 Apache 软件基金会顶级项目，是下一代云原生分布式消息流平台，集消息、存储、轻量化函数式计算为一体，采用计算与存储分离架构设计，支持多租户、持久化存储、多机房跨区域数据复制，具有强一致性、高吞吐、低延时及高可扩展性等流数据存储特性。 GitHub 地址：http://github.com...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[揭秘长安链，“核心开发者说”系列活动重磅开启]]></title>
-        <id>https://www.oschina.net/event/2322865</id>
-        <link href="https://www.oschina.net/event/2322865"/>
-        <updated>2021-06-15T07:20:24.000Z</updated>
-        <summary type="html"><![CDATA[长安链是在科技部、工信部、国资委等国家部委及北京市政府的指导下发布的国内首个自主可控的区块链软硬件技术体系。自发布以来，秉持开源开放的理念，在底层核心技术和软件平台研发及开源生态构建上持续投入，不断响应号召，为区块链产业深化与创新发展提供新动能。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
