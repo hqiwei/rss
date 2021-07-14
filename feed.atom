@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T03:12:16.898Z</updated>
+    <updated>2021-07-14T04:12:13.626Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[倒计时 3 天，聚常州、议开源，我们准备好了 | FCES2021]]></title>
+        <id>https://www.oschina.net/news/150398</id>
+        <link href="https://www.oschina.net/news/150398"/>
+        <updated>2021-07-14T04:10:35.000Z</updated>
+        <summary type="html"><![CDATA[FCES2021将于2021年7月16日-17日在江苏常州举行，峰会主题是“开源文化与计算机教育”。距离峰会召开倒计时3天。 FCES2021 7月16、17日连续两天上午将进行主题报告的现场直播，四位顶级专家精彩开讲“开源文化与计算机教育”，记得准时进入CCF B站直播间，聆听前沿思想智慧，学习本领域先进理念，一年一次的计算机教育界...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B 站崩了，总结下「高可用」和「异地多活」]]></title>
+        <id>https://my.oschina.net/u/4499317/blog/5130486</id>
+        <link href="https://my.oschina.net/u/4499317/blog/5130486"/>
+        <updated>2021-07-14T03:47:24.000Z</updated>
+        <summary type="html"><![CDATA[今日凌晨 2 点，B 站发布公告称，昨晚，B 站的部分服务器机房发生故障，造成无法访问。技术团队随即进行了问题排查和修复，现在服务已经陆续恢复正常。而针对网友传言的 B 站大楼失火一事，上海消防官博进行了辟谣，B 站大楼并未出现火情。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TiDB Operator + Amazon Web Service，探索云原生数据库的最佳实践]]></title>
+        <id>https://gocn.vip/topics/12343</id>
+        <link href="https://gocn.vip/topics/12343"/>
+        <updated>2021-07-14T03:23:41.000Z</updated>
+        <summary type="html"><![CDATA[作者介绍： 王天宜，TiDB Community 架构师。曾就职于 Fidelity Investment，Softbank Investment，拥有丰富的数据库高可用方案设计经验，对 TiDB、Oracle、PostgreSQL、MySQL 等数据库的高可用架构与数据库生态有深入研究。
+如今数据库上云这一话题受到越来越多的关注，数据库作为重要的基础软件，在云原生时代将面临怎样的变革？当数据库遇上云原生，又将碰撞出什么火花？近日，在亚马逊云开发者 Meetup 上，TiDB Community 架构师王天宜分享了 TiDB 与云原生实践开发经验。
+本文将从以下三个方面解读 TiDB Operator 与云原生：
+什么是云原生数据库；
+
+
+为什么云原生数据库 TiDB 要拥抱 Kubernetes；
+
+
+TiDB 在 AWS 上的最佳实践。
+
+
+什么是云原生数据库
+什么是云原生
+
+任何技术的变革，一定是思想先行的。我认为云原生是一套应用程序在云上运行的方法论。
+我们可以将云原生拆成云和原生两部分，所谓的云，必然是指应用位于云中，而不再是传统的数据中心中。比如云盘中的文件就在云中，而不是存储在本地的硬盘中。对于原生的解读，我认为是生而为云，应用程序从设计之初就需要考虑云环境，在云上以最佳姿态运行。
+总而言之，云原生就是充分利用和发挥云平台的弹性 + 分布式的优势，是生在云上，长在云上，用在云上的技术。
+云原生的特点
+
+自 2013 年云原生这一概念诞生开始，其定义在不断完善。云原生有以下四个特点：
+持续交付：大概在十年前就有了敏捷开发的概念。敏捷开发的目的是要应对用户的需求改变，做到频繁的发布，快速的交付。在某些灰度发布，金丝雀发布的场景中，可能要有几个不同的版本同时提供服务。
+
+
+容器化：容器化使我们的开发、测试、生产环境高度统一，在调研阶段，我们也可以使用 docker …]]></summary>
+        <author>
+            <name>TiDB_Robot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HarmonyOS 开发者创新大赛作品《智能农场》相关开发技术分享]]></title>
         <id>https://gocn.vip/topics/12342</id>
