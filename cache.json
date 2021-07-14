@@ -2061,6 +2061,15 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=87514",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 07 14",
+          "link": "http://www.linuxeden.com/a/87514",
+          "publishedOn": "2021-07-14T00:30:09.000Z",
+          "wordCount": 88,
+          "title": "开源美图 2021 07 14"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=87511",
           "author": "Editor, Kai",
           "description": "即使你用的是诸如 Gmail 的托管邮件服务，你也可以通过 Mutt 在终端里收发电子邮件。 我喜欢在 Linux 终端上读写电子邮件的便捷，因此我是 Mutt 这个轻量简洁的电子邮件客户端的忠实用户。对于电子邮件服务来说，不同的系统配置和 […]",
@@ -5170,6 +5179,33 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/150332/sourcegraph-125m-round",
+          "author": null,
+          "description": "代码搜索初创公司 Sourcegraph 宣布完成了 1.25 亿美元的 d 轮融资。本轮融资由 Andreessen Horowitz 领投，Insight Partners、Geodesic Capital 等公司参投。 去年 12 月，该公司曾获得了由红杉资本领投的 5000 万美元 C 轮融资。截至目前，Sourcegraph 共筹集了 2.25 亿美元的资金。此次融资完成后，公司估值达到 26.2...",
+          "link": "https://www.oschina.net/news/150332/sourcegraph-125m-round",
+          "publishedOn": "2021-07-14T00:42:28.000Z",
+          "wordCount": 597,
+          "title": "代码搜索初创公司 Sourcegraph 融资 1.25 亿美元"
+        },
+        {
+          "id": "https://www.oschina.net/news/150329/android-game-development-kit",
+          "author": null,
+          "description": "谷歌在昨日举办的游戏开发者大会上推出了 Android 游戏开发工具包 (AGDK)，这是一套完整的工具和库，用于帮助开发者开发、优化和交付高质量的 Android 游戏。 下载地址：https://developer.android.com/games/agdk 据介绍，AGDK 关注性能问题，减少了 Android 生态中的碎片化问题，并旨在迎合未来操作系统更新所提供的增...",
+          "link": "https://www.oschina.net/news/150329/android-game-development-kit",
+          "publishedOn": "2021-07-14T00:28:09.000Z",
+          "wordCount": 625,
+          "title": "谷歌发布 Android 游戏开发工具包 (AGDK)"
+        },
+        {
+          "id": "https://www.oschina.net/news/150328/microsoft-working-with-google-for-improved-clipboard-api",
+          "author": null,
+          "description": "最近几个月的时间，微软一直在推动 Edge 浏览器上的 PWA 应用发展，并致力于让 PWA 应用在 Windows 上成为一流的应用，而微软最新的开发计划是改善网站和 Web 应用对系统剪贴板的支持。 Google 和微软目前正在开发一个新的剪贴板 API —— Pickle Clipboard API。借助于这个 API，这将使 Microsoft Edge 和 Google Chrom...",
+          "link": "https://www.oschina.net/news/150328/microsoft-working-with-google-for-improved-clipboard-api",
+          "publishedOn": "2021-07-14T00:25:16.000Z",
+          "wordCount": 635,
+          "title": "Google 与微软再次合作，改进浏览器 API"
+        },
         {
           "id": "https://www.oschina.net/news/150326/google-aab-huawei",
           "author": null,
@@ -8499,6 +8535,24 @@
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
         {
+          "id": "http://www.dayanzai.me/?p=4645",
+          "author": "大眼仔~旭",
+          "description": "Win10 任务栏搜索增强工具  EverythingToolbar 中文版由大眼仔旭（www.dayanza […]",
+          "link": "http://www.dayanzai.me/everythingtoolbar.html",
+          "publishedOn": "2021-07-13T16:29:39.000Z",
+          "wordCount": 719,
+          "title": "Windows 10 增强搜索工具栏 EverythingToolbar 0.7.1 中文免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=2062",
+          "author": "大眼仔~旭",
+          "description": "EmEditor 中文版 今天小编（www.dayanzai.me）大眼仔旭给大家介绍一款简单好用的文本编辑器 […]",
+          "link": "http://www.dayanzai.me/emeditor-pro.html",
+          "publishedOn": "2021-07-13T16:16:58.000Z",
+          "wordCount": 695,
+          "title": "优秀代码编辑器 EmEditor Professional 20.9.0 + x64 中文免费版"
+        },
+        {
           "id": "http://www.dayanzai.me/?p=5639",
           "author": "大眼仔~旭",
           "description": "SD Maid Pro 中文版 Android SD 卡管理工具由大眼仔旭（www.dayanzai.me）发 […]",
@@ -8506,6 +8560,15 @@
           "publishedOn": "2021-07-12T16:45:08.000Z",
           "wordCount": 542,
           "title": "Android SD 卡管理工具 SD Maid 5.1.5 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=4426",
+          "author": "大眼仔~旭",
+          "description": "Enigma Virtual Box 中文版 Enigma 文件打包系统由大眼仔旭（www.dayanzai. […]",
+          "link": "http://www.dayanzai.me/enigma-virtual-box.html",
+          "publishedOn": "2021-07-12T16:32:17.000Z",
+          "wordCount": 593,
+          "title": "Enigma 文件打包系统 Enigma Virtual Box 9.70 中文多语免费版"
         },
         {
           "id": "http://www.dayanzai.me/?p=28746",

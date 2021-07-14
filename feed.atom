@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T00:28:37.212Z</updated>
+    <updated>2021-07-14T01:49:48.390Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[代码搜索初创公司 Sourcegraph 融资 1.25 亿美元]]></title>
+        <id>https://www.oschina.net/news/150332/sourcegraph-125m-round</id>
+        <link href="https://www.oschina.net/news/150332/sourcegraph-125m-round"/>
+        <updated>2021-07-14T00:42:28.000Z</updated>
+        <summary type="html"><![CDATA[代码搜索初创公司 Sourcegraph 宣布完成了 1.25 亿美元的 d 轮融资。本轮融资由 Andreessen Horowitz 领投，Insight Partners、Geodesic Capital 等公司参投。 去年 12 月，该公司曾获得了由红杉资本领投的 5000 万美元 C 轮融资。截至目前，Sourcegraph 共筹集了 2.25 亿美元的资金。此次融资完成后，公司估值达到 26.2...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 07 14]]></title>
+        <id>http://www.linuxeden.com/?p=87514</id>
+        <link href="http://www.linuxeden.com/a/87514"/>
+        <updated>2021-07-14T00:30:09.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 07 14]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌发布 Android 游戏开发工具包 (AGDK)]]></title>
+        <id>https://www.oschina.net/news/150329/android-game-development-kit</id>
+        <link href="https://www.oschina.net/news/150329/android-game-development-kit"/>
+        <updated>2021-07-14T00:28:09.000Z</updated>
+        <summary type="html"><![CDATA[谷歌在昨日举办的游戏开发者大会上推出了 Android 游戏开发工具包 (AGDK)，这是一套完整的工具和库，用于帮助开发者开发、优化和交付高质量的 Android 游戏。 下载地址：https://developer.android.com/games/agdk 据介绍，AGDK 关注性能问题，减少了 Android 生态中的碎片化问题，并旨在迎合未来操作系统更新所提供的增...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在 Linux 命令行中收发 Gmail 邮件]]></title>
         <id>http://www.linuxeden.com/?p=87511</id>
@@ -14,6 +44,16 @@
         <summary type="html"><![CDATA[即使你用的是诸如 Gmail 的托管邮件服务，你也可以通过 Mutt 在终端里收发电子邮件。 我喜欢在 Linux 终端上读写电子邮件的便捷，因此我是 Mutt 这个轻量简洁的电子邮件客户端的忠实用户。对于电子邮件服务来说，不同的系统配置和 […]]]></summary>
         <author>
             <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 与微软再次合作，改进浏览器 API]]></title>
+        <id>https://www.oschina.net/news/150328/microsoft-working-with-google-for-improved-clipboard-api</id>
+        <link href="https://www.oschina.net/news/150328/microsoft-working-with-google-for-improved-clipboard-api"/>
+        <updated>2021-07-14T00:25:16.000Z</updated>
+        <summary type="html"><![CDATA[最近几个月的时间，微软一直在推动 Edge 浏览器上的 PWA 应用发展，并致力于让 PWA 应用在 Windows 上成为一流的应用，而微软最新的开发计划是改善网站和 Web 应用对系统剪贴板的支持。 Google 和微软目前正在开发一个新的剪贴板 API —— Pickle Clipboard API。借助于这个 API，这将使 Microsoft Edge 和 Google Chrom...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
     <entry>
@@ -134,6 +174,26 @@
         <summary type="html"><![CDATA[Firefox 89 在上个月正式发布了，在该版本中对设计进行了重大更新。Firefox 90 相比 89 虽然没有那么大的变化，但仍然有一些值得关注的新功能和改进。 在这个新版本中，Firefox 引入了一个新的 about:third-party 页面，以帮助用户识别由第三方模块和应用程序引起的兼容性问题。 Windows 版还引入了一个新的选项，开启后...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 增强搜索工具栏 EverythingToolbar 0.7.1 中文免费版]]></title>
+        <id>http://www.dayanzai.me/?p=4645</id>
+        <link href="http://www.dayanzai.me/everythingtoolbar.html"/>
+        <updated>2021-07-13T16:29:39.000Z</updated>
+        <summary type="html"><![CDATA[Win10 任务栏搜索增强工具  EverythingToolbar 中文版由大眼仔旭（www.dayanza […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[优秀代码编辑器 EmEditor Professional 20.9.0 + x64 中文免费版]]></title>
+        <id>http://www.dayanzai.me/?p=2062</id>
+        <link href="http://www.dayanzai.me/emeditor-pro.html"/>
+        <updated>2021-07-13T16:16:58.000Z</updated>
+        <summary type="html"><![CDATA[EmEditor 中文版 今天小编（www.dayanzai.me）大眼仔旭给大家介绍一款简单好用的文本编辑器 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
@@ -526,6 +586,16 @@ Golang 语言中怎么解码 4 种常见 JSON 格式数据？https://mp.weixin.q
         <link href="http://www.dayanzai.me/sd-maid-pro.html"/>
         <updated>2021-07-12T16:45:08.000Z</updated>
         <summary type="html"><![CDATA[SD Maid Pro 中文版 Android SD 卡管理工具由大眼仔旭（www.dayanzai.me）发 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enigma 文件打包系统 Enigma Virtual Box 9.70 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=4426</id>
+        <link href="http://www.dayanzai.me/enigma-virtual-box.html"/>
+        <updated>2021-07-12T16:32:17.000Z</updated>
+        <summary type="html"><![CDATA[Enigma Virtual Box 中文版 Enigma 文件打包系统由大眼仔旭（www.dayanzai. […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
         </author>
