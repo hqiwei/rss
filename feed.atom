@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T05:08:14.711Z</updated>
+    <updated>2021-07-14T06:12:16.080Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Redis Crash Course]]></title>
+        <id>60eb2a69e8ee9b08300ed5b3</id>
+        <link href="https://www.freecodecamp.org/news/redis-crash-course/"/>
+        <updated>2021-07-14T06:11:13.000Z</updated>
+        <summary type="html"><![CDATA[Redis is a type of database that can be added to your produciton level applicaiton to make it more performant.  In this article, I'll go over the Redis basics and show a real world example of Redis in action.  Here's everything we'll go over:  What is Redis? Why the Hype]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯开源 | 微服务负载保护系统 ModernFlux 正式开源]]></title>
+        <id>https://www.oschina.net/news/150414</id>
+        <link href="https://www.oschina.net/news/150414"/>
+        <updated>2021-07-14T06:04:49.000Z</updated>
+        <summary type="html"><![CDATA[导语 ModernFlux为异构环境下微服务提供分布式多维负载保护。由腾讯IEG-AMS团队自研，并于2018年正式上线运营。应用于腾讯IEG 80%的营销活动以及多个内部平台。经历各种秒杀活动、游戏周年庆以及节假日，取得很好实践效果,保障了系统安全运营。现将ModernFlux对外开源，为微服务开源社区贡献力量。 主要设计目标 方便业务...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoodSync 11 限免，著名文件同步工具，可同步 5 台设备，1 年免费，自带内网穿透]]></title>
         <id>https://www.appinn.com/?p=39295</id>
