@@ -2061,6 +2061,51 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=87511",
+          "author": "Editor, Kai",
+          "description": "即使你用的是诸如 Gmail 的托管邮件服务，你也可以通过 Mutt 在终端里收发电子邮件。 我喜欢在 Linux 终端上读写电子邮件的便捷，因此我是 Mutt 这个轻量简洁的电子邮件客户端的忠实用户。对于电子邮件服务来说，不同的系统配置和 […]",
+          "link": "http://www.linuxeden.com/a/87511",
+          "publishedOn": "2021-07-14T00:27:27.000Z",
+          "wordCount": 678,
+          "title": "在 Linux 命令行中收发 Gmail 邮件"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87509",
+          "author": "Editor, Kai",
+          "description": "feat: Add MessageChannel and MessagePort APIs (#11051) feat: Deno namespace configurable and unfrozen (#11062) feat: Ena […]",
+          "link": "http://www.linuxeden.com/a/87509",
+          "publishedOn": "2021-07-14T00:19:44.000Z",
+          "wordCount": 454,
+          "title": "deno  1.12.0发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87507",
+          "author": "Editor, Kai",
+          "description": "The Amnesic Incognito Live System (Tails) is a Debian-based live DVD/USB with the goal of providing complete Internet an […]",
+          "link": "http://www.linuxeden.com/a/87507",
+          "publishedOn": "2021-07-14T00:15:29.000Z",
+          "wordCount": 294,
+          "title": "Tails 4.20 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87505",
+          "author": "Editor, Kai",
+          "description": "Bug Fixes DatetimePicker: 修复设置 filter 属性时可能出现当前日期不正确的问题 #9009 Step: 修复 z-index 层级问题 #9004 转自 https://vant-contrib.gitee. […]",
+          "link": "http://www.linuxeden.com/a/87505",
+          "publishedOn": "2021-07-14T00:13:51.000Z",
+          "wordCount": 88,
+          "title": "Vant 2.12.24 发布"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87502",
+          "author": "Editor, Kai",
+          "description": "今年无缘AMD Zen4，稍稍有些遗憾。 来自爆料人ExecutableFix的最新情报称，基于Zen4架构的锐龙6000 Raphael(拉斐尔)处理器，最高仍旧设定在16核，这和锐龙5000保持一致。 尽管此前有消息称，Zen4内部架构 […]",
+          "link": "http://www.linuxeden.com/a/87502",
+          "publishedOn": "2021-07-14T00:05:22.000Z",
+          "wordCount": 82,
+          "title": "5nm Zen4架构！AMD锐龙6000处理器大曝光：最高16核、170瓦"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=87500",
           "author": "Editor, Kai",
           "description": "OpenSearch 1.0 发布 Linux 5.15有望合并Memory Folios方案 内核构建速度可提升7% Apache Impala 4.0.0发布 用 Groovy 解析 JSON 配置文件 让你的大脑在这个夏天保持忙碌的  […]",
@@ -5125,6 +5170,78 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/150326/google-aab-huawei",
+          "author": null,
+          "description": "谷歌方面曾于日前宣布，Google Play 将从 2021 年 8 月开始要求新发布的应用程序以 Android App Bundle（AAB）的形式进行分发，取代 APK 作为标准发布格式。此消息一出就引起了多方讨论，一些观点担忧称，此举可能导致华为自研 HarmonyOS 中的部分应用程序无法运行。 根据官方介绍，AAB 是 Android 新的官方发布格式，提...",
+          "link": "https://www.oschina.net/news/150326/google-aab-huawei",
+          "publishedOn": "2021-07-14T00:15:45.000Z",
+          "wordCount": 596,
+          "title": "华为：谷歌改用 AAB 格式对 HarmonyOS 无影响"
+        },
+        {
+          "id": "https://my.oschina.net/u/5148943/blog/5124601",
+          "author": null,
+          "description": "ZNBase 是浪潮开源的 NewSQL 分布式数据库，拥有强一致、高可用的分布式架构。在高负载的情况下，分布式数据库能够将负载压力平衡到不同的物理机节点上，充分利用不同节点的资源。本文将介绍 ZNBase 在面对高负载存储过程中采用的负载均衡策略。",
+          "link": "https://my.oschina.net/u/5148943/blog/5124601",
+          "publishedOn": "2021-07-14T00:09:05.000Z",
+          "wordCount": 361,
+          "title": "ZNBase 分布式存储的负载均衡"
+        },
+        {
+          "id": "https://www.oschina.net/p/optaplanner",
+          "author": null,
+          "description": "OptaPlanner 是一款轻量级、可嵌入的规划调度引擎，100% 使用 Java 编写，可运行在任何 JVM 上。",
+          "link": "https://www.oschina.net/p/optaplanner",
+          "publishedOn": "2021-07-14T00:03:16.000Z",
+          "wordCount": 537,
+          "title": "OptaPlanner —— 轻量级规划调度引擎"
+        },
+        {
+          "id": "https://gitee.com/chengpan168_admin/redis-pro",
+          "author": null,
+          "description": "Redis Pro 是一款 Redis 轻量客户端管理工具， 采用 SwiftUI 编写。开发过程中借鉴了 Sequel-Ace! 和阿里云 DMS，Sequel-Ace (前身 Sequel-Pro) 是一个简洁易用的小众 mysql 桌面客户端。",
+          "link": "https://gitee.com/chengpan168_admin/redis-pro",
+          "publishedOn": "2021-07-14T00:02:14.000Z",
+          "wordCount": 393,
+          "title": "Gitee 推荐 | Redis 桌面管理工具 Redis Pro"
+        },
+        {
+          "id": "https://my.oschina.net/u/4600853/blog/4556323",
+          "author": null,
+          "description": "首先我提出一个问题：一个java对象和一个Spring Bean有什么区别？ 这是一个经典的面试题，什么是java Object？万物皆对象，在Java内部所有的类，经过创建之后都可以称之为一个对象，SpringBean也是一个java Object， 但是Spring Bean是脱离于JAVA Object的，为什么这么说呢？因为一个class要想变成对象只需要new一下，就...",
+          "link": "https://my.oschina.net/u/4600853/blog/4556323",
+          "publishedOn": "2021-07-14T00:01:51.000Z",
+          "wordCount": 294,
+          "title": "每日一博 | 想要学会 Spring 源码，你必知必会的 BeanDefinition 原理！"
+        },
+        {
+          "id": "https://www.oschina.net/news/150319/opensearch-general-1-0-ga",
+          "author": null,
+          "description": "OpenSearch 首个 GA 版本已正式发布，GA 即意味着可在生产环境中使用。 根据官方的介绍，OpenSearch 是一个由社区驱动的开源搜索和分析套件，fork 自 Apache 2.0 许可的 Elasticsearch 7.10.2 和 Kibana 7.10.2。它由一个搜索引擎守护程序 (OpenSearch)、一个可视化和用户界面 (OpenSearch Dashboards) 以及 Open Distr...",
+          "link": "https://www.oschina.net/news/150319/opensearch-general-1-0-ga",
+          "publishedOn": "2021-07-13T23:48:46.000Z",
+          "wordCount": 634,
+          "title": "OpenSearch 1.0 正式 GA，AWS 开源的 Elasticsearch 分支"
+        },
+        {
+          "id": "https://www.oschina.net/news/150318/mongodb-5-0-released",
+          "author": null,
+          "description": "MongoDB 5.0 正式发布，该版本部分更新内容如下： 时间序列集合 MongoDB 5.0 引入了时间序列集合，它有效地存储了一段时期内的测量序列。与普通集合相比，在时间序列集合中存储时间序列数据可以提高查询效率，并减少数据和索引的磁盘使用。 聚合 新的聚合操作符 MongoDB 5.0 引入了以下聚合操作： $count: $count 在现有...",
+          "link": "https://www.oschina.net/news/150318/mongodb-5-0-released",
+          "publishedOn": "2021-07-13T23:41:38.000Z",
+          "wordCount": 696,
+          "title": "MongoDB 5.0 正式发布，新增时序集合功能"
+        },
+        {
+          "id": "https://www.oschina.net/news/150315/firefox-90-released",
+          "author": null,
+          "description": "Firefox 89 在上个月正式发布了，在该版本中对设计进行了重大更新。Firefox 90 相比 89 虽然没有那么大的变化，但仍然有一些值得关注的新功能和改进。 在这个新版本中，Firefox 引入了一个新的 about:third-party 页面，以帮助用户识别由第三方模块和应用程序引起的兼容性问题。 Windows 版还引入了一个新的选项，开启后...",
+          "link": "https://www.oschina.net/news/150315/firefox-90-released",
+          "publishedOn": "2021-07-13T23:19:04.000Z",
+          "wordCount": 609,
+          "title": "Firefox 90 正式发布，移除 FTP 支持"
+        },
         {
           "id": "https://www.oschina.net/news/150245/devui-11-4-0-released",
           "author": null,
