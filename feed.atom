@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T11:08:20.479Z</updated>
+    <updated>2021-07-15T15:10:15.867Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 07 15]]></title>
+        <id>http://www.linuxeden.com/?p=87576</id>
+        <link href="http://www.linuxeden.com/a/87576"/>
+        <updated>2021-07-15T14:43:51.000Z</updated>
+        <summary type="html"><![CDATA[Rostec致力2025年为笔记本电脑带来8核RISC-V处理器 在 Linux 命令行中生成密码 在 Linux 命令行上编辑 PDF 使用这个 Python 模块输入不可见的密码 【四大亮点功能】麒麟移动运行环境 KMRE，你值得拥有！ […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rostec致力2025年为笔记本电脑带来8核RISC-V处理器]]></title>
+        <id>http://www.linuxeden.com/?p=87567</id>
+        <link href="http://www.linuxeden.com/a/87567"/>
+        <updated>2021-07-15T14:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Vedomosti.ru 报道称，俄罗斯国企 Rostec 已同服务器公司 Yadro 和硅片设计公司 Syntacore 达成了合作，致力于为 PC、笔记本电脑、以及服务器产品线，打造合适的 RISC-V 处理器。根据报告中提到的初步规划 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 Linux 命令行中生成密码]]></title>
+        <id>http://www.linuxeden.com/?p=87565</id>
+        <link href="http://www.linuxeden.com/a/87565"/>
+        <updated>2021-07-15T14:11:16.000Z</updated>
+        <summary type="html"><![CDATA[在命令行上创建符合特定规范的密码。 大多数网站或应用都要求用户创建带有安全密码的账户，以便他们能够迎合用户体验。虽然这有利于网站开发者，但肯定不会让用户的生活更轻松。 有时，创建密码的规则是如此严格，以至于难以生成一个强壮且合规的组合。如果 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「开源」再登央视：《经济半小时》聚焦中国开源生态]]></title>
+        <id>https://www.oschina.net/news/150666</id>
+        <link href="https://www.oschina.net/news/150666"/>
+        <updated>2021-07-15T14:10:24.000Z</updated>
+        <summary type="html"><![CDATA[7 月 15 日晚，央视 CCTV 2 财经频道《经济半小时》栏目带来了一期以“开源软件”为主题的专题报道。 报道指出，开源软件在当今社会的重要性和影响力不言而喻，人们日常生活中使用的各类应用软件都是基于开源软件开发而来。在过去很多年，海外的开源基金会、代码托管平台掌握着全球最主要的开源代码资源，而今天，中国已...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 Linux 命令行上编辑 PDF]]></title>
+        <id>http://www.linuxeden.com/?p=87563</id>
+        <link href="http://www.linuxeden.com/a/87563"/>
+        <updated>2021-07-15T14:09:27.000Z</updated>
+        <summary type="html"><![CDATA[使用 qpdf 和 poppler-utils 来分割、修改和合并 PDF 文件。 你收到的许多文件都是 PDF 格式的。有时这些 PDF 需要进行处理。例如，可能需要删除或添加页面，或者你可能需要签署或修改一个特定的页面。 不管是好是坏， […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the FARM Stack! (FastAPI, React, MongoDB)]]></title>
+        <id>60e74160134ad707be00f23f</id>
+        <link href="https://www.freecodecamp.org/news/learn-the-farm-stack-fastapi-reactjs-mongodb/"/>
+        <updated>2021-07-15T13:43:01.000Z</updated>
+        <summary type="html"><![CDATA[The FARM stack is FastAPI, React, and MongoDB. It is a simpler form of the MERN stack that can make developing apps even faster. We just released a FARM stack course on the freeCodeCamp.org YouTube channel.  You will learn how to create a basic CRUD application. FastAPI is where]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Apache Cassandra Beginner Tutorial]]></title>
+        <id>60ead07ee8ee9b08300ed387</id>
+        <link href="https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial/"/>
+        <updated>2021-07-15T13:13:02.000Z</updated>
+        <summary type="html"><![CDATA[There are lots of data-storage options available today. You have to choose between managed or unmanaged, relational or NoSQL, write- or read-optimized, proprietary or open-source — and it doesn't end there. Once you begin your search, you will end up in the universe that is database marketing. All of the vendors]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[霞鹜文楷 / LXGW WenKai – 开源中文字体、免费可商用，兼仿宋和楷体特点，可读性高]]></title>
         <id>https://www.appinn.com/?p=39304</id>
@@ -13598,176 +13668,6 @@ cpu: Intel(R) Core(TM) i7-6820HQ CPU @ 2.70GHz
 BenchmarkHitCount100-8              3020            367016 ns/…]]></summary>
         <author>
             <name>Cluas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[下一代 Windows 界面曝光：新的开始菜单和任务栏、圆角设计]]></title>
-        <id>https://www.oschina.net/news/146153/windows-11-leak-screenshots</id>
-        <link href="https://www.oschina.net/news/146153/windows-11-leak-screenshots"/>
-        <updated>2021-06-16T00:54:21.000Z</updated>
-        <summary type="html"><![CDATA[据外媒 The Verge 的报道，自百度贴吧出现 Windows 11 的首个屏幕截图后，微软即将推出的下一代操作系统（或被命名为 Windows 11）的镜像已出现在网络上。 从被曝光的截图可以看到，新系统的任务栏在视觉方面进行了比较大的改造，例如将图标居中、清理托盘区域、使用新的“开始”按钮等。 当然，如果不希望将应用程序图标...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源美图 2021 06 16]]></title>
-        <id>http://www.linuxeden.com/?p=86524</id>
-        <link href="http://www.linuxeden.com/a/86524"/>
-        <updated>2021-06-16T00:35:01.000Z</updated>
-        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 06 16]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[即日起，Linux 内核开发者可申请 @linux.dev 专用邮箱]]></title>
-        <id>https://www.oschina.net/news/146152/linux-dev-mailboxes-for-kernel-work</id>
-        <link href="https://www.oschina.net/news/146152/linux-dev-mailboxes-for-kernel-work"/>
-        <updated>2021-06-16T00:33:14.000Z</updated>
-        <summary type="html"><![CDATA[Konstantin Ryabitsev 是 kernel.org 的系统管理员也是 Linux 内核开发者，他为 Linux 源代码的协作开发和官方分发背后的计算基础设施做出了巨大贡献。今天，Konstantin Ryabitsev 宣布了一项新的服务，该服务将为 Linux 内核开发人员提供 @linux.dev 邮箱。 Linux 的持续发展依赖于内核开发人员之间不断地发送和接收电子...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[万维网源代码将作为NFT被发明者蒂姆·伯纳斯·李爵士拍卖]]></title>
-        <id>http://www.linuxeden.com/?p=86520</id>
-        <link href="http://www.linuxeden.com/a/86520"/>
-        <updated>2021-06-16T00:31:46.000Z</updated>
-        <summary type="html"><![CDATA[1989年，英国计算机科学家蒂姆·伯纳斯·李爵士创造了一些将永远改变世界的东西。你猜对了，万维网（WWW），使我们所知的互联网成为可能。当然世界一直处于非常有趣的发展中，伯纳斯·李已经决定，他将通过以不可伪造的代币（NFT […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spring Native 0.10.0 发布]]></title>
-        <id>https://www.oschina.net/news/146149/spring-native-0-10-0-released</id>
-        <link href="https://www.oschina.net/news/146149/spring-native-0-10-0-released"/>
-        <updated>2021-06-16T00:28:33.000Z</updated>
-        <summary type="html"><![CDATA[Spring Native 0.10.0 已发布，此版本基于 Spring Boot 2.5 和 GraalVM 21.1，主要带来了以下新功能： 引入原生测试 (native testing) 新增来自 GraalVM 团队的新官方 Gradle 插件 引入可用于类的 AOT(ahead-of-time) 代理 此外还包括 43 个错误修复、文档改进和依赖项升级这些变化。 原生测试和 Gradle 插件 Spring Nat...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JRuby 9.2.19.0 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86518</id>
-        <link href="http://www.linuxeden.com/a/86518"/>
-        <updated>2021-06-16T00:27:36.000Z</updated>
-        <summary type="html"><![CDATA[The JRuby community is pleased to announce the release of JRuby 9.2.19.0 Homepage: http://www.jruby.org/ Download: http: […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在企业内部推动开源]]></title>
-        <id>https://www.oschina.net/news/146148</id>
-        <link href="https://www.oschina.net/news/146148"/>
-        <updated>2021-06-16T00:25:50.000Z</updated>
-        <summary type="html"><![CDATA[如今，国内的开源生态蓬勃发展。 或是出于提升自己的编程水平，或是出于助人为乐的兴趣爱好，又或是出于享受解决问题时带来的快感，已经有越来越多的国人开发者参与到开源社区的贡献中。 但现实中，大部分开发者只能利用业余的时间参与开源贡献。那么问题来了，为什么企业中的基础软件大部分基于开源而来，而支持员工参与...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 智能手机市场将增长 12%，芯片短缺或成阻碍]]></title>
-        <id>https://www.oschina.net/news/146147/smartphone-shipments-2021</id>
-        <link href="https://www.oschina.net/news/146147/smartphone-shipments-2021"/>
-        <updated>2021-06-16T00:22:51.000Z</updated>
-        <summary type="html"><![CDATA[研究公司 Canalys 的最新预测指出，尽管供应压力较大，但 2021 年全球智能手机市场仍将增长 12%，出货量达到 14 亿部。这代表着市场自 2020 年以来的强劲复苏，彼时受全球 COVID-19 大流行造成的主要市场限制，智能手机出货量下降了 7%。同时，Canalys 也指出，随着疫苗在世界各地的继续推广、疫情得到抑制后，零部件供应...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deno 1.11.1 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86516</id>
-        <link href="http://www.linuxeden.com/a/86516"/>
-        <updated>2021-06-16T00:19:34.000Z</updated>
-        <summary type="html"><![CDATA[feat(unstable): add additional logging information in LSP (#10890) fix: Deno.inspect should inspect the object the proxy […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ant Design 4.16.3 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86514</id>
-        <link href="http://www.linuxeden.com/a/86514"/>
-        <updated>2021-06-16T00:17:14.000Z</updated>
-        <summary type="html"><![CDATA[🐞 Fix the mistake that tooltip mount on wrong dom, when getPopupContainer of tooltip’s props is undefined  […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在开源社区生存的规则和潜规则]]></title>
-        <id>https://my.oschina.net/u/4489239/blog/5078069</id>
-        <link href="https://my.oschina.net/u/4489239/blog/5078069"/>
-        <updated>2021-06-16T00:15:35.000Z</updated>
-        <summary type="html"><![CDATA[当你准备进入一个技术交流社区时，有人建议你在社区中做一个“大妈”体质的人，因为这样会更受欢迎，你会怎么想？在开源社理事长庄表伟看来，大妈乐于助人的特质会促使他们做出更多贡献，非常适合开源社区中的礼物文化，从而更容易被社区接纳。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iText 加入了 MuleSoft 技术合作伙伴计划]]></title>
-        <id>https://www.oschina.net/news/146145/itext-joins-mulesoft-technology-partner-program</id>
-        <link href="https://www.oschina.net/news/146145/itext-joins-mulesoft-technology-partner-program"/>
-        <updated>2021-06-16T00:15:09.000Z</updated>
-        <summary type="html"><![CDATA[iText 是一个用于在 Java 和 .NET 中创建和操作 PDF 文件的开源库。源代码最初是在 MPL 许可证下进行分发的。不过从 5.0.0 版本（2009年12月7日发布）开始，改为在 AGPLv3 下进行分发。 iText 提供了对大多数高级的 PDF 功能的支持，如基于 PKI 的签名、40 位和 128 位加密、颜色校正、PDF 表格（AcroForms）、PDF/X、通...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[禅道15.0.2版本发布，主要修复Bug]]></title>
-        <id>http://www.linuxeden.com/?p=86511</id>
-        <link href="http://www.linuxeden.com/a/86511"/>
-        <updated>2021-06-16T00:14:15.000Z</updated>
-        <summary type="html"><![CDATA[大家好，禅道15.0.2版本发布了！此次发布主要修复Bug，兼容手机端。欢迎大家下载升级。 一、修改记录 完成的需求 兼容手机端修改 修复的Bug 1552 测试报告的报表，用例和Bug的饼状图不一样大 二、下载链接 安装包下载 源码包 W […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recoil —— React 状态管理库]]></title>
-        <id>https://www.oschina.net/p/recoil</id>
-        <link href="https://www.oschina.net/p/recoil"/>
-        <updated>2021-06-16T00:03:12.000Z</updated>
-        <summary type="html"><![CDATA[Recoil 是 Facebook 开源的 React 状态管理库，目前处于实验性阶段。Rcoil 提供了在仅使用 React 情况下难以实现的多项功能，同时与 React 的最新功能兼容。 Recoil 能为开发者创建一个数据流图 (data-flow graph)，从 atom（共享状态）到 selector（纯函数），再向下流到 React 组件。Atom 是组件可以订阅的状态单位。s...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitee 推荐 | VS Code 的 Markdown 插件 Markdown Editor]]></title>
-        <id>https://gitee.com/zane_young/vscode-markdown-editor</id>
-        <link href="https://gitee.com/zane_young/vscode-markdown-editor"/>
-        <updated>2021-06-16T00:01:38.000Z</updated>
-        <summary type="html"><![CDATA[一个 VS Code 插件，让你的 VS Code 秒变和 typora 一样的所见即所得 markdown 编辑器，支持表格可视化编辑，拖拽图片，各种图标等。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日一博 | 最简单的微服务部署测试实践]]></title>
-        <id>https://my.oschina.net/u/3944234/blog/4673597</id>
-        <link href="https://my.oschina.net/u/3944234/blog/4673597"/>
-        <updated>2021-06-16T00:00:32.000Z</updated>
-        <summary type="html"><![CDATA[微服务特别适合业务复杂，开发队伍庞大的项目。微服务可以到达化整为零，简化单个服务，降低沟通成本的效果。但微服务在性能上比单体服务低，也会有数据冗余的问题，要结合自身情况，不要盲目崇拜。 本文介绍一种简单的微服务技术架构。帮助大家对微服务如何部署，如何开发有个初步的认识。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PeaZip 8.0.0 发布，压缩管理工具]]></title>
-        <id>https://www.oschina.net/news/146139/peazip-8-0-0-released</id>
-        <link href="https://www.oschina.net/news/146139/peazip-8-0-0-released"/>
-        <updated>2021-06-15T23:31:13.000Z</updated>
-        <summary type="html"><![CDATA[PeaZip 是一个适用于 Windows 和 Linux 的免费文件存档工具和 rar 提取器，可处理 200 多种存档类型（7z, ace, arc, bz2, cab, gz, iso, paq, pea, rar, tar, wim, zip, zipx...），处理跨区存档（001, r01, z01...）并支持多种存档加密标准。 该项目旨在为多种开源技术（7-Zip、FreeArc、PAQ、PEA、UPX）提供一个跨平台...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
