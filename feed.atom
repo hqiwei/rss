@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T18:11:16.271Z</updated>
+    <updated>2021-07-15T20:09:28.092Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -13635,26 +13635,6 @@ beego 执行 RUN 之前，各种初始化操作，比如 日志打印、数据�
 关键代码示例：]]></summary>
         <author>
             <name>yang759126596</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StackSocial 新 Mac 软件捆绑包，包含 Parallels Pro 虚拟机等 5 款软件，只需 25 刀]]></title>
-        <id>https://www.appinn.com/?p=39077</id>
-        <link href="https://www.appinn.com/stacksocial-the-all-star-mac-bundle-ft-parallels-pro/"/>
-        <updated>2021-06-16T06:59:59.000Z</updated>
-        <summary type="html"><![CDATA[StackSocial 带来了最新的 Mac 软件捆绑包，包含 Parallels Pro 一年订阅服务，只需要 25 刀（49.99），其他 4 款软件是联系人管理、动画制作、PDF 工具。@App]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[淘系自研前端研发工具 AppWorks 正式发布]]></title>
-        <id>https://www.oschina.net/news/146217</id>
-        <link href="https://www.oschina.net/news/146217"/>
-        <updated>2021-06-16T06:55:23.000Z</updated>
-        <summary type="html"><![CDATA[经过了一年的迭代， 近 2 个月集中开发， AppWorks 正式发布。 AppWorks地址：https://appworks.site/ AppWorks 是社区受到开发者广泛关注的 VS Code 套件，在 VS Code 插件市场有 2w+ 的下载量，是 VS Code 插件市场受开发者喜爱的百佳套件之一，多次登陆 VS Code 插件市场周/月趋势榜。在淘宝内部，AppWorks 日均创建项...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
