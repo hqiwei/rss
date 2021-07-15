@@ -2,10 +2,150 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T23:09:15.803Z</updated>
+    <updated>2021-07-15T00:30:45.858Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 07 15]]></title>
+        <id>http://www.linuxeden.com/?p=87559</id>
+        <link href="http://www.linuxeden.com/a/87559"/>
+        <updated>2021-07-15T00:29:03.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 07 15]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用这个 Python 模块输入不可见的密码]]></title>
+        <id>http://www.linuxeden.com/?p=87557</id>
+        <link href="http://www.linuxeden.com/a/87557"/>
+        <updated>2021-07-15T00:28:09.000Z</updated>
+        <summary type="html"><![CDATA[用 GPG 和 Python 的 getpass 模块给你的密码多一层安全保障。 密码对程序员来说尤其重要。你不应该在不加密的情况下存储它们，而且你也不应该在用户输入密码的时候显示出输入的内容。当我决定要提高我的笔记本电脑的安全性时，这对我 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qt Creator 4.15.2 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87555</id>
+        <link href="http://www.linuxeden.com/a/87555"/>
+        <updated>2021-07-15T00:27:07.000Z</updated>
+        <summary type="html"><![CDATA[We are happy to announce the release of Qt Creator 4.15.2 ! This release of Qt Creator fixes an issue with executing sys […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UBports 16.04 OTA-18 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87553</id>
+        <link href="http://www.linuxeden.com/a/87553"/>
+        <updated>2021-07-15T00:26:10.000Z</updated>
+        <summary type="html"><![CDATA[The UBports team has announced a new version of the project’s mobile-focused operating system. The project, which  […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Framework 5.3.9 、 5.2.16发布]]></title>
+        <id>http://www.linuxeden.com/?p=87551</id>
+        <link href="http://www.linuxeden.com/a/87551"/>
+        <updated>2021-07-15T00:24:54.000Z</updated>
+        <summary type="html"><![CDATA[On behalf of the team and everyone who has contributed, I am pleased to announce that Spring Framework 5.3.9 and 5.2.16  […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源定义是什么？为什么 OSI 不接受 SSPL？]]></title>
+        <id>https://my.oschina.net/vigor23/blog/5129221</id>
+        <link href="https://my.oschina.net/vigor23/blog/5129221"/>
+        <updated>2021-07-15T00:20:52.000Z</updated>
+        <summary type="html"><![CDATA[开源可不仅仅是源码可得。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【四大亮点功能】麒麟移动运行环境 KMRE，你值得拥有！]]></title>
+        <id>http://www.linuxeden.com/?p=87536</id>
+        <link href="http://www.linuxeden.com/a/87536"/>
+        <updated>2021-07-15T00:20:50.000Z</updated>
+        <summary type="html"><![CDATA[麒麟移动运行环境（KMRE）实现了桌面 PC 与移动设备的融合，大幅提升用户体验并解决了用户的多样化应用需求，丰富了 Linux 的应用生态。真正地将 Linux 操作系统和移动操作系统合二为一，从本质上让麒麟操作系统、优麒麟操作系统支持移 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLAlchemy 1.4.21 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87534</id>
+        <link href="http://www.linuxeden.com/a/87534"/>
+        <updated>2021-07-15T00:17:58.000Z</updated>
+        <summary type="html"><![CDATA[Release 1.4.21 includes a series of improvements within the ORM and Core components to improve issues regarding column n […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 以 40% 占比，成为 OpenStack 部署中最受欢迎操作系统]]></title>
+        <id>https://www.oschina.net/news/150520/ubuntu-becomes-number-one-os-for-openstack-deployment</id>
+        <link href="https://www.oschina.net/news/150520/ubuntu-becomes-number-one-os-for-openstack-deployment"/>
+        <updated>2021-07-15T00:11:20.000Z</updated>
+        <summary type="html"><![CDATA[2020 年 OpenStack 用户调查的结果近日正式出炉，Ubuntu 被 OpenStack 社区指定为 OpenStack 部署中最受欢迎的平台。这对 Canonical 和整个 Ubuntu 社区来说是个好消息。 Canonical 在官方博客中表示：“这是一个漫长的旅程，有时很颠簸，但我们成功了。而且我们不会止步于此！” OpenStack 用户调查是一个由开放基础设施...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node v16.5.0 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87532</id>
+        <link href="http://www.linuxeden.com/a/87532"/>
+        <updated>2021-07-15T00:09:33.000Z</updated>
+        <summary type="html"><![CDATA[Experimental Web Streams API Node.js now exposes an experimental implementation of the Web Streams API. Read more… […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gonaio —— 微服务框架]]></title>
+        <id>https://www.oschina.net/p/gonaio</id>
+        <link href="https://www.oschina.net/p/gonaio"/>
+        <updated>2021-07-15T00:06:27.000Z</updated>
+        <summary type="html"><![CDATA[Gonaio是一款基于golang的微服务框架，Gonaio是多个单词Golang not all in one的缩写，中文发音狗耐殴。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitee 推荐 | LPMUD 游戏开发框架 MudCore]]></title>
+        <id>https://gitee.com/mudren/mudcore</id>
+        <link href="https://gitee.com/mudren/mudcore"/>
+        <updated>2021-07-15T00:03:43.000Z</updated>
+        <summary type="html"><![CDATA[LPMUD游戏开发框架核心代码，仅仅包括核心代码，可以在此基础上开发任何MUD，本框架需配合 FluffOS v2019使用。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 听说过对 Go map 做 GC 吗？]]></title>
+        <id>https://my.oschina.net/kevwan/blog/5130405</id>
+        <link href="https://my.oschina.net/kevwan/blog/5130405"/>
+        <updated>2021-07-15T00:02:26.000Z</updated>
+        <summary type="html"><![CDATA[在 Golang 中的 map 结构，在删除键值对的时候，并不会真正的删除，而是标记。那么随着键值对越来越多，会不会造成大量内存浪费？]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CrateDB 4.6.0 发布，分布式 SQL 数据库]]></title>
+        <id>https://www.oschina.net/news/150510/cratedb-4-6-0-released</id>
+        <link href="https://www.oschina.net/news/150510/cratedb-4-6-0-released"/>
+        <updated>2021-07-14T23:01:31.000Z</updated>
+        <summary type="html"><![CDATA[CrateDB 是一个分布式的 SQL 数据库，使得实时存储和分析大量的机器数据变得简单。CrateDB 提供了通常与 NoSQL 数据库相关的可扩展性和灵活性，最小的 CrateDB 集群可以轻松地每秒摄取数万条记录。这些数据可以在整个集群中实时地、临时地、并行地进行查询。 CrateDB 4.6.0 正式发布，该版本更新内容如下： 变化 性能改进...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Stop Email Tracking in Gmail – Disable Images by Default]]></title>
         <id>60d4e7596e1a1407b6b0bb56</id>
@@ -13468,31 +13608,6 @@ ps: 限免的资源是可以永久使用的。]]></summary>
 感兴趣投递简历至 guoxiaoshuang@zhihu.com]]></summary>
         <author>
             <name>m1zzx2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-15)]]></title>
-        <id>https://gocn.vip/topics/12195</id>
-        <link href="https://gocn.vip/topics/12195"/>
-        <updated>2021-06-15T11:28:47.000Z</updated>
-        <summary type="html"><![CDATA[从零学 Go：列表与字典 https://juejin.cn/post/6972316925795762183
-
-Go 1.16 如何使用 go:embed 资源文件内嵌功能 https://blog.jetbrains.com/go/2021/06/09/how-to-use-go-embed-in-go-1-16/
-
-Golang 如何调度你的程序的 https://juejin.cn/post/6972893426425528357
-
-初探 Golang ReverseProxy 源码 https://coderdao.github.io/2021/06/13/%E5%88%9D%E6%8E%A2-ReverseProxy-%E6%BA%90%E7%A0%81/
-
-在终端以幻灯片方式阅读 Markdown 文件 https://github.com/maaslalani/slides
-
-
-
-GopherChina 倒计时 12 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ
-编辑: samurai
-订阅新闻: http://tinyletter.com/gocn
-招聘专区: https://gocn.vip/jobs]]></summary>
-        <author>
-            <name>samurai</name>
         </author>
     </entry>
 </feed>
