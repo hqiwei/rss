@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T04:11:49.699Z</updated>
+    <updated>2021-07-15T05:08:16.363Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -13639,36 +13639,6 @@ BenchmarkHitCount100-8              3020            367016 ns/…]]></summary>
         <summary type="html"><![CDATA[Any sufficiently old codebase eventually starts to contain legacy code. Architecture, performance, comments, and more begin to degrade the moment after they are written. Some parts of the codebase last longer than other parts, but inevitably new coding standards emerge to reduce technical debt. Then you have to rework a]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全新火狐浏览器 Mozilla Firefox 89.0.1 + x64 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=41453</id>
-        <link href="http://www.dayanzai.me/firefox.html"/>
-        <updated>2021-06-15T16:38:01.000Z</updated>
-        <summary type="html"><![CDATA[火狐，是由 Mozilla 开发的网页浏览器。我们的 使命是创造一个开放，创新与机遇的网络环境。Mozilla […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界上流行的种子客户端 uTorrent PRO 3.5.5 Build 46038 中文免费版]]></title>
-        <id>http://www.dayanzai.me/?p=31505</id>
-        <link href="http://www.dayanzai.me/utorrent.html"/>
-        <updated>2021-06-15T16:36:59.000Z</updated>
-        <summary type="html"><![CDATA[世界上最流行的种子客户端 uTorrent PRO 3.5.5 中文版由大眼仔旭（www.dayanzai.m […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 窗口选项卡增强工具 Stardock Groupy 1.49.1 x64 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=42951</id>
-        <link href="http://www.dayanzai.me/stardock-groupy.html"/>
-        <updated>2021-06-15T16:31:30.000Z</updated>
-        <summary type="html"><![CDATA[Windows 窗口选项卡增强工具 Stardock Groupy x64 中文版由大眼仔旭（www.daya […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
         </author>
     </entry>
 </feed>
