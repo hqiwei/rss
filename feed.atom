@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T17:16:53.300Z</updated>
+    <updated>2021-07-15T18:11:16.271Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -13655,33 +13655,6 @@ beego 执行 RUN 之前，各种初始化操作，比如 日志打印、数据�
         <summary type="html"><![CDATA[经过了一年的迭代， 近 2 个月集中开发， AppWorks 正式发布。 AppWorks地址：https://appworks.site/ AppWorks 是社区受到开发者广泛关注的 VS Code 套件，在 VS Code 插件市场有 2w+ 的下载量，是 VS Code 插件市场受开发者喜爱的百佳套件之一，多次登陆 VS Code 插件市场周/月趋势榜。在淘宝内部，AppWorks 日均创建项...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-16)]]></title>
-        <id>https://gocn.vip/topics/12199</id>
-        <link href="https://gocn.vip/topics/12199"/>
-        <updated>2021-06-16T06:03:40.000Z</updated>
-        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-06-16)
-说说 Golang goroutine 并发那些事儿 https://blog.51cto.com/u_15162069/2907504
-
-fasthttp：比 net/http 快十倍的 Go 框架 (server 篇)  https://www.luozhiyun.com/archives/574
-
-详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？ https://segmentfault.com/a/1190000040181868
-
-一个 Gin 缓存中间件的设计与实现 https://www.cyhone.com/articles/gin-cache
-
-用于加载 csv 和 excel (xlsx) 文件并运行 sql 命令的命令行工具 https://github.com/dhamith93/csv-sql
-
-
-
-GopherChina 倒计时 11 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ
-编辑: 琳 
-订阅新闻: http://tinyletter.com/gocn
-
-招聘专区: https://gocn.vip/jobs]]></summary>
-        <author>
-            <name>_Lin</name>
         </author>
     </entry>
 </feed>
