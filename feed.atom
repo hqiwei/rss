@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T16:14:12.733Z</updated>
+    <updated>2021-07-15T17:16:53.300Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Golang 官方认可的 websocket 库-gorilla/websocket]]></title>
+        <id>https://gocn.vip/topics/12349</id>
+        <link href="https://gocn.vip/topics/12349"/>
+        <updated>2021-07-15T16:29:08.000Z</updated>
+        <summary type="html"><![CDATA[推荐理由
+Golang 官方标准库实现的 websocket 在功能上有些欠缺，本次介绍的 gorilla/websocket 库，是Gorilla出品的速度快、质量高，并且被广泛使用的 websocket 库，很好的弥补了标准库功能上的欠缺。另外 Gorilla Web toolkit 包含多个实用的 HTTP 应用相关的工具库，感兴趣可以到官网主页https://www.gorillatoolkit.org自取。
+功能介绍
+gorilla/websocket 库是 RFC 6455 定义的 websocket 协议的一种实现，在数据收发方面，提供 Data Messages、Control Messages 两类 message 粒度的读写 API；性能方面，提供 Buffers 和 Compression 的相关配置选项；安全方面，可通过 CheckOrigin 来控制是否支持跨域。
+gorilla/websocket 库和官方实现的对比
+摘自 gorilla GitHub 主页
+
+github.com/gorilla
+golang.org/x/net
+
+
+
+
+RFC 6455 Features
+Passes Autobahn Test Suite
+
+Yes
+No
+
+
+Receive fragmented message
+Yes
+
+No, see note 1
+
+
+Send close message
+Yes
+No
+
+
+Send pings and receive pongs
+
+Yes
+No
+
+
+Get the type of a received data message
+Yes
+Yes, see note 2
+
+Other Features
+Compression Extensions
+Experimental
+No
+
+
+Read message using io…]]></summary>
+        <author>
+            <name>wentao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日文章精选 2021 07 15]]></title>
         <id>http://www.linuxeden.com/?p=87576</id>

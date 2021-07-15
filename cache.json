@@ -749,6 +749,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12349",
+          "author": "wentao",
+          "description": "推荐理由\nGolang 官方标准库实现的 websocket 在功能上有些欠缺，本次介绍的 gorilla/websocket 库，是Gorilla出品的速度快、质量高，并且被广泛使用的 websocket 库，很好的弥补了标准库功能上的欠缺。另外 Gorilla Web toolkit 包含多个实用的 HTTP 应用相关的工具库，感兴趣可以到官网主页https://www.gorillatoolkit.org自取。\n功能介绍\ngorilla/websocket 库是 RFC 6455 定义的 websocket 协议的一种实现，在数据收发方面，提供 Data Messages、Control Messages 两类 message 粒度的读写 API；性能方面，提供 Buffers 和 Compression 的相关配置选项；安全方面，可通过 CheckOrigin 来控制是否支持跨域。\ngorilla/websocket 库和官方实现的对比\n摘自 gorilla GitHub 主页\n\ngithub.com/gorilla\ngolang.org/x/net\n\n\n\n\nRFC 6455 Features\nPasses Autobahn Test Suite\n\nYes\nNo\n\n\nReceive fragmented message\nYes\n\nNo, see note 1\n\n\nSend close message\nYes\nNo\n\n\nSend pings and receive pongs\n\nYes\nNo\n\n\nGet the type of a received data message\nYes\nYes, see note 2\n\nOther Features\nCompression Extensions\nExperimental\nNo\n\n\nRead message using io…",
+          "link": "https://gocn.vip/topics/12349",
+          "publishedOn": "2021-07-15T16:29:08.000Z",
+          "wordCount": 544,
+          "title": "Golang 官方认可的 websocket 库-gorilla/websocket"
+        },
+        {
           "id": "https://gocn.vip/topics/12348",
           "author": "BigCar",
           "description": "快速了解 UCloud\nUCloud 优刻得成立于 2012 年，作为纯内资的创新型企业，在 8 年时间里快速成长成为业内认可的中立云计算服务商，2020 年 1 月，UCloud 优刻得（股票代码：688158）正式登录科创板，成为中国第一家公有云科创板上市公司。依托位于亚太、北美、欧洲等地的全球 31 个可用区以及北上广深圳、杭州、成都、厦门、武汉等内地多地下服务站，UCloud 已为全球 3 万余家客户提供公有云、私有云、混合云、专有云在内的综合性云服务支持，业务包含互联网、金融、新零售、制造、政府、教育等诸多行业。\n2018 年 3 月 UCLOUD 在乌兰察布自建首个云计算中心，2020 年 8 月第二个云计算中心在上海青浦自建开工。\n基于公司业务体量的快速发展，我们诚邀热爱云的伙伴们加入，将 UCLOUD 共建成为一家受人尊敬的云计算公司。\n工作地址：\n上海 - 杨浦区 - 隆昌路（靠近城市概念软件信息服务园）\n岗位职责： \n负责 API 网关系统的研发和维护；\n把客户和产品侧的需求转化为技术方案；\n负责相关运营系统的开发和维护；\n持续改进 API 网关系统，优化性能，提高稳定性，改进 DevOps 相关流程。 \n任职资格： \n本科及以上学历，经验不限，熟练掌握 Golang / Java / C++/C 等编程语言（一种即可）；\n具备良好的基本功、开发习惯，熟练掌握计算机网络相关知识，数据结构和算法；\n熟悉 MySQL/TiDB 、Redis 等相关技术；\n具有良好的学习能力、团队合作意识、较强的沟通能力；\n熟悉 UNIX/Linux 操作系统基本操作；\n有以下经验者优先：\na) 有 Nginx / OpenResty 开发经验；\nb) 有大流量、分布式、高并发系统的开发经验；\nc) 有 Kafka 、Rabbit MQ 、Elastic Search 、Skywalking 、Jaeger 等组件的使用经验；\nd) 熟悉 Docker 、Kubernetes 等容器相关技术；\ne) 为开源项目做过贡献；\n薪资范围：\n20K-40K\n职位亮点：\n上市公司 + 优秀赛道 + 晋升机会 + 双休 \n投递方式：\nEmail：che.zhao@ucloud.cn",
