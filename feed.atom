@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T00:30:45.858Z</updated>
+    <updated>2021-07-15T01:54:31.277Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tor 项目完全使用 Rust 重写的 Tor 协议实现：Arti]]></title>
+        <id>https://www.oschina.net/news/150525/torproject-arti</id>
+        <link href="https://www.oschina.net/news/150525/torproject-arti"/>
+        <updated>2021-07-15T00:43:24.000Z</updated>
+        <summary type="html"><![CDATA[Tor 宣布了完全使用 Rust 重写 Tor 协议实现的项目，被称为 Arti。 据介绍，其开发团队已经在这个项目上工作了一年多的时间，由于得到了 Zcash Open Major Grants (ZOMG) 的资金支持，他们可以把 Arti 项目放在优先级列表中，并投入更多的时间。 Tor 是一组可以在互联网上提供匿名性、隐私性和抗审查性的协议，同时也是一...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软推出 Windows 365，可在任何设备上运行 Windows 的云服务]]></title>
+        <id>https://www.oschina.net/news/150524/microsoft-windows-365-cloud-pc</id>
+        <link href="https://www.oschina.net/news/150524/microsoft-windows-365-cloud-pc"/>
+        <updated>2021-07-15T00:39:15.000Z</updated>
+        <summary type="html"><![CDATA[今天早些时候，微软在 Inspire 2021 大会上正式宣布了 Windows 365 Cloud PC，这是一项新的云服务，可以让企业通过云端在任何设备上使用 Windows 10 或 Windows 11。 微软 CEO Satya Nadella 在博客文章中表示：“就像通过 SaaS 将应用程序带到云端一样，我们现在将操作系统带到云端，为企业提供更大的灵活性和安全性。”...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.15 有望合并 Memory Folios，可使内核构建速度提升 7%]]></title>
+        <id>https://www.oschina.net/news/150522/linux-5-15-memory-folios</id>
+        <link href="https://www.oschina.net/news/150522/linux-5-15-memory-folios"/>
+        <updated>2021-07-15T00:29:36.000Z</updated>
+        <summary type="html"><![CDATA[科技网站 Phoronix 指出，甲骨文公司的长期内核开发人员 Matthew Wilcox 已经针对“Memory Folios”研究了相当长的一段时间，旨在改善 Linux 的内存管理并提升效率。而据使用 Memory Folios 的基准测试表明，其可使得内核的构建速度提高 7%。 就目前看来，用户或许有希望在 Linux 5.15 中看到此类代码的应用。Memory Fo...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源美图 2021 07 15]]></title>
         <id>http://www.linuxeden.com/?p=87559</id>
@@ -154,6 +184,46 @@
         <summary type="html"><![CDATA[Did you know that marketers (and even hackers) can use images to track you in your email inbox? Here's how so-called tracking pixels work: Someone creates an image and host it on their server. Often a transparent 1x1 "tracking pixel" that you don't even see.They send you an email]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[威力酷剪 ActionDirector Video Editor 6.6.1 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=27463</id>
+        <link href="http://www.dayanzai.me/actiondirector.html"/>
+        <updated>2021-07-14T16:31:24.000Z</updated>
+        <summary type="html"><![CDATA[威力酷剪 ActionDirector Video Editor 中文版由大眼仔旭（www.dayanzai. […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网络封包分析工具 Wireshark 3.4.7 + x64 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=19991</id>
+        <link href="http://www.dayanzai.me/wireshark.html"/>
+        <updated>2021-07-14T16:26:15.000Z</updated>
+        <summary type="html"><![CDATA[Wireshark 抓包分析工具由大眼仔旭（www.dayanzai.me）发布。Wireshark（前称 E […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免费系统优化工具 HDCleaner 2.000 + x64 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=7630</id>
+        <link href="http://www.dayanzai.me/hdcleaner.html"/>
+        <updated>2021-07-14T16:10:41.000Z</updated>
+        <summary type="html"><![CDATA[免费系统优化工具 HDCleaner 中文版由大眼仔旭（www.dayanzai.me）发布。如果您拥有一台基 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安卓文件管理器 X-plore Manager 4.27.56 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=8688</id>
+        <link href="http://www.dayanzai.me/x-plore-manager.html"/>
+        <updated>2021-07-14T16:02:30.000Z</updated>
+        <summary type="html"><![CDATA[X-plore Manager 中文版由大眼仔旭（www.dayanzai.me）发布。X-plore Man […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
@@ -13559,55 +13629,6 @@ BenchmarkHitCount100-8              3020            367016 ns/…]]></summary>
         <summary type="html"><![CDATA[You've probably seen the term "full stack developer" before, either on tech-related websites or in job applications you've perused.  So have you ever wondered what exactly a full stack developer is and what skills you'd need to become one? Well if you're curious like I was, this article]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gopher 招聘&福利]]></title>
-        <id>https://gocn.vip/topics/12197</id>
-        <link href="https://gocn.vip/topics/12197"/>
-        <updated>2021-06-15T12:59:51.000Z</updated>
-        <summary type="html"><![CDATA[我们正在做一款数据库云服务的产品：https://memfiredb.com，
-其中云服务的后端语言使用 Golang。
-我们的想法很朴素，就是让数据库使用变得更加便捷。
-当然随着对这个想法的深入探索，对于如何服务好开放人员，我们有了更多的思考等待落地。
-对数据库云服务方向感兴趣的同学，可以发简历到：tech@memfiredb.com
-我们的基本要求：
-1）熟练掌握 Go 语言，有三年以上 Golang 项目开发经验
-2）有高并发、高可用系统的开发经验
-3）有较强的分析问题解决问题的能力
-4）积极主动，有服务他人意识
-5）对数据库领域有从业经验者优先
-另，https://memfiredb.com 正在邀请试用阶段，资源限免，送三个邀请码：
-Xuu6vJ  
-XuUSz5
-qpebwA
-
-ps: 限免的资源是可以永久使用的。]]></summary>
-        <author>
-            <name>isware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[北京][25K-60K] 知乎内容中心研发后端内推]]></title>
-        <id>https://gocn.vip/topics/12196</id>
-        <link href="https://gocn.vip/topics/12196"/>
-        <updated>2021-06-15T12:40:28.000Z</updated>
-        <summary type="html"><![CDATA[岗位职责：
-
-1、负责知乎创作者平台系统的需求迭代
-2、参与知乎内容相关系统的建设和维护，如活动私信、机构号、圆桌、创作者运营平台
-3、协助完成需求收集、分析，系统设计，测试和部署，编写开发过程中涉及的相关文档
-
-任职要求：
-统招本科以上学历，计算机相关专业
-熟练掌握 Python/Golang/C++/Java 一种以上编程语言
-有内容运营系统开发系统的经历优先
-有过业务系统重构数据迁移的经历优先
-
-
-感兴趣投递简历至 guoxiaoshuang@zhihu.com]]></summary>
-        <author>
-            <name>m1zzx2</name>
         </author>
     </entry>
 </feed>

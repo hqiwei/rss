@@ -2007,24 +2007,6 @@
           "publishedOn": "2021-06-16T04:10:25.000Z",
           "wordCount": 605,
           "title": "Go 性能工具小抄"
-        },
-        {
-          "id": "https://gocn.vip/topics/12197",
-          "author": "isware",
-          "description": "我们正在做一款数据库云服务的产品：https://memfiredb.com，\n其中云服务的后端语言使用 Golang。\n我们的想法很朴素，就是让数据库使用变得更加便捷。\n当然随着对这个想法的深入探索，对于如何服务好开放人员，我们有了更多的思考等待落地。\n对数据库云服务方向感兴趣的同学，可以发简历到：tech@memfiredb.com\n我们的基本要求：\n1）熟练掌握 Go 语言，有三年以上 Golang 项目开发经验\n2）有高并发、高可用系统的开发经验\n3）有较强的分析问题解决问题的能力\n4）积极主动，有服务他人意识\n5）对数据库领域有从业经验者优先\n另，https://memfiredb.com 正在邀请试用阶段，资源限免，送三个邀请码：\nXuu6vJ  \nXuUSz5\nqpebwA\n\nps: 限免的资源是可以永久使用的。",
-          "link": "https://gocn.vip/topics/12197",
-          "publishedOn": "2021-06-15T12:59:51.000Z",
-          "wordCount": 91,
-          "title": "gopher 招聘&福利"
-        },
-        {
-          "id": "https://gocn.vip/topics/12196",
-          "author": "m1zzx2",
-          "description": "岗位职责：\n\n1、负责知乎创作者平台系统的需求迭代\n2、参与知乎内容相关系统的建设和维护，如活动私信、机构号、圆桌、创作者运营平台\n3、协助完成需求收集、分析，系统设计，测试和部署，编写开发过程中涉及的相关文档\n\n任职要求：\n统招本科以上学历，计算机相关专业\n熟练掌握 Python/Golang/C++/Java 一种以上编程语言\n有内容运营系统开发系统的经历优先\n有过业务系统重构数据迁移的经历优先\n\n\n感兴趣投递简历至 guoxiaoshuang@zhihu.com",
-          "link": "https://gocn.vip/topics/12196",
-          "publishedOn": "2021-06-15T12:40:28.000Z",
-          "wordCount": 81,
-          "title": "[北京][25K-60K] 知乎内容中心研发后端内推"
         }
       ]
     },
@@ -5152,6 +5134,33 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/150525/torproject-arti",
+          "author": null,
+          "description": "Tor 宣布了完全使用 Rust 重写 Tor 协议实现的项目，被称为 Arti。 据介绍，其开发团队已经在这个项目上工作了一年多的时间，由于得到了 Zcash Open Major Grants (ZOMG) 的资金支持，他们可以把 Arti 项目放在优先级列表中，并投入更多的时间。 Tor 是一组可以在互联网上提供匿名性、隐私性和抗审查性的协议，同时也是一...",
+          "link": "https://www.oschina.net/news/150525/torproject-arti",
+          "publishedOn": "2021-07-15T00:43:24.000Z",
+          "wordCount": 633,
+          "title": "Tor 项目完全使用 Rust 重写的 Tor 协议实现：Arti"
+        },
+        {
+          "id": "https://www.oschina.net/news/150524/microsoft-windows-365-cloud-pc",
+          "author": null,
+          "description": "今天早些时候，微软在 Inspire 2021 大会上正式宣布了 Windows 365 Cloud PC，这是一项新的云服务，可以让企业通过云端在任何设备上使用 Windows 10 或 Windows 11。 微软 CEO Satya Nadella 在博客文章中表示：“就像通过 SaaS 将应用程序带到云端一样，我们现在将操作系统带到云端，为企业提供更大的灵活性和安全性。”...",
+          "link": "https://www.oschina.net/news/150524/microsoft-windows-365-cloud-pc",
+          "publishedOn": "2021-07-15T00:39:15.000Z",
+          "wordCount": 650,
+          "title": "微软推出 Windows 365，可在任何设备上运行 Windows 的云服务"
+        },
+        {
+          "id": "https://www.oschina.net/news/150522/linux-5-15-memory-folios",
+          "author": null,
+          "description": "科技网站 Phoronix 指出，甲骨文公司的长期内核开发人员 Matthew Wilcox 已经针对“Memory Folios”研究了相当长的一段时间，旨在改善 Linux 的内存管理并提升效率。而据使用 Memory Folios 的基准测试表明，其可使得内核的构建速度提高 7%。 就目前看来，用户或许有希望在 Linux 5.15 中看到此类代码的应用。Memory Fo...",
+          "link": "https://www.oschina.net/news/150522/linux-5-15-memory-folios",
+          "publishedOn": "2021-07-15T00:29:36.000Z",
+          "wordCount": 605,
+          "title": "Linux 5.15 有望合并 Memory Folios，可使内核构建速度提升 7%"
+        },
         {
           "id": "https://my.oschina.net/vigor23/blog/5129221",
           "author": null,
@@ -8516,6 +8525,42 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=27463",
+          "author": "大眼仔~旭",
+          "description": "威力酷剪 ActionDirector Video Editor 中文版由大眼仔旭（www.dayanzai. […]",
+          "link": "http://www.dayanzai.me/actiondirector.html",
+          "publishedOn": "2021-07-14T16:31:24.000Z",
+          "wordCount": 554,
+          "title": "威力酷剪 ActionDirector Video Editor 6.6.1 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=19991",
+          "author": "大眼仔~旭",
+          "description": "Wireshark 抓包分析工具由大眼仔旭（www.dayanzai.me）发布。Wireshark（前称 E […]",
+          "link": "http://www.dayanzai.me/wireshark.html",
+          "publishedOn": "2021-07-14T16:26:15.000Z",
+          "wordCount": 554,
+          "title": "网络封包分析工具 Wireshark 3.4.7 + x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=7630",
+          "author": "大眼仔~旭",
+          "description": "免费系统优化工具 HDCleaner 中文版由大眼仔旭（www.dayanzai.me）发布。如果您拥有一台基 […]",
+          "link": "http://www.dayanzai.me/hdcleaner.html",
+          "publishedOn": "2021-07-14T16:10:41.000Z",
+          "wordCount": 560,
+          "title": "免费系统优化工具 HDCleaner 2.000 + x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=8688",
+          "author": "大眼仔~旭",
+          "description": "X-plore Manager 中文版由大眼仔旭（www.dayanzai.me）发布。X-plore Man […]",
+          "link": "http://www.dayanzai.me/x-plore-manager.html",
+          "publishedOn": "2021-07-14T16:02:30.000Z",
+          "wordCount": 501,
+          "title": "安卓文件管理器 X-plore Manager 4.27.56 中文多语免费版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=53154",
           "author": "大眼仔~旭",
