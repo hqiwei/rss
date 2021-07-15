@@ -8526,6 +8526,15 @@
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
         {
+          "id": "http://www.dayanzai.me/?p=1939",
+          "author": "大眼仔~旭",
+          "description": "安卓屏幕录像软件 Screen Recorder 中文版由大眼仔旭（www.dayanzai.me）发布。屏幕 […]",
+          "link": "http://www.dayanzai.me/screen-recorder.html",
+          "publishedOn": "2021-07-15T01:14:04.000Z",
+          "wordCount": 503,
+          "title": "免费无广告安卓屏幕录像软件 Screen Recorder 1.2.6.4 中文多语免费版"
+        },
+        {
           "id": "http://www.dayanzai.me/?p=27463",
           "author": "大眼仔~旭",
           "description": "威力酷剪 ActionDirector Video Editor 中文版由大眼仔旭（www.dayanzai. […]",
@@ -8535,6 +8544,15 @@
           "title": "威力酷剪 ActionDirector Video Editor 6.6.1 中文多语免费版"
         },
         {
+          "id": "http://www.dayanzai.me/?p=42302",
+          "author": "大眼仔~旭",
+          "description": "安卓微笔记 WeNote 中文版由大眼仔旭（www.dayanzai.me）发布 – 用来记录您生 […]",
+          "link": "http://www.dayanzai.me/wenote.html",
+          "publishedOn": "2021-07-14T16:29:08.000Z",
+          "wordCount": 549,
+          "title": "Android 微笔记 WeNote Premium 3.63 中文多语免费版"
+        },
+        {
           "id": "http://www.dayanzai.me/?p=19991",
           "author": "大眼仔~旭",
           "description": "Wireshark 抓包分析工具由大眼仔旭（www.dayanzai.me）发布。Wireshark（前称 E […]",
@@ -8542,6 +8560,24 @@
           "publishedOn": "2021-07-14T16:26:15.000Z",
           "wordCount": 554,
           "title": "网络封包分析工具 Wireshark 3.4.7 + x64 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=8323",
+          "author": "大眼仔~旭",
+          "description": "安卓 ADM 下载器 Advanced Download Manager 中文版由大眼仔旭（www.dayan […]",
+          "link": "http://www.dayanzai.me/advanced-download-manager.html",
+          "publishedOn": "2021-07-14T16:25:24.000Z",
+          "wordCount": 560,
+          "title": "安卓 ADM 下载器 Advanced Download Manager 12.5.0 中文多语免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=30186",
+          "author": "大眼仔~旭",
+          "description": "在线语言学习应用多邻国 Duolingo 中文版由大眼仔旭（www.dayanzai.me）发布。每个人的学习 […]",
+          "link": "http://www.dayanzai.me/duolingo.html",
+          "publishedOn": "2021-07-14T16:11:24.000Z",
+          "wordCount": 490,
+          "title": "在线语言学习应用 多邻国 Duolingo 5.17.4 中文多语免费版"
         },
         {
           "id": "http://www.dayanzai.me/?p=7630",
