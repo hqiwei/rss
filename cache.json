@@ -706,33 +706,6 @@
           "publishedOn": "2021-06-15T17:43:43.000Z",
           "wordCount": 1292,
           "title": "What is the Strangler Fig Pattern and How it Helps Manage Legacy Code"
-        },
-        {
-          "id": "60b7cb6aacb62507dd1d7c1a",
-          "author": null,
-          "description": "You can now open anything (that you have access to) on GitHub directly from VS Code.",
-          "link": "https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning/",
-          "publishedOn": "2021-06-15T16:06:54.000Z",
-          "wordCount": 1714,
-          "title": "How to Open Any Repo in VS Code Without Cloning It"
-        },
-        {
-          "id": "60c6aec3d3126007592d7bd5",
-          "author": null,
-          "description": "What is an Aggregate Function?SQL aggregate functions will seem very familiar if you have worked with spreadsheets.  Have you ever used SUM in Google Sheets or Excel? The SUM function exists in SQL as well, and is called an aggregate function.  Aggregate functions do a particular task across database",
-          "link": "https://www.freecodecamp.org/news/sql-aggregate-functions-with-example-data-queries-for-beginners/",
-          "publishedOn": "2021-06-15T15:48:09.000Z",
-          "wordCount": 888,
-          "title": "SQL Aggregate Functions – With Example Data Queries for Beginners"
-        },
-        {
-          "id": "60bbdd8dacb62507dd1d9a2d",
-          "author": null,
-          "description": "You've probably seen the term \"full stack developer\" before, either on tech-related websites or in job applications you've perused.  So have you ever wondered what exactly a full stack developer is and what skills you'd need to become one? Well if you're curious like I was, this article",
-          "link": "https://www.freecodecamp.org/news/what-is-a-fullstack-developer/",
-          "publishedOn": "2021-06-15T15:35:39.000Z",
-          "wordCount": 2706,
-          "title": "What is Full Stack? How to Become a Full Stack Developer"
         }
       ]
     },
@@ -8551,6 +8524,15 @@
           "publishedOn": "2021-07-14T16:33:37.000Z",
           "wordCount": 492,
           "title": "我的闹钟 Alarm Clock for Me 2.74.0 中文免费版"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=27682",
+          "author": "大眼仔~旭",
+          "description": "盒式磁带音乐播放器 Casse-o-player 汉化版由大眼仔旭（www.dayanzai.me）独家汉化发 […]",
+          "link": "http://www.dayanzai.me/casse-o-player.html",
+          "publishedOn": "2021-07-14T16:33:35.000Z",
+          "wordCount": 507,
+          "title": "盒式磁带音乐播放器 Casse-o-player 3.1.0 中文汉化版"
         },
         {
           "id": "http://www.dayanzai.me/?p=27463",

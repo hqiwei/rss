@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T03:11:08.905Z</updated>
+    <updated>2021-07-15T04:11:49.699Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -212,6 +212,16 @@
         <link href="http://www.dayanzai.me/alarm-clock-for-me.html"/>
         <updated>2021-07-14T16:33:37.000Z</updated>
         <summary type="html"><![CDATA[我的闹钟 Alarm Clock for Me 中文版由大眼仔旭（www.dayanzai.me）发布。我的闹 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[盒式磁带音乐播放器 Casse-o-player 3.1.0 中文汉化版]]></title>
+        <id>http://www.dayanzai.me/?p=27682</id>
+        <link href="http://www.dayanzai.me/casse-o-player.html"/>
+        <updated>2021-07-14T16:33:35.000Z</updated>
+        <summary type="html"><![CDATA[盒式磁带音乐播放器 Casse-o-player 汉化版由大眼仔旭（www.dayanzai.me）独家汉化发 […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
         </author>
@@ -13659,36 +13669,6 @@ BenchmarkHitCount100-8              3020            367016 ns/…]]></summary>
         <summary type="html"><![CDATA[Windows 窗口选项卡增强工具 Stardock Groupy x64 中文版由大眼仔旭（www.daya […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Open Any Repo in VS Code Without Cloning It]]></title>
-        <id>60b7cb6aacb62507dd1d7c1a</id>
-        <link href="https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning/"/>
-        <updated>2021-06-15T16:06:54.000Z</updated>
-        <summary type="html"><![CDATA[You can now open anything (that you have access to) on GitHub directly from VS Code.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Aggregate Functions – With Example Data Queries for Beginners]]></title>
-        <id>60c6aec3d3126007592d7bd5</id>
-        <link href="https://www.freecodecamp.org/news/sql-aggregate-functions-with-example-data-queries-for-beginners/"/>
-        <updated>2021-06-15T15:48:09.000Z</updated>
-        <summary type="html"><![CDATA[What is an Aggregate Function?SQL aggregate functions will seem very familiar if you have worked with spreadsheets.  Have you ever used SUM in Google Sheets or Excel? The SUM function exists in SQL as well, and is called an aggregate function.  Aggregate functions do a particular task across database]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Full Stack? How to Become a Full Stack Developer]]></title>
-        <id>60bbdd8dacb62507dd1d9a2d</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-fullstack-developer/"/>
-        <updated>2021-06-15T15:35:39.000Z</updated>
-        <summary type="html"><![CDATA[You've probably seen the term "full stack developer" before, either on tech-related websites or in job applications you've perused.  So have you ever wondered what exactly a full stack developer is and what skills you'd need to become one? Well if you're curious like I was, this article]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
