@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T00:32:03.021Z</updated>
+    <updated>2021-07-16T03:11:47.650Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-07-17)]]></title>
+        <id>https://gocn.vip/topics/12350</id>
+        <link href="https://gocn.vip/topics/12350"/>
+        <updated>2021-07-16T02:02:04.000Z</updated>
+        <summary type="html"><![CDATA[Golang 官方认可的 websocket 库-gorilla/websocket  https://gocn.vip/topics/12349
+
+Go 内存模型  https://colobu.com/2021/07/13/Updating-the-Go-Memory-Model/
+
+如何提高缓存系统的内存利用率和可扩展性   https://draveness.me/papers-segcache/
+
+浅谈 Protobuf 编码  https://mp.weixin.qq.com/s/enDUynhZ1Pnzg_4xEjR21A
+
+深入浅出 Linux 惊群：现象、原因和解决方案  https://mp.weixin.qq.com/s/dQWKBujtPcazzw7zacP1lg
+
+
+
+
+编辑: czzsunnyman
+订阅新闻: http://tinyletter.com/gocn
+
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>cczsunnyman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 167 期）：广告拦截器太过分了]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/07/weekly-issue-167.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/07/weekly-issue-167.html"/>
+        <updated>2021-07-16T00:45:10.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP 8.1 早期版本的性能基准测试]]></title>
+        <id>https://www.oschina.net/news/150699/php-8-1-benchmarks-perf-early</id>
+        <link href="https://www.oschina.net/news/150699/php-8-1-benchmarks-perf-early"/>
+        <updated>2021-07-16T00:36:25.000Z</updated>
+        <summary type="html"><![CDATA[PHP 8.1 前两周才发布了 Alpha 版本，目前仍在积极开发中。近日，外国科技媒体 Phoronix 发布了针对 PHP 8.1 早期版本的性能基准测试报告。 测试环境如下： 用于参考对比的测试版本包括：PHP 7.1.30、7.2.34、7.3.29、7.4.22、8.0.8，以及 7 月 14 日发布的 PHP 8.1 更新。 测试结果如下： 上图是运行 PHPBench 测试的结...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD 公开 FSR 源代码，已率先支持 Unity 和虚幻引擎]]></title>
+        <id>https://www.oschina.net/news/150698/amd-fidelityfx-super-resolution-source-code</id>
+        <link href="https://www.oschina.net/news/150698/amd-fidelityfx-super-resolution-source-code"/>
+        <updated>2021-07-16T00:32:37.000Z</updated>
+        <summary type="html"><![CDATA[AMD 在 6 月下旬的时候推出了其开源的 FidelityFX Super Resolution（FSR） 技术，当时 AMD 就表示这项技术的源代码将于 7 月中旬才会公开。在等待了半个多月后，今天 AMD 正式公开了 FSR 的源代码。 FSR 技术是一项允许游戏同时提高性能和视觉效果输出的技术。以往在电脑配置的限制下，游戏通常无法同时兼顾游戏性能和视...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为消除用户误解，Chrome 将测试新的 HTTPS 指示器]]></title>
+        <id>https://www.oschina.net/news/150697/google-may-replace-the-https-lock-icon-in-chrome</id>
+        <link href="https://www.oschina.net/news/150697/google-may-replace-the-https-lock-icon-in-chrome"/>
+        <updated>2021-07-16T00:28:21.000Z</updated>
+        <summary type="html"><![CDATA[目前市面上所有的浏览器都会在与网站通过 HTTPS 建立安全连接之后，在浏览器地址栏的左侧显示一个锁形图标。它为用户提供了关于连接状态的信息，并有助于快速识别与连接状态有关的问题。 用户可以点击该图标，从而在浏览器中了解到与网站连接相关的更多信息，其中包括证书是否有效、正在使用的 cookies 数量，以及网站设...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GOTC 全球开源技术峰会“AI、大数据与数字经济开源技术论坛”精彩回顾]]></title>
         <id>https://www.oschina.net/news/150696</id>
@@ -194,6 +260,36 @@ Read message using io…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[免费开源的文件夹比较和同步软件 FreeFileSync 11.12 中文免费版]]></title>
+        <id>http://www.dayanzai.me/?p=996</id>
+        <link href="http://www.dayanzai.me/freefilesync.html"/>
+        <updated>2021-07-15T16:25:21.000Z</updated>
+        <summary type="html"><![CDATA[FreeFileSync 中文版免费开源的文件夹比较和同步软件由大眼仔旭（www.dayanzai.me）发布 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跨平台音频编辑工具 ocenaudio 3.10.10 + x64 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=36231</id>
+        <link href="http://www.dayanzai.me/ocenaudio.html"/>
+        <updated>2021-07-15T16:20:36.000Z</updated>
+        <summary type="html"><![CDATA[ocenaudio 中文版是一款跨平台，易于使用，快速且功能强大的音频编辑器。对于需要编辑和分析音频文件而无需 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免费实用的安装包制作工具 CreateInstall Free 8.8.1 中文免费版]]></title>
+        <id>http://www.dayanzai.me/?p=4116</id>
+        <link href="http://www.dayanzai.me/createinstall-free.html"/>
+        <updated>2021-07-15T16:02:59.000Z</updated>
+        <summary type="html"><![CDATA[CreateInstall Free 中文特别版 免费实用的安装包制作工具由大眼仔旭（www.dayanzai […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[每日文章精选 2021 07 15]]></title>
         <id>http://www.linuxeden.com/?p=87576</id>
         <link href="http://www.linuxeden.com/a/87576"/>
@@ -261,6 +357,16 @@ Read message using io…]]></summary>
         <summary type="html"><![CDATA[There are lots of data-storage options available today. You have to choose between managed or unmanaged, relational or NoSQL, write- or read-optimized, proprietary or open-source — and it doesn't end there. Once you begin your search, you will end up in the universe that is database marketing. All of the vendors]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[字体格式之 OTF 与 TTF 字体有什么不同？]]></title>
+        <id>http://www.dayanzai.me/?p=53239</id>
+        <link href="http://www.dayanzai.me/otf-vs-ttf-fonts.html"/>
+        <updated>2021-07-15T11:35:52.000Z</updated>
+        <summary type="html"><![CDATA[OTF 与 TTF 的比较通常有利于 OTF。 然而，这种比较并不是那么简单。如果您曾经使用过字体或字体，那么 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
@@ -13310,46 +13416,6 @@ GoCN 归档: https://gocn.vip/topics/12212]]></summary>
         <summary type="html"><![CDATA[USB 设备修复工具 USB Repair 中文版由大眼仔旭（www.dayanzai.me）发布。USB R […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日文章精选 2021 06 16]]></title>
-        <id>http://www.linuxeden.com/?p=86540</id>
-        <link href="http://www.linuxeden.com/a/86540"/>
-        <updated>2021-06-16T14:58:51.000Z</updated>
-        <summary type="html"><![CDATA[Google 开源全同态加密的通用转译器 2021 年学习 Java 的三个理由 FreeDOS 入门 万维网源代码将作为NFT被发明者蒂姆·伯纳斯·李爵士拍卖 Canonical宣布为Google Cloud 提供Ubuntu Pro及长 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 开源全同态加密的通用转译器]]></title>
-        <id>http://www.linuxeden.com/?p=86536</id>
-        <link href="http://www.linuxeden.com/a/86536"/>
-        <updated>2021-06-16T13:46:15.000Z</updated>
-        <summary type="html"><![CDATA[WinterIsComing (31822)发表于 2021年06月15日 13时23分 星期二 新浪微博分享 豆瓣分享 人人分享 来自部门 Google 宣布在 Apache License 2.0 许可证下开源首个全同态加密（FHE）的 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 年学习 Java 的三个理由]]></title>
-        <id>http://www.linuxeden.com/?p=86534</id>
-        <link href="http://www.linuxeden.com/a/86534"/>
-        <updated>2021-06-16T13:44:58.000Z</updated>
-        <summary type="html"><![CDATA[ava 具有功能强大、多样化、可拓展、有趣的特点。这就是 Java 为什么被我们广泛使用，也是我们如何正确使用它的方式。 Java 是在 1995 年发布的，当我写这篇文章的时候，它已经 26 岁了。起初它是专有的，但在 2007 年，Ja […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FreeDOS 入门]]></title>
-        <id>http://www.linuxeden.com/?p=86527</id>
-        <link href="http://www.linuxeden.com/a/86527"/>
-        <updated>2021-06-16T13:42:55.000Z</updated>
-        <summary type="html"><![CDATA[它看起来像复古计算，但它是一个现代的操作系统，你可以用它来完成任务。 在整个 1980 年代和 1990 年代，我主要是一个 DOS 用户。我喜欢 DOS 提供的命令行环境，它随着每一个连续的版本变得更加强大。我甚至学会了如何用 C 语言编 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>
