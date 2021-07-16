@@ -4642,24 +4642,6 @@
           "publishedOn": "2021-06-17T00:18:03.000Z",
           "wordCount": 177,
           "title": "Netbox  2.11.7发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86545",
-          "author": "Editor, Kai",
-          "description": "6月17日6时30分许，中国载人航天工程总指挥、空间站阶段飞行任务总指挥部总指挥长李尚福下达命令，聂海胜、刘伯明、汤洪波3名航天员领命出征，即将开启为期3个月的飞行任务，并将成为中国载人航天进入空间站在轨组装建造阶段后的首批太空访客。 据官 […]",
-          "link": "http://www.linuxeden.com/a/86545",
-          "publishedOn": "2021-06-17T00:13:17.000Z",
-          "wordCount": 75,
-          "title": "神舟十二号3名航天员领命出征：今日9时22分载人飞船将发射"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86543",
-          "author": "Editor, Kai",
-          "description": "Notable Changes [6035492c8f] – deps: update ICU to 69.1 (Michaël Zasso) #38178 [9417fd0bc8] – errors: align  […]",
-          "link": "http://www.linuxeden.com/a/86543",
-          "publishedOn": "2021-06-17T00:08:40.000Z",
-          "wordCount": 3147,
-          "title": "Node v14.17.1 (LTS) 发布"
         }
       ]
     },
@@ -4668,6 +4650,15 @@
       "feedUrl": "http://feed.appinn.com",
       "siteUrl": "https://www.appinn.com",
       "articles": [
+        {
+          "id": "https://www.appinn.com/?p=39307",
+          "author": "青小蛙",
+          "description": "Easy Window Switcher 是一款能够为 Windows 带来经典 macOS 窗口切换方式的软件，只需要按下快捷键 alt + `(ESC 下方按钮)，就能在同一个软件的不同窗口间切换",
+          "link": "https://www.appinn.com/easy-window-switcher/",
+          "publishedOn": "2021-07-16T10:44:53.000Z",
+          "wordCount": 1224,
+          "title": "Easy Window Switcher – 仿 Mac 窗口切换，通过快捷键切换同软件窗口[Windows]"
+        },
         {
           "id": "https://www.appinn.com/?p=39304",
           "author": "青小蛙",
@@ -5035,6 +5026,24 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/150809/mindspore-1-3-released",
+          "author": null,
+          "description": "夏日的阳光已经洒在树梢枝畔，奋斗了又3个月的MindSpore社区开发者们，带着无比的兴奋，为大家献上全新的1.3版本！日益精进的我们，在这个版本中为大家带来了全新的MindSpore Federated能力，解锁了支撑盘古千亿稠密大模型的众多关键特性、以及面向更多类型硬件的推理优化、图算融合、简易部署等新工艺，犹如开源时所誓言...",
+          "link": "https://www.oschina.net/news/150809/mindspore-1-3-released",
+          "publishedOn": "2021-07-16T10:48:32.000Z",
+          "wordCount": null,
+          "title": "MindSpore 1.3 发布，打造无所不在的智能，诠释可以信赖的开源"
+        },
+        {
+          "id": "https://my.oschina.net/koderover/blog/5134413",
+          "author": null,
+          "description": "经历过流程驱动的 1.0 时代，工具驱动的 2.0 时代的，软件开发已经进入到数字业务驱动的 3.0 时代，成为企业生存的命脉。“要想富，先修路” 。开源云原生软件交付产品 Zadig，就是要把路修到企业的门口，让软件工程师不再做修「高速公路」的脏活累活，而是专注自己最擅长的事情：打造业务的数字化「跑车」！...",
+          "link": "https://my.oschina.net/koderover/blog/5134413",
+          "publishedOn": "2021-07-16T10:10:40.000Z",
+          "wordCount": 441,
+          "title": "Zadig 完成 100% 开源：开启软件交付 3.0 时代"
+        },
         {
           "id": "https://www.oschina.net/news/150799/swoole-4-7-0-released",
           "author": null,
@@ -8400,51 +8409,6 @@
           "publishedOn": "2021-06-17T00:16:24.000Z",
           "wordCount": 507,
           "title": "万维网源代码将以 NFT 形式拍卖"
-        },
-        {
-          "id": "https://www.oschina.net/news/146322/microsoft-product-vulnerabilities-2020",
-          "author": null,
-          "description": "BeyondTrust 发布的一份《2021 年度微软漏洞报告》指出，2020 年发现的微软漏洞数量创历史新高达到 1268 个，同比增长 48%。其中，Windows 是漏洞数最多的地方；存在 907 个问题，并且有 132 个是关键性漏洞。 该报告研究了微软在过去一年发布的安全公告（即补丁星期二）中的漏洞数据。数据显示，全世界每三个漏洞中就有...",
-          "link": "https://www.oschina.net/news/146322/microsoft-product-vulnerabilities-2020",
-          "publishedOn": "2021-06-17T00:11:30.000Z",
-          "wordCount": 595,
-          "title": "微软产品漏洞 2020 年创 1268 个新高，Windows 占 907 个"
-        },
-        {
-          "id": "https://www.oschina.net/p/libspng",
-          "author": null,
-          "description": "libspng 是一个 C 语言的开发库，用来读写 PNG 格式图片，特点是安全而且易用。",
-          "link": "https://www.oschina.net/p/libspng",
-          "publishedOn": "2021-06-17T00:08:49.000Z",
-          "wordCount": 415,
-          "title": "libspng —— PNG 图片读写库"
-        },
-        {
-          "id": "https://gitee.com/william_lzw/ExDUIR",
-          "author": null,
-          "description": "本项目基于ExDirectUI 4.1.18开源版重写。",
-          "link": "https://gitee.com/william_lzw/ExDUIR",
-          "publishedOn": "2021-06-17T00:07:01.000Z",
-          "wordCount": 440,
-          "title": "Gitee 推荐 | Windows 平台轻量 DirectUI 框架 ExDUIR"
-        },
-        {
-          "id": "https://my.oschina.net/u/4581139/blog/5074040",
-          "author": null,
-          "description": "本文意在简单的介绍一下 V8 执行 JS 的过程，通过了解 V8 执行 JS 的过程，知道 JS 代码呈现在浏览器上到底做了什么。当然本人也是在陆续探索 V8 ，文章中如有不当之处，还望不吝指正，理性交流。",
-          "link": "https://my.oschina.net/u/4581139/blog/5074040",
-          "publishedOn": "2021-06-17T00:03:01.000Z",
-          "wordCount": 391,
-          "title": "每日一博 | V8 执行 JavaScript 的过程"
-        },
-        {
-          "id": "https://www.oschina.net/news/146315/mkvtoolnix-58-0-0-released",
-          "author": null,
-          "description": "MKVToolNix 58.0.0 发布了。MKVToolNix 是一套功能强大的 mkv(Matroska)格式制作和处理的工具，支持将多种视频、音频、字幕等格式封装成 mkv 格式。 新功能和改进 mkvmerge: MKVToolNix GUI 的多路复用器：对 \"默认轨道\" 标志的处理已经改变，以配合最近对 Matroska 规范的修改。新的语义是，如果它被设置，它应该向播放...",
-          "link": "https://www.oschina.net/news/146315/mkvtoolnix-58-0-0-released",
-          "publishedOn": "2021-06-16T23:39:56.000Z",
-          "wordCount": 593,
-          "title": "MKVToolNix 58.0.0 发布，MKV 视频编辑工具"
         }
       ]
     },
