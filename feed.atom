@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T12:15:32.076Z</updated>
+    <updated>2021-07-16T13:15:52.804Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -13241,125 +13241,6 @@ GoCN 归档: https://gocn.vip/topics/12212]]></summary>
 有意者联系：hr@test.dibiantech.com]]></summary>
         <author>
             <name>chcoball</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Bookmarklets? How to Use JavaScript to Make a Bookmarklet in Chromium and Firefox]]></title>
-        <id>60c88bbc4dc1a607ed7b2ffa</id>
-        <link href="https://www.freecodecamp.org/news/what-are-bookmarklets/"/>
-        <updated>2021-06-17T00:53:04.000Z</updated>
-        <summary type="html"><![CDATA[Bookmarklets are browser bookmarks that execute JavaScript instead of opening a webpage. They're also known as bookmark applets, favlets, or JavaScript bookmarks. Bookmarklets are natively available in all major browsers, including Mozilla Firefox and Chromium-based browsers like Chrome or Brave. Scripting with JavaScriptLearning how to write scripts provides many benefits,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写了 50 万行 Go 代码后，我明白这些道理]]></title>
-        <id>https://gocn.vip/topics/12210</id>
-        <link href="https://gocn.vip/topics/12210"/>
-        <updated>2021-06-17T00:48:01.000Z</updated>
-        <summary type="html"><![CDATA[写了 50 万行 Go 代码后，我明白这些道理
-原文地址：https://blog.khanacademy.org/half-a-million-lines-of-go/
-
-原文作者：Kevin Dangoor
-
-
-本文永久链接：https://github.com/gocn/translator/blob/master/2021/w22_half_a_million_lines_of_go.md
-
-
-译者：朱亚光
-
-
-
-早在 2019 年 12 月，我第一次写一个关于 Goliath 的可汗学院的项目，该项目的目的是将我们的后端从 python2 整体迁移到 Go 编写的服务上，以及在该过程中的一些其他必要的改变。另外，我也写了一篇关于我们是如何逐步实现这种改变的博客。
-当我们开始 Goliath 的时候，我们团队没有一个人知道 Go，直到我们进行实验才发现相比于其他语言，Go 对我们来说是最好的选择。今天，我们所有的后端和全栈工程师都在写 Go ，Goliath 的增量交付让我们跨越了一个重大的里程碑：目前，超过 50 万行 Go 代码运行在我们的生产环境中。这似乎是一个对 Go  本身进行反思的好时机。
-我们的工程师喜爱 Go 语言
-我向 Go 工程师询问了一些关于 Go 的开放式问题，我听到的反馈是 “读起来和写起来都很容易” 和 “我越用越喜欢!”。
-一位工程师在 .NET 领域工作多年，推崇 exception 风格的错误处理，这与 Go 的错误处理非常不同。如果你对这方面不熟悉，你可以理解为 Go 的错误都是存在错误条件的函数的返回值。我们的前.NET 工程师现在说，“能够调用一个没有返回错误的函数，并且确信它一定会成功，这真的很棒。
-
-另外一个工程师引用了 Go 的标准库文档。他喜欢 可以通过 go doc io.Writer等方式获得离线浏览文档体验。10…]]></summary>
-        <author>
-            <name>zhuyaguang1368</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌开源首个通用全同态加密转译器]]></title>
-        <id>https://www.oschina.net/news/146327/google-open-sources-fully-homomorphic-encryption-transpiler</id>
-        <link href="https://www.oschina.net/news/146327/google-open-sources-fully-homomorphic-encryption-transpiler"/>
-        <updated>2021-06-17T00:41:13.000Z</updated>
-        <summary type="html"><![CDATA[谷歌宣布开源了用于全同态加密（FHE）的首个通用转译器。该公司称，FHE 将允许开发人员在无法访问个人身份信息的情况下处理加密数据。 根据介绍，FHE 允许通过 Internet 将加密数据传输到服务器并在不解密的情况下进行处理。谷歌的转译器则将允许开发人员为基本计算编写代码，如字符串处理或数学，并在加密数据上运行它。...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联想 ThinkPad 将支持在 Linux 中配置 BIOS]]></title>
-        <id>https://www.oschina.net/news/146326/lenovo-think-lmi-driver</id>
-        <link href="https://www.oschina.net/news/146326/lenovo-think-lmi-driver"/>
-        <updated>2021-06-17T00:32:22.000Z</updated>
-        <summary type="html"><![CDATA[根据外媒 Phoronix 的报道，在支持联想系统的同时，一个新的 "Think-LMI" 驱动即将进入 Linux mainline 内核，此驱动支持使用者在 Linux 中访问和配置一些 BIOS/固件设置。 通过 Think-LMI 驱动，使用者可在受支持的 ThinkPad 上更改 BIOS 设置，这一功能还可以在其他支持 WMI 接口的未指定的联想系统上使用。 用于读取/...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网易有道开源 EMLL：高性能端侧机器学习计算库，大幅提高计算性能]]></title>
-        <id>https://www.oschina.net/news/146325/open-source-emll</id>
-        <link href="https://www.oschina.net/news/146325/open-source-emll"/>
-        <updated>2021-06-17T00:30:23.000Z</updated>
-        <summary type="html"><![CDATA[在人工智能技术不断深入发展的今天，我们对于计算的性能要求越来越高。传统的计算处理多数是基于云侧的，把所有图像、音频等数据通过网络传输到云中心进行处理后将结果反馈。但是随着数据的指数式增长，依靠云侧的计算已经显现了诸多不足，例如数据处理的实时性、网络条件制约、数据安全等，因此端侧的推理则愈发重要。 ...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源美图 2021 06 17]]></title>
-        <id>http://www.linuxeden.com/?p=86555</id>
-        <link href="http://www.linuxeden.com/a/86555"/>
-        <updated>2021-06-17T00:29:19.000Z</updated>
-        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 06 17]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux.org公告：在linux.dev域名下提供邮件托管服务]]></title>
-        <id>http://www.linuxeden.com/?p=86551</id>
-        <link href="http://www.linuxeden.com/a/86551"/>
-        <updated>2021-06-17T00:26:32.000Z</updated>
-        <summary type="html"><![CDATA[今天 Linux.org 官网发出公告，表示将和 Migadu 合作在 linux.dev 域名下提供邮件托管服务。目前该服务处于 Beta 测试状态，目前仅向 MAINTAINERS 文件中的内核开发者提供。不过官方维护团队表示后续希望能 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZNBase 时钟同步技术解析：原子钟实现 Ture-time 机制]]></title>
-        <id>https://my.oschina.net/u/5148943/blog/5076465</id>
-        <link href="https://my.oschina.net/u/5148943/blog/5076465"/>
-        <updated>2021-06-17T00:22:32.000Z</updated>
-        <summary type="html"><![CDATA[在分布式数据库系统中，为了解决不同集群、节点事件发生的先后顺序问题，时钟同步至关重要。本文将为大家介绍业界现有的几种主流的时钟同步解决方案，以及分布式数据库 ZNBase 基于原子钟技术实现的 Ture-time 机制。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netbox  2.11.7发布]]></title>
-        <id>http://www.linuxeden.com/?p=86549</id>
-        <link href="http://www.linuxeden.com/a/86549"/>
-        <updated>2021-06-17T00:18:03.000Z</updated>
-        <summary type="html"><![CDATA[Enhancements #6455 – Permit /32 IPv4 and /128 IPv6 prefixes #6493 – Show change log diff for non-atomic (pre […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[万维网源代码将以 NFT 形式拍卖]]></title>
-        <id>https://www.oschina.net/news/146323/www-source-code-to-be-auctioned-as-nft</id>
-        <link href="https://www.oschina.net/news/146323/www-source-code-to-be-auctioned-as-nft"/>
-        <updated>2021-06-17T00:16:24.000Z</updated>
-        <summary type="html"><![CDATA[1989 年，英国计算机科学家蒂姆-伯纳斯-李爵士（Tim Berners-Lee） 创造了改变世界的万维网（World Wide Web，WWW），使我们如今熟知的互联网成为了可能。 随着时代的发展以及如今区块链逐渐被人们所熟知，蒂姆爵士日前决定，他将通过以非同质化代币（Non-Fungible Token，NFT）的形式拍卖万维网的源代码。NFT 是一种数字...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>

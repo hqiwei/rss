@@ -643,15 +643,6 @@
           "publishedOn": "2021-06-17T12:02:47.000Z",
           "wordCount": 566,
           "title": "Azure AI Fundamentals Certification (AI-900) – Pass the Exam With This Free 4 Hour Course"
-        },
-        {
-          "id": "60c88bbc4dc1a607ed7b2ffa",
-          "author": null,
-          "description": "Bookmarklets are browser bookmarks that execute JavaScript instead of opening a webpage. They're also known as bookmark applets, favlets, or JavaScript bookmarks. Bookmarklets are natively available in all major browsers, including Mozilla Firefox and Chromium-based browsers like Chrome or Brave. Scripting with JavaScriptLearning how to write scripts provides many benefits,",
-          "link": "https://www.freecodecamp.org/news/what-are-bookmarklets/",
-          "publishedOn": "2021-06-17T00:53:04.000Z",
-          "wordCount": 1966,
-          "title": "What are Bookmarklets? How to Use JavaScript to Make a Bookmarklet in Chromium and Firefox"
         }
       ]
     },
@@ -1890,15 +1881,6 @@
           "publishedOn": "2021-06-17T03:51:33.000Z",
           "wordCount": 93,
           "title": "【招聘】前端开发工程师"
-        },
-        {
-          "id": "https://gocn.vip/topics/12210",
-          "author": "zhuyaguang1368",
-          "description": "写了 50 万行 Go 代码后，我明白这些道理\n原文地址：https://blog.khanacademy.org/half-a-million-lines-of-go/\n\n原文作者：Kevin Dangoor\n\n\n本文永久链接：https://github.com/gocn/translator/blob/master/2021/w22_half_a_million_lines_of_go.md\n\n\n译者：朱亚光\n\n\n\n早在 2019 年 12 月，我第一次写一个关于 Goliath 的可汗学院的项目，该项目的目的是将我们的后端从 python2 整体迁移到 Go 编写的服务上，以及在该过程中的一些其他必要的改变。另外，我也写了一篇关于我们是如何逐步实现这种改变的博客。\n当我们开始 Goliath 的时候，我们团队没有一个人知道 Go，直到我们进行实验才发现相比于其他语言，Go 对我们来说是最好的选择。今天，我们所有的后端和全栈工程师都在写 Go ，Goliath 的增量交付让我们跨越了一个重大的里程碑：目前，超过 50 万行 Go 代码运行在我们的生产环境中。这似乎是一个对 Go  本身进行反思的好时机。\n我们的工程师喜爱 Go 语言\n我向 Go 工程师询问了一些关于 Go 的开放式问题，我听到的反馈是 “读起来和写起来都很容易” 和 “我越用越喜欢!”。\n一位工程师在 .NET 领域工作多年，推崇 exception 风格的错误处理，这与 Go 的错误处理非常不同。如果你对这方面不熟悉，你可以理解为 Go 的错误都是存在错误条件的函数的返回值。我们的前.NET 工程师现在说，“能够调用一个没有返回错误的函数，并且确信它一定会成功，这真的很棒。\n\n另外一个工程师引用了 Go 的标准库文档。他喜欢 可以通过 go doc io.Writer等方式获得离线浏览文档体验。10…",
-          "link": "https://gocn.vip/topics/12210",
-          "publishedOn": "2021-06-17T00:48:01.000Z",
-          "wordCount": 248,
-          "title": "写了 50 万行 Go 代码后，我明白这些道理"
         }
       ]
     },
@@ -4615,33 +4597,6 @@
           "publishedOn": "2021-06-17T14:37:06.000Z",
           "wordCount": 87,
           "title": "Apache Dubbo 3.0.0发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86555",
-          "author": "Editor, Kai",
-          "description": "Linuxeden开源社区-开源美图 2021 06 17",
-          "link": "http://www.linuxeden.com/a/86555",
-          "publishedOn": "2021-06-17T00:29:19.000Z",
-          "wordCount": 75,
-          "title": "开源美图 2021 06 17"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86551",
-          "author": "Editor, Kai",
-          "description": "今天 Linux.org 官网发出公告，表示将和 Migadu 合作在 linux.dev 域名下提供邮件托管服务。目前该服务处于 Beta 测试状态，目前仅向 MAINTAINERS 文件中的内核开发者提供。不过官方维护团队表示后续希望能 […]",
-          "link": "http://www.linuxeden.com/a/86551",
-          "publishedOn": "2021-06-17T00:26:32.000Z",
-          "wordCount": 109,
-          "title": "Linux.org公告：在linux.dev域名下提供邮件托管服务"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86549",
-          "author": "Editor, Kai",
-          "description": "Enhancements #6455 – Permit /32 IPv4 and /128 IPv6 prefixes #6493 – Show change log diff for non-atomic (pre […]",
-          "link": "http://www.linuxeden.com/a/86549",
-          "publishedOn": "2021-06-17T00:18:03.000Z",
-          "wordCount": 177,
-          "title": "Netbox  2.11.7发布"
         }
       ]
     },
@@ -8364,51 +8319,6 @@
           "publishedOn": "2021-06-17T06:39:10.000Z",
           "wordCount": 1038,
           "title": "安全事件周报，奥迪、大众、麦当劳和 EA 等多个龙头企业遭遇数据泄露"
-        },
-        {
-          "id": "https://www.oschina.net/news/146327/google-open-sources-fully-homomorphic-encryption-transpiler",
-          "author": null,
-          "description": "谷歌宣布开源了用于全同态加密（FHE）的首个通用转译器。该公司称，FHE 将允许开发人员在无法访问个人身份信息的情况下处理加密数据。 根据介绍，FHE 允许通过 Internet 将加密数据传输到服务器并在不解密的情况下进行处理。谷歌的转译器则将允许开发人员为基本计算编写代码，如字符串处理或数学，并在加密数据上运行它。...",
-          "link": "https://www.oschina.net/news/146327/google-open-sources-fully-homomorphic-encryption-transpiler",
-          "publishedOn": "2021-06-17T00:41:13.000Z",
-          "wordCount": 477,
-          "title": "谷歌开源首个通用全同态加密转译器"
-        },
-        {
-          "id": "https://www.oschina.net/news/146326/lenovo-think-lmi-driver",
-          "author": null,
-          "description": "根据外媒 Phoronix 的报道，在支持联想系统的同时，一个新的 \"Think-LMI\" 驱动即将进入 Linux mainline 内核，此驱动支持使用者在 Linux 中访问和配置一些 BIOS/固件设置。 通过 Think-LMI 驱动，使用者可在受支持的 ThinkPad 上更改 BIOS 设置，这一功能还可以在其他支持 WMI 接口的未指定的联想系统上使用。 用于读取/...",
-          "link": "https://www.oschina.net/news/146326/lenovo-think-lmi-driver",
-          "publishedOn": "2021-06-17T00:32:22.000Z",
-          "wordCount": 542,
-          "title": "联想 ThinkPad 将支持在 Linux 中配置 BIOS"
-        },
-        {
-          "id": "https://www.oschina.net/news/146325/open-source-emll",
-          "author": null,
-          "description": "在人工智能技术不断深入发展的今天，我们对于计算的性能要求越来越高。传统的计算处理多数是基于云侧的，把所有图像、音频等数据通过网络传输到云中心进行处理后将结果反馈。但是随着数据的指数式增长，依靠云侧的计算已经显现了诸多不足，例如数据处理的实时性、网络条件制约、数据安全等，因此端侧的推理则愈发重要。 ...",
-          "link": "https://www.oschina.net/news/146325/open-source-emll",
-          "publishedOn": "2021-06-17T00:30:23.000Z",
-          "wordCount": 768,
-          "title": "网易有道开源 EMLL：高性能端侧机器学习计算库，大幅提高计算性能"
-        },
-        {
-          "id": "https://my.oschina.net/u/5148943/blog/5076465",
-          "author": null,
-          "description": "在分布式数据库系统中，为了解决不同集群、节点事件发生的先后顺序问题，时钟同步至关重要。本文将为大家介绍业界现有的几种主流的时钟同步解决方案，以及分布式数据库 ZNBase 基于原子钟技术实现的 Ture-time 机制。",
-          "link": "https://my.oschina.net/u/5148943/blog/5076465",
-          "publishedOn": "2021-06-17T00:22:32.000Z",
-          "wordCount": 453,
-          "title": "ZNBase 时钟同步技术解析：原子钟实现 Ture-time 机制"
-        },
-        {
-          "id": "https://www.oschina.net/news/146323/www-source-code-to-be-auctioned-as-nft",
-          "author": null,
-          "description": "1989 年，英国计算机科学家蒂姆-伯纳斯-李爵士（Tim Berners-Lee） 创造了改变世界的万维网（World Wide Web，WWW），使我们如今熟知的互联网成为了可能。 随着时代的发展以及如今区块链逐渐被人们所熟知，蒂姆爵士日前决定，他将通过以非同质化代币（Non-Fungible Token，NFT）的形式拍卖万维网的源代码。NFT 是一种数字...",
-          "link": "https://www.oschina.net/news/146323/www-source-code-to-be-auctioned-as-nft",
-          "publishedOn": "2021-06-17T00:16:24.000Z",
-          "wordCount": 507,
-          "title": "万维网源代码将以 NFT 形式拍卖"
         }
       ]
     },
