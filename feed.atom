@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T20:09:31.276Z</updated>
+    <updated>2021-07-16T21:09:01.877Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -13230,16 +13230,6 @@ Cilium 使用了 EBPF 内核技术对传统数据链路进行了优化，绕过�
         <summary type="html"><![CDATA[What is the Azure AI Fundamentals Certification?The Azure AI Fundamentals Certification is for those seeking a Machine Learning role such as AI Engineer or Data Scientist. In the last decade companies have been collecting vast amount of data surrounding their service and product offerings. The successful companies of the]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[请问有独立于浏览器的本地收藏夹工具吗？11+ 款工具推荐]]></title>
-        <id>https://www.appinn.com/?p=39086</id>
-        <link href="https://www.appinn.com/11-local-favorites-tool/"/>
-        <updated>2021-06-17T08:11:45.000Z</updated>
-        <summary type="html"><![CDATA[来自问题求助频道 @lijlniyi 同学的一个问题：https://meta.appinn.net/t/topic/24080 我以前惯用火狐，随着火狐几次改版，功能越改越弱之后转移到 edge，收]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
 </feed>
