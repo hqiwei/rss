@@ -2,10 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T23:09:13.622Z</updated>
+    <updated>2021-07-16T00:32:03.021Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GOTC 全球开源技术峰会“AI、大数据与数字经济开源技术论坛”精彩回顾]]></title>
+        <id>https://www.oschina.net/news/150696</id>
+        <link href="https://www.oschina.net/news/150696"/>
+        <updated>2021-07-16T00:27:10.000Z</updated>
+        <summary type="html"><![CDATA[7 月 10 日，「GOTC 全球开源技术峰会“AI、大数据与数字经济开源技术论坛”」在上海世博中心召开。「GOTC 全球开源技术峰」是会由开放原子开源基金会与 Linux 基金会联合开源中国共同举办的开源盛会，包含多个主题分论坛，其中“AI、大数据与数字经济开源技术论坛”出品方为 LF AI & Data 基金会。 LF AI & Data 基金会...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 07 16]]></title>
+        <id>http://www.linuxeden.com/?p=87597</id>
+        <link href="http://www.linuxeden.com/a/87597"/>
+        <updated>2021-07-16T00:20:09.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 07 16]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软推出 Cloud PC 吸引苹果和安卓用户]]></title>
+        <id>http://www.linuxeden.com/?p=87594</id>
+        <link href="http://www.linuxeden.com/a/87594"/>
+        <updated>2021-07-16T00:17:52.000Z</updated>
+        <summary type="html"><![CDATA[微软宣布推出了完全在云端运行的新产品 Windows 365。它可以在任何运行有 Web 浏览器的操作系统的设备上访问，比如苹果 Mac 电脑、iPhone 和 iPad，或者那些运行安卓系统的设备。 十年前，微软在所有 PC 和智能手机上 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赋予员工权力的重要性：94% 的组织遭受过内部数据泄露]]></title>
+        <id>https://www.oschina.net/news/150695/insider-breaches-94-percent-organizations</id>
+        <link href="https://www.oschina.net/news/150695/insider-breaches-94-percent-organizations"/>
+        <updated>2021-07-16T00:17:32.000Z</updated>
+        <summary type="html"><![CDATA[电子邮件安全公司 Egress 发布的一份《2021 年内部数据泄露调查》报告指出，仅在过去一年中，就有 94% 的组织都经历了内部数据泄露。该报告基于对 500 名 IT 领导者和 3000 名基层员工的调查，侧重于研究多个不同领域。 调查结果显示，84% 的受访 IT 领导者表明，人为错误是导致严重事故的首要原因。但与之相比，一些恶意...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HHVM 4.118发布]]></title>
+        <id>http://www.linuxeden.com/?p=87592</id>
+        <link href="http://www.linuxeden.com/a/87592"/>
+        <updated>2021-07-16T00:15:42.000Z</updated>
+        <summary type="html"><![CDATA[HHVM 4.118 is released! This release marks the end of support for 4.112; HHVM 4.113–4.117 remain supported, as do the 4. […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD FSR画质技术正式开源：NVIDIA/Intel都能用]]></title>
+        <id>http://www.linuxeden.com/?p=87583</id>
+        <link href="http://www.linuxeden.com/a/87583"/>
+        <updated>2021-07-16T00:14:38.000Z</updated>
+        <summary type="html"><![CDATA[6月底，AMD正式发布了FSR画质缩放技术，中文称为超分辨率锐画，走了一条和NVIDIA DLSS不同的技术路线，而且承诺会在7月中旬开源。 现在，AMD兑现承诺，FSR技术的源代码、开发文档、实例都已经放在了AMD GPUOpen网站上， […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quarkus 2.0.2.Final 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87581</id>
+        <link href="http://www.linuxeden.com/a/87581"/>
+        <updated>2021-07-16T00:07:49.000Z</updated>
+        <summary type="html"><![CDATA[Major changes Complete changelog #18637 – ArC decorators – fix NPE when non-default delegate qualifiers are  […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gocron —— Go 语言开发的定时任务管理系统]]></title>
+        <id>https://www.oschina.net/p/gocron</id>
+        <link href="https://www.oschina.net/p/gocron"/>
+        <updated>2021-07-16T00:05:03.000Z</updated>
+        <summary type="html"><![CDATA[使用 Go 语言开发的轻量级定时任务集中调度和管理系统, 用于替代 Linux-crontab（查看文档）。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯进军芯片研发设计：大量招募相关人才]]></title>
+        <id>http://www.linuxeden.com/?p=87578</id>
+        <link href="http://www.linuxeden.com/a/87578"/>
+        <updated>2021-07-16T00:01:16.000Z</updated>
+        <summary type="html"><![CDATA[半导体行业的重要性不言而喻，在这一领域，我国还有不少“卡脖子”的关键问题亟需攻破，显然这需要科研、企业等力量的共同参与，来努力破局。 经查，腾讯招聘官网出现多个芯片研发岗位，近一个月内就出现了芯片架构师、芯片验证工程师、芯片设计工程师等多个 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitee 推荐 | Rust 跨平台终端操作库 RustTerm]]></title>
+        <id>https://gitee.com/shirdonl/RustTerm</id>
+        <link href="https://gitee.com/shirdonl/RustTerm"/>
+        <updated>2021-07-16T00:01:11.000Z</updated>
+        <summary type="html"><![CDATA[当 Rust 语言的终端库只为 UNIX 系统编写时，您是否曾感到失望？RustTerm 提供了清除、输入处理、样式设置、光标移动和终端操作 Windows 和 UNIX 系统。RustTerm 的目标是简单且易于调用代码。通过 RustTerm 的简单性，您不必担心工作的平台。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 统一预估引擎的设计与实现]]></title>
+        <id>https://my.oschina.net/u/4217949/blog/5132756</id>
+        <link href="https://my.oschina.net/u/4217949/blog/5132756"/>
+        <updated>2021-07-16T00:00:35.000Z</updated>
+        <summary type="html"><![CDATA[随着互联网的快速发展，互联网上出现了各种海量的信息。怎么样为用户推荐感兴趣的信息是个很大的挑战？各种各样的推荐算法、系统都涌现出来。而预估引擎可以说是推荐系统中比较重要的一环，预估引擎效果的好坏严重影响了算法效果。结合oppo的业务场景，我们的预估引擎需要解决几个问题：]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio 2022 Preview 2 发布]]></title>
+        <id>https://www.oschina.net/news/150690/visual-studio-2022-preview-2-released</id>
+        <link href="https://www.oschina.net/news/150690/visual-studio-2022-preview-2-released"/>
+        <updated>2021-07-15T23:52:15.000Z</updated>
+        <summary type="html"><![CDATA[Visual Studio 2022 Preview 2 现已推出，该版本专注于提供以个人和团队生产力、现代开发和不断创新为主题的新功能。 下载地址：https://aka.ms/vs2022preview Visual Studio 2022 Preview 1 中曾引入了新的 Cascadia Code 字体，旨在更易于阅读。在本次预览版本中，团队则更新了图标，使其更清晰、更易于区分，旨在 为每...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js 16.5.0 正式发布]]></title>
+        <id>https://www.oschina.net/news/150688/nodejs-16-5-0-released</id>
+        <link href="https://www.oschina.net/news/150688/nodejs-16-5-0-released"/>
+        <updated>2021-07-15T23:33:29.000Z</updated>
+        <summary type="html"><![CDATA[Node.js 是能够在服务器端运行 JavaScript 的开放源代码、跨平台 JavaScript 运行环境。Node.js 由Node.js Foundation（已与JS Foundation合并为OpenJS Foundation）持有和维护，亦为 Linux 基金会的项目。Node.js 采用 Google 开发的 V8 运行代码，使用事件驱动、非阻塞和异步输入输出模型等技术来提高性能，可优化应用...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Golang 官方认可的 websocket 库-gorilla/websocket]]></title>
         <id>https://gocn.vip/topics/12349</id>
