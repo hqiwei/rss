@@ -1881,15 +1881,6 @@
           "publishedOn": "2021-06-17T07:48:09.000Z",
           "wordCount": 116,
           "title": "GoCN 每日新闻 (2021-06-17)"
-        },
-        {
-          "id": "https://gocn.vip/topics/12211",
-          "author": "chcoball",
-          "description": "技术要求\n1、熟悉 WEB 前端技术，对符合 WEB 标准的网站重构有丰富经验，有成功作品； \n2、理解并掌握 Javascript 语言核心技术 DOM、BOM、Ajax、JSON 等，对 Javascript 框架应用（如 jQuery/bootstrap 等）有一定的经验； \n3、熟悉 nodejs 或其他后端语言优先； \n4、对 CSS/Javascript 性能优化、解决多浏览器兼容性问题有一定的经验； \n5、对用户体验、交互操作流程、及用户需求有一定了解； \n6、具备良好的服务意识、责任心、较强的学习能力、优秀的团队沟通与协作能力。 \n7、有 web 3D 开发经验大大加分\n有意者联系：hr@test.dibiantech.com",
-          "link": "https://gocn.vip/topics/12211",
-          "publishedOn": "2021-06-17T03:51:33.000Z",
-          "wordCount": 93,
-          "title": "【招聘】前端开发工程师"
         }
       ]
     },
@@ -1898,6 +1889,42 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=87615",
+          "author": "Editor, Kai",
+          "description": "如何在 CentOS、RHEL、Rocky Linux 最小化安装中设置互联网 Valve 宣布 Linux 掌机 Steam Deck Linux 5.15将支持苹果Magic Mouse的高精细度滚动操作 微软推出 Cloud PC 吸 […]",
+          "link": "http://www.linuxeden.com/a/87615",
+          "publishedOn": "2021-07-16T15:51:45.000Z",
+          "wordCount": 109,
+          "title": "每日文章精选 2021 07 16"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87608",
+          "author": "Editor, Kai",
+          "description": "在最小化服务器安装中，设置互联网或网络是非常容易的。在本指南中，我们将解释如何在 CentOS、RHEL、Rocky Linux 最小安装中设置互联网或网络。 当你刚刚完成任何服务器发行版的最小化安装时，你没有任何图形界面或桌面环境可以用于 […]",
+          "link": "http://www.linuxeden.com/a/87608",
+          "publishedOn": "2021-07-16T15:49:51.000Z",
+          "wordCount": 230,
+          "title": "如何在 CentOS、RHEL、Rocky Linux 最小化安装中设置互联网"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87605",
+          "author": "Editor, Kai",
+          "description": "Valve 正式宣布了运行 Linux 操作系统的掌机 Steam Deck，采用 AMD 的 APU（Zen 2 + RDNA 2），12 月发售，商品页面显示这款产品目前不对中国区开放预购。Valve 开发 Linux 掌机的消息早在今 […]",
+          "link": "http://www.linuxeden.com/a/87605",
+          "publishedOn": "2021-07-16T15:47:49.000Z",
+          "wordCount": 157,
+          "title": "Valve 宣布 Linux 掌机 Steam Deck"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87601",
+          "author": "Editor, Kai",
+          "description": "在 Linux 5.14 合并窗口结束几天后，Linux 5.15 又在“-next”的响应分支中，安排了与苹果 Magic Mouse 鼠标驱动相关的早期功能。具体说来是，HID-next 将把高分辨率滚动支持，合并到“magicmous […]",
+          "link": "http://www.linuxeden.com/a/87601",
+          "publishedOn": "2021-07-16T15:41:33.000Z",
+          "wordCount": 129,
+          "title": "Linux 5.15将支持苹果Magic Mouse的高精细度滚动操作"
+        },
         {
           "id": "http://www.linuxeden.com/?p=87597",
           "author": "Editor, Kai",

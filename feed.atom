@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T15:10:34.229Z</updated>
+    <updated>2021-07-16T16:13:51.965Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 07 16]]></title>
+        <id>http://www.linuxeden.com/?p=87615</id>
+        <link href="http://www.linuxeden.com/a/87615"/>
+        <updated>2021-07-16T15:51:45.000Z</updated>
+        <summary type="html"><![CDATA[如何在 CentOS、RHEL、Rocky Linux 最小化安装中设置互联网 Valve 宣布 Linux 掌机 Steam Deck Linux 5.15将支持苹果Magic Mouse的高精细度滚动操作 微软推出 Cloud PC 吸 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在 CentOS、RHEL、Rocky Linux 最小化安装中设置互联网]]></title>
+        <id>http://www.linuxeden.com/?p=87608</id>
+        <link href="http://www.linuxeden.com/a/87608"/>
+        <updated>2021-07-16T15:49:51.000Z</updated>
+        <summary type="html"><![CDATA[在最小化服务器安装中，设置互联网或网络是非常容易的。在本指南中，我们将解释如何在 CentOS、RHEL、Rocky Linux 最小安装中设置互联网或网络。 当你刚刚完成任何服务器发行版的最小化安装时，你没有任何图形界面或桌面环境可以用于 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valve 宣布 Linux 掌机 Steam Deck]]></title>
+        <id>http://www.linuxeden.com/?p=87605</id>
+        <link href="http://www.linuxeden.com/a/87605"/>
+        <updated>2021-07-16T15:47:49.000Z</updated>
+        <summary type="html"><![CDATA[Valve 正式宣布了运行 Linux 操作系统的掌机 Steam Deck，采用 AMD 的 APU（Zen 2 + RDNA 2），12 月发售，商品页面显示这款产品目前不对中国区开放预购。Valve 开发 Linux 掌机的消息早在今 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.15将支持苹果Magic Mouse的高精细度滚动操作]]></title>
+        <id>http://www.linuxeden.com/?p=87601</id>
+        <link href="http://www.linuxeden.com/a/87601"/>
+        <updated>2021-07-16T15:41:33.000Z</updated>
+        <summary type="html"><![CDATA[在 Linux 5.14 合并窗口结束几天后，Linux 5.15 又在“-next”的响应分支中，安排了与苹果 Magic Mouse 鼠标驱动相关的早期功能。具体说来是，HID-next 将把高分辨率滚动支持，合并到“magicmous […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华为首次发布 HarmonyOS 职业认证，助力开发者实现职业进阶]]></title>
         <id>https://gocn.vip/topics/12353</id>
@@ -13247,24 +13287,6 @@ GoCN 归档: https://gocn.vip/topics/12212]]></summary>
         <summary type="html"><![CDATA[InfoFlow 是一款新鲜的稍后阅读应用，支持 iPad、iPhone，能够永久保存数据到手机中，也可备份至 iCloud 中，支持全文和页内搜索，支持文件夹分类管理。@Appinn InfoFlo]]></summary>
         <author>
             <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【招聘】前端开发工程师]]></title>
-        <id>https://gocn.vip/topics/12211</id>
-        <link href="https://gocn.vip/topics/12211"/>
-        <updated>2021-06-17T03:51:33.000Z</updated>
-        <summary type="html"><![CDATA[技术要求
-1、熟悉 WEB 前端技术，对符合 WEB 标准的网站重构有丰富经验，有成功作品； 
-2、理解并掌握 Javascript 语言核心技术 DOM、BOM、Ajax、JSON 等，对 Javascript 框架应用（如 jQuery/bootstrap 等）有一定的经验； 
-3、熟悉 nodejs 或其他后端语言优先； 
-4、对 CSS/Javascript 性能优化、解决多浏览器兼容性问题有一定的经验； 
-5、对用户体验、交互操作流程、及用户需求有一定了解； 
-6、具备良好的服务意识、责任心、较强的学习能力、优秀的团队沟通与协作能力。 
-7、有 web 3D 开发经验大大加分
-有意者联系：hr@test.dibiantech.com]]></summary>
-        <author>
-            <name>chcoball</name>
         </author>
     </entry>
 </feed>
