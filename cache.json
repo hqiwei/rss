@@ -652,15 +652,6 @@
           "publishedOn": "2021-06-17T00:53:04.000Z",
           "wordCount": 1966,
           "title": "What are Bookmarklets? How to Use JavaScript to Make a Bookmarklet in Chromium and Firefox"
-        },
-        {
-          "id": "60c088e5d3126007592d56f1",
-          "author": null,
-          "description": "In general, a string represents a sequence of characters in a programming language.  Let's look at an example of a string created using a sequence of characters, \"Yes, You Can DO It!\". In JavaScript, we can create a string in a couple of ways: Using the string literal as a",
-          "link": "https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/",
-          "publishedOn": "2021-06-16T21:19:08.000Z",
-          "wordCount": 1696,
-          "title": "JavaScript Split – How to Split a String into an Array in JS"
         }
       ]
     },
@@ -5044,6 +5035,24 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/150799/swoole-4-7-0-released",
+          "author": null,
+          "description": "在 Swoole 官网增加了 在线运行 的按钮，可以直接运行首页提供的一些示例代码，当然也可以手动输出一些 PHP 代码进行测试。 可以访问 Swoole 官网首页进行测试使用：https://www.swoole.com/ 目前还处于测试阶段，有遇到 BUG 可以向识沃科技客服反馈或交流群中反馈。 版本说明 在未正式发布时，对于一些新特性和功能发布...",
+          "link": "https://www.oschina.net/news/150799/swoole-4-7-0-released",
+          "publishedOn": "2021-07-16T10:04:36.000Z",
+          "wordCount": null,
+          "title": "Swoole v4.7.0 版本正式发布，Swoole 官网支持直接运行 Swoole 代码"
+        },
+        {
+          "id": "https://www.oschina.net/news/150789",
+          "author": null,
+          "description": "7月16日，由CCF主办，CCF教育工委、常州大学承办的2021CCF未来计算机教育峰会(FCES2021)在江苏常州召开。 自开源概念提出以来，开源运动深刻地影响着计算机教育的发展，开源社区与计算机教育界是一双互利共生的命运共同体。 7月16日，由CCF主办，CCF教育工委、常州大学承办的2021CCF未来计算机教育峰会(FCES2021)在江苏常...",
+          "link": "https://www.oschina.net/news/150789",
+          "publishedOn": "2021-07-16T09:51:40.000Z",
+          "wordCount": 550,
+          "title": "开源文化与计算机教育：CCF FCES 2021 今日在常州召开"
+        },
         {
           "id": "https://www.oschina.net/news/150761",
           "author": null,

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T09:09:30.887Z</updated>
+    <updated>2021-07-16T10:11:09.938Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Swoole v4.7.0 版本正式发布，Swoole 官网支持直接运行 Swoole 代码]]></title>
+        <id>https://www.oschina.net/news/150799/swoole-4-7-0-released</id>
+        <link href="https://www.oschina.net/news/150799/swoole-4-7-0-released"/>
+        <updated>2021-07-16T10:04:36.000Z</updated>
+        <summary type="html"><![CDATA[在 Swoole 官网增加了 在线运行 的按钮，可以直接运行首页提供的一些示例代码，当然也可以手动输出一些 PHP 代码进行测试。 可以访问 Swoole 官网首页进行测试使用：https://www.swoole.com/ 目前还处于测试阶段，有遇到 BUG 可以向识沃科技客服反馈或交流群中反馈。 版本说明 在未正式发布时，对于一些新特性和功能发布...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源文化与计算机教育：CCF FCES 2021 今日在常州召开]]></title>
+        <id>https://www.oschina.net/news/150789</id>
+        <link href="https://www.oschina.net/news/150789"/>
+        <updated>2021-07-16T09:51:40.000Z</updated>
+        <summary type="html"><![CDATA[7月16日，由CCF主办，CCF教育工委、常州大学承办的2021CCF未来计算机教育峰会(FCES2021)在江苏常州召开。 自开源概念提出以来，开源运动深刻地影响着计算机教育的发展，开源社区与计算机教育界是一双互利共生的命运共同体。 7月16日，由CCF主办，CCF教育工委、常州大学承办的2021CCF未来计算机教育峰会(FCES2021)在江苏常...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国开源进行时！腾讯开源 TencentOS 系列项目获央视点赞]]></title>
         <id>https://www.oschina.net/news/150761</id>
@@ -13380,16 +13400,6 @@ GoCN 归档: https://gocn.vip/topics/12212]]></summary>
         <summary type="html"><![CDATA[MKVToolNix 58.0.0 发布了。MKVToolNix 是一套功能强大的 mkv(Matroska)格式制作和处理的工具，支持将多种视频、音频、字幕等格式封装成 mkv 格式。 新功能和改进 mkvmerge: MKVToolNix GUI 的多路复用器：对 "默认轨道" 标志的处理已经改变，以配合最近对 Matroska 规范的修改。新的语义是，如果它被设置，它应该向播放...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Split – How to Split a String into an Array in JS]]></title>
-        <id>60c088e5d3126007592d56f1</id>
-        <link href="https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/"/>
-        <updated>2021-06-16T21:19:08.000Z</updated>
-        <summary type="html"><![CDATA[In general, a string represents a sequence of characters in a programming language.  Let's look at an example of a string created using a sequence of characters, "Yes, You Can DO It!". In JavaScript, we can create a string in a couple of ways: Using the string literal as a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
