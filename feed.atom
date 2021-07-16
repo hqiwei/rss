@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T16:13:51.965Z</updated>
+    <updated>2021-07-16T17:18:20.698Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -13277,16 +13277,6 @@ GoCN 归档: https://gocn.vip/topics/12212]]></summary>
         <summary type="html"><![CDATA[报告编号：B6-2021-061501 报告来源：360CERT 报告作者：360CERT 更新日期：2021-06-15 1. 事件导览 本周收录安全热点16项，话题集中在数据安全、勒索软件方面，涉及的组织有：奥迪、大众汽车、麦当劳、EA等。多个龙头企业遭遇数据泄露，数据防护不可忽视。对此，360CERT建议使用360安全卫士进行病毒检测、使用360安全分...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[InfoFlow – 可永久保存公众号文章到手机里的稍后阅读应用[iPhone/iPad]]]></title>
-        <id>https://www.appinn.com/?p=39083</id>
-        <link href="https://www.appinn.com/infoflow-for-ios/"/>
-        <updated>2021-06-17T05:15:27.000Z</updated>
-        <summary type="html"><![CDATA[InfoFlow 是一款新鲜的稍后阅读应用，支持 iPad、iPhone，能够永久保存数据到手机中，也可备份至 iCloud 中，支持全文和页内搜索，支持文件夹分类管理。@Appinn InfoFlo]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
 </feed>
