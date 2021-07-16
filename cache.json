@@ -679,15 +679,6 @@
           "publishedOn": "2021-06-16T20:55:03.000Z",
           "wordCount": 1525,
           "title": "Build Better React Apps with These Simple Tricks"
-        },
-        {
-          "id": "60ca30af4dc1a607ed7b4197",
-          "author": null,
-          "description": "You can learn the basics of Data Analytics with 30 days of practice.  We just released a Data Analytics course on the freeCodeCamp.org YouTube channel. The course includes a 40-minute video, as well as a website and Jupyter notebooks. If you follow the plan laid out in these course",
-          "link": "https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/",
-          "publishedOn": "2021-06-16T17:19:31.000Z",
-          "wordCount": 411,
-          "title": "Teach Yourself Data Analytics in 30 Days"
         }
       ]
     },
@@ -757,6 +748,24 @@
       "feedUrl": "https://gocn.vip/topics/feed",
       "siteUrl": "https://gocn.vip/",
       "articles": [
+        {
+          "id": "https://gocn.vip/topics/12352",
+          "author": "185218195",
+          "description": "自 HarmonyOS 发布以来，越来越多企业加入并持续建设鸿蒙应用及硬件生态，同时也催生了相关产业对 HarmonyOS 人才需求的井喷式增长。7 月 16 日，华为在 HarmonyOS Connect 伙伴峰会重庆站首次发布了 HarmonyOS 职业认证，为鸿蒙生态开发者、企业工程师、院校学生提供更广阔、清晰的职业发展路径，也为产业带来源源不断的人才输送。\n\nHarmonyOS 职业认证基于华为成熟的人才培训与认证体系，从低到高分为工程师（HCIA）、高级工程师（HCIP）、专家（HCIE）三个级别，分为应用开发和设备开发两个方向，开发者可根据自身需求选取相应的认证方向。\n目前，面向工程师级的 HCIA-HarmonyOS 认证已正式发布，后续将逐步深入提供高级工程师（HCIP）以及专家（HCIE）级别的 HarmonyOS 职业认证。\nHCIA-HarmonyOS 认证——培养 HarmonyOS 应用与设备开发领域工程师\n本次发布的 HCIA-HarmonyOS 认证包括 HCIA-HarmonyOS Application Developer V1.0 与 HCIA-HarmonyOS Device Developer V1.0，分别定位于培养 HarmonyOS 应用与设备开发领域具备专业知识和技能水平的工程师。\nHCIA-HarmonyOS Application Developer V1.0 认证包括 HarmonyOS 应用开发的基础知识（如：系统架构、分布式特性等）、HarmonyOS 布局设计与开发（如：Ability、UI 设计与开发等）、HarmonyOS 应用功能设计与开发（如：线程管理、数据管理、网络管理、日志管理、AI 等）、HarmonyOS 应用调测与发布等知识技能。\n而 HCIA-HarmonyOS Device Developer V1.0 认证包括 HarmonyOS 设备开发基础知识（如：系统架构、分布式特性等）、HarmonyOS 设备功能开发与调测（如：内核基础功能、HDF 驱动框架、子系统与组件模块、功能调测等）、HarmonyOS 移植等知识技能。\n开发者通过 HCIA-HarmonyOS Application Developer V1.0 与 HCIA-HarmonyOS Device Developer V1.0 两个认证，可证明其已系统地理解并掌握 HarmonyOS 应用开发或设备开发基础知识，有能力胜任 HarmonyOS 应用开发或设备开发工程师、产品经理、项目经理、软件或嵌入式软件开发工程师、售前工程师、售后工程师等岗位。\n从怎么学、怎么考到怎么用，全流程助力开发者实现职业进阶\n对于想要通过 HCIA-HarmonyOS 职业认证的开发者，华为还将提供从学习、报考到就业等全流程服务，助力开发者实现职业进阶。\n怎么学：华为提供了权威的官方教学资源，同时授权培训合作伙伴 (HALP)，双管齐下帮助开发者精进学习。其中官方教学资源包括认证考试、认证培训教材、学员用书、在线学习课程、认证试验手册以及实验环境搭建指南等，开发者通过官方资料的学习，能够快速夯实 HarmonyOS 开发基础。华为也授权培训合作伙伴 (HALP)，面向公众提供学习规划、认证培训、联合学习解决方案等服务，培养符合华为产业链需求的人才，开发者可以更加系统有效地进行 HarmonyOS 职业认证备考。开发者可根据自身能力水平及相应需求选取适合自己的学习方式。\n怎么考：目前 HCIA-HarmonyOS 认证笔试考试平台为 Pearson | VUE，开发者只需在该平台注册并预约考试，支付考试费用就能参加考试，考试通过的开发者即可获取华为官方认证的 HCIA-HarmonyOS 证书。\n怎么用：对于成功获得 HarmonyOS 职业认证的开发者，华为将通过线上人才双选平台、线下 ICT 人才联盟双选会两大渠道，帮助开发者直通华为产业伙伴，实现快速就业。仅 2020 年，华为就开设了 52 场线上线下人才双选会，吸引了中国区 800 家生态伙伴、超过 12000 名高校学子参加，达成就业意向 2000 多个。\n目前，HarmonyOS 职业认证已正式发布，感兴趣的开发者可登陆华为人才在线官网：https://e.huawei.com/cn/talentHCIA-HarmonyOS 认证资讯、考试政策也可关注华为认证微信公众号。了解认证信息、获取备考材料、进行考试预约，更多",
+          "link": "https://gocn.vip/topics/12352",
+          "publishedOn": "2021-07-16T05:41:17.000Z",
+          "wordCount": 182,
+          "title": "华为首次发布 HarmonyOS 职业认证，助力开发者实现职业进阶"
+        },
+        {
+          "id": "https://gocn.vip/topics/12351",
+          "author": "TiDB_Robot",
+          "description": "作者：童牧\n绪论\n在基于 Percolator 提交协议的分布式数据库被提出的时期，学术研究上还出现了一种叫确定性数据库的技术，在这项技术的发展过程中也出现了各种流派。本文将讲解学术上不同的确定性事务和特点，并综合说说他们的优点和面临的问题。\n本文将按照提出的顺序进行讲解：\n确定性数据库的定义；\n\n\n可扩展的确定性数据库 Calvin；\n\n\n基于依赖分析的确定性数据库 BOHM & PWV；\n\n\n重视实践的确定性数据库 Aria。\n\n\n确定性数据库的定义\n确定性数据库的确定性指的是执行结果的确定性，一言蔽之，给定一个事务输入集合，数据库执行后能有唯一的结果。\n\n图 1 - 不存在偏序关系时的不确定性\n但是这一确定性是需要基于偏序关系的，偏序关系代表的是事务在数据库系统中执行的先后顺序。图 1 中，两个事务并发执行，但是还没有被确认偏序关系，那么这两个事务的执行先后顺序还没有被确定，因此这两个事务的执行顺序也是自由的，而不同的执行顺序则会带来不同的结果。\n\n图 2 - 使用事务管理器为排序输入事务排序\n图 1 中的例子说明，为了达到确定性的结果，在事务执行前，我们就需要对其进行排序，图 2 中加入了一个事务管理器，在事务被执行前，会从事务管理器之中申请一个 id，全局的事务执行可以看作是按照 id 顺序进行的，图中 T2 读到了 T1 的写入结果，T3 读到了 T2 的写入结果，因此这三个事务必须按照 T1 -> T2 -> T3 的顺序执行才能产生正确的结果。\n\n图 3 - 死锁的产生\n确定性数据库的另一个优点在于能够规避死锁的产生，死锁的产生原因是交互式的事务有中间过程，图 3 是对产生过程的解释，T1 和 T2 各写入一个 Key，随后在 T1 尝试写入 T2 的 Key，T2 尝试写入 T1 的 Key 时就产生了死锁，需要 abort 其中的一个事务。设想一下如果事…",
+          "link": "https://gocn.vip/topics/12351",
+          "publishedOn": "2021-07-16T05:34:34.000Z",
+          "wordCount": 857,
+          "title": "事务前沿研究丨确定性事务"
+        },
         {
           "id": "https://gocn.vip/topics/12350",
           "author": "cczsunnyman",
@@ -1917,15 +1926,6 @@
           "publishedOn": "2021-06-17T00:48:01.000Z",
           "wordCount": 248,
           "title": "写了 50 万行 Go 代码后，我明白这些道理"
-        },
-        {
-          "id": "https://gocn.vip/topics/12209",
-          "author": "qiusuo",
-          "description": "Go 开发工程师：迎接上升风口，踏入蓝海行业！\n适合零基础小白学习吗\n小同学，当你问出这句话的时候，就说明你已经不是小白了，你是个很有主见的 “大人” 了，要是你问零基础适合学习么？我肯定的告诉你：非常适合，而且要相信自己不是小白，而是小牛~祝你更进一步，加油~\n课程中的项目是真的企业级/商业级项目么？\n同学这个问题是我见过问得最有水平的问题了~ 确实网络上充斥了很多美其名曰 “企业级/商业项目”，然而当你咨询想要体验一下项目效果，这么最低的标准都达不到，也就是网络充斥很多打着 “企业级” 名号的耍流氓项目，他们连最低的企业级标准 -- 可部署可上线标准都达不到！ 那么，同学想一下这个问题：什么样的标准才能称之为 “企业级/商业级”?那么我认为有如下几点标准必须符合： 1、【最低标准】可部署可上线（课程两个分别打开微信，搜索 “租辆酷车”、“波哥电商” 体验项目）2、 真正的三端分离项目（两项目都符合，以微商城举例）3、 满足企业真实的开发场景（以共享出行项目为例）（1）先进的 google 设计理念 + 架构实践（2）符合当前最前卫的开发流程（3）“敏捷开发”、“领域驱动 DDD” 等的最佳实践 4、 符合企业标准架构演进：从三端分离到微服务化项目迭代（1）微电商项目（前端 + 后端 + 后台管理-->搜索微服务化）（2）共享出行项目（Typescript 前端 + 后端 +Vue3.0 后台管理-->云原生微服务）\n超清原画 完整无密 网盘下载\n点击下载：Go 开发工程师：迎接上升风口，踏入蓝海行业！",
-          "link": "https://gocn.vip/topics/12209",
-          "publishedOn": "2021-06-16T16:58:40.000Z",
-          "wordCount": 111,
-          "title": "Go 开发工程师：迎接上升风口，踏入蓝海行业！"
         }
       ]
     },
@@ -9551,42 +9551,6 @@
           "publishedOn": "2021-06-17T16:23:21.000Z",
           "wordCount": 580,
           "title": "磁盘数据恢复工具专业版 Disk Drill 4.3.584.0 x64 中文多语免费版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=4193",
-          "author": "大眼仔~旭",
-          "description": "显卡驱动卸载工具 Display Driver Uninstaller 中文版由大眼仔旭（www.dayanz […]",
-          "link": "http://www.dayanzai.me/display-driver-uninstaller.html",
-          "publishedOn": "2021-06-16T16:36:33.000Z",
-          "wordCount": 568,
-          "title": "显卡驱动卸载工具 Display Driver Uninstaller (DDU) 18.0.4.0 中文多语免费版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=4418",
-          "author": "大眼仔~旭",
-          "description": "PID Key Checker 中文版是一款开源免费的 Windows 产品序列号激活查询工具。我们生活在一个 […]",
-          "link": "http://www.dayanzai.me/pid-key-checker.html",
-          "publishedOn": "2021-06-16T16:18:20.000Z",
-          "wordCount": 531,
-          "title": "Windows 密钥激活次数查询工具 PID Key Checker 4.0.0.0 中文免费版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=37292",
-          "author": "大眼仔~旭",
-          "description": "如果您喜欢制作工艺品、制作珠宝或做其它手工制作，您可能希望与世界分享您的工作。跳蚤市场和精品店等经典销售渠道是 […]",
-          "link": "http://www.dayanzai.me/selling-crafts-online.html",
-          "publishedOn": "2021-06-16T16:18:12.000Z",
-          "wordCount": 522,
-          "title": "在线销售商品：用你的爱好赚钱"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=47960",
-          "author": "大眼仔~旭",
-          "description": ".NET 5.0 是一个免费的，跨平台的开源开发人员平台，用于构建许多不同类型的应用程序。大眼仔旭了解到 Mi […]",
-          "link": "http://www.dayanzai.me/net-5-0.html",
-          "publishedOn": "2021-06-16T16:15:53.000Z",
-          "wordCount": 754,
-          "title": "开源免费跨平台环境 .NET 5.0.7 正式版免费下载"
         }
       ]
     }
