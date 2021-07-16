@@ -1881,15 +1881,6 @@
           "publishedOn": "2021-06-17T14:46:49.000Z",
           "wordCount": 142,
           "title": "[北京][20-35k] 乐我无限招 Go 研发工程师（其他岗位也有）"
-        },
-        {
-          "id": "https://gocn.vip/topics/12212",
-          "author": "cuteLittleDevil",
-          "description": "GoCN 每日新闻 (2021-06-17)\n译文 Go 性能工具小抄 https://gocn.vip/topics/12198\n\n徒手用 Go 写个 Redis 服务器（Godis）https://www.cnblogs.com/xueweihan/p/14891859.html\n\nGo 所有设计模式的流程图与代码实现 https://dev.to/gopher/go-all-design-patterns-code-with-workflow-ea1\n\n详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？ https://eddycjy.com/posts/go/go-bootstrap0/\n\n一篇文章带你搞懂 etcd 3.5 的核心特性 https://mp.weixin.qq.com/s/AYdDdFfJMRvaye0Esh7ImQ\n\n\n\n\n\nGopherChina 倒计时 10 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n编辑: CDS \n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs\n\n\nGoCN 归档: https://gocn.vip/topics/12212",
-          "link": "https://gocn.vip/topics/12212",
-          "publishedOn": "2021-06-17T07:48:09.000Z",
-          "wordCount": 116,
-          "title": "GoCN 每日新闻 (2021-06-17)"
         }
       ]
     },

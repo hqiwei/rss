@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T19:07:38.254Z</updated>
+    <updated>2021-07-16T20:09:31.276Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -13240,43 +13240,6 @@ Cilium 使用了 EBPF 内核技术对传统数据链路进行了优化，绕过�
         <summary type="html"><![CDATA[来自问题求助频道 @lijlniyi 同学的一个问题：https://meta.appinn.net/t/topic/24080 我以前惯用火狐，随着火狐几次改版，功能越改越弱之后转移到 edge，收]]></summary>
         <author>
             <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-17)]]></title>
-        <id>https://gocn.vip/topics/12212</id>
-        <link href="https://gocn.vip/topics/12212"/>
-        <updated>2021-06-17T07:48:09.000Z</updated>
-        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-06-17)
-译文 Go 性能工具小抄 https://gocn.vip/topics/12198
-
-徒手用 Go 写个 Redis 服务器（Godis）https://www.cnblogs.com/xueweihan/p/14891859.html
-
-Go 所有设计模式的流程图与代码实现 https://dev.to/gopher/go-all-design-patterns-code-with-workflow-ea1
-
-详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？ https://eddycjy.com/posts/go/go-bootstrap0/
-
-一篇文章带你搞懂 etcd 3.5 的核心特性 https://mp.weixin.qq.com/s/AYdDdFfJMRvaye0Esh7ImQ
-
-
-
-
-
-GopherChina 倒计时 10 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ
-
-
-编辑: CDS 
-
-
-订阅新闻: http://tinyletter.com/gocn
-
-
-招聘专区: https://gocn.vip/jobs
-
-
-GoCN 归档: https://gocn.vip/topics/12212]]></summary>
-        <author>
-            <name>cuteLittleDevil</name>
         </author>
     </entry>
 </feed>
