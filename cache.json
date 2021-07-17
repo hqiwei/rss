@@ -4991,6 +4991,24 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/150861/jetbrains-devecosystem-2021",
+          "author": null,
+          "description": "JetBrains 的第五次年度开发者生态系统调查《The State of Developer Ecosystem 2021》结果已发布。该调查基于来自 183 个国家或地区的 31743 名开发者所进行；目的在于展示开发者社区的最新趋势，并帮助描绘科技行业的格局。 调查发现的一些关键要点有： JavaScript 是最流行的语言。在过去 12 个月中，有 69% 的受访者...",
+          "link": "https://www.oschina.net/news/150861/jetbrains-devecosystem-2021",
+          "publishedOn": "2021-07-17T01:01:53.000Z",
+          "wordCount": 654,
+          "title": "JetBrains 调查：JavaScript 最流行，Python 超越 Java"
+        },
+        {
+          "id": "https://www.oschina.net/news/150859/libre-soc-releases-first-non-ibm-openpower-chip-in-decade",
+          "author": null,
+          "description": "Libre-SOC 是一个由工程师和创意人士组成的团队，旨在提供一个完全开放的系统级芯片，近日该团队发布了基于 OpenPOWER 架构的测试 ASIC（专用集成电路），并已交予芯片制造商制造。 Libre-SOC 团队在 NLnet 基金会的资助下，并由 Chips4Makers 和 Sorbonne Université 的工程人员协助下达到了这一成就。参与该项目的合作...",
+          "link": "https://www.oschina.net/news/150859/libre-soc-releases-first-non-ibm-openpower-chip-in-decade",
+          "publishedOn": "2021-07-17T00:36:13.000Z",
+          "wordCount": 608,
+          "title": "Libre-SOC 发布十二年来首款非 IBM 的 OpenPOWER 芯片"
+        },
+        {
           "id": "https://www.oschina.net/news/150858/intel-globalfoundries-30-billion",
           "author": null,
           "description": "《华尔街日报》报道称，英特尔正在考虑以约 300 亿美元收购美国芯片制造巨头格芯（GlobalFoundries）。一旦交易达成，这将成为英特尔有史以来最大的一笔收购案，并将极大地推动英特尔提高芯片制造能力的计划。 格芯成立于 2009 年，由 AMD 拆分而来。目前公司总部位于美国加州硅谷桑尼维尔市，为阿布扎比政府投资机构 Mu...",
@@ -8390,6 +8408,15 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=40168",
+          "author": "大眼仔~旭",
+          "description": "该软件包提供了 Intel HD Graphics Driver 的安装文件。如果驱动程序已安装在系统上，则更 […]",
+          "link": "http://www.dayanzai.me/intel-graphics-driver.html",
+          "publishedOn": "2021-07-16T16:45:37.000Z",
+          "wordCount": 541,
+          "title": "Intel Graphics Driver for Windows 10 v30.0.100.9684 发布下载"
+        },
         {
           "id": "http://www.dayanzai.me/?p=996",
           "author": "大眼仔~旭",
