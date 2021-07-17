@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-17T15:10:04.475Z</updated>
+    <updated>2021-07-17T16:13:19.636Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 07 17]]></title>
+        <id>http://www.linuxeden.com/?p=87646</id>
+        <link href="http://www.linuxeden.com/a/87646"/>
+        <updated>2021-07-17T15:48:10.000Z</updated>
+        <summary type="html"><![CDATA[我的 7 大 Rust 关键字 DeepMind 公布 AlphaFold 源代码 神十二航天员已在轨一个月：三名航天员多姿多彩生活引网友点赞 Windows 11 能影响 Linux 发行版吗？ CKEditor 5 v29.0.0 发布 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的 7 大 Rust 关键字]]></title>
+        <id>http://www.linuxeden.com/?p=87642</id>
+        <link href="http://www.linuxeden.com/a/87642"/>
+        <updated>2021-07-17T15:39:31.000Z</updated>
+        <summary type="html"><![CDATA[从 Rust 标准库学习一些有用的关键字。 我使用 Rust 已经有几个月了，写的东西比我预期的要多——尽管随着我的学习，我改进了所写的代码，并完成了一些超出我最初意图的更复杂的任务，相当多的东西已经被扔掉了。 我仍然喜欢它，并认为谈论一些 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-07-17)]]></title>
+        <id>https://gocn.vip/topics/12355</id>
+        <link href="https://gocn.vip/topics/12355"/>
+        <updated>2021-07-17T15:35:15.000Z</updated>
+        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-07-17)
+Go1.17 新特性：新版构建约束 https://polarisxu.studygolang.com/posts/go/dynamic/go1.17-build-contraints
+
+分布式事务管理器 dtm https://gocn.vip/topics/12354
+
+听说过对 Go map 做 GC 吗？https://mp.weixin.qq.com/s/s65P0ikv8v-dgI0fXg3F7g
+
+使用 gin 封装一个 web 脚手架 (十一)：分布式锁补充 https://juejin.cn/post/6985442100712063013
+
+重新梳理调度器——GMP 调度模型 https://www.cnblogs.com/ms27946/p/golang-study-gmp-schedule.html
+
+
+
+
+编辑: cloudy
+订阅新闻: http://tinyletter.com/gocn
+
+招聘专区: https://gocn.vip/jobs]]></summary>
+        <author>
+            <name>cloudy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepMind 公布 AlphaFold 源代码]]></title>
+        <id>http://www.linuxeden.com/?p=87639</id>
+        <link href="http://www.linuxeden.com/a/87639"/>
+        <updated>2021-07-17T15:35:12.000Z</updated>
+        <summary type="html"><![CDATA[去年底，Google 子公司 DeepMind 宣布取得了一项重大突破——AI 能根据蛋白质的氨基酸序列判断其三维结构。这一突破有望大大加快新药的开发过程。科学家们花费了数十年时间试图弄清一个问题：最开始为链状的化合物的蛋白质，如何折叠成三 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神十二航天员已在轨一个月：三名航天员多姿多彩生活引网友点赞]]></title>
+        <id>http://www.linuxeden.com/?p=87636</id>
+        <link href="http://www.linuxeden.com/a/87636"/>
+        <updated>2021-07-17T15:25:07.000Z</updated>
+        <summary type="html"><![CDATA[截至今天（17日），神舟十二号出征整整一个月。太空“出差”一个月，三名航天员的状态如何？7月16日，总台央视记者到航天员中心进行了探访。 7月16日是三名航天员在轨工作的第30天，他们当天的工作的内容是要进行常规的医学检查，其中有一项重要的 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分布式事务管理器 dtm]]></title>
         <id>https://gocn.vip/topics/12354</id>
@@ -13102,93 +13169,6 @@ grpc 宿主支持 & grpc client 与 负载均衡 , 实例   https://github.com/y
         <summary type="html"><![CDATA[极客词典是一款微信小程序，它为大约 116 个容易读错的单词，提供了正确的发音，主要包含开发、设计、产品、媒体几大类，比如 App、Ctrl、Alt、Chrome、Python、YouTube、Ama]]></summary>
         <author>
             <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Casnode: 一款新的基于 React + Beego 的开源轻论坛程序]]></title>
-        <id>https://gocn.vip/topics/12215</id>
-        <link href="https://gocn.vip/topics/12215"/>
-        <updated>2021-06-18T04:07:43.000Z</updated>
-        <summary type="html"><![CDATA[Casnode 是一款开源轻论坛程序。前端采用 javascript 和 React,后端主要为 beego 和 xorm。所以 xorm 支持的数据库，我们都支持哦。
-
-论坛目前支持中文和英文，未来将会增加更多语言。
-论坛目前已经升级使用 beego 2
-论坛支持手机，邮箱，QQ，微信，github，Google 注册登录 ，支持图形验证码进行人机验证，防止盗刷短信
-论坛采用 casbin 社区 casdoor 进行身份验证登录
-论坛支持 pc 和移动端
-支持 xorm 所支持的所有数据库，如 MySQL，Oracle，MsSql，SQLite，Postgres
-支持多种置顶模式，全局置顶，类别置顶，节点置顶
-具有 swagger api 文档
-编辑器支持 markdown，富文本等。
-支持管理员后台
-支持与 Google Groups 双向同步
-贴子支持自定义标签或自动生成标签
-支持广告设置
-支持站内搜索
-支持服务端渲染，对搜索引擎 SEO 友好
-支持拖拽上传图片和附件，支持阿里云，腾讯云等多种 oss 存储
-更多详情各位可以亲自体验，后续我们还会不断添加新的功能，欢迎大家使用
-https://forum.casbin.com
-https://github.com/casbin/casnode]]></summary>
-        <author>
-            <name>killerwing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOS – 什么是磁盘操作系统？]]></title>
-        <id>http://www.dayanzai.me/?p=52688</id>
-        <link href="http://www.dayanzai.me/dos-operating-system.html"/>
-        <updated>2021-06-18T04:00:32.000Z</updated>
-        <summary type="html"><![CDATA[DOS 是第一个广泛使用的操作系统的基础。 磁盘操作系统使个人计算机能够使用软盘上的数据读取和数据存储。 计算 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cilium 首次集成国内云服务，阿里云 ENI 被纳入新版本特性]]></title>
-        <id>https://gocn.vip/topics/12214</id>
-        <link href="https://gocn.vip/topics/12214"/>
-        <updated>2021-06-18T03:27:07.000Z</updated>
-        <summary type="html"><![CDATA[作者：清弦
-阿里云技术专家，主要负责 ACK 容器网络设计与研发，阿里云开源 CNI 项目 Terway  主要维护者，Cilium Alibaba IPAM 负责人
-​
-背景
-​
-近期 Cilium 社区发布了 Cilium 1.10 正式版本，在这个版本中正式支持阿里云 ENI 模式，阿里云也是国内首家支持 Cilium 的云厂商。
-
-Cilium 是一个基于 eBPF 的高性能容器网络项目，提供网络、可观测性、安全三方面的解决方案。
-
-Cilium 本身支持 Overlay 网络模式部署在各种云平台或者自建的集群上，但是这种非云原生的网络模式会带来不小的性能损耗。阿里巴巴云原生容器服务团队向 Cilium 社区贡献了阿里云 ENI 模式，使得在阿里云上可以以云原生方式运行 Cilium 。
-​
-云原生容器服务团队贡献 PR
-https://github.com/cilium/cilium/pull/15160
-https://github.com/cilium/cilium/pull/15512
-​
-架构
-​
-AlibabaCloud Operator 是集群内的网络资源控制器，承担对网络资源（ENI、ENIIP）统一管理、分配工作。
-​
-
-Cilium agent 通过 list-watch 机制、CNI 请求对 Operator 分配的地址资源进行配置、管理。
-​
-这种架构将所有阿里云 OpenAPI  调用集中到 Operator 中，可以有效的进行 API 请求管理，避免大规模集群下 API 流控问题。
-​
-
-基于 Cilium 1.10 + 阿里云 ENI 的高性能云原生网络
-​
-Cilium 使用了 EBPF 内核技术对传统数据链路进行了优化，绕过了 Conntrack 模块，对容器场景下网络性能有了非常大的提高。在阿里云上使用 Cilium 1.10 +…]]></summary>
-        <author>
-            <name>alicloudnative</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在 CSS 中创建堆叠表单]]></title>
-        <id>http://www.dayanzai.me/?p=52681</id>
-        <link href="http://www.dayanzai.me/create-stacked-form-css.html"/>
-        <updated>2021-06-18T03:22:52.000Z</updated>
-        <summary type="html"><![CDATA[CSS 属于一类独特的语言，称为样式表语言。 它主要用于定义您的网页的演示文稿。 虽然 HTML 允许您指定页 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
         </author>
     </entry>
 </feed>

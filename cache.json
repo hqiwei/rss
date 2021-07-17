@@ -704,6 +704,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12355",
+          "author": "cloudy",
+          "description": "GoCN 每日新闻 (2021-07-17)\nGo1.17 新特性：新版构建约束 https://polarisxu.studygolang.com/posts/go/dynamic/go1.17-build-contraints\n\n分布式事务管理器 dtm https://gocn.vip/topics/12354\n\n听说过对 Go map 做 GC 吗？https://mp.weixin.qq.com/s/s65P0ikv8v-dgI0fXg3F7g\n\n使用 gin 封装一个 web 脚手架 (十一)：分布式锁补充 https://juejin.cn/post/6985442100712063013\n\n重新梳理调度器——GMP 调度模型 https://www.cnblogs.com/ms27946/p/golang-study-gmp-schedule.html\n\n\n\n\n编辑: cloudy\n订阅新闻: http://tinyletter.com/gocn\n\n招聘专区: https://gocn.vip/jobs",
+          "link": "https://gocn.vip/topics/12355",
+          "publishedOn": "2021-07-17T15:35:15.000Z",
+          "wordCount": 102,
+          "title": "GoCN 每日新闻 (2021-07-17)"
+        },
+        {
           "id": "https://gocn.vip/topics/12354",
           "author": "yedf",
           "description": "推荐理由\n落地微服务，必然会带了分布式事务的难题，此项目优雅的解决了该问题，是 golang 在分布式事务领域首个开源项目。支持多种语言，能够在多语言栈下渐进式迁移你的微服务。另外该项目提供了子事务屏障技术，极大的简化了业务接入。\n功能介绍\n支持多种事务模式：TCC、SAGA、XA、事务消息\n跨语言支持，已支持 golang、python、nodejs\n提供子事务屏障功能，优雅解决幂等、悬挂、空补偿等问题\n其他项目\n目前分布式事务开源项目不多，目前看到 Java 有 seata、servicecomb-pack、shardingsphere，其中 seata 的应用最为广泛。其他语言，如 go、python、php 等，暂未看到有其他开源解决方案。\n如果您需要在 java 之外的语言中，提供分布式事务的能力，那么 dtm 是您的最佳选择，他不仅支持了 go，还提供了其他语言客户端的接入，并且对比于 seata，接入难度大幅降低。\n文档\ndtm有大量技术文章，深入浅出的讲解分布式事务相关的技术要点:\n分布式事务最经典的七种解决方案\n用 Go 轻松完成一个分布式事务 TCC\n分布式事务实战--go 语言的 saga 事务\n分布式事务实战 -- 一个完整的 xa 例子\n子事务屏障技术 -- 一个函数搞定事务乱序\n使用指南\n安装\ngit clone github.com/yedf/dtm\ndtm 依赖于 mysql\n配置 mysql：\ncp conf.sample.yml conf.yml # 修改conf.yml\n启动并运行 saga 示例\ngo run app/main.go saga\n开始使用\n// 具体业务微服务地址\nconst qsBusi = \"http://localhost:8081/api/busi_saga\"\n  req := &gin.H{\"amount\": 30} // 微服务的载荷\n  // DtmServer为DTM服务的地址，是一个url\n  saga := dtmcli.NewSaga(\"http://localhost:8080/api/dtmsvr\").\n      // 添加一个TransOut的子事务，正向操作为url: qsBusi+\"/TransOut\"， 补偿操作为url: qsBusi+\"/TransOutCompensate\"\n      Add(qsBusi+\"/TransOut\", qsBusi+\"/TransOutCompensate\", req).\n      // 添加一个TransIn的子事务，正向操作为url: qsBusi+\"/TransOut\"， 补偿操作为url: qsBusi+\"/TransInCompensate\"\n      Add(qsBusi+\"/TransIn\", qsBusi+\"/TransInCompensate\", req)\n  // 提交saga事务，dtm会完成所有的子事务/回滚所有的子事务\nerr := saga.Submit()\n\n总结\ndtm作为分布式事务管理器，实现了多种分布式事务模式的支持以及多语言的支持，极大的简化了分布式事务的开发成本，是落地微服务的必备利器\n参考资料\nhttps://github.com/yedf/dtm",
@@ -1845,24 +1854,6 @@
           "publishedOn": "2021-06-18T04:32:34.000Z",
           "wordCount": 216,
           "title": "YoyoGo v1.7.2 发布, 支持 Nacos & Apollo 配置中心"
-        },
-        {
-          "id": "https://gocn.vip/topics/12215",
-          "author": "killerwing",
-          "description": "Casnode 是一款开源轻论坛程序。前端采用 javascript 和 React,后端主要为 beego 和 xorm。所以 xorm 支持的数据库，我们都支持哦。\n\n论坛目前支持中文和英文，未来将会增加更多语言。\n论坛目前已经升级使用 beego 2\n论坛支持手机，邮箱，QQ，微信，github，Google 注册登录 ，支持图形验证码进行人机验证，防止盗刷短信\n论坛采用 casbin 社区 casdoor 进行身份验证登录\n论坛支持 pc 和移动端\n支持 xorm 所支持的所有数据库，如 MySQL，Oracle，MsSql，SQLite，Postgres\n支持多种置顶模式，全局置顶，类别置顶，节点置顶\n具有 swagger api 文档\n编辑器支持 markdown，富文本等。\n支持管理员后台\n支持与 Google Groups 双向同步\n贴子支持自定义标签或自动生成标签\n支持广告设置\n支持站内搜索\n支持服务端渲染，对搜索引擎 SEO 友好\n支持拖拽上传图片和附件，支持阿里云，腾讯云等多种 oss 存储\n更多详情各位可以亲自体验，后续我们还会不断添加新的功能，欢迎大家使用\nhttps://forum.casbin.com\nhttps://github.com/casbin/casnode",
-          "link": "https://gocn.vip/topics/12215",
-          "publishedOn": "2021-06-18T04:07:43.000Z",
-          "wordCount": 140,
-          "title": "Casnode: 一款新的基于 React + Beego 的开源轻论坛程序"
-        },
-        {
-          "id": "https://gocn.vip/topics/12214",
-          "author": "alicloudnative",
-          "description": "作者：清弦\n阿里云技术专家，主要负责 ACK 容器网络设计与研发，阿里云开源 CNI 项目 Terway  主要维护者，Cilium Alibaba IPAM 负责人\n​\n背景\n​\n近期 Cilium 社区发布了 Cilium 1.10 正式版本，在这个版本中正式支持阿里云 ENI 模式，阿里云也是国内首家支持 Cilium 的云厂商。\n\nCilium 是一个基于 eBPF 的高性能容器网络项目，提供网络、可观测性、安全三方面的解决方案。\n\nCilium 本身支持 Overlay 网络模式部署在各种云平台或者自建的集群上，但是这种非云原生的网络模式会带来不小的性能损耗。阿里巴巴云原生容器服务团队向 Cilium 社区贡献了阿里云 ENI 模式，使得在阿里云上可以以云原生方式运行 Cilium 。\n​\n云原生容器服务团队贡献 PR\nhttps://github.com/cilium/cilium/pull/15160\nhttps://github.com/cilium/cilium/pull/15512\n​\n架构\n​\nAlibabaCloud Operator 是集群内的网络资源控制器，承担对网络资源（ENI、ENIIP）统一管理、分配工作。\n​\n\nCilium agent 通过 list-watch 机制、CNI 请求对 Operator 分配的地址资源进行配置、管理。\n​\n这种架构将所有阿里云 OpenAPI  调用集中到 Operator 中，可以有效的进行 API 请求管理，避免大规模集群下 API 流控问题。\n​\n\n基于 Cilium 1.10 + 阿里云 ENI 的高性能云原生网络\n​\nCilium 使用了 EBPF 内核技术对传统数据链路进行了优化，绕过了 Conntrack 模块，对容器场景下网络性能有了非常大的提高。在阿里云上使用 Cilium 1.10 +…",
-          "link": "https://gocn.vip/topics/12214",
-          "publishedOn": "2021-06-18T03:27:07.000Z",
-          "wordCount": 309,
-          "title": "Cilium 首次集成国内云服务，阿里云 ENI 被纳入新版本特性"
         }
       ]
     },
@@ -1871,6 +1862,42 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=87646",
+          "author": "Editor, Kai",
+          "description": "我的 7 大 Rust 关键字 DeepMind 公布 AlphaFold 源代码 神十二航天员已在轨一个月：三名航天员多姿多彩生活引网友点赞 Windows 11 能影响 Linux 发行版吗？ CKEditor 5 v29.0.0 发布 […]",
+          "link": "http://www.linuxeden.com/a/87646",
+          "publishedOn": "2021-07-17T15:48:10.000Z",
+          "wordCount": 121,
+          "title": "每日文章精选 2021 07 17"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87642",
+          "author": "Editor, Kai",
+          "description": "从 Rust 标准库学习一些有用的关键字。 我使用 Rust 已经有几个月了，写的东西比我预期的要多——尽管随着我的学习，我改进了所写的代码，并完成了一些超出我最初意图的更复杂的任务，相当多的东西已经被扔掉了。 我仍然喜欢它，并认为谈论一些 […]",
+          "link": "http://www.linuxeden.com/a/87642",
+          "publishedOn": "2021-07-17T15:39:31.000Z",
+          "wordCount": 213,
+          "title": "我的 7 大 Rust 关键字"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87639",
+          "author": "Editor, Kai",
+          "description": "去年底，Google 子公司 DeepMind 宣布取得了一项重大突破——AI 能根据蛋白质的氨基酸序列判断其三维结构。这一突破有望大大加快新药的开发过程。科学家们花费了数十年时间试图弄清一个问题：最开始为链状的化合物的蛋白质，如何折叠成三 […]",
+          "link": "http://www.linuxeden.com/a/87639",
+          "publishedOn": "2021-07-17T15:35:12.000Z",
+          "wordCount": 130,
+          "title": "DeepMind 公布 AlphaFold 源代码"
+        },
+        {
+          "id": "http://www.linuxeden.com/?p=87636",
+          "author": "Editor, Kai",
+          "description": "截至今天（17日），神舟十二号出征整整一个月。太空“出差”一个月，三名航天员的状态如何？7月16日，总台央视记者到航天员中心进行了探访。 7月16日是三名航天员在轨工作的第30天，他们当天的工作的内容是要进行常规的医学检查，其中有一项重要的 […]",
+          "link": "http://www.linuxeden.com/a/87636",
+          "publishedOn": "2021-07-17T15:25:07.000Z",
+          "wordCount": 82,
+          "title": "神十二航天员已在轨一个月：三名航天员多姿多彩生活引网友点赞"
+        },
         {
           "id": "http://www.linuxeden.com/?p=87633",
           "author": "Editor, Kai",
@@ -9362,24 +9389,6 @@
           "publishedOn": "2021-06-18T16:10:14.000Z",
           "wordCount": 565,
           "title": "开源免费BT/批量下载工具 DownZemAll! 2.4.2 + x64 中文多语免费版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=52688",
-          "author": "大眼仔~旭",
-          "description": "DOS 是第一个广泛使用的操作系统的基础。 磁盘操作系统使个人计算机能够使用软盘上的数据读取和数据存储。 计算 […]",
-          "link": "http://www.dayanzai.me/dos-operating-system.html",
-          "publishedOn": "2021-06-18T04:00:32.000Z",
-          "wordCount": 551,
-          "title": "DOS – 什么是磁盘操作系统？"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=52681",
-          "author": "大眼仔~旭",
-          "description": "CSS 属于一类独特的语言，称为样式表语言。 它主要用于定义您的网页的演示文稿。 虽然 HTML 允许您指定页 […]",
-          "link": "http://www.dayanzai.me/create-stacked-form-css.html",
-          "publishedOn": "2021-06-18T03:22:52.000Z",
-          "wordCount": 567,
-          "title": "如何在 CSS 中创建堆叠表单"
         }
       ]
     }
