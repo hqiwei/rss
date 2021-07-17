@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-17T03:10:10.330Z</updated>
+    <updated>2021-07-17T04:11:57.162Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[您可能还不知道区块链技术存在的 5 大问题]]></title>
+        <id>http://www.dayanzai.me/?p=53245</id>
+        <link href="http://www.dayanzai.me/blockchain-technology-issues.html"/>
+        <updated>2021-07-17T03:26:39.000Z</updated>
+        <summary type="html"><![CDATA[区块链的全球化似乎很有希望，但它不一定能解决我们所有的业务问题。 尽管比特币是一个家喻户晓的术语，并且区块链已 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JetBrains 调查：JavaScript 最流行，Python 超越 Java]]></title>
         <id>https://www.oschina.net/news/150861/jetbrains-devecosystem-2021</id>
@@ -112,6 +122,16 @@
         <link href="http://www.dayanzai.me/intel-graphics-driver.html"/>
         <updated>2021-07-16T16:45:37.000Z</updated>
         <summary type="html"><![CDATA[该软件包提供了 Intel HD Graphics Driver 的安装文件。如果驱动程序已安装在系统上，则更 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免费开源菠萝看图 Pineapple Picture 0.5.0 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=40776</id>
+        <link href="http://www.dayanzai.me/pineapple-picture.html"/>
+        <updated>2021-07-16T16:34:10.000Z</updated>
+        <summary type="html"><![CDATA[免费开源菠萝看图 Pineapple Picture 中文版由大眼仔旭（www.dayanzai.me）整理发 […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
         </author>
