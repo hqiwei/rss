@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-17T12:13:27.649Z</updated>
+    <updated>2021-07-17T13:13:58.264Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[分布式事务管理器 dtm]]></title>
+        <id>https://gocn.vip/topics/12354</id>
+        <link href="https://gocn.vip/topics/12354"/>
+        <updated>2021-07-17T12:29:01.000Z</updated>
+        <summary type="html"><![CDATA[推荐理由
+落地微服务，必然会带了分布式事务的难题，此项目优雅的解决了该问题，是 golang 在分布式事务领域首个开源项目。支持多种语言，能够在多语言栈下渐进式迁移你的微服务。另外该项目提供了子事务屏障技术，极大的简化了业务接入。
+功能介绍
+支持多种事务模式：TCC、SAGA、XA、事务消息
+跨语言支持，已支持 golang、python、nodejs
+提供子事务屏障功能，优雅解决幂等、悬挂、空补偿等问题
+其他项目
+目前分布式事务开源项目不多，目前看到 Java 有 seata、servicecomb-pack、shardingsphere，其中 seata 的应用最为广泛。其他语言，如 go、python、php 等，暂未看到有其他开源解决方案。
+如果您需要在 java 之外的语言中，提供分布式事务的能力，那么 dtm 是您的最佳选择，他不仅支持了 go，还提供了其他语言客户端的接入，并且对比于 seata，接入难度大幅降低。
+文档
+dtm有大量技术文章，深入浅出的讲解分布式事务相关的技术要点:
+分布式事务最经典的七种解决方案
+用 Go 轻松完成一个分布式事务 TCC
+分布式事务实战--go 语言的 saga 事务
+分布式事务实战 -- 一个完整的 xa 例子
+子事务屏障技术 -- 一个函数搞定事务乱序
+使用指南
+安装
+git clone github.com/yedf/dtm
+dtm 依赖于 mysql
+配置 mysql：
+cp conf.sample.yml conf.yml # 修改conf.yml
+启动并运行 saga 示例
+go run app/main.go saga
+开始使用
+// 具体业务微服务地址
+const qsBusi = "http://localhost:8081/api/busi_saga"
+  req := &gin.H{"amount": 30} // 微服务的载荷
+  // DtmServer为DTM服务的地址，是一个url
+  saga := dtmcli.NewSaga("http://localhost:8080/api/dtmsvr").
+      // 添加一个TransOut的子事务，正向操作为url: qsBusi+"/TransOut"， 补偿操作为url: qsBusi+"/TransOutCompensate"
+      Add(qsBusi+"/TransOut", qsBusi+"/TransOutCompensate", req).
+      // 添加一个TransIn的子事务，正向操作为url: qsBusi+"/TransOut"， 补偿操作为url: qsBusi+"/TransInCompensate"
+      Add(qsBusi+"/TransIn", qsBusi+"/TransInCompensate", req)
+  // 提交saga事务，dtm会完成所有的子事务/回滚所有的子事务
+err := saga.Submit()
+
+总结
+dtm作为分布式事务管理器，实现了多种分布式事务模式的支持以及多语言的支持，极大的简化了分布式事务的开发成本，是落地微服务的必备利器
+参考资料
+https://github.com/yedf/dtm]]></summary>
+        <author>
+            <name>yedf</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Road Trip MPG Lite – 纯粹的油耗记录应用[iPhone]]]></title>
         <id>https://www.appinn.com/?p=39315</id>
@@ -13139,116 +13189,6 @@ Cilium 使用了 EBPF 内核技术对传统数据链路进行了优化，绕过�
         <summary type="html"><![CDATA[CSS 属于一类独特的语言，称为样式表语言。 它主要用于定义您的网页的演示文稿。 虽然 HTML 允许您指定页 […]]]></summary>
         <author>
             <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一篇文章带你搞懂 etcd 3.5 的核心特性]]></title>
-        <id>https://www.oschina.net/news/146497</id>
-        <link href="https://www.oschina.net/news/146497"/>
-        <updated>2021-06-18T00:49:50.000Z</updated>
-        <summary type="html"><![CDATA[作者 唐聪，腾讯云资深工程师，极客时间专栏《etcd实战课》作者，etcd活跃贡献者，主要负责腾讯云大规模k8s/etcd平台、有状态服务容器化、在离线混部等产品研发设计工作。 etcd 3.5发布 美东时间2021年6月15号18点，继 etcd 3.4 版本发布近两年之后，etcd 社区官宣发布了3.5 稳定版本，其主要贡献者来自 Google、AWS、T...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 资助 Linux 项目，Linux 内核将首次出现 Rust 代码]]></title>
-        <id>https://www.oschina.net/news/146494/supporting-miguel-ojeda-rust-in-linux</id>
-        <link href="https://www.oschina.net/news/146494/supporting-miguel-ojeda-rust-in-linux"/>
-        <updated>2021-06-18T00:30:56.000Z</updated>
-        <summary type="html"><![CDATA[这家搜索引擎巨头正努力尝试在 Linux 内核中使用 Rust 代码，这是在几十年来只使用 C 语言后的一次重大技术转变。 Google 在周四表示，他们正在资助一个项目，通过用 Rust 编程语言编写操作系统的内核部分来提高 Linux 的安全性。如果该项目成功，这种变化将标志着一个开源软件项目的重大技术转变，这一举措可以加强互联...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS Monterey 移除了自带的 PHP]]></title>
-        <id>https://www.oschina.net/news/146493/php-has-been-removed-in-macos-monterey</id>
-        <link href="https://www.oschina.net/news/146493/php-has-been-removed-in-macos-monterey"/>
-        <updated>2021-06-18T00:29:13.000Z</updated>
-        <summary type="html"><![CDATA[近日，有用户在 Apple 开发者社区提问 macOS 12 似乎缺少了 PHP，负责开发者工具的工程师在回复称：“macOS Monterey 已移除 PHP。” 有人表示理解苹果的决定，因为系统自带的 PHP 版本几乎都是过时的版本，缺少有用的扩展。对于任何使用 PHP 的人来说，现在有更简单的方法可以同时安装和管理多个版本（brew、Docker 等）...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源美图 2021 06 18]]></title>
-        <id>http://www.linuxeden.com/?p=86590</id>
-        <link href="http://www.linuxeden.com/a/86590"/>
-        <updated>2021-06-18T00:27:11.000Z</updated>
-        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 06 18]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helix：高级 Linux 用户的终端文本编辑器]]></title>
-        <id>http://www.linuxeden.com/?p=86588</id>
-        <link href="http://www.linuxeden.com/a/86588"/>
-        <updated>2021-06-18T00:23:38.000Z</updated>
-        <summary type="html"><![CDATA[说到 基于终端的文本编辑器，通常 Vim、Emacs 和 Nano 受到了关注。 这并不意味着没有其他这样的文本编辑器。Vim 的现代增强版 Neovim，是许多这样的例子之一。 按照同样的思路，我想介绍另一个基于终端的文本编辑器，叫做 H […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vuex  4.0.2 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86586</id>
-        <link href="http://www.linuxeden.com/a/86586"/>
-        <updated>2021-06-18T00:22:39.000Z</updated>
-        <summary type="html"><![CDATA[Bug Fixes devtools: fix no getters displayed on root module + better getters inspector (#1986) (bc20295) build: cjs buil […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TensorFlow 2.4.2 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86584</id>
-        <link href="http://www.linuxeden.com/a/86584"/>
-        <updated>2021-06-18T00:21:09.000Z</updated>
-        <summary type="html"><![CDATA[This release introduces several vulnerability fixes: Fixes a heap buffer overflow in RaggedBinCount (CVE-2021-29512) Fix […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CloudLinux 开源 UChecker，用于检测 Linux 服务器漏洞的安全工具]]></title>
-        <id>https://www.oschina.net/news/146492/cloudlinux-open-source-uchecker</id>
-        <link href="https://www.oschina.net/news/146492/cloudlinux-open-source-uchecker"/>
-        <updated>2021-06-18T00:17:49.000Z</updated>
-        <summary type="html"><![CDATA[CloudLinux 近日宣布已开源 UChecker 安全工具来帮助提高 Linux 系统的安全性。 这个新的开源工具是 CloudLinux TuxCare 安全服务的一部分，该工具可以扫描 Linux 服务器上已经过时和被其他应用程序使用的漏洞库。UChecker 还会提供哪个应用程序正在被哪个漏洞库所利用，并提供相关的进程 ID 和进程名称，以及需要更新的...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CMake 3.20.4 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86580</id>
-        <link href="http://www.linuxeden.com/a/86580"/>
-        <updated>2021-06-18T00:16:33.000Z</updated>
-        <summary type="html"><![CDATA[We are pleased to announce that CMake 3.20.4 is now available for download. Please use the latest release from our downl […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 163 期）：你的城市有多少张病床？]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html"/>
-        <updated>2021-06-18T00:15:03.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stack Overflow 区块链调查：相信的多，应用的少]]></title>
-        <id>https://www.oschina.net/news/146491/stack-overflow-blockchain-survey</id>
-        <link href="https://www.oschina.net/news/146491/stack-overflow-blockchain-survey"/>
-        <updated>2021-06-18T00:14:04.000Z</updated>
-        <summary type="html"><![CDATA[Stack Overflow 方面表示，鉴于 Coinbase 的 IPO 以及围绕加密货币、NFT 和 DeFi 所发生的大量活动，其决定以区块链技术为中心进行第一次 Pulse 调查，以了解软件工程师对区块链的看法。调查覆盖了 693 名软件开发人员，进行时间为 2021 年 5 月 5 日至 5 月 17 日。 调查发现，61% 的受访者认为区块链改变了游戏规则，而...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
         </author>
     </entry>
 </feed>
