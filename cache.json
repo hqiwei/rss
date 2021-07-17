@@ -1827,24 +1827,6 @@
           "publishedOn": "2021-06-19T13:06:30.000Z",
           "wordCount": 112,
           "title": "GoCN 每日新闻 (2021-06-19)"
-        },
-        {
-          "id": "https://gocn.vip/topics/12218",
-          "author": "Orichalcum",
-          "description": "Golang 开发的一站式云原生 PaaS 平台 https://github.com/erda-project/erda\n\n深度剖析 Go 的 nil https://mp.weixin.qq.com/s/0WhlsrMk_-wBHsUldZ60sg\n\n浅入深解读 Go Zap 的高性能 https://mp.weixin.qq.com/s/zqYNu2uTJe1UXiWvm98dOw\n\n我要提高 Go 程序健壮性，Fuzzing 来了 https://mp.weixin.qq.com/s/zdsrmlwVR0bP1Q_Xg_VlpQ\n\nGo 问题实战：时钟源为什么会影响性能 https://mp.weixin.qq.com/s/-czIqAldLTM4rp63g6O-Og\n\n\n\n\n\nGopherChina 倒计时 9 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ\n\n\n编辑: Shann\n\n\n订阅新闻: http://tinyletter.com/gocn\n\n\n招聘专区: https://gocn.vip/jobs",
-          "link": "https://gocn.vip/topics/12218",
-          "publishedOn": "2021-06-18T06:56:39.000Z",
-          "wordCount": 110,
-          "title": "GoCN 每日新闻 (2021-06-18)"
-        },
-        {
-          "id": "https://gocn.vip/topics/12217",
-          "author": "jjzxcc",
-          "description": "## 公司\nCrypto.com\n## 福利待遇\n年假 20 天起，每满一年加一天，还有额外的周年假和生日假（相当于第 2 年开始就有 23 天带薪假）\n每年递增的年终奖\n公积金 8%\n周一周五在家办公，周二三四在 office 办公\n外企文化，扁平化管理，1075，双休，不加班\n水果零食饮料无限量供应\n## Ruby 开发负责人 (40k-60k)\n  ## Ruby 高级后端开发工程师 (25k-50k)\n## 职位描述：\n带领团队负责后端开发工作；\n负责后端团队的组建和持续建设；\n关注技术动向，研究新技术并攻关技术难题；\n负责核心或者重要项目的后端开发 ，保证项目程序的质量和进度。\n## 岗位要求:\n熟悉 Ruby，Ruby on Rails，有 Golang 经验更佳\n编写高效，优雅，可重用以及安全的代码\n熟悉 Postgresql，理解各种数据类型，索引构建及分析优化\n熟悉批量操作，增量操作及缓存等优化手段\n熟悉 Sidekiq，理解 retry 机制，idempotency 概念\n熟悉 RESTful 及 GraphQL\n熟悉 CI/CD 工具\n熟悉 Docker, Kubernates 容器技术\n理解 Zero downtime deploy\n有数字币交易所，钱包，支付系统研发经验优先\n有高并发，大型微服务项目经验优先\n有从 0 到 1 构建优化并演进项目经验优先\n参与高质量开源项目经验优先\n## Elixir 后端开发工程师 (25k-50k)\n  ## 职位描述\n与技术和产品团队合作，为我们的客户提供行业领先的功能；\n与其他非技术团队合作改进内部工具；\n负责后端团队的组建和持续建设；\n关注技术动向，研究新技术并攻关技术难题；\n## 岗位要求\n拥有 3 年以上后端开发经验；\n掌握 Elixir, Erlang, Clojure, Haskell 或 Lisp…",
-          "link": "https://gocn.vip/topics/12217",
-          "publishedOn": "2021-06-18T06:27:50.000Z",
-          "wordCount": 322,
-          "title": "[深圳内推][crypto.com][22+ 天年假、25k-60k][Golang、Ruby、Elixir、 Java 各种前后端职位]"
         }
       ]
     },
@@ -8274,15 +8256,6 @@
           "publishedOn": "2021-06-18T08:45:49.000Z",
           "wordCount": 597,
           "title": "DELTA 作为新的孵化项目加入 LF AI & Data"
-        },
-        {
-          "id": "https://www.oschina.net/news/146544/neo4j-raises-325-million",
-          "author": null,
-          "description": "图数据库公司 Neo4j 宣布，在由Eurazeo 牵头、GV（原 Google Ventures）参投的 F 轮风险投资中获得了 3.25 亿美元的融资。现有投资者 One Peak（自 2018年起成为投资者）、Creandum（自 2014 年起成为投资者）和 Greenbridge Partners（自 2016 年起成为投资者），以及新投资者 DTCP 和 Lightrock 也参与其中。 据称，这...",
-          "link": "https://www.oschina.net/news/146544/neo4j-raises-325-million",
-          "publishedOn": "2021-06-18T06:35:42.000Z",
-          "wordCount": 578,
-          "title": "Neo4j 融资 3.25 亿美元，数据库史上最大的一笔投资"
         }
       ]
     },
