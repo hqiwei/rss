@@ -1872,6 +1872,15 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=87633",
+          "author": "Editor, Kai",
+          "description": "Linuxeden开源社区-开源美图 2021 07 17",
+          "link": "http://www.linuxeden.com/a/87633",
+          "publishedOn": "2021-07-17T06:25:14.000Z",
+          "wordCount": 92,
+          "title": "开源美图 2021 07 17"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=87628",
           "author": "Editor, Kai",
           "description": "Windows 11 正在为全球的桌面用户制造新闻。它会影响 Linux 发行版走向桌面用户吗？ 微软的 Windows11 终于发布了。有些人将其与 macOS 进行比较，另一些人则比较其细枝末节发现与 GNOME 和 KDE 的相似之处 […]",
@@ -8408,6 +8417,15 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=53251",
+          "author": "大眼仔~旭",
+          "description": "LXGW WenKai/霞鹜文楷是一款基于 FONTWORKS 的 Klee One 的开源中文字体，不仅免费 […]",
+          "link": "http://www.dayanzai.me/lxgw-wenkai.html",
+          "publishedOn": "2021-07-17T06:55:01.000Z",
+          "wordCount": 608,
+          "title": "开源免费商用字体 LXGW WenKai/霞鹜文楷 1.001 免费下载"
+        },
         {
           "id": "http://www.dayanzai.me/?p=53245",
           "author": "大眼仔~旭",

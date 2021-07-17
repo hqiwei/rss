@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-17T06:11:10.999Z</updated>
+    <updated>2021-07-17T07:09:12.543Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开源免费商用字体 LXGW WenKai/霞鹜文楷 1.001 免费下载]]></title>
+        <id>http://www.dayanzai.me/?p=53251</id>
+        <link href="http://www.dayanzai.me/lxgw-wenkai.html"/>
+        <updated>2021-07-17T06:55:01.000Z</updated>
+        <summary type="html"><![CDATA[LXGW WenKai/霞鹜文楷是一款基于 FONTWORKS 的 Klee One 的开源中文字体，不仅免费 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 07 17]]></title>
+        <id>http://www.linuxeden.com/?p=87633</id>
+        <link href="http://www.linuxeden.com/a/87633"/>
+        <updated>2021-07-17T06:25:14.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 07 17]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 能影响 Linux 发行版吗？]]></title>
         <id>http://www.linuxeden.com/?p=87628</id>
