@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-17T11:07:33.169Z</updated>
+    <updated>2021-07-17T12:13:27.649Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Road Trip MPG Lite – 纯粹的油耗记录应用[iPhone]]]></title>
+        <id>https://www.appinn.com/?p=39315</id>
+        <link href="https://www.appinn.com/road-trip-mpg-lite/"/>
+        <updated>2021-07-17T11:17:33.000Z</updated>
+        <summary type="html"><![CDATA[Road Trip MPG Lite 是一款免费的 #只有一个功能 的应用，用来记录车辆油耗，简单易用，用于跟踪你的汽车里程、燃油经济性。@Appinn 油耗记录应用，绕不开小熊油耗，这里不谈小熊，只]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源免费商用字体 LXGW WenKai/霞鹜文楷 1.001 免费下载]]></title>
         <id>http://www.dayanzai.me/?p=53251</id>
@@ -13237,66 +13247,6 @@ Cilium 使用了 EBPF 内核技术对传统数据链路进行了优化，绕过�
         <link href="https://www.oschina.net/news/146491/stack-overflow-blockchain-survey"/>
         <updated>2021-06-18T00:14:04.000Z</updated>
         <summary type="html"><![CDATA[Stack Overflow 方面表示，鉴于 Coinbase 的 IPO 以及围绕加密货币、NFT 和 DeFi 所发生的大量活动，其决定以区块链技术为中心进行第一次 Pulse 调查，以了解软件工程师对区块链的看法。调查覆盖了 693 名软件开发人员，进行时间为 2021 年 5 月 5 日至 5 月 17 日。 调查发现，61% 的受访者认为区块链改变了游戏规则，而...]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 3.10.0b3 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86577</id>
-        <link href="http://www.linuxeden.com/a/86577"/>
-        <updated>2021-06-18T00:07:10.000Z</updated>
-        <summary type="html"><![CDATA[Summer is almost here (at least in half of the planet) and Python 3.10 is finishing baking in the oven. For those of you […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ClayGL —— 构建 Web3D 应用的 WebGL 图形库]]></title>
-        <id>https://www.oschina.net/p/claygl</id>
-        <link href="https://www.oschina.net/p/claygl"/>
-        <updated>2021-06-18T00:05:10.000Z</updated>
-        <summary type="html"><![CDATA[ClayGL 是一个 WebGL 图形库，用于构建可伸缩的 Web3D 应用程序。ClayGL 易于使用，可针对高质量图形进行配置。得益于模块化和 tree shaking，对于基本的 3D 应用程序，它可以缩小到 22k（压缩）。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitee 推荐 | 让任意设备接入HomeKit homekit-bridge]]></title>
-        <id>https://gitee.com/KNpTrue/homekit-bridge</id>
-        <link href="https://gitee.com/KNpTrue/homekit-bridge"/>
-        <updated>2021-06-18T00:05:02.000Z</updated>
-        <summary type="html"><![CDATA[一个专门为嵌入式设备设计的 HomeKit 网关，它允许你通过简单的配置将非 HomeKit 设备连接到 HomeKit。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust 1.53.0 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86575</id>
-        <link href="http://www.linuxeden.com/a/86575"/>
-        <updated>2021-06-18T00:01:27.000Z</updated>
-        <summary type="html"><![CDATA[The Rust team is happy to announce a new version of Rust, 1.53.0. Rust is a programming language that is empowering ever […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日一博 | 百度 C++ 工程师的那些极限优化（并发篇）]]></title>
-        <id>https://my.oschina.net/u/4939618/blog/5081068</id>
-        <link href="https://my.oschina.net/u/4939618/blog/5081068"/>
-        <updated>2021-06-18T00:00:26.000Z</updated>
-        <summary type="html"><![CDATA[导读：对于工程经验比较丰富的同学，并发应该也并不是陌生的概念了，但是每个人所理解的并发问题，却又往往并不统一，本文系统梳理了百度 C++ 工程师在进行并发优化时所作的工作。 全文 15706 字，预计阅读时间 24 分钟。]]></summary>
-        <author>
-            <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Studio 2022 Preview 1 发布，首个 64 位版本]]></title>
-        <id>https://www.oschina.net/news/146486/visual-studio-2022-released</id>
-        <link href="https://www.oschina.net/news/146486/visual-studio-2022-released"/>
-        <updated>2021-06-17T23:41:41.000Z</updated>
-        <summary type="html"><![CDATA[Visual Studio 2022 Preview 1 现已发布，这是第一个 64 位的 Visual Studio 版本。 下载地址：https://aka.ms/vs2022preview 根据介绍，此预览版的主要目标是测试和调整新的 64 位平台的可扩展性。有了新的 64 位平台，Visual Studio 现在将能够扩展利用所有的系统资源，以提高 Visual Studio 的可靠性，特别是在处理复...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
         </author>

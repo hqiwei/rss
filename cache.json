@@ -4615,24 +4615,6 @@
           "publishedOn": "2021-06-18T00:16:33.000Z",
           "wordCount": null,
           "title": "CMake 3.20.4 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86577",
-          "author": "Editor, Kai",
-          "description": "Summer is almost here (at least in half of the planet) and Python 3.10 is finishing baking in the oven. For those of you […]",
-          "link": "http://www.linuxeden.com/a/86577",
-          "publishedOn": "2021-06-18T00:07:10.000Z",
-          "wordCount": 131,
-          "title": "Python 3.10.0b3 发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86575",
-          "author": "Editor, Kai",
-          "description": "The Rust team is happy to announce a new version of Rust, 1.53.0. Rust is a programming language that is empowering ever […]",
-          "link": "http://www.linuxeden.com/a/86575",
-          "publishedOn": "2021-06-18T00:01:27.000Z",
-          "wordCount": 749,
-          "title": "Rust 1.53.0 发布"
         }
       ]
     },
@@ -4641,6 +4623,15 @@
       "feedUrl": "http://feed.appinn.com",
       "siteUrl": "https://www.appinn.com",
       "articles": [
+        {
+          "id": "https://www.appinn.com/?p=39315",
+          "author": "青小蛙",
+          "description": "Road Trip MPG Lite 是一款免费的 #只有一个功能 的应用，用来记录车辆油耗，简单易用，用于跟踪你的汽车里程、燃油经济性。@Appinn 油耗记录应用，绕不开小熊油耗，这里不谈小熊，只",
+          "link": "https://www.appinn.com/road-trip-mpg-lite/",
+          "publishedOn": "2021-07-17T11:17:33.000Z",
+          "wordCount": 1168,
+          "title": "Road Trip MPG Lite – 纯粹的油耗记录应用[iPhone]"
+        },
         {
           "id": "https://www.appinn.com/?p=39307",
           "author": "青小蛙",
@@ -8373,42 +8364,6 @@
           "publishedOn": "2021-06-18T00:14:04.000Z",
           "wordCount": 539,
           "title": "Stack Overflow 区块链调查：相信的多，应用的少"
-        },
-        {
-          "id": "https://www.oschina.net/p/claygl",
-          "author": null,
-          "description": "ClayGL 是一个 WebGL 图形库，用于构建可伸缩的 Web3D 应用程序。ClayGL 易于使用，可针对高质量图形进行配置。得益于模块化和 tree shaking，对于基本的 3D 应用程序，它可以缩小到 22k（压缩）。",
-          "link": "https://www.oschina.net/p/claygl",
-          "publishedOn": "2021-06-18T00:05:10.000Z",
-          "wordCount": 342,
-          "title": "ClayGL —— 构建 Web3D 应用的 WebGL 图形库"
-        },
-        {
-          "id": "https://gitee.com/KNpTrue/homekit-bridge",
-          "author": null,
-          "description": "一个专门为嵌入式设备设计的 HomeKit 网关，它允许你通过简单的配置将非 HomeKit 设备连接到 HomeKit。",
-          "link": "https://gitee.com/KNpTrue/homekit-bridge",
-          "publishedOn": "2021-06-18T00:05:02.000Z",
-          "wordCount": 731,
-          "title": "Gitee 推荐 | 让任意设备接入HomeKit homekit-bridge"
-        },
-        {
-          "id": "https://my.oschina.net/u/4939618/blog/5081068",
-          "author": null,
-          "description": "导读：对于工程经验比较丰富的同学，并发应该也并不是陌生的概念了，但是每个人所理解的并发问题，却又往往并不统一，本文系统梳理了百度 C++ 工程师在进行并发优化时所作的工作。 全文 15706 字，预计阅读时间 24 分钟。",
-          "link": "https://my.oschina.net/u/4939618/blog/5081068",
-          "publishedOn": "2021-06-18T00:00:26.000Z",
-          "wordCount": 721,
-          "title": "每日一博 | 百度 C++ 工程师的那些极限优化（并发篇）"
-        },
-        {
-          "id": "https://www.oschina.net/news/146486/visual-studio-2022-released",
-          "author": null,
-          "description": "Visual Studio 2022 Preview 1 现已发布，这是第一个 64 位的 Visual Studio 版本。 下载地址：https://aka.ms/vs2022preview 根据介绍，此预览版的主要目标是测试和调整新的 64 位平台的可扩展性。有了新的 64 位平台，Visual Studio 现在将能够扩展利用所有的系统资源，以提高 Visual Studio 的可靠性，特别是在处理复...",
-          "link": "https://www.oschina.net/news/146486/visual-studio-2022-released",
-          "publishedOn": "2021-06-17T23:41:41.000Z",
-          "wordCount": 575,
-          "title": "Visual Studio 2022 Preview 1 发布，首个 64 位版本"
         }
       ]
     },
