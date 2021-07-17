@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-17T05:07:50.137Z</updated>
+    <updated>2021-07-17T06:11:10.999Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 能影响 Linux 发行版吗？]]></title>
+        <id>http://www.linuxeden.com/?p=87628</id>
+        <link href="http://www.linuxeden.com/a/87628"/>
+        <updated>2021-07-17T06:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11 正在为全球的桌面用户制造新闻。它会影响 Linux 发行版走向桌面用户吗？ 微软的 Windows11 终于发布了。有些人将其与 macOS 进行比较，另一些人则比较其细枝末节发现与 GNOME 和 KDE 的相似之处 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Data 2021.0.3 and 2020.0.11 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87626</id>
+        <link href="http://www.linuxeden.com/a/87626"/>
+        <updated>2021-07-17T05:40:19.000Z</updated>
+        <summary type="html"><![CDATA[On behalf of the team, I’m pleased to announce the availability of the Spring Data2021.0.2 and 2020.0.10 service release […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netty 4.1.66.Final 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87624</id>
+        <link href="http://www.linuxeden.com/a/87624"/>
+        <updated>2021-07-17T05:38:32.000Z</updated>
+        <summary type="html"><![CDATA[We are happy to announce the release of netty 4.1.66.Final after almost 2 months of work. The most important changes are […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CKEditor 5 v29.0.0 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87622</id>
+        <link href="http://www.linuxeden.com/a/87622"/>
+        <updated>2021-07-17T05:34:06.000Z</updated>
+        <summary type="html"><![CDATA[The totally revamped image feature, supporting block and inline images, will bring more colors and fun into your rich co […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apache Asterixdb 0.9.7发布]]></title>
         <id>http://www.linuxeden.com/?p=87617</id>
