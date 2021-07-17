@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T23:09:07.809Z</updated>
+    <updated>2021-07-17T00:31:22.410Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[传英特尔拟以约 300 亿美元收购格芯]]></title>
+        <id>https://www.oschina.net/news/150858/intel-globalfoundries-30-billion</id>
+        <link href="https://www.oschina.net/news/150858/intel-globalfoundries-30-billion"/>
+        <updated>2021-07-17T00:20:05.000Z</updated>
+        <summary type="html"><![CDATA[《华尔街日报》报道称，英特尔正在考虑以约 300 亿美元收购美国芯片制造巨头格芯（GlobalFoundries）。一旦交易达成，这将成为英特尔有史以来最大的一笔收购案，并将极大地推动英特尔提高芯片制造能力的计划。 格芯成立于 2009 年，由 AMD 拆分而来。目前公司总部位于美国加州硅谷桑尼维尔市，为阿布扎比政府投资机构 Mu...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GOTC 全球开源技术峰会“开源云原生计算时代论坛”精彩回顾]]></title>
+        <id>https://www.oschina.net/news/150857</id>
+        <link href="https://www.oschina.net/news/150857"/>
+        <updated>2021-07-17T00:09:53.000Z</updated>
+        <summary type="html"><![CDATA[7 月 10 日，「GOTC 全球开源技术峰会“开源云原生计算时代论坛”」在上海世博中心召开。「GOTC 全球开源技术峰」是会由开放原子开源基金会与 Linux 基金会联合开源中国共同举办的开源盛会，包含多个主题分论坛，其中“开源云原生计算时代论坛”出品方为 CNCF 云原生计算基金会。 “中国是云原生成长的关键力量。”CNCF ...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[onefetch —— 终端上展示 Git 项目摘要]]></title>
+        <id>https://www.oschina.net/p/onefetch</id>
+        <link href="https://www.oschina.net/p/onefetch"/>
+        <updated>2021-07-17T00:08:46.000Z</updated>
+        <summary type="html"><![CDATA[onefetch 是一个命令行工具，可直接在终端上显示有关 Git 项目的信息。它支持近 50 种不同的编程语言。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitee 推荐 | 在鸿蒙设备上使用 Python 编程 Python for HOS]]></title>
+        <id>https://gitee.com/delphi-tang/python-for-hos</id>
+        <link href="https://gitee.com/delphi-tang/python-for-hos"/>
+        <updated>2021-07-17T00:05:50.000Z</updated>
+        <summary type="html"><![CDATA[这个仓库是为了能够在鸿蒙设备上使用 Python 进行应用程序开发而创建。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 理解断路器 CircuitBreaker 的原理与实现]]></title>
+        <id>https://my.oschina.net/throwable/blog/4690091</id>
+        <link href="https://my.oschina.net/throwable/blog/4690091"/>
+        <updated>2021-07-17T00:03:21.000Z</updated>
+        <summary type="html"><![CDATA[笔者之前在查找Sentinel相关资料的时候，偶然中找到了Martin Fowler大神的一篇文章《CircuitBreaker》。于是花了点时间仔细阅读，顺便温习一下断路器CircuitBreaker的原理与实现。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sublime Text 4 Build 4113 发布]]></title>
+        <id>https://www.oschina.net/news/150848/sublime-text-4-build-4113-released</id>
+        <link href="https://www.oschina.net/news/150848/sublime-text-4-build-4113-released"/>
+        <updated>2021-07-16T23:34:49.000Z</updated>
+        <summary type="html"><![CDATA[Sublime Text 4 Build 4113 正式发布，更新内容如下： 改进了编辑大文件时的性能； 改进了 OpenGL 的渲染性能； 改进了对已删除文件的处理； 各种语法高亮的改进； subl 现在可以用来编辑 stdin，例如：echo test | subl | cat； 在编辑 stdin 时，现在可以进行语法和缩进检测； 增加了 syntax_detection_size_limit 设置...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET 6 Preview 6 发布]]></title>
+        <id>https://www.oschina.net/news/150847/net-6-preview-6-released</id>
+        <link href="https://www.oschina.net/news/150847/net-6-preview-6-released"/>
+        <updated>2021-07-16T23:34:45.000Z</updated>
+        <summary type="html"><![CDATA[.NET 6 Preview 6 现已发布，此版本是进入 RC 时期之前的倒数第二个预览版，RC 版本将会有两个 。官方表示，Preview 6 本身相对较小，Preview 7 将会更大。在那之后，团队将进行质量修复，直至 11 月的最终版本发布。 x64 仿真更新 开发团队已经完成了对 macOS 的 Apple Silicon 和 Windows 的 Arm64 的支持。剩下的就是...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Style Your React App – 5 Ways to Write CSS in 2021]]></title>
         <id>60eef23666c61b07d458d43c</id>
@@ -13220,16 +13290,6 @@ Cilium 使用了 EBPF 内核技术对传统数据链路进行了优化，绕过�
         <summary type="html"><![CDATA[apache-dubbo-3.0.0-src.zip        2021-06-16 08:06  4.5M apache-dubbo-3.0.0-src.zip.asc    2021-06-16 08:06  833 apache- […]]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure AI Fundamentals Certification (AI-900) – Pass the Exam With This Free 4 Hour Course]]></title>
-        <id>60c2aa56d3126007592d6226</id>
-        <link href="https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/"/>
-        <updated>2021-06-17T12:02:47.000Z</updated>
-        <summary type="html"><![CDATA[What is the Azure AI Fundamentals Certification?The Azure AI Fundamentals Certification is for those seeking a Machine Learning role such as AI Engineer or Data Scientist. In the last decade companies have been collecting vast amount of data surrounding their service and product offerings. The successful companies of the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
