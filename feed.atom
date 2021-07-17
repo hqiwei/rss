@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-17T04:11:57.162Z</updated>
+    <updated>2021-07-17T05:07:50.137Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apache Asterixdb 0.9.7发布]]></title>
+        <id>http://www.linuxeden.com/?p=87617</id>
+        <link href="http://www.linuxeden.com/a/87617"/>
+        <updated>2021-07-17T04:49:56.000Z</updated>
+        <summary type="html"><![CDATA[apache-asterixdb-0.9.7-source-release.zip 2021-07-16 20:53 82M apache-asterixdb-0.9.7-source-release.zip.asc 2021-07-16  […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[您可能还不知道区块链技术存在的 5 大问题]]></title>
         <id>http://www.dayanzai.me/?p=53245</id>
@@ -13229,56 +13239,6 @@ Cilium 使用了 EBPF 内核技术对传统数据链路进行了优化，绕过�
         <summary type="html"><![CDATA[Visual Studio 2022 Preview 1 现已发布，这是第一个 64 位的 Visual Studio 版本。 下载地址：https://aka.ms/vs2022preview 根据介绍，此预览版的主要目标是测试和调整新的 64 位平台的可扩展性。有了新的 64 位平台，Visual Studio 现在将能够扩展利用所有的系统资源，以提高 Visual Studio 的可靠性，特别是在处理复...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOS 命令：概述以及常用命令解释]]></title>
-        <id>http://www.dayanzai.me/?p=1533</id>
-        <link href="http://www.dayanzai.me/dos-commands-overview.html"/>
-        <updated>2021-06-17T16:36:32.000Z</updated>
-        <summary type="html"><![CDATA[图形用户界面，也称为 GUI，已经改变了人们与计算机交互的方式，使其对私人用户具有吸引力。 如今，计算机上的大 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[统计和数据分析软件包 Minitab 20.3.0.0 x64 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=41447</id>
-        <link href="http://www.dayanzai.me/minitab.html"/>
-        <updated>2021-06-17T16:36:02.000Z</updated>
-        <summary type="html"><![CDATA[统计和数据分析软件包 Minitab 20 中文版由大眼仔旭（www.dayanzai.me）发布。Minit […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D 设计建模渲染工具 Autodesk 3ds Max 2022.1 x64 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=40407</id>
-        <link href="http://www.dayanzai.me/3ds-max-2022.html"/>
-        <updated>2021-06-17T16:34:04.000Z</updated>
-        <summary type="html"><![CDATA[又到了一年一度 Autodesk 产品发布的时间了，Autodesk 3ds Max 2022 也正式发布推出 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老牌优秀文档解压缩工具 WinRAR 6.02 + x64 官方中文免费版]]></title>
-        <id>http://www.dayanzai.me/?p=2096</id>
-        <link href="http://www.dayanzai.me/winrar.html"/>
-        <updated>2021-06-17T16:23:49.000Z</updated>
-        <summary type="html"><![CDATA[WinRAR 6.00 中文版由大眼仔旭（www.dayanzai.me）整理发布。 WinRAR 6.0 中 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[磁盘数据恢复工具专业版 Disk Drill 4.3.584.0 x64 中文多语免费版]]></title>
-        <id>http://www.dayanzai.me/?p=43411</id>
-        <link href="http://www.dayanzai.me/disk-drill.html"/>
-        <updated>2021-06-17T16:23:21.000Z</updated>
-        <summary type="html"><![CDATA[磁盘数据恢复工具专业版 Disk Drill Professional 中文版由大眼仔旭（www.dayanz […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
         </author>
     </entry>
 </feed>

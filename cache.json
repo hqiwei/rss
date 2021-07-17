@@ -1872,6 +1872,15 @@
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
         {
+          "id": "http://www.linuxeden.com/?p=87617",
+          "author": "Editor, Kai",
+          "description": "apache-asterixdb-0.9.7-source-release.zip 2021-07-16 20:53 82M apache-asterixdb-0.9.7-source-release.zip.asc 2021-07-16  […]",
+          "link": "http://www.linuxeden.com/a/87617",
+          "publishedOn": "2021-07-17T04:49:56.000Z",
+          "wordCount": 109,
+          "title": "Apache Asterixdb 0.9.7发布"
+        },
+        {
           "id": "http://www.linuxeden.com/?p=87615",
           "author": "Editor, Kai",
           "description": "如何在 CentOS、RHEL、Rocky Linux 最小化安装中设置互联网 Valve 宣布 Linux 掌机 Steam Deck Linux 5.15将支持苹果Magic Mouse的高精细度滚动操作 微软推出 Cloud PC 吸 […]",
@@ -9452,51 +9461,6 @@
           "publishedOn": "2021-06-18T03:22:52.000Z",
           "wordCount": 567,
           "title": "如何在 CSS 中创建堆叠表单"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=1533",
-          "author": "大眼仔~旭",
-          "description": "图形用户界面，也称为 GUI，已经改变了人们与计算机交互的方式，使其对私人用户具有吸引力。 如今，计算机上的大 […]",
-          "link": "http://www.dayanzai.me/dos-commands-overview.html",
-          "publishedOn": "2021-06-17T16:36:32.000Z",
-          "wordCount": 835,
-          "title": "DOS 命令：概述以及常用命令解释"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=41447",
-          "author": "大眼仔~旭",
-          "description": "统计和数据分析软件包 Minitab 20 中文版由大眼仔旭（www.dayanzai.me）发布。Minit […]",
-          "link": "http://www.dayanzai.me/minitab.html",
-          "publishedOn": "2021-06-17T16:36:02.000Z",
-          "wordCount": 718,
-          "title": "统计和数据分析软件包 Minitab 20.3.0.0 x64 中文多语免费版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=40407",
-          "author": "大眼仔~旭",
-          "description": "又到了一年一度 Autodesk 产品发布的时间了，Autodesk 3ds Max 2022 也正式发布推出 […]",
-          "link": "http://www.dayanzai.me/3ds-max-2022.html",
-          "publishedOn": "2021-06-17T16:34:04.000Z",
-          "wordCount": 571,
-          "title": "3D 设计建模渲染工具 Autodesk 3ds Max 2022.1 x64 中文多语免费版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=2096",
-          "author": "大眼仔~旭",
-          "description": "WinRAR 6.00 中文版由大眼仔旭（www.dayanzai.me）整理发布。 WinRAR 6.0 中 […]",
-          "link": "http://www.dayanzai.me/winrar.html",
-          "publishedOn": "2021-06-17T16:23:49.000Z",
-          "wordCount": 781,
-          "title": "老牌优秀文档解压缩工具 WinRAR 6.02 + x64 官方中文免费版"
-        },
-        {
-          "id": "http://www.dayanzai.me/?p=43411",
-          "author": "大眼仔~旭",
-          "description": "磁盘数据恢复工具专业版 Disk Drill Professional 中文版由大眼仔旭（www.dayanz […]",
-          "link": "http://www.dayanzai.me/disk-drill.html",
-          "publishedOn": "2021-06-17T16:23:21.000Z",
-          "wordCount": 580,
-          "title": "磁盘数据恢复工具专业版 Disk Drill 4.3.584.0 x64 中文多语免费版"
         }
       ]
     }
