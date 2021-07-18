@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T01:53:49.255Z</updated>
+    <updated>2021-07-18T02:21:38.795Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -13119,16 +13119,6 @@ GopherChina 倒计时 8 天 Gopher China 大会志愿者招募启动 https://mp.
         <summary type="html"><![CDATA[自 OS X 10.0.0 版本开始，PHP 就内置在系统中。在默认的 web 服务器中启用 PHP， 只需将 Apache 配置文件 httpd.conf 中的几行配置指令最前面的注释符号去掉，而 CGI 或 CLI 默认都 […]]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Sorting Algorithms]]></title>
-        <id>60cca3294dc1a607ed7b4c76</id>
-        <link href="https://www.freecodecamp.org/news/understanding-sorting-algorithms/"/>
-        <updated>2021-06-18T13:56:04.000Z</updated>
-        <summary type="html"><![CDATA[Every programming language uses sorting algorithms. While programming languages have easy-to-use sorting methods, it can be helpful to understand how they work. We just released a course on the freeCodeCamp.org YouTube channel that will teach you some of the most popular sorting algorithms! Haris Iftikhar developed this course. Haris]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
