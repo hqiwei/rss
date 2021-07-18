@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T15:10:10.320Z</updated>
+    <updated>2021-07-18T17:14:50.959Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 07 18]]></title>
+        <id>http://www.linuxeden.com/?p=87701</id>
+        <link href="http://www.linuxeden.com/a/87701"/>
+        <updated>2021-07-18T15:12:36.000Z</updated>
+        <summary type="html"><![CDATA[用于 Web 前端开发的 9 个 JavaScript 开源框架 在 Linux 上用密码加密和解密文件 Box64 模拟器发布 Arm64 Linux 版本 Linus Torvalds呼吁Paragon尽快提交NTFS读写驱动到内核 我 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于 Web 前端开发的 9 个 JavaScript 开源框架]]></title>
         <id>http://www.linuxeden.com/?p=87677</id>
