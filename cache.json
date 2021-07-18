@@ -4525,33 +4525,6 @@
           "publishedOn": "2021-06-19T14:31:21.000Z",
           "wordCount": 108,
           "title": "Linux Mint 20.2测试版ISO现在可以下载"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86624",
-          "author": "Editor, Kai",
-          "description": "Linuxeden开源社区-开源美图 2021 06 19",
-          "link": "http://www.linuxeden.com/a/86624",
-          "publishedOn": "2021-06-19T00:26:08.000Z",
-          "wordCount": 91,
-          "title": "开源美图 2021 06 19"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86619",
-          "author": "Editor, Kai",
-          "description": "国产的全功能 Linux 平板电脑 JingPad A1 众筹成功 对于动手能力强的个人用户来说，确实可以尝试在手机或平板电脑上安装“适当的” Linux 发行版。但当前正在 Indiegogo 上众筹的 JingPad Linux 平板， […]",
-          "link": "http://www.linuxeden.com/a/86619",
-          "publishedOn": "2021-06-19T00:21:47.000Z",
-          "wordCount": 198,
-          "title": "硬核观察 #306 国产的全功能 Linux 平板电脑 JingPad A1 众筹成功"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86617",
-          "author": "Editor, Kai",
-          "description": "We have released Qt 5.15.5 LTS for commercial license holders today. As a patch release, Qt 5.15.5 does not add any new  […]",
-          "link": "http://www.linuxeden.com/a/86617",
-          "publishedOn": "2021-06-19T00:17:14.000Z",
-          "wordCount": 354,
-          "title": "Qt 5.15.5 商业LTS版发布"
         }
       ]
     },
@@ -8220,33 +8193,6 @@
           "publishedOn": "2021-06-19T02:02:26.000Z",
           "wordCount": 548,
           "title": "中国空间站操作界面曝光，“天地交互”亮了"
-        },
-        {
-          "id": "https://www.oschina.net/news/146646",
-          "author": null,
-          "description": "作为全球首个被CNCF纳入托管的开源CNI网络项目，Kube-OVN已经成为K8s生态中功能最完备、对传统基础设施兼容性最佳的开源网络组件。 开源至今两年的时间里，Kube-OVN已完成29次发版，在Github上收获近900 star，有来自灵雀云、中国电信、Intel、华为、浪潮等诸多公司的数十位贡献者参与代码编写，同时积累了70+企业用户，...",
-          "link": "https://www.oschina.net/news/146646",
-          "publishedOn": "2021-06-19T00:34:55.000Z",
-          "wordCount": 575,
-          "title": "Kube-OVN 社区规划 Roadmap 2021-2022 | What’s the next?"
-        },
-        {
-          "id": "https://www.oschina.net/news/146645/end-of-life-date-for-ubuntu-2010-groovy-gorilla",
-          "author": null,
-          "description": "Canonical 近日宣布，Ubuntu 20.10 Groovy Gorilla 将于 2021 年 7 月 22 日失去支持。由于该版本是介于长期支持（LTS）版本之间的一个版本，因此它只有九个月的支持期。 为了协助用户升级系统，Canonical 还发布了一份指南，其中包含了升级至新版本系统时需要知道和操作的所有事项。如果你目前不确定正在使用哪个版本的...",
-          "link": "https://www.oschina.net/news/146645/end-of-life-date-for-ubuntu-2010-groovy-gorilla",
-          "publishedOn": "2021-06-19T00:30:40.000Z",
-          "wordCount": 546,
-          "title": "Ubuntu 20.10 Groovy Gorilla 将于 7 月结束支持"
-        },
-        {
-          "id": "https://www.oschina.net/news/146644/eclipse-ide-working-group",
-          "author": null,
-          "description": "Eclipse 基金会宣布成立一个 Eclipse IDE 工作组，致力于确保“Eclipse IDE 产品套件、相关技术和生态系统的持续发展、采用和可持续性”。工作组还将为支持 Eclipse IDE 产品交付和维护的社区提供治理、指导和资金支持。 官方表示，该治理结构由 Bosch、EclipseSource、IBM、Kichwa Coders、Renesas、SAP、VMware 和 Ya...",
-          "link": "https://www.oschina.net/news/146644/eclipse-ide-working-group",
-          "publishedOn": "2021-06-19T00:21:07.000Z",
-          "wordCount": 569,
-          "title": "Eclipse IDE 工作组成立"
         }
       ]
     },
