@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T06:11:29.966Z</updated>
+    <updated>2021-07-18T09:09:38.016Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-07-18)]]></title>
+        <id>https://gocn.vip/topics/12356</id>
+        <link href="https://gocn.vip/topics/12356"/>
+        <updated>2021-07-18T07:12:16.000Z</updated>
+        <summary type="html"><![CDATA[[译] 更新 Go 内存模型 https://colobu.com/2021/07/13/Updating-the-Go-Memory-Model/
+
+Go 实现的网状 VPN https://www.samlewis.me/2021/07/creating-mesh-vpn-tool-for-fun/
+
+Cobra + Client-go 实现 K8s 自定义插件开发 https://juejin.cn/post/6983324056502140964
+
+谷歌云 serverless 跑 gRPC 和 gRPC Web Serverless 服务  https://blog.gendocu.com/posts/grpc-on-google-cloud/
+
+Go sync 包如何控制并发？ https://juejin.cn/post/6986067019334418468
+
+
+
+编辑: samurai
+订阅新闻: http://tinyletter.com/gocn
+招聘专区: https://gocn.vip/jobs
+GoCN 归档: https://gocn.vip/topics/]]></summary>
+        <author>
+            <name>samurai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tager – 免费的 macOS 文件夹图标自定义工具（与系统原生功能效果不同）]]></title>
+        <id>https://www.appinn.com/?p=39325</id>
+        <link href="https://www.appinn.com/tager-for-macos/"/>
+        <updated>2021-07-18T06:56:19.000Z</updated>
+        <summary type="html"><![CDATA[Tager 是一款免费的 macOS 文件夹图标自定义工具，可以很方便的通过右键菜单，更换文件夹图标，可以是文字，也可以是图形。@Appinn 更换文件夹图标这种事情呢，macOS 系统其实是自带的，]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ExtractNow – 批量解压缩加密压缩包、二级解压缩，支持从 Windows 95 到 Windows 11 的操作系统]]></title>
         <id>https://www.appinn.com/?p=39321</id>
@@ -461,6 +496,16 @@ https://github.com/yedf/dtm]]></summary>
         <summary type="html"><![CDATA[When it comes to styling your React app, you have a ton of different options. Which do you choose? I have broken down the 5 primary ways you have to choose between when writing CSS in your React app. There is no #1 way to approach to writing styles in]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软官方特价！Windows 10 Pro 专业版 仅需 348 元！绑定数字权利、支持迁移授权！]]></title>
+        <id>http://www.dayanzai.me/?p=40528</id>
+        <link href="http://www.dayanzai.me/windows-10-buy.html"/>
+        <updated>2021-07-16T17:20:37.000Z</updated>
+        <summary type="html"><![CDATA[正版特价！仅需 348 元！洗白白这次错过下次就不知道什么时间了！数量和时间都有限！现在绝大部分网友应该使用的 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
@@ -12979,16 +13024,6 @@ GopherChina 倒计时 8 天 Gopher China 大会志愿者招募启动 https://mp.
         <summary type="html"><![CDATA[Wasmer 是支持 WASI 和 Emscripten 的 WebAssembly 运行时，提供基于 WebAssembly 的超轻量级容器，其可以在任何地方运行：从桌面端到云端、以及 IoT 设备，并且能嵌入在任何编程语言中。 Wasmer 2.0 的新内容： SIMD SIMD 是指单指令、多数据（single instruction, multiple data）。简而言之，SIMD 使一条指令可以同时...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《Linux就该这么学》— 非常适合linux技术学习的入门好书]]></title>
-        <id>http://www.dayanzai.me/?p=31988</id>
-        <link href="http://www.dayanzai.me/linux-book.html"/>
-        <updated>2021-06-18T18:28:33.000Z</updated>
-        <summary type="html"><![CDATA[推荐语：“刘遄老师的新书《Linux就该这么学》双十一当天预售出版上市，必读的Linux系统和红帽认证自学书籍 […]]]></summary>
-        <author>
-            <name>大眼仔~旭</name>
         </author>
     </entry>
 </feed>
