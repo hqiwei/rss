@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T14:08:06.279Z</updated>
+    <updated>2021-07-18T15:10:10.320Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[用于 Web 前端开发的 9 个 JavaScript 开源框架]]></title>
+        <id>http://www.linuxeden.com/?p=87677</id>
+        <link href="http://www.linuxeden.com/a/87677"/>
+        <updated>2021-07-18T14:43:14.000Z</updated>
+        <summary type="html"><![CDATA[根据 JavaScript 框架的优点和主要特点对许多 JavaScript 框架进行细分。 大约十年前，JavaScript 社区开始见证一场 JavaScript 框架的激战。在本文中，我将介绍其中最著名的一些框架。值得注意的是，这些都 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 Linux 上用密码加密和解密文件]]></title>
+        <id>http://www.linuxeden.com/?p=87675</id>
+        <link href="http://www.linuxeden.com/a/87675"/>
+        <updated>2021-07-18T14:32:03.000Z</updated>
+        <summary type="html"><![CDATA[age 是一个简单的、易于使用的工具，允许你用一个密码来加密和解密文件。 文件的保护和敏感文档的安全加密是用户长期以来关心的问题。即使越来越多的数据被存放在网站和云服务上，并由具有越来越安全和高强度密码的用户账户来保护，但我们能够在自己的文 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Box64 模拟器发布 Arm64 Linux 版本]]></title>
+        <id>http://www.linuxeden.com/?p=87672</id>
+        <link href="http://www.linuxeden.com/a/87672"/>
+        <updated>2021-07-18T14:27:11.000Z</updated>
+        <summary type="html"><![CDATA[在 Box64 模拟器的帮助下，在 ARM 设备上运行 x64 Linux 程序。想试试吗？ Box86 是一个流行的 X86 模拟器，刚进行了一次巨大的升级。发布了 Box64，也就是对应的 ARM64 版本。 可能你还不了解这个模拟器， […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高性能日志库 zap]]></title>
         <id>https://gocn.vip/topics/12357</id>
