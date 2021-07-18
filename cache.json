@@ -4928,6 +4928,51 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/150970/psf-cpython-dir",
+          "author": null,
+          "description": "PSF 和 Python 指导委员会方面宣布称，将任命核心开发人员 Łukasz Langa 为首个 Developer-in-Residence（DIR）。 公告指出，CPython 是 Python 的参考实现，主要由志愿者开发和维护。在受到了 Django Fellowship Program 成功的启发后，PSF 从今年开始战略性地计划以类似的方式支持 CPython。该项工作得到了谷歌等赞助...",
+          "link": "https://www.oschina.net/news/150970/psf-cpython-dir",
+          "publishedOn": "2021-07-18T00:14:48.000Z",
+          "wordCount": 570,
+          "title": "PSF 任命首个 CPython DIR 职位"
+        },
+        {
+          "id": "https://www.oschina.net/p/kong-kuma",
+          "author": null,
+          "description": "Kuma 是一个现代的通用服务网格控制平面。Kuma 基于 Envoy 搭建；Envoy 是一个为云原生应用设计的强大的代理软件。",
+          "link": "https://www.oschina.net/p/kong-kuma",
+          "publishedOn": "2021-07-18T00:04:55.000Z",
+          "wordCount": 608,
+          "title": "Kong-Kuma —— 基于 Envoy 的通用服务网格"
+        },
+        {
+          "id": "https://gitee.com/chinasoft5_ohos/MathJaxView",
+          "author": null,
+          "description": "MathJaxView 能够实现自定义 WebView 离线加载格式化数学公式的功能。",
+          "link": "https://gitee.com/chinasoft5_ohos/MathJaxView",
+          "publishedOn": "2021-07-18T00:01:46.000Z",
+          "wordCount": 666,
+          "title": "Gitee 推荐 | 离线加载格式化数学公式 MathJaxView"
+        },
+        {
+          "id": "https://my.oschina.net/u/4236367/blog/4652831",
+          "author": null,
+          "description": "本文主要介绍多线程基本知识，以及如何讲解进行并发编程。",
+          "link": "https://my.oschina.net/u/4236367/blog/4652831",
+          "publishedOn": "2021-07-18T00:00:29.000Z",
+          "wordCount": 3099,
+          "title": "每日一博 | 了解多线程以及如何进行并发编程？"
+        },
+        {
+          "id": "https://www.oschina.net/news/150961/netty-4-1-66-released",
+          "author": null,
+          "description": "Netty 4.1.66.Final 已经发布。Netty 是一个异步事件驱动的网络应用框架，主要用于可维护的高性能协议服务器和客户端的快速开发。本次更新除了修复各种错误之外，还包含了一个安全修复（CVE-2021-21295）的后续工作，可能会影响使用 codec-http2 包和代理 HTTP/2 到 HTTP/1.1 的用户。 主要变化包括： 引入 BrotliEncode...",
+          "link": "https://www.oschina.net/news/150961/netty-4-1-66-released",
+          "publishedOn": "2021-07-17T23:30:27.000Z",
+          "wordCount": 626,
+          "title": "Netty 4.1.66.Final 发布，异步事件驱动的网络应用框架"
+        },
+        {
           "id": "https://www.oschina.net/news/150861/jetbrains-devecosystem-2021",
           "author": null,
           "description": "JetBrains 的第五次年度开发者生态系统调查《The State of Developer Ecosystem 2021》结果已发布。该调查基于来自 183 个国家或地区的 31743 名开发者所进行；目的在于展示开发者社区的最新趋势，并帮助描绘科技行业的格局。 调查发现的一些关键要点有： JavaScript 是最流行的语言。在过去 12 个月中，有 69% 的受访者...",

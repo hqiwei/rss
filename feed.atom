@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-17T23:09:32.580Z</updated>
+    <updated>2021-07-18T00:31:33.250Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PSF 任命首个 CPython DIR 职位]]></title>
+        <id>https://www.oschina.net/news/150970/psf-cpython-dir</id>
+        <link href="https://www.oschina.net/news/150970/psf-cpython-dir"/>
+        <updated>2021-07-18T00:14:48.000Z</updated>
+        <summary type="html"><![CDATA[PSF 和 Python 指导委员会方面宣布称，将任命核心开发人员 Łukasz Langa 为首个 Developer-in-Residence（DIR）。 公告指出，CPython 是 Python 的参考实现，主要由志愿者开发和维护。在受到了 Django Fellowship Program 成功的启发后，PSF 从今年开始战略性地计划以类似的方式支持 CPython。该项工作得到了谷歌等赞助...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kong-Kuma —— 基于 Envoy 的通用服务网格]]></title>
+        <id>https://www.oschina.net/p/kong-kuma</id>
+        <link href="https://www.oschina.net/p/kong-kuma"/>
+        <updated>2021-07-18T00:04:55.000Z</updated>
+        <summary type="html"><![CDATA[Kuma 是一个现代的通用服务网格控制平面。Kuma 基于 Envoy 搭建；Envoy 是一个为云原生应用设计的强大的代理软件。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitee 推荐 | 离线加载格式化数学公式 MathJaxView]]></title>
+        <id>https://gitee.com/chinasoft5_ohos/MathJaxView</id>
+        <link href="https://gitee.com/chinasoft5_ohos/MathJaxView"/>
+        <updated>2021-07-18T00:01:46.000Z</updated>
+        <summary type="html"><![CDATA[MathJaxView 能够实现自定义 WebView 离线加载格式化数学公式的功能。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 了解多线程以及如何进行并发编程？]]></title>
+        <id>https://my.oschina.net/u/4236367/blog/4652831</id>
+        <link href="https://my.oschina.net/u/4236367/blog/4652831"/>
+        <updated>2021-07-18T00:00:29.000Z</updated>
+        <summary type="html"><![CDATA[本文主要介绍多线程基本知识，以及如何讲解进行并发编程。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netty 4.1.66.Final 发布，异步事件驱动的网络应用框架]]></title>
+        <id>https://www.oschina.net/news/150961/netty-4-1-66-released</id>
+        <link href="https://www.oschina.net/news/150961/netty-4-1-66-released"/>
+        <updated>2021-07-17T23:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Netty 4.1.66.Final 已经发布。Netty 是一个异步事件驱动的网络应用框架，主要用于可维护的高性能协议服务器和客户端的快速开发。本次更新除了修复各种错误之外，还包含了一个安全修复（CVE-2021-21295）的后续工作，可能会影响使用 codec-http2 包和代理 HTTP/2 到 HTTP/1.1 的用户。 主要变化包括： 引入 BrotliEncode...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日文章精选 2021 07 17]]></title>
         <id>http://www.linuxeden.com/?p=87646</id>
