@@ -4946,6 +4946,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/151008/paman-3-0-released",
+          "author": null,
+          "description": "chiner,发音:[kaɪˈnər] [CHINER元数建模-3.0]，历时三年，几经磨难，匠心打造，浴火重生。做一款丰富数据库生态的，独立于具体数据库之外的，数据库关系模型设计平台。 元数建模平台，使用React+Electron+Java技术体系构建。 1. 前世今生 2018年初，我和几个对开源有兴趣的社区好友，创立了一个松散的组织，用一个半月...",
+          "link": "https://www.oschina.net/news/151008/paman-3-0-released",
+          "publishedOn": "2021-07-18T09:50:10.000Z",
+          "wordCount": 704,
+          "title": "PDMan 升级换代至->CHINER[元数建模] v3.0：最好用的国产数据库建模平台"
+        },
+        {
           "id": "https://www.oschina.net/news/150975",
           "author": null,
           "description": "日前，湘江鲲鹏加入 openEuler 社区，兆瀚RH220K系列服务器完成与华为 openEuler 的兼容性认证，测试结果表明：兆瀚RH220K系列服务器操作系统完全兼容，整体运行稳定，性能良好。 兆瀚RH220K系列服务器 在此次适配测试中，湘江鲲鹏兆瀚RH220K系列服务器进行了与 openEuler 20.03 LTS SP1的兼容性测试，整体运行稳定，性能...",
@@ -8344,6 +8353,15 @@
           "publishedOn": "2021-07-17T03:26:39.000Z",
           "wordCount": 502,
           "title": "您可能还不知道区块链技术存在的 5 大问题"
+        },
+        {
+          "id": "http://www.dayanzai.me/?p=31988",
+          "author": "大眼仔~旭",
+          "description": "推荐语：“刘遄老师的新书《Linux就该这么学》双十一当天预售出版上市，必读的Linux系统和红帽认证自学书籍 […]",
+          "link": "http://www.dayanzai.me/linux-book.html",
+          "publishedOn": "2021-07-16T18:28:33.000Z",
+          "wordCount": 495,
+          "title": "《Linux就该这么学》— 非常适合linux技术学习的入门好书"
         },
         {
           "id": "http://www.dayanzai.me/?p=40528",

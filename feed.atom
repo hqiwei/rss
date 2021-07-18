@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T09:09:38.016Z</updated>
+    <updated>2021-07-18T10:09:57.698Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PDMan 升级换代至->CHINER[元数建模] v3.0：最好用的国产数据库建模平台]]></title>
+        <id>https://www.oschina.net/news/151008/paman-3-0-released</id>
+        <link href="https://www.oschina.net/news/151008/paman-3-0-released"/>
+        <updated>2021-07-18T09:50:10.000Z</updated>
+        <summary type="html"><![CDATA[chiner,发音:[kaɪˈnər] [CHINER元数建模-3.0]，历时三年，几经磨难，匠心打造，浴火重生。做一款丰富数据库生态的，独立于具体数据库之外的，数据库关系模型设计平台。 元数建模平台，使用React+Electron+Java技术体系构建。 1. 前世今生 2018年初，我和几个对开源有兴趣的社区好友，创立了一个松散的组织，用一个半月...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoCN 每日新闻 (2021-07-18)]]></title>
         <id>https://gocn.vip/topics/12356</id>
@@ -496,6 +506,16 @@ https://github.com/yedf/dtm]]></summary>
         <summary type="html"><![CDATA[When it comes to styling your React app, you have a ton of different options. Which do you choose? I have broken down the 5 primary ways you have to choose between when writing CSS in your React app. There is no #1 way to approach to writing styles in]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《Linux就该这么学》— 非常适合linux技术学习的入门好书]]></title>
+        <id>http://www.dayanzai.me/?p=31988</id>
+        <link href="http://www.dayanzai.me/linux-book.html"/>
+        <updated>2021-07-16T18:28:33.000Z</updated>
+        <summary type="html"><![CDATA[推荐语：“刘遄老师的新书《Linux就该这么学》双十一当天预售出版上市，必读的Linux系统和红帽认证自学书籍 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
