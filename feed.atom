@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T02:21:38.795Z</updated>
+    <updated>2021-07-18T03:10:50.806Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ExtractNow – 批量解压缩加密压缩包、二级解压缩，支持从 Windows 95 到 Windows 11 的操作系统]]></title>
+        <id>https://www.appinn.com/?p=39321</id>
+        <link href="https://www.appinn.com/extractnow-for-windows/"/>
+        <updated>2021-07-18T02:33:00.000Z</updated>
+        <summary type="html"><![CDATA[ExtractNow 是一款简单易用有中文界面的批量解压缩工具，通过密码本，它能够批量解压缩带有密码的压缩包，还能监控文件夹，自动解压缩。并且支持从 Windows 95 到 Windows 11 的]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源美图 2021 07 18]]></title>
         <id>http://www.linuxeden.com/?p=87669</id>
@@ -13097,26 +13107,6 @@ GopherChina 倒计时 8 天 Gopher China 大会志愿者招募启动 https://mp.
         <link href="http://www.linuxeden.com/a/86600"/>
         <updated>2021-06-18T15:11:43.000Z</updated>
         <summary type="html"><![CDATA[开发和实施云原生（容器优先）软件的检查清单。 许多年来，单体应用是实现业务需求的标准企业架构。但是，当云基础设施开始以规模和速度为业务加速，这种情况就发生了重大变化。应用架构也发生了转变，以适应云原生应用和 微服务、无服务器 以及事件驱动的 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C++ 类成员函数指针语法的友好指南]]></title>
-        <id>http://www.linuxeden.com/?p=86598</id>
-        <link href="http://www.linuxeden.com/a/86598"/>
-        <updated>2021-06-18T15:10:36.000Z</updated>
-        <summary type="html"><![CDATA[一旦你理解了一般原则，C++ 类成员函数指针不再那么令人生畏。 如果你正在寻找性能、复杂性或许多可能的解决方法来解决问题，那么在涉及到极端的情况下，C++ 总是一个很好的选择。当然，功能通常伴随着复杂性，但是一些 C++ 的特性几乎难以分辨 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[图]macOS Monterey不再内置PHP 需开发人员自行安装]]></title>
-        <id>http://www.linuxeden.com/?p=86594</id>
-        <link href="http://www.linuxeden.com/a/86594"/>
-        <updated>2021-06-18T15:04:30.000Z</updated>
-        <summary type="html"><![CDATA[自 OS X 10.0.0 版本开始，PHP 就内置在系统中。在默认的 web 服务器中启用 PHP， 只需将 Apache 配置文件 httpd.conf 中的几行配置指令最前面的注释符号去掉，而 CGI 或 CLI 默认都 […]]]></summary>
         <author>
             <name>Editor, Kai</name>
         </author>
