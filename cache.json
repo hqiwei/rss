@@ -4552,24 +4552,6 @@
           "publishedOn": "2021-06-19T00:17:14.000Z",
           "wordCount": 354,
           "title": "Qt 5.15.5 商业LTS版发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86615",
-          "author": "Editor, Kai",
-          "description": "What’s new in this release (see below for details): – Theming support in all builtin programs. – All r […]",
-          "link": "http://www.linuxeden.com/a/86615",
-          "publishedOn": "2021-06-19T00:05:37.000Z",
-          "wordCount": 539,
-          "title": "Wine  开发版 6.11发布"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86604",
-          "author": "Editor, Kai",
-          "description": "Parent Directory                                        – CHANGELOG.md                       2021-06-15 09:55  123 […]",
-          "link": "http://www.linuxeden.com/a/86604",
-          "publishedOn": "2021-06-19T00:00:22.000Z",
-          "wordCount": 173,
-          "title": "Apache Hadoop 3.3.1 发布"
         }
       ]
     },
@@ -8265,69 +8247,6 @@
           "publishedOn": "2021-06-19T00:21:07.000Z",
           "wordCount": 569,
           "title": "Eclipse IDE 工作组成立"
-        },
-        {
-          "id": "https://www.oschina.net/news/146643/web-audio-api-official",
-          "author": null,
-          "description": "近日，W3C 将 Web Audio API 提升为官方标准，作为一个 JavaScript API，Web Audio API 可用于在 Web 浏览器中直接创建和操作音频内容。 Web Audio API 专注于音频的创建和操作，而不仅仅是音频的播放。它提供了一套丰富的模块化构件，网络和应用开发者可以将其结合起来创造出广泛的应用，包括：用户界面中的听觉反馈、乐...",
-          "link": "https://www.oschina.net/news/146643/web-audio-api-official",
-          "publishedOn": "2021-06-19T00:12:08.000Z",
-          "wordCount": 549,
-          "title": "W3C 将 Web Audio API 提升为官方标准"
-        },
-        {
-          "id": "https://www.oschina.net/p/octosql",
-          "author": null,
-          "description": "OctoSQL是一个SQL查询引擎，它允许你对存储在多个SQL数据库，NoSQL数据库和各种格式的文件中的数据编写标准SQL查询，尝试将尽可能多的工作压缩到源数据库，而不是传输不必要的数据。",
-          "link": "https://www.oschina.net/p/octosql",
-          "publishedOn": "2021-06-19T00:06:24.000Z",
-          "wordCount": 431,
-          "title": "OctoSQL —— SQL 查询引擎"
-        },
-        {
-          "id": "https://gitee.com/thoughtworks/fabric",
-          "author": null,
-          "description": "本项目是 Hyperledger Fabric 的国密支持版本。涵盖 Fabric、Fabric CA 以及 Fabric SDK 的全链路国密改造，主要功能: - 国密 CA 生成和签发 - 应用数据国密加密/签名/解密 - 国密 TLS 的 GRPCS 和 HTTPS 通讯 - 国密密码机的集成（阿里云 KMS 服务） - 代码修改使用非侵入式的修改，与 Fabric 官方仓库合并更容易...",
-          "link": "https://gitee.com/thoughtworks/fabric",
-          "publishedOn": "2021-06-19T00:04:19.000Z",
-          "wordCount": 690,
-          "title": "Gitee 推荐 | Hyperledger Fabric 国密版 fabric"
-        },
-        {
-          "id": "https://my.oschina.net/lixiaoyao614/blog/4675981",
-          "author": null,
-          "description": "当使用参数调用宏时，会将参数替换为宏主体，并与其他输入文件一起检查结果，以进行更多的宏调用,可以将部分来自宏主体和部分自变量的宏调用组合在一起。",
-          "link": "https://my.oschina.net/lixiaoyao614/blog/4675981",
-          "publishedOn": "2021-06-19T00:01:14.000Z",
-          "wordCount": 529,
-          "title": "每日一博 | 避免这 7 个误区，才能让【宏】削铁如泥"
-        },
-        {
-          "id": "https://www.oschina.net/news/146639/openssl-3-0-beta1",
-          "author": null,
-          "description": "OpenSSL 3.0 发布了首个 Beta 版本，开发团队表示他们将其视作 RC 版本，因此鼓励所有 OpenSSL 用户针对这个测试版进行构建和测试，并提供反馈。 据介绍，在过去的几个月里，开发团队为 OpenSSL 3.0 的最终发布做了许多工作。他们表示整个 OpenSSL 3.0 的开发工作量是巨大的，自从开始 3.0 以来，已经有 300 多个不同的贡...",
-          "link": "https://www.oschina.net/news/146639/openssl-3-0-beta1",
-          "publishedOn": "2021-06-18T23:57:33.000Z",
-          "wordCount": 586,
-          "title": "OpenSSL 3.0 Beta1 发布，变更开源许可证为 Apache 2.0"
-        },
-        {
-          "id": "https://www.oschina.net/news/146637/pytorch-1-9-released",
-          "author": null,
-          "description": "PyTorch 1.9 现已发布，该版本包含了自 1.8 以来的 3400 多个 commit ，有 398 位贡献者参与更新。主要亮点内容包括： 支持科学计算方面的重大改进，现已支持 torch.linalg、torch.special 以及 Complex Autograd； 使用 Mobile Interpreter 对设备上的二进制大小进行重大改进； 通过 TorchElastic 向 PyTorch Core 上游...",
-          "link": "https://www.oschina.net/news/146637/pytorch-1-9-released",
-          "publishedOn": "2021-06-18T23:42:38.000Z",
-          "wordCount": 909,
-          "title": "PyTorch 1.9 发布，包括 torch.linalg 和 Mobile Interpreter"
-        },
-        {
-          "id": "https://www.oschina.net/news/146635/wasmer-2-0-released",
-          "author": null,
-          "description": "Wasmer 是支持 WASI 和 Emscripten 的 WebAssembly 运行时，提供基于 WebAssembly 的超轻量级容器，其可以在任何地方运行：从桌面端到云端、以及 IoT 设备，并且能嵌入在任何编程语言中。 Wasmer 2.0 的新内容： SIMD SIMD 是指单指令、多数据（single instruction, multiple data）。简而言之，SIMD 使一条指令可以同时...",
-          "link": "https://www.oschina.net/news/146635/wasmer-2-0-released",
-          "publishedOn": "2021-06-18T23:31:42.000Z",
-          "wordCount": 567,
-          "title": "Wasmer 2.0 发布，速度最高提升 73%"
         }
       ]
     },
