@@ -677,6 +677,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12357",
+          "author": "gocloudcoder",
+          "description": "高性能日志库 zap\nzap 简介\nzap 是高效的、结构化的，分日志级别的 Go 日志库。\n为什么选择使用 zap?\n首先，在我们写项目中需要一个好的日志记录器，需要提供以下功能：\n能够将事件记录到文件中，而不是应用程序控制台。\n日志切割 - 能够根据文件大小、时间或间隔等来切割日志文件。\n支持不同的日志级别。例如 INFO，DEBUG，ERROR 等。\n能够打印基本信息，如调用文件/函数名和行号，日志时间等。\n在 Go 中我们可选的日志库有下列几种：\n标准库 log\nlogrus\nzap\n对于标准库 log 而言，它最大的优势是使用简单，但是它仅限一些基本的日志级别。对于错误日志，缺少 ERROR 日志级别（这个级别可以在不抛出 panic 或退出程序的情况下记录错误），缺乏日志格式化的能力，不提供日志切割的能力，所以实际使用起来体验并不好。\n对于 logrus 而言，业界内评价也非常的好，易用性好，定制化很强。但是在高性能的场景下，logrus 就显得有些力不从心，比较消耗资源。\n综合考量下，选择 zap 是一个比较好的选择。\nzap 在整体设计上有精细的考量，不仅仅是在高性能上面的出色表现，更多的在于其设计和工程实践上：\n合理的代码组织结构，结构清晰的抽象关系\n写实复制，避免加锁\n对象内存池，避免频繁创建销毁对象\n避免使用 fmt，json/encode，使用字符编码方式对日志信息编码，使用 byte slice 的形式对日志内容进行拼接编码操作\nzap 入门使用\n首先我们安装 zap\ngo get -u go.uber.org/zap\n\nZap 提供了两种类型的日志记录器：\nSugared Logger\n\n\nLogger\n\n\n\n在性能很好但不是很关键的上下文中，使用SugaredLogger。它比其他结构化日志记录包快 4-10 倍，并且支持结构化和 printf…",
+          "link": "https://gocn.vip/topics/12357",
+          "publishedOn": "2021-07-18T13:35:03.000Z",
+          "wordCount": 312,
+          "title": "高性能日志库 zap"
+        },
+        {
           "id": "https://gocn.vip/topics/12356",
           "author": "samurai",
           "description": "[译] 更新 Go 内存模型 https://colobu.com/2021/07/13/Updating-the-Go-Memory-Model/\n\nGo 实现的网状 VPN https://www.samlewis.me/2021/07/creating-mesh-vpn-tool-for-fun/\n\nCobra + Client-go 实现 K8s 自定义插件开发 https://juejin.cn/post/6983324056502140964\n\n谷歌云 serverless 跑 gRPC 和 gRPC Web Serverless 服务  https://blog.gendocu.com/posts/grpc-on-google-cloud/\n\nGo sync 包如何控制并发？ https://juejin.cn/post/6986067019334418468\n\n\n\n编辑: samurai\n订阅新闻: http://tinyletter.com/gocn\n招聘专区: https://gocn.vip/jobs\nGoCN 归档: https://gocn.vip/topics/",
@@ -8184,15 +8193,6 @@
           "publishedOn": "2021-06-20T00:00:09.000Z",
           "wordCount": 1390,
           "title": "每日一博 | Vue 3 的组合 API 如何请求数据？"
-        },
-        {
-          "id": "https://www.oschina.net/news/146648/chinese-space-station-ui",
-          "author": null,
-          "description": "6月17日，航天员聂海胜、刘伯明、汤洪波先后进入天和核心舱，标志着中国人首次进入自己的空间站。 我们也从央视新闻的报道中首次看见了空间站系统的操作界面。据介绍，需要航天员操作的界面均使用中文，例如机械臂状态的控制，以及报警消息查看等操作。考虑到这套系统的使用者是中国航天员，因此全部使用中文也不足为奇。...",
-          "link": "https://www.oschina.net/news/146648/chinese-space-station-ui",
-          "publishedOn": "2021-06-19T02:02:26.000Z",
-          "wordCount": 548,
-          "title": "中国空间站操作界面曝光，“天地交互”亮了"
         }
       ]
     },

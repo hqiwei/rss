@@ -124,6 +124,50 @@
           <section class="articles-per-source">
             <article>
               <details class="article-expander">
+                <summary class="article-expander__title">高性能日志库 zap</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12357">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>高性能日志库 zap
+zap 简介
+zap 是高效的、结构化的，分日志级别的 Go 日志库。
+为什么选择使用 zap?
+首先，在我们写项目中需要一个好的日志记录器，需要提供以下功能：
+能够将事件记录到文件中，而不是应用程序控制台。
+日志切割 - 能够根据文件大小、时间或间隔等来切割日志文件。
+支持不同的日志级别。例如 INFO，DEBUG，ERROR 等。
+能够打印基本信息，如调用文件/函数名和行号，日志时间等。
+在 Go 中我们可选的日志库有下列几种：
+标准库 log
+logrus
+zap
+对于标准库 log 而言，它最大的优势是使用简单，但是它仅限一些基本的日志级别。对于错误日志，缺少 ERROR 日志级别（这个级别可以在不抛出 panic 或退出程序的情况下记录错误），缺乏日志格式化的能力，不提供日志切割的能力，所以实际使用起来体验并不好。
+对于 logrus 而言，业界内评价也非常的好，易用性好，定制化很强。但是在高性能的场景下，logrus 就显得有些力不从心，比较消耗资源。
+综合考量下，选择 zap 是一个比较好的选择。
+zap 在整体设计上有精细的考量，不仅仅是在高性能上面的出色表现，更多的在于其设计和工程实践上：
+合理的代码组织结构，结构清晰的抽象关系
+写实复制，避免加锁
+对象内存池，避免频繁创建销毁对象
+避免使用 fmt，json/encode，使用字符编码方式对日志信息编码，使用 byte slice 的形式对日志内容进行拼接编码操作
+zap 入门使用
+首先我们安装 zap
+go get -u go.uber.org/zap
+
+Zap 提供了两种类型的日志记录器：
+Sugared Logger
+
+
+Logger
+
+
+
+在性能很好但不是很关键的上下文中，使用SugaredLogger。它比其他结构化日志记录包快 4-10 倍，并且支持结构化和 printf…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
                 <summary class="article-expander__title">GoCN 每日新闻 (2021-07-18)</summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12356">
                   <div class="article-summary-box-inner">
@@ -15050,28 +15094,11 @@ GopherChina 倒计时 8 天 Gopher China 大会志愿者招募启动 https://mp.
             </article>
         </section>
       </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.oschina.net/news/rss">OSCHINA 社区最新新闻</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">中国空间站操作界面曝光，“天地交互”亮了</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.oschina.net/news/146648/chinese-space-station-ui">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>6月17日，航天员聂海胜、刘伯明、汤洪波先后进入天和核心舱，标志着中国人首次进入自己的空间站。 我们也从央视新闻的报道中首次看见了空间站系统的操作界面。据介绍，需要航天员操作的界面均使用中文，例如机械臂状态的控制，以及报警消息查看等操作。考虑到这套系统的使用者是中国航天员，因此全部使用中文也不足为奇。...</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
     </ul>
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-07-18T13:13:48.289Z">2021-07-18T13:13:48.289Z</time>
+    <time id="build-timestamp" datetime="2021-07-18T14:08:06.218Z">2021-07-18T14:08:06.218Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.0</a></span>
   </footer>
   <script src="index.js"></script>
