@@ -2,10 +2,150 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T23:09:19.158Z</updated>
+    <updated>2021-07-19T00:31:37.741Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开源美图 2021 07 19]]></title>
+        <id>http://www.linuxeden.com/?p=87715</id>
+        <link href="http://www.linuxeden.com/a/87715"/>
+        <updated>2021-07-19T00:25:11.000Z</updated>
+        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 07 19]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分布式数据库 ZNBase 的分布式计划生成]]></title>
+        <id>https://my.oschina.net/u/5148943/blog/5127965</id>
+        <link href="https://my.oschina.net/u/5148943/blog/5127965"/>
+        <updated>2021-07-19T00:21:00.000Z</updated>
+        <summary type="html"><![CDATA[在数据库系统中，收到一个查询请求时，执行器会负责解析 SQL 语句，生成执行计划，然后再一步步实现我们的查询请求。分布式数据库拥有分布式执行计划，与传统单机数据库相比拥有更高的扩展性。本文将介绍 NewSQL 分布式数据库 ZNBase 的分布式计划生成机制。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从实际代码开始编写好的示例]]></title>
+        <id>http://www.linuxeden.com/?p=87713</id>
+        <link href="http://www.linuxeden.com/a/87713"/>
+        <updated>2021-07-19T00:19:36.000Z</updated>
+        <summary type="html"><![CDATA[当编写程序时，我花费了大量时间在编写好的示例上。我从未见过有人写过关于如何写出好的示例，所以我就写了一下如何写出一份好的示例。 基础思路就是从你写的真实代码开始，然后删除不相关的细节，使其成为一个独立的例子，而不是无中生有地想出一些例子。  […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HHVM 4.118.1发布]]></title>
+        <id>http://www.linuxeden.com/?p=87711</id>
+        <link href="http://www.linuxeden.com/a/87711"/>
+        <updated>2021-07-19T00:15:27.000Z</updated>
+        <summary type="html"><![CDATA[HHVM 4.118.1 is released! This release fixes an issue introduced in 4.118.0, leading to a segmentation fault when buildi […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ImageMagick 7.1.0-4.x86_64发布]]></title>
+        <id>http://www.linuxeden.com/?p=87709</id>
+        <link href="http://www.linuxeden.com/a/87709"/>
+        <updated>2021-07-19T00:14:44.000Z</updated>
+        <summary type="html"><![CDATA[Download Linux Binary Release • Mac OS X Binary Release • iOS Binary Release • Windows Binary Release You can install Im […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Hudi 社区新晋多名顶级互联网公司 Committer]]></title>
+        <id>https://www.oschina.net/news/151043</id>
+        <link href="https://www.oschina.net/news/151043"/>
+        <updated>2021-07-19T00:14:15.000Z</updated>
+        <summary type="html"><![CDATA[1. 介绍 经过Apache Hudi项目委员会讨论及投票决定，来自阿里云的Pengzhiwei和DannyChan成为Apache Hudi Committer，新晋人才也保证了Hudi社区在正确的轨道上不断发展。 Pengzhiwei持续在Apache Hudi社区贡献，开发了诸多特性，如Spark SQL集成Hudi，该功能降低了用户使用Hudi的门槛，SQL化操作让数据入湖更加顺滑，还贡...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 运行 Android 应用得到保障，亚马逊应用商店将支持 AAB]]></title>
+        <id>https://www.oschina.net/news/151042/amazon-appstore-will-support-android-app-bundles</id>
+        <link href="https://www.oschina.net/news/151042/amazon-appstore-will-support-android-app-bundles"/>
+        <updated>2021-07-19T00:13:02.000Z</updated>
+        <summary type="html"><![CDATA[当微软公布 Windows 11 操作系统时，该操作系统的一大卖点就是用户将能够在 Windows 设备上安装和使用 Android 应用程序。 在 Windows 11 设备上运行 Android 应用并非采用的镜像或投屏技术，而是对 Android 应用的本地支持。由于 Google 不断加强对 Android 应用的掌控，因此微软选择与亚马逊展开合作，将亚马逊 Appsto...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vuex 4.0.2 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87707</id>
+        <link href="http://www.linuxeden.com/a/87707"/>
+        <updated>2021-07-19T00:11:54.000Z</updated>
+        <summary type="html"><![CDATA[Bug Fixes devtools: fix no getters displayed on root module + better getters inspector (#1986) (bc20295) build: cjs buil […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZeroNet —— 去中心化的网站系统]]></title>
+        <id>https://www.oschina.net/p/zeronet</id>
+        <link href="https://www.oschina.net/p/zeronet"/>
+        <updated>2021-07-19T00:07:56.000Z</updated>
+        <summary type="html"><![CDATA[ZeroNet 是一个开放，自由，去中心化的网络，使用 Bitcoin 加密和 BitTorrent 网络。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.14-rc2发布 迎来5.x周期中的最大一次集体提交]]></title>
+        <id>http://www.linuxeden.com/?p=87703</id>
+        <link href="http://www.linuxeden.com/a/87703"/>
+        <updated>2021-07-19T00:06:21.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds刚刚发布了Linux 5.14-rc2，作为成熟的Linux 5.14内核的最新每周测试候选版本。鉴于已经过了Linux 5.14的合并窗口一周，没有任何新功能可拿出来展示，但有很多修正。值得指出的是，本周合并的 […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitee 推荐 | Qt 模仿企业微信界面 WeComCopy]]></title>
+        <id>https://gitee.com/hudejie/wecom-copy</id>
+        <link href="https://gitee.com/hudejie/wecom-copy"/>
+        <updated>2021-07-19T00:05:21.000Z</updated>
+        <summary type="html"><![CDATA[本项目为Qt实现企业微信界面项目，纯界面逻辑，不包含真实业务逻辑。主要用于学习QWidget的使用，包含绘制，布局，信号，事件，重写，多线程，qss等技术使用。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日一博 | 从创建进程到进入 main 函数，发生了什么？]]></title>
+        <id>https://my.oschina.net/u/3715845/blog/4693584</id>
+        <link href="https://my.oschina.net/u/3715845/blog/4693584"/>
+        <updated>2021-07-19T00:00:50.000Z</updated>
+        <summary type="html"><![CDATA[这篇文章主要讨论的是操作系统层面上对于进程、线程的创建初始化等行为，而像Python、Java等基于解释器、虚拟机的语言，如何进入到main函数执行，这背后的路径则更长（包含了解释器和虚拟机内部的执行流程），以后有机会再讨论。所以这里就重点关注C/C++这类native语言的main函数是如何进入的。...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Impala 4.0 发布，大规模并行处理 SQL 查询引擎]]></title>
+        <id>https://www.oschina.net/news/151035/apache-impala-4-0-released</id>
+        <link href="https://www.oschina.net/news/151035/apache-impala-4-0-released"/>
+        <updated>2021-07-18T23:37:59.000Z</updated>
+        <summary type="html"><![CDATA[Apache Impala 是一个开源的大规模并行处理（MPP）SQL 查询引擎，用于存储在运行 Apache Hadoop 的计算机集群中的数据。 Apache Impala 4.0 正式发布，更新内容如下： 重大变化： 移除对 Hive 2.x 的支持； 移除对 Impala-lzo 的支持 Impala-lzo 提供了允许 Impala 读取 LZO 压缩表的代码。鉴于 LZO 的低采用率和其他可用...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DBeaver 21.1.3 发布，可视化数据库管理平台]]></title>
+        <id>https://www.oschina.net/news/151033/dbeaver-21-1-3-released</id>
+        <link href="https://www.oschina.net/news/151033/dbeaver-21-1-3-released"/>
+        <updated>2021-07-18T23:15:36.000Z</updated>
+        <summary type="html"><![CDATA[DBeaver 21.1.3 发布，该版本更新内容如下： SQL 编辑器： 修改了输出/执行日志面板布局； 增加了变量/参数管理面板； 修复了 SQL 模板变量的补全； 增加了将查询结果分配给变量的命令； 数据传输： 为表列映射增加了自定义转换功能； 为 MySQL、SQL Server 和 Exasol 增加了参考完整性禁用功能； 列映射页面现在支持重新...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日文章精选 2021 07 18]]></title>
         <id>http://www.linuxeden.com/?p=87701</id>
