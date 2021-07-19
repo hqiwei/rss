@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T16:13:58.740Z</updated>
+    <updated>2021-07-19T17:17:09.842Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Scrape Websites with Node.js and Cheerio]]></title>
+        <id>60ec528ce8ee9b08300edb9e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-scrape-websites-with-node-js-and-cheerio/"/>
+        <updated>2021-07-19T16:50:30.000Z</updated>
+        <summary type="html"><![CDATA[There might be times when a website has data you want to analyze but the site doesn't expose an API for accessing those data.  To get the data, you'll have to resort to web scraping.  In this article, I'll go over how to scrape websites with Node.js and Cheerio.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Calculate Percent Change in Excel – Find Increase and Decrease Percentage]]></title>
         <id>60e7d016134ad707be00f47c</id>
@@ -13195,39 +13205,6 @@ func TestKafkaProducter(t *testing.T) {
         <summary type="html"><![CDATA[图忆是一款可以为图片批量添加水印的 Android 应用，支持多层水印（添加多个水印）、添加文本、EXIF 数据或者贴图为水印内容。最重要的是批量处理，简单易用又高效。@Appinn 来自发现频道，@]]></summary>
         <author>
             <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-20)]]></title>
-        <id>https://gocn.vip/topics/12220</id>
-        <link href="https://gocn.vip/topics/12220"/>
-        <updated>2021-06-20T04:53:33.000Z</updated>
-        <summary type="html"><![CDATA[Casnode: React + Beego 的开源论坛 https://github.com/casbin/casnode
-
-YoyoGo v1.7.2 发布,支持 Nacos&Apollo 配置中心   https://gocn.vip/topics/12216
-
-Go 结构体的另类玩法：命名空间   https://mp.weixin.qq.com/s/8QRLiFMM8c5MX04f4ScUtA
-
-Go1.17 新特性之切片变数组 https://polarisxu.studygolang.com/posts/go/dynamic/go1.17-slice-to-array/
-
-深入理解 Golang Map https://mp.weixin.qq.com/s/gdzeDxD8zQopcIUYiLgjbw
-
-
-
-
-
-GopherChina 倒计时 7 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ
-
-
-编辑: 熊大
-
-
-订阅新闻: http://tinyletter.com/gocn
-
-
-招聘专区: https://gocn.vip/jobs]]></summary>
-        <author>
-            <name>ningxiaofang1o</name>
         </author>
     </entry>
 </feed>
