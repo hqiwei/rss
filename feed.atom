@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T08:10:52.446Z</updated>
+    <updated>2021-07-19T09:10:31.172Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[腾讯云 TKE 团队提交 KEP：使用 cgroups v2 实现 Memory QoS]]></title>
+        <id>https://www.oschina.net/news/151129</id>
+        <link href="https://www.oschina.net/news/151129"/>
+        <updated>2021-07-19T08:33:15.000Z</updated>
+        <summary type="html"><![CDATA[徐蓓，腾讯云专家工程师，深耕云计算、Kubernetes、离在线混部领域，Kubernetes 社区积极贡献者。 背景 随着云原生进入深水区，很多用户希望通过业务混部提升集群利用率。但由于 kernel 限制，部分资源隔离性不强，会导致业务受损。在这种背景下，腾讯云 TKE 团队向 Kubernetes 社区提交了KEP-2570: Support Memory QoS ...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CVE-2021-22555: Linux Netfilter 本地权限提升漏洞通告]]></title>
         <id>https://www.oschina.net/news/151121</id>

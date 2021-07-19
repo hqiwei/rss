@@ -4991,6 +4991,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/151129",
+          "author": null,
+          "description": "徐蓓，腾讯云专家工程师，深耕云计算、Kubernetes、离在线混部领域，Kubernetes 社区积极贡献者。 背景 随着云原生进入深水区，很多用户希望通过业务混部提升集群利用率。但由于 kernel 限制，部分资源隔离性不强，会导致业务受损。在这种背景下，腾讯云 TKE 团队向 Kubernetes 社区提交了KEP-2570: Support Memory QoS ...",
+          "link": "https://www.oschina.net/news/151129",
+          "publishedOn": "2021-07-19T08:33:15.000Z",
+          "wordCount": 658,
+          "title": "腾讯云 TKE 团队提交 KEP：使用 cgroups v2 实现 Memory QoS"
+        },
+        {
           "id": "https://www.oschina.net/news/151121",
           "author": null,
           "description": "报告编号：B6-2021-071601 报告来源：360CERT 报告作者：360CERT 更新日期：2021-07-16 1. 漏洞简述 2021年07月16日，360CERT监测发现国外安全研究员@theflow公开了CVE-2021-22555 Linux Netfilter提权漏洞的分析报告，漏洞编号为CVE-2021-22555，漏洞等级：高危，漏洞评分：7.8。 Linux Netfilter 模块是内核中用于管理...",
