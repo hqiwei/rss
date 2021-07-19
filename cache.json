@@ -677,6 +677,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12359",
+          "author": "cuteLittleDevil",
+          "description": "GoCN 每日新闻 (2021-07-19)\n面试官：小松子知道什么是内联函数吗？ https://mp.weixin.qq.com/s/t4-LXNF8l4OWM3jiqizdew\n\n一文搞懂 Go 语言的 plugin https://tonybai.com/2021/07/19/understand-go-plugin\n\nGo 程序内存分配过多？试试本文的方法 https://mp.weixin.qq.com/s/nQMgB76ecuF86TtO1NjiOA\n\n字节跳动开发的高性能非阻塞 I/O 网络框架，专注于 RPC 场景 https://github.com/cloudwego/netpoll\n\nGort 是为 chatops 从头设计的聊天机器人框架 https://github.com/getgort/gort\n\n\n\n\n编辑: CDS\n订阅新闻: http://tinyletter.com/gocn \n招聘专区: https://gocn.vip/jobs\n\nGoCN 归档: https://gocn.vip/topics/12359",
+          "link": "https://gocn.vip/topics/12359",
+          "publishedOn": "2021-07-19T07:06:39.000Z",
+          "wordCount": 104,
+          "title": "GoCN 每日新闻 (2021-07-19)"
+        },
+        {
           "id": "https://gocn.vip/topics/12358",
           "author": "gouguoyin",
           "description": "carbon 是一个轻量级、语义化、对开发者友好的 Golang 时间处理库，支持链式调用、农历和 gorm、xorm 等主流 orm\n如果您觉得不错，请给个 star 吧\ngithub:github.com/golang-module/carbon\ngitee:gitee.com/go-package/carbon\n更新日志\n优化 IsZero() 方法的判断逻辑\n修复 Microsecond() 方法获取毫秒数错误的 bug\n修复 SetMicrosecond() 方法设置毫秒数错误的 bug\n修复 Lunar().Festival() 方法不是任何节气时 panic 的 bug\n修复 Format() 方法无法原样解析的 bug\n修复 ParseByFormat() 方法无法原样解析的 bug\n使用 github.com/stretchr/testify/assert 库替代原生 testing 库\n增加单元测试覆盖场景，单元测试覆盖率提升到 96%\n统一错误格式，修改部分错误文案\nLunar() 方法实现 Stringer 接口，可以直接作为字符串输出农历年月日，同 Lunar().ToString()\n新增 CreateFromTimestamp() 方法对时间戳是 0 的判断\n新增 Lunar().ToString() 方法获取农历年月日，如二零二零年六月十六\n新增对 json.UnmarshalJSON() 的支持",
@@ -4597,6 +4606,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=39336",
+          "author": "青小蛙",
+          "description": "Typeshift 是一款拼单词的 iPhone、Android 小游戏，玩家只需要滑动字母，拼出单词即可通关。@Appinn 来自发现频道，@suntrise 同学的推荐： 继 Sudoku（数独）",
+          "link": "https://www.appinn.com/typeshift-game/",
+          "publishedOn": "2021-07-19T06:35:00.000Z",
+          "wordCount": 1138,
+          "title": "Typeshift – 我愿称之为“词独（Wordoku）”的拼词游戏[iPhone/Android]"
+        },
+        {
           "id": "https://www.appinn.com/?p=39329",
           "author": "青小蛙",
           "description": "nomacs 是一款可以在多个 nomacs 实例间同步浏览的图片浏览器工具，免费、开源，跨平台，最典型应用是在双显示器，为用户同步展示照片。@Appinn 青小蛙楼下有一家看起来比较专业的打印店，里",
@@ -4972,6 +4990,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/151097",
+          "author": null,
+          "description": "LF AI & Data 基金会是一个正在构建生态系统以维持人工智能（AI）和数据开源项目的开源创新的组织，今天宣布Substra[1]为其最新的孵化项目。 Substra 是一个在合作伙伴之间提供机器学习任务分布式编排的框架，同时保证所有操作的安全可靠的可追溯性。Substra 项目是由OWKIN[2]在 Apache-2.0 许可下发布和开源的。 Substr...",
+          "link": "https://www.oschina.net/news/151097",
+          "publishedOn": "2021-07-19T06:44:51.000Z",
+          "wordCount": 631,
+          "title": "Substra 加入 LF AI & Data 作为新的孵化项目，更多隐私保护联邦学习用例即将到来"
+        },
         {
           "id": "https://www.oschina.net/news/151085/tapdata-pre-a-funding",
           "author": null,

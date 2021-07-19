@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T06:12:08.154Z</updated>
+    <updated>2021-07-19T07:08:31.971Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoCN 每日新闻 (2021-07-19)]]></title>
+        <id>https://gocn.vip/topics/12359</id>
+        <link href="https://gocn.vip/topics/12359"/>
+        <updated>2021-07-19T07:06:39.000Z</updated>
+        <summary type="html"><![CDATA[GoCN 每日新闻 (2021-07-19)
+面试官：小松子知道什么是内联函数吗？ https://mp.weixin.qq.com/s/t4-LXNF8l4OWM3jiqizdew
+
+一文搞懂 Go 语言的 plugin https://tonybai.com/2021/07/19/understand-go-plugin
+
+Go 程序内存分配过多？试试本文的方法 https://mp.weixin.qq.com/s/nQMgB76ecuF86TtO1NjiOA
+
+字节跳动开发的高性能非阻塞 I/O 网络框架，专注于 RPC 场景 https://github.com/cloudwego/netpoll
+
+Gort 是为 chatops 从头设计的聊天机器人框架 https://github.com/getgort/gort
+
+
+
+
+编辑: CDS
+订阅新闻: http://tinyletter.com/gocn 
+招聘专区: https://gocn.vip/jobs
+
+GoCN 归档: https://gocn.vip/topics/12359]]></summary>
+        <author>
+            <name>cuteLittleDevil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substra 加入 LF AI & Data 作为新的孵化项目，更多隐私保护联邦学习用例即将到来]]></title>
+        <id>https://www.oschina.net/news/151097</id>
+        <link href="https://www.oschina.net/news/151097"/>
+        <updated>2021-07-19T06:44:51.000Z</updated>
+        <summary type="html"><![CDATA[LF AI & Data 基金会是一个正在构建生态系统以维持人工智能（AI）和数据开源项目的开源创新的组织，今天宣布Substra[1]为其最新的孵化项目。 Substra 是一个在合作伙伴之间提供机器学习任务分布式编排的框架，同时保证所有操作的安全可靠的可追溯性。Substra 项目是由OWKIN[2]在 Apache-2.0 许可下发布和开源的。 Substr...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typeshift – 我愿称之为“词独（Wordoku）”的拼词游戏[iPhone/Android]]]></title>
+        <id>https://www.appinn.com/?p=39336</id>
+        <link href="https://www.appinn.com/typeshift-game/"/>
+        <updated>2021-07-19T06:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Typeshift 是一款拼单词的 iPhone、Android 小游戏，玩家只需要滑动字母，拼出单词即可通关。@Appinn 来自发现频道，@suntrise 同学的推荐： 继 Sudoku（数独）]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tapdata 获数千万美元 Pre-A 轮融资，专注实时数据服务平台]]></title>
         <id>https://www.oschina.net/news/151085/tapdata-pre-a-funding</id>
