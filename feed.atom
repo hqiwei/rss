@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T19:07:31.319Z</updated>
+    <updated>2021-07-19T20:09:31.481Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
@@ -13215,16 +13215,6 @@ func TestKafkaProducter(t *testing.T) {
         <summary type="html"><![CDATA[The Register 报道称：尽管微软近年来积极表达了对 Linux 的热爱，但刚刚发生在 packages.microsoft.com 网站上的事情，还是伤了不少铁杆粉丝们的心。由于网站服务离线，不少人在尝试 aapt-get 时遭遇 […]]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[图忆水印  – 为图片批量添加水印，支持多层水印（文本、Exif 数据或贴图）[Android]]]></title>
-        <id>https://www.appinn.com/?p=39107</id>
-        <link href="https://www.appinn.com/wp2app-photomarker-android/"/>
-        <updated>2021-06-20T07:34:01.000Z</updated>
-        <summary type="html"><![CDATA[图忆是一款可以为图片批量添加水印的 Android 应用，支持多层水印（添加多个水印）、添加文本、EXIF 数据或者贴图为水印内容。最重要的是批量处理，简单易用又高效。@Appinn 来自发现频道，@]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
 </feed>
