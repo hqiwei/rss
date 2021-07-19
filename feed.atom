@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T22:10:16.663Z</updated>
+    <updated>2021-07-19T23:09:03.583Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Install Xcode Command Line Tools on a Mac]]></title>
+        <id>60f3e5ca66c61b07d458eb2d</id>
+        <link href="https://www.freecodecamp.org/news/install-xcode-command-line-tools/"/>
+        <updated>2021-07-19T22:25:44.000Z</updated>
+        <summary type="html"><![CDATA[Developers need to install Xcode Command Line Tools before they can develop software on a Mac. This article shows three ways to install Xcode Command Line Tools, including the newest approach using Homebrew.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI 解散机器人团队，创始人：最好的决定]]></title>
+        <id>https://www.oschina.net/news/151219/openai-disbands-robotics-research-team</id>
+        <link href="https://www.oschina.net/news/151219/openai-disbands-robotics-research-team"/>
+        <updated>2021-07-19T22:17:07.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI 公司联合创始人 Wojciech Zaremba 在播客中透露，OpenAI 已经解散了它的机器人团队，并将重点转移到其他更容易获得数据的领域中数据。 Zaremba 称，"所以事实证明，只要我们能够获得数据，我们就能取得巨大的进步。我们所有的机器学习、无监督学习和强化学习--它们的效果都非常好，而且实际上有很多领域的数据非常...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RGB Color – HTML and CSS Guide]]></title>
         <id>60f53af066c61b07d458ed0a</id>

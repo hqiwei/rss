@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60f3e5ca66c61b07d458eb2d",
+          "author": null,
+          "description": "Developers need to install Xcode Command Line Tools before they can develop software on a Mac. This article shows three ways to install Xcode Command Line Tools, including the newest approach using Homebrew.",
+          "link": "https://www.freecodecamp.org/news/install-xcode-command-line-tools/",
+          "publishedOn": "2021-07-19T22:25:44.000Z",
+          "wordCount": 1246,
+          "title": "How to Install Xcode Command Line Tools on a Mac"
+        },
+        {
           "id": "60f53af066c61b07d458ed0a",
           "author": null,
           "description": "Choosing the right color for your web design project is a serious endeavour. A color scheme can often make or break a site's overall appearance.  Different colors create a different feel for your designs. The right choice of colors can make your designs and creations look clean, aesthetically pleasing, and",
@@ -5017,6 +5026,15 @@
       "feedUrl": "https://www.oschina.net/news/rss",
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
+        {
+          "id": "https://www.oschina.net/news/151219/openai-disbands-robotics-research-team",
+          "author": null,
+          "description": "OpenAI 公司联合创始人 Wojciech Zaremba 在播客中透露，OpenAI 已经解散了它的机器人团队，并将重点转移到其他更容易获得数据的领域中数据。 Zaremba 称，\"所以事实证明，只要我们能够获得数据，我们就能取得巨大的进步。我们所有的机器学习、无监督学习和强化学习--它们的效果都非常好，而且实际上有很多领域的数据非常...",
+          "link": "https://www.oschina.net/news/151219/openai-disbands-robotics-research-team",
+          "publishedOn": "2021-07-19T22:17:07.000Z",
+          "wordCount": 506,
+          "title": "OpenAI 解散机器人团队，创始人：最好的决定"
+        },
         {
           "id": "https://www.oschina.net/news/151129",
           "author": null,
