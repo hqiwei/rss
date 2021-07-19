@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T15:10:42.399Z</updated>
+    <updated>2021-07-19T16:13:58.740Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Calculate Percent Change in Excel – Find Increase and Decrease Percentage]]></title>
+        <id>60e7d016134ad707be00f47c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-calculate-percent-change-in-excel-find-increase-and-decrease-percentage/"/>
+        <updated>2021-07-19T15:25:39.000Z</updated>
+        <summary type="html"><![CDATA[Wherever there is a number, there is beauty.  -Proclus  Wherever there are numbers, you're probably dealing with a math-related topic. And wherever there is math, the chances of it being a nightmare for some people are also high.  For many people, math is not their cup of tea.  But if]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Does Kerberos Work? The Authentication Protocol Explained]]></title>
         <id>60dbcc7c27f80207bcdbbcff</id>
@@ -13218,36 +13228,6 @@ GopherChina 倒计时 7 天 Gopher China 大会志愿者招募启动 https://mp.
 招聘专区: https://gocn.vip/jobs]]></summary>
         <author>
             <name>ningxiaofang1o</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源美图 2021 06 20]]></title>
-        <id>http://www.linuxeden.com/?p=86660</id>
-        <link href="http://www.linuxeden.com/a/86660"/>
-        <updated>2021-06-20T04:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Linuxeden开源社区-开源美图 2021 06 20]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel 12代酷睿最大担心解除：Win11优化大小核架构、单核性能大涨]]></title>
-        <id>http://www.linuxeden.com/?p=86652</id>
-        <link href="http://www.linuxeden.com/a/86652"/>
-        <updated>2021-06-20T03:47:28.000Z</updated>
-        <summary type="html"><![CDATA[再过几天，微软就会在6月24日的发布会上推出Windows 11（简称Win11）系统了，界面比Win10改变不少，此前的性能测试也是有喜有忧，多核比Win10还差了。不过对Intel来说，Win11这次解决了一个大问题。 Intel今年底 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLite 3.36.0 发布]]></title>
-        <id>http://www.linuxeden.com/?p=86650</id>
-        <link href="http://www.linuxeden.com/a/86650"/>
-        <updated>2021-06-20T03:34:28.000Z</updated>
-        <summary type="html"><![CDATA[2021-06-18 (3.36.0) Improvement to the EXPLAIN QUERY PLAN output to make it easier to understand. Byte-order marks at th […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>
