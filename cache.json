@@ -4973,6 +4973,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/151085",
+          "author": null,
+          "description": "近日，主推面向 TP 业务实时数据服务平台的 Tapdata （深圳钛铂数据有限公司），宣布完成数千万美元 PreA 及PreA+连续两轮融资，两轮分别由五源资本独家领投及XVC及德联资本联合领投。 Tapdata 成立于2019年9月，由前 MongoDB 大中华区首席架构师，MongoDB中文社区主席唐建法(别名TJ）创建，早期核心员工来自MongoDB、O...",
+          "link": "https://www.oschina.net/news/151085",
+          "publishedOn": "2021-07-19T04:31:38.000Z",
+          "wordCount": 617,
+          "title": "Tapdata 获数千万美元 Pre-A 轮融资，专注实时数据服务平台"
+        },
+        {
           "id": "https://www.oschina.net/question/4518215_2323200",
           "author": null,
           "description": "国际的开源公司在许多细分领域均有十分成功的案例，例如做操作系统的红帽，做容器的Docker，做服务器的NGINX，做大数据的Databricks，做数据库的Elastic……等等",
