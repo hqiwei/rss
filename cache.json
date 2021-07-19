@@ -4624,6 +4624,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=39329",
+          "author": "青小蛙",
+          "description": "nomacs 是一款可以在多个 nomacs 实例间同步浏览的图片浏览器工具，免费、开源，跨平台，最典型应用是在双显示器，为用户同步展示照片。@Appinn 青小蛙楼下有一家看起来比较专业的打印店，里",
+          "link": "https://www.appinn.com/nomacs-image-viewer/",
+          "publishedOn": "2021-07-19T02:03:00.000Z",
+          "wordCount": 1150,
+          "title": "nomacs – 免费、开源，支持同步浏览的图片浏览器"
+        },
+        {
           "id": "https://www.appinn.com/?p=39325",
           "author": "青小蛙",
           "description": "Tager 是一款免费的 macOS 文件夹图标自定义工具，可以很方便的通过右键菜单，更换文件夹图标，可以是文字，也可以是图形。@Appinn 更换文件夹图标这种事情呢，macOS 系统其实是自带的，",
@@ -8372,6 +8381,15 @@
       "feedUrl": "http://www.dayanzai.me/feed",
       "siteUrl": "http://www.dayanzai.me",
       "articles": [
+        {
+          "id": "http://www.dayanzai.me/?p=228",
+          "author": "大眼仔~旭",
+          "description": "Ventoy 中文版是一个开放源代码工具，用于为 ISO/WIM/IMG/EFI 文件创建可启动 USB 驱动 […]",
+          "link": "http://www.dayanzai.me/ventoy.html",
+          "publishedOn": "2021-07-18T16:22:50.000Z",
+          "wordCount": 579,
+          "title": "开源免费启动盘制作工具 Ventoy 1.0.47 中文多语免费版"
+        },
         {
           "id": "http://www.dayanzai.me/?p=53251",
           "author": "大眼仔~旭",

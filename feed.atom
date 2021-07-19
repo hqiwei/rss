@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T01:54:36.843Z</updated>
+    <updated>2021-07-19T02:24:12.086Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nomacs – 免费、开源，支持同步浏览的图片浏览器]]></title>
+        <id>https://www.appinn.com/?p=39329</id>
+        <link href="https://www.appinn.com/nomacs-image-viewer/"/>
+        <updated>2021-07-19T02:03:00.000Z</updated>
+        <summary type="html"><![CDATA[nomacs 是一款可以在多个 nomacs 实例间同步浏览的图片浏览器工具，免费、开源，跨平台，最典型应用是在双显示器，为用户同步展示照片。@Appinn 青小蛙楼下有一家看起来比较专业的打印店，里]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌为 Android、Chrome OS 等重新设计表情符号]]></title>
         <id>https://www.oschina.net/news/151046/google-emoji</id>
@@ -164,6 +174,16 @@
         <summary type="html"><![CDATA[DBeaver 21.1.3 发布，该版本更新内容如下： SQL 编辑器： 修改了输出/执行日志面板布局； 增加了变量/参数管理面板； 修复了 SQL 模板变量的补全； 增加了将查询结果分配给变量的命令； 数据传输： 为表列映射增加了自定义转换功能； 为 MySQL、SQL Server 和 Exasol 增加了参考完整性禁用功能； 列映射页面现在支持重新...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源免费启动盘制作工具 Ventoy 1.0.47 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=228</id>
+        <link href="http://www.dayanzai.me/ventoy.html"/>
+        <updated>2021-07-18T16:22:50.000Z</updated>
+        <summary type="html"><![CDATA[Ventoy 中文版是一个开放源代码工具，用于为 ISO/WIM/IMG/EFI 文件创建可启动 USB 驱动 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
