@@ -6,6 +6,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60f18a9666c61b07d458e2b0",
+          "author": null,
+          "description": "In one sense, recursion is simple. In fact, most of what you need to know about recursion can be summed up in this gif: However, as you go deeper in, it becomes apparent that recursion can be tricky to fully grasp. But it doesn't have to be. We just released",
+          "link": "https://www.freecodecamp.org/news/understanding-recursion-in-programming/",
+          "publishedOn": "2021-07-19T13:56:48.000Z",
+          "wordCount": 18791,
+          "title": "Understanding Recursion in Programming"
+        },
+        {
           "id": "60eef23666c61b07d458d43c",
           "author": null,
           "description": "When it comes to styling your React app, you have a ton of different options. Which do you choose? I have broken down the 5 primary ways you have to choose between when writing CSS in your React app. There is no #1 way to approach to writing styles in",
@@ -1844,6 +1853,15 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=87722",
+          "author": "Editor, Kai",
+          "description": "Inpact-Hardware 援引消息人士的话称，AMD 正计划为基于 Zen 4 核心架构的霄龙 Genoa 服务器处理器、引入具有高带宽缓存（HBM）的衍生版本。尽管此前已听说不少有关 Genoa 处理器的消息，但这却是我们首次听说  […]",
+          "link": "http://www.linuxeden.com/a/87722",
+          "publishedOn": "2021-07-19T13:52:43.000Z",
+          "wordCount": 156,
+          "title": "Zen 4霄龙Genoa或引入HBM缓存 以迎战Sapphire Rapids志强"
+        },
         {
           "id": "http://www.linuxeden.com/?p=87718",
           "author": "Editor, Kai",
@@ -4597,15 +4615,6 @@
           "publishedOn": "2021-06-20T02:29:22.000Z",
           "wordCount": 83,
           "title": "工程师们设计出用于下一代通信的激光驱动半导体开关"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86642",
-          "author": "Editor, Kai",
-          "description": "Debian项目已经宣布推出最新版本Debian 10.10。如同其他的位于小数点后的新版本一样，Debian 10.10并不是Debian的一个主要版本，相反，它是将所有最新的软件打包成一个新的ISO，方便一次性安装Debian，而不需要 […]",
-          "link": "http://www.linuxeden.com/a/86642",
-          "publishedOn": "2021-06-20T02:00:54.000Z",
-          "wordCount": 98,
-          "title": "Debian 10.10发布 包含最新安全更新"
         }
       ]
     },

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T13:17:09.314Z</updated>
+    <updated>2021-07-19T14:08:51.196Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Recursion in Programming]]></title>
+        <id>60f18a9666c61b07d458e2b0</id>
+        <link href="https://www.freecodecamp.org/news/understanding-recursion-in-programming/"/>
+        <updated>2021-07-19T13:56:48.000Z</updated>
+        <summary type="html"><![CDATA[In one sense, recursion is simple. In fact, most of what you need to know about recursion can be summed up in this gif: However, as you go deeper in, it becomes apparent that recursion can be tricky to fully grasp. But it doesn't have to be. We just released]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zen 4霄龙Genoa或引入HBM缓存 以迎战Sapphire Rapids志强]]></title>
+        <id>http://www.linuxeden.com/?p=87722</id>
+        <link href="http://www.linuxeden.com/a/87722"/>
+        <updated>2021-07-19T13:52:43.000Z</updated>
+        <summary type="html"><![CDATA[Inpact-Hardware 援引消息人士的话称，AMD 正计划为基于 Zen 4 核心架构的霄龙 Genoa 服务器处理器、引入具有高带宽缓存（HBM）的衍生版本。尽管此前已听说不少有关 Genoa 处理器的消息，但这却是我们首次听说  […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Canonical通过大流行考验：扭亏为盈、员工数重上500]]></title>
         <id>http://www.linuxeden.com/?p=87718</id>
@@ -13206,16 +13226,6 @@ GopherChina 倒计时 7 天 Gopher China 大会志愿者招募启动 https://mp.
         <link href="http://www.linuxeden.com/a/86646"/>
         <updated>2021-06-20T02:29:22.000Z</updated>
         <summary type="html"><![CDATA[劳伦斯·利弗莫尔国家实验室（LLNL）的工程师们设计了一种新型的激光驱动半导体开关，理论上可以在更高的电压下实现比现有光导器件更高的速度。据研究小组称，这种装置的开发可以使下一代卫星通信系统能够以更快的速度和更远的距离传输更多数据。 LLN […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debian 10.10发布 包含最新安全更新]]></title>
-        <id>http://www.linuxeden.com/?p=86642</id>
-        <link href="http://www.linuxeden.com/a/86642"/>
-        <updated>2021-06-20T02:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Debian项目已经宣布推出最新版本Debian 10.10。如同其他的位于小数点后的新版本一样，Debian 10.10并不是Debian的一个主要版本，相反，它是将所有最新的软件打包成一个新的ISO，方便一次性安装Debian，而不需要 […]]]></summary>
         <author>
             <name>Editor, Kai</name>
         </author>
