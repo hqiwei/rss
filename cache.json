@@ -4991,6 +4991,24 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/151121",
+          "author": null,
+          "description": "报告编号：B6-2021-071601 报告来源：360CERT 报告作者：360CERT 更新日期：2021-07-16 1. 漏洞简述 2021年07月16日，360CERT监测发现国外安全研究员@theflow公开了CVE-2021-22555 Linux Netfilter提权漏洞的分析报告，漏洞编号为CVE-2021-22555，漏洞等级：高危，漏洞评分：7.8。 Linux Netfilter 模块是内核中用于管理...",
+          "link": "https://www.oschina.net/news/151121",
+          "publishedOn": "2021-07-19T08:00:33.000Z",
+          "wordCount": 551,
+          "title": "CVE-2021-22555: Linux Netfilter 本地权限提升漏洞通告"
+        },
+        {
+          "id": "https://www.oschina.net/news/151103/hyperf-2-2-released",
+          "author": null,
+          "description": "Hyperf 2.2 版本发布! 前言 首先感谢所有 Hyperf 的支持者，从发布至今两年的时间里，我们坚持每周发布一个小版本，截止至今已经发布了超过 106 个版本，这是 Hyperf 团队传达对用户坚持和负责任精神最直接的一种方式，我们用行动来说明一切，往后我们仍将一如既往地继续保持 Hyperf 的迭代与维护。 同时我们也很荣幸看到...",
+          "link": "https://www.oschina.net/news/151103/hyperf-2-2-released",
+          "publishedOn": "2021-07-19T06:53:55.000Z",
+          "wordCount": 1102,
+          "title": "Hyperf 2.2 版发布！| 企业级的渐进式 PHP 协程框架"
+        },
+        {
           "id": "https://www.oschina.net/news/151097",
           "author": null,
           "description": "LF AI & Data 基金会是一个正在构建生态系统以维持人工智能（AI）和数据开源项目的开源创新的组织，今天宣布Substra[1]为其最新的孵化项目。 Substra 是一个在合作伙伴之间提供机器学习任务分布式编排的框架，同时保证所有操作的安全可靠的可追溯性。Substra 项目是由OWKIN[2]在 Apache-2.0 许可下发布和开源的。 Substr...",
