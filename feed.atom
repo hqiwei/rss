@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T02:24:12.086Z</updated>
+    <updated>2021-07-19T04:13:11.101Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[什么是 6G，它与 5G 相比如何？]]></title>
+        <id>http://www.dayanzai.me/?p=53262</id>
+        <link href="http://www.dayanzai.me/what-is-6g.html"/>
+        <updated>2021-07-19T03:57:55.000Z</updated>
+        <summary type="html"><![CDATA[虽然 5G 尚未成为主流，尤其是在发展中国家，但我们可能已经看到 6G 将如何超越其现有的网络技术。 这在科技 […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内以开源起家的公司为什么比国际的少？]]></title>
+        <id>https://www.oschina.net/question/4518215_2323200</id>
+        <link href="https://www.oschina.net/question/4518215_2323200"/>
+        <updated>2021-07-19T03:14:00.000Z</updated>
+        <summary type="html"><![CDATA[国际的开源公司在许多细分领域均有十分成功的案例，例如做操作系统的红帽，做容器的Docker，做服务器的NGINX，做大数据的Databricks，做数据库的Elastic……等等]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JVM 锁 bug 导致 G1 GC 挂起问题分析和解决]]></title>
+        <id>https://my.oschina.net/openeuler/blog/5130915</id>
+        <link href="https://my.oschina.net/openeuler/blog/5130915"/>
+        <updated>2021-07-19T02:46:47.000Z</updated>
+        <summary type="html"><![CDATA[本文着重介绍 JVM 中 Monitor 的基本原理，同时演示了在什么情况下会触发该问题。希望通过本文的分析，读者能够了解到内存序对性能、正确性的影响，在并发编程时更加仔细。]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[go-carbon 1.4.3 版本发布，新增对 json.UnmarshalJSON() 的支持]]></title>
+        <id>https://gocn.vip/topics/12358</id>
+        <link href="https://gocn.vip/topics/12358"/>
+        <updated>2021-07-19T02:28:21.000Z</updated>
+        <summary type="html"><![CDATA[carbon 是一个轻量级、语义化、对开发者友好的 Golang 时间处理库，支持链式调用、农历和 gorm、xorm 等主流 orm
+如果您觉得不错，请给个 star 吧
+github:github.com/golang-module/carbon
+gitee:gitee.com/go-package/carbon
+更新日志
+优化 IsZero() 方法的判断逻辑
+修复 Microsecond() 方法获取毫秒数错误的 bug
+修复 SetMicrosecond() 方法设置毫秒数错误的 bug
+修复 Lunar().Festival() 方法不是任何节气时 panic 的 bug
+修复 Format() 方法无法原样解析的 bug
+修复 ParseByFormat() 方法无法原样解析的 bug
+使用 github.com/stretchr/testify/assert 库替代原生 testing 库
+增加单元测试覆盖场景，单元测试覆盖率提升到 96%
+统一错误格式，修改部分错误文案
+Lunar() 方法实现 Stringer 接口，可以直接作为字符串输出农历年月日，同 Lunar().ToString()
+新增 CreateFromTimestamp() 方法对时间戳是 0 的判断
+新增 Lunar().ToString() 方法获取农历年月日，如二零二零年六月十六
+新增对 json.UnmarshalJSON() 的支持]]></summary>
+        <author>
+            <name>gouguoyin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nomacs – 免费、开源，支持同步浏览的图片浏览器]]></title>
         <id>https://www.appinn.com/?p=39329</id>
@@ -174,6 +231,26 @@
         <summary type="html"><![CDATA[DBeaver 21.1.3 发布，该版本更新内容如下： SQL 编辑器： 修改了输出/执行日志面板布局； 增加了变量/参数管理面板； 修复了 SQL 模板变量的补全； 增加了将查询结果分配给变量的命令； 数据传输： 为表列映射增加了自定义转换功能； 为 MySQL、SQL Server 和 Exasol 增加了参考完整性禁用功能； 列映射页面现在支持重新...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文档内容搜索工具 AnyTXT Searcher 1.2.540 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=12105</id>
+        <link href="http://www.dayanzai.me/anytxt-searcher.html"/>
+        <updated>2021-07-18T16:27:43.000Z</updated>
+        <summary type="html"><![CDATA[文档内容搜索工具 AnyTXT Searcher 中文版由大眼仔旭（www.dayanzai.me）发布。An […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文件/文件夹同步工具 Echosync 6.0.1.1 中文多语免费版]]></title>
+        <id>http://www.dayanzai.me/?p=3827</id>
+        <link href="http://www.dayanzai.me/echosync.html"/>
+        <updated>2021-07-18T16:25:36.000Z</updated>
+        <summary type="html"><![CDATA[文件/文件夹同步工具 Echosync 中文版下载由大眼仔旭（www.dayanzai.me）发布。Echos […]]]></summary>
+        <author>
+            <name>大眼仔~旭</name>
         </author>
     </entry>
     <entry>
@@ -13074,46 +13151,6 @@ GopherChina 倒计时 7 天 Gopher China 大会志愿者招募启动 https://mp.
         <summary type="html"><![CDATA[之前在学习 React Hooks 的过程中，看到一篇外网文章，通过 Hooks 来请求数据，并将这段逻辑抽象成一个新的 Hooks 给其他组件复用，我也在我的博客里翻译了一下：《在 React Hooks 中如何请求数据？》，感兴趣可以看看。虽然是去年的文章，在阅读之后一下子就掌握了 Hooks 的使用方式，而且数据请求是在业务代码中很常用...]]></summary>
         <author>
             <name>OSCHINA 社区最新新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日文章精选 2021 06 19]]></title>
-        <id>http://www.linuxeden.com/?p=86638</id>
-        <link href="http://www.linuxeden.com/a/86638"/>
-        <updated>2021-06-19T15:02:29.000Z</updated>
-        <summary type="html"><![CDATA[Apache Rocketmq 4.9.0发布 使用 cpulimit 来释放你的 CPU Linux Mint 20.2测试版ISO现在可以下载 硬核观察 #306 国产的全功能 Linux 平板电脑 JingPad A1 众筹成功 云原 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Rocketmq 4.9.0发布]]></title>
-        <id>http://www.linuxeden.com/?p=86634</id>
-        <link href="http://www.linuxeden.com/a/86634"/>
-        <updated>2021-06-19T14:59:33.000Z</updated>
-        <summary type="html"><![CDATA[rocketmq-all-4.9.0-bin-release.zip           2021-06-15 06:54   17M rocketmq-all-4.9.0-bin-release.zip.asc       2021-06 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 cpulimit 来释放你的 CPU]]></title>
-        <id>http://www.linuxeden.com/?p=86631</id>
-        <link href="http://www.linuxeden.com/a/86631"/>
-        <updated>2021-06-19T14:34:58.000Z</updated>
-        <summary type="html"><![CDATA[在 Linux 系统上管理系统资源的推荐工具是 cgroups。虽然在可以调整的限制方面（CPU、内存、磁盘 I/O、网络等）非常强大，但配置 cgroups 并不简单。nice 命令从 1973 年起就可以使用了。但它只是调整在一个处理器 […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Mint 20.2测试版ISO现在可以下载]]></title>
-        <id>http://www.linuxeden.com/?p=86628</id>
-        <link href="http://www.linuxeden.com/a/86628"/>
-        <updated>2021-06-19T14:31:21.000Z</updated>
-        <summary type="html"><![CDATA[您现在可以从Cinnamon、MATE或Xfce三个版本中选择并下载Linux Mint 20.2测试版。Linux Mint 20.2的主要更新之一是更新管理器以及它处理和提醒用户更新的方式。在Linux Mint系统中，所有安装的软件， […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
         </author>
     </entry>
 </feed>
