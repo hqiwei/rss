@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T14:08:51.196Z</updated>
+    <updated>2021-07-19T15:10:42.399Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Does Kerberos Work? The Authentication Protocol Explained]]></title>
+        <id>60dbcc7c27f80207bcdbbcff</id>
+        <link href="https://www.freecodecamp.org/news/how-does-kerberos-work-authentication-protocol/"/>
+        <updated>2021-07-19T14:34:59.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will learn what Kerberos is, how it works, and the various pros and cons of using this authentication protocol.   What is Kerberos?Have you ever wondered what happens when you type in your username and password at work, and magically have access to file servers, email]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日文章精选 2021 07 19]]></title>
+        <id>http://www.linuxeden.com/?p=87728</id>
+        <link href="http://www.linuxeden.com/a/87728"/>
+        <updated>2021-07-19T14:20:59.000Z</updated>
+        <summary type="html"><![CDATA[Vant 3.1.4 发布 Zen 4霄龙Genoa或引入HBM缓存 以迎战Sapphire Rapids志强 从实际代码开始编写好的示例 Canonical通过大流行考验：扭亏为盈、员工数重上500 用于 Web 前端开发的 9 个 Ja […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vant 3.1.4 发布]]></title>
+        <id>http://www.linuxeden.com/?p=87726</id>
+        <link href="http://www.linuxeden.com/a/87726"/>
+        <updated>2021-07-19T14:14:46.000Z</updated>
+        <summary type="html"><![CDATA[Feature ActionSheet: 新增 before-close 属性 #9068 Cascader: 新增 option 插槽 #9036 Cascader: 优化光标展示 #9032 Popup: 新增 before-close […]]]></summary>
+        <author>
+            <name>Editor, Kai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Recursion in Programming]]></title>
         <id>60f18a9666c61b07d458e2b0</id>
@@ -13216,16 +13246,6 @@ GopherChina 倒计时 7 天 Gopher China 大会志愿者招募启动 https://mp.
         <link href="http://www.linuxeden.com/a/86650"/>
         <updated>2021-06-20T03:34:28.000Z</updated>
         <summary type="html"><![CDATA[2021-06-18 (3.36.0) Improvement to the EXPLAIN QUERY PLAN output to make it easier to understand. Byte-order marks at th […]]]></summary>
-        <author>
-            <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工程师们设计出用于下一代通信的激光驱动半导体开关]]></title>
-        <id>http://www.linuxeden.com/?p=86646</id>
-        <link href="http://www.linuxeden.com/a/86646"/>
-        <updated>2021-06-20T02:29:22.000Z</updated>
-        <summary type="html"><![CDATA[劳伦斯·利弗莫尔国家实验室（LLNL）的工程师们设计了一种新型的激光驱动半导体开关，理论上可以在更高的电压下实现比现有光导器件更高的速度。据研究小组称，这种装置的开发可以使下一代卫星通信系统能够以更快的速度和更远的距离传输更多数据。 LLN […]]]></summary>
         <author>
             <name>Editor, Kai</name>
         </author>
