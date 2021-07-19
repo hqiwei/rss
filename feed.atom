@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hqiwei.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T00:31:37.741Z</updated>
+    <updated>2021-07-19T01:54:36.843Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hqiwei.github.io/rss/index.html"/>
     <link rel="self" href="https://hqiwei.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[谷歌为 Android、Chrome OS 等重新设计表情符号]]></title>
+        <id>https://www.oschina.net/news/151046/google-emoji</id>
+        <link href="https://www.oschina.net/news/151046/google-emoji"/>
+        <updated>2021-07-19T00:32:55.000Z</updated>
+        <summary type="html"><![CDATA[为了庆祝世界表情符号日，谷歌方面宣布对 992 个表情符号进行重新设计，旨在让表情符号更加真实、通用以及易懂。 官方表示，所有的这些新设计的表情符号将随今年秋季 Android 12 的发布一起到来。并且为了让用户更容易看到表情符号，不管你的手机有多旧，也不管你最喜欢的消息应用程序何时更新。从 Android 12 开始，所有...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canonical 在疫情影响下逆势成长，2020 年实现扭亏为盈]]></title>
+        <id>https://www.oschina.net/news/151045/canonical-2020-financial-report</id>
+        <link href="https://www.oschina.net/news/151045/canonical-2020-financial-report"/>
+        <updated>2021-07-19T00:30:22.000Z</updated>
+        <summary type="html"><![CDATA[得益于 Canonical 的员工遍布全球各地，他们大部分员工在疫情开始之前就开始处于远程办公的状态了，再加上蓬勃发展的 Linux 生态系统，Canonical 在 2020 年表现非常优异，从 2019 年的亏损摇身一变，在 2020 年实现了盈利，公司员工人数也重新回到 500 人以上。 Canonical Group 最近公布了他们截止 2020 年 12 月 31 日...]]></summary>
+        <author>
+            <name>OSCHINA 社区最新新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源美图 2021 07 19]]></title>
         <id>http://www.linuxeden.com/?p=87715</id>
@@ -13074,39 +13094,6 @@ GopherChina 倒计时 7 天 Gopher China 大会志愿者招募启动 https://mp.
         <summary type="html"><![CDATA[您现在可以从Cinnamon、MATE或Xfce三个版本中选择并下载Linux Mint 20.2测试版。Linux Mint 20.2的主要更新之一是更新管理器以及它处理和提醒用户更新的方式。在Linux Mint系统中，所有安装的软件， […]]]></summary>
         <author>
             <name>Editor, Kai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoCN 每日新闻 (2021-06-19)]]></title>
-        <id>https://gocn.vip/topics/12219</id>
-        <link href="https://gocn.vip/topics/12219"/>
-        <updated>2021-06-19T13:06:30.000Z</updated>
-        <summary type="html"><![CDATA[Golang 的自然语言处理包   https://pkg.go.dev/github.com/james-bowman/nlp
-
-把 vue.js 应用打包进 golang   https://hackandsla.sh/posts/2021-06-18-embed-vuejs-in-go/
-
-一个高性能 http benchemark 工具拥有实时的 web ui 和命令行展示 https://github.com/six-ddc/plow
-
- 类似于 curl 但是是用于 grpc 的，跟 grpc server 交互的命令行工具 https://github.com/fullstorydev/grpcurl
-
- 一个商业级别的构建部署监控平台  https://github.com/erda-project/erda
-
-
-
-
-
-GopherChina 倒计时 8 天 Gopher China 大会志愿者招募启动 https://mp.weixin.qq.com/s/9WmI9IlB9xZDBXPjETUOkQ
-
-
-编辑: 阿章 
-
-
-订阅新闻: http://tinyletter.com/gocn
-
-
-招聘专区: https://gocn.vip/jobs]]></summary>
-        <author>
-            <name>azhang</name>
         </author>
     </entry>
 </feed>
