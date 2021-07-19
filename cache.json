@@ -677,6 +677,15 @@
       "siteUrl": "https://gocn.vip/",
       "articles": [
         {
+          "id": "https://gocn.vip/topics/12360",
+          "author": "kerwin",
+          "description": "需求是在 golang 项目中调用一个 *.a 后缀的文件，需要引用当中的结构体（需要声明 C 类型）和某一私有方法。我的做法如下：\n项目根目录在 $Gopath/src/目录下。\n已将库文件 libalgorithm.a 拷贝至 $Gopath/pkg/linux_amd64/下。\n项目根目录下 pkg/algorithm 文件下有以下文件：\nalgorithm.go libalgorithm.a\n\n其中 algorithm.go：\npackage algorithm\nimport _ \"unsafe\"\nimport \"C\"\n/*\n#cgo LDFLAGS: ${SRCDIR}/libalgorithm.a\n#include <stdlib.h>\n#include <stdio.h>\n#include <algorithm.h>\n */\nfunc algorithm(param1 int32, param2 float64, param3 int32) *CalcResult\n//go:linkname Calculate algorithm\nfunc Calculate(param1 int32, param2 float64, param3 int32) *CalcResult\n\ntype CalcResult struct {\n    W  C.double\n    B  C .double\n    F  C .double\n    S  C .double\n    V  C .double\n    M  C .double\n}\n\n编译报错提示找不到 algorithm 方法。。。（然而 algorithm 库中实现了该方法），也试过在该 go 文件中直接 C.algorithm 调用，依然调用失败。本人刚接触 golang 两个月，发现网上相关资源很少，第一次发帖请教一下各位大佬",
+          "link": "https://gocn.vip/topics/12360",
+          "publishedOn": "2021-07-19T12:16:44.000Z",
+          "wordCount": 165,
+          "title": "关于 Golang 项目中引用 C 编译的静态库文件的问题"
+        },
+        {
           "id": "https://gocn.vip/topics/12359",
           "author": "cuteLittleDevil",
           "description": "GoCN 每日新闻 (2021-07-19)\n面试官：小松子知道什么是内联函数吗？ https://mp.weixin.qq.com/s/t4-LXNF8l4OWM3jiqizdew\n\n一文搞懂 Go 语言的 plugin https://tonybai.com/2021/07/19/understand-go-plugin\n\nGo 程序内存分配过多？试试本文的方法 https://mp.weixin.qq.com/s/nQMgB76ecuF86TtO1NjiOA\n\n字节跳动开发的高性能非阻塞 I/O 网络框架，专注于 RPC 场景 https://github.com/cloudwego/netpoll\n\nGort 是为 chatops 从头设计的聊天机器人框架 https://github.com/getgort/gort\n\n\n\n\n编辑: CDS\n订阅新闻: http://tinyletter.com/gocn \n招聘专区: https://gocn.vip/jobs\n\nGoCN 归档: https://gocn.vip/topics/12359",
@@ -1835,6 +1844,15 @@
       "feedUrl": "http://www.linuxeden.com/feed",
       "siteUrl": "http://www.linuxeden.com",
       "articles": [
+        {
+          "id": "http://www.linuxeden.com/?p=87718",
+          "author": "Editor, Kai",
+          "description": "早在 COVID-19 大流行之前，Canonical 就已经拥有一支分布式的员工队伍。于是在 Linux 生态持续蓬勃发展的大环境下，这家知名 Linux 发行版（Ubuntu）制造商更是在 2020 年交出了相当出色的业绩。Phoron […]",
+          "link": "http://www.linuxeden.com/a/87718",
+          "publishedOn": "2021-07-19T13:04:14.000Z",
+          "wordCount": 156,
+          "title": "Canonical通过大流行考验：扭亏为盈、员工数重上500"
+        },
         {
           "id": "http://www.linuxeden.com/?p=87715",
           "author": "Editor, Kai",
@@ -4588,15 +4606,6 @@
           "publishedOn": "2021-06-20T02:00:54.000Z",
           "wordCount": 98,
           "title": "Debian 10.10发布 包含最新安全更新"
-        },
-        {
-          "id": "http://www.linuxeden.com/?p=86640",
-          "author": "Editor, Kai",
-          "description": "FUSE mount Fix a deletion bug #2138 introduced in 2.53. This would cause the file chunks are not actually deleted, which […]",
-          "link": "http://www.linuxeden.com/a/86640",
-          "publishedOn": "2021-06-20T01:09:43.000Z",
-          "wordCount": 143,
-          "title": "Seaweedfs 2.54 发布"
         }
       ]
     },
@@ -8373,42 +8382,6 @@
           "publishedOn": "2021-06-20T23:01:29.000Z",
           "wordCount": 546,
           "title": "Debian 10.10 发布"
-        },
-        {
-          "id": "https://www.oschina.net/news/146746/windows-11-biglittle-x86-cpus",
-          "author": null,
-          "description": "日前，在 build 21996.1 的 Windows 11 ISO 泄露后，Hot Hardware 进行了一项新的测试，以寻找对 Windows 11调度程序所做的改变，以及它能如何应对英特尔即将推出的 Big-Bigger Alder Lake CPU。值得一提的是，AMD 的下一代 Ryzen 处理器或许也有望采用 big.LITTLE 的混合架构设计。 由于测试时 Alder Lake 尚未发布，所...",
-          "link": "https://www.oschina.net/news/146746/windows-11-biglittle-x86-cpus",
-          "publishedOn": "2021-06-20T01:04:34.000Z",
-          "wordCount": 572,
-          "title": "测试：Windows 11 提升了 big.LITTLE x86 CPU 的性能"
-        },
-        {
-          "id": "https://www.oschina.net/news/146742",
-          "author": null,
-          "description": "导语 TencentOS Server (又名 Tencent Linux 简称 Tlinux) 是腾讯针对云的场景研发的 Linux 操作系统，提供了专门的功能特性和性能优化，为云服务器实例中的应用程序提供高性能，且更加安全可靠的运行环境。Tencent Linux 使用免费，在 CentOS（及兼容发行版）上开发的应用程序可直接在 Tencent Linux 上运行，用户还可持...",
-          "link": "https://www.oschina.net/news/146742",
-          "publishedOn": "2021-06-20T00:52:52.000Z",
-          "wordCount": 1055,
-          "title": "腾讯 TencentOS 十年云原生的迭代演进之路"
-        },
-        {
-          "id": "https://www.oschina.net/news/146740/glibc-gnulib-fsf-copyright",
-          "author": null,
-          "description": "GNU C 标准函数库（glibc）和 GNU 可移植性库（gnulib）正探讨是否要紧随 GNU Compiler Collection (GCC) 的步伐取消版权转让的要求，使自己与陷入风波的自由软件基金会（FSF）脱离关系。 早在本月月初 GCC 就已经做出决定，不再要求将版权转让给自由软件基金会。我们也曾针对这一事件做出了报道（点击查看文章）。 与 ...",
-          "link": "https://www.oschina.net/news/146740/glibc-gnulib-fsf-copyright",
-          "publishedOn": "2021-06-20T00:32:17.000Z",
-          "wordCount": 538,
-          "title": "glibc 和 gnulib 希望切断与自由软件基金会的版权联系"
-        },
-        {
-          "id": "https://www.oschina.net/news/146739/confluent-ipo-8-bln-valuation",
-          "author": null,
-          "description": "基于 Apache Kafka 的商业公司 Confluent 于近日确定了其首次公开募股的条款，目标是在美国首次公开募股中获得约 83 亿美元的估值。路透社消息称，该公司日前提交的一份监管文件表明，其计划发行 2300 万股股票，定价范围为每股 29 至 33 美元，希望筹集至多 7.59 亿美元。 Confluent 曾于今年 4 月秘密申请 IPO。该公司...",
-          "link": "https://www.oschina.net/news/146739/confluent-ipo-8-bln-valuation",
-          "publishedOn": "2021-06-20T00:17:16.000Z",
-          "wordCount": 550,
-          "title": "Confluent 拟在 IPO 时获得 83 亿美元估值"
         }
       ]
     },

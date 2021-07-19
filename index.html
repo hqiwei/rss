@@ -69,6 +69,17 @@
           <section class="articles-per-source">
             <article>
               <details class="article-expander">
+                <summary class="article-expander__title">Canonical通过大流行考验：扭亏为盈、员工数重上500</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://www.linuxeden.com/a/87718">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>早在 COVID-19 大流行之前，Canonical 就已经拥有一支分布式的员工队伍。于是在 Linux 生态持续蓬勃发展的大环境下，这家知名 Linux 发行版（Ubuntu）制造商更是在 2020 年交出了相当出色的业绩。Phoron […]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
                 <summary class="article-expander__title">开源美图 2021 07 19</summary>
                 <a class="article-summary-link article-summary-box-outer" href="http://www.linuxeden.com/a/87715">
                   <div class="article-summary-box-inner">
@@ -139,6 +150,46 @@
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://gocn.vip/">GoCN社区</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">关于 Golang 项目中引用 C 编译的静态库文件的问题</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gocn.vip/topics/12360">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>需求是在 golang 项目中调用一个 *.a 后缀的文件，需要引用当中的结构体（需要声明 C 类型）和某一私有方法。我的做法如下：
+项目根目录在 $Gopath/src/目录下。
+已将库文件 libalgorithm.a 拷贝至 $Gopath/pkg/linux_amd64/下。
+项目根目录下 pkg/algorithm 文件下有以下文件：
+algorithm.go libalgorithm.a
+
+其中 algorithm.go：
+package algorithm
+import _ &quot;unsafe&quot;
+import &quot;C&quot;
+/*
+#cgo LDFLAGS: ${SRCDIR}/libalgorithm.a
+#include 
+#include 
+#include 
+ */
+func algorithm(param1 int32, param2 float64, param3 int32) *CalcResult
+//go:linkname Calculate algorithm
+func Calculate(param1 int32, param2 float64, param3 int32) *CalcResult
+
+type CalcResult struct {
+    W  C.double
+    B  C .double
+    F  C .double
+    S  C .double
+    V  C .double
+    M  C .double
+}
+
+编译报错提示找不到 algorithm 方法。。。（然而 algorithm 库中实现了该方法），也试过在该 go 文件中直接 C.algorithm 调用，依然调用失败。本人刚接触 golang 两个月，发现网上相关资源很少，第一次发帖请教一下各位大佬</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">GoCN 每日新闻 (2021-07-19)</summary>
@@ -15324,17 +15375,6 @@ func TestKafkaProducter(t *testing.T) {
                 </a>
               </details>
             </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Seaweedfs 2.54 发布</summary>
-                <a class="article-summary-link article-summary-box-outer" href="http://www.linuxeden.com/a/86640">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>FUSE mount Fix a deletion bug #2138 introduced in 2.53. This would cause the file chunks are not actually deleted, which […]</span>
-                  </div>
-                </a>
-              </details>
-            </article>
         </section>
       </li>
       <li class="source">
@@ -15392,57 +15432,13 @@ GopherChina 倒计时 7 天 Gopher China 大会志愿者招募启动 https://mp.
                 </a>
               </details>
             </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">测试：Windows 11 提升了 big.LITTLE x86 CPU 的性能</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.oschina.net/news/146746/windows-11-biglittle-x86-cpus">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>日前，在 build 21996.1 的 Windows 11 ISO 泄露后，Hot Hardware 进行了一项新的测试，以寻找对 Windows 11调度程序所做的改变，以及它能如何应对英特尔即将推出的 Big-Bigger Alder Lake CPU。值得一提的是，AMD 的下一代 Ryzen 处理器或许也有望采用 big.LITTLE 的混合架构设计。 由于测试时 Alder Lake 尚未发布，所...</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">腾讯 TencentOS 十年云原生的迭代演进之路</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.oschina.net/news/146742">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(4 min)</span>
-                    <span>导语 TencentOS Server (又名 Tencent Linux 简称 Tlinux) 是腾讯针对云的场景研发的 Linux 操作系统，提供了专门的功能特性和性能优化，为云服务器实例中的应用程序提供高性能，且更加安全可靠的运行环境。Tencent Linux 使用免费，在 CentOS（及兼容发行版）上开发的应用程序可直接在 Tencent Linux 上运行，用户还可持...</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">glibc 和 gnulib 希望切断与自由软件基金会的版权联系</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.oschina.net/news/146740/glibc-gnulib-fsf-copyright">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>GNU C 标准函数库（glibc）和 GNU 可移植性库（gnulib）正探讨是否要紧随 GNU Compiler Collection (GCC) 的步伐取消版权转让的要求，使自己与陷入风波的自由软件基金会（FSF）脱离关系。 早在本月月初 GCC 就已经做出决定，不再要求将版权转让给自由软件基金会。我们也曾针对这一事件做出了报道（点击查看文章）。 与 ...</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Confluent 拟在 IPO 时获得 83 亿美元估值</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.oschina.net/news/146739/confluent-ipo-8-bln-valuation">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>基于 Apache Kafka 的商业公司 Confluent 于近日确定了其首次公开募股的条款，目标是在美国首次公开募股中获得约 83 亿美元的估值。路透社消息称，该公司日前提交的一份监管文件表明，其计划发行 2300 万股股票，定价范围为每股 29 至 33 美元，希望筹集至多 7.59 亿美元。 Confluent 曾于今年 4 月秘密申请 IPO。该公司...</span>
-                  </div>
-                </a>
-              </details>
-            </article>
         </section>
       </li>
     </ul>
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-07-19T12:14:24.590Z">2021-07-19T12:14:24.590Z</time>
+    <time id="build-timestamp" datetime="2021-07-19T13:17:09.273Z">2021-07-19T13:17:09.273Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.0</a></span>
   </footer>
   <script src="index.js"></script>
