@@ -5072,6 +5072,15 @@
       "siteUrl": "https://www.oschina.net/news/rss",
       "articles": [
         {
+          "id": "https://www.oschina.net/news/151236/ms-cbl-mariner",
+          "author": null,
+          "description": "微软近日开源了一款内部使用的 Linux 发行版——CBL-Mariner（CBL 即 Common Base Linux）。CBL-Mariner 不是桌面 Linux 而是服务器端 Linux，它被用于微软的云基础设施以及边缘产品和服务。CBL-Mariner 旨在为这些设备和服务提供一个一致的平台，并增强微软在 Linux 更新方面与时俱进的能力。 CBL-Mariner 的设计理念是...",
+          "link": "https://www.oschina.net/news/151236/ms-cbl-mariner",
+          "publishedOn": "2021-07-20T01:05:43.000Z",
+          "wordCount": 503,
+          "title": "微软开源内部 Linux 发行版 CBL-Mariner"
+        },
+        {
           "id": "https://www.oschina.net/news/151234/fedora-35-approved-new-issues",
           "author": null,
           "description": "邮件列表显示，本周 Fedora 工程和指导委员会（Fedora Engineering and Steering Committee）FESCo 一致通过了大量 Fedora 35 新提案。Fedora 35 预计将于今年 10 月发布，目前通过的最新提案包括： 将 Golang 包 rebase 到即将发布的 1.17 版本，包括所有依赖包的重建。Golang 1.17 计划于 2021 年 8 月发布，如果届时发...",
